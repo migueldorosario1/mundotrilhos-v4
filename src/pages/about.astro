@@ -1,0 +1,451 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<BaseHead title={`Quem Somos & Editorial | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Outfit:wght@400;500;600;700&display=swap');
+
+			main {
+				max-width: 1100px;
+				margin: 0 auto;
+				padding: 0 1.5rem 4rem 1.5rem;
+				font-family: 'Outfit', sans-serif;
+			}
+
+			/* Hero Banner */
+			.hero-banner {
+				background: linear-gradient(135deg, #111827, #1f2937);
+				color: white;
+				padding: 4.5rem 2.5rem;
+				border-radius: 24px;
+				text-align: center;
+				margin-top: 2rem;
+				margin-bottom: 3.5rem;
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+				border: 1px solid rgba(255, 255, 255, 0.05);
+				position: relative;
+				overflow: hidden;
+			}
+
+			.hero-banner::before {
+				content: '';
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				background: linear-gradient(to right, rgba(211, 84, 0, 0.1) 0%, transparent 100%);
+				pointer-events: none;
+			}
+
+			.hero-badge {
+				display: inline-block;
+				background: rgba(211, 84, 0, 0.15);
+				border: 1px solid rgba(211, 84, 0, 0.3);
+				color: #e67e22;
+				padding: 6px 16px;
+				border-radius: 30px;
+				font-size: 0.85rem;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 2px;
+				margin-bottom: 1.5rem;
+			}
+
+			.hero-title {
+				font-family: 'Montserrat', sans-serif;
+				font-size: 2.75rem;
+				font-weight: 800;
+				line-height: 1.2;
+				margin: 0 0 1rem 0;
+				letter-spacing: -1px;
+				color: #ffffff;
+			}
+
+			.hero-subtitle {
+				font-size: 1.25rem;
+				color: rgba(255, 255, 255, 0.8);
+				max-width: 700px;
+				margin: 0 auto;
+				line-height: 1.6;
+				font-weight: 400;
+			}
+
+			/* Container Two Column */
+			.layout-grid {
+				display: grid;
+				grid-template-columns: 7fr 5fr;
+				gap: 3.5rem;
+				margin-bottom: 4rem;
+			}
+
+			@media (max-width: 900px) {
+				.layout-grid {
+					grid-template-columns: 1fr;
+					gap: 3rem;
+				}
+			}
+
+			/* Content Styling */
+			.section-title {
+				font-family: 'Montserrat', sans-serif;
+				font-size: 2rem;
+				font-weight: 800;
+				margin-bottom: 1.5rem;
+				color: #1e293b;
+				letter-spacing: -0.5px;
+				position: relative;
+				padding-bottom: 0.5rem;
+			}
+
+			.section-title::after {
+				content: '';
+				position: absolute;
+				left: 0;
+				bottom: 0;
+				width: 50px;
+				height: 4px;
+				background: #d35400;
+				border-radius: 2px;
+			}
+
+			.lead-paragraph {
+				font-size: 1.2rem;
+				line-height: 1.8;
+				color: #334155;
+				margin-bottom: 1.5rem;
+				font-weight: 500;
+			}
+
+			.standard-paragraph {
+				font-size: 1.05rem;
+				line-height: 1.75;
+				color: #475569;
+				margin-bottom: 1.5rem;
+			}
+
+			.highlight-box {
+				background: rgba(243, 156, 18, 0.05);
+				border-left: 4px solid #d35400;
+				padding: 1.75rem;
+				border-radius: 0 12px 12px 0;
+				margin: 2rem 0;
+			}
+
+			.highlight-box p {
+				margin: 0;
+				font-size: 1.05rem;
+				line-height: 1.75;
+				color: #1e293b;
+				font-weight: 500;
+			}
+
+			/* Sidebar (Quem Somos / Miguel) */
+			.sidebar-card {
+				background: white;
+				border-radius: 20px;
+				padding: 2.5rem;
+				border: 1px solid rgba(0, 0, 0, 0.06);
+				box-shadow: 0 10px 30px rgba(0, 0, 0, 0.03);
+			}
+
+			.profile-title {
+				font-family: 'Montserrat', sans-serif;
+				font-size: 1.35rem;
+				font-weight: 700;
+				color: #1e293b;
+				margin: 0 0 0.5rem 0;
+			}
+
+			.profile-role {
+				color: #d35400;
+				font-weight: 600;
+				font-size: 0.95rem;
+				text-transform: uppercase;
+				letter-spacing: 1px;
+				margin-bottom: 1.25rem;
+			}
+
+			.profile-divider {
+				height: 1px;
+				background: rgba(0, 0, 0, 0.08);
+				margin: 1.5rem 0;
+			}
+
+			/* Columns / Sub-items Grid */
+			.columns-section {
+				margin-top: 5rem;
+			}
+
+			.columns-grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 2rem;
+				margin-top: 2rem;
+			}
+
+			@media (max-width: 650px) {
+				.columns-grid {
+					grid-template-columns: 1fr;
+				}
+			}
+
+			.column-card {
+				background: #ffffff;
+				border: 1px solid rgba(0, 0, 0, 0.05);
+				border-radius: 16px;
+				padding: 1.75rem;
+				box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);
+				transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+			}
+
+			.column-card:hover {
+				transform: translateY(-5px);
+				border-color: rgba(211, 84, 0, 0.2);
+				box-shadow: 0 12px 25px rgba(211, 84, 0, 0.08);
+			}
+
+			.column-icon-wrapper {
+				width: 48px;
+				height: 48px;
+				border-radius: 12px;
+				background: rgba(211, 84, 0, 0.1);
+				color: #d35400;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				font-size: 1.5rem;
+				margin-bottom: 1.25rem;
+			}
+
+			.column-card-title {
+				font-family: 'Montserrat', sans-serif;
+				font-size: 1.2rem;
+				font-weight: 700;
+				color: #1e293b;
+				margin: 0 0 0.75rem 0;
+			}
+
+			.column-card-desc {
+				font-size: 0.95rem;
+				color: #64748b;
+				line-height: 1.6;
+				margin: 0;
+			}
+
+			/* Twin projects banner */
+			.twin-banner {
+				margin-top: 4.5rem;
+				background: linear-gradient(90deg, #f8fafc, #f1f5f9);
+				border: 1px solid rgba(0, 0, 0, 0.05);
+				border-radius: 20px;
+				padding: 2.25rem;
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				gap: 2rem;
+			}
+
+			@media (max-width: 768px) {
+				.twin-banner {
+					flex-direction: column;
+					text-align: center;
+				}
+			}
+
+			.twin-info {
+				max-width: 600px;
+			}
+
+			.twin-badge {
+				background: #2c3e50;
+				color: white;
+				padding: 4px 10px;
+				border-radius: 6px;
+				font-size: 0.75rem;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 1px;
+				display: inline-block;
+				margin-bottom: 0.75rem;
+			}
+
+			.twin-title {
+				font-family: 'Montserrat', sans-serif;
+				font-size: 1.4rem;
+				font-weight: 800;
+				color: #1e293b;
+				margin: 0 0 0.5rem 0;
+			}
+
+			.twin-desc {
+				font-size: 0.95rem;
+				color: #475569;
+				margin: 0;
+				line-height: 1.6;
+			}
+
+			.twin-button {
+				display: inline-block;
+				background: #2c3e50;
+				color: #ffffff;
+				text-decoration: none;
+				padding: 0.75rem 1.75rem;
+				border-radius: 10px;
+				font-weight: 600;
+				font-size: 0.95rem;
+				transition: background 0.2s ease;
+				white-space: nowrap;
+			}
+
+			.twin-button:hover {
+				background: #1e272e;
+				color: #ffffff;
+			}
+
+			/* Editorial Quote */
+			.editorial-blockquote {
+				font-family: 'Outfit', sans-serif;
+				font-style: italic;
+				font-size: 1.35rem;
+				line-height: 1.7;
+				color: #1e293b;
+				border-left: 5px solid #d35400;
+				padding-left: 1.5rem;
+				margin: 2.25rem 0;
+				font-weight: 400;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- Hero Banner -->
+			<div class="hero-banner">
+				<span class="hero-badge">Manifesto & Identidade</span>
+				<h1 class="hero-title">Os Caminhos da Modernidade sobre Trilhos</h1>
+				<p class="hero-subtitle">Mundo Trilhos é o portal de referência em infraestrutura, mobilidade metropolitana, ferrovias de carga e a fronteira tecnológica do desenvolvimento ferroviário.</p>
+			</div>
+
+			<div class="layout-grid">
+				<!-- Editorial Column -->
+				<div>
+					<h2 class="section-title">Editorial: Os Trilhos da Integração Nacional</h2>
+					
+					<p class="lead-paragraph">
+						O transporte ferroviário não pertence à nostalgia das ferrovias desativadas do século passado; ele constitui a infraestrutura máxima do desenvolvimento e da soberania no século XXI.
+					</p>
+
+					<p class="standard-paragraph">
+						Durante décadas, o Brasil negligenciou suas vias de ferro, optando por um modelo rodoviário que gerou distorções logísticas brutais, encareceu a produção nacional e alienou a sociedade de um transporte rápido, sustentável e seguro. Entender a ferrovia hoje significa compreender o principal vetor econômico que redesenha as nações desenvolvidas.
+					</p>
+
+					<div class="editorial-blockquote">
+						"O renascimento ferroviário global é o segredo mais evidente da geopolítica moderna. Onde há trilhos de alta capacidade, há crescimento econômico acelerado, descentralização urbana e dignidade na mobilidade humana."
+					</div>
+
+					<p class="standard-paragraph">
+						A pergunta mais frequente em debates internacionais — "qual é o segredo do crescimento massivo da China?" — encontra sua resposta mais clara nos canteiros de obras de sua infraestrutura. Ao erguer a maior e mais conectada malha de Trens de Alta Velocidade (TAV) e rotas logísticas continentais do planeta, a China não apenas conectou províncias, mas unificou seu mercado interno de maneira a elevar a produtividade doméstica a níveis incomparáveis.
+					</p>
+
+					<p class="standard-paragraph">
+						No Brasil, iniciativas estruturantes integradas ao Novo PAC e projetos cruciais como a Ferrovia de Integração Oeste-Leste (FIOL), a Ferrovia Norte-Sul e a Transnordestina mostram que há interesse do Estado na retomada ferroviária. Porém, o debate público e a própria gestão governamental ainda pecam em não amarrar esses projetos a uma narrativa unificada de soberania nacional.
+					</p>
+
+					<p class="standard-paragraph">
+						Falta ao brasileiro médio e às nossas lideranças absorver uma genuína <strong>cultura ferroviária</strong>. Um trem rápido não é apenas uma conveniência técnica: é o enriquecimento das cidades médias, a descentralização habitacional, a eficiência energética na descarbonização logística e o aumento imediato da competitividade de todo o país. O <em>Mundo Trilhos</em> nasce exatamente para suprir essa lacuna e ser a ponte de informação entre os técnicos, os governantes e a sociedade.
+					</p>
+				</div>
+
+				<!-- Quem Somos Sidebar Column -->
+				<div>
+					<div class="sidebar-card">
+						<h2 class="section-title" style="font-size: 1.6rem; margin-bottom: 1.25rem;">Quem Somos</h2>
+						
+						<p class="standard-paragraph" style="font-size: 1rem; line-height: 1.7; margin-bottom: 1.25rem;">
+							O <strong>Mundo Trilhos</strong> é um hub de inteligência e jornalismo especializado na cobertura aprofundada dos sistemas sobre trilhos e ferrovias. De metrôs urbanos aos supertrens de carga de longo curso, trazemos análises de viabilidade econômica, inovações tecnológicas e políticas de infraestrutura.
+						</p>
+
+						<div class="profile-divider"></div>
+
+						<h3 class="profile-title">Miguel do Rosário</h3>
+						<p class="profile-role">Fundador & Editor-Chefe</p>
+						
+						<p class="standard-paragraph" style="font-size: 0.95rem; line-height: 1.65; margin-bottom: 1.25rem; color: #475569;">
+							Jornalista, criador e editor do renomado portal de notícias <em>O Cafezinho</em>. Defensor incansável do planejamento econômico de longo prazo e da reindustrialização brasileira, Miguel advoga ativamente por uma ampla agenda ferroviária de passageiros e carga para o país como o pilar mais viável da mobilidade de alta tecnologia.
+						</p>
+
+						<p class="standard-paragraph" style="font-size: 0.95rem; font-weight: 600; color: #334155; margin-bottom: 0.5rem;">
+							📧 Contato Redação:
+						</p>
+						<p class="standard-paragraph" style="font-size: 0.95rem; margin-bottom: 0;">
+							migueldorosario@gmail.com
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- Nossas Colunas Section -->
+			<div class="columns-section">
+				<h2 class="section-title" style="text-align: center; margin-bottom: 1rem;">Nossos Eixos de Cobertura</h2>
+				<p style="text-align: center; color: #64748b; max-width: 600px; margin: 0 auto 3rem auto; font-size: 1.1rem; line-height: 1.6;">Nossa redação organiza a inteligência de dados ferroviários e os noticiários técnicos em quatro colunas temáticas essenciais.</p>
+
+				<div class="columns-grid">
+					<!-- Column 1 -->
+					<div class="column-card">
+						<div class="column-icon-wrapper">
+							🚇
+						</div>
+						<h3 class="column-card-title">Mobilidade & Cidade</h3>
+						<p class="column-card-desc">O pulsar urbano subterrâneo e elevado. Acompanhamento integral das novas linhas de metrô, monotrilhos e implantações de Veículos Leves sobre Trilhos (VLTs) que aliviam os eixos urbanos continentais.</p>
+					</div>
+
+					<!-- Column 2 -->
+					<div class="column-card">
+						<div class="column-icon-wrapper">
+							📦
+						</div>
+						<h3 class="column-card-title">Logística & Desenvolvimento</h3>
+						<p class="column-card-desc">As artérias de carga pesada que irrigam a economia agroindustrial e mineral. Cobertura crítica de ferrovias continentais de escoamento e corredores estratégicos de exportação.</p>
+					</div>
+
+					<!-- Column 3 -->
+					<div class="column-card">
+						<div class="column-icon-wrapper">
+							⚡
+						</div>
+						<h3 class="column-card-title">Fronteira Tecnológica</h3>
+						<p class="column-card-desc">Trens de alta velocidade (TAV), alimentação pelo solo (APS), automação avançada com sistemas CBTC, locomotivas elétricas a hidrogênio e o futuro ecológico sobre trilhos.</p>
+					</div>
+
+					<!-- Column 4 -->
+					<div class="column-card">
+						<div class="column-icon-wrapper">
+							🚂
+						</div>
+						<h3 class="column-card-title">História & Cultura</h3>
+						<p class="column-card-desc">A memória viva e o valor cultural do patrimônio histórico ferroviário. Notícias sobre rotas turísticas preservadas, restaurações de estações e preservação ferroviária.</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- Twin Project Banner -->
+			<div class="twin-banner">
+				<div class="twin-info">
+					<span class="twin-badge">International Edition</span>
+					<h3 class="twin-title">Rail Post: Our English Twin</h3>
+					<p class="twin-desc">For our global audience, we offer the English edition covering Brazilian, Latin American, and Global South rail infrastructure trends at <strong>RailPost.com</strong>.</p>
+				</div>
+				<a href="https://railpost.com" target="_blank" class="twin-button">Visit Rail Post ↗</a>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

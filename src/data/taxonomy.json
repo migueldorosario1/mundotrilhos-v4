@@ -1,0 +1,60 @@
+{
+  "portal": "Mundo Trilhos",
+  "lang": "pt-br",
+  "schema_version": "v1",
+  "updated": "2026-05-16",
+  "source": "Sprint 0d Trindade (parecer Codex 21:33 BRT + complemento Claude 20:30 BRT)",
+  "twin": {
+    "url": "https://railpost.news",
+    "lang": "en",
+    "name": "Rail Post"
+  },
+  "eixos": {
+    "modalidade": {
+      "label": "Modalidade",
+      "tags": [
+        { "slug": "alta-velocidade", "label": "Alta Velocidade" },
+        { "slug": "carga", "label": "Carga" },
+        { "slug": "metro-vlt", "label": "Metrô e VLT" },
+        { "slug": "regional", "label": "Trem Regional" },
+        { "slug": "turistico", "label": "Trem Turístico" },
+        { "slug": "urbano", "label": "Ferrovia Urbana" }
+      ]
+    },
+    "infraestrutura": {
+      "label": "Infraestrutura",
+      "tags": [
+        { "slug": "trilhos", "label": "Trilhos" },
+        { "slug": "estacoes", "label": "Estações" },
+        { "slug": "sinalizacao", "label": "Sinalização" },
+        { "slug": "eletrificacao", "label": "Eletrificação" },
+        { "slug": "manutencao", "label": "Manutenção" },
+        { "slug": "tuneis-pontes", "label": "Túneis e Pontes" }
+      ]
+    },
+    "economia": {
+      "label": "Economia",
+      "tags": [
+        { "slug": "logistica", "label": "Logística" },
+        { "slug": "exportacoes", "label": "Exportações" },
+        { "slug": "industria", "label": "Indústria Ferroviária" },
+        { "slug": "concessoes", "label": "Concessões" },
+        { "slug": "financiamento", "label": "Financiamento" },
+        { "slug": "portos", "label": "Integração Portuária" }
+      ]
+    },
+    "geografia": {
+      "label": "Geografia",
+      "tags": [
+        { "slug": "brasil", "label": "Brasil" },
+        { "slug": "america-do-sul", "label": "América do Sul" },
+        { "slug": "america-do-norte", "label": "América do Norte" },
+        { "slug": "europa", "label": "Europa" },
+        { "slug": "asia", "label": "Ásia" },
+        { "slug": "africa", "label": "África" },
+        { "slug": "oriente-medio", "label": "Oriente Médio" }
+      ]
+    }
+  },
+  "diretriz_editorial": "Mundo Trilhos foca em Brasil e América Latina. Quando a pauta for internacional ou estratégica, publicar nos dois idiomas (Rail Post) com interlink."
+}
