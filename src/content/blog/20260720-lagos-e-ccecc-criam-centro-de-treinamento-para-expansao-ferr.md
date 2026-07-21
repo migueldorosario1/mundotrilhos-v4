@@ -2,6 +2,8 @@
 title: "Lagos e CCECC criam centro de treinamento para expansão ferroviária"
 description: "Parceria entre LAMATA e CCECC vai formar mão de obra local para operar as 11 linhas previstas no plano diretor de Lagos."
 pubDate: "2026-07-20"
+heroImage: "/hero/20260720-lagos-e-ccecc-criam-centro-de-treinamento-para-expansao-ferr.jpg"
+hero_credit: "Wikimedia Commons (CC BY 2.0) — Jeremy Weate from Abuja, Nigeria"
 source_name: "Railway training centre to support Nigerian state’s rail expansion plans"
 source_url: "https://www.railwaygazette.com/nigeria/2026/07/20/railway-training-centre-to-support-nigerian-states-rail-expansion-plans/"
 tags: ["lamata", "ccecc", "treinamento ferroviário", "lagos", "nigéria", "expansão metroferroviária"]

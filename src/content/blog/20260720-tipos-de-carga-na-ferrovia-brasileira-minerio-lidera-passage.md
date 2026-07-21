@@ -2,6 +2,8 @@
 title: "Tipos de carga na ferrovia brasileira: minério lidera, passageiros perdem espaço"
 description: "Análise técnica dos principais tipos de carga transportados por trilhos no Brasil, com destaque para minério, granéis e carga geral, e o papel reduzido dos"
 pubDate: "2026-07-20"
+heroImage: "/hero/20260720-tipos-de-carga-na-ferrovia-brasileira-minerio-lidera-passage.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Kolbkorr"
 source_name: "Tipos de Carga - Brasil Ferroviário"
 source_url: "https://www.brasilferroviario.com.br/tipos-de-carga/"
 tags: ["carga ferroviária", "minério de ferro", "carga a granel", "carga geral", "transporte de passageiros", "logística"]
