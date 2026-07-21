@@ -2,6 +2,8 @@
 title: "Knorr-Bremse modernizará sinalização de ferrovia de carga da Fortescue na Austrália"
 description: "Contrato milionário prevê upgrade digital do ITCS e migração para plataforma ElectroLogIXS, permitindo controle remoto de trens de até 5.000 t."
 pubDate: "2026-07-20"
+heroImage: "/hero/20260720-knorr-bremse-modernizara-sinalizacao-de-ferrovia-de-carga-da.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Atoka220"
 source_name: "Knorr-Bremse to bring ‘a new level of intelligence’ to Fortescue’s heavy haul rail network"
 source_url: "https://www.railwaygazette.com/australia/2026/07/20/knorr-bremse-to-bring-a-new-level-of-intelligence-to-fortescues-heavy-haul-rail-network/"
 tags: ["knorr-bremse", "fortescue", "sinalização ferroviária", "digitalização", "carga pesada", "austrália"]

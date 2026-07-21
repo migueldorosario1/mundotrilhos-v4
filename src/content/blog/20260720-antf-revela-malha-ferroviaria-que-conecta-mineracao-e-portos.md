@@ -2,6 +2,8 @@
 title: "ANTF revela malha ferroviária que conecta mineração e portos"
 description: "Saiba como as ferrovias associadas à ANTF ligam centros de mineração, indústria e agricultura aos principais portos brasileiros."
 pubDate: "2026-07-20"
+heroImage: "/hero/20260720-antf-revela-malha-ferroviaria-que-conecta-mineracao-e-portos.jpg"
+hero_credit: "Wikimedia Commons (CC BY 2.0) — Agencia CNT de Noticias"
 source_name: "Mapa Ferroviário - ANTF"
 source_url: "https://www.antf.org.br/boletim-antf/mapa-ferroviario/"
 tags: ["antf", "malha ferroviária", "quadrilátero ferrífero", "portos", "logística", "carga"]
