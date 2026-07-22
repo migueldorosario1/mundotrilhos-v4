@@ -2,8 +2,8 @@
 title: "Trem Intercidades SP-Campinas: obras em março, R$ 16,85 bi e viagem em 1h04"
 description: "Obras do Trem Intercidades São Paulo-Campinas começam em março. Investimento de R$ 16,85 bilhões, velocidade de 140 km/h e operação prevista para 2031."
 pubDate: "2026-07-22"
-heroImage: "/hero/trem-intercidades-sp-campinas-obras-em-marco-r-16-85-bi-e-vi.jpg"
-hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Lmbuga"
+heroImage: "/hero/20260722-trem-intercidades-sp-campinas-obras-em-marco-r-16-85-bi-e-vi.jpg"
+hero_credit: "Wikimedia Commons (CC BY 4.0) — Ichibashi"
 source_name: "Brasil muda de patamar com construção de trem rápido com velocidade de 140 km/h e investimento de R$ 16,8 bilhões: obras"
 source_url: "https://clickpetroleoegas.com.br/trem-intercidades-sao-paulo-campinas-140-kmh-16-8-bilhoes-obras-marco-viagem-1-hora-4-minutos-operacao-2031-tic-trens-afch/"
 tags: ["trem intercidades", "são paulo", "campinas", "alta velocidade", "mobilidade urbana", "concessão"]
