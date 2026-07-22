@@ -2,7 +2,8 @@
 title: "Romênia impulsiona trens metropolitanos fora da capital; Bucareste fica para trás"
 description: "Projetos de trem suburbano avançam em Cluj-Napoca, Oradea, Brașov e Iași, enquanto plano para Bucareste enfrenta lentidão."
 pubDate: "2026-07-21"
-hero_credit: "Wikimedia Commons (CC BY 2.0) — Senado Federal"
+heroImage: "/hero/20260721-romenia-impulsiona-trens-metropolitanos-fora-da-capital-buca.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 3.0) — Kabelleger / David Gubler (http://www.bahnbilder.ch)"
 source_name: "Romania: Suburban rail projects surge outside the capital"
 source_url: "https://www.railwaygazette.com/suburban-commuter-rail/2026/07/18/romania-slow-progress-on-bucuresti-package-in-contrast-with-tren-metropolitan-network-boom/"
 tags: ["romênia", "trem suburbano", "tram-trem", "cluj-napoca", "bucareste", "mobilidade urbana"]

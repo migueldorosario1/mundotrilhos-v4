@@ -2,7 +2,8 @@
 title: "CRRC Sifang, que fará TIC Campinas-SP, opera trem maglev de 600 km/h"
 description: "Consórcio vencedor do Trem Intercidades entre Campinas e São Paulo inclui a chinesa CRRC Sifang, maior fabricante mundial de trens e operadora do trem magl"
 pubDate: "2026-07-21"
-hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Lmbuga"
+heroImage: "/hero/20260721-crrc-sifang-que-fara-tic-campinas-sp-opera-trem-maglev-de-60.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 3.0) — Kabelleger / David Gubler (http://www.bahnbilder.ch)"
 source_name: "Empresa que vai fazer o trem entre Campinas e São Paulo opera veículo de alta velocidade que chega a 600 km/h na China"
 source_url: "https://oglobo.globo.com/economia/noticia/2024/03/02/empresa-que-vai-fazer-o-trem-entre-campinas-e-sao-paulo-opera-veiculo-de-alta-velocidade-que-chega-a-600-kmh-na-china.ghtml"
 tags: ["crcr sifang", "trem intercidades", "campinas", "são paulo", "maglev", "alta velocidade"]
