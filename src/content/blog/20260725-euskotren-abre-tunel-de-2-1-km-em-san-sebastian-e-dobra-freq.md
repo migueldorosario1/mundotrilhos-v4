@@ -3,7 +3,7 @@ title: "Euskotren abre túnel de 2,1 km em San Sebastián e dobra frequência de
 description: "Novo trecho subterrâneo entre Altza e Galtzaraborda elimina gargalo e permite trens a cada 7,5 min em dias úteis."
 pubDate: "2026-07-25"
 heroImage: "/hero/euskotren-abre-tunel-de-2-1-km-em-san-sebastian-e-dobra-freq.jpg"
-hero_credit: "Wikimedia Commons (CC BY 2.0) — Senado Federal"
+hero_credit: "Photo by AJS1 on Pixabay"
 source_name: "San Sebastián’s Mole goes further underground, doubling service frequency"
 source_url: "https://www.railwaygazette.com/spain/2026/07/22/san-sebastians-mole-goes-further-underground-doubling-service-frequency/"
 tags: ["euskotren", "san sebastián", "túnel ferroviário", "frequência", "topo", "bitola métrica"]

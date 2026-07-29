@@ -3,7 +3,7 @@ title: "AtkinsRéalis assina contratos de engenharia para o Metrô de Riade"
 description: "Empresa canadense prestará serviços de engenharia e supervisão para operação e expansão da rede de 176 km."
 pubDate: "2026-07-28"
 heroImage: "/hero/atkinsrealis-assina-contratos-de-engenharia-para-o-metro-de.jpg"
-hero_credit: "Photo by 19306 on Pixabay"
+hero_credit: "Photo by Heinz Reisenhofer on Pexels"
 source_name: "AtkinsRéalis to provide Riyadh Metro engineering services"
 source_url: "https://www.railwaygazette.com/saudi-arabia/2026/07/23/atkinsrealis-to-provide-riyadh-metro-engineering-services/"
 tags: ["metro de riade", "atkinsrealis", "arabia saudita", "expansão metroviária", "engenharia ferroviária", "mobilidade urbana"]
