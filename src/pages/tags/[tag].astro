@@ -256,11 +256,12 @@ export async function getStaticPaths() {
 	};
 
 	const allPosts = await getCollection('blog');
+	const _slugTag = (t) => String(t).replace(/[/#?\\]+/g, '-').replace(/^-+|-+$/g, '').trim();
 	const tagsFromPosts = [...new Set(allPosts.map((post) => post.data.tags || []).flat())];
-	const allTags = [...new Set([...Object.keys(tagMap), ...tagsFromPosts])];
+	const allTags = [...new Set([...Object.keys(tagMap), ...tagsFromPosts])].map(_slugTag).filter(Boolean);
 
 	return allTags.map((tag) => {
-		const filteredPosts = allPosts.filter((post) => post.data.tags?.includes(tag));
+		const filteredPosts = allPosts.filter((post) => (post.data.tags || []).map(_slugTag).includes(tag));
 		return {
 			params: { tag },
 			props: { 
