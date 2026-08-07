@@ -19,6 +19,7 @@ const blog = defineCollection({
 		lang: z.enum(['pt-br', 'en', 'es']).optional(),
 		categoria_macro: z.string().optional(),
 		hero_credit: z.string().optional(),
+		hero_legenda: z.string().optional(),
 		hero_license: z.enum(['cc-by', 'cc-by-sa', 'public-domain', 'press-kit', 'own', 'ai-generated']).optional(),
 		hero_source_url: z.string().url().optional(),
 		alt: z.string().optional(),

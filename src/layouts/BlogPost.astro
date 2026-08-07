@@ -17,6 +17,7 @@ const {
 	heroImage,
 	categoria_macro,
 	hero_credit,
+	hero_legenda,
 	hero_license,
 	hero_source_url,
 	alt,
@@ -91,6 +92,10 @@ const {
 			.source-note a {
 				color: inherit;
 			}
+			.image-caption-text {
+				font-weight: 600;
+				color: rgb(var(--gray-dark));
+			}
 			.last-updated-on {
 				font-style: italic;
 			}
@@ -104,10 +109,10 @@ const {
 					<div class="hero-image">
 						{heroImage && <img width="1020" height="510" src={heroImage} alt={alt ?? title} />}
 						{
-							heroImage && hero_credit && (
+							heroImage && (hero_legenda || hero_credit) && (
 								<p class="image-credit">
-									Imagem: {hero_source_url ? <a href={hero_source_url}>{hero_credit}</a> : hero_credit}
-									{hero_license && ` · Licença: ${hero_license}`}
+									{hero_legenda && <span class="image-caption-text">{hero_legenda}{hero_credit && <br />}</span>}
+									{hero_credit && <>Imagem: {hero_source_url ? <a href={hero_source_url}>{hero_credit}</a> : hero_credit}{hero_license && ` · Licença: ${hero_license}`}</>}
 								</p>
 							)
 						}
