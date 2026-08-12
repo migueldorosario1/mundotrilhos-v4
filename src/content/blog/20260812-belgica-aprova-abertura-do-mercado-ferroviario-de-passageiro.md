@@ -3,7 +3,7 @@ title: "Bélgica aprova abertura do mercado ferroviário de passageiros a partir
 description: "Governo belga aprova transição gradual para licitação competitiva após 2032, com contrato de transição para a SNCB."
 pubDate: "2026-08-12"
 heroImage: "/hero/belgica-aprova-abertura-do-mercado-ferroviario-de-passageiro.jpg"
-hero_credit: "Photo by Eliel Souza on Pexels"
+hero_credit: "Photo by Laura Lee Van Herck on Pexels"
 hero_legenda: "Bélgica aprova abertura do mercado ferroviário de passageiros a partir de 2033"
 source_name: "Belgium commits to rail liberalisation with phased post-2032 transition"
 source_url: "https://www.railwaygazette.com/belgium/2026/08/04/belgium-commits-to-rail-liberalisation-with-phased-post-2032-transition/"
