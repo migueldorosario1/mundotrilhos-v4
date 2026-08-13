@@ -100,6 +100,27 @@ const {
 				font-style: italic;
 			}
 		</style>
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "NewsArticle",
+			"headline": title,
+			"image": heroImage ? [new URL(heroImage, Astro.url).href] : [],
+			"datePublished": pubDate.toISOString(),
+			"dateModified": updatedDate ? updatedDate.toISOString() : pubDate.toISOString(),
+			"author": [{
+				"@type": "Organization",
+				"name": "Mundo Trilhos",
+				"url": "https://www.mundotrilhos.com"
+			}],
+			"publisher": {
+				"@type": "Organization",
+				"name": "Mundo Trilhos",
+				"logo": {
+					"@type": "ImageObject",
+					"url": new URL('/favicon.png', Astro.url).href
+				}
+			}
+		})} />
 	</head>
 
 	<body>
