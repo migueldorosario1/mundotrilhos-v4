@@ -11,7 +11,15 @@ export default defineConfig({
 		'/blog/20260712-china-rompe-a-barria-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr/': '/blog/20260712-china-rompe-a-barreira-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr/',
 		'/blog/20260712-china-rompe-a-barria-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr': '/blog/20260712-china-rompe-a-barreira-dos-450-kmh-e-reescreve-a-geografia-do-desenvolvimento-sobr',
 	},
-	integrations: [mdx(), sitemap()],
+	integrations: [
+		mdx(),
+		sitemap({
+			filter: (page) => {
+				const path = new URL(page).pathname;
+				return !/(^|\/)(tags|teste|preview)(\/|-|$)/.test(path);
+			},
+		}),
+	],
 	fonts: [
 		{
 			provider: fontProviders.local(),

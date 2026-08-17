@@ -11,11 +11,12 @@ interface Props {
 	title: string;
 	description: string;
 	image?: ImageMetadata | string;
+	noindex?: boolean;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = FallbackImage } = Astro.props;
+const { title, description, image = FallbackImage, noindex = false } = Astro.props;
 const imageURL = typeof image === 'string' ? new URL(image, Astro.site) : new URL(image.src, Astro.url);
 ---
 
@@ -33,8 +34,7 @@ const imageURL = typeof image === 'string' ? new URL(image, Astro.site) : new UR
 />
 <meta name="generator" content={Astro.generator} />
 
-<!-- SEO defense pre-launch (Sprint 0b 2026-05-16): REMOVER quando começar a publicar de verdade -->
-<meta name="robots" content="index,follow" />
+<meta name="robots" content={noindex ? 'noindex,follow' : 'index,follow'} />
 
 <Font cssVariable="--font-atkinson" preload />
 
