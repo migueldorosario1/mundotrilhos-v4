@@ -10,7 +10,7 @@ source_url: "https://www.railwaygazette.com/infrastructure/2026/08/07/inter-airp
 tags: ["china", "delta do rio das pérolas", "ferrovia intercidades", "guangzhou", "shenzhen", "aeroportos"]
 lang: "pt-br"
 author: "Redação Mundo Trilhos"
-draft: false
+draft: true
 ---
 A abertura de um corredor estratégico ligando dois aeroportos no sul da China adicionou nova conectividade às extensas redes ferroviárias e de metrô da região do Delta do Rio das Pérolas, em torno de Guangzhou.
 
