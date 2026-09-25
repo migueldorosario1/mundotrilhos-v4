@@ -1,11 +1,13 @@
 ---
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import BannerMoka from './BannerMoka.astro';
 import HeaderLink from './HeaderLink.astro';
 import logoImg from '../assets/logo.png';
 import { Image } from 'astro:assets';
 ---
 
 <header class="premium-header">
+	<BannerMoka />
 	<nav class="navbar">
 		<div class="brand">
 			<a href="/" class="logo-link">
