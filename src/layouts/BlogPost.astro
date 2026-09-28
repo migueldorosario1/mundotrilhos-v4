@@ -25,6 +25,7 @@ const {
 	source_url,
 	author,
 } = Astro.props;
+import BannerMoka from '../components/BannerMoka.astro';
 ---
 
 <html lang={Astro.props.lang ?? 'pt-br'}>
@@ -164,6 +165,8 @@ const {
 							<hr />
 					</div>
 					<slot />
+
+<BannerMoka />
 				</div>
 				<div class="prose" style="padding-top: 0;">
 					<Interlinks />
