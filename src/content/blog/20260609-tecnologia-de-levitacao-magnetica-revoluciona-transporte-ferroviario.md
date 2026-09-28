@@ -10,6 +10,7 @@ lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
 heroImage: "/hero/20260609-tecnologia-de-levitacao-magnetica-revoluciona-transporte-ferroviario.jpg"
+hero_credit: "Steve Daniels / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 A levitação magnética está redefinindo o conceito de alta velocidade ferroviária, prometendo transformar a mobilidade urbana.
 

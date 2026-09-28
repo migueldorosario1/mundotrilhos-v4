@@ -10,6 +10,7 @@ lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
 heroImage: "/hero/20260609-vlt-subterraneo-em-brasilia-promete-revolucionar-transporte-urbano-com-tecnologi.jpg"
+hero_credit: "Steve Daniels / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 A inovação ferroviária em Brasília busca redefinir a mobilidade urbana ao integrar tecnologia avançada e respeito ao patrimônio histórico, alinhando-se com uma visão desenvolvimentista e sustentável.
 

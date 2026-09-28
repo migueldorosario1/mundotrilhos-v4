@@ -10,6 +10,7 @@ lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
 heroImage: "/hero/20260609-brasil-investe-em-ferrovias-para-impulsionar-desenvolvimento-economico.jpg"
+hero_credit: "Fons Heijnsbroek / Wikimedia Commons (CC0)"
 ---
 Ferrovias são cruciais para o escoamento de cargas, reduzindo custos e impactos ambientais.
 

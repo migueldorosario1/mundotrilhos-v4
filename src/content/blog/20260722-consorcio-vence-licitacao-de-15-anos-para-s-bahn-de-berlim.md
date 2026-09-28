@@ -9,6 +9,7 @@ lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
 heroImage: "/hero/20260722-consorcio-vence-licitacao-de-15-anos-para-s-bahn-de-berlim.jpg"
+hero_credit: "Steve Daniels / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 A associação de transporte Berlin-Brandenburg (VBB) formalizou a adjudicação do contrato SBSNS-II a um consórcio formado por S-Bahn Berlin, Siemens Mobility e Stadler. O acordo, com validade de 15 anos, prevê a operação das sub-redes Norte-Sul e Stadtbahn da capital alemã, além do fornecimento e manutenção de 350 trens de quatro carros com passagem livre entre vagões.
 

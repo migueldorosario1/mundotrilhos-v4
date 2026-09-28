@@ -9,6 +9,7 @@ lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
 heroImage: "/hero/argentina-recupera-ferrovia-até-o-brasil-em-meio-à-crise-entre-milei-e.jpg"
+hero_credit: "Steve Daniels / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 
 A Argentina recuperou uma ferrovia que faz a ligação com o Brasil, segundo informação divulgada pelo Metrô CPTM. A retomada ocorre em meio a um momento de crise nas relações entre os governos de Javier Milei e de Luiz Inácio Lula da Silva.

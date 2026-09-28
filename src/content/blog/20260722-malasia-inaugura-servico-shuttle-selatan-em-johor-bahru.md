@@ -9,6 +9,7 @@ lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
 heroImage: "/hero/20260722-malasia-inaugura-servico-shuttle-selatan-em-johor-bahru.jpg"
+hero_credit: "Steve Daniels / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 A Malásia deu um passo importante na mobilidade urbana de Johor Bahru com o lançamento do Shuttle Selatan, serviço de trens suburbanos que começou a operar em junho. A iniciativa, segundo o railwaygazette.com, abrange duas linhas que atendem a região sul do país.
 
