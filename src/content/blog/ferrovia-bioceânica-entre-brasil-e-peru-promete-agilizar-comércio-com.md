@@ -1,18 +1,23 @@
 ---
-title: "Ferrovia bioceânica entre Brasil e Peru promete agilizar comércio com a China, mas levanta questões sobre seus custos"
-description: "Projeto de ferrovia que ligaria o Brasil ao Peru para facilitar o comércio com a China é tema de reportagem do Instituto Humanitas Unisinos, que questiona os impactos da obra."
-pubDate: "2026-09-25"
+title: "Ferrovia bioceânica entre Brasil e Peru promete agilizar comércio com a China, mas levanta questionamentos sobre seus custos"
+description: "Projeto de ferrovia que ligaria o Brasil ao Peru e facilitaria o comércio com a China é tema de debate sobre os impactos e custos da obra."
+pubDate: "2026-09-28"
 source_name: "Instituto Humanitas Unisinos - IHU"
-source_url: "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaDVoUXc5QXMycjg0Zmd0ak1rQlVjbGxTQlZyM1FKa0ZQdFk4b1VPMmJqVXQ3UXZ3a0tUZE54QXpXQ0EtZWFfNHVrYllWTTd6a1NDREFJSVJPT1N2Xy1SeE5kSnk3R2dPcHd3YTBCaXRXUkNELU0zOW5BVVFNUklvWlhUVE9NS3NpZ3BaQlZfNF9PQks0TWNBNWZrb2U2ekMyMUtJM21DeUN4dUdHNTBoRFJrUUUzMXZmcHpPMG1paFMwYjJ4UnIzdzY4V0RtZ1VJ?oc=5"
+source_url: "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWgyZ2REX0IyYVZnczVaM09jVE00cU92UmMyOG5IR3MzMklfMWZmX1JmQlVpT3hNaTdTdWs0RFBKZjUyU2RlaWFtbGszaDBGZllQU1IyWjdoWUtBQXh2bVhOOHZwYnhISndXalZ5XzFuU3lHU004bXRTZnNiWmJiRjkzQnl5TTZ4cHRsUEZaRndLeTVZUllac2RTUW1Ob1M3V2dVZmQzMEh1SVdSWWZNUUJyV0Utb2xlcGxsZUZOdFVndmhiZy1OSlNSbw?oc=5"
 tags: ["mundotrilhos"]
 lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
 ---
 
-A ferrovia bioceânica entre Brasil e Peru é apresentada como uma promessa de agilizar o comércio com a China, segundo reportagem do Instituto Humanitas Unisinos.
-O projeto prevê uma ligação ferroviária que atravessaria o continente sul-americano até o Oceano Pacífico, oferecendo uma alternativa logística para o escoamento de produtos.
-A reportagem do IHU levanta a questão sobre a que custo essa obra viria, sem detalhar valores ou prazos específicos.
-O texto sugere que o empreendimento envolve impactos que vão além da economia, ao questionar as consequências da ferrovia.
-A proposta de integração física entre Brasil e Peru para facilitar o comércio com a China é o eixo central da discussão apresentada.
+A ferrovia bioceânica entre Brasil e Peru é apresentada como uma alternativa para agilizar o comércio com a China. O projeto prevê uma ligação ferroviária que atravessaria o continente sul-americano até o Oceano Pacífico.
+
+Segundo a publicação do Instituto Humanitas Unisinos, a obra promete facilitar o escoamento de produtos e reduzir o tempo de transporte até o mercado asiático. A proposta envolve a conexão entre os dois países como rota estratégica para o comércio internacional.
+
+Apesar do potencial econômico apontado, a publicação questiona a que custo essa infraestrutura seria viabilizada. O texto levanta dúvidas sobre os impactos ambientais, sociais e econômicos associados à construção da ferrovia.
+
+O debate ocorre em um contexto de busca por rotas comerciais mais eficientes entre a América do Sul e a Ásia. A ferrovia bioceânica é vista como uma possível resposta a essa demanda logística.
+
+O questionamento central da publicação é se os benefícios prometidos compensariam os custos envolvidos no projeto. A análise convida à reflexão sobre as consequências de uma obra de grande porte como essa.
+
 Fonte: Instituto Humanitas Unisinos (IHU).
