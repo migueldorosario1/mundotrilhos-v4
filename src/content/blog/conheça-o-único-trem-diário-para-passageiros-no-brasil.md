@@ -1,4 +1,5 @@
 ---
+heroImage: "/hero/conheça-o-único-trem-diário-para-passageiros-no-brasil.jpg"
 title: "Conheça o único trem diário para passageiros no Brasil"
 description: "O Brasil tem apenas um trem diário de passageiros em operação, segundo reportagem do Poder360."
 pubDate: "2026-09-28"
