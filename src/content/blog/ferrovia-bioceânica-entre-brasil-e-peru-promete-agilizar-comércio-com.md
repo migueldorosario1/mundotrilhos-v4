@@ -8,6 +8,7 @@ tags: ["mundotrilhos"]
 lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
+heroImage: "/hero/ferrovia-bioceânica-entre-brasil-e-peru-promete-agilizar-comércio-com.jpg"
 ---
 
 A ferrovia bioceânica entre Brasil e Peru é apresentada como uma alternativa para agilizar o comércio com a China. O projeto prevê uma ligação ferroviária que atravessaria o continente sul-americano até o Oceano Pacífico.

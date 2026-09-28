@@ -8,6 +8,7 @@ tags: ["mundotrilhos"]
 lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
+heroImage: "/hero/viagem-e-turismo-lista-sete-passeios-de-trem-pelo-brasil.jpg"
 ---
 
 A revista Viagem e Turismo publicou uma lista com sete passeios de trem pelo Brasil. O conteúdo é voltado para quem busca experiências de viagem sobre trilhos no país.

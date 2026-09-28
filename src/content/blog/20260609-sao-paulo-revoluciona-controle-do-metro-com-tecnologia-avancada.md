@@ -9,6 +9,7 @@ categoria_macro: "metro"
 lang: "pt-br"
 author: "Redação Mundo Trilhos"
 draft: false
+heroImage: "/hero/20260609-sao-paulo-revoluciona-controle-do-metro-com-tecnologia-avancada.jpg"
 ---
 O Centro de Controle Operacional do Metrô de São Paulo representa um marco na modernização do transporte urbano brasileiro.
 
