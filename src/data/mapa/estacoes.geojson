@@ -3294,6 +3294,582 @@
           30.08
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-toquio",
+        "sistema_nome_pt": "Metrô de Tóquio (Tokyo Metro + Toei Subway)",
+        "sistema_nome_en": "Tokyo Subway Network (Tokyo Metro + Toei Subway)",
+        "nome": "Ginza Station",
+        "linha": "Linhas Ginza / Marunouchi / Hibiya",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.766,
+          35.671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-toquio",
+        "sistema_nome_pt": "Metrô de Tóquio (Tokyo Metro + Toei Subway)",
+        "sistema_nome_en": "Tokyo Subway Network (Tokyo Metro + Toei Subway)",
+        "nome": "Asakusa Station (Berço do Metrô Asiático — 1927)",
+        "linha": "Linha Ginza / Toei Asakusa",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.798,
+          35.711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-toquio",
+        "sistema_nome_pt": "Metrô de Tóquio (Tokyo Metro + Toei Subway)",
+        "sistema_nome_en": "Tokyo Subway Network (Tokyo Metro + Toei Subway)",
+        "nome": "Otemachi (Maior Hub Subterrâneo de Tóquio)",
+        "linha": "5 Linhas de Metrô",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.764,
+          35.686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-toquio",
+        "sistema_nome_pt": "Metrô de Tóquio (Tokyo Metro + Toei Subway)",
+        "sistema_nome_en": "Tokyo Subway Network (Tokyo Metro + Toei Subway)",
+        "nome": "Omotesando",
+        "linha": "Linhas Ginza / Chiyoda / Hanzomon",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712,
+          35.665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "nome": "Shinjuku Station (Estação Mais Movimentada do Mundo)",
+        "linha": "Linha Yamanote / Chuo / Metrô",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7,
+          35.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "nome": "Tokyo Station (Terminal Central & Shinkansen)",
+        "linha": "Linha Yamanote / Chuo / Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.767,
+          35.681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "nome": "Shibuya Station",
+        "linha": "Linha Yamanote / Ginza / Hanzomon",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701,
+          35.658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "nome": "Ikebukuro Station",
+        "linha": "Linha Yamanote / Marunouchi / Yurakucho",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71,
+          35.729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "nome": "Ueno Station",
+        "linha": "Linha Yamanote / Ginza / Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777,
+          35.714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "nome": "Akihabara Station",
+        "linha": "Linha Yamanote / Chuo-Sobu / Tsukuba Express",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773,
+          35.698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "nome": "Shinagawa Station",
+        "linha": "Linha Yamanote / Tokaido Shinkansen / Maglev",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.739,
+          35.628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-osaka",
+        "sistema_nome_pt": "Metrô de Osaka (Osaka Metro)",
+        "sistema_nome_en": "Osaka Metro",
+        "nome": "Umeda (Centro Norte de Osaka)",
+        "linha": "Linha Midosuji",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498,
+          34.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-osaka",
+        "sistema_nome_pt": "Metrô de Osaka (Osaka Metro)",
+        "sistema_nome_en": "Osaka Metro",
+        "nome": "Namba (Centro Sul de Osaka)",
+        "linha": "Linhas Midosuji / Yotsubashi / Sennichimae",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501,
+          34.666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-osaka",
+        "sistema_nome_pt": "Metrô de Osaka (Osaka Metro)",
+        "sistema_nome_en": "Osaka Metro",
+        "nome": "Tennoji",
+        "linha": "Linhas Midosuji / Tanimachi",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.514,
+          34.647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-osaka",
+        "sistema_nome_pt": "Metrô de Osaka (Osaka Metro)",
+        "sistema_nome_en": "Osaka Metro",
+        "nome": "Yumeshima (Baía de Osaka — Expo 2025)",
+        "linha": "Linha Chuo",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.388,
+          34.651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilhos-japao",
+        "sistema_nome_pt": "Monotrilhos Urbanos do Japão (Tokyo Haneda, Osaka e Chiba Suspenso)",
+        "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
+        "nome": "Aeroporto de Haneda Terminal 3 (Tokyo Monorail)",
+        "linha": "Tokyo Monorail",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768,
+          35.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilhos-japao",
+        "sistema_nome_pt": "Monotrilhos Urbanos do Japão (Tokyo Haneda, Osaka e Chiba Suspenso)",
+        "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
+        "nome": "Banpaku-kinen-koen (Expo '70 Park — Osaka Monorail)",
+        "linha": "Osaka Monorail",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.53,
+          34.806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilhos-japao",
+        "sistema_nome_pt": "Monotrilhos Urbanos do Japão (Tokyo Haneda, Osaka e Chiba Suspenso)",
+        "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
+        "nome": "Chiba Station (Monotrilho Suspenso)",
+        "linha": "Chiba Urban Monorail",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.113,
+          35.613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "nome": "Shin-Yokohama (Shinkansen)",
+        "linha": "Tokaido Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617,
+          35.507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "nome": "Nagoya Station (Shinkansen & Futuro Maglev)",
+        "linha": "Tokaido Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.881,
+          35.171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "nome": "Kyoto Station (Shinkansen)",
+        "linha": "Tokaido Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758,
+          34.985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "nome": "Shin-Osaka Station (Hub Tokaido & Sanyo Shinkansen)",
+        "linha": "Tokaido / Sanyo Shinkansen & Linha Midosuji",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5,
+          34.733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "nome": "Okayama Station (Shinkansen)",
+        "linha": "Sanyo Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.918,
+          34.666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "nome": "Hiroshima Station (Shinkansen)",
+        "linha": "Sanyo Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.475,
+          34.397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "nome": "Hakata Station — Fukuoka (Shinkansen)",
+        "linha": "Sanyo / Kyushu Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.42,
+          33.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tohoku-hokkaido-shinkansen",
+        "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "nome": "Omiya Station (Saitama — Hub Shinkansen Norte)",
+        "linha": "Tohoku / Joetsu / Hokuriku Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624,
+          35.906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tohoku-hokkaido-shinkansen",
+        "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "nome": "Sendai Station (Shinkansen 320 km/h)",
+        "linha": "Tohoku Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.882,
+          38.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tohoku-hokkaido-shinkansen",
+        "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "nome": "Morioka Station (Shinkansen)",
+        "linha": "Tohoku / Akita Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.139,
+          39.701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tohoku-hokkaido-shinkansen",
+        "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "nome": "Shin-Aomori Station",
+        "linha": "Tohoku / Hokkaido Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.693,
+          40.827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tohoku-hokkaido-shinkansen",
+        "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "nome": "Shin-Hakodate-Hokuto (Hokkaido Shinkansen)",
+        "linha": "Hokkaido Shinkansen",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.648,
+          41.904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tohoku-hokkaido-shinkansen",
+        "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "nome": "Sapporo Station (Terminal Hokkaido Shinkansen em Obras)",
+        "linha": "Extensão Hokkaido Shinkansen",
+        "status": "obras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.35,
+          43.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chuo-shinkansen-maglev",
+        "sistema_nome_pt": "Chuo Shinkansen Maglev L0 (Tóquio Shinagawa – Nagoya – Osaka, 505 km/h)",
+        "sistema_nome_en": "Chuo Shinkansen SCMaglev L0 (Tokyo Shinagawa – Nagoya – Osaka, 505 km/h)",
+        "nome": "Estação Maglev de Yamanashi (Kofu — 505 km/h)",
+        "linha": "Chuo Shinkansen SCMaglev (Em obras)",
+        "status": "obras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.568,
+          35.605
+        ]
+      }
     }
   ]
 }

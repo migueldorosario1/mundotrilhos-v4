@@ -489,6 +489,84 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "sistema_id": "tohoku-hokkaido-shinkansen",
+        "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "linha": "Extensão Hokkaido Shinkansen (Shin-Hakodate-Hokuto – Niseko – Otaru – Sapporo — Em obras)",
+        "status": "obras",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.648,
+            41.904
+          ],
+          [
+            140.312,
+            42.45
+          ],
+          [
+            140.795,
+            42.81
+          ],
+          [
+            140.99,
+            43.18
+          ],
+          [
+            141.35,
+            43.068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chuo-shinkansen-maglev",
+        "sistema_nome_pt": "Chuo Shinkansen Maglev L0 (Tóquio Shinagawa – Nagoya – Osaka, 505 km/h)",
+        "sistema_nome_en": "Chuo Shinkansen SCMaglev L0 (Tokyo Shinagawa – Nagoya – Osaka, 505 km/h)",
+        "linha": "Chuo Shinkansen SCMaglev L0 (Shinagawa – Kofu – Nagoya, 505 km/h — Em obras)",
+        "status": "obras",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.739,
+            35.628
+          ],
+          [
+            139.345,
+            35.595
+          ],
+          [
+            138.568,
+            35.605
+          ],
+          [
+            137.825,
+            35.515
+          ],
+          [
+            137.5,
+            35.488
+          ],
+          [
+            136.881,
+            35.171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "linha-1",
       "properties": {
         "sistema_id": "metro-sp",
@@ -3157,6 +3235,531 @@
           [
             114.165,
             22.304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-toquio",
+        "sistema_nome_pt": "Metrô de Tóquio (Tokyo Metro + Toei Subway)",
+        "sistema_nome_en": "Tokyo Subway Network (Tokyo Metro + Toei Subway)",
+        "linha": "Linha Ginza (Asakusa – Ueno – Ginza – Shimbashi – Shibuya)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.798,
+            35.711
+          ],
+          [
+            139.777,
+            35.713
+          ],
+          [
+            139.766,
+            35.671
+          ],
+          [
+            139.758,
+            35.666
+          ],
+          [
+            139.712,
+            35.665
+          ],
+          [
+            139.701,
+            35.658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-toquio",
+        "sistema_nome_pt": "Metrô de Tóquio (Tokyo Metro + Toei Subway)",
+        "sistema_nome_en": "Tokyo Subway Network (Tokyo Metro + Toei Subway)",
+        "linha": "Linha Marunouchi (Ikebukuro – Tokyo Station – Ginza – Shinjuku – Ogikubo)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.71,
+            35.729
+          ],
+          [
+            139.767,
+            35.681
+          ],
+          [
+            139.766,
+            35.671
+          ],
+          [
+            139.7,
+            35.69
+          ],
+          [
+            139.62,
+            35.704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-toquio",
+        "sistema_nome_pt": "Metrô de Tóquio (Tokyo Metro + Toei Subway)",
+        "sistema_nome_en": "Tokyo Subway Network (Tokyo Metro + Toei Subway)",
+        "linha": "Toei Oedo Line (Grande Anel Subterrâneo de Tóquio)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.691,
+            35.693
+          ],
+          [
+            139.752,
+            35.707
+          ],
+          [
+            139.796,
+            35.704
+          ],
+          [
+            139.761,
+            35.656
+          ],
+          [
+            139.731,
+            35.662
+          ],
+          [
+            139.691,
+            35.693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "linha": "Linha Yamanote (Anel Ferroviário de Tóquio — 34,5 km)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.767,
+            35.681
+          ],
+          [
+            139.739,
+            35.628
+          ],
+          [
+            139.701,
+            35.658
+          ],
+          [
+            139.7,
+            35.69
+          ],
+          [
+            139.71,
+            35.729
+          ],
+          [
+            139.777,
+            35.714
+          ],
+          [
+            139.773,
+            35.698
+          ],
+          [
+            139.767,
+            35.681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-east-toquio-yamanote",
+        "sistema_nome_pt": "Rede Metropolitana JR East de Tóquio e Linha Yamanote",
+        "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
+        "linha": "Linha Chuo Rápida (Tokyo Station – Shinjuku – Tachikawa – Takao)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.767,
+            35.681
+          ],
+          [
+            139.7,
+            35.69
+          ],
+          [
+            139.58,
+            35.703
+          ],
+          [
+            139.413,
+            35.698
+          ],
+          [
+            139.269,
+            35.642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-osaka",
+        "sistema_nome_pt": "Metrô de Osaka (Osaka Metro)",
+        "sistema_nome_en": "Osaka Metro",
+        "linha": "Linha Midosuji (Esaka – Shin-Osaka – Umeda – Namba – Tennoji – Nakamozu)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.496,
+            34.758
+          ],
+          [
+            135.5,
+            34.733
+          ],
+          [
+            135.498,
+            34.705
+          ],
+          [
+            135.501,
+            34.666
+          ],
+          [
+            135.514,
+            34.647
+          ],
+          [
+            135.506,
+            34.555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-osaka",
+        "sistema_nome_pt": "Metrô de Osaka (Osaka Metro)",
+        "sistema_nome_en": "Osaka Metro",
+        "linha": "Linha Chuo (Yumeshima – Cosmosquare – Hommachi – Nagata)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.388,
+            34.651
+          ],
+          [
+            135.414,
+            34.642
+          ],
+          [
+            135.498,
+            34.682
+          ],
+          [
+            135.592,
+            34.679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilhos-japao",
+        "sistema_nome_pt": "Monotrilhos Urbanos do Japão (Tokyo Haneda, Osaka e Chiba Suspenso)",
+        "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
+        "linha": "Tokyo Monorail (Hamamatsucho – Aeroporto Internacional de Haneda)",
+        "status": "operacao",
+        "tipo": "monotrilho",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.757,
+            35.655
+          ],
+          [
+            139.749,
+            35.623
+          ],
+          [
+            139.754,
+            35.579
+          ],
+          [
+            139.784,
+            35.549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilhos-japao",
+        "sistema_nome_pt": "Monotrilhos Urbanos do Japão (Tokyo Haneda, Osaka e Chiba Suspenso)",
+        "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
+        "linha": "Osaka Monorail (Aeroporto de Itami – Expo Park – Kadoma-shi)",
+        "status": "operacao",
+        "tipo": "monotrilho",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.442,
+            34.789
+          ],
+          [
+            135.495,
+            34.809
+          ],
+          [
+            135.53,
+            34.806
+          ],
+          [
+            135.565,
+            34.751
+          ],
+          [
+            135.582,
+            34.738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilhos-japao",
+        "sistema_nome_pt": "Monotrilhos Urbanos do Japão (Tokyo Haneda, Osaka e Chiba Suspenso)",
+        "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
+        "linha": "Chiba Urban Monorail (Maior Monotrilho Suspenso do Mundo — 15,2 km)",
+        "status": "operacao",
+        "tipo": "monotrilho",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.103,
+            35.605
+          ],
+          [
+            140.113,
+            35.613
+          ],
+          [
+            140.138,
+            35.635
+          ],
+          [
+            140.181,
+            35.622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "linha": "Tokaido Shinkansen (Tokyo – Shin-Yokohama – Shizuoka – Nagoya – Kyoto – Shin-Osaka)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.767,
+            35.681
+          ],
+          [
+            139.617,
+            35.507
+          ],
+          [
+            139.155,
+            35.256
+          ],
+          [
+            138.389,
+            34.971
+          ],
+          [
+            137.734,
+            34.703
+          ],
+          [
+            136.881,
+            35.171
+          ],
+          [
+            135.758,
+            34.985
+          ],
+          [
+            135.5,
+            34.733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tokaido-sanyo-shinkansen",
+        "sistema_nome_pt": "Tokaido & Sanyo Shinkansen (Tóquio – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "sistema_nome_en": "Tokaido & Sanyo Shinkansen (Tokyo – Nagoya – Kyoto – Osaka – Hiroshima – Fukuoka)",
+        "linha": "Sanyo Shinkansen (Shin-Osaka – Shin-Kobe – Okayama – Hiroshima – Hakata/Fukuoka)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.5,
+            34.733
+          ],
+          [
+            135.195,
+            34.706
+          ],
+          [
+            133.918,
+            34.666
+          ],
+          [
+            132.475,
+            34.397
+          ],
+          [
+            130.926,
+            33.951
+          ],
+          [
+            130.42,
+            33.59
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tohoku-hokkaido-shinkansen",
+        "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
+        "linha": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Morioka – Shin-Aomori – Túnel Seikan – Hakodate, 320 km/h)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.767,
+            35.681
+          ],
+          [
+            139.624,
+            35.906
+          ],
+          [
+            139.883,
+            36.559
+          ],
+          [
+            140.46,
+            37.755
+          ],
+          [
+            140.882,
+            38.26
+          ],
+          [
+            141.139,
+            39.701
+          ],
+          [
+            140.693,
+            40.827
+          ],
+          [
+            140.434,
+            41.407
+          ],
+          [
+            140.648,
+            41.904
           ]
         ]
       }
