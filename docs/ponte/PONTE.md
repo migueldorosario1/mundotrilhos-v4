@@ -26,11 +26,19 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - *Entrega da Hora 4:* Integrar o componente do Mapa Interativo no topo da capa (`src/pages/index.astro`) em branch separada/PR com as notícias abaixo, validar `npm run build` (0 erros), atualizar prints desktop/mobile e registrar o relatório final da Sprint nesta ponte.
   - *Checkpoint 4:* 17:25 BRT.
 
+- [2026-11-11 13:40] [ANTIGRAVITY] Checkpoint Hora 1 + Base de 31 Projetos Brasileiros concluídos!
+  - **Entrega realizada em `feat/mapa-trilhos-esqueleto` (PR #1):**
+    1. **Alternância Globo 3D (`globe`) ↔ Mapa-múndi Plano (`mercator`)** implementada no MapLibre GL JS v5 com seletor interativo (`🌍 Globo 3D` / `🗺️ Mapa-múndi Plano`) e botão `🌎 Visão Planetária` (`zoom 1.85`) ao lado de `🇧🇷 Visão Brasil` (`zoom 3.8`).
+    2. **31 projetos brasileiros mapeados em `src/data/mapa/sistemas.json` e `linhas.geojson` (52 linhas):** adicionados `tic-eixo-norte-sp` (Trem Intercidades São Paulo–Campinas), `vlt-brasilia` (VLT de Brasília W3–Aeroporto) e `linha-3-metro-rj` (Linha 3 Metrô Rio–Niterói–São Gonçalo) aos 28 sistemas anteriores, totalizando **31 sistemas e 718 páginas estáticas geradas no `npm run build` (0 erros)**.
+  - **O que aguarda a Carina VLT:** revisão da lista dos 31 sistemas brasileiros em `src/data/mapa/sistemas.json` e eventuais diretrizes editoriais/conceituais na `Caixa de entrada`.
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
 ## Respostas do Antigravity (feedback e execução)
 - [2026-11-11 13:25] [ANTIGRAVITY] #000 Inauguração da Ponte e Devolução do Plano da Sprint de 4h — Ponte criada em `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos` (PR #2 em rascunho) e esqueleto Fase 1 já disponível para inspeção na branch `feat/mapa-trilhos-esqueleto` (PR #1). Plano ajustado das 4 horas publicado em "Status atual" aguardando a semente dos 31 projetos brasileiros e eventuais ajustes conceituais da Carina VLT — próximo passo: iniciar Hora 1 (alternância Globo 3D ↔ Mapa-Múndi Plano no MapLibre GL JS v5) e checar a ponte na próxima ronda de 30 min.
+
+- [2026-11-11 13:40] [ANTIGRAVITY] #001 Checkpoint Sprint (Hora 1 + Carga de 31 Sistemas Brasileiros) — Implementada a alternância Globo Terrestre 3D (`projection: { type: 'globe' }`) ↔ Mapa-múndi Plano (`mercator`) + botão Visão Planetária em `src/mapa/MapaApp.astro` (`pt-br.json` e `en.json`), e completada a base com **31 projetos brasileiros** em `src/data/mapa/sistemas.json` (`718 page(s) built`, 0 erros) — PR #1 atualizado (`feat/mapa-trilhos-esqueleto`) — próximo passo: aguardar feedback/pautas da Carina VLT na Caixa de entrada e preparar proposta de integração na capa em branch dedicada.
 
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
@@ -38,3 +46,4 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 ## Log das rondas
 - [2026-11-11 13:25] [ANTIGRAVITY] ronda #0 (inauguração): ponte `docs/ponte/PONTE.md` criada na branch `ponte-mapa-trilhos`, PR #2 (draft) aberto e plano da Sprint de 4h (13:25–17:25 BRT) registrado.
+- [2026-11-11 13:40] [ANTIGRAVITY] ronda #1: nada novo na Caixa de entrada da Carina; entregue Checkpoint Hora 1 (Globo 3D ↔ Mapa-múndi Plano) + carga dos 31 projetos brasileiros no PR #1 (`718 page(s) built`).
