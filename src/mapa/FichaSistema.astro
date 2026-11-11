@@ -77,13 +77,18 @@ const miniMapPayload = JSON.stringify({
 
 <article class="ficha-shell" data-interlink-url={interlink_url} data-interlink-lang={interlink_lang}>
 	<nav class="ficha-breadcrumbs" aria-label="Breadcrumb">
-		<a href="/mapa" class="back-link">{t.ficha.backToMap}</a>
+		<a href={isEn ? '/mapa/en' : '/mapa'} class="back-link">{t.ficha.backToMap}</a>
 		<div class="ficha-top-actions">
-			<a href={`/mapa?s=${sistema.slug}`} class="btn-map-focus">
+			<a href={isEn ? `/mapa/en?s=${sistema.slug}` : `/mapa?s=${sistema.slug}`} class="btn-map-focus">
 				🗺️ {t.ficha.openInMapInteractive}
 			</a>
-			<a href={interlink_url} hreflang={interlink_lang} rel="alternate" class="btn-twin-portal">
-				🌐 {t.twinLinkLabel}
+			<a
+				href={isEn ? `/mapa/${sistema.slug}` : `/mapa/en/${sistema.slug}`}
+				hreflang={interlink_lang}
+				rel="alternate"
+				class="btn-twin-portal"
+			>
+				{isEn ? '🇧🇷 Ver em Português (PT-BR)' : '🇺🇸 View in English (EN)'}
 			</a>
 		</div>
 	</nav>

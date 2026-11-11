@@ -54,10 +54,20 @@ const payloadClient = JSON.stringify({
 
 <section class="mapa-shell" aria-label={t.pageTitle}>
 	<div class="mapa-topbar">
-		<div class="mapa-Heading">
-			<span class="mapa-kicker">{t.heroKicker}</span>
-			<h1>{t.heroTitle}</h1>
-			<p class="mapa-subtitle">{t.heroSubtitle}</p>
+		<div class="mapa-Heading-row">
+			<div class="mapa-Heading">
+				<span class="mapa-kicker">{t.heroKicker}</span>
+				<h1>{t.heroTitle}</h1>
+				<p class="mapa-subtitle">{t.heroSubtitle}</p>
+			</div>
+			<div class="lang-switch-group" role="navigation" aria-label="Idioma / Language">
+				<a href="/mapa" class={`btn-lang ${!isEn ? 'is-active' : ''}`} hreflang="pt-br">
+					🇧🇷 Português
+				</a>
+				<a href="/mapa/en" class={`btn-lang ${isEn ? 'is-active' : ''}`} hreflang="en">
+					🇺🇸 English
+				</a>
+			</div>
 		</div>
 
 		<div class="mapa-controls" role="region" aria-label="Filtros do mapa">
@@ -178,11 +188,12 @@ const payloadClient = JSON.stringify({
 						const tipoLabel = tiposMap[sys.tipo] || sys.tipo;
 						const statusLabel = statusMap[sys.status] || sys.status;
 						const stColor = STATUS_COLORS[sys.status] || '#64748b';
+						const sheetBase = isEn ? '/mapa/en' : '/mapa';
 						return (
 							<tr data-sys-row={sys.id} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
 								<td>
 									<strong>
-										<a href={`/mapa/${sys.slug}`}>{nome}</a>
+										<a href={`${sheetBase}/${sys.slug}`}>{nome}</a>
 									</strong>
 									{sys.verificado_completo && (
 										<span class="verified-pill" title={t.drawer.verifiedBadge}>✓</span>
@@ -210,7 +221,7 @@ const payloadClient = JSON.stringify({
 									>
 										{t.directory.viewOnMap}
 									</button>
-									<a href={`/mapa/${sys.slug}`} class="btn-link-sheet">
+									<a href={`${sheetBase}/${sys.slug}`} class="btn-link-sheet">
 										{t.directory.openSheet} →
 									</a>
 								</td>
@@ -409,7 +420,8 @@ const payloadClient = JSON.stringify({
 				   </ul>`
 				: `<p class="drawer-empty-note">${escapeHtml(t.drawer.fields.semMaterias)}</p>`;
 
-			const twinHref = `${t.twinPortalUrl}/mapa/${sys.slug}`;
+			const sheetHref = isEn ? `/mapa/en/${sys.slug}` : `/mapa/${sys.slug}`;
+			const twinHref = isEn ? `/mapa/${sys.slug}` : `/mapa/en/${sys.slug}`;
 
 			drawerBody.innerHTML = `
 				<h2 class="drawer-title">${escapeHtml(nome)}</h2>
@@ -419,7 +431,7 @@ const payloadClient = JSON.stringify({
 				<p class="drawer-resumo">${escapeHtml(resumo)}</p>
 
 				<div class="drawer-cta-row">
-					<a href="/mapa/${escapeHtml(sys.slug)}" class="btn-primary-sheet">
+					<a href="${escapeHtml(sheetHref)}" class="btn-primary-sheet">
 						${escapeHtml(t.drawer.openFullSheet)}
 					</a>
 				</div>
@@ -844,6 +856,37 @@ const payloadClient = JSON.stringify({
 
 	.mapa-topbar {
 		margin-bottom: 1.25rem;
+	}
+
+	.mapa-Heading-row {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-items: flex-start;
+		gap: 1rem;
+	}
+
+	.lang-switch-group {
+		display: inline-flex;
+		border: 1px solid #cbd5e1;
+		border-radius: 8px;
+		overflow: hidden;
+		background: #ffffff;
+		flex-shrink: 0;
+	}
+
+	.btn-lang {
+		padding: 0.45rem 0.85rem;
+		font-size: 0.85rem;
+		font-weight: 700;
+		text-decoration: none;
+		color: #334155;
+		background: #f8fafc;
+	}
+
+	.btn-lang.is-active {
+		background: #d35400;
+		color: #ffffff;
 	}
 
 	.mapa-kicker {
