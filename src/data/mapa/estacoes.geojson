@@ -4464,6 +4464,582 @@
           45.28
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-madri",
+        "sistema_nome_pt": "Metrô de Madri e Metros Ligeros (Metro de Madrid)",
+        "sistema_nome_en": "Madrid Metro & Light Rail Network (Metro de Madrid)",
+        "nome": "Puerta del Sol (Marco Zero de Madri — Metrô & Cercanías)",
+        "linha": "Linhas 1 / 2 / 3 & Cercanías C-3/C-4",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703,
+          40.417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-madri",
+        "sistema_nome_pt": "Metrô de Madri e Metros Ligeros (Metro de Madrid)",
+        "sistema_nome_en": "Madrid Metro & Light Rail Network (Metro de Madrid)",
+        "nome": "Nuevos Ministerios (Hub Paseo de la Castellana)",
+        "linha": "Linhas 6 / 8 / 10 & Cercanías",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.692,
+          40.446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-madri",
+        "sistema_nome_pt": "Metrô de Madri e Metros Ligeros (Metro de Madrid)",
+        "sistema_nome_en": "Madrid Metro & Light Rail Network (Metro de Madrid)",
+        "nome": "Avenida de América (Intercambiador 4 Linhas)",
+        "linha": "Linhas 4 / 6 / 7 / 9",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.676,
+          40.438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-madri",
+        "sistema_nome_pt": "Metrô de Madri e Metros Ligeros (Metro de Madrid)",
+        "sistema_nome_en": "Madrid Metro & Light Rail Network (Metro de Madrid)",
+        "nome": "Aeropuerto T4 (Barajas)",
+        "linha": "Linha 8 / Cercanías C-1 e C-10",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.593,
+          40.491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-madri",
+        "sistema_nome_pt": "Metrô de Madri e Metros Ligeros (Metro de Madrid)",
+        "sistema_nome_en": "Madrid Metro & Light Rail Network (Metro de Madrid)",
+        "nome": "Móstoles Central (Anel MetroSur L12)",
+        "linha": "Linha 12 MetroSur & Cercanías C-5",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.865,
+          40.322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-barcelona",
+        "sistema_nome_pt": "Metrô de Barcelona e FGC (TMB & Ferrocarrils de la Generalitat)",
+        "sistema_nome_en": "Barcelona Metro & FGC Network",
+        "nome": "Plaça de Catalunya (Coração do Metrô, FGC e Rodalies)",
+        "linha": "Linhas L1 / L3 / L6 / L7 & Rodalies",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17,
+          41.387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-barcelona",
+        "sistema_nome_pt": "Metrô de Barcelona e FGC (TMB & Ferrocarrils de la Generalitat)",
+        "sistema_nome_en": "Barcelona Metro & FGC Network",
+        "nome": "Plaça d'Espanya (Barcelona)",
+        "linha": "Linhas L1 / L3 / L8 FGC",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.149,
+          41.375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-barcelona",
+        "sistema_nome_pt": "Metrô de Barcelona e FGC (TMB & Ferrocarrils de la Generalitat)",
+        "sistema_nome_en": "Barcelona Metro & FGC Network",
+        "nome": "Passeig de Gràcia",
+        "linha": "Linhas L2 / L3 / L4 & Rodalies",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.165,
+          41.392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-barcelona",
+        "sistema_nome_pt": "Metrô de Barcelona e FGC (TMB & Ferrocarrils de la Generalitat)",
+        "sistema_nome_en": "Barcelona Metro & FGC Network",
+        "nome": "La Sagrera (Intercambiador L1/L5/L9/L10 Automática)",
+        "linha": "Linhas L1 / L5 / L9 Nord / L10 Nord",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.187,
+          41.422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-barcelona",
+        "sistema_nome_pt": "Metrô de Barcelona e FGC (TMB & Ferrocarrils de la Generalitat)",
+        "sistema_nome_en": "Barcelona Metro & FGC Network",
+        "nome": "Aeroport T1 (Barcelona El Prat — Linha 9 Automática)",
+        "linha": "Linha 9 Sud (GoA4)",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.072,
+          41.288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cercanias-rodalies-espanha",
+        "sistema_nome_pt": "Cercanías Madrid & Rodalies de Catalunya (Trens Metropolitanos Renfe)",
+        "sistema_nome_en": "Cercanías Madrid & Rodalies de Catalunya (Renfe Commuter Rail)",
+        "nome": "Atocha Cercanías (Maior Estação Ferroviária da Espanha)",
+        "linha": "Todas as Linhas Cercanías Madrid & AVE",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69,
+          40.406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cercanias-rodalies-espanha",
+        "sistema_nome_pt": "Cercanías Madrid & Rodalies de Catalunya (Trens Metropolitanos Renfe)",
+        "sistema_nome_en": "Cercanías Madrid & Rodalies de Catalunya (Renfe Commuter Rail)",
+        "nome": "Madrid-Chamartín – Clara Campoamor",
+        "linha": "Cercanías / Metrô L1 e L10 / AVE Norte e Levante",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.682,
+          40.472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-bilbao-valencia-sevilha",
+        "sistema_nome_pt": "Metrôs Regionais da Espanha (Valência, Bilbao, Sevilha e Málaga)",
+        "sistema_nome_en": "Spain Regional Metros & Light Rail (Valencia, Bilbao, Seville & Málaga)",
+        "nome": "Moyua (Estação Ícone 'Fosterito' do Metrô de Bilbao)",
+        "linha": "Metrô de Bilbao Linhas 1 e 2",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.935,
+          43.263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-bilbao-valencia-sevilha",
+        "sistema_nome_pt": "Metrôs Regionais da Espanha (Valência, Bilbao, Sevilha e Málaga)",
+        "sistema_nome_en": "Spain Regional Metros & Light Rail (Valencia, Bilbao, Seville & Málaga)",
+        "nome": "Casco Viejo / Zazpikaleak (Bilbao)",
+        "linha": "Metrô de Bilbao Linhas 1, 2 e 3",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.922,
+          43.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-bilbao-valencia-sevilha",
+        "sistema_nome_pt": "Metrôs Regionais da Espanha (Valência, Bilbao, Sevilha e Málaga)",
+        "sistema_nome_en": "Spain Regional Metros & Light Rail (Valencia, Bilbao, Seville & Málaga)",
+        "nome": "Xàtiva (Centro de Valência — Metrovalencia)",
+        "linha": "Linhas 3, 5 e 9 Metrovalencia",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.377,
+          39.467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-bilbao-valencia-sevilha",
+        "sistema_nome_pt": "Metrôs Regionais da Espanha (Valência, Bilbao, Sevilha e Málaga)",
+        "sistema_nome_en": "Spain Regional Metros & Light Rail (Valencia, Bilbao, Seville & Málaga)",
+        "nome": "Puerta Jerez (Centro Histórico de Sevilha)",
+        "linha": "Metrô de Sevilha Linha 1 & VLT Metrocentro",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.993,
+          37.382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-madri-barcelona-franca",
+        "sistema_nome_pt": "AVE Corredor Nordeste (Madri – Zaragoza – Barcelona – Figueres/França, 310 km/h)",
+        "sistema_nome_en": "AVE Northeast Corridor (Madrid – Zaragoza – Barcelona – Figueres/France, 310 km/h)",
+        "nome": "Madrid Puerta de Atocha – Almudena Grandes (Terminal AVE)",
+        "linha": "AVE Nordeste, Sul e Levante",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69,
+          40.406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-madri-barcelona-franca",
+        "sistema_nome_pt": "AVE Corredor Nordeste (Madri – Zaragoza – Barcelona – Figueres/França, 310 km/h)",
+        "sistema_nome_en": "AVE Northeast Corridor (Madrid – Zaragoza – Barcelona – Figueres/France, 310 km/h)",
+        "nome": "Zaragoza-Delicias (Estação Intermodal AVE)",
+        "linha": "AVE Madri–Barcelona",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.911,
+          41.659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-madri-barcelona-franca",
+        "sistema_nome_pt": "AVE Corredor Nordeste (Madri – Zaragoza – Barcelona – Figueres/França, 310 km/h)",
+        "sistema_nome_en": "AVE Northeast Corridor (Madrid – Zaragoza – Barcelona – Figueres/France, 310 km/h)",
+        "nome": "Camp de Tarragona (AVE)",
+        "linha": "AVE Madri–Barcelona",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.24,
+          41.196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-madri-barcelona-franca",
+        "sistema_nome_pt": "AVE Corredor Nordeste (Madri – Zaragoza – Barcelona – Figueres/França, 310 km/h)",
+        "sistema_nome_en": "AVE Northeast Corridor (Madrid – Zaragoza – Barcelona – Figueres/France, 310 km/h)",
+        "nome": "Barcelona-Sants (Principal Hub Ferroviário da Catalunha)",
+        "linha": "AVE / Iryo / Ouigo / TGV / Rodalies / Metrô L3 e L5",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14,
+          41.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-madri-barcelona-franca",
+        "sistema_nome_pt": "AVE Corredor Nordeste (Madri – Zaragoza – Barcelona – Figueres/França, 310 km/h)",
+        "sistema_nome_en": "AVE Northeast Corridor (Madrid – Zaragoza – Barcelona – Figueres/France, 310 km/h)",
+        "nome": "Girona (AVE Subterrâneo)",
+        "linha": "AVE Barcelona–Figueres–França",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.817,
+          41.979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-madri-barcelona-franca",
+        "sistema_nome_pt": "AVE Corredor Nordeste (Madri – Zaragoza – Barcelona – Figueres/França, 310 km/h)",
+        "sistema_nome_en": "AVE Northeast Corridor (Madrid – Zaragoza – Barcelona – Figueres/France, 310 km/h)",
+        "nome": "Figueres-Vilafant (Fronteira AVE/TGV Pireneus)",
+        "linha": "AVE Espanha–França",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.946,
+          42.265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-malha-nacional-espanha",
+        "sistema_nome_pt": "Malha Nacional AVE Sul, Levante, Norte e Galícia (Maior Rede de Alta Velocidade da Europa — 3.966 km)",
+        "sistema_nome_en": "Spain National AVE Network — South, Levante, North & Galicia (Europe's Largest HSR Network — 3,966 km)",
+        "nome": "Córdoba (Bifurcação AVE Sevilha / Málaga / Granada)",
+        "linha": "AVE Sul",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.789,
+          37.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-malha-nacional-espanha",
+        "sistema_nome_pt": "Malha Nacional AVE Sul, Levante, Norte e Galícia (Maior Rede de Alta Velocidade da Europa — 3.966 km)",
+        "sistema_nome_en": "Spain National AVE Network — South, Levante, North & Galicia (Europe's Largest HSR Network — 3,966 km)",
+        "nome": "Sevilla-Santa Justa (Terminal Histórica AVE 1992)",
+        "linha": "AVE Madri–Sevilha",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.975,
+          37.392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-malha-nacional-espanha",
+        "sistema_nome_pt": "Malha Nacional AVE Sul, Levante, Norte e Galícia (Maior Rede de Alta Velocidade da Europa — 3.966 km)",
+        "sistema_nome_en": "Spain National AVE Network — South, Levante, North & Galicia (Europe's Largest HSR Network — 3,966 km)",
+        "nome": "Málaga-María Zambrano (AVE Costa del Sol)",
+        "linha": "AVE Madri–Málaga",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.432,
+          36.712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-malha-nacional-espanha",
+        "sistema_nome_pt": "Malha Nacional AVE Sul, Levante, Norte e Galícia (Maior Rede de Alta Velocidade da Europa — 3.966 km)",
+        "sistema_nome_en": "Spain National AVE Network — South, Levante, North & Galicia (Europe's Largest HSR Network — 3,966 km)",
+        "nome": "València-Joaquín Sorolla (AVE Levante)",
+        "linha": "AVE Madri–Valência (1h40)",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38,
+          39.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-malha-nacional-espanha",
+        "sistema_nome_pt": "Malha Nacional AVE Sul, Levante, Norte e Galícia (Maior Rede de Alta Velocidade da Europa — 3.966 km)",
+        "sistema_nome_en": "Spain National AVE Network — South, Levante, North & Galicia (Europe's Largest HSR Network — 3,966 km)",
+        "nome": "Valladolid-Campo Grande (Hub AVE Norte)",
+        "linha": "AVE Norte / Galícia / Astúrias",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.728,
+          41.642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-malha-nacional-espanha",
+        "sistema_nome_pt": "Malha Nacional AVE Sul, Levante, Norte e Galícia (Maior Rede de Alta Velocidade da Europa — 3.966 km)",
+        "sistema_nome_en": "Spain National AVE Network — South, Levante, North & Galicia (Europe's Largest HSR Network — 3,966 km)",
+        "nome": "Ourense (Portal de Alta Velocidade da Galícia)",
+        "linha": "AVE Madri–Galícia",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.861,
+          42.348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ave-malha-nacional-espanha",
+        "sistema_nome_pt": "Malha Nacional AVE Sul, Levante, Norte e Galícia (Maior Rede de Alta Velocidade da Europa — 3.966 km)",
+        "sistema_nome_en": "Spain National AVE Network — South, Levante, North & Galicia (Europe's Largest HSR Network — 3,966 km)",
+        "nome": "Oviedo (Terminal AVE Astúrias via Túnel de Pajares)",
+        "linha": "AVE Madri–Astúrias",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85,
+          43.366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "y-basco-corredor-mediterraneo",
+        "sistema_nome_pt": "Y Basco (Alta Velocidade Vitória–Bilbao–San Sebastián) e Corredor Mediterrâneo (Em obras)",
+        "sistema_nome_en": "Basque Y High-Speed Rail (Vitoria–Bilbao–San Sebastián) & Mediterranean Corridor (Under Construction)",
+        "nome": "Bilbao-Abando Indalecio Prieto (Nova Estação Subterrânea Y Basco)",
+        "linha": "Y Basco Alta Velocidade (Em obras)",
+        "status": "obras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.928,
+          43.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "y-basco-corredor-mediterraneo",
+        "sistema_nome_pt": "Y Basco (Alta Velocidade Vitória–Bilbao–San Sebastián) e Corredor Mediterrâneo (Em obras)",
+        "sistema_nome_en": "Basque Y High-Speed Rail (Vitoria–Bilbao–San Sebastián) & Mediterranean Corridor (Under Construction)",
+        "nome": "Donostia / San Sebastián – Atotxa (Terminal Y Basco)",
+        "linha": "Y Basco Alta Velocidade (Em obras)",
+        "status": "obras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.976,
+          43.317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "y-basco-corredor-mediterraneo",
+        "sistema_nome_pt": "Y Basco (Alta Velocidade Vitória–Bilbao–San Sebastián) e Corredor Mediterrâneo (Em obras)",
+        "sistema_nome_en": "Basque Y High-Speed Rail (Vitoria–Bilbao–San Sebastián) & Mediterranean Corridor (Under Construction)",
+        "nome": "Almería (Terminal Sul do Corredor Mediterrâneo em Obras)",
+        "linha": "AVE Murcia–Almería (Em obras)",
+        "status": "obras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.458,
+          36.834
+        ]
+      }
     }
   ]
 }
