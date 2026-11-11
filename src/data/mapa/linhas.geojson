@@ -456,6 +456,39 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "sistema_id": "cr450-tav-chengdu-chongqing",
+        "sistema_nome_pt": "Ferrovia de Alta Velocidade Chengdu–Chongqing Linha Central (400 km/h CR450)",
+        "sistema_nome_en": "Chengdu–Chongqing Central High-Speed Railway (400 km/h CR450 Program)",
+        "linha": "TAV Chengdu–Chongqing Linha Central (400 km/h CR450 — Em obras)",
+        "status": "obras",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.141,
+            30.629
+          ],
+          [
+            104.85,
+            30.39
+          ],
+          [
+            105.58,
+            30.08
+          ],
+          [
+            106.551,
+            29.609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "linha-1",
       "properties": {
         "sistema_id": "metro-sp",
@@ -2390,6 +2423,740 @@
           [
             -46.4678,
             -23.4258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-xangai",
+        "sistema_nome_pt": "Metrô de Xangai e Maglev (Shanghai Metro)",
+        "sistema_nome_en": "Shanghai Metro & Maglev Network",
+        "linha": "Linha 1 (Xinzhuang – Fujin Road)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.385,
+            31.111
+          ],
+          [
+            121.431,
+            31.167
+          ],
+          [
+            121.455,
+            31.215
+          ],
+          [
+            121.473,
+            31.233
+          ],
+          [
+            121.456,
+            31.249
+          ],
+          [
+            121.445,
+            31.32
+          ],
+          [
+            121.425,
+            31.392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-xangai",
+        "sistema_nome_pt": "Metrô de Xangai e Maglev (Shanghai Metro)",
+        "sistema_nome_en": "Shanghai Metro & Maglev Network",
+        "linha": "Linha 2 (Hongqiao Hub – Lujiazui – Aeroporto de Pudong)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.32,
+            31.194
+          ],
+          [
+            121.392,
+            31.213
+          ],
+          [
+            121.446,
+            31.224
+          ],
+          [
+            121.473,
+            31.233
+          ],
+          [
+            121.499,
+            31.238
+          ],
+          [
+            121.558,
+            31.203
+          ],
+          [
+            121.662,
+            31.201
+          ],
+          [
+            121.805,
+            31.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-xangai",
+        "sistema_nome_pt": "Metrô de Xangai e Maglev (Shanghai Metro)",
+        "sistema_nome_en": "Shanghai Metro & Maglev Network",
+        "linha": "Shanghai Maglev (Longyang Road – Aeroporto de Pudong, 430 km/h)",
+        "status": "operacao",
+        "tipo": "aeromovel",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.558,
+            31.203
+          ],
+          [
+            121.63,
+            31.198
+          ],
+          [
+            121.72,
+            31.178
+          ],
+          [
+            121.805,
+            31.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-pequim",
+        "sistema_nome_pt": "Metrô de Pequim (Beijing Subway)",
+        "sistema_nome_en": "Beijing Subway Network",
+        "linha": "Linha 1 – Batong (Gucheng – Tian'anmen – Universal Resort)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.19,
+            39.907
+          ],
+          [
+            116.275,
+            39.907
+          ],
+          [
+            116.374,
+            39.907
+          ],
+          [
+            116.404,
+            39.907
+          ],
+          [
+            116.461,
+            39.908
+          ],
+          [
+            116.655,
+            39.89
+          ],
+          [
+            116.678,
+            39.854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-pequim",
+        "sistema_nome_pt": "Metrô de Pequim (Beijing Subway)",
+        "sistema_nome_en": "Beijing Subway Network",
+        "linha": "Linha 2 (Anel Central Histórico de Pequim)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.356,
+            39.94
+          ],
+          [
+            116.434,
+            39.941
+          ],
+          [
+            116.435,
+            39.901
+          ],
+          [
+            116.397,
+            39.899
+          ],
+          [
+            116.356,
+            39.899
+          ],
+          [
+            116.356,
+            39.94
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-pequim",
+        "sistema_nome_pt": "Metrô de Pequim (Beijing Subway)",
+        "sistema_nome_en": "Beijing Subway Network",
+        "linha": "Linha 4 – Daxing (Anheqiao North – Beijing South – Tiangongyuan)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.286,
+            40.012
+          ],
+          [
+            116.326,
+            39.976
+          ],
+          [
+            116.374,
+            39.907
+          ],
+          [
+            116.379,
+            39.865
+          ],
+          [
+            116.338,
+            39.772
+          ],
+          [
+            116.32,
+            39.67
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-pequim",
+        "sistema_nome_pt": "Metrô de Pequim (Beijing Subway)",
+        "sistema_nome_en": "Beijing Subway Network",
+        "linha": "Linha 10 (Segundo Anel Metroviário — 57 km)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.298,
+            39.975
+          ],
+          [
+            116.461,
+            39.975
+          ],
+          [
+            116.461,
+            39.845
+          ],
+          [
+            116.302,
+            39.845
+          ],
+          [
+            116.298,
+            39.975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-guangzhou",
+        "sistema_nome_pt": "Metrô de Guangzhou (Cantão)",
+        "sistema_nome_en": "Guangzhou Metro",
+        "linha": "Linha 1 (Xilang – Estação Leste de Guangzhou)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.232,
+            23.065
+          ],
+          [
+            113.251,
+            23.112
+          ],
+          [
+            113.268,
+            23.128
+          ],
+          [
+            113.321,
+            23.131
+          ],
+          [
+            113.325,
+            23.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-guangzhou",
+        "sistema_nome_pt": "Metrô de Guangzhou (Cantão)",
+        "sistema_nome_en": "Guangzhou Metro",
+        "linha": "Linha 3 (Aeroporto Baiyun – Tiyu Xilu – Canton Tower – Panyu Square)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.307,
+            23.389
+          ],
+          [
+            113.325,
+            23.21
+          ],
+          [
+            113.321,
+            23.131
+          ],
+          [
+            113.324,
+            23.106
+          ],
+          [
+            113.337,
+            23.005
+          ],
+          [
+            113.385,
+            22.936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-shenzhen",
+        "sistema_nome_pt": "Metrô de Shenzhen",
+        "sistema_nome_en": "Shenzhen Metro",
+        "linha": "Linha 1 Luobao (Luohu – Futian – Qianhaiwan – Aeroporto Leste)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.118,
+            22.532
+          ],
+          [
+            114.085,
+            22.541
+          ],
+          [
+            114.055,
+            22.538
+          ],
+          [
+            113.974,
+            22.538
+          ],
+          [
+            113.896,
+            22.536
+          ],
+          [
+            113.822,
+            22.648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-shenzhen",
+        "sistema_nome_pt": "Metrô de Shenzhen",
+        "sistema_nome_en": "Shenzhen Metro",
+        "linha": "Linha 4 Longhua (Futian Checkpoint – Shenzhen North – Niuhu)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.069,
+            22.516
+          ],
+          [
+            114.059,
+            22.548
+          ],
+          [
+            114.029,
+            22.609
+          ],
+          [
+            114.022,
+            22.662
+          ],
+          [
+            114.062,
+            22.725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mtr-hong-kong",
+        "sistema_nome_pt": "MTR de Hong Kong (Mass Transit Railway)",
+        "sistema_nome_en": "Hong Kong MTR (Mass Transit Railway)",
+        "linha": "Island Line (Kennedy Town – Central – Causeway Bay – Chai Wan)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.128,
+            22.281
+          ],
+          [
+            114.158,
+            22.282
+          ],
+          [
+            114.165,
+            22.279
+          ],
+          [
+            114.184,
+            22.28
+          ],
+          [
+            114.214,
+            22.285
+          ],
+          [
+            114.237,
+            22.265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mtr-hong-kong",
+        "sistema_nome_pt": "MTR de Hong Kong (Mass Transit Railway)",
+        "sistema_nome_en": "Hong Kong MTR (Mass Transit Railway)",
+        "linha": "Tsuen Wan Line (Central – Tsim Sha Tsui – Mong Kok – Tsuen Wan)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.158,
+            22.282
+          ],
+          [
+            114.172,
+            22.297
+          ],
+          [
+            114.169,
+            22.319
+          ],
+          [
+            114.148,
+            22.337
+          ],
+          [
+            114.118,
+            22.373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mtr-hong-kong",
+        "sistema_nome_pt": "MTR de Hong Kong (Mass Transit Railway)",
+        "sistema_nome_en": "Hong Kong MTR (Mass Transit Railway)",
+        "linha": "East Rail Line (Admiralty – Hung Hom – Kowloon Tong – Lo Wu / Fronteira Shenzhen)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.165,
+            22.279
+          ],
+          [
+            114.181,
+            22.303
+          ],
+          [
+            114.176,
+            22.337
+          ],
+          [
+            114.187,
+            22.382
+          ],
+          [
+            114.165,
+            22.446
+          ],
+          [
+            114.113,
+            22.528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilho-metro-chongqing",
+        "sistema_nome_pt": "Trânsito Ferroviário de Chongqing (CRT — Monotrilho e Metrô)",
+        "sistema_nome_en": "Chongqing Rail Transit (CRT — Monorail & Metro)",
+        "linha": "Linha 2 — Monotrilho Pesado (Jiaochangkou – Liziba – Yudong)",
+        "status": "operacao",
+        "tipo": "monotrilho",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.574,
+            29.556
+          ],
+          [
+            106.539,
+            29.554
+          ],
+          [
+            106.513,
+            29.518
+          ],
+          [
+            106.489,
+            29.475
+          ],
+          [
+            106.518,
+            29.385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilho-metro-chongqing",
+        "sistema_nome_pt": "Trânsito Ferroviário de Chongqing (CRT — Monotrilho e Metrô)",
+        "sistema_nome_en": "Chongqing Rail Transit (CRT — Monorail & Metro)",
+        "linha": "Linha 3 — Maior Monotrilho do Mundo (Yudong – Chongqing North – Aeroporto Jiangbei, 67 km)",
+        "status": "operacao",
+        "tipo": "monotrilho",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.518,
+            29.385
+          ],
+          [
+            106.545,
+            29.525
+          ],
+          [
+            106.55,
+            29.578
+          ],
+          [
+            106.551,
+            29.609
+          ],
+          [
+            106.641,
+            29.719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-xangai",
+        "sistema_nome_pt": "Ferrovia de Alta Velocidade Pequim–Xangai (Jinghu HSR — 350 km/h)",
+        "sistema_nome_en": "Beijing–Shanghai High-Speed Railway (Jinghu HSR — 350 km/h)",
+        "linha": "TAV Pequim–Xangai (Beijing South – Jinan West – Nanjing South – Shanghai Hongqiao)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.379,
+            39.865
+          ],
+          [
+            117.055,
+            39.088
+          ],
+          [
+            116.892,
+            36.669
+          ],
+          [
+            117.305,
+            34.266
+          ],
+          [
+            118.798,
+            31.969
+          ],
+          [
+            120.642,
+            31.422
+          ],
+          [
+            121.32,
+            31.194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-guangzhou-hk",
+        "sistema_nome_pt": "Ferrovia de Alta Velocidade Pequim–Wuhan–Guangzhou–Shenzhen–Hong Kong",
+        "sistema_nome_en": "Beijing–Wuhan–Guangzhou–Shenzhen–Hong Kong High-Speed Railway",
+        "linha": "TAV Pequim–Wuhan–Guangzhou–Shenzhen–Hong Kong (2.298 km, 350 km/h)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.322,
+            39.894
+          ],
+          [
+            114.482,
+            38.012
+          ],
+          [
+            113.778,
+            34.759
+          ],
+          [
+            114.424,
+            30.608
+          ],
+          [
+            113.065,
+            28.147
+          ],
+          [
+            113.269,
+            22.989
+          ],
+          [
+            114.029,
+            22.609
+          ],
+          [
+            114.165,
+            22.304
           ]
         ]
       }
