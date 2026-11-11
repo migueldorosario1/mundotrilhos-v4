@@ -97,6 +97,17 @@ const payloadClient = JSON.stringify({
 				</label>
 
 				<div class="control-actions">
+					<div class="proj-toggle-group" role="group" aria-label="Modo de visualização do mapa">
+						<button type="button" id="mapa-btn-proj-globe" class="btn-proj is-active" data-proj="globe">
+							{t.projectionGlobe}
+						</button>
+						<button type="button" id="mapa-btn-proj-flat" class="btn-proj" data-proj="mercator">
+							{t.projectionFlat}
+						</button>
+					</div>
+					<button type="button" id="mapa-btn-world" class="btn-secondary">
+						{t.worldViewBtn}
+					</button>
 					<button type="button" id="mapa-btn-reset" class="btn-secondary">
 						{t.resetViewBtn}
 					</button>
@@ -268,6 +279,9 @@ const payloadClient = JSON.stringify({
 		const selectTipo = document.getElementById('mapa-filter-tipo') as HTMLSelectElement | null;
 		const selectStatus = document.getElementById('mapa-filter-status') as HTMLSelectElement | null;
 		const toggleCarga = document.getElementById('mapa-toggle-carga') as HTMLInputElement | null;
+		const btnProjGlobe = document.getElementById('mapa-btn-proj-globe');
+		const btnProjFlat = document.getElementById('mapa-btn-proj-flat');
+		const btnWorld = document.getElementById('mapa-btn-world');
 		const btnReset = document.getElementById('mapa-btn-reset');
 		const btnShare = document.getElementById('mapa-btn-share');
 		const drawer = document.getElementById('mapa-drawer');
@@ -276,6 +290,8 @@ const payloadClient = JSON.stringify({
 		const drawerCloseBtn = document.getElementById('drawer-close-btn');
 
 		let activeSlug: string | null = initialSysSlug;
+		let currentProjection: 'globe' | 'mercator' =
+			urlParams.get('proj') === 'mercator' ? 'mercator' : 'globe';
 		let map: any = null;
 
 		function escapeHtml(str: string): string {
@@ -561,6 +577,7 @@ const payloadClient = JSON.stringify({
 
 		const openStyle: maplibregl.StyleSpecification = {
 			version: 8,
+			projection: { type: currentProjection },
 			sources: {
 				'carto-voyager': {
 					type: 'raster',
@@ -662,7 +679,7 @@ const payloadClient = JSON.stringify({
 				style: openStyle,
 				center: startCenter,
 				zoom: startZoom,
-				minZoom: 3,
+				minZoom: 1.2,
 				maxZoom: 18,
 				canvasContextAttributes: { preserveDrawingBuffer: true },
 			});
@@ -739,6 +756,35 @@ const payloadClient = JSON.stringify({
 		selectTipo?.addEventListener('change', applyFilters);
 		selectStatus?.addEventListener('change', applyFilters);
 		toggleCarga?.addEventListener('change', applyFilters);
+
+		function setMapProjection(proj: 'globe' | 'mercator') {
+			currentProjection = proj;
+			btnProjGlobe?.classList.toggle('is-active', proj === 'globe');
+			btnProjFlat?.classList.toggle('is-active', proj === 'mercator');
+			if (map && typeof map.setProjection === 'function') {
+				try {
+					map.setProjection({ type: proj });
+				} catch (err) {
+					console.warn('[Mapa] Erro ao alternar projeção:', err);
+				}
+			}
+			const url = new URL(window.location.href);
+			url.searchParams.set('proj', proj);
+			window.history.replaceState({}, '', url.toString());
+		}
+
+		if (currentProjection === 'mercator') {
+			btnProjGlobe?.classList.remove('is-active');
+			btnProjFlat?.classList.add('is-active');
+		}
+
+		btnProjGlobe?.addEventListener('click', () => setMapProjection('globe'));
+		btnProjFlat?.addEventListener('click', () => setMapProjection('mercator'));
+
+		btnWorld?.addEventListener('click', () => {
+			closeDrawer();
+			if (map) map.flyTo({ center: [-30, 10], zoom: 1.85, duration: 950 });
+		});
 
 		btnReset?.addEventListener('click', () => {
 			closeDrawer();
@@ -880,7 +926,33 @@ const payloadClient = JSON.stringify({
 	.control-actions {
 		margin-left: auto;
 		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
 		gap: 0.5rem;
+	}
+
+	.proj-toggle-group {
+		display: inline-flex;
+		border: 1px solid #cbd5e1;
+		border-radius: 7px;
+		overflow: hidden;
+		background: #f8fafc;
+	}
+
+	.btn-proj {
+		padding: 0.42rem 0.72rem;
+		border: none;
+		background: transparent;
+		color: #334155;
+		font-size: 0.83rem;
+		font-weight: 600;
+		cursor: pointer;
+		transition: background 0.15s, color 0.15s;
+	}
+
+	.btn-proj.is-active {
+		background: #0f172a;
+		color: #ffffff;
 	}
 
 	.btn-secondary {

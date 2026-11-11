@@ -1957,6 +1957,102 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tic-norte-expresso",
+        "sistema_id": "tic-eixo-norte-sp",
+        "nome": "TIC Eixo Norte (São Paulo – Jundiaí – Campinas)",
+        "cor": "#0284c7",
+        "status": "obras",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6674,
+            -23.5255
+          ],
+          [
+            -46.745,
+            -23.41
+          ],
+          [
+            -46.8845,
+            -23.195
+          ],
+          [
+            -47.0626,
+            -22.9099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vlt-bsb-w3",
+        "sistema_id": "vlt-brasilia",
+        "nome": "VLT de Brasília (W3 Sul/Norte – Aeroporto)",
+        "cor": "#eab308",
+        "status": "projeto",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.9172,
+            -15.8697
+          ],
+          [
+            -47.902,
+            -15.815
+          ],
+          [
+            -47.892,
+            -15.7998
+          ],
+          [
+            -47.889,
+            -15.745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rj-linha3-projeto",
+        "sistema_id": "linha-3-metro-rj",
+        "nome": "Linha 3 (Praça XV – Niterói – São Gonçalo)",
+        "cor": "#2563eb",
+        "status": "projeto",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1742,
+            -22.9035
+          ],
+          [
+            -43.1245,
+            -22.893
+          ],
+          [
+            -43.054,
+            -22.825
+          ],
+          [
+            -42.985,
+            -22.79
+          ]
+        ]
+      }
     }
   ]
 }
