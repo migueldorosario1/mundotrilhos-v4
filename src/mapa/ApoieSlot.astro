@@ -1,0 +1,26 @@
+---
+/**
+ * Slot reservado (componente vazio, sem conteúdo comercial, sem Pix nem doações)
+ * para futuro bloco de apoio ao projeto: "Apoie o Mapa dos Trilhos".
+ * O conteúdo virá depois, conforme diretriz do prompt.
+ */
+interface Props {
+	lang?: 'pt-br' | 'en';
+}
+const { lang = 'pt-br' } = Astro.props;
+const label = lang === 'en' ? 'Support the Rail Map' : 'Apoie o Mapa dos Trilhos';
+---
+
+<aside
+	id="apoie-mapa-trilhos-slot"
+	class="apoie-mapa-slot"
+	data-slot="apoie-mapa-trilhos"
+	data-title={label}
+	aria-hidden="true"
+></aside>
+
+<style>
+	.apoie-mapa-slot {
+		display: none;
+	}
+</style>

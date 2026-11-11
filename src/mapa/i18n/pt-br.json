@@ -1,0 +1,101 @@
+{
+  "lang": "pt-br",
+  "portalName": "Mundo Trilhos",
+  "portalUrl": "https://www.mundotrilhos.com",
+  "twinPortalName": "Rail Post",
+  "twinPortalUrl": "https://www.railpost.news",
+  "twinLang": "en",
+  "twinLinkLabel": "Read this system fact sheet in English on Rail Post →",
+  "pageTitle": "Mapa dos Trilhos — Sistemas Metroferroviários e Projetos do Brasil",
+  "pageDescription": "Mapa interativo e geodinâmico de todos os sistemas sobre trilhos do Brasil: metrôs, trens urbanos, VLTs, monotrilho, aeromóvel, trens regionais e grandes projetos ferroviários.",
+  "heroKicker": "ATLAS FERROVIÁRIO INTERATIVO · FASE 1: BRASIL",
+  "heroTitle": "Mapa dos Trilhos",
+  "heroSubtitle": "Explore a rede brasileira de metrôs, trens metropolitanos, VLTs, monotrilhos, aeromóvel e projetos ferroviários estruturantes. Amplie o mapa para ver os traçados das linhas e estações ou clique num sistema para abrir a ficha técnica auditada.",
+  "searchPlaceholder": "Buscar por cidade, estado ou sistema (ex.: São Paulo, Salvador, VLT, FIOL)...",
+  "filterTipoLabel": "Modalidade",
+  "filterStatusLabel": "Status",
+  "filterAll": "Todos",
+  "toggleCargaLabel": "Mostrar camada de ferrovias de carga / grandes projetos",
+  "projectionGlobe": "🌍 Globo 3D",
+  "projectionFlat": "🗺️ Mapa-múndi Plano",
+  "worldViewBtn": "🌎 Visão Planetária",
+  "resetViewBtn": "🇧🇷 Visão Brasil",
+  "shareViewBtn": "Copiar link desta visão",
+  "shareCopied": "Link copiado!",
+  "tipos": {
+    "metro": "Metrô",
+    "trem_urbano": "Trem Urbano / Metropolitano",
+    "vlt": "VLT / Bonde Moderno",
+    "monotrilho": "Monotrilho",
+    "aeromovel": "Aeromóvel",
+    "trem_regional": "Trem Regional / Intercidades",
+    "ferrovia_carga": "Ferrovia de Carga",
+    "projeto": "Projeto Estruturante"
+  },
+  "status": {
+    "operacao": "Em operação",
+    "obras": "Em obras / implantação",
+    "projeto": "Em projeto / estudo",
+    "paralisado": "Paralisado",
+    "desativado": "Histórico / desativado"
+  },
+  "drawer": {
+    "close": "Fechar painel",
+    "openFullSheet": "Ver ficha completa e fontes →",
+    "shareSystem": "Compartilhar no mapa",
+    "verifiedBadge": "Ficha 100% verificada",
+    "partialBadge": "Cadastro parcial (em expansão)",
+    "approxGeomNote": "Traçado esquemático/aproximado (em projeto ou obras)",
+    "nullValue": "dado em apuração",
+    "fields": {
+      "operador": "Operador / Concessão",
+      "cidade": "Cidade / Região",
+      "inauguracao": "Inauguração",
+      "extensao": "Extensão operacional/prevista",
+      "linhas": "Linhas",
+      "estacoes": "Estações / Paradas",
+      "passageirosDia": "Passageiros/dia útil",
+      "investimento": "Investimento apurado",
+      "proximasEntregas": "Próximas entregas e expansão",
+      "fontes": "Fontes oficiais consultadas",
+      "materiasRelacionadas": "Matérias relacionadas no Mundo Trilhos",
+      "semMaterias": "Nenhuma matéria específica vinculada ainda.",
+      "imageCredit": "Foto:",
+      "imageLicense": "Licença:"
+    }
+  },
+  "directory": {
+    "title": "Diretório completo de sistemas sobre trilhos (acessível e indexável)",
+    "subtitle": "Lista em texto de todos os sistemas mapeados para leitura rápida, leitores de tela e acesso direto às fichas estáticas.",
+    "colSistema": "Sistema",
+    "colCidade": "Cidade / UF",
+    "colTipo": "Modalidade",
+    "colStatus": "Status",
+    "colExtensao": "Extensão",
+    "colEstacoes": "Estações",
+    "colPassageiros": "Passageiros/dia",
+    "colFicha": "Ficha técnica",
+    "viewOnMap": "Ver no mapa",
+    "openSheet": "Abrir ficha"
+  },
+  "methodology": {
+    "title": "Metodologia e Atribuição — Como apuramos",
+    "text1": "O Mapa dos Trilhos segue o princípio de rigor factual estrito: todo número publicado (extensão em quilômetros, número de linhas e estações, demanda diária de passageiros, investimentos e datas) exige fonte primária oficial verificável (operadoras estatais e privadas, ANPTrilhos, CBTU, ANTT, Ministério dos Transportes e secretarias estaduais) com URL e data de consulta.",
+    "text2": "Quando um indicador ainda não possui consolidação oficial auditada na nossa base, o campo permanece explícito como «dado em apuração» (null) — nunca estimamos nem inventamos números. Os traçados geográficos de linhas e pontos de estações em operação provêm do OpenStreetMap sob licença aberta ODbL 1.0, simplificados estaticamente por script reprodutível em scripts/mapa/extract_osm_brasil.mjs.",
+    "osmAttribution": "Dados geográficos © OpenStreetMap contributors (licença ODbL 1.0) · Renderização MapLibre GL JS · Tiles abertos OpenFreeMap / CARTO."
+  },
+  "ficha": {
+    "backToMap": "← Voltar ao Mapa dos Trilhos",
+    "openInMapInteractive": "Abrir este sistema focado no mapa interativo",
+    "techSheetTitle": "Indicadores técnicos e operacionais",
+    "linesAndStationsTitle": "Linhas e estações mapeadas (OpenStreetMap / ODbL)",
+    "sourcesTitle": "Fontes primárias e referências desta ficha",
+    "consultedOn": "Consultado em",
+    "updatedOn": "Ficha atualizada em",
+    "relatedArticlesTitle": "Cobertura editorial no Mundo Trilhos",
+    "miniMapTitle": "Traçado georreferenciado do sistema"
+  },
+  "apoie": {
+    "ariaLabel": "Slot reservado: Apoie o Mapa dos Trilhos"
+  }
+}

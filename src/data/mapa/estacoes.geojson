@@ -1,0 +1,989 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "attribution": "© OpenStreetMap contributors (ODbL 1.0)",
+    "generated_at": "2026-11-11",
+    "script": "scripts/mapa/extract_osm_brasil.mjs"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "estacao-1",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Sé",
+        "linha": "Linha 1-Azul / Linha 3-Vermelha",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1-Azul",
+          "Linha 3-Vermelha"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6333,
+          -23.5453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-2",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Luz",
+        "linha": "Linha 1-Azul",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 4-Amarela",
+          "CPTM Linhas 7, 10, 11 e 13"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6345,
+          -23.5364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-3",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Paraíso",
+        "linha": "Linha 1-Azul / Linha 2-Verde",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1-Azul",
+          "Linha 2-Verde"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6408,
+          -23.5768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-4",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Ana Rosa",
+        "linha": "Linha 1-Azul / Linha 2-Verde",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1-Azul",
+          "Linha 2-Verde"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6387,
+          -23.5889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-5",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Jabaquara",
+        "linha": "Linha 1-Azul",
+        "status": "operacao",
+        "integracoes": [
+          "Corredor ABD EMTU"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6408,
+          -23.6461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-6",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Tucuruvi",
+        "linha": "Linha 1-Azul",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Urbano"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6033,
+          -23.4803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-7",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Consolação",
+        "linha": "Linha 2-Verde",
+        "status": "operacao",
+        "integracoes": [
+          "Estação Paulista - Linha 4-Amarela"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6626,
+          -23.5553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-8",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Vila Prudente",
+        "linha": "Linha 2-Verde / Linha 15-Prata",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 2-Verde",
+          "Linha 15-Prata"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5819,
+          -23.5844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-9",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Palmeiras-Barra Funda",
+        "linha": "Linha 3-Vermelha",
+        "status": "operacao",
+        "integracoes": [
+          "CPTM Linha 7-Rubi",
+          "Linha 8-Diamante",
+          "Rodoviária"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6674,
+          -23.5255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-10",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "nome": "Corinthians-Itaquera",
+        "linha": "Linha 3-Vermelha",
+        "status": "operacao",
+        "integracoes": [
+          "CPTM Linha 11-Coral"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4711,
+          -23.5422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-11",
+      "properties": {
+        "sistema_id": "viaquatro-viamobilidade",
+        "nome": "Pinheiros",
+        "linha": "Linha 4-Amarela / Linha 9-Esmeralda",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 4-Amarela",
+          "Linha 9-Esmeralda"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7018,
+          -23.5719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-12",
+      "properties": {
+        "sistema_id": "viaquatro-viamobilidade",
+        "nome": "Vila Sônia",
+        "linha": "Linha 4-Amarela",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Vila Sônia"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7351,
+          -23.6038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-13",
+      "properties": {
+        "sistema_id": "viaquatro-viamobilidade",
+        "nome": "Santo Amaro",
+        "linha": "Linha 5-Lilás / Linha 9-Esmeralda",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 5-Lilás",
+          "Linha 9-Esmeralda"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7077,
+          -23.6438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-14",
+      "properties": {
+        "sistema_id": "viaquatro-viamobilidade",
+        "nome": "Osasco",
+        "linha": "Linha 8-Diamante / Linha 9-Esmeralda",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 8-Diamante",
+          "Linha 9-Esmeralda"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7745,
+          -23.5284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-15",
+      "properties": {
+        "sistema_id": "cptm",
+        "nome": "Brás",
+        "linha": "Linhas 10, 11 e 12",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô Linha 3-Vermelha"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6161,
+          -23.5453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-16",
+      "properties": {
+        "sistema_id": "cptm",
+        "nome": "Tatuapé",
+        "linha": "Linhas 11-Coral e 12-Safira",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô Linha 3-Vermelha"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5764,
+          -23.5406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-17",
+      "properties": {
+        "sistema_id": "cptm",
+        "nome": "Aeroporto-Guarulhos",
+        "linha": "Linha 13-Jade",
+        "status": "operacao",
+        "integracoes": [
+          "Aeromóvel GRU Airport"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4851,
+          -23.4312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-18",
+      "properties": {
+        "sistema_id": "cptm",
+        "nome": "Jundiaí",
+        "linha": "Linha 7-Rubi",
+        "status": "operacao",
+        "integracoes": [
+          "Futuro TIC Eixo Norte"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8712,
+          -23.1951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-19",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "nome": "Central do Brasil",
+        "linha": "Linha 1 / Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "SuperVia",
+          "VLT Carioca"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1908,
+          -22.9041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-20",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "nome": "Carioca",
+        "linha": "Linha 1 / Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "VLT Carioca"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1782,
+          -22.9052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-21",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "nome": "Botafogo",
+        "linha": "Linha 1 / Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô na Superfície"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1818,
+          -22.9512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-22",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "nome": "General Osório",
+        "linha": "Linha 1 / Linha 4",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1",
+          "Linha 4"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1979,
+          -22.9848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-23",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "nome": "Jardim Oceânico",
+        "linha": "Linha 4",
+        "status": "operacao",
+        "integracoes": [
+          "BRT TransOeste"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3095,
+          -23.0055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-24",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "nome": "Pavuna",
+        "linha": "Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "SuperVia Ramal Belford Roxo"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3661,
+          -22.8065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-25",
+      "properties": {
+        "sistema_id": "supervia",
+        "nome": "Deodoro",
+        "linha": "Ramais Deodoro, Santa Cruz e Japeri",
+        "status": "operacao",
+        "integracoes": [
+          "BRT TransBrasil / TransOlímpica"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3845,
+          -22.8592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-26",
+      "properties": {
+        "sistema_id": "vlt-carioca",
+        "nome": "Terminal Intermodal Gentileza",
+        "linha": "Linhas 1 e 4",
+        "status": "operacao",
+        "integracoes": [
+          "BRT TransBrasil",
+          "Ônibus Municipais"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2122,
+          -22.8992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-27",
+      "properties": {
+        "sistema_id": "vlt-carioca",
+        "nome": "Aeroporto Santos Dumont",
+        "linha": "Linhas 1 e 3",
+        "status": "operacao",
+        "integracoes": [
+          "Aeroporto SDU"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1682,
+          -22.9125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-28",
+      "properties": {
+        "sistema_id": "metro-bh",
+        "nome": "Central (Belo Horizonte)",
+        "linha": "Linha 1-Laranja",
+        "status": "operacao",
+        "integracoes": [
+          "EFVM (Trem Vitória-Minas)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9345,
+          -19.9145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-29",
+      "properties": {
+        "sistema_id": "metro-bh",
+        "nome": "Lagoinha",
+        "linha": "Linha 1-Laranja",
+        "status": "operacao",
+        "integracoes": [
+          "MOVE BRT",
+          "Rodoviária de BH"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9442,
+          -19.9112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-30",
+      "properties": {
+        "sistema_id": "metro-bh",
+        "nome": "Eldorado",
+        "linha": "Linha 1-Laranja",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Eldorado (Contagem)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0365,
+          -19.9438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-31",
+      "properties": {
+        "sistema_id": "metro-bh",
+        "nome": "Vilarinho",
+        "linha": "Linha 1-Laranja",
+        "status": "operacao",
+        "integracoes": [
+          "MOVE Estação Vilarinho"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9482,
+          -19.8125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-32",
+      "properties": {
+        "sistema_id": "metro-bh",
+        "nome": "Nova Suíça (futura integração)",
+        "linha": "Linha 1 / Linha 2",
+        "status": "obras",
+        "integracoes": [
+          "Linha 1-Laranja",
+          "Linha 2-Lilás"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9682,
+          -19.9295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-33",
+      "properties": {
+        "sistema_id": "metro-bahia",
+        "nome": "Lapa",
+        "linha": "Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal da Lapa"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5125,
+          -12.9812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-34",
+      "properties": {
+        "sistema_id": "metro-bahia",
+        "nome": "Acesso Norte",
+        "linha": "Linha 1 / Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1",
+          "Linha 2",
+          "Terminal Acesso Norte"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4752,
+          -12.9785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-35",
+      "properties": {
+        "sistema_id": "metro-bahia",
+        "nome": "Águas Claras",
+        "linha": "Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Águas Claras",
+          "Futuro VLT de Salvador"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4325,
+          -12.8912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-36",
+      "properties": {
+        "sistema_id": "metro-bahia",
+        "nome": "Aeroporto (Salvador / Lauro de Freitas)",
+        "linha": "Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Aeroporto"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3385,
+          -12.9012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-37",
+      "properties": {
+        "sistema_id": "trensurb",
+        "nome": "Mercado",
+        "linha": "Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Centro Histórico de Porto Alegre"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2285,
+          -30.0265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-38",
+      "properties": {
+        "sistema_id": "trensurb",
+        "nome": "Aeroporto",
+        "linha": "Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Aeromóvel de Porto Alegre"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1812,
+          -29.9865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-39",
+      "properties": {
+        "sistema_id": "trensurb",
+        "nome": "Canoas",
+        "linha": "Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Ônibus Metropolitanos"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1785,
+          -29.9185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-40",
+      "properties": {
+        "sistema_id": "trensurb",
+        "nome": "Novo Hamburgo",
+        "linha": "Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Novo Hamburgo"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1325,
+          -29.6865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-41",
+      "properties": {
+        "sistema_id": "aeromovel-poa",
+        "nome": "Terminal 1 Aeroporto Salgado Filho",
+        "linha": "Conexão Metrô-Aeroporto",
+        "status": "operacao",
+        "integracoes": [
+          "Aeroporto Internacional Salgado Filho"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1752,
+          -29.9912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-42",
+      "properties": {
+        "sistema_id": "metro-df",
+        "nome": "Central (Plano Piloto)",
+        "linha": "Linhas Verde e Laranja",
+        "status": "operacao",
+        "integracoes": [
+          "Rodoviária do Plano Piloto"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8825,
+          -15.7938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-43",
+      "properties": {
+        "sistema_id": "metro-df",
+        "nome": "Águas Claras",
+        "linha": "Linhas Verde e Laranja",
+        "status": "operacao",
+        "integracoes": [
+          "Bifurcação Ceilândia / Samambaia"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0251,
+          -15.8342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-44",
+      "properties": {
+        "sistema_id": "metro-recife",
+        "nome": "Recife",
+        "linha": "Linha Centro / Linha Sul",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Integrado Recife"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8812,
+          -8.0685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-45",
+      "properties": {
+        "sistema_id": "metro-recife",
+        "nome": "Joana Bezerra",
+        "linha": "Linha Centro / Linha Sul",
+        "status": "operacao",
+        "integracoes": [
+          "SEI Terminal Joana Bezerra"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8985,
+          -8.0732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-46",
+      "properties": {
+        "sistema_id": "metrofor-fortaleza",
+        "nome": "Central-Chico da Silva",
+        "linha": "Linha Sul / Linha Oeste",
+        "status": "operacao",
+        "integracoes": [
+          "Futura Linha Leste"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5285,
+          -3.7245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-47",
+      "properties": {
+        "sistema_id": "metrofor-fortaleza",
+        "nome": "Parangaba",
+        "linha": "Linha Sul / VLT Parangaba-Mucuripe",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Parangaba"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5625,
+          -3.7765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "estacao-48",
+      "properties": {
+        "sistema_id": "vlt-baixada-santista",
+        "nome": "Conselheiro Nébias",
+        "linha": "Linha 1 / Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1",
+          "Linha 2"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3212,
+          -23.9552
+        ]
+      }
+    }
+  ]
+}

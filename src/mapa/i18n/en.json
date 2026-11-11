@@ -1,0 +1,101 @@
+{
+  "lang": "en",
+  "portalName": "Rail Post",
+  "portalUrl": "https://www.railpost.news",
+  "twinPortalName": "Mundo Trilhos",
+  "twinPortalUrl": "https://www.mundotrilhos.com",
+  "twinLang": "pt-br",
+  "twinLinkLabel": "Ler esta ficha em português no Mundo Trilhos →",
+  "pageTitle": "Rail Map — Passenger & Freight Rail Systems in Brazil",
+  "pageDescription": "Interactive geodynamic map of rail systems in Brazil: subways, commuter trains, light rail (VLT), monorail, people mover, regional trains and major freight rail projects.",
+  "heroKicker": "INTERACTIVE RAIL ATLAS · PHASE 1: BRAZIL",
+  "heroTitle": "Rail Map",
+  "heroSubtitle": "Explore Brazil's network of subways, metropolitan trains, light rail, monorails, people movers and strategic railway projects. Zoom in to inspect line alignments and stations, or click any system to open its verified fact sheet.",
+  "searchPlaceholder": "Search by city, state or system (e.g., São Paulo, Salvador, VLT, FIOL)...",
+  "filterTipoLabel": "Mode",
+  "filterStatusLabel": "Status",
+  "filterAll": "All",
+  "toggleCargaLabel": "Show freight railways / major projects layer",
+  "projectionGlobe": "🌍 3D Globe",
+  "projectionFlat": "🗺️ Flat World Map",
+  "worldViewBtn": "🌎 World View",
+  "resetViewBtn": "🇧🇷 Brazil View",
+  "shareViewBtn": "Copy view link",
+  "shareCopied": "Link copied!",
+  "tipos": {
+    "metro": "Metro / Subway",
+    "trem_urbano": "Commuter / Suburban Rail",
+    "vlt": "Light Rail (VLT)",
+    "monotrilho": "Monorail",
+    "aeromovel": "People Mover (Aeromóvel)",
+    "trem_regional": "Regional / Intercity Rail",
+    "ferrovia_carga": "Freight Railway",
+    "projeto": "Strategic Project"
+  },
+  "status": {
+    "operacao": "In operation",
+    "obras": "Under construction",
+    "projeto": "Planned / study",
+    "paralisado": "Halted",
+    "desativado": "Historical / decommissioned"
+  },
+  "drawer": {
+    "close": "Close panel",
+    "openFullSheet": "View full fact sheet & sources →",
+    "shareSystem": "Share on map",
+    "verifiedBadge": "100% verified sheet",
+    "partialBadge": "Partial record (expanding)",
+    "approxGeomNote": "Schematic/approximate alignment (planned or under construction)",
+    "nullValue": "data being verified",
+    "fields": {
+      "operador": "Operator / Concession",
+      "cidade": "City / Region",
+      "inauguracao": "Opened",
+      "extensao": "Operational/planned length",
+      "linhas": "Lines",
+      "estacoes": "Stations / Stops",
+      "passageirosDia": "Weekday ridership",
+      "investimento": "Verified investment",
+      "proximasEntregas": "Upcoming deliveries & expansion",
+      "fontes": "Official sources consulted",
+      "materiasRelacionadas": "Related coverage on Rail Post / Mundo Trilhos",
+      "semMaterias": "No specific articles linked yet.",
+      "imageCredit": "Photo:",
+      "imageLicense": "License:"
+    }
+  },
+  "directory": {
+    "title": "Complete directory of rail systems (accessible & indexable)",
+    "subtitle": "Text directory of all mapped rail systems for screen readers, quick browsing and direct links to static fact sheets.",
+    "colSistema": "System",
+    "colCidade": "City / State",
+    "colTipo": "Mode",
+    "colStatus": "Status",
+    "colExtensao": "Length",
+    "colEstacoes": "Stations",
+    "colPassageiros": "Ridership/day",
+    "colFicha": "Fact sheet",
+    "viewOnMap": "Focus on map",
+    "openSheet": "Open sheet"
+  },
+  "methodology": {
+    "title": "Methodology & Attribution — How we verify data",
+    "text1": "The Rail Map adheres to strict factual verification: every published indicator (length in kilometers, number of lines and stations, daily ridership, investment figures and dates) requires a primary official source (public/private operators, ANPTrilhos, CBTU, ANTT, Ministry of Transport and state secretariats) with URL and consultation date.",
+    "text2": "Whenever an indicator lacks audited official confirmation in our database, the field remains explicitly marked as 'data being verified' (null) — we never guess or fabricate numbers. Operational line alignments and station points come from OpenStreetMap under the ODbL 1.0 license, statically simplified via scripts/mapa/extract_osm_brasil.mjs.",
+    "osmAttribution": "Geographic data © OpenStreetMap contributors (ODbL 1.0 license) · Rendered with MapLibre GL JS · Open tiles by OpenFreeMap / CARTO."
+  },
+  "ficha": {
+    "backToMap": "← Back to Rail Map",
+    "openInMapInteractive": "Open this system focused on the interactive map",
+    "techSheetTitle": "Technical and operational indicators",
+    "linesAndStationsTitle": "Mapped lines and stations (OpenStreetMap / ODbL)",
+    "sourcesTitle": "Primary sources and references for this sheet",
+    "consultedOn": "Consulted on",
+    "updatedOn": "Fact sheet updated on",
+    "relatedArticlesTitle": "Editorial coverage",
+    "miniMapTitle": "Georeferenced system alignment"
+  },
+  "apoie": {
+    "ariaLabel": "Reserved slot: Support the Rail Map"
+  }
+}

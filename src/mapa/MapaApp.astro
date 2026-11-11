@@ -1,0 +1,1423 @@
+---
+import 'maplibre-gl/dist/maplibre-gl.css';
+import ApoieSlot from './ApoieSlot.astro';
+import { getMapaI18n, type MapaLang } from './i18n';
+import type { FonteCitada, RelatedBlogPost, SistemaRegistro } from './types';
+
+interface Props {
+	lang?: MapaLang;
+	sistemas: SistemaRegistro[];
+	linhasGeojson: Record<string, any>;
+	estacoesGeojson: Record<string, any>;
+	fontes: FonteCitada[];
+	relatedBySystemId: Record<string, RelatedBlogPost[]>;
+}
+
+const {
+	lang = 'pt-br',
+	sistemas,
+	linhasGeojson,
+	estacoesGeojson,
+	fontes,
+	relatedBySystemId,
+} = Astro.props;
+
+const t = getMapaI18n(lang);
+const isEn = lang === 'en';
+const tiposMap: Record<string, string> = t.tipos;
+const statusMap: Record<string, string> = t.status;
+
+const STATUS_COLORS: Record<string, string> = {
+	operacao: '#0d9488',
+	obras: '#d97706',
+	projeto: '#2563eb',
+	paralisado: '#dc2626',
+	desativado: '#64748b',
+};
+
+function formatNum(val: number | null, suffix = ''): string {
+	if (val === null || val === undefined) return t.drawer.nullValue;
+	return val.toLocaleString(isEn ? 'en-US' : 'pt-BR') + suffix;
+}
+
+const payloadClient = JSON.stringify({
+	lang,
+	t,
+	sistemas,
+	linhasGeojson,
+	estacoesGeojson,
+	fontes,
+	relatedBySystemId,
+	STATUS_COLORS,
+});
+---
+
+<section class="mapa-shell" aria-label={t.pageTitle}>
+	<div class="mapa-topbar">
+		<div class="mapa-Heading-row">
+			<div class="mapa-Heading">
+				<span class="mapa-kicker">{t.heroKicker}</span>
+				<h1>{t.heroTitle}</h1>
+				<p class="mapa-subtitle">{t.heroSubtitle}</p>
+			</div>
+			<div class="lang-switch-group" role="navigation" aria-label="Idioma / Language">
+				<a href="/mapa" class={`btn-lang ${!isEn ? 'is-active' : ''}`} hreflang="pt-br">
+					🇧🇷 Português
+				</a>
+				<a href="/mapa/en" class={`btn-lang ${isEn ? 'is-active' : ''}`} hreflang="en">
+					🇺🇸 English
+				</a>
+			</div>
+		</div>
+
+		<div class="mapa-controls" role="region" aria-label="Filtros do mapa">
+			<div class="control-search">
+				<input
+					id="mapa-search-input"
+					type="search"
+					placeholder={t.searchPlaceholder}
+					aria-label={t.searchPlaceholder}
+				/>
+			</div>
+
+			<div class="control-selects">
+				<label class="control-field">
+					<span>{t.filterTipoLabel}</span>
+					<select id="mapa-filter-tipo">
+						<option value="all">{t.filterAll}</option>
+						{Object.entries(t.tipos).map(([key, label]) => (
+							<option value={key}>{label}</option>
+						))}
+					</select>
+				</label>
+
+				<label class="control-field">
+					<span>{t.filterStatusLabel}</span>
+					<select id="mapa-filter-status">
+						<option value="all">{t.filterAll}</option>
+						{Object.entries(t.status).map(([key, label]) => (
+							<option value={key}>{label}</option>
+						))}
+					</select>
+				</label>
+
+				<label class="control-checkbox">
+					<input id="mapa-toggle-carga" type="checkbox" checked />
+					<span>{t.toggleCargaLabel}</span>
+				</label>
+
+				<div class="control-actions">
+					<div class="proj-toggle-group" role="group" aria-label="Modo de visualização do mapa">
+						<button type="button" id="mapa-btn-proj-globe" class="btn-proj is-active" data-proj="globe">
+							{t.projectionGlobe}
+						</button>
+						<button type="button" id="mapa-btn-proj-flat" class="btn-proj" data-proj="mercator">
+							{t.projectionFlat}
+						</button>
+					</div>
+					<button type="button" id="mapa-btn-world" class="btn-secondary">
+						{t.worldViewBtn}
+					</button>
+					<button type="button" id="mapa-btn-reset" class="btn-secondary">
+						{t.resetViewBtn}
+					</button>
+					<button type="button" id="mapa-btn-share" class="btn-secondary">
+						{t.shareViewBtn}
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="mapa-workspace">
+		<div class="mapa-canvas-wrap">
+			<div id="maplibre-canvas" class="maplibre-canvas" role="application" aria-label={t.heroTitle}></div>
+
+			<div class="mapa-legend" aria-label="Legenda do mapa">
+				<div class="legend-row">
+					{Object.entries(t.status).map(([stKey, stLabel]) => (
+						<span class="legend-item">
+							<i class="legend-dot" style={`background:${STATUS_COLORS[stKey] || '#64748b'}`}></i>
+							{stLabel}
+						</span>
+					))}
+				</div>
+				<div class="legend-zoom-hint" id="mapa-zoom-hint">
+					{isEn
+						? 'Zoom in on a city to reveal line alignments and stations.'
+						: 'Amplie numa cidade para ver os traçados das linhas e as estações.'}
+				</div>
+			</div>
+		</div>
+
+		<aside id="mapa-drawer" class="mapa-drawer" aria-live="polite" hidden>
+			<div class="drawer-header">
+				<div class="drawer-badges" id="drawer-badges"></div>
+				<button type="button" id="drawer-close-btn" class="drawer-close" aria-label={t.drawer.close}>
+					✕
+				</button>
+			</div>
+			<div id="drawer-body" class="drawer-body"></div>
+		</aside>
+	</div>
+
+	<!-- Lista alternativa acessível em texto e indexável para SEO -->
+	<section class="mapa-directory" aria-labelledby="dir-heading">
+		<div class="dir-header">
+			<h2 id="dir-heading">{t.directory.title}</h2>
+			<p>{t.directory.subtitle}</p>
+		</div>
+
+		<div class="dir-table-wrap">
+			<table class="dir-table">
+				<thead>
+					<tr>
+						<th>{t.directory.colSistema}</th>
+						<th>{t.directory.colCidade}</th>
+						<th>{t.directory.colTipo}</th>
+						<th>{t.directory.colStatus}</th>
+						<th>{t.directory.colExtensao}</th>
+						<th>{t.directory.colEstacoes}</th>
+						<th>{t.directory.colPassageiros}</th>
+						<th>{t.directory.colFicha}</th>
+					</tr>
+				</thead>
+				<tbody>
+					{sistemas.map((sys) => {
+						const nome = isEn ? sys.nome_en : sys.nome_pt;
+						const tipoLabel = tiposMap[sys.tipo] || sys.tipo;
+						const statusLabel = statusMap[sys.status] || sys.status;
+						const stColor = STATUS_COLORS[sys.status] || '#64748b';
+						const sheetBase = isEn ? '/mapa/en' : '/mapa';
+						return (
+							<tr data-sys-row={sys.id} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
+								<td>
+									<strong>
+										<a href={`${sheetBase}/${sys.slug}`}>{nome}</a>
+									</strong>
+									{sys.verificado_completo && (
+										<span class="verified-pill" title={t.drawer.verifiedBadge}>✓</span>
+									)}
+								</td>
+								<td>{sys.cidade} ({sys.uf})</td>
+								<td>{tipoLabel}</td>
+								<td>
+									<span class="status-pill" style={`--st-color:${stColor}`}>
+										{statusLabel}
+									</span>
+								</td>
+								<td>{formatNum(sys.extensao_km, ' km')}</td>
+								<td>{formatNum(sys.n_estacoes)}</td>
+								<td>
+									{sys.passageiros_dia !== null
+										? `${formatNum(sys.passageiros_dia)}${sys.ano_referencia ? ` (${sys.ano_referencia})` : ''}`
+										: t.drawer.nullValue}
+								</td>
+								<td class="dir-actions">
+									<button
+										type="button"
+										class="btn-link-map"
+										data-focus-system={sys.slug}
+									>
+										{t.directory.viewOnMap}
+									</button>
+									<a href={`${sheetBase}/${sys.slug}`} class="btn-link-sheet">
+										{t.directory.openSheet} →
+									</a>
+								</td>
+							</tr>
+						);
+					})}
+				</tbody>
+			</table>
+		</div>
+	</section>
+
+	<!-- Metodologia e Atribuição ODbL -->
+	<section class="mapa-methodology" aria-labelledby="metodologia-heading">
+		<h2 id="metodologia-heading">{t.methodology.title}</h2>
+		<p>{t.methodology.text1}</p>
+		<p>{t.methodology.text2}</p>
+		<p class="osm-credit">
+			<a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">
+				{t.methodology.osmAttribution}
+			</a>
+		</p>
+	</section>
+
+	<ApoieSlot lang={lang} />
+</section>
+
+<script type="application/json" id="mapa-trilhos-payload" set:html={payloadClient}></script>
+
+<script>
+	import * as maplibregl from 'maplibre-gl';
+	import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
+
+	if (typeof (maplibregl as any).setWorkerUrl === 'function') {
+		(maplibregl as any).setWorkerUrl(workerUrl);
+	}
+
+	function initMapaTrilhos() {
+		const payloadEl = document.getElementById('mapa-trilhos-payload');
+		const mapEl = document.getElementById('maplibre-canvas');
+		if (!payloadEl || !mapEl) return;
+
+		const data = JSON.parse(payloadEl.textContent || '{}');
+		const { lang, t, sistemas, linhasGeojson, estacoesGeojson, fontes, relatedBySystemId, STATUS_COLORS } = data;
+		const isEn = lang === 'en';
+		const fontesById = Object.fromEntries((fontes || []).map((f: any) => [f.id, f]));
+		const sistemasById = Object.fromEntries((sistemas || []).map((s: any) => [s.id, s]));
+		const sistemasBySlug = Object.fromEntries((sistemas || []).map((s: any) => [s.slug, s]));
+
+		const urlParams = new URLSearchParams(window.location.search);
+		const initialSysSlug = urlParams.get('s') || urlParams.get('sistema');
+		const initialLat = parseFloat(urlParams.get('lat') || '');
+		const initialLon = parseFloat(urlParams.get('lon') || '');
+		const initialZoom = parseFloat(urlParams.get('z') || '');
+
+		const defaultCenter: [number, number] = [-47.5, -15.2];
+		const defaultZoom = 3.8;
+
+		let startCenter: [number, number] = defaultCenter;
+		let startZoom = defaultZoom;
+
+		if (initialSysSlug && sistemasBySlug[initialSysSlug]) {
+			const s = sistemasBySlug[initialSysSlug];
+			startCenter = [s.lon, s.lat];
+			startZoom = s.zoom_inicial || 11.5;
+		} else if (!Number.isNaN(initialLat) && !Number.isNaN(initialLon)) {
+			startCenter = [initialLon, initialLat];
+			if (!Number.isNaN(initialZoom)) startZoom = initialZoom;
+		}
+
+		const searchInput = document.getElementById('mapa-search-input') as HTMLInputElement | null;
+		const selectTipo = document.getElementById('mapa-filter-tipo') as HTMLSelectElement | null;
+		const selectStatus = document.getElementById('mapa-filter-status') as HTMLSelectElement | null;
+		const toggleCarga = document.getElementById('mapa-toggle-carga') as HTMLInputElement | null;
+		const btnProjGlobe = document.getElementById('mapa-btn-proj-globe');
+		const btnProjFlat = document.getElementById('mapa-btn-proj-flat');
+		const btnWorld = document.getElementById('mapa-btn-world');
+		const btnReset = document.getElementById('mapa-btn-reset');
+		const btnShare = document.getElementById('mapa-btn-share');
+		const drawer = document.getElementById('mapa-drawer');
+		const drawerBody = document.getElementById('drawer-body');
+		const drawerBadges = document.getElementById('drawer-badges');
+		const drawerCloseBtn = document.getElementById('drawer-close-btn');
+
+		let activeSlug: string | null = initialSysSlug;
+		let currentProjection: 'globe' | 'mercator' =
+			urlParams.get('proj') === 'mercator' ? 'mercator' : 'globe';
+		let map: any = null;
+
+		function escapeHtml(str: string): string {
+			return String(str ?? '')
+				.replace(/&/g, '&amp;')
+				.replace(/</g, '&lt;')
+				.replace(/>/g, '&gt;')
+				.replace(/"/g, '&quot;');
+		}
+
+		function formatVal(val: any, suffix = ''): string {
+			if (val === null || val === undefined || val === '') {
+				return `<span class="null-chip">${escapeHtml(t.drawer.nullValue)}</span>`;
+			}
+			if (typeof val === 'number') {
+				return escapeHtml(val.toLocaleString(isEn ? 'en-US' : 'pt-BR') + suffix);
+			}
+			return escapeHtml(String(val) + suffix);
+		}
+
+		function syncUrlState(slug: string | null) {
+			const url = new URL(window.location.href);
+			if (slug) {
+				url.searchParams.set('s', slug);
+			} else {
+				url.searchParams.delete('s');
+			}
+			if (map && typeof map.getCenter === 'function') {
+				const c = map.getCenter();
+				url.searchParams.set('lat', c.lat.toFixed(4));
+				url.searchParams.set('lon', c.lng.toFixed(4));
+				url.searchParams.set('z', map.getZoom().toFixed(1));
+			}
+			window.history.replaceState({}, '', url.toString());
+		}
+
+		function openSystemDrawer(sys: any) {
+			if (!drawer || !drawerBody || !drawerBadges) return;
+			activeSlug = sys.slug;
+			syncUrlState(sys.slug);
+
+			const nome = isEn ? sys.nome_en : sys.nome_pt;
+			const resumo = isEn ? sys.resumo_en : sys.resumo_pt;
+			const tipoLabel = t.tipos[sys.tipo] || sys.tipo;
+			const statusLabel = t.status[sys.status] || sys.status;
+			const stColor = STATUS_COLORS[sys.status] || '#64748b';
+
+			const proxEntregas = sys.proximas_entregas
+				? typeof sys.proximas_entregas === 'object'
+					? isEn
+						? sys.proximas_entregas.en
+						: sys.proximas_entregas.pt
+					: sys.proximas_entregas
+				: null;
+
+			const sysLines = (linhasGeojson.features || []).filter(
+				(f: any) => f.properties?.sistema_id === sys.id
+			);
+			const hasApprox = sysLines.some((f: any) => f.properties?.geometria_aproximada);
+
+			drawerBadges.innerHTML = `
+				<span class="status-pill" style="--st-color:${stColor}">${escapeHtml(statusLabel)}</span>
+				<span class="tipo-pill">${escapeHtml(tipoLabel)}</span>
+				<span class="verify-pill ${sys.verificado_completo ? 'is-verified' : 'is-partial'}">
+					${escapeHtml(sys.verificado_completo ? t.drawer.verifiedBadge : t.drawer.partialBadge)}
+				</span>
+			`;
+
+			const fotoHtml = sys.foto
+				? `<figure class="drawer-figure">
+						<img src="${escapeHtml(sys.foto.url)}" alt="${escapeHtml(nome)}" loading="lazy" />
+						<figcaption>
+							${escapeHtml(t.drawer.fields.imageCredit)}
+							<a href="${escapeHtml(sys.foto.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(sys.foto.credito)}</a>
+							· ${escapeHtml(t.drawer.fields.imageLicense)} ${escapeHtml(sys.foto.licenca)}
+						</figcaption>
+				   </figure>`
+				: '';
+
+			const invHtml = sys.investimento
+				? `${escapeHtml(sys.investimento.valor)}`
+				: `<span class="null-chip">${escapeHtml(t.drawer.nullValue)}</span>`;
+
+			const paxHtml =
+				sys.passageiros_dia !== null && sys.passageiros_dia !== undefined
+					? `${sys.passageiros_dia.toLocaleString(isEn ? 'en-US' : 'pt-BR')}${sys.ano_referencia ? ` (${sys.ano_referencia})` : ''}`
+					: `<span class="null-chip">${escapeHtml(t.drawer.nullValue)}</span>`;
+
+			const fontesHtml = (sys.fontes || [])
+				.map((fid: string) => fontesById[fid])
+				.filter(Boolean)
+				.map(
+					(f: any) =>
+						`<li>
+							<a href="${escapeHtml(f.url)}" target="_blank" rel="noopener noreferrer">
+								${escapeHtml(isEn ? f.nome_en : f.nome_pt)}
+							</a>
+							<span class="fonte-date">(${escapeHtml(f.data_consulta)})</span>
+						</li>`
+				)
+				.join('');
+
+			const relatedPosts = relatedBySystemId[sys.id] || [];
+			const relatedHtml = relatedPosts.length
+				? `<ul class="drawer-related-list">
+						${relatedPosts
+							.map(
+								(p: any) => `
+							<li>
+								<a href="/blog/${escapeHtml(p.slug)}/">${escapeHtml(p.title)}</a>
+								<span class="rel-date">${escapeHtml(p.pubDate)}</span>
+							</li>`
+							)
+							.join('')}
+				   </ul>`
+				: `<p class="drawer-empty-note">${escapeHtml(t.drawer.fields.semMaterias)}</p>`;
+
+			const sheetHref = isEn ? `/mapa/en/${sys.slug}` : `/mapa/${sys.slug}`;
+			const twinHref = isEn ? `/mapa/${sys.slug}` : `/mapa/en/${sys.slug}`;
+
+			drawerBody.innerHTML = `
+				<h2 class="drawer-title">${escapeHtml(nome)}</h2>
+				<p class="drawer-location">${escapeHtml(sys.cidade)} · ${escapeHtml(sys.uf)} (${escapeHtml(sys.pais)})</p>
+				${hasApprox ? `<p class="approx-alert">⚠️ ${escapeHtml(t.drawer.approxGeomNote)}</p>` : ''}
+				${fotoHtml}
+				<p class="drawer-resumo">${escapeHtml(resumo)}</p>
+
+				<div class="drawer-cta-row">
+					<a href="${escapeHtml(sheetHref)}" class="btn-primary-sheet">
+						${escapeHtml(t.drawer.openFullSheet)}
+					</a>
+				</div>
+
+				<dl class="drawer-stats">
+					<div>
+						<dt>${escapeHtml(t.drawer.fields.operador)}</dt>
+						<dd>${formatVal(sys.operador)}</dd>
+					</div>
+					<div>
+						<dt>${escapeHtml(t.drawer.fields.inauguracao)}</dt>
+						<dd>${formatVal(sys.inauguracao)}</dd>
+					</div>
+					<div>
+						<dt>${escapeHtml(t.drawer.fields.extensao)}</dt>
+						<dd>${formatVal(sys.extensao_km, ' km')}</dd>
+					</div>
+					<div>
+						<dt>${escapeHtml(t.drawer.fields.linhas)}</dt>
+						<dd>${formatVal(sys.n_linhas)}</dd>
+					</div>
+					<div>
+						<dt>${escapeHtml(t.drawer.fields.estacoes)}</dt>
+						<dd>${formatVal(sys.n_estacoes)}</dd>
+					</div>
+					<div>
+						<dt>${escapeHtml(t.drawer.fields.passageirosDia)}</dt>
+						<dd>${paxHtml}</dd>
+					</div>
+					<div class="full-span">
+						<dt>${escapeHtml(t.drawer.fields.investimento)}</dt>
+						<dd>${invHtml}</dd>
+					</div>
+					<div class="full-span">
+						<dt>${escapeHtml(t.drawer.fields.proximasEntregas)}</dt>
+						<dd>${formatVal(proxEntregas)}</dd>
+					</div>
+				</dl>
+
+				<div class="drawer-section">
+					<h3>${escapeHtml(t.drawer.fields.materiasRelacionadas)}</h3>
+					${relatedHtml}
+				</div>
+
+				<div class="drawer-section">
+					<h3>${escapeHtml(t.drawer.fields.fontes)}</h3>
+					<ul class="drawer-sources-list">${fontesHtml}</ul>
+				</div>
+
+				<div class="drawer-twin-link">
+					<a href="${escapeHtml(twinHref)}" hreflang="${escapeHtml(t.twinLang)}" rel="alternate">
+						🌐 ${escapeHtml(t.twinLinkLabel)}
+					</a>
+				</div>
+			`;
+
+			drawer.hidden = false;
+			drawer.classList.add('is-open');
+		}
+
+		function closeDrawer() {
+			if (!drawer) return;
+			drawer.hidden = true;
+			drawer.classList.remove('is-open');
+			activeSlug = null;
+			syncUrlState(null);
+		}
+
+		drawerCloseBtn?.addEventListener('click', closeDrawer);
+
+		// Abre imediatamente a gaveta se houver ?s=slug na URL (não depende de WebGL/rede)
+		if (initialSysSlug && sistemasBySlug[initialSysSlug]) {
+			openSystemDrawer(sistemasBySlug[initialSysSlug]);
+		}
+
+		function getFilteredSistemas(): any[] {
+			const q = (searchInput?.value || '').trim().toLowerCase();
+			const tipo = selectTipo?.value || 'all';
+			const status = selectStatus?.value || 'all';
+			const showCarga = toggleCarga ? toggleCarga.checked : true;
+
+			return sistemas.filter((s: any) => {
+				if (!showCarga && s.camada === 'carga_projetos') return false;
+				if (tipo !== 'all' && s.tipo !== tipo) return false;
+				if (status !== 'all' && s.status !== status) return false;
+				if (q) {
+					const hay = `${s.nome_pt} ${s.nome_en} ${s.cidade} ${s.uf} ${s.operador} ${(s.tags || []).join(' ')}`.toLowerCase();
+					if (!hay.includes(q)) return false;
+				}
+				return true;
+			});
+		}
+
+		function buildSistemasGeojson(filteredList: any[]) {
+			return {
+				type: 'FeatureCollection',
+				features: filteredList.map((s: any) => ({
+					type: 'Feature',
+					properties: {
+						id: s.id,
+						slug: s.slug,
+						nome: isEn ? s.nome_en : s.nome_pt,
+						cidade: s.cidade,
+						uf: s.uf,
+						status: s.status,
+						tipo: s.tipo,
+						color: STATUS_COLORS[s.status] || '#64748b',
+						zoom_inicial: s.zoom_inicial || 11.5,
+					},
+					geometry: {
+						type: 'Point',
+						coordinates: [s.lon, s.lat],
+					},
+				})),
+			};
+		}
+
+		function applyFilters() {
+			const filtered = getFilteredSistemas();
+			const allowedIds = new Set(filtered.map((s: any) => s.id));
+
+			// Atualiza tabela acessível
+			document.querySelectorAll<HTMLElement>('[data-sys-row]').forEach((row) => {
+				const id = row.getAttribute('data-sys-row') || '';
+				row.style.display = allowedIds.has(id) ? '' : 'none';
+			});
+
+			// Atualiza sources no MapLibre
+			if (!map) return;
+			const sysSrc = map.getSource('sistemas-points') as maplibregl.GeoJSONSource | undefined;
+			if (sysSrc) {
+				sysSrc.setData(buildSistemasGeojson(filtered) as any);
+			}
+
+			const linSrc = map.getSource('linhas-source') as maplibregl.GeoJSONSource | undefined;
+			if (linSrc) {
+				linSrc.setData({
+					type: 'FeatureCollection',
+					features: (linhasGeojson.features || []).filter((f: any) =>
+						allowedIds.has(f.properties?.sistema_id)
+					),
+				} as any);
+			}
+
+			const estSrc = map.getSource('estacoes-source') as maplibregl.GeoJSONSource | undefined;
+			if (estSrc) {
+				estSrc.setData({
+					type: 'FeatureCollection',
+					features: (estacoesGeojson.features || []).filter((f: any) =>
+						allowedIds.has(f.properties?.sistema_id)
+					),
+				} as any);
+			}
+		}
+
+		const openStyle: maplibregl.StyleSpecification = {
+			version: 8,
+			projection: { type: currentProjection },
+			sources: {
+				'osm-tiles': {
+					type: 'raster',
+					tiles: ['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],
+					tileSize: 256,
+					maxzoom: 19,
+					attribution:
+						'© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors (ODbL 1.0)',
+				},
+				'linhas-source': {
+					type: 'geojson',
+					data: linhasGeojson,
+				},
+				'estacoes-source': {
+					type: 'geojson',
+					data: estacoesGeojson,
+				},
+				'sistemas-points': {
+					type: 'geojson',
+					data: buildSistemasGeojson(sistemas) as any,
+				},
+			},
+			layers: [
+				{
+					id: 'bg-base',
+					type: 'background',
+					paint: { 'background-color': '#dbeafe' },
+				},
+				{
+					id: 'osm-tiles-layer',
+					type: 'raster',
+					source: 'osm-tiles',
+					minzoom: 0,
+					maxzoom: 19,
+				},
+				{
+					id: 'linhas-operacao',
+					type: 'line',
+					source: 'linhas-source',
+					filter: ['all', ['==', ['get', 'status'], 'operacao'], ['!=', ['get', 'geometria_aproximada'], true]],
+					layout: {
+						'line-join': 'round',
+						'line-cap': 'round',
+					},
+					paint: {
+						'line-color': ['coalesce', ['get', 'cor'], '#0455A1'],
+						'line-width': ['interpolate', ['linear'], ['zoom'], 4, 2.5, 9, 4, 13, 6],
+						'line-opacity': 0.94,
+					},
+				},
+				{
+					id: 'linhas-obras-projeto',
+					type: 'line',
+					source: 'linhas-source',
+					filter: ['any', ['!=', ['get', 'status'], 'operacao'], ['==', ['get', 'geometria_aproximada'], true]],
+					layout: {
+						'line-join': 'round',
+						'line-cap': 'round',
+					},
+					paint: {
+						'line-color': ['coalesce', ['get', 'cor'], '#d97706'],
+						'line-width': ['interpolate', ['linear'], ['zoom'], 4, 2.2, 9, 3.5, 13, 5],
+						'line-dasharray': [2, 2],
+						'line-opacity': 0.9,
+					},
+				},
+				{
+					id: 'estacoes-points',
+					type: 'circle',
+					source: 'estacoes-source',
+					minzoom: 9.5,
+					paint: {
+						'circle-radius': ['interpolate', ['linear'], ['zoom'], 9.5, 3.5, 14, 6.5],
+						'circle-color': '#ffffff',
+						'circle-stroke-width': 2.2,
+						'circle-stroke-color': '#0f172a',
+					},
+				},
+				{
+					id: 'sistemas-circles',
+					type: 'circle',
+					source: 'sistemas-points',
+					paint: {
+						'circle-radius': ['interpolate', ['linear'], ['zoom'], 3, 7.5, 8, 9.5, 12, 6.5],
+						'circle-color': ['get', 'color'],
+						'circle-stroke-width': 2.5,
+						'circle-stroke-color': '#ffffff',
+					},
+				},
+			],
+		};
+
+		try {
+			map = new maplibregl.Map({
+				container: mapEl,
+				style: openStyle,
+				center: startCenter,
+				zoom: startZoom,
+				minZoom: 1.2,
+				maxZoom: 18,
+				canvasContextAttributes: { preserveDrawingBuffer: true },
+			});
+
+			map.addControl(new maplibregl.NavigationControl({ showCompass: true }), 'top-right');
+			map.addControl(new maplibregl.ScaleControl({ maxWidth: 120, unit: 'metric' }), 'bottom-left');
+		} catch (err) {
+			console.warn('[Mapa] WebGL indisponível neste dispositivo:', err);
+		}
+
+		if (map) {
+			const clickableLayers = ['sistemas-circles', 'linhas-operacao', 'linhas-obras-projeto', 'estacoes-points'];
+
+			for (const layerId of clickableLayers) {
+				map.on('mouseenter', layerId, () => {
+					map.getCanvas().style.cursor = 'pointer';
+				});
+				map.on('mouseleave', layerId, () => {
+					map.getCanvas().style.cursor = '';
+				});
+			}
+
+			map.on('click', 'sistemas-circles', (e: any) => {
+				const feat = e.features?.[0];
+				if (!feat) return;
+				const sysId = feat.properties?.id;
+				const sys = sistemasById[sysId];
+				if (sys) {
+					map.flyTo({
+						center: [sys.lon, sys.lat],
+						zoom: Math.max(map.getZoom(), sys.zoom_inicial || 11.5),
+						duration: 900,
+					});
+					openSystemDrawer(sys);
+				}
+			});
+
+			map.on('click', 'linhas-operacao', (e: any) => {
+				const feat = e.features?.[0];
+				const sys = sistemasById[feat?.properties?.sistema_id];
+				if (sys) openSystemDrawer(sys);
+			});
+
+			map.on('click', 'linhas-obras-projeto', (e: any) => {
+				const feat = e.features?.[0];
+				const sys = sistemasById[feat?.properties?.sistema_id];
+				if (sys) openSystemDrawer(sys);
+			});
+
+			map.on('click', 'estacoes-points', (e: any) => {
+				const feat = e.features?.[0];
+				if (!feat) return;
+				const props = feat.properties || {};
+				const sys = sistemasById[props.sistema_id];
+				if (sys) openSystemDrawer(sys);
+
+				const coords = (feat.geometry as any).coordinates.slice();
+				new maplibregl.Popup({ closeButton: true, maxWidth: '260px' })
+					.setLngLat(coords)
+					.setHTML(
+						`<strong>${escapeHtml(props.nome)}</strong><br/><small>${escapeHtml(props.linha || '')}</small>`
+					)
+					.addTo(map);
+			});
+		}
+
+		if (map) {
+			map.on('moveend', () => {
+				syncUrlState(activeSlug);
+			});
+		}
+
+		searchInput?.addEventListener('input', applyFilters);
+		selectTipo?.addEventListener('change', applyFilters);
+		selectStatus?.addEventListener('change', applyFilters);
+		toggleCarga?.addEventListener('change', applyFilters);
+
+		function setMapProjection(proj: 'globe' | 'mercator') {
+			currentProjection = proj;
+			btnProjGlobe?.classList.toggle('is-active', proj === 'globe');
+			btnProjFlat?.classList.toggle('is-active', proj === 'mercator');
+			if (map && typeof map.setProjection === 'function') {
+				try {
+					map.setProjection({ type: proj });
+				} catch (err) {
+					console.warn('[Mapa] Erro ao alternar projeção:', err);
+				}
+			}
+			const url = new URL(window.location.href);
+			url.searchParams.set('proj', proj);
+			window.history.replaceState({}, '', url.toString());
+		}
+
+		if (currentProjection === 'mercator') {
+			btnProjGlobe?.classList.remove('is-active');
+			btnProjFlat?.classList.add('is-active');
+		}
+
+		btnProjGlobe?.addEventListener('click', () => setMapProjection('globe'));
+		btnProjFlat?.addEventListener('click', () => setMapProjection('mercator'));
+
+		btnWorld?.addEventListener('click', () => {
+			closeDrawer();
+			if (map) map.flyTo({ center: [-30, 10], zoom: 1.85, duration: 950 });
+		});
+
+		btnReset?.addEventListener('click', () => {
+			closeDrawer();
+			if (map) map.flyTo({ center: defaultCenter, zoom: defaultZoom, duration: 900 });
+		});
+
+		btnShare?.addEventListener('click', async () => {
+			syncUrlState(activeSlug);
+			try {
+				await navigator.clipboard.writeText(window.location.href);
+				if (btnShare) {
+					const orig = btnShare.textContent;
+					btnShare.textContent = t.shareCopied;
+					setTimeout(() => {
+						btnShare.textContent = orig;
+					}, 1800);
+				}
+			} catch {
+				// fallback silencioso
+			}
+		});
+
+		document.querySelectorAll<HTMLButtonElement>('[data-focus-system]').forEach((btn) => {
+			btn.addEventListener('click', () => {
+				const slug = btn.getAttribute('data-focus-system') || '';
+				const sys = sistemasBySlug[slug];
+				if (!sys) return;
+				mapEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+				map.flyTo({
+					center: [sys.lon, sys.lat],
+					zoom: sys.zoom_inicial || 11.5,
+					duration: 900,
+				});
+				openSystemDrawer(sys);
+			});
+		});
+	}
+
+	if (document.readyState === 'loading') {
+		document.addEventListener('DOMContentLoaded', initMapaTrilhos);
+	} else {
+		initMapaTrilhos();
+	}
+</script>
+
+<style>
+	.mapa-shell {
+		max-width: 1280px;
+		width: 100%;
+		box-sizing: border-box;
+		overflow-x: hidden;
+		margin: 0 auto;
+		padding: 1.5rem 1rem 3rem;
+		font-family: 'Outfit', system-ui, -apple-system, sans-serif;
+		color: #0f172a;
+	}
+
+	.mapa-topbar {
+		margin-bottom: 1.25rem;
+	}
+
+	.mapa-Heading-row {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-items: flex-start;
+		gap: 1rem;
+	}
+
+	.lang-switch-group {
+		display: inline-flex;
+		border: 1px solid #cbd5e1;
+		border-radius: 8px;
+		overflow: hidden;
+		background: #ffffff;
+		flex-shrink: 0;
+	}
+
+	.btn-lang {
+		padding: 0.45rem 0.85rem;
+		font-size: 0.85rem;
+		font-weight: 700;
+		text-decoration: none;
+		color: #334155;
+		background: #f8fafc;
+	}
+
+	.btn-lang.is-active {
+		background: #d35400;
+		color: #ffffff;
+	}
+
+	.mapa-kicker {
+		display: inline-block;
+		font-size: 0.78rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: #d35400;
+		margin-bottom: 0.35rem;
+	}
+
+	.mapa-Heading h1 {
+		font-size: clamp(1.8rem, 3vw, 2.5rem);
+		margin: 0 0 0.4rem;
+		color: #0f172a;
+	}
+
+	.mapa-subtitle {
+		font-size: 1rem;
+		line-height: 1.55;
+		color: #475569;
+		max-width: 880px;
+		margin: 0 0 1rem;
+	}
+
+	.mapa-controls {
+		background: #ffffff;
+		border: 1px solid #e2e8f0;
+		border-radius: 12px;
+		padding: 0.9rem 1rem;
+		box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+
+	.control-search input {
+		width: 100%;
+		box-sizing: border-box;
+		padding: 0.65rem 0.9rem;
+		border: 1px solid #cbd5e1;
+		border-radius: 8px;
+		font-size: 0.95rem;
+	}
+
+	.control-selects {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.85rem;
+	}
+
+	.control-field {
+		display: flex;
+		align-items: center;
+		gap: 0.4rem;
+		font-size: 0.88rem;
+		font-weight: 600;
+		color: #334155;
+	}
+
+	.control-field select {
+		padding: 0.45rem 0.65rem;
+		border: 1px solid #cbd5e1;
+		border-radius: 6px;
+		background: #f8fafc;
+		font-size: 0.88rem;
+	}
+
+	.control-checkbox {
+		display: flex;
+		align-items: center;
+		gap: 0.4rem;
+		font-size: 0.88rem;
+		color: #334155;
+		cursor: pointer;
+	}
+
+	.control-actions {
+		margin-left: auto;
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.proj-toggle-group {
+		display: inline-flex;
+		border: 1px solid #cbd5e1;
+		border-radius: 7px;
+		overflow: hidden;
+		background: #f8fafc;
+	}
+
+	.btn-proj {
+		padding: 0.42rem 0.72rem;
+		border: none;
+		background: transparent;
+		color: #334155;
+		font-size: 0.83rem;
+		font-weight: 600;
+		cursor: pointer;
+		transition: background 0.15s, color 0.15s;
+	}
+
+	.btn-proj.is-active {
+		background: #0f172a;
+		color: #ffffff;
+	}
+
+	.btn-secondary {
+		padding: 0.45rem 0.8rem;
+		border: 1px solid #cbd5e1;
+		background: #f8fafc;
+		color: #1e293b;
+		border-radius: 6px;
+		font-size: 0.85rem;
+		font-weight: 600;
+		cursor: pointer;
+		transition: background 0.15s;
+	}
+
+	.btn-secondary:hover {
+		background: #e2e8f0;
+	}
+
+	.mapa-workspace {
+		position: relative;
+		display: grid;
+		grid-template-columns: minmax(0, 1fr);
+		gap: 1rem;
+		margin-bottom: 2.5rem;
+	}
+
+	.mapa-canvas-wrap {
+		position: relative;
+		border-radius: 14px;
+		overflow: hidden;
+		border: 1px solid #cbd5e1;
+		background: #f1f5f9;
+		min-height: 580px;
+	}
+
+	.maplibre-canvas {
+		width: 100%;
+		height: 620px;
+	}
+
+	.mapa-legend {
+		position: absolute;
+		left: 12px;
+		bottom: 36px;
+		background: rgba(255, 255, 255, 0.94);
+		backdrop-filter: blur(8px);
+		padding: 0.55rem 0.8rem;
+		border-radius: 8px;
+		border: 1px solid rgba(15, 23, 42, 0.1);
+		font-size: 0.78rem;
+		max-width: calc(100% - 24px);
+		z-index: 5;
+	}
+
+	.legend-row {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.65rem;
+		margin-bottom: 0.25rem;
+	}
+
+	.legend-item {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.3rem;
+		font-weight: 600;
+		color: #1e293b;
+	}
+
+	.legend-dot {
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		display: inline-block;
+	}
+
+	.legend-zoom-hint {
+		color: #64748b;
+		font-size: 0.74rem;
+	}
+
+	.mapa-drawer {
+		background: #ffffff;
+		border: 1px solid #cbd5e1;
+		border-radius: 14px;
+		box-shadow: 0 12px 32px rgba(15, 23, 42, 0.12);
+		padding: 1.1rem;
+		max-height: 620px;
+		overflow-y: auto;
+		box-sizing: border-box;
+		max-width: 100%;
+	}
+
+	@media (min-width: 960px) {
+		.mapa-workspace:has(.mapa-drawer.is-open) {
+			grid-template-columns: minmax(0, 1fr) 410px;
+		}
+	}
+
+	@media (max-width: 959px) {
+		.maplibre-canvas {
+			height: 460px;
+		}
+		.mapa-drawer.is-open {
+			position: fixed;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			z-index: 1200;
+			max-height: 76vh;
+			border-radius: 18px 18px 0 0;
+			box-shadow: 0 -8px 30px rgba(15, 23, 42, 0.22);
+		}
+	}
+
+	.drawer-header {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-between;
+		gap: 0.5rem;
+		margin-bottom: 0.6rem;
+	}
+
+	.drawer-badges {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.35rem;
+	}
+
+	.drawer-close {
+		background: #f1f5f9;
+		border: none;
+		border-radius: 50%;
+		width: 30px;
+		height: 30px;
+		cursor: pointer;
+		font-size: 0.95rem;
+		color: #334155;
+	}
+
+	:global(.status-pill) {
+		display: inline-block;
+		padding: 0.18rem 0.55rem;
+		border-radius: 999px;
+		font-size: 0.74rem;
+		font-weight: 700;
+		background: var(--st-color, #475569);
+		color: #ffffff;
+	}
+
+	:global(.tipo-pill) {
+		display: inline-block;
+		padding: 0.18rem 0.55rem;
+		border-radius: 999px;
+		font-size: 0.74rem;
+		font-weight: 600;
+		background: #e2e8f0;
+		color: #1e293b;
+	}
+
+	:global(.verify-pill) {
+		display: inline-block;
+		padding: 0.18rem 0.55rem;
+		border-radius: 999px;
+		font-size: 0.72rem;
+		font-weight: 700;
+	}
+
+	:global(.verify-pill.is-verified) {
+		background: #dcfce7;
+		color: #166534;
+	}
+
+	:global(.verify-pill.is-partial) {
+		background: #fef3c7;
+		color: #92400e;
+	}
+
+	:global(.drawer-title) {
+		font-size: 1.3rem;
+		margin: 0 0 0.2rem;
+		color: #0f172a;
+	}
+
+	:global(.drawer-location) {
+		font-size: 0.86rem;
+		color: #64748b;
+		margin: 0 0 0.65rem;
+	}
+
+	:global(.approx-alert) {
+		background: #fffbeb;
+		border-left: 3px solid #d97706;
+		padding: 0.4rem 0.6rem;
+		font-size: 0.8rem;
+		color: #92400e;
+		margin: 0 0 0.65rem;
+		border-radius: 4px;
+	}
+
+	:global(.drawer-figure) {
+		margin: 0 0 0.75rem;
+	}
+
+	:global(.drawer-figure img) {
+		width: 100%;
+		height: 170px;
+		object-fit: cover;
+		border-radius: 8px;
+		display: block;
+	}
+
+	:global(.drawer-figure figcaption) {
+		font-size: 0.72rem;
+		color: #64748b;
+		margin-top: 0.25rem;
+	}
+
+	:global(.drawer-resumo) {
+		font-size: 0.9rem;
+		line-height: 1.5;
+		color: #334155;
+		margin: 0 0 0.85rem;
+	}
+
+	:global(.drawer-cta-row) {
+		margin-bottom: 0.9rem;
+	}
+
+	:global(.btn-primary-sheet) {
+		display: block;
+		text-align: center;
+		background: #d35400;
+		color: #ffffff !important;
+		text-decoration: none;
+		padding: 0.6rem 0.9rem;
+		border-radius: 8px;
+		font-weight: 700;
+		font-size: 0.9rem;
+	}
+
+	:global(.btn-primary-sheet:hover) {
+		background: #b04600;
+	}
+
+	:global(.drawer-stats) {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 0.55rem;
+		margin: 0 0 1rem;
+		background: #f8fafc;
+		padding: 0.75rem;
+		border-radius: 8px;
+		border: 1px solid #e2e8f0;
+	}
+
+	:global(.drawer-stats .full-span) {
+		grid-column: 1 / -1;
+	}
+
+	:global(.drawer-stats dt) {
+		font-size: 0.72rem;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
+		color: #64748b;
+		font-weight: 600;
+	}
+
+	:global(.drawer-stats dd) {
+		margin: 0.1rem 0 0;
+		font-size: 0.86rem;
+		font-weight: 600;
+		color: #0f172a;
+	}
+
+	:global(.null-chip) {
+		font-style: italic;
+		font-weight: 400;
+		color: #94a3b8;
+	}
+
+	:global(.drawer-section) {
+		border-top: 1px solid #e2e8f0;
+		padding-top: 0.75rem;
+		margin-top: 0.75rem;
+	}
+
+	:global(.drawer-section h3) {
+		font-size: 0.92rem;
+		margin: 0 0 0.45rem;
+		color: #0f172a;
+	}
+
+	:global(.drawer-related-list),
+	:global(.drawer-sources-list) {
+		margin: 0;
+		padding-left: 1.1rem;
+		font-size: 0.84rem;
+		line-height: 1.45;
+	}
+
+	:global(.drawer-related-list li),
+	:global(.drawer-sources-list li) {
+		margin-bottom: 0.35rem;
+	}
+
+	:global(.rel-date),
+	:global(.fonte-date) {
+		color: #64748b;
+		font-size: 0.75rem;
+		margin-left: 0.3rem;
+	}
+
+	:global(.drawer-twin-link) {
+		margin-top: 0.9rem;
+		padding-top: 0.7rem;
+		border-top: 1px dashed #cbd5e1;
+		font-size: 0.82rem;
+	}
+
+	/* Diretório em texto acessível */
+	.mapa-directory {
+		margin-top: 2rem;
+		background: #ffffff;
+		border: 1px solid #e2e8f0;
+		border-radius: 12px;
+		padding: 1.25rem;
+	}
+
+	.dir-header h2 {
+		font-size: 1.35rem;
+		margin: 0 0 0.3rem;
+	}
+
+	.dir-header p {
+		font-size: 0.92rem;
+		color: #64748b;
+		margin: 0 0 1rem;
+	}
+
+	.dir-table-wrap {
+		overflow-x: auto;
+	}
+
+	.dir-table {
+		width: 100%;
+		border-collapse: collapse;
+		font-size: 0.88rem;
+	}
+
+	.dir-table th,
+	.dir-table td {
+		text-align: left;
+		padding: 0.65rem 0.6rem;
+		border-bottom: 1px solid #e2e8f0;
+	}
+
+	.dir-table th {
+		background: #f8fafc;
+		font-weight: 700;
+		color: #334155;
+		font-size: 0.78rem;
+		text-transform: uppercase;
+	}
+
+	.verified-pill {
+		display: inline-block;
+		margin-left: 0.3rem;
+		background: #dcfce7;
+		color: #166534;
+		border-radius: 50%;
+		width: 18px;
+		height: 18px;
+		text-align: center;
+		line-height: 18px;
+		font-size: 0.72rem;
+		font-weight: 800;
+	}
+
+	.dir-actions {
+		display: flex;
+		gap: 0.5rem;
+		align-items: center;
+		white-space: nowrap;
+	}
+
+	.btn-link-map {
+		padding: 0.28rem 0.55rem;
+		font-size: 0.78rem;
+		border: 1px solid #cbd5e1;
+		background: #f8fafc;
+		border-radius: 5px;
+		cursor: pointer;
+	}
+
+	.btn-link-sheet {
+		font-size: 0.82rem;
+		font-weight: 700;
+		text-decoration: none;
+	}
+
+	.mapa-methodology {
+		margin-top: 2rem;
+		background: #f8fafc;
+		border: 1px solid #e2e8f0;
+		border-radius: 12px;
+		padding: 1.25rem;
+		font-size: 0.92rem;
+		line-height: 1.6;
+		color: #334155;
+	}
+
+	.mapa-methodology h2 {
+		font-size: 1.2rem;
+		margin: 0 0 0.5rem;
+	}
+
+	.osm-credit {
+		margin-bottom: 0;
+		font-size: 0.82rem;
+		font-weight: 600;
+	}
+</style>
