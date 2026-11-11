@@ -70,6 +70,10 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - Adicionados **7 sistemas japoneses** em `src/data/mapa/sistemas.json` (`metro-toquio`, `jr-east-toquio-yamanote`, `metro-osaka`, `monotrilhos-japao`, `tokaido-sanyo-shinkansen`, `tohoku-hokkaido-shinkansen`, `chuo-shinkansen-maglev`), **15 novas linhas georreferenciadas** (totalizando **91 linhas**) e **32 novas estações** (totalizando **203 estações**).
   - Países mapeados até agora: **🇧🇷 Brasil (31)** + **🇨🇳 China (9)** + **🇯🇵 Japão (7)** = **47 sistemas**. Próximo país na Ronda #10 (~18:04 BRT): **🇫🇷 França**.
 
+- [2026-11-11 18:13] [ANTIGRAVITY] Ronda #10 + País Internacional #3: 🇫🇷 França publicado em `main` (`796 page(s) built`):
+  - Adicionados **7 sistemas franceses** em `src/data/mapa/sistemas.json` (`metro-paris`, `rer-transilien-paris`, `grand-paris-express`, `metro-vlt-lyon`, `metros-val-lille-toulouse-rennes`, `tgv-sud-est-mediterranee`, `tgv-atlantique-nord-est-europa`), **17 novas linhas georreferenciadas** (totalizando **108 linhas**) e **33 novas estações** (totalizando **236 estações**).
+  - Países mapeados até agora: **🇧🇷 Brasil (31)** + **🇨🇳 China (9)** + **🇯🇵 Japão (7)** + **🇫🇷 França (7)** = **54 sistemas**. Próximo país na Ronda #11 (~18:40 BRT): **🇪🇸 Espanha**.
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -93,6 +97,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 17:19] [ANTIGRAVITY] #008 Expansão Mundial Iniciada (1 País por Ronda) + País #1 China 🇨🇳 em Produção — Cumprida ordem direta do Miguel para expandir o Mapa dos Trilhos para o mundo inteiro adicionando 1 país diferente a cada ronda de 30 minutos. Entregue agora a **China 🇨🇳** (9 sistemas, 19 linhas, 36 estações, totalizando 40 sistemas, 76 linhas e 171 estações no globo, `768 page(s) built`) + filtro e botões rápidos por país (`commit c363600` em `main`). Próxima ronda (17:34 BRT): **Japão 🇯🇵**.
 
 - [2026-11-11 17:43] [ANTIGRAVITY] #009 Ronda #9 — País Internacional #2: 🇯🇵 Japão publicado em Produção (`main`) — Adicionados 7 sistemas do Japão (Metrô de Tóquio + Toei, Rede JR East & Linha Yamanote, Metrô de Osaka, Monotrilhos de Tóquio/Osaka/Chiba, Tokaido & Sanyo Shinkansen, Tohoku & Hokkaido Shinkansen, e Chuo Shinkansen Maglev L0 505 km/h em obras), com 15 linhas e 32 estações georreferenciadas (total: 47 sistemas, 91 linhas, 203 estações, `782 page(s) built`). Próxima ronda: **França 🇫🇷**.
+
+- [2026-11-11 18:13] [ANTIGRAVITY] #010 Ronda #10 — País Internacional #3: 🇫🇷 França publicado em Produção (`main`) — Adicionados 7 sistemas da França (Metrô de Paris RATP, RER & Transilien, Grand Paris Express Linhas 15/16/17/18 em obras, Metrô e VLT de Lyon, Metrôs Automáticos VAL de Lille/Toulouse/Rennes, TGV Sud-Est & Méditerranée, e TGV Atlantique/Nord Eurostar/Est Européen — recorde mundial 574,8 km/h), com 17 linhas e 33 estações georreferenciadas (total: 54 sistemas, 108 linhas, 236 estações, `796 page(s) built`). Próxima ronda: **Espanha 🇪🇸**.
 
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
@@ -122,3 +128,4 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 17:05] [ANTIGRAVITY] ronda #8: recebida e respondida a apresentação da `ZM-64` (Frente ZCode Mundo Trilhos, `#007`); Caixa de entrada da Carina sem pendências novas.
 - [2026-11-11 17:19] [ANTIGRAVITY] expansão mundial #1 (China 🇨🇳): adicionados 9 sistemas chineses, 19 linhas e 36 estações + filtro por país e fila `fila_paises.json`, publicado em `main` (`commit c363600`).
 - [2026-11-11 17:43] [ANTIGRAVITY] ronda #9 / expansão mundial #2 (Japão 🇯🇵): adicionados 7 sistemas japoneses, 15 linhas e 32 estações (total: 47 sistemas, 91 linhas, 203 estações, `782 page(s) built`), publicado em `main`; Caixa de entrada da Carina sem pendências novas.
+- [2026-11-11 18:13] [ANTIGRAVITY] ronda #10 / expansão mundial #3 (França 🇫🇷): adicionados 7 sistemas franceses, 17 linhas e 33 estações (total: 54 sistemas, 108 linhas, 236 estações, `796 page(s) built`), publicado em `main`; Caixa de entrada da Carina sem pendências novas.
