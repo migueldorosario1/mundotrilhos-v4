@@ -805,6 +805,76 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "sistema_id": "stuttgart-21-fehmarnbelt-brenner",
+        "sistema_nome_pt": "Stuttgart 21 e Túnel Submarino Fehmarnbelt Alemanha–Dinamarca (Em obras)",
+        "sistema_nome_en": "Stuttgart 21 Underground Hub & Fehmarnbelt Undersea Tunnel Germany–Denmark (Under Construction)",
+        "linha": "Stuttgart 21 — Nó Subterrâneo e Túnel de Filder até Wendlingen (Em obras)",
+        "status": "obras",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.145,
+            48.83
+          ],
+          [
+            9.1815,
+            48.7841
+          ],
+          [
+            9.1931,
+            48.6908
+          ],
+          [
+            9.3853,
+            48.6725
+          ],
+          [
+            9.9828,
+            48.3994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "stuttgart-21-fehmarnbelt-brenner",
+        "sistema_nome_pt": "Stuttgart 21 e Túnel Submarino Fehmarnbelt Alemanha–Dinamarca (Em obras)",
+        "sistema_nome_en": "Stuttgart 21 Underground Hub & Fehmarnbelt Undersea Tunnel Germany–Denmark (Under Construction)",
+        "linha": "Corredor e Túnel Imerso Submarino Fehmarnbelt (Lübeck – Puttgarden – Rødbyhavn Dinamarca — Em obras)",
+        "status": "obras",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6694,
+            53.8672
+          ],
+          [
+            10.9,
+            54.25
+          ],
+          [
+            11.2256,
+            54.5003
+          ],
+          [
+            11.3514,
+            54.6542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "linha-1",
       "properties": {
         "sistema_id": "metro-sp",
@@ -5159,6 +5229,649 @@
           [
             -7.861,
             42.348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "u-bahn-s-bahn-berlim",
+        "sistema_nome_pt": "U-Bahn e S-Bahn de Berlim (BVG & S-Bahn Berlin)",
+        "sistema_nome_en": "Berlin U-Bahn & S-Bahn Network (BVG & S-Bahn Berlin)",
+        "linha": "S-Bahn Berlim — Ringbahn S41/S42 (Anel Circular Ferroviário de 37 km)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3656,
+            52.5488
+          ],
+          [
+            13.4126,
+            52.5495
+          ],
+          [
+            13.4692,
+            52.5218
+          ],
+          [
+            13.469,
+            52.503
+          ],
+          [
+            13.4411,
+            52.4675
+          ],
+          [
+            13.3714,
+            52.4754
+          ],
+          [
+            13.3489,
+            52.4795
+          ],
+          [
+            13.2839,
+            52.5011
+          ],
+          [
+            13.3015,
+            52.5361
+          ],
+          [
+            13.3656,
+            52.5488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "u-bahn-s-bahn-berlim",
+        "sistema_nome_pt": "U-Bahn e S-Bahn de Berlim (BVG & S-Bahn Berlin)",
+        "sistema_nome_en": "Berlin U-Bahn & S-Bahn Network (BVG & S-Bahn Berlin)",
+        "linha": "S-Bahn Berlim — Stadtbahn Leste–Oeste (Westkreuz – Zoologischer Garten – Hauptbahnhof – Friedrichstraße – Alexanderplatz – Ostkreuz)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2839,
+            52.5011
+          ],
+          [
+            13.3326,
+            52.5072
+          ],
+          [
+            13.3694,
+            52.5251
+          ],
+          [
+            13.3869,
+            52.5204
+          ],
+          [
+            13.4133,
+            52.5219
+          ],
+          [
+            13.4344,
+            52.5103
+          ],
+          [
+            13.469,
+            52.503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "u-bahn-s-bahn-berlim",
+        "sistema_nome_pt": "U-Bahn e S-Bahn de Berlim (BVG & S-Bahn Berlin)",
+        "sistema_nome_en": "Berlin U-Bahn & S-Bahn Network (BVG & S-Bahn Berlin)",
+        "linha": "U-Bahn Berlim — Linhas U2 & U5 (Ruhleben – Potsdamer Platz – Unter den Linden – Alexanderplatz – Hönow)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2416,
+            52.5256
+          ],
+          [
+            13.3326,
+            52.5072
+          ],
+          [
+            13.3762,
+            52.5096
+          ],
+          [
+            13.3888,
+            52.517
+          ],
+          [
+            13.4133,
+            52.5219
+          ],
+          [
+            13.5608,
+            52.5382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "u-bahn-s-bahn-berlim",
+        "sistema_nome_pt": "U-Bahn e S-Bahn de Berlim (BVG & S-Bahn Berlin)",
+        "sistema_nome_en": "Berlin U-Bahn & S-Bahn Network (BVG & S-Bahn Berlin)",
+        "linha": "U-Bahn Berlim — Linha U6/U7 Norte–Sul (Alt-Tegel – Friedrichstraße – Mehringdamm – Rudow)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2836,
+            52.5892
+          ],
+          [
+            13.3869,
+            52.5204
+          ],
+          [
+            13.3887,
+            52.4936
+          ],
+          [
+            13.3861,
+            52.4644
+          ],
+          [
+            13.4956,
+            52.4161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "u-bahn-s-bahn-munique",
+        "sistema_nome_pt": "U-Bahn e S-Bahn de Munique (MVG & S-Bahn München)",
+        "sistema_nome_en": "Munich U-Bahn & S-Bahn Network (MVG & S-Bahn München)",
+        "linha": "U-Bahn Munique — Linhas U3 e U6 (Garching-Forschungszentrum – Allianz Arena – Marienplatz – Klinikum Großhadern)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6714,
+            48.265
+          ],
+          [
+            11.6186,
+            48.2189
+          ],
+          [
+            11.5861,
+            48.1622
+          ],
+          [
+            11.5755,
+            48.1372
+          ],
+          [
+            11.5364,
+            48.1172
+          ],
+          [
+            11.4744,
+            48.1092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "u-bahn-s-bahn-munique",
+        "sistema_nome_pt": "U-Bahn e S-Bahn de Munique (MVG & S-Bahn München)",
+        "sistema_nome_en": "Munich U-Bahn & S-Bahn Network (MVG & S-Bahn München)",
+        "linha": "S-Bahn Munique — Tronco Central Stammstrecke (Pasing – Hauptbahnhof – Marienplatz – Ostbahnhof – Aeroporto)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4614,
+            48.1499
+          ],
+          [
+            11.5583,
+            48.1403
+          ],
+          [
+            11.5755,
+            48.1372
+          ],
+          [
+            11.6044,
+            48.1275
+          ],
+          [
+            11.7861,
+            48.3536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "u-bahn-s-bahn-hamburgo",
+        "sistema_nome_pt": "U-Bahn e S-Bahn de Hamburgo (HOCHBAHN & S-Bahn Hamburg)",
+        "sistema_nome_en": "Hamburg U-Bahn & S-Bahn Network (HOCHBAHN & S-Bahn Hamburg)",
+        "linha": "U-Bahn Hamburgo — Linha U1 & Anel U3 (Norderstedt – Hauptbahnhof – Landungsbrücken Porto – Barmbek)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9922,
+            53.7069
+          ],
+          [
+            10.0044,
+            53.5975
+          ],
+          [
+            10.0067,
+            53.5528
+          ],
+          [
+            9.9933,
+            53.5522
+          ],
+          [
+            9.97,
+            53.5458
+          ],
+          [
+            9.9675,
+            53.5819
+          ],
+          [
+            10.0442,
+            53.5872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "u-bahn-s-bahn-hamburgo",
+        "sistema_nome_pt": "U-Bahn e S-Bahn de Hamburgo (HOCHBAHN & S-Bahn Hamburg)",
+        "sistema_nome_en": "Hamburg U-Bahn & S-Bahn Network (HOCHBAHN & S-Bahn Hamburg)",
+        "linha": "S-Bahn Hamburgo — Eixo Altona – Jungfernstieg – Hauptbahnhof – Harburg",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9353,
+            53.5522
+          ],
+          [
+            9.9933,
+            53.5522
+          ],
+          [
+            10.0067,
+            53.5528
+          ],
+          [
+            9.9917,
+            53.4558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "stadtbahn-rhein-ruhr-frankfurt-stuttgart",
+        "sistema_nome_pt": "Redes Stadtbahn & U-Bahn — Frankfurt, Estugarda, Hanôver e Reno-Ruhr (Colônia, Düsseldorf e Dortmund)",
+        "sistema_nome_en": "German Stadtbahn & Light Metro Networks — Frankfurt, Stuttgart, Hanover & Rhine-Ruhr",
+        "linha": "U-Bahn Frankfurt — Troncos A/B/C (Südbahnhof – Hauptwache – Hauptbahnhof – Oberursel)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6864,
+            50.0994
+          ],
+          [
+            8.6789,
+            50.1139
+          ],
+          [
+            8.6636,
+            50.1072
+          ],
+          [
+            8.6514,
+            50.1436
+          ],
+          [
+            8.5778,
+            50.2017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "stadtbahn-rhein-ruhr-frankfurt-stuttgart",
+        "sistema_nome_pt": "Redes Stadtbahn & U-Bahn — Frankfurt, Estugarda, Hanôver e Reno-Ruhr (Colônia, Düsseldorf e Dortmund)",
+        "sistema_nome_en": "German Stadtbahn & Light Metro Networks — Frankfurt, Stuttgart, Hanover & Rhine-Ruhr",
+        "linha": "Stadtbahn Reno-Ruhr — Eixo Düsseldorf – Colônia (KVB) – Bonn (Linhas 16 e 18)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.7942,
+            51.22
+          ],
+          [
+            6.9589,
+            50.9425
+          ],
+          [
+            6.9964,
+            50.8286
+          ],
+          [
+            7.0956,
+            50.7322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilho-suspenso-wuppertal",
+        "sistema_nome_pt": "Monotrilho Suspenso de Wuppertal (Schwebebahn — 1901) & H-Bahn Dortmund/Düsseldorf",
+        "sistema_nome_en": "Wuppertal Suspension Monorail (Schwebebahn — 1901) & Dortmund/Düsseldorf H-Bahn",
+        "linha": "Wuppertaler Schwebebahn (Vohwinkel – Zoo – Hauptbahnhof – Oberbarmen — Inaugurado em 1901)",
+        "status": "operacao",
+        "tipo": "monotrilho",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.0681,
+            51.2319
+          ],
+          [
+            7.1142,
+            51.2464
+          ],
+          [
+            7.1497,
+            51.2556
+          ],
+          [
+            7.1981,
+            51.2708
+          ],
+          [
+            7.2219,
+            51.2747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ice-alta-velocidade-alemanha",
+        "sistema_nome_pt": "Rede ICE — Intercity-Express (Alta Velocidade Deutsche Bahn, 300 km/h)",
+        "sistema_nome_en": "ICE High-Speed Network — Intercity-Express (Deutsche Bahn, 300 km/h)",
+        "linha": "ICE Corredor Reno–Meno–Baviera (Colônia – Aeroporto de Frankfurt – Mannheim – Estugarda – Ulm – Munique, 300 km/h)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.9589,
+            50.9425
+          ],
+          [
+            7.1369,
+            50.7939
+          ],
+          [
+            8.0319,
+            50.4417
+          ],
+          [
+            8.5706,
+            50.0514
+          ],
+          [
+            8.6636,
+            50.1072
+          ],
+          [
+            8.4697,
+            49.4797
+          ],
+          [
+            9.1815,
+            48.7841
+          ],
+          [
+            9.9828,
+            48.3994
+          ],
+          [
+            10.8856,
+            48.3656
+          ],
+          [
+            11.5583,
+            48.1403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ice-alta-velocidade-alemanha",
+        "sistema_nome_pt": "Rede ICE — Intercity-Express (Alta Velocidade Deutsche Bahn, 300 km/h)",
+        "sistema_nome_en": "ICE High-Speed Network — Intercity-Express (Deutsche Bahn, 300 km/h)",
+        "linha": "ICE Sprinter VDE 8 (Berlim – Halle/Leipzig – Erfurt – Nuremberg – Munique, 300 km/h)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3694,
+            52.5251
+          ],
+          [
+            11.9872,
+            51.4775
+          ],
+          [
+            12.3817,
+            51.3453
+          ],
+          [
+            11.0381,
+            50.9725
+          ],
+          [
+            10.9694,
+            50.2583
+          ],
+          [
+            11.0828,
+            49.4456
+          ],
+          [
+            11.4314,
+            48.7444
+          ],
+          [
+            11.5583,
+            48.1403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ice-alta-velocidade-alemanha",
+        "sistema_nome_pt": "Rede ICE — Intercity-Express (Alta Velocidade Deutsche Bahn, 300 km/h)",
+        "sistema_nome_en": "ICE High-Speed Network — Intercity-Express (Deutsche Bahn, 300 km/h)",
+        "linha": "ICE Tronco Norte–Sul (Hamburgo – Hanôver – Kassel – Fulda – Würzburg – Nuremberg / Frankfurt)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0067,
+            53.5528
+          ],
+          [
+            9.7417,
+            52.3767
+          ],
+          [
+            9.9278,
+            51.5367
+          ],
+          [
+            9.4478,
+            51.3189
+          ],
+          [
+            9.6797,
+            50.5547
+          ],
+          [
+            9.9358,
+            49.8017
+          ],
+          [
+            11.0828,
+            49.4456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ice-alta-velocidade-alemanha",
+        "sistema_nome_pt": "Rede ICE — Intercity-Express (Alta Velocidade Deutsche Bahn, 300 km/h)",
+        "sistema_nome_en": "ICE High-Speed Network — Intercity-Express (Deutsche Bahn, 300 km/h)",
+        "linha": "ICE Leste–Oeste (Berlim – Wolfsburg – Hanôver – Dortmund – Essen – Düsseldorf – Colônia)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3694,
+            52.5251
+          ],
+          [
+            10.7878,
+            52.4294
+          ],
+          [
+            9.7417,
+            52.3767
+          ],
+          [
+            8.5328,
+            52.0292
+          ],
+          [
+            7.4592,
+            51.5175
+          ],
+          [
+            7.0131,
+            51.4514
+          ],
+          [
+            6.7942,
+            51.22
+          ],
+          [
+            6.9589,
+            50.9425
           ]
         ]
       }
