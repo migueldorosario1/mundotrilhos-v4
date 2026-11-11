@@ -35,6 +35,9 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 14:07] [ANTIGRAVITY] Ronda #2 + Versão Bilíngue Completa (PT-BR e EN) no Mundo Trilhos!
   - **Ordem direta do Miguel cumprida:** habilitadas dentro do próprio Mundo Trilhos as rotas em inglês `/mapa/en` e as 31 fichas técnicas `/mapa/en/[slug]`, com botão seletor **🇧🇷 Português | 🇺🇸 English** no topo do mapa e de todas as fichas (`750 page(s) built`, 0 erros).
 
+- [2026-11-11 14:34] [ANTIGRAVITY] Ronda #3 + Checkpoint Hora 3 (Globo 3D com OpenStreetMap oficial sem chave e `workerUrl` corrigido):
+  - Substituídos os tiles da CARTO (que exibiam marca d'água `"API KEY REQUIRED"`) por `https://tile.openstreetmap.org/{z}/{x}/{y}.png` (100% aberto e sem chave) e configurado `maplibregl.setWorkerUrl(workerUrl)` para o bundle Vite/Astro (`commit 77f9571` no PR #1). Globo 3D e Mapa 2D renderizando perfeitamente todos os 31 sistemas e 52 linhas.
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -55,3 +58,4 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 13:25] [ANTIGRAVITY] ronda #0 (inauguração): ponte `docs/ponte/PONTE.md` criada na branch `ponte-mapa-trilhos`, PR #2 (draft) aberto e plano da Sprint de 4h (13:25–17:25 BRT) registrado.
 - [2026-11-11 13:40] [ANTIGRAVITY] ronda #1: nada novo na Caixa de entrada da Carina; entregue Checkpoint Hora 1 (Globo 3D ↔ Mapa-múndi Plano) + carga dos 31 projetos brasileiros no PR #1 (`718 page(s) built`).
 - [2026-11-11 14:07] [ANTIGRAVITY] ronda #2: nada novo da Carina na Caixa de entrada; cumprida ordem do Miguel ativando `/mapa/en` + 31 fichas `/mapa/en/[slug]` e botão PT/EN (`750 page(s) built`).
+- [2026-11-11 14:34] [ANTIGRAVITY] ronda #3: nada novo na Caixa de entrada da Carina; registrado no Status o conserto dos tiles OpenStreetMap sem marca d'água e do `workerUrl` do MapLibre (`commit 77f9571`).
