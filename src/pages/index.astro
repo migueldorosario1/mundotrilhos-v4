@@ -53,8 +53,14 @@ for (const sys of sistemas) {
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
+			html,
+			body {
+				overflow-x: hidden;
+				max-width: 100vw;
+			}
 			main {
 				width: min(1280px, calc(100% - 2em));
+				box-sizing: border-box;
 			}
 			.home-mapa-section {
 				margin-bottom: 1.5rem;
