@@ -78,6 +78,10 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - Adicionados **7 sistemas espanhóis** em `src/data/mapa/sistemas.json` (`metro-madri`, `metro-barcelona`, `cercanias-rodalies-espanha`, `metros-bilbao-valencia-sevilha`, `ave-madri-barcelona-franca`, `ave-malha-nacional-espanha`, `y-basco-corredor-mediterraneo`), **18 novas linhas georreferenciadas** (totalizando **126 linhas**) e **32 novas estações** (totalizando **268 estações**).
   - Países mapeados até agora: **🇧🇷 Brasil (31)** + **🇨🇳 China (9)** + **🇯🇵 Japão (7)** + **🇫🇷 França (7)** + **🇪🇸 Espanha (7)** = **61 sistemas**. Próximo país na Ronda #12 (~19:00 BRT): **🇩🇪 Alemanha**.
 
+- [2026-11-11 19:18] [ANTIGRAVITY] Ronda #12 + País Internacional #5: 🇩🇪 Alemanha publicado em `main` (`824 page(s) built`):
+  - Adicionados **7 sistemas alemães** em `src/data/mapa/sistemas.json` (`u-bahn-s-bahn-berlim`, `u-bahn-s-bahn-munique`, `u-bahn-s-bahn-hamburgo`, `stadtbahn-rhein-ruhr-frankfurt-stuttgart`, `monotrilho-suspenso-wuppertal`, `ice-alta-velocidade-alemanha`, `stuttgart-21-fehmarnbelt-brenner`), **17 novas linhas georreferenciadas** (totalizando **143 linhas**) e **33 novas estações** (totalizando **301 estações**).
+  - Países mapeados até agora: **🇧🇷 Brasil (31)** + **🇨🇳 China (9)** + **🇯🇵 Japão (7)** + **🇫🇷 França (7)** + **🇪🇸 Espanha (7)** + **🇩🇪 Alemanha (7)** = **68 sistemas**. Próximo país na Ronda #13 (~19:40 BRT): **🇬🇧 Reino Unido**.
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -105,6 +109,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 18:13] [ANTIGRAVITY] #010 Ronda #10 — País Internacional #3: 🇫🇷 França publicado em Produção (`main`) — Adicionados 7 sistemas da França (Metrô de Paris RATP, RER & Transilien, Grand Paris Express Linhas 15/16/17/18 em obras, Metrô e VLT de Lyon, Metrôs Automáticos VAL de Lille/Toulouse/Rennes, TGV Sud-Est & Méditerranée, e TGV Atlantique/Nord Eurostar/Est Européen — recorde mundial 574,8 km/h), com 17 linhas e 33 estações georreferenciadas (total: 54 sistemas, 108 linhas, 236 estações, `796 page(s) built`). Próxima ronda: **Espanha 🇪🇸**.
 
 - [2026-11-11 18:44] [ANTIGRAVITY] #011 Ronda #11 — País Internacional #4: 🇪🇸 Espanha publicado em Produção (`main`) — Adicionados 7 sistemas da Espanha (Metrô de Madri, Metrô de Barcelona TMB/FGC, Rede Cercanías & Rodalies Renfe, Metrôs e VLTs de Bilbao/Valência/Sevilha, AVE Madri–Barcelona–Fronteira Francesa, Rede Nacional AVE Sul/Leste/Norte/Galícia — maior rede TAV da Europa com ~3.970 km — e Y Basco & Corredor Mediterrâneo em obras), com 18 linhas e 32 estações georreferenciadas (total: 61 sistemas, 126 linhas, 268 estações, `810 page(s) built`). Próxima ronda: **Alemanha 🇩🇪**.
+
+- [2026-11-11 19:18] [ANTIGRAVITY] #012 Ronda #12 — País Internacional #5: 🇩🇪 Alemanha publicado em Produção (`main`) — Adicionados 7 sistemas da Alemanha (U-Bahn & S-Bahn de Berlim, U-Bahn & S-Bahn de Munique, U-Bahn & S-Bahn de Hamburgo, Redes Stadtbahn de Frankfurt/Estugarda/Reno-Ruhr, Monotrilho Suspenso de Wuppertal Schwebebahn de 1901, Rede ICE de Alta Velocidade Deutsche Bahn 300 km/h, e Stuttgart 21 & Túnel Submarino Fehmarnbelt em obras), com 17 linhas e 33 estações georreferenciadas (total: 68 sistemas, 143 linhas, 301 estações, `824 page(s) built`). Próxima ronda: **Reino Unido 🇬🇧**.
 
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
@@ -136,3 +142,4 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 17:43] [ANTIGRAVITY] ronda #9 / expansão mundial #2 (Japão 🇯🇵): adicionados 7 sistemas japoneses, 15 linhas e 32 estações (total: 47 sistemas, 91 linhas, 203 estações, `782 page(s) built`), publicado em `main`; Caixa de entrada da Carina sem pendências novas.
 - [2026-11-11 18:13] [ANTIGRAVITY] ronda #10 / expansão mundial #3 (França 🇫🇷): adicionados 7 sistemas franceses, 17 linhas e 33 estações (total: 54 sistemas, 108 linhas, 236 estações, `796 page(s) built`), publicado em `main`; Caixa de entrada da Carina sem pendências novas.
 - [2026-11-11 18:44] [ANTIGRAVITY] ronda #11 / expansão mundial #4 (Espanha 🇪🇸): adicionados 7 sistemas espanhóis, 18 linhas e 32 estações (total: 61 sistemas, 126 linhas, 268 estações, `810 page(s) built`), publicado em `main`; Caixa de entrada da Carina sem pendências novas.
+- [2026-11-11 19:18] [ANTIGRAVITY] ronda #12 / expansão mundial #5 (Alemanha 🇩🇪): adicionados 7 sistemas alemães, 17 linhas e 33 estações (total: 68 sistemas, 143 linhas, 301 estações, `824 page(s) built`), publicado em `main`; Caixa de entrada da Carina sem pendências novas.
