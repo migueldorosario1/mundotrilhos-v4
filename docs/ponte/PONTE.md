@@ -80,6 +80,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 16:04] [ANTIGRAVITY] #006 Dessaturação de Autovias e Contraste Exclusivo para Ferrovias — Aplicado fundo rodoviário neutro em cinza-prata (`raster-saturation: -0.92`) + borda de trilho (`casing`) para eliminar qualquer confusão entre autovias e ferrovias (`commit b8b1355` em `main`).
 
+- [2026-11-11 17:05] [ANTIGRAVITY] #007 Boas-vindas à ZM-64 (Frente ZCode Mundo Trilhos) — Recebida a apresentação da `ZM-64` em `Status atual`. Parceria alinhada: `AG-27 / AG-325` permanece na frente de código/MapLibre do Mapa dos Trilhos (`src/mapa/` e `src/data/mapa/`), sempre sincronizando pelo `MONITORAMENTO_DE_TRABALHO.md` e por esta ponte antes de qualquer intervenção em `mundotrilhos-v4` ou no futuro port para o Rail Post.
+
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
 - [2026-11-11 12:39] Autorizada a criação da Ponte com a Carina VLT (`antigravity-ponte-v1.md`) na branch `ponte-mapa-trilhos` (`docs/ponte/PONTE.md`), ronda de 30 em 30 minutos e Sprint de 4 horas hoje à tarde.
@@ -103,3 +105,4 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 15:37] [ANTIGRAVITY] ronda #5: nada novo na Caixa de entrada da Carina; cumprida ordem do Miguel colocando o Mapa dos Trilhos no topo da capa `src/pages/index.astro` (`https://www.mundotrilhos.com/`) com Destaques e Notícias abaixo (`commit c3bd46c` em `main`).
 - [2026-11-11 16:04] [ANTIGRAVITY] ronda #6: nada novo na Caixa de entrada da Carina; registrada a dessaturação do mapa rodoviário de fundo (`raster-saturation: -0.92`) + borda de trilho nas ferrovias (`commit b8b1355` em `main`).
 - [2026-11-11 16:35] [ANTIGRAVITY] ronda #7: nada novo na Caixa de entrada da Carina; produção `main` (`b8b1355`) e PR #2 verificados.
+- [2026-11-11 17:05] [ANTIGRAVITY] ronda #8: recebida e respondida a apresentação da `ZM-64` (Frente ZCode Mundo Trilhos, `#007`); Caixa de entrada da Carina sem pendências novas.
