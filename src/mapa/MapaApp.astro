@@ -30,11 +30,11 @@ const tiposMap: Record<string, string> = t.tipos;
 const statusMap: Record<string, string> = t.status;
 
 const STATUS_COLORS: Record<string, string> = {
-	operacao: '#10b981',
-	obras: '#f59e0b',
-	projeto: '#8b5cf6',
-	paralisado: '#ef4444',
-	desativado: '#64748b',
+	operacao: '#00c853',
+	obras: '#ff6d00',
+	projeto: '#9333ea',
+	paralisado: '#e11d48',
+	desativado: '#475569',
 };
 
 function formatNum(val: number | null, suffix = ''): string {
@@ -485,13 +485,19 @@ const payloadClient = JSON.stringify({
 						]);
 					}
 					if (map.getLayer('linhas-operacao-glow')) {
-						map.setPaintProperty('linhas-operacao-glow', 'line-opacity', 0.55);
+						map.setPaintProperty('linhas-operacao-glow', 'line-opacity', 0.65);
+					}
+					if (map.getLayer('linhas-operacao-casing')) {
+						map.setPaintProperty('linhas-operacao-casing', 'line-opacity', 0.95);
 					}
 					if (map.getLayer('linhas-operacao')) {
-						map.setPaintProperty('linhas-operacao', 'line-opacity', 0.96);
+						map.setPaintProperty('linhas-operacao', 'line-opacity', 1.0);
+					}
+					if (map.getLayer('linhas-obras-casing')) {
+						map.setPaintProperty('linhas-obras-casing', 'line-opacity', 0.85);
 					}
 					if (map.getLayer('linhas-obras-projeto')) {
-						map.setPaintProperty('linhas-obras-projeto', 'line-opacity', 0.84);
+						map.setPaintProperty('linhas-obras-projeto', 'line-opacity', 0.92);
 					}
 					if (map.getLayer('estacoes-points')) {
 						map.setPaintProperty('estacoes-points', 'circle-opacity', [
@@ -536,8 +542,16 @@ const payloadClient = JSON.stringify({
 						map.setPaintProperty('linhas-operacao-glow', 'line-opacity', [
 							'case',
 							['==', ['get', 'sistema_id'], selectedSysId],
-							0.75,
+							0.8,
 							0.04,
+						]);
+					}
+					if (map.getLayer('linhas-operacao-casing')) {
+						map.setPaintProperty('linhas-operacao-casing', 'line-opacity', [
+							'case',
+							['==', ['get', 'sistema_id'], selectedSysId],
+							1.0,
+							0.12,
 						]);
 					}
 					if (map.getLayer('linhas-operacao')) {
@@ -546,6 +560,14 @@ const payloadClient = JSON.stringify({
 							['==', ['get', 'sistema_id'], selectedSysId],
 							1.0,
 							0.15,
+						]);
+					}
+					if (map.getLayer('linhas-obras-casing')) {
+						map.setPaintProperty('linhas-obras-casing', 'line-opacity', [
+							'case',
+							['==', ['get', 'sistema_id'], selectedSysId],
+							0.95,
+							0.1,
 						]);
 					}
 					if (map.getLayer('linhas-obras-projeto')) {
@@ -901,7 +923,7 @@ const payloadClient = JSON.stringify({
 				{
 					id: 'bg-base',
 					type: 'background',
-					paint: { 'background-color': '#dbeafe' },
+					paint: { 'background-color': '#cbd5e1' },
 				},
 				{
 					id: 'osm-tiles-layer',
@@ -909,6 +931,27 @@ const payloadClient = JSON.stringify({
 					source: 'osm-tiles',
 					minzoom: 0,
 					maxzoom: 19,
+					paint: {
+						'raster-saturation': -0.92,
+						'raster-contrast': -0.08,
+						'raster-brightness-min': 0.12,
+						'raster-brightness-max': 0.96,
+					},
+				},
+				{
+					id: 'linhas-obras-casing',
+					type: 'line',
+					source: 'linhas-source',
+					filter: ['!=', ['get', 'status'], 'operacao'],
+					layout: {
+						'line-join': 'round',
+						'line-cap': 'round',
+					},
+					paint: {
+						'line-color': '#ffffff',
+						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 4.5, 9, 6.5, 13, 9.0],
+						'line-opacity': 0.85,
+					},
 				},
 				{
 					id: 'linhas-obras-projeto',
@@ -933,9 +976,9 @@ const payloadClient = JSON.stringify({
 							STATUS_COLORS.desativado,
 							STATUS_COLORS.obras,
 						],
-						'line-width': ['interpolate', ['linear'], ['zoom'], 4, 2.2, 9, 3.6, 13, 5.2],
-						'line-dasharray': [2, 2],
-						'line-opacity': 0.84,
+						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 2.6, 9, 4.2, 13, 6.0],
+						'line-dasharray': [2, 1.6],
+						'line-opacity': 0.92,
 					},
 				},
 				{
@@ -948,10 +991,25 @@ const payloadClient = JSON.stringify({
 						'line-cap': 'round',
 					},
 					paint: {
-						'line-color': '#34d399',
-						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 6.5, 9, 10, 13, 15],
-						'line-blur': 4,
-						'line-opacity': 0.55,
+						'line-color': '#00e676',
+						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 8, 9, 13, 13, 18],
+						'line-blur': 4.5,
+						'line-opacity': 0.65,
+					},
+				},
+				{
+					id: 'linhas-operacao-casing',
+					type: 'line',
+					source: 'linhas-source',
+					filter: ['==', ['get', 'status'], 'operacao'],
+					layout: {
+						'line-join': 'round',
+						'line-cap': 'round',
+					},
+					paint: {
+						'line-color': '#064e3b',
+						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 4.6, 9, 7.2, 13, 10.2],
+						'line-opacity': 0.95,
 					},
 				},
 				{
@@ -965,8 +1023,8 @@ const payloadClient = JSON.stringify({
 					},
 					paint: {
 						'line-color': STATUS_COLORS.operacao,
-						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 2.8, 9, 4.4, 13, 6.5],
-						'line-opacity': 0.96,
+						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 3.0, 9, 4.8, 13, 7.0],
+						'line-opacity': 1.0,
 					},
 				},
 				{

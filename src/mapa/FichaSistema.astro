@@ -28,11 +28,11 @@ const tiposMap: Record<string, string> = t.tipos;
 const statusMap: Record<string, string> = t.status;
 
 const STATUS_COLORS: Record<string, string> = {
-	operacao: '#10b981',
-	obras: '#f59e0b',
-	projeto: '#8b5cf6',
-	paralisado: '#ef4444',
-	desativado: '#64748b',
+	operacao: '#00c853',
+	obras: '#ff6d00',
+	projeto: '#9333ea',
+	paralisado: '#e11d48',
+	desativado: '#475569',
 };
 
 const nome = isEn ? sistema.nome_en : sistema.nome_pt;
@@ -313,7 +313,7 @@ const miniMapPayload = JSON.stringify({
 					{
 						id: 'bg-base',
 						type: 'background',
-						paint: { 'background-color': '#dbeafe' },
+						paint: { 'background-color': '#cbd5e1' },
 					},
 					{
 						id: 'osm-tiles-layer',
@@ -321,6 +321,12 @@ const miniMapPayload = JSON.stringify({
 						source: 'osm-tiles',
 						minzoom: 0,
 						maxzoom: 19,
+						paint: {
+							'raster-saturation': -0.92,
+							'raster-contrast': -0.08,
+							'raster-brightness-min': 0.12,
+							'raster-brightness-max': 0.96,
+						},
 					},
 					{
 						id: 'sys-lines-glow',
@@ -331,10 +337,24 @@ const miniMapPayload = JSON.stringify({
 							'line-cap': 'round',
 						},
 						paint: {
-							'line-color': stColor || '#10b981',
-							'line-width': 10,
+							'line-color': stColor || '#00c853',
+							'line-width': 11,
 							'line-blur': 4,
-							'line-opacity': sistema.status === 'operacao' ? 0.55 : 0.2,
+							'line-opacity': sistema.status === 'operacao' ? 0.65 : 0.25,
+						},
+					},
+					{
+						id: 'sys-lines-casing',
+						type: 'line',
+						source: 'sys-lines',
+						layout: {
+							'line-join': 'round',
+							'line-cap': 'round',
+						},
+						paint: {
+							'line-color': '#0f172a',
+							'line-width': 7.5,
+							'line-opacity': 0.9,
 						},
 					},
 					{
@@ -346,7 +366,7 @@ const miniMapPayload = JSON.stringify({
 							'line-cap': 'round',
 						},
 						paint: {
-							'line-color': stColor || '#10b981',
+							'line-color': stColor || '#00c853',
 							'line-width': 4.8,
 						},
 					},
