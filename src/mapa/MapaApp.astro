@@ -6,6 +6,7 @@ import type { FonteCitada, RelatedBlogPost, SistemaRegistro } from './types';
 
 interface Props {
 	lang?: MapaLang;
+	isHome?: boolean;
 	sistemas: SistemaRegistro[];
 	linhasGeojson: Record<string, any>;
 	estacoesGeojson: Record<string, any>;
@@ -15,6 +16,7 @@ interface Props {
 
 const {
 	lang = 'pt-br',
+	isHome = false,
 	sistemas,
 	linhasGeojson,
 	estacoesGeojson,
@@ -165,90 +167,182 @@ const payloadClient = JSON.stringify({
 	</div>
 
 	<!-- Lista alternativa acessível em texto e indexável para SEO -->
-	<section class="mapa-directory" aria-labelledby="dir-heading">
-		<div class="dir-header">
-			<h2 id="dir-heading">{t.directory.title}</h2>
-			<p>{t.directory.subtitle}</p>
-		</div>
+	{isHome ? (
+		<details class="mapa-home-accordion">
+			<summary class="mapa-home-summary">
+				<span>📋 {t.directory.title} (31 sistemas) e metodologia</span>
+				<a href="/mapa" class="mapa-home-full-link">Abrir página dedicada do Mapa →</a>
+			</summary>
+			<section class="mapa-directory" aria-labelledby="dir-heading">
+				<div class="dir-header">
+					<h2 id="dir-heading">{t.directory.title}</h2>
+					<p>{t.directory.subtitle}</p>
+				</div>
 
-		<div class="dir-table-wrap">
-			<table class="dir-table">
-				<thead>
-					<tr>
-						<th>{t.directory.colSistema}</th>
-						<th>{t.directory.colCidade}</th>
-						<th>{t.directory.colTipo}</th>
-						<th>{t.directory.colStatus}</th>
-						<th>{t.directory.colExtensao}</th>
-						<th>{t.directory.colEstacoes}</th>
-						<th>{t.directory.colPassageiros}</th>
-						<th>{t.directory.colFicha}</th>
-					</tr>
-				</thead>
-				<tbody>
-					{sistemas.map((sys) => {
-						const nome = isEn ? sys.nome_en : sys.nome_pt;
-						const tipoLabel = tiposMap[sys.tipo] || sys.tipo;
-						const statusLabel = statusMap[sys.status] || sys.status;
-						const stColor = STATUS_COLORS[sys.status] || '#64748b';
-						const sheetBase = isEn ? '/mapa/en' : '/mapa';
-						return (
-							<tr data-sys-row={sys.id} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
-								<td>
-									<strong>
-										<a href={`${sheetBase}/${sys.slug}`}>{nome}</a>
-									</strong>
-									{sys.verificado_completo && (
-										<span class="verified-pill" title={t.drawer.verifiedBadge}>✓</span>
-									)}
-								</td>
-								<td>{sys.cidade} ({sys.uf})</td>
-								<td>{tipoLabel}</td>
-								<td>
-									<span class="status-pill" style={`--st-color:${stColor}`}>
-										{statusLabel}
-									</span>
-								</td>
-								<td>{formatNum(sys.extensao_km, ' km')}</td>
-								<td>{formatNum(sys.n_estacoes)}</td>
-								<td>
-									{sys.passageiros_dia !== null
-										? `${formatNum(sys.passageiros_dia)}${sys.ano_referencia ? ` (${sys.ano_referencia})` : ''}`
-										: t.drawer.nullValue}
-								</td>
-								<td class="dir-actions">
-									<button
-										type="button"
-										class="btn-link-map"
-										data-focus-system={sys.slug}
-									>
-										{t.directory.viewOnMap}
-									</button>
-									<a href={`${sheetBase}/${sys.slug}`} class="btn-link-sheet">
-										{t.directory.openSheet} →
-									</a>
-								</td>
+				<div class="dir-table-wrap">
+					<table class="dir-table">
+						<thead>
+							<tr>
+								<th>{t.directory.colSistema}</th>
+								<th>{t.directory.colCidade}</th>
+								<th>{t.directory.colTipo}</th>
+								<th>{t.directory.colStatus}</th>
+								<th>{t.directory.colExtensao}</th>
+								<th>{t.directory.colEstacoes}</th>
+								<th>{t.directory.colPassageiros}</th>
+								<th>{t.directory.colFicha}</th>
 							</tr>
-						);
-					})}
-				</tbody>
-			</table>
-		</div>
-	</section>
+						</thead>
+						<tbody>
+							{sistemas.map((sys) => {
+								const nome = isEn ? sys.nome_en : sys.nome_pt;
+								const tipoLabel = tiposMap[sys.tipo] || sys.tipo;
+								const statusLabel = statusMap[sys.status] || sys.status;
+								const stColor = STATUS_COLORS[sys.status] || '#64748b';
+								const sheetBase = isEn ? '/mapa/en' : '/mapa';
+								return (
+									<tr data-sys-row={sys.id} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
+										<td>
+											<strong>
+												<a href={`${sheetBase}/${sys.slug}`}>{nome}</a>
+											</strong>
+											{sys.verificado_completo && (
+												<span class="verified-pill" title={t.drawer.verifiedBadge}>✓</span>
+											)}
+										</td>
+										<td>{sys.cidade} ({sys.uf})</td>
+										<td>{tipoLabel}</td>
+										<td>
+											<span class="status-pill" style={`--st-color:${stColor}`}>
+												{statusLabel}
+											</span>
+										</td>
+										<td>{formatNum(sys.extensao_km, ' km')}</td>
+										<td>{formatNum(sys.n_estacoes)}</td>
+										<td>
+											{sys.passageiros_dia !== null
+												? `${formatNum(sys.passageiros_dia)}${sys.ano_referencia ? ` (${sys.ano_referencia})` : ''}`
+												: t.drawer.nullValue}
+										</td>
+										<td class="dir-actions">
+											<button
+												type="button"
+												class="btn-link-map"
+												data-focus-system={sys.slug}
+											>
+												{t.directory.viewOnMap}
+											</button>
+											<a href={`${sheetBase}/${sys.slug}`} class="btn-link-sheet">
+												{t.directory.openSheet} →
+											</a>
+										</td>
+									</tr>
+								);
+							})}
+						</tbody>
+					</table>
+				</div>
+			</section>
 
-	<!-- Metodologia e Atribuição ODbL -->
-	<section class="mapa-methodology" aria-labelledby="metodologia-heading">
-		<h2 id="metodologia-heading">{t.methodology.title}</h2>
-		<p>{t.methodology.text1}</p>
-		<p>{t.methodology.text2}</p>
-		<p class="osm-credit">
-			<a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">
-				{t.methodology.osmAttribution}
-			</a>
-		</p>
-	</section>
+			<section class="mapa-methodology" aria-labelledby="metodologia-heading">
+				<h2 id="metodologia-heading">{t.methodology.title}</h2>
+				<p>{t.methodology.text1}</p>
+				<p>{t.methodology.text2}</p>
+				<p class="osm-credit">
+					<a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">
+						{t.methodology.osmAttribution}
+					</a>
+				</p>
+			</section>
+		</details>
+	) : (
+		<>
+			<section class="mapa-directory" aria-labelledby="dir-heading">
+				<div class="dir-header">
+					<h2 id="dir-heading">{t.directory.title}</h2>
+					<p>{t.directory.subtitle}</p>
+				</div>
 
-	<ApoieSlot lang={lang} />
+				<div class="dir-table-wrap">
+					<table class="dir-table">
+						<thead>
+							<tr>
+								<th>{t.directory.colSistema}</th>
+								<th>{t.directory.colCidade}</th>
+								<th>{t.directory.colTipo}</th>
+								<th>{t.directory.colStatus}</th>
+								<th>{t.directory.colExtensao}</th>
+								<th>{t.directory.colEstacoes}</th>
+								<th>{t.directory.colPassageiros}</th>
+								<th>{t.directory.colFicha}</th>
+							</tr>
+						</thead>
+						<tbody>
+							{sistemas.map((sys) => {
+								const nome = isEn ? sys.nome_en : sys.nome_pt;
+								const tipoLabel = tiposMap[sys.tipo] || sys.tipo;
+								const statusLabel = statusMap[sys.status] || sys.status;
+								const stColor = STATUS_COLORS[sys.status] || '#64748b';
+								const sheetBase = isEn ? '/mapa/en' : '/mapa';
+								return (
+									<tr data-sys-row={sys.id} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
+										<td>
+											<strong>
+												<a href={`${sheetBase}/${sys.slug}`}>{nome}</a>
+											</strong>
+											{sys.verificado_completo && (
+												<span class="verified-pill" title={t.drawer.verifiedBadge}>✓</span>
+											)}
+										</td>
+										<td>{sys.cidade} ({sys.uf})</td>
+										<td>{tipoLabel}</td>
+										<td>
+											<span class="status-pill" style={`--st-color:${stColor}`}>
+												{statusLabel}
+											</span>
+										</td>
+										<td>{formatNum(sys.extensao_km, ' km')}</td>
+										<td>{formatNum(sys.n_estacoes)}</td>
+										<td>
+											{sys.passageiros_dia !== null
+												? `${formatNum(sys.passageiros_dia)}${sys.ano_referencia ? ` (${sys.ano_referencia})` : ''}`
+												: t.drawer.nullValue}
+										</td>
+										<td class="dir-actions">
+											<button
+												type="button"
+												class="btn-link-map"
+												data-focus-system={sys.slug}
+											>
+												{t.directory.viewOnMap}
+											</button>
+											<a href={`${sheetBase}/${sys.slug}`} class="btn-link-sheet">
+												{t.directory.openSheet} →
+											</a>
+										</td>
+									</tr>
+								);
+							})}
+						</tbody>
+					</table>
+				</div>
+			</section>
+
+			<!-- Metodologia e Atribuição ODbL -->
+			<section class="mapa-methodology" aria-labelledby="metodologia-heading">
+				<h2 id="metodologia-heading">{t.methodology.title}</h2>
+				<p>{t.methodology.text1}</p>
+				<p>{t.methodology.text2}</p>
+				<p class="osm-credit">
+					<a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">
+						{t.methodology.osmAttribution}
+					</a>
+				</p>
+			</section>
+
+			<ApoieSlot lang={lang} />
+		</>
+	)}
 </section>
 
 <script type="application/json" id="mapa-trilhos-payload" set:html={payloadClient}></script>
@@ -1911,5 +2005,41 @@ const payloadClient = JSON.stringify({
 		margin-bottom: 0;
 		font-size: 0.82rem;
 		font-weight: 600;
+	}
+
+	.mapa-home-accordion {
+		margin-top: 0.75rem;
+		background: #ffffff;
+		border: 1px solid #e2e8f0;
+		border-radius: 12px;
+		padding: 0.75rem 1rem;
+	}
+
+	.mapa-home-summary {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-items: center;
+		gap: 0.75rem;
+		cursor: pointer;
+		font-size: 0.92rem;
+		font-weight: 700;
+		color: #1e293b;
+		list-style: none;
+	}
+
+	.mapa-home-summary::-webkit-details-marker {
+		display: none;
+	}
+
+	.mapa-home-full-link {
+		font-size: 0.85rem;
+		font-weight: 700;
+		color: #d35400;
+		text-decoration: none;
+	}
+
+	.mapa-home-full-link:hover {
+		text-decoration: underline;
 	}
 </style>

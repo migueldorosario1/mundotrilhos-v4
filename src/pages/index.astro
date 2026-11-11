@@ -9,6 +9,14 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import destaquesAll from '../data/destaques.json';
 import destaquesCfg from '../data/destaques_config.json';
 
+import estacoesRaw from '../data/mapa/estacoes.geojson?raw';
+import fontesData from '../data/mapa/fontes.json';
+import linhasRaw from '../data/mapa/linhas.geojson?raw';
+import sistemasData from '../data/mapa/sistemas.json';
+import MapaApp from '../mapa/MapaApp.astro';
+import { findRelatedPostsForSystem } from '../mapa/relatedPosts';
+import type { FonteCitada, RelatedBlogPost, SistemaRegistro } from '../mapa/types';
+
 // Regras de Destaques (ordem Miguel, 2026-08-06):
 // 1) a seção só renderiza se estiver LIGADA no painel (destaques_config.json);
 //    desligada, a home mostra só os mais recentes na frente;
@@ -28,6 +36,16 @@ const _urlsDestaque = new Set(destaques.map((d) => d.url));
 const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/`)).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+const sistemas = sistemasData as SistemaRegistro[];
+const fontes = fontesData as FonteCitada[];
+const linhasGeojson = JSON.parse(linhasRaw);
+const estacoesGeojson = JSON.parse(estacoesRaw);
+const relatedBySystemId: Record<string, RelatedBlogPost[]> = {};
+
+for (const sys of sistemas) {
+	relatedBySystemId[sys.id] = findRelatedPostsForSystem(sys, _todosPosts, 4);
+}
 ---
 
 <!doctype html>
@@ -38,7 +56,13 @@ const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/
 			main {
 				width: min(1280px, calc(100% - 2em));
 			}
-			ul {
+			.home-mapa-section {
+				margin-bottom: 1.5rem;
+			}
+			.home-mapa-section :global(.mapa-shell) {
+				padding: 0.5rem 0 1.25rem;
+			}
+			ul.news-grid {
 				display: grid;
 				grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 				gap: 2rem;
@@ -46,19 +70,19 @@ const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/
 				margin: 0;
 				padding: 0;
 			}
-			ul li {
+			ul.news-grid li {
 				min-width: 0;
 			}
-			ul li * {
+			ul.news-grid li * {
 				text-decoration: none;
 				transition: 0.2s ease;
 			}
 			/* grade uniforme */
-			ul li img {
+			ul.news-grid li img {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
 			}
-			ul li a {
+			ul.news-grid li a {
 				display: block;
 			}
 			.title {
@@ -70,18 +94,18 @@ const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/
 				margin: 0;
 				color: rgb(var(--gray));
 			}
-			ul li a:hover h4,
-			ul li a:hover .date {
+			ul.news-grid li a:hover h4,
+			ul.news-grid li a:hover .date {
 				color: rgb(var(--accent));
 			}
-			ul a:hover img {
+			ul.news-grid a:hover img {
 				box-shadow: var(--box-shadow);
 			}
 			@media (max-width: 720px) {
-				ul {
+				ul.news-grid {
 					gap: 0.5em;
 				}
-				ul li {
+				ul.news-grid li {
 					width: 100%;
 					text-align: center;
 				}
@@ -175,7 +199,7 @@ const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/
 			.fv-title { font-size: clamp(0.95rem, 0.85rem + 0.4vw, 1.1rem); }
 			.fv-grid li:first-child .fv-title { font-size: clamp(1.3rem, 1.1rem + 1vw, 1.8rem); }
 			.title { font-size: clamp(1rem, 0.9rem + 0.5vw, 1.25rem) !important; line-height: 1.25 !important; }
-			ul li img { width: 100%; height: auto; }
+			ul.news-grid li img { width: 100%; height: auto; }
 		
 		/* label mini dos destaques (Miguel 2026-08-05): pequenininho, na cor do
 		   site, como chapeuzinho sobre a foto — sem títulão */
@@ -203,6 +227,17 @@ const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/
 	<body>
 		<Header />
 		<main>
+			<div class="home-mapa-section">
+				<MapaApp
+					lang="pt-br"
+					isHome={true}
+					sistemas={sistemas}
+					linhasGeojson={linhasGeojson}
+					estacoesGeojson={estacoesGeojson}
+					fontes={fontes}
+					relatedBySystemId={relatedBySystemId}
+				/>
+			</div>
 			{destaques.length > 0 && (
 			<section class="featured-voices">
 				<h2 class="fv-section-title fv-mini">Destaques</h2>
@@ -225,7 +260,7 @@ const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/
 			</section>
 			)}
 			<section>
-				<ul>
+				<ul class="news-grid">
 					{
 						posts.map((post) => (
 							<li>
