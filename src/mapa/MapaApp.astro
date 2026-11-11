@@ -37,6 +37,35 @@ const STATUS_COLORS: Record<string, string> = {
 	desativado: '#475569',
 };
 
+const COUNTRY_META: Record<
+	string,
+	{ flag: string; labelPt: string; labelEn: string; center: [number, number]; zoom: number }
+> = {
+	Brasil: { flag: '🇧🇷', labelPt: 'Brasil', labelEn: 'Brazil', center: [-47.5, -15.2], zoom: 3.8 },
+	China: { flag: '🇨🇳', labelPt: 'China', labelEn: 'China', center: [113.5, 31.2], zoom: 3.9 },
+	Japão: { flag: '🇯🇵', labelPt: 'Japão', labelEn: 'Japan', center: [138.2, 36.2], zoom: 5.0 },
+	França: { flag: '🇫🇷', labelPt: 'França', labelEn: 'France', center: [2.4, 46.6], zoom: 5.2 },
+	Espanha: { flag: '🇪🇸', labelPt: 'Espanha', labelEn: 'Spain', center: [-3.7, 40.4], zoom: 5.3 },
+	Alemanha: { flag: '🇩🇪', labelPt: 'Alemanha', labelEn: 'Germany', center: [10.4, 51.1], zoom: 5.3 },
+	'Reino Unido': { flag: '🇬🇧', labelPt: 'Reino Unido', labelEn: 'United Kingdom', center: [-1.8, 53.0], zoom: 5.3 },
+	'Estados Unidos': { flag: '🇺🇸', labelPt: 'Estados Unidos', labelEn: 'United States', center: [-96.0, 38.5], zoom: 3.7 },
+	Argentina: { flag: '🇦🇷', labelPt: 'Argentina', labelEn: 'Argentina', center: [-60.0, -34.8], zoom: 4.5 },
+	Chile: { flag: '🇨🇱', labelPt: 'Chile', labelEn: 'Chile', center: [-71.0, -33.8], zoom: 4.8 },
+	México: { flag: '🇲🇽', labelPt: 'México', labelEn: 'Mexico', center: [-99.1, 21.0], zoom: 4.6 },
+	Índia: { flag: '🇮🇳', labelPt: 'Índia', labelEn: 'India', center: [78.9, 22.0], zoom: 4.3 },
+	'Coreia do Sul': { flag: '🇰🇷', labelPt: 'Coreia do Sul', labelEn: 'South Korea', center: [127.8, 36.3], zoom: 6.2 },
+	Itália: { flag: '🇮🇹', labelPt: 'Itália', labelEn: 'Italy', center: [12.5, 42.5], zoom: 5.2 },
+	Suíça: { flag: '🇨🇭', labelPt: 'Suíça', labelEn: 'Switzerland', center: [8.2, 46.8], zoom: 6.8 },
+	Rússia: { flag: '🇷🇺', labelPt: 'Rússia', labelEn: 'Russia', center: [45.0, 56.5], zoom: 3.6 },
+};
+
+const countryCounts: Record<string, number> = {};
+for (const s of sistemas) {
+	const p = s.pais || 'Brasil';
+	countryCounts[p] = (countryCounts[p] || 0) + 1;
+}
+const activeCountries = Object.keys(countryCounts);
+
 function formatNum(val: number | null, suffix = ''): string {
 	if (val === null || val === undefined) return t.drawer.nullValue;
 	return val.toLocaleString(isEn ? 'en-US' : 'pt-BR') + suffix;
@@ -51,6 +80,7 @@ const payloadClient = JSON.stringify({
 	fontes,
 	relatedBySystemId,
 	STATUS_COLORS,
+	COUNTRY_META,
 });
 ---
 
@@ -83,6 +113,25 @@ const payloadClient = JSON.stringify({
 			</div>
 
 			<div class="control-selects">
+				<label class="control-field">
+					<span>{(t as any).filterPaisLabel || (isEn ? 'Country' : 'País')}</span>
+					<select id="mapa-filter-pais">
+						<option value="all">🌎 {t.filterAll} ({sistemas.length})</option>
+						{activeCountries.map((paisKey) => {
+							const meta = COUNTRY_META[paisKey] || {
+								flag: '🌐',
+								labelPt: paisKey,
+								labelEn: paisKey,
+							};
+							return (
+								<option value={paisKey}>
+									{meta.flag} {isEn ? meta.labelEn : meta.labelPt} ({countryCounts[paisKey]})
+								</option>
+							);
+						})}
+					</select>
+				</label>
+
 				<label class="control-field">
 					<span>{t.filterTipoLabel}</span>
 					<select id="mapa-filter-tipo">
@@ -128,6 +177,25 @@ const payloadClient = JSON.stringify({
 					</button>
 				</div>
 			</div>
+
+			<div class="country-pills-bar" role="group" aria-label={isEn ? 'Jump to country' : 'Ir rápido para país'}>
+				<span class="country-pills-label">{isEn ? 'Countries mapped:' : 'Países no mapa:'}</span>
+				<button type="button" class="country-pill-btn is-active" data-country-jump="all">
+					🌎 {isEn ? 'World (All)' : 'Mundo (Todos)'} <strong>{sistemas.length}</strong>
+				</button>
+				{activeCountries.map((paisKey) => {
+					const meta = COUNTRY_META[paisKey] || {
+						flag: '🌐',
+						labelPt: paisKey,
+						labelEn: paisKey,
+					};
+					return (
+						<button type="button" class="country-pill-btn" data-country-jump={paisKey}>
+							{meta.flag} {isEn ? meta.labelEn : meta.labelPt} <strong>{countryCounts[paisKey]}</strong>
+						</button>
+					);
+				})}
+			</div>
 		</div>
 	</div>
 
@@ -170,7 +238,7 @@ const payloadClient = JSON.stringify({
 	{isHome ? (
 		<details class="mapa-home-accordion">
 			<summary class="mapa-home-summary">
-				<span>📋 {t.directory.title} (31 sistemas) e metodologia</span>
+				<span>📋 {t.directory.title} ({sistemas.length} sistemas · {activeCountries.length} países) e metodologia</span>
 				<a href="/mapa" class="mapa-home-full-link">Abrir página dedicada do Mapa →</a>
 			</summary>
 			<section class="mapa-directory" aria-labelledby="dir-heading">
@@ -200,8 +268,9 @@ const payloadClient = JSON.stringify({
 								const statusLabel = statusMap[sys.status] || sys.status;
 								const stColor = STATUS_COLORS[sys.status] || '#64748b';
 								const sheetBase = isEn ? '/mapa/en' : '/mapa';
+								const cMeta = COUNTRY_META[sys.pais] || { flag: '🌐' };
 								return (
-									<tr data-sys-row={sys.id} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
+									<tr data-sys-row={sys.id} data-pais={sys.pais} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
 										<td>
 											<strong>
 												<a href={`${sheetBase}/${sys.slug}`}>{nome}</a>
@@ -210,7 +279,7 @@ const payloadClient = JSON.stringify({
 												<span class="verified-pill" title={t.drawer.verifiedBadge}>✓</span>
 											)}
 										</td>
-										<td>{sys.cidade} ({sys.uf})</td>
+										<td>{cMeta.flag} {sys.cidade} ({sys.uf})</td>
 										<td>{tipoLabel}</td>
 										<td>
 											<span class="status-pill" style={`--st-color:${stColor}`}>
@@ -284,8 +353,9 @@ const payloadClient = JSON.stringify({
 								const statusLabel = statusMap[sys.status] || sys.status;
 								const stColor = STATUS_COLORS[sys.status] || '#64748b';
 								const sheetBase = isEn ? '/mapa/en' : '/mapa';
+								const cMeta = COUNTRY_META[sys.pais] || { flag: '🌐' };
 								return (
-									<tr data-sys-row={sys.id} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
+									<tr data-sys-row={sys.id} data-pais={sys.pais} data-tipo={sys.tipo} data-status={sys.status} data-camada={sys.camada}>
 										<td>
 											<strong>
 												<a href={`${sheetBase}/${sys.slug}`}>{nome}</a>
@@ -294,7 +364,7 @@ const payloadClient = JSON.stringify({
 												<span class="verified-pill" title={t.drawer.verifiedBadge}>✓</span>
 											)}
 										</td>
-										<td>{sys.cidade} ({sys.uf})</td>
+										<td>{cMeta.flag} {sys.cidade} ({sys.uf})</td>
 										<td>{tipoLabel}</td>
 										<td>
 											<span class="status-pill" style={`--st-color:${stColor}`}>
@@ -361,7 +431,17 @@ const payloadClient = JSON.stringify({
 		if (!payloadEl || !mapEl) return;
 
 		const data = JSON.parse(payloadEl.textContent || '{}');
-		const { lang, t, sistemas, linhasGeojson, estacoesGeojson, fontes, relatedBySystemId, STATUS_COLORS } = data;
+		const {
+			lang,
+			t,
+			sistemas,
+			linhasGeojson,
+			estacoesGeojson,
+			fontes,
+			relatedBySystemId,
+			STATUS_COLORS,
+			COUNTRY_META = {},
+		} = data;
 		const isEn = lang === 'en';
 		const fontesById = Object.fromEntries((fontes || []).map((f: any) => [f.id, f]));
 		const sistemasById = Object.fromEntries((sistemas || []).map((s: any) => [s.id, s]));
@@ -369,6 +449,7 @@ const payloadClient = JSON.stringify({
 
 		const urlParams = new URLSearchParams(window.location.search);
 		const initialSysSlug = urlParams.get('s') || urlParams.get('sistema');
+		const initialPais = urlParams.get('pais') || 'all';
 		const initialLat = parseFloat(urlParams.get('lat') || '');
 		const initialLon = parseFloat(urlParams.get('lon') || '');
 		const initialZoom = parseFloat(urlParams.get('z') || '');
@@ -386,9 +467,13 @@ const payloadClient = JSON.stringify({
 		} else if (!Number.isNaN(initialLat) && !Number.isNaN(initialLon)) {
 			startCenter = [initialLon, initialLat];
 			if (!Number.isNaN(initialZoom)) startZoom = initialZoom;
+		} else if (initialPais !== 'all' && COUNTRY_META[initialPais]) {
+			startCenter = COUNTRY_META[initialPais].center;
+			startZoom = COUNTRY_META[initialPais].zoom;
 		}
 
 		const searchInput = document.getElementById('mapa-search-input') as HTMLInputElement | null;
+		const selectPais = document.getElementById('mapa-filter-pais') as HTMLSelectElement | null;
 		const selectTipo = document.getElementById('mapa-filter-tipo') as HTMLSelectElement | null;
 		const selectStatus = document.getElementById('mapa-filter-status') as HTMLSelectElement | null;
 		const toggleCarga = document.getElementById('mapa-toggle-carga') as HTMLInputElement | null;
@@ -815,20 +900,51 @@ const payloadClient = JSON.stringify({
 
 		function getFilteredSistemas(): any[] {
 			const q = (searchInput?.value || '').trim().toLowerCase();
+			const pais = selectPais?.value || 'all';
 			const tipo = selectTipo?.value || 'all';
 			const status = selectStatus?.value || 'all';
 			const showCarga = toggleCarga ? toggleCarga.checked : true;
 
 			return sistemas.filter((s: any) => {
 				if (!showCarga && s.camada === 'carga_projetos') return false;
+				if (pais !== 'all' && s.pais !== pais) return false;
 				if (tipo !== 'all' && s.tipo !== tipo) return false;
 				if (status !== 'all' && s.status !== status) return false;
 				if (q) {
-					const hay = `${s.nome_pt} ${s.nome_en} ${s.cidade} ${s.uf} ${s.operador} ${(s.tags || []).join(' ')}`.toLowerCase();
+					const hay = `${s.nome_pt} ${s.nome_en} ${s.pais} ${s.cidade} ${s.uf} ${s.operador} ${(s.tags || []).join(' ')}`.toLowerCase();
 					if (!hay.includes(q)) return false;
 				}
 				return true;
 			});
+		}
+
+		function syncCountryPills(selectedPais: string) {
+			document.querySelectorAll<HTMLButtonElement>('[data-country-jump]').forEach((btn) => {
+				const key = btn.getAttribute('data-country-jump') || 'all';
+				btn.classList.toggle('is-active', key === selectedPais);
+			});
+		}
+
+		function flyToCountry(paisKey: string) {
+			if (!map) return;
+			closeDrawer();
+			if (paisKey === 'all') {
+				map.flyTo({ center: [20, 12], zoom: 1.75, duration: 950 });
+				return;
+			}
+			const meta = COUNTRY_META[paisKey];
+			if (meta && Array.isArray(meta.center)) {
+				map.flyTo({ center: meta.center, zoom: meta.zoom || 4.5, duration: 950 });
+				return;
+			}
+			const countrySystems = sistemas.filter((s: any) => s.pais === paisKey);
+			if (countrySystems.length > 0) {
+				const avgLon =
+					countrySystems.reduce((acc: number, s: any) => acc + s.lon, 0) / countrySystems.length;
+				const avgLat =
+					countrySystems.reduce((acc: number, s: any) => acc + s.lat, 0) / countrySystems.length;
+				map.flyTo({ center: [avgLon, avgLat], zoom: 4.5, duration: 950 });
+			}
 		}
 
 		function buildSistemasGeojson(filteredList: any[]) {
@@ -1320,9 +1436,27 @@ const payloadClient = JSON.stringify({
 		}
 
 		searchInput?.addEventListener('input', applyFilters);
+		selectPais?.addEventListener('change', () => {
+			const chosen = selectPais.value || 'all';
+			syncCountryPills(chosen);
+			applyFilters();
+			flyToCountry(chosen);
+		});
 		selectTipo?.addEventListener('change', applyFilters);
 		selectStatus?.addEventListener('change', applyFilters);
 		toggleCarga?.addEventListener('change', applyFilters);
+
+		document.querySelectorAll<HTMLButtonElement>('[data-country-jump]').forEach((btn) => {
+			btn.addEventListener('click', () => {
+				const key = btn.getAttribute('data-country-jump') || 'all';
+				if (selectPais) {
+					selectPais.value = key;
+				}
+				syncCountryPills(key);
+				applyFilters();
+				flyToCountry(key);
+			});
+		});
 
 		function setMapProjection(proj: 'globe' | 'mercator') {
 			currentProjection = proj;
@@ -1349,13 +1483,17 @@ const payloadClient = JSON.stringify({
 		btnProjFlat?.addEventListener('click', () => setMapProjection('mercator'));
 
 		btnWorld?.addEventListener('click', () => {
-			closeDrawer();
-			if (map) map.flyTo({ center: [-30, 10], zoom: 1.85, duration: 950 });
+			if (selectPais) selectPais.value = 'all';
+			syncCountryPills('all');
+			applyFilters();
+			flyToCountry('all');
 		});
 
 		btnReset?.addEventListener('click', () => {
-			closeDrawer();
-			if (map) map.flyTo({ center: defaultCenter, zoom: defaultZoom, duration: 900 });
+			if (selectPais) selectPais.value = 'Brasil';
+			syncCountryPills('Brasil');
+			applyFilters();
+			flyToCountry('Brasil');
 		});
 
 		btnShare?.addEventListener('click', async () => {
@@ -1510,6 +1648,61 @@ const payloadClient = JSON.stringify({
 		border-radius: 6px;
 		background: #f8fafc;
 		font-size: 0.88rem;
+	}
+
+	.country-pills-bar {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.45rem;
+		padding-top: 0.55rem;
+		border-top: 1px dashed #e2e8f0;
+	}
+
+	.country-pills-label {
+		font-size: 0.8rem;
+		font-weight: 700;
+		color: #475569;
+		margin-right: 0.2rem;
+	}
+
+	.country-pill-btn {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.35rem;
+		padding: 0.32rem 0.68rem;
+		border-radius: 999px;
+		border: 1px solid #cbd5e1;
+		background: #f8fafc;
+		color: #1e293b;
+		font-size: 0.82rem;
+		font-weight: 600;
+		cursor: pointer;
+		transition: all 0.15s ease;
+	}
+
+	.country-pill-btn strong {
+		font-size: 0.74rem;
+		padding: 0.08rem 0.38rem;
+		border-radius: 999px;
+		background: #e2e8f0;
+		color: #0f172a;
+	}
+
+	.country-pill-btn:hover {
+		border-color: #00c853;
+		background: #ecfdf5;
+	}
+
+	.country-pill-btn.is-active {
+		background: #0f172a;
+		border-color: #0f172a;
+		color: #ffffff;
+	}
+
+	.country-pill-btn.is-active strong {
+		background: #00c853;
+		color: #052e16;
 	}
 
 	.control-checkbox {

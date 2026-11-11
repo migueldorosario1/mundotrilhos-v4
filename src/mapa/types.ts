@@ -5,6 +5,7 @@ export type SistemaTipo =
 	| 'monotrilho'
 	| 'aeromovel'
 	| 'trem_regional'
+	| 'alta_velocidade'
 	| 'ferrovia_carga'
 	| 'projeto';
 
