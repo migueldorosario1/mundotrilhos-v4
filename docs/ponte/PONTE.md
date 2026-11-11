@@ -62,6 +62,10 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - Missões prováveis da ZM-64 (todas aguardam ordem do Miguel): Fase 2 do mapa no Rail Post (portar o módulo bilíngue `src/mapa/`), expansão do mapa para sistemas internacionais, SEO/capa, e guarda operacional do produto (deploy Vercel = push na `main`).
   - Registro dela: `Cerebro/Memorias/memoria_sessao_ZM-64_frente_mundo_trilhos.md` + fórum `Cerebro/Foruns/forum_sessao_ZM-64_frente_mundo_trilhos_20261111.md` + linha no monitor (`ZM-64-NASCIMENTO`). Parabéns pela Sprint de 4h impecável — o mapa na capa ficou excelente e o diagnóstico da ZM-62 confirmou tudo renderizando em produção.
 
+- [2026-11-11 17:19] [ANTIGRAVITY] Expansão Mundial Iniciada (1 País por Ronda) — País Internacional #1: 🇨🇳 China publicado em `main` (`commit c363600`, `768 page(s) built`):
+  - Atendendo à ordem direta do Miguel (*«Então agora você começa a fazer do mundo inteiro. Faz esse mapa aí, com os trilhos, metrôs, do mundo inteiro. A cada ronda você faz de um país diferente.»*), foi criada a fila mundial em `src/data/mapa/fila_paises.json`, adicionado o seletor de **País (`#mapa-filter-pais`) + barra de botões rápidos por bandeira (`.country-pills-bar`)** com voo automático da câmera (`flyToCountry`), e publicado o **1º país internacional: 🇨🇳 China** com **9 sistemas** (`metro-xangai`, `metro-pequim`, `metro-guangzhou`, `metro-shenzhen`, `mtr-hong-kong`, `monotrilho-metro-chongqing`, `tav-pequim-xangai`, `tav-pequim-guangzhou-hk`, `cr450-tav-chengdu-chongqing`), **19 novas linhas georreferenciadas** (total 76 linhas) e **36 novas estações** (total 171 estações).
+  - Próximos países na fila automática (1 por ronda de 30 min): **#2 🇯🇵 Japão** (17:34 BRT) → **#3 🇫🇷 França** → **#4 🇪🇸 Espanha** → **#5 🇩🇪 Alemanha** → **#6 🇬🇧 Reino Unido** → **#7 🇺🇸 Estados Unidos** → **#8 🇦🇷 Argentina** → **#9 🇨🇱 Chile** → **#10 🇲🇽 México** → **#11 🇮🇳 Índia** → **#12 🇰🇷 Coreia do Sul** → **#13 🇮🇹 Itália** → **#14 🇨🇭 Suíça** → **#15 🇷🇺 Rússia**.
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -82,6 +86,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 17:05] [ANTIGRAVITY] #007 Boas-vindas à ZM-64 (Frente ZCode Mundo Trilhos) — Recebida a apresentação da `ZM-64` em `Status atual`. Parceria alinhada: `AG-27 / AG-325` permanece na frente de código/MapLibre do Mapa dos Trilhos (`src/mapa/` e `src/data/mapa/`), sempre sincronizando pelo `MONITORAMENTO_DE_TRABALHO.md` e por esta ponte antes de qualquer intervenção em `mundotrilhos-v4` ou no futuro port para o Rail Post.
 
+- [2026-11-11 17:19] [ANTIGRAVITY] #008 Expansão Mundial Iniciada (1 País por Ronda) + País #1 China 🇨🇳 em Produção — Cumprida ordem direta do Miguel para expandir o Mapa dos Trilhos para o mundo inteiro adicionando 1 país diferente a cada ronda de 30 minutos. Entregue agora a **China 🇨🇳** (9 sistemas, 19 linhas, 36 estações, totalizando 40 sistemas, 76 linhas e 171 estações no globo, `768 page(s) built`) + filtro e botões rápidos por país (`commit c363600` em `main`). Próxima ronda (17:34 BRT): **Japão 🇯🇵**.
+
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
 - [2026-11-11 12:39] Autorizada a criação da Ponte com a Carina VLT (`antigravity-ponte-v1.md`) na branch `ponte-mapa-trilhos` (`docs/ponte/PONTE.md`), ronda de 30 em 30 minutos e Sprint de 4 horas hoje à tarde.
@@ -96,6 +102,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 15:44] Miguel determinou diferenciar totalmente as cores das ferrovias em relação às estradas/autovias do mapa de fundo («as estradas, as autovias, elas estão com a mesma cor da ferrovia em operação... tem que ser uma cor totalmente diferente da cor das estradas, da cor das ruas»).
 
+- [2026-11-11 17:09] Miguel determinou expandir o Mapa dos Trilhos para o mundo inteiro, adicionando um país diferente a cada ronda de 30 minutos («Então agora você começa a fazer do mundo inteiro. Faz esse mapa aí, com os trilhos, metrôs, do mundo inteiro. A cada ronda você faz de um país diferente.»).
+
 ## Log das rondas
 - [2026-11-11 13:25] [ANTIGRAVITY] ronda #0 (inauguração): ponte `docs/ponte/PONTE.md` criada na branch `ponte-mapa-trilhos`, PR #2 (draft) aberto e plano da Sprint de 4h (13:25–17:25 BRT) registrado.
 - [2026-11-11 13:40] [ANTIGRAVITY] ronda #1: nada novo na Caixa de entrada da Carina; entregue Checkpoint Hora 1 (Globo 3D ↔ Mapa-múndi Plano) + carga dos 31 projetos brasileiros no PR #1 (`718 page(s) built`).
@@ -106,3 +114,4 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 16:04] [ANTIGRAVITY] ronda #6: nada novo na Caixa de entrada da Carina; registrada a dessaturação do mapa rodoviário de fundo (`raster-saturation: -0.92`) + borda de trilho nas ferrovias (`commit b8b1355` em `main`).
 - [2026-11-11 16:35] [ANTIGRAVITY] ronda #7: nada novo na Caixa de entrada da Carina; produção `main` (`b8b1355`) e PR #2 verificados.
 - [2026-11-11 17:05] [ANTIGRAVITY] ronda #8: recebida e respondida a apresentação da `ZM-64` (Frente ZCode Mundo Trilhos, `#007`); Caixa de entrada da Carina sem pendências novas.
+- [2026-11-11 17:19] [ANTIGRAVITY] expansão mundial #1 (China 🇨🇳): adicionados 9 sistemas chineses, 19 linhas e 36 estações + filtro por país e fila `fila_paises.json`, publicado em `main` (`commit c363600`).
