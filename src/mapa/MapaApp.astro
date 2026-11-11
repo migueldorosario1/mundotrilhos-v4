@@ -28,10 +28,10 @@ const tiposMap: Record<string, string> = t.tipos;
 const statusMap: Record<string, string> = t.status;
 
 const STATUS_COLORS: Record<string, string> = {
-	operacao: '#0d9488',
-	obras: '#d97706',
-	projeto: '#2563eb',
-	paralisado: '#dc2626',
+	operacao: '#10b981',
+	obras: '#f59e0b',
+	projeto: '#8b5cf6',
+	paralisado: '#ef4444',
 	desativado: '#64748b',
 };
 
@@ -137,15 +137,18 @@ const payloadClient = JSON.stringify({
 				<div class="legend-row">
 					{Object.entries(t.status).map(([stKey, stLabel]) => (
 						<span class="legend-item">
-							<i class="legend-dot" style={`background:${STATUS_COLORS[stKey] || '#64748b'}`}></i>
+							<i
+								class={`legend-dot ${stKey === 'operacao' ? 'is-luminous' : ''}`}
+								style={`background:${STATUS_COLORS[stKey] || '#64748b'}`}
+							></i>
 							{stLabel}
 						</span>
 					))}
 				</div>
 				<div class="legend-zoom-hint" id="mapa-zoom-hint">
 					{isEn
-						? 'Zoom in on a city to reveal line alignments and stations.'
-						: 'Amplie numa cidade para ver os traçados das linhas e as estações.'}
+						? 'Hover over any station or line to see its name · Click a system to highlight it and dim the others.'
+						: 'Passe o mouse nas estações e linhas para ver o nome · Clique num sistema para destacá-lo e apagar os demais.'}
 				</div>
 			</div>
 		</div>
@@ -344,10 +347,146 @@ const payloadClient = JSON.stringify({
 			window.history.replaceState({}, '', url.toString());
 		}
 
+		let activeSysId: string | null =
+			initialSysSlug && sistemasBySlug[initialSysSlug] ? sistemasBySlug[initialSysSlug].id : null;
+
+		function applySystemHighlight(selectedSysId: string | null) {
+			activeSysId = selectedSysId;
+
+			// Destaca ou esmaece linhas na tabela de diretório
+			document.querySelectorAll<HTMLElement>('[data-sys-row]').forEach((row) => {
+				const rowId = row.getAttribute('data-sys-row') || '';
+				if (!selectedSysId) {
+					row.classList.remove('is-selected', 'is-dimmed');
+				} else if (rowId === selectedSysId) {
+					row.classList.add('is-selected');
+					row.classList.remove('is-dimmed');
+				} else {
+					row.classList.add('is-dimmed');
+					row.classList.remove('is-selected');
+				}
+			});
+
+			if (!map || !map.isStyleLoaded()) return;
+
+			try {
+				if (!selectedSysId) {
+					// Visão geral: ilumina intensamente tudo que está em operação
+					if (map.getLayer('sistemas-operacao-glow')) {
+						map.setPaintProperty('sistemas-operacao-glow', 'circle-opacity', 0.65);
+					}
+					if (map.getLayer('sistemas-circles')) {
+						map.setPaintProperty('sistemas-circles', 'circle-opacity', [
+							'case',
+							['==', ['get', 'status'], 'operacao'],
+							1.0,
+							0.84,
+						]);
+						map.setPaintProperty('sistemas-circles', 'circle-stroke-opacity', 1.0);
+						map.setPaintProperty('sistemas-circles', 'circle-stroke-width', [
+							'case',
+							['==', ['get', 'status'], 'operacao'],
+							2.8,
+							2.2,
+						]);
+					}
+					if (map.getLayer('linhas-operacao-glow')) {
+						map.setPaintProperty('linhas-operacao-glow', 'line-opacity', 0.55);
+					}
+					if (map.getLayer('linhas-operacao')) {
+						map.setPaintProperty('linhas-operacao', 'line-opacity', 0.96);
+					}
+					if (map.getLayer('linhas-obras-projeto')) {
+						map.setPaintProperty('linhas-obras-projeto', 'line-opacity', 0.84);
+					}
+					if (map.getLayer('estacoes-points')) {
+						map.setPaintProperty('estacoes-points', 'circle-opacity', [
+							'case',
+							['==', ['get', 'status'], 'operacao'],
+							1.0,
+							0.85,
+						]);
+						map.setPaintProperty('estacoes-points', 'circle-stroke-opacity', 0.95);
+					}
+				} else {
+					// Sistema clicado: fica claro e em destaque (1.0); os outros não clicados ficam clarinhos meio apagados (0.15)
+					if (map.getLayer('sistemas-operacao-glow')) {
+						map.setPaintProperty('sistemas-operacao-glow', 'circle-opacity', [
+							'case',
+							['==', ['get', 'id'], selectedSysId],
+							0.85,
+							0.06,
+						]);
+					}
+					if (map.getLayer('sistemas-circles')) {
+						map.setPaintProperty('sistemas-circles', 'circle-opacity', [
+							'case',
+							['==', ['get', 'id'], selectedSysId],
+							1.0,
+							0.16,
+						]);
+						map.setPaintProperty('sistemas-circles', 'circle-stroke-opacity', [
+							'case',
+							['==', ['get', 'id'], selectedSysId],
+							1.0,
+							0.22,
+						]);
+						map.setPaintProperty('sistemas-circles', 'circle-stroke-width', [
+							'case',
+							['==', ['get', 'id'], selectedSysId],
+							3.6,
+							1.5,
+						]);
+					}
+					if (map.getLayer('linhas-operacao-glow')) {
+						map.setPaintProperty('linhas-operacao-glow', 'line-opacity', [
+							'case',
+							['==', ['get', 'sistema_id'], selectedSysId],
+							0.75,
+							0.04,
+						]);
+					}
+					if (map.getLayer('linhas-operacao')) {
+						map.setPaintProperty('linhas-operacao', 'line-opacity', [
+							'case',
+							['==', ['get', 'sistema_id'], selectedSysId],
+							1.0,
+							0.15,
+						]);
+					}
+					if (map.getLayer('linhas-obras-projeto')) {
+						map.setPaintProperty('linhas-obras-projeto', 'line-opacity', [
+							'case',
+							['==', ['get', 'sistema_id'], selectedSysId],
+							1.0,
+							0.14,
+						]);
+					}
+					if (map.getLayer('estacoes-points')) {
+						map.setPaintProperty('estacoes-points', 'circle-opacity', [
+							'case',
+							['==', ['get', 'sistema_id'], selectedSysId],
+							1.0,
+							0.14,
+						]);
+						map.setPaintProperty('estacoes-points', 'circle-stroke-opacity', [
+							'case',
+							['==', ['get', 'sistema_id'], selectedSysId],
+							1.0,
+							0.16,
+						]);
+					}
+				}
+			} catch (err) {
+				console.warn('[Mapa] Erro ao aplicar destaque de sistema:', err);
+			}
+		}
+
 		function openSystemDrawer(sys: any) {
 			if (!drawer || !drawerBody || !drawerBadges) return;
 			activeSlug = sys.slug;
 			syncUrlState(sys.slug);
+			applySystemHighlight(sys.id);
 
 			const nome = isEn ? sys.nome_en : sys.nome_pt;
 			const resumo = isEn ? sys.resumo_en : sys.resumo_pt;
@@ -364,6 +503,9 @@ const payloadClient = JSON.stringify({
 				: null;
 
 			const sysLines = (linhasGeojson.features || []).filter(
+				(f: any) => f.properties?.sistema_id === sys.id
+			);
+			const sysStations = (estacoesGeojson.features || []).filter(
 				(f: any) => f.properties?.sistema_id === sys.id
 			);
 			const hasApprox = sysLines.some((f: any) => f.properties?.geometria_aproximada);
@@ -395,6 +537,22 @@ const payloadClient = JSON.stringify({
 				sys.passageiros_dia !== null && sys.passageiros_dia !== undefined
 					? `${sys.passageiros_dia.toLocaleString(isEn ? 'en-US' : 'pt-BR')}${sys.ano_referencia ? ` (${sys.ano_referencia})` : ''}`
 					: `<span class="null-chip">${escapeHtml(t.drawer.nullValue)}</span>`;
+
+			const stationsHtml = sysStations.length
+				? `<div class="drawer-section">
+						<h3>🚉 ${escapeHtml(t.drawer.fields.estacoes)} (${sysStations.length})</h3>
+						<div class="drawer-stations-chips">
+							${sysStations
+								.map((st: any) => {
+									const stCoords = st.geometry?.coordinates || [];
+									return `<button type="button" class="station-chip-btn" data-st-lon="${stCoords[0]}" data-st-lat="${stCoords[1]}" data-st-nome="${escapeHtml(st.properties?.nome || '')}" data-st-linha="${escapeHtml(st.properties?.linha || '')}">
+										${escapeHtml(st.properties?.nome || '')}
+									</button>`;
+								})
+								.join('')}
+						</div>
+				   </div>`
+				: '';
 
 			const fontesHtml = (sys.fontes || [])
 				.map((fid: string) => fontesById[fid])
@@ -476,6 +634,8 @@ const payloadClient = JSON.stringify({
 					</div>
 				</dl>
 
+				${stationsHtml}
+
 				<div class="drawer-section">
 					<h3>${escapeHtml(t.drawer.fields.materiasRelacionadas)}</h3>
 					${relatedHtml}
@@ -493,6 +653,30 @@ const payloadClient = JSON.stringify({
 				</div>
 			`;
 
+			drawerBody.querySelectorAll<HTMLButtonElement>('.station-chip-btn').forEach((btn) => {
+				btn.addEventListener('click', () => {
+					const lon = parseFloat(btn.getAttribute('data-st-lon') || '');
+					const lat = parseFloat(btn.getAttribute('data-st-lat') || '');
+					const stNome = btn.getAttribute('data-st-nome') || '';
+					const stLinha = btn.getAttribute('data-st-linha') || '';
+					if (!Number.isNaN(lon) && !Number.isNaN(lat) && map) {
+						map.flyTo({ center: [lon, lat], zoom: 13.5, duration: 750 });
+						if (hoverPopup) {
+							hoverPopup
+								.setLngLat([lon, lat])
+								.setHTML(
+									`<div class="hover-card">
+										<div class="hover-title">🚉 ${escapeHtml(stNome)}</div>
+										<div class="hover-sub">${escapeHtml(stLinha)}</div>
+										<div class="hover-sys">${escapeHtml(nome)}</div>
+									</div>`
+								)
+								.addTo(map);
+						}
+					}
+				});
+			});
+
 			drawer.hidden = false;
 			drawer.classList.add('is-open');
 		}
@@ -503,6 +687,7 @@ const payloadClient = JSON.stringify({
 			drawer.classList.remove('is-open');
 			activeSlug = null;
 			syncUrlState(null);
+			applySystemHighlight(null);
 		}
 
 		drawerCloseBtn?.addEventListener('click', closeDrawer);
@@ -542,6 +727,7 @@ const payloadClient = JSON.stringify({
 						cidade: s.cidade,
 						uf: s.uf,
 						status: s.status,
+						status_label: t.status[s.status] || s.status,
 						tipo: s.tipo,
 						color: STATUS_COLORS[s.status] || '#64748b',
 						zoom_inicial: s.zoom_inicial || 11.5,
@@ -631,46 +817,113 @@ const payloadClient = JSON.stringify({
 					maxzoom: 19,
 				},
 				{
-					id: 'linhas-operacao',
-					type: 'line',
-					source: 'linhas-source',
-					filter: ['all', ['==', ['get', 'status'], 'operacao'], ['!=', ['get', 'geometria_aproximada'], true]],
-					layout: {
-						'line-join': 'round',
-						'line-cap': 'round',
-					},
-					paint: {
-						'line-color': ['coalesce', ['get', 'cor'], '#0455A1'],
-						'line-width': ['interpolate', ['linear'], ['zoom'], 4, 2.5, 9, 4, 13, 6],
-						'line-opacity': 0.94,
-					},
-				},
-				{
 					id: 'linhas-obras-projeto',
 					type: 'line',
 					source: 'linhas-source',
-					filter: ['any', ['!=', ['get', 'status'], 'operacao'], ['==', ['get', 'geometria_aproximada'], true]],
+					filter: ['!=', ['get', 'status'], 'operacao'],
 					layout: {
 						'line-join': 'round',
 						'line-cap': 'round',
 					},
 					paint: {
-						'line-color': ['coalesce', ['get', 'cor'], '#d97706'],
-						'line-width': ['interpolate', ['linear'], ['zoom'], 4, 2.2, 9, 3.5, 13, 5],
+						'line-color': [
+							'match',
+							['get', 'status'],
+							'obras',
+							STATUS_COLORS.obras,
+							'projeto',
+							STATUS_COLORS.projeto,
+							'paralisado',
+							STATUS_COLORS.paralisado,
+							'desativado',
+							STATUS_COLORS.desativado,
+							STATUS_COLORS.obras,
+						],
+						'line-width': ['interpolate', ['linear'], ['zoom'], 4, 2.2, 9, 3.6, 13, 5.2],
 						'line-dasharray': [2, 2],
-						'line-opacity': 0.9,
+						'line-opacity': 0.84,
+					},
+				},
+				{
+					id: 'linhas-operacao-glow',
+					type: 'line',
+					source: 'linhas-source',
+					filter: ['==', ['get', 'status'], 'operacao'],
+					layout: {
+						'line-join': 'round',
+						'line-cap': 'round',
+					},
+					paint: {
+						'line-color': '#34d399',
+						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 6.5, 9, 10, 13, 15],
+						'line-blur': 4,
+						'line-opacity': 0.55,
+					},
+				},
+				{
+					id: 'linhas-operacao',
+					type: 'line',
+					source: 'linhas-source',
+					filter: ['==', ['get', 'status'], 'operacao'],
+					layout: {
+						'line-join': 'round',
+						'line-cap': 'round',
+					},
+					paint: {
+						'line-color': STATUS_COLORS.operacao,
+						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 2.8, 9, 4.4, 13, 6.5],
+						'line-opacity': 0.96,
+					},
+				},
+				{
+					id: 'estacoes-hit-area',
+					type: 'circle',
+					source: 'estacoes-source',
+					minzoom: 5.5,
+					paint: {
+						'circle-radius': ['interpolate', ['linear'], ['zoom'], 5.5, 10, 10, 14, 14, 18],
+						'circle-color': '#10b981',
+						'circle-opacity': 0.01,
 					},
 				},
 				{
 					id: 'estacoes-points',
 					type: 'circle',
 					source: 'estacoes-source',
-					minzoom: 9.5,
+					minzoom: 5.5,
 					paint: {
-						'circle-radius': ['interpolate', ['linear'], ['zoom'], 9.5, 3.5, 14, 6.5],
+						'circle-radius': ['interpolate', ['linear'], ['zoom'], 5.5, 3.6, 9, 5.2, 13, 7.2],
 						'circle-color': '#ffffff',
-						'circle-stroke-width': 2.2,
-						'circle-stroke-color': '#0f172a',
+						'circle-stroke-width': ['interpolate', ['linear'], ['zoom'], 5.5, 2.0, 12, 2.8],
+						'circle-stroke-color': [
+							'match',
+							['get', 'status'],
+							'operacao',
+							'#059669',
+							'obras',
+							STATUS_COLORS.obras,
+							'projeto',
+							STATUS_COLORS.projeto,
+							'paralisado',
+							STATUS_COLORS.paralisado,
+							'desativado',
+							STATUS_COLORS.desativado,
+							'#059669',
+						],
+						'circle-opacity': 0.98,
+						'circle-stroke-opacity': 0.98,
+					},
+				},
+				{
+					id: 'sistemas-operacao-glow',
+					type: 'circle',
+					source: 'sistemas-points',
+					filter: ['==', ['get', 'status'], 'operacao'],
+					paint: {
+						'circle-radius': ['interpolate', ['linear'], ['zoom'], 2, 13, 6, 16, 12, 12],
+						'circle-color': '#34d399',
+						'circle-blur': 0.65,
+						'circle-opacity': 0.65,
 					},
 				},
 				{
@@ -678,14 +931,27 @@ const payloadClient = JSON.stringify({
 					type: 'circle',
 					source: 'sistemas-points',
 					paint: {
-						'circle-radius': ['interpolate', ['linear'], ['zoom'], 3, 7.5, 8, 9.5, 12, 6.5],
+						'circle-radius': [
+							'interpolate',
+							['linear'],
+							['zoom'],
+							2,
+							['case', ['==', ['get', 'status'], 'operacao'], 7.8, 6.4],
+							7,
+							['case', ['==', ['get', 'status'], 'operacao'], 9.8, 8.0],
+							12,
+							['case', ['==', ['get', 'status'], 'operacao'], 7.0, 5.8],
+						],
 						'circle-color': ['get', 'color'],
-						'circle-stroke-width': 2.5,
+						'circle-stroke-width': ['case', ['==', ['get', 'status'], 'operacao'], 2.8, 2.2],
 						'circle-stroke-color': '#ffffff',
+						'circle-opacity': ['case', ['==', ['get', 'status'], 'operacao'], 1.0, 0.84],
 					},
 				},
 			],
 		};
+
+		let hoverPopup: any = null;
 
 		try {
 			map = new maplibregl.Map({
@@ -700,12 +966,64 @@ const payloadClient = JSON.stringify({
 
 			map.addControl(new maplibregl.NavigationControl({ showCompass: true }), 'top-right');
 			map.addControl(new maplibregl.ScaleControl({ maxWidth: 120, unit: 'metric' }), 'bottom-left');
+
+			hoverPopup = new maplibregl.Popup({
+				closeButton: false,
+				closeOnClick: false,
+				offset: 12,
+				maxWidth: '280px',
+				className: 'mapa-hover-tooltip',
+			});
 		} catch (err) {
 			console.warn('[Mapa] WebGL indisponível neste dispositivo:', err);
 		}
 
 		if (map) {
-			const clickableLayers = ['sistemas-circles', 'linhas-operacao', 'linhas-obras-projeto', 'estacoes-points'];
+			const showStationTooltip = (feat: any) => {
+				if (!feat || !hoverPopup) return;
+				const props = feat.properties || {};
+				const coords = (feat.geometry as any).coordinates.slice();
+				const sysNome = isEn
+					? props.sistema_nome_en || sistemasById[props.sistema_id]?.nome_en || ''
+					: props.sistema_nome_pt || sistemasById[props.sistema_id]?.nome_pt || '';
+				const stKey = props.status || 'operacao';
+				const stLabel = t.status[stKey] || stKey;
+				const stColor = STATUS_COLORS[stKey] || '#10b981';
+
+				hoverPopup
+					.setLngLat(coords)
+					.setHTML(
+						`<div class="hover-card">
+							<div class="hover-title">🚉 ${escapeHtml(props.nome)}</div>
+							${props.linha ? `<div class="hover-sub">${escapeHtml(props.linha)}</div>` : ''}
+							<div class="hover-meta">
+								<span class="hover-dot" style="background:${stColor}"></span>
+								<span>${escapeHtml(sysNome)} · ${escapeHtml(stLabel)}</span>
+							</div>
+						</div>`
+					)
+					.addTo(map);
+			};
+
+			map.on('load', () => {
+				if (activeSysId) {
+					applySystemHighlight(activeSysId);
+					const firstSt = (estacoesGeojson.features || []).find(
+						(f: any) => f.properties?.sistema_id === activeSysId
+					);
+					if (firstSt) {
+						showStationTooltip(firstSt);
+					}
+				}
+			});
+
+			const clickableLayers = [
+				'sistemas-circles',
+				'linhas-operacao',
+				'linhas-obras-projeto',
+				'estacoes-hit-area',
+				'estacoes-points',
+			];
 
 			for (const layerId of clickableLayers) {
 				map.on('mouseenter', layerId, () => {
@@ -716,6 +1034,87 @@ const payloadClient = JSON.stringify({
 				});
 			}
 
+			// Hover instantâneo nas estações (ponto ou área de aproximação): abre o nome da estação ao passar o mouse
+			const handleStationHover = (e: any) => {
+				const feat = e.features?.[0];
+				if (feat) showStationTooltip(feat);
+			};
+
+			map.on('mousemove', 'estacoes-hit-area', handleStationHover);
+			map.on('mousemove', 'estacoes-points', handleStationHover);
+
+			map.on('mouseleave', 'estacoes-hit-area', () => {
+				hoverPopup?.remove();
+			});
+			map.on('mouseleave', 'estacoes-points', () => {
+				hoverPopup?.remove();
+			});
+
+			// Hover nos marcadores de sistema (quando não estiver sobre estação)
+			map.on('mousemove', 'sistemas-circles', (e: any) => {
+				const stFeats = map.queryRenderedFeatures(e.point, { layers: ['estacoes-points'] });
+				if (stFeats && stFeats.length > 0) return;
+				const feat = e.features?.[0];
+				if (!feat || !hoverPopup) return;
+				const props = feat.properties || {};
+				const coords = (feat.geometry as any).coordinates.slice();
+				const stColor = props.color || STATUS_COLORS[props.status] || '#10b981';
+
+				hoverPopup
+					.setLngLat(coords)
+					.setHTML(
+						`<div class="hover-card">
+							<div class="hover-title">${escapeHtml(props.nome)}</div>
+							<div class="hover-sub">${escapeHtml(props.cidade)} (${escapeHtml(props.uf)})</div>
+							<div class="hover-meta">
+								<span class="hover-dot" style="background:${stColor}"></span>
+								<span>${escapeHtml(props.status_label || props.status)}</span>
+							</div>
+						</div>`
+					)
+					.addTo(map);
+			});
+
+			map.on('mouseleave', 'sistemas-circles', () => {
+				hoverPopup?.remove();
+			});
+
+			// Hover nas linhas (quando não estiver sobre estação ou marcador de sistema)
+			const handleLineHover = (e: any) => {
+				const topFeats = map.queryRenderedFeatures(e.point, {
+					layers: ['estacoes-points', 'sistemas-circles'],
+				});
+				if (topFeats && topFeats.length > 0) return;
+				const feat = e.features?.[0];
+				if (!feat || !hoverPopup) return;
+				const props = feat.properties || {};
+				const sysNome = isEn
+					? props.sistema_nome_en || sistemasById[props.sistema_id]?.nome_en || ''
+					: props.sistema_nome_pt || sistemasById[props.sistema_id]?.nome_pt || '';
+				const stKey = props.status || 'operacao';
+				const stLabel = t.status[stKey] || stKey;
+				const stColor = STATUS_COLORS[stKey] || '#10b981';
+
+				hoverPopup
+					.setLngLat(e.lngLat)
+					.setHTML(
+						`<div class="hover-card">
+							<div class="hover-title">🚆 ${escapeHtml(props.linha || sysNome)}</div>
+							<div class="hover-meta">
+								<span class="hover-dot" style="background:${stColor}"></span>
+								<span>${escapeHtml(sysNome)} · ${escapeHtml(stLabel)}</span>
+							</div>
+						</div>`
+					)
+					.addTo(map);
+			};
+
+			map.on('mousemove', 'linhas-operacao', handleLineHover);
+			map.on('mousemove', 'linhas-obras-projeto', handleLineHover);
+			map.on('mouseleave', 'linhas-operacao', () => hoverPopup?.remove());
+			map.on('mouseleave', 'linhas-obras-projeto', () => hoverPopup?.remove());
+
+			// Clique em qualquer sistema, linha ou estação: destaca o sistema clicado e apaga os demais
 			map.on('click', 'sistemas-circles', (e: any) => {
 				const feat = e.features?.[0];
 				if (!feat) return;
@@ -749,14 +1148,16 @@ const payloadClient = JSON.stringify({
 				const props = feat.properties || {};
 				const sys = sistemasById[props.sistema_id];
 				if (sys) openSystemDrawer(sys);
+			});
 
-				const coords = (feat.geometry as any).coordinates.slice();
-				new maplibregl.Popup({ closeButton: true, maxWidth: '260px' })
-					.setLngLat(coords)
-					.setHTML(
-						`<strong>${escapeHtml(props.nome)}</strong><br/><small>${escapeHtml(props.linha || '')}</small>`
-					)
-					.addTo(map);
+			// Clicar no fundo vazio do mapa limpa a seleção e restaura a luminosidade geral
+			map.on('click', (e: any) => {
+				const hits = map.queryRenderedFeatures(e.point, { layers: clickableLayers });
+				if (!hits || hits.length === 0) {
+					if (activeSysId) {
+						closeDrawer();
+					}
+				}
 			});
 		}
 
@@ -1072,6 +1473,97 @@ const payloadClient = JSON.stringify({
 		height: 10px;
 		border-radius: 50%;
 		display: inline-block;
+	}
+
+	.legend-dot.is-luminous {
+		box-shadow: 0 0 8px 2px rgba(16, 185, 129, 0.75);
+	}
+
+	:global(.mapa-hover-tooltip .maplibregl-popup-content) {
+		background: rgba(15, 23, 42, 0.94);
+		color: #f8fafc;
+		padding: 0.5rem 0.7rem;
+		border-radius: 8px;
+		box-shadow: 0 8px 24px rgba(15, 23, 42, 0.35);
+		border: 1px solid rgba(255, 255, 255, 0.14);
+		font-family: 'Outfit', system-ui, -apple-system, sans-serif;
+		pointer-events: none;
+	}
+
+	:global(.mapa-hover-tooltip .maplibregl-popup-tip) {
+		border-top-color: rgba(15, 23, 42, 0.94) !important;
+		border-bottom-color: rgba(15, 23, 42, 0.94) !important;
+	}
+
+	:global(.hover-card) {
+		display: flex;
+		flex-direction: column;
+		gap: 0.15rem;
+	}
+
+	:global(.hover-title) {
+		font-size: 0.86rem;
+		font-weight: 700;
+		color: #ffffff;
+		line-height: 1.25;
+	}
+
+	:global(.hover-sub) {
+		font-size: 0.76rem;
+		color: #cbd5e1;
+	}
+
+	:global(.hover-meta) {
+		display: flex;
+		align-items: center;
+		gap: 0.35rem;
+		font-size: 0.73rem;
+		color: #94a3b8;
+		margin-top: 0.1rem;
+	}
+
+	:global(.hover-dot) {
+		width: 8px;
+		height: 8px;
+		border-radius: 50%;
+		flex-shrink: 0;
+	}
+
+	:global(.drawer-stations-chips) {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.35rem;
+	}
+
+	:global(.station-chip-btn) {
+		background: #f1f5f9;
+		border: 1px solid #cbd5e1;
+		border-radius: 999px;
+		padding: 0.22rem 0.6rem;
+		font-size: 0.76rem;
+		font-weight: 600;
+		color: #1e293b;
+		cursor: pointer;
+		transition: background 0.15s, border-color 0.15s, color 0.15s;
+	}
+
+	:global(.station-chip-btn:hover) {
+		background: #10b981;
+		border-color: #059669;
+		color: #ffffff;
+	}
+
+	.dir-table tr[data-sys-row] {
+		transition: opacity 0.2s, background-color 0.2s;
+	}
+
+	.dir-table tr[data-sys-row].is-selected {
+		background-color: #ecfdf5;
+		font-weight: 600;
+	}
+
+	.dir-table tr[data-sys-row].is-dimmed {
+		opacity: 0.42;
 	}
 
 	.legend-zoom-hint {

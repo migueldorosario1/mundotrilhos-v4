@@ -8,13 +8,463 @@
   "features": [
     {
       "type": "Feature",
+      "id": "linha-43",
+      "properties": {
+        "sistema_id": "vlt-cuiaba",
+        "linha": "Eixo CPA – Aeroporto Marechal Rondon (projeto desativado e convertido)",
+        "cor": "#9E9E9E",
+        "status": "desativado",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "VLT de Cuiabá – Várzea Grande (Histórico / Desativado)",
+        "sistema_nome_en": "Cuiabá – Várzea Grande Light Rail (Historical / Decommissioned)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.1185,
+            -15.6512
+          ],
+          [
+            -56.0965,
+            -15.6012
+          ],
+          [
+            -56.0585,
+            -15.5612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-45",
+      "properties": {
+        "sistema_id": "ferrograo",
+        "linha": "EF-170 Ferrogrão (Sinop/MT – Miritituba/Itaituba/PA)",
+        "cor": "#8B5A2B",
+        "status": "projeto",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrogrão (EF-170 — Sinop/MT a Miritituba/PA)",
+        "sistema_nome_en": "Ferrogrão Railway (EF-170 — Sinop/MT to Miritituba/PA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5025,
+            -11.8642
+          ],
+          [
+            -55.1212,
+            -9.8512
+          ],
+          [
+            -55.3125,
+            -7.2112
+          ],
+          [
+            -55.9512,
+            -4.2812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-49",
+      "properties": {
+        "sistema_id": "autorizacoes-antt",
+        "linha": "Eixos prioritários de Autorizações Ferroviárias ANTT (Pro Trilhos)",
+        "cor": "#475569",
+        "status": "projeto",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Autorizações Ferroviárias da ANTT (Regime Privado)",
+        "sistema_nome_en": "ANTT Private Rail Authorizations"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.6112,
+            -20.4612
+          ],
+          [
+            -51.4512,
+            -22.1212
+          ],
+          [
+            -48.5512,
+            -25.5212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vlt-bsb-w3",
+        "sistema_id": "vlt-brasilia",
+        "nome": "VLT de Brasília (W3 Sul/Norte – Aeroporto)",
+        "cor": "#eab308",
+        "status": "projeto",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "VLT de Brasília (Corredor W3 e Aeroporto)",
+        "sistema_nome_en": "Brasília Light Rail (W3 Corridor & Airport)",
+        "linha": "VLT de Brasília (W3 Sul/Norte – Aeroporto)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.9172,
+            -15.8697
+          ],
+          [
+            -47.902,
+            -15.815
+          ],
+          [
+            -47.892,
+            -15.7998
+          ],
+          [
+            -47.889,
+            -15.745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rj-linha3-projeto",
+        "sistema_id": "linha-3-metro-rj",
+        "nome": "Linha 3 (Praça XV – Niterói – São Gonçalo)",
+        "cor": "#2563eb",
+        "status": "projeto",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Linha 3 do Metrô do Rio (Rio–Niterói–São Gonçalo)",
+        "sistema_nome_en": "Rio Metro Line 3 (Rio–Niterói–São Gonçalo)",
+        "linha": "Linha 3 (Praça XV – Niterói – São Gonçalo)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1742,
+            -22.9035
+          ],
+          [
+            -43.1245,
+            -22.893
+          ],
+          [
+            -43.054,
+            -22.825
+          ],
+          [
+            -42.985,
+            -22.79
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-3",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "linha": "Linha 2-Verde Expansão (Vila Prudente – Penha)",
+        "cor": "#007E5E",
+        "status": "obras",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
+        "sistema_nome_en": "São Paulo Metro (State Network)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5819,
+            -23.5844
+          ],
+          [
+            -46.5712,
+            -23.574
+          ],
+          [
+            -46.561,
+            -23.5598
+          ],
+          [
+            -46.5522,
+            -23.5471
+          ],
+          [
+            -46.5441,
+            -23.5335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-25",
+      "properties": {
+        "sistema_id": "metro-bh",
+        "linha": "Linha 2-Lilás (Nova Suíça – Barreiro)",
+        "cor": "#8C4799",
+        "status": "obras",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Belo Horizonte (Metrô BH)",
+        "sistema_nome_en": "Belo Horizonte Metro (Metrô BH)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9682,
+            -19.9295
+          ],
+          [
+            -43.9852,
+            -19.9512
+          ],
+          [
+            -44.0012,
+            -19.9685
+          ],
+          [
+            -44.0152,
+            -19.9785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-30",
+      "properties": {
+        "sistema_id": "metrofor-fortaleza",
+        "linha": "Linha Leste (Tirol-Moura Brasil – Papicu)",
+        "cor": "#FDB913",
+        "status": "obras",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
+        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.5312,
+            -3.7212
+          ],
+          [
+            -38.5085,
+            -3.7312
+          ],
+          [
+            -38.4785,
+            -3.7395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-35",
+      "properties": {
+        "sistema_id": "vlt-salvador",
+        "linha": "Trechos 1, 2 e 3 (Calçada – Ilha de São João – Águas Claras – Piatã)",
+        "cor": "#00A859",
+        "status": "obras",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLT de Salvador e Região Metropolitana",
+        "sistema_nome_en": "Salvador and Metropolitan Region Light Rail (VLT)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.5012,
+            -12.9465
+          ],
+          [
+            -38.4852,
+            -12.9112
+          ],
+          [
+            -38.4785,
+            -12.8612
+          ],
+          [
+            -38.4512,
+            -12.8112
+          ],
+          [
+            -38.4325,
+            -12.8912
+          ],
+          [
+            -38.3852,
+            -12.9452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-44",
+      "properties": {
+        "sistema_id": "tic-eixo-norte",
+        "linha": "TIC Eixo Norte (Barra Funda – Jundiaí – Campinas)",
+        "cor": "#003399",
+        "status": "obras",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trem Intercidades SP–Campinas (TIC Eixo Norte)",
+        "sistema_nome_en": "São Paulo–Campinas Intercity Train (TIC North Axis)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6674,
+            -23.5255
+          ],
+          [
+            -46.8712,
+            -23.1951
+          ],
+          [
+            -46.9812,
+            -23.0285
+          ],
+          [
+            -47.0685,
+            -22.9065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-46",
+      "properties": {
+        "sistema_id": "fiol",
+        "linha": "EF-334 FIOL (Ilhéus/BA – Caetité – Barreiras – Figueirópolis/TO)",
+        "cor": "#B45309",
+        "status": "obras",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "FIOL (EF-334 — Ferrovia de Integração Oeste-Leste)",
+        "sistema_nome_en": "FIOL (EF-334 — West-East Integration Railway)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0485,
+            -14.7885
+          ],
+          [
+            -40.8412,
+            -14.8612
+          ],
+          [
+            -42.4812,
+            -14.0685
+          ],
+          [
+            -44.9912,
+            -12.1512
+          ],
+          [
+            -49.1712,
+            -12.1312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-47",
+      "properties": {
+        "sistema_id": "fico",
+        "linha": "EF-354 FICO (Mara Rosa/GO – Água Boa/MT)",
+        "cor": "#D97706",
+        "status": "obras",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "FICO (EF-354 — Ferrovia de Integração do Centro-Oeste)",
+        "sistema_nome_en": "FICO (EF-354 — Midwest Integration Railway)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.1712,
+            -14.0185
+          ],
+          [
+            -50.6512,
+            -14.1212
+          ],
+          [
+            -52.1612,
+            -14.0512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-48",
+      "properties": {
+        "sistema_id": "transnordestina",
+        "linha": "Transnordestina (Eliseu Martins/PI – Salgueiro/PE – Porto do Pecém/CE)",
+        "cor": "#9333EA",
+        "status": "obras",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovia Transnordestina (Eliseu Martins/PI – Pecém/CE)",
+        "sistema_nome_en": "Transnordestina Railway (Eliseu Martins/PI – Pecém/CE)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.6612,
+            -8.0912
+          ],
+          [
+            -40.7212,
+            -7.8512
+          ],
+          [
+            -39.1212,
+            -8.0712
+          ],
+          [
+            -39.2912,
+            -6.3612
+          ],
+          [
+            -38.8112,
+            -3.5412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "linha-1",
       "properties": {
         "sistema_id": "metro-sp",
         "linha": "Linha 1-Azul (Jabaquara – Tucuruvi)",
         "cor": "#0455A1",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
+        "sistema_nome_en": "São Paulo Metro (State Network)"
       },
       "geometry": {
         "type": "LineString",
@@ -86,7 +536,9 @@
         "linha": "Linha 2-Verde (Vila Prudente – Vila Madalena)",
         "cor": "#007E5E",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
+        "sistema_nome_en": "São Paulo Metro (State Network)"
       },
       "geometry": {
         "type": "LineString",
@@ -140,49 +592,15 @@
     },
     {
       "type": "Feature",
-      "id": "linha-3",
-      "properties": {
-        "sistema_id": "metro-sp",
-        "linha": "Linha 2-Verde Expansão (Vila Prudente – Penha)",
-        "cor": "#007E5E",
-        "status": "obras",
-        "geometria_aproximada": false
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -46.5819,
-            -23.5844
-          ],
-          [
-            -46.5712,
-            -23.574
-          ],
-          [
-            -46.561,
-            -23.5598
-          ],
-          [
-            -46.5522,
-            -23.5471
-          ],
-          [
-            -46.5441,
-            -23.5335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "linha-4",
       "properties": {
         "sistema_id": "metro-sp",
         "linha": "Linha 3-Vermelha (Corinthians-Itaquera – Palmeiras-Barra Funda)",
         "cor": "#EE372F",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
+        "sistema_nome_en": "São Paulo Metro (State Network)"
       },
       "geometry": {
         "type": "LineString",
@@ -250,7 +668,9 @@
         "linha": "Linha 15-Prata Monotrilho (Vila Prudente – Jardim Colonial)",
         "cor": "#858D90",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
+        "sistema_nome_en": "São Paulo Metro (State Network)"
       },
       "geometry": {
         "type": "LineString",
@@ -290,7 +710,9 @@
         "linha": "Linha 4-Amarela (Luz – Vila Sônia)",
         "cor": "#FFD500",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
+        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)"
       },
       "geometry": {
         "type": "LineString",
@@ -346,7 +768,9 @@
         "linha": "Linha 5-Lilás (Capão Redondo – Chácara Klabin)",
         "cor": "#9B3894",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
+        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)"
       },
       "geometry": {
         "type": "LineString",
@@ -398,7 +822,9 @@
         "linha": "Linha 8-Diamante (Júlio Prestes – Itapevi)",
         "cor": "#9E9E93",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
+        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)"
       },
       "geometry": {
         "type": "LineString",
@@ -442,7 +868,9 @@
         "linha": "Linha 9-Esmeralda (Osasco – Mendes-Vila Natal)",
         "cor": "#00A88E",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
+        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)"
       },
       "geometry": {
         "type": "LineString",
@@ -494,7 +922,9 @@
         "linha": "Linha 7-Rubi (Barra Funda – Jundiaí)",
         "cor": "#A6134F",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
       },
       "geometry": {
         "type": "LineString",
@@ -538,7 +968,9 @@
         "linha": "Linha 10-Turquesa (Luz – Rio Grande da Serra)",
         "cor": "#008B9B",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
       },
       "geometry": {
         "type": "LineString",
@@ -582,7 +1014,9 @@
         "linha": "Linha 11-Coral (Luz – Estudantes)",
         "cor": "#F04E23",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
       },
       "geometry": {
         "type": "LineString",
@@ -630,7 +1064,9 @@
         "linha": "Linha 12-Safira (Brás – Calmon Viana)",
         "cor": "#1C2E63",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
       },
       "geometry": {
         "type": "LineString",
@@ -670,7 +1106,9 @@
         "linha": "Linha 13-Jade (Engenheiro Goulart – Aeroporto-Guarulhos)",
         "cor": "#00A859",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
       },
       "geometry": {
         "type": "LineString",
@@ -698,7 +1136,9 @@
         "linha": "Linha 1 (Uruguai – General Osório)",
         "cor": "#F37021",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
+        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)"
       },
       "geometry": {
         "type": "LineString",
@@ -758,7 +1198,9 @@
         "linha": "Linha 2 (Pavuna – Botafogo)",
         "cor": "#00A650",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
+        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)"
       },
       "geometry": {
         "type": "LineString",
@@ -810,7 +1252,9 @@
         "linha": "Linha 4 (General Osório – Jardim Oceânico)",
         "cor": "#FFD100",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
+        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)"
       },
       "geometry": {
         "type": "LineString",
@@ -846,7 +1290,9 @@
         "linha": "Ramal Deodoro / Santa Cruz (Central do Brasil – Santa Cruz)",
         "cor": "#E30613",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
+        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)"
       },
       "geometry": {
         "type": "LineString",
@@ -894,7 +1340,9 @@
         "linha": "Ramal Japeri (Central do Brasil – Japeri)",
         "cor": "#0072BC",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
+        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)"
       },
       "geometry": {
         "type": "LineString",
@@ -930,7 +1378,9 @@
         "linha": "Ramal Saracuruna (Central do Brasil – Gramacho – Saracuruna)",
         "cor": "#F7941D",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
+        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)"
       },
       "geometry": {
         "type": "LineString",
@@ -966,7 +1416,9 @@
         "linha": "Linhas 1 a 4 (Terminal Gentileza – Rodoviária – Praça XV – Santos Dumont)",
         "cor": "#00A3E0",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLT Carioca",
+        "sistema_nome_en": "Rio de Janeiro Light Rail (VLT Carioca)"
       },
       "geometry": {
         "type": "LineString",
@@ -1010,7 +1462,9 @@
         "linha": "Linha Verde (Central – Ceilândia)",
         "cor": "#009640",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô-DF (Metrô de Brasília)",
+        "sistema_nome_en": "Brasília Metro (Metrô-DF)"
       },
       "geometry": {
         "type": "LineString",
@@ -1054,7 +1508,9 @@
         "linha": "Linha Laranja (Central – Samambaia)",
         "cor": "#F39200",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô-DF (Metrô de Brasília)",
+        "sistema_nome_en": "Brasília Metro (Metrô-DF)"
       },
       "geometry": {
         "type": "LineString",
@@ -1086,7 +1542,9 @@
         "linha": "Linha 1-Laranja (Eldorado – Vilarinho)",
         "cor": "#F58220",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Belo Horizonte (Metrô BH)",
+        "sistema_nome_en": "Belo Horizonte Metro (Metrô BH)"
       },
       "geometry": {
         "type": "LineString",
@@ -1132,45 +1590,15 @@
     },
     {
       "type": "Feature",
-      "id": "linha-25",
-      "properties": {
-        "sistema_id": "metro-bh",
-        "linha": "Linha 2-Lilás (Nova Suíça – Barreiro)",
-        "cor": "#8C4799",
-        "status": "obras",
-        "geometria_aproximada": false
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -43.9682,
-            -19.9295
-          ],
-          [
-            -43.9852,
-            -19.9512
-          ],
-          [
-            -44.0012,
-            -19.9685
-          ],
-          [
-            -44.0152,
-            -19.9785
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "linha-26",
       "properties": {
         "sistema_id": "metro-recife",
         "linha": "Linha Centro (Recife – Camaragibe / Jaboatão)",
         "cor": "#E30613",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô do Recife (CBTU Recife)",
+        "sistema_nome_en": "Recife Metro (CBTU Recife)"
       },
       "geometry": {
         "type": "LineString",
@@ -1210,7 +1638,9 @@
         "linha": "Linha Sul (Recife – Cajueiro Seco)",
         "cor": "#0054A6",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô do Recife (CBTU Recife)",
+        "sistema_nome_en": "Recife Metro (CBTU Recife)"
       },
       "geometry": {
         "type": "LineString",
@@ -1242,7 +1672,9 @@
         "linha": "Linha Sul (Central-Chico da Silva – Carlito Benevides)",
         "cor": "#E30613",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
+        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)"
       },
       "geometry": {
         "type": "LineString",
@@ -1278,7 +1710,9 @@
         "linha": "VLT Parangaba-Mucuripe (Linha Nordeste)",
         "cor": "#F7941D",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
+        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)"
       },
       "geometry": {
         "type": "LineString",
@@ -1304,41 +1738,15 @@
     },
     {
       "type": "Feature",
-      "id": "linha-30",
-      "properties": {
-        "sistema_id": "metrofor-fortaleza",
-        "linha": "Linha Leste (Tirol-Moura Brasil – Papicu)",
-        "cor": "#FDB913",
-        "status": "obras",
-        "geometria_aproximada": false
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -38.5312,
-            -3.7212
-          ],
-          [
-            -38.5085,
-            -3.7312
-          ],
-          [
-            -38.4785,
-            -3.7395
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "linha-31",
       "properties": {
         "sistema_id": "vlt-sobral",
         "linha": "Linhas Norte e Sul do VLT de Sobral",
         "cor": "#009640",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLT de Sobral (Metrofor)",
+        "sistema_nome_en": "Sobral Light Rail (Metrofor)"
       },
       "geometry": {
         "type": "LineString",
@@ -1366,7 +1774,9 @@
         "linha": "Linha Crato – Juazeiro do Norte",
         "cor": "#0072BC",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLT do Cariri (Crato – Juazeiro do Norte)",
+        "sistema_nome_en": "Cariri Light Rail (Crato – Juazeiro do Norte)"
       },
       "geometry": {
         "type": "LineString",
@@ -1394,7 +1804,9 @@
         "linha": "Linha 1 (Lapa – Águas Claras)",
         "cor": "#E30613",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CCR Metrô Bahia (Salvador e Lauro de Freitas)",
+        "sistema_nome_en": "CCR Metrô Bahia (Salvador and Lauro de Freitas Subway)"
       },
       "geometry": {
         "type": "LineString",
@@ -1438,7 +1850,9 @@
         "linha": "Linha 2 (Acesso Norte – Aeroporto)",
         "cor": "#0072BC",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CCR Metrô Bahia (Salvador e Lauro de Freitas)",
+        "sistema_nome_en": "CCR Metrô Bahia (Salvador and Lauro de Freitas Subway)"
       },
       "geometry": {
         "type": "LineString",
@@ -1472,53 +1886,15 @@
     },
     {
       "type": "Feature",
-      "id": "linha-35",
-      "properties": {
-        "sistema_id": "vlt-salvador",
-        "linha": "Trechos 1, 2 e 3 (Calçada – Ilha de São João – Águas Claras – Piatã)",
-        "cor": "#00A859",
-        "status": "obras",
-        "geometria_aproximada": false
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -38.5012,
-            -12.9465
-          ],
-          [
-            -38.4852,
-            -12.9112
-          ],
-          [
-            -38.4785,
-            -12.8612
-          ],
-          [
-            -38.4512,
-            -12.8112
-          ],
-          [
-            -38.4325,
-            -12.8912
-          ],
-          [
-            -38.3852,
-            -12.9452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "linha-36",
       "properties": {
         "sistema_id": "trensurb",
         "linha": "Linha 1 (Mercado – Novo Hamburgo)",
         "cor": "#0054A6",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trensurb (Metrô de Porto Alegre)",
+        "sistema_nome_en": "Trensurb (Porto Alegre Metropolitan Rail)"
       },
       "geometry": {
         "type": "LineString",
@@ -1562,7 +1938,9 @@
         "linha": "Conexão Metrô-Aeroporto Salgado Filho",
         "cor": "#00AEEF",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Aeromóvel de Porto Alegre (Conexão Metrô–Aeroporto)",
+        "sistema_nome_en": "Porto Alegre People Mover (Aeromóvel)"
       },
       "geometry": {
         "type": "LineString",
@@ -1586,7 +1964,9 @@
         "linha": "VLT de Maceió (Jaraguá – Lourenço de Albuquerque)",
         "cor": "#0072BC",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLT de Maceió (CBTU Maceió)",
+        "sistema_nome_en": "Maceió Light Rail (CBTU Maceió)"
       },
       "geometry": {
         "type": "LineString",
@@ -1618,7 +1998,9 @@
         "linha": "VLT de João Pessoa (Cabedelo – Santa Rita)",
         "cor": "#009640",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Sistema de Trens Urbanos de João Pessoa (CBTU)",
+        "sistema_nome_en": "João Pessoa Urban Rail (CBTU)"
       },
       "geometry": {
         "type": "LineString",
@@ -1650,7 +2032,9 @@
         "linha": "Linhas Norte e Sul do Sistema de Trens Urbanos de Natal",
         "cor": "#F7941D",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Sistema de Trens Urbanos de Natal (CBTU)",
+        "sistema_nome_en": "Natal Urban Rail System (CBTU)"
       },
       "geometry": {
         "type": "LineString",
@@ -1682,7 +2066,9 @@
         "linha": "Linha 1 (Engenheiro Alberto Silva – Itararé)",
         "cor": "#00A859",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Teresina (VLT de Teresina)",
+        "sistema_nome_en": "Teresina Light Rail / Metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1710,7 +2096,9 @@
         "linha": "Linha 1 (Barreiros – Porto) e Linha 2 (Conselheiro Nébias – Valongo)",
         "cor": "#0054A6",
         "status": "operacao",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLT da Baixada Santista",
+        "sistema_nome_en": "Baixada Santista Light Rail (Santos & São Vicente)"
       },
       "geometry": {
         "type": "LineString",
@@ -1740,220 +2128,47 @@
     },
     {
       "type": "Feature",
-      "id": "linha-43",
       "properties": {
-        "sistema_id": "vlt-cuiaba",
-        "linha": "Eixo CPA – Aeroporto Marechal Rondon (projeto desativado e convertido)",
-        "cor": "#9E9E9E",
-        "status": "desativado",
-        "geometria_aproximada": true
+        "id": "efvm-tronco",
+        "sistema_id": "efvm",
+        "nome": "EFVM (Belo Horizonte – Governador Valadares – Cariacica/Vitória)",
+        "cor": "#10b981",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Estrada de Ferro Vitória a Minas (Trem de Passageiros e Carga)",
+        "sistema_nome_en": "Vitória–Minas Railway (EFVM Passenger & Freight)",
+        "linha": "EFVM (Belo Horizonte – Governador Valadares – Cariacica/Vitória)"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -56.1185,
-            -15.6512
+            -43.9345,
+            -19.913
           ],
           [
-            -56.0965,
-            -15.6012
+            -43.178,
+            -19.625
           ],
           [
-            -56.0585,
-            -15.5612
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "linha-44",
-      "properties": {
-        "sistema_id": "tic-eixo-norte",
-        "linha": "TIC Eixo Norte (Barra Funda – Jundiaí – Campinas)",
-        "cor": "#003399",
-        "status": "obras",
-        "geometria_aproximada": true
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -46.6674,
-            -23.5255
+            -42.55,
+            -19.47
           ],
           [
-            -46.8712,
-            -23.1951
+            -41.949,
+            -18.851
           ],
           [
-            -46.9812,
-            -23.0285
+            -41.15,
+            -19.45
           ],
           [
-            -47.0685,
-            -22.9065
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "linha-45",
-      "properties": {
-        "sistema_id": "ferrograo",
-        "linha": "EF-170 Ferrogrão (Sinop/MT – Miritituba/Itaituba/PA)",
-        "cor": "#8B5A2B",
-        "status": "projeto",
-        "geometria_aproximada": true
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -55.5025,
-            -11.8642
+            -40.629,
+            -19.539
           ],
           [
-            -55.1212,
-            -9.8512
-          ],
-          [
-            -55.3125,
-            -7.2112
-          ],
-          [
-            -55.9512,
-            -4.2812
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "linha-46",
-      "properties": {
-        "sistema_id": "fiol",
-        "linha": "EF-334 FIOL (Ilhéus/BA – Caetité – Barreiras – Figueirópolis/TO)",
-        "cor": "#B45309",
-        "status": "obras",
-        "geometria_aproximada": true
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -39.0485,
-            -14.7885
-          ],
-          [
-            -40.8412,
-            -14.8612
-          ],
-          [
-            -42.4812,
-            -14.0685
-          ],
-          [
-            -44.9912,
-            -12.1512
-          ],
-          [
-            -49.1712,
-            -12.1312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "linha-47",
-      "properties": {
-        "sistema_id": "fico",
-        "linha": "EF-354 FICO (Mara Rosa/GO – Água Boa/MT)",
-        "cor": "#D97706",
-        "status": "obras",
-        "geometria_aproximada": true
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.1712,
-            -14.0185
-          ],
-          [
-            -50.6512,
-            -14.1212
-          ],
-          [
-            -52.1612,
-            -14.0512
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "linha-48",
-      "properties": {
-        "sistema_id": "transnordestina",
-        "linha": "Transnordestina (Eliseu Martins/PI – Salgueiro/PE – Porto do Pecém/CE)",
-        "cor": "#9333EA",
-        "status": "obras",
-        "geometria_aproximada": true
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -43.6612,
-            -8.0912
-          ],
-          [
-            -40.7212,
-            -7.8512
-          ],
-          [
-            -39.1212,
-            -8.0712
-          ],
-          [
-            -39.2912,
-            -6.3612
-          ],
-          [
-            -38.8112,
-            -3.5412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "linha-49",
-      "properties": {
-        "sistema_id": "autorizacoes-antt",
-        "linha": "Eixos prioritários de Autorizações Ferroviárias ANTT (Pro Trilhos)",
-        "cor": "#475569",
-        "status": "projeto",
-        "geometria_aproximada": true
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -54.6112,
-            -20.4612
-          ],
-          [
-            -51.4512,
-            -22.1212
-          ],
-          [
-            -48.5512,
-            -25.5212
+            -40.382,
+            -20.329
           ]
         ]
       }
@@ -1961,31 +2176,52 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "tic-norte-expresso",
-        "sistema_id": "tic-eixo-norte-sp",
-        "nome": "TIC Eixo Norte (São Paulo – Jundiaí – Campinas)",
-        "cor": "#0284c7",
-        "status": "obras",
-        "geometria_aproximada": true
+        "sistema_id": "efc",
+        "sistema_nome_pt": "",
+        "sistema_nome_en": "",
+        "linha": "Estrada de Ferro Carajás (EF-315 · São Luís/MA – Marabá – Parauapebas/PA)",
+        "status": "operacao",
+        "cor": "#10b981",
+        "geometria_aproximada": false
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -46.6674,
-            -23.5255
+            -44.3028,
+            -2.5646
           ],
           [
-            -46.745,
-            -23.41
+            -44.6,
+            -3.2
           ],
           [
-            -46.8845,
-            -23.195
+            -45.165,
+            -3.626
           ],
           [
-            -47.0626,
-            -22.9099
+            -45.389,
+            -3.991
+          ],
+          [
+            -46.6,
+            -4.45
+          ],
+          [
+            -47.4917,
+            -4.9609
+          ],
+          [
+            -48.5,
+            -5.18
+          ],
+          [
+            -49.1178,
+            -5.3686
+          ],
+          [
+            -49.8562,
+            -6.0675
           ]
         ]
       }
@@ -1993,31 +2229,64 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "vlt-bsb-w3",
-        "sistema_id": "vlt-brasilia",
-        "nome": "VLT de Brasília (W3 Sul/Norte – Aeroporto)",
-        "cor": "#eab308",
-        "status": "projeto",
-        "geometria_aproximada": true
+        "sistema_id": "fns",
+        "sistema_nome_pt": "",
+        "sistema_nome_en": "",
+        "linha": "Ferrovia Norte-Sul (EF-151 · Açailândia/MA – Palmas/TO – Anápolis/GO – Estrela d'Oeste/SP)",
+        "status": "operacao",
+        "cor": "#10b981",
+        "geometria_aproximada": false
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -47.9172,
-            -15.8697
+            -47.4917,
+            -4.9609
           ],
           [
-            -47.902,
-            -15.815
+            -47.4795,
+            -5.5264
           ],
           [
-            -47.892,
-            -15.7998
+            -47.8,
+            -7.2
           ],
           [
-            -47.889,
-            -15.745
+            -48.2,
+            -8.9
+          ],
+          [
+            -48.3336,
+            -10.2491
+          ],
+          [
+            -49.068,
+            -11.729
+          ],
+          [
+            -49.15,
+            -13.9
+          ],
+          [
+            -48.9534,
+            -16.3285
+          ],
+          [
+            -50.926,
+            -17.792
+          ],
+          [
+            -49.215,
+            -18.42
+          ],
+          [
+            -50.08,
+            -19.5
+          ],
+          [
+            -50.401,
+            -20.288
           ]
         ]
       }
@@ -2025,31 +2294,102 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "rj-linha3-projeto",
-        "sistema_id": "linha-3-metro-rj",
-        "nome": "Linha 3 (Praça XV – Niterói – São Gonçalo)",
-        "cor": "#2563eb",
-        "status": "projeto",
-        "geometria_aproximada": true
+        "sistema_id": "rmn-malha-norte",
+        "sistema_nome_pt": "",
+        "sistema_nome_en": "",
+        "linha": "Rumo Malha Norte (Rondonópolis/MT – Alto Araguaia – Aparecida do Taboado/MS – SP)",
+        "status": "operacao",
+        "cor": "#10b981",
+        "geometria_aproximada": false
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -43.1742,
-            -22.9035
+            -54.6372,
+            -16.4673
           ],
           [
-            -43.1245,
-            -22.893
+            -53.8,
+            -17.1
           ],
           [
-            -43.054,
-            -22.825
+            -53.215,
+            -17.3147
           ],
           [
-            -42.985,
-            -22.79
+            -52.622,
+            -18.79
+          ],
+          [
+            -51.0936,
+            -20.0867
+          ],
+          [
+            -50.926,
+            -20.211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trem-republicano",
+        "sistema_nome_pt": "",
+        "sistema_nome_en": "",
+        "linha": "Trem Republicano (Estação Itu – Estação Salto)",
+        "status": "operacao",
+        "cor": "#10b981",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.2992,
+            -23.2642
+          ],
+          [
+            -47.295,
+            -23.235
+          ],
+          [
+            -47.2931,
+            -23.2008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "aeromovel-gru",
+        "sistema_nome_pt": "",
+        "sistema_nome_en": "",
+        "linha": "People Mover Aeroporto de Guarulhos (CPTM Linha 13 – Terminais 1, 2 e 3)",
+        "status": "operacao",
+        "cor": "#10b981",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4912,
+            -23.4435
+          ],
+          [
+            -46.4845,
+            -23.4352
+          ],
+          [
+            -46.473,
+            -23.4285
+          ],
+          [
+            -46.4678,
+            -23.4258
           ]
         ]
       }
