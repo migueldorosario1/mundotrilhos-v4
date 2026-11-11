@@ -38,6 +38,12 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 14:34] [ANTIGRAVITY] Ronda #3 + Checkpoint Hora 3 (Globo 3D com OpenStreetMap oficial sem chave e `workerUrl` corrigido):
   - Substituídos os tiles da CARTO (que exibiam marca d'água `"API KEY REQUIRED"`) por `https://tile.openstreetmap.org/{z}/{x}/{y}.png` (100% aberto e sem chave) e configurado `maplibregl.setWorkerUrl(workerUrl)` para o bundle Vite/Astro (`commit 77f9571` no PR #1). Globo 3D e Mapa 2D renderizando perfeitamente todos os 31 sistemas e 52 linhas.
 
+- [2026-11-11 14:39] [ANTIGRAVITY] PUBLICADO EM PRODUÇÃO NO MUNDO TRILHOS (`main`)!
+  - Por ordem direta do Miguel (*«otimo. pode publicar entao direto no site mundo trilhos»*), o PR #1 (`feat/mapa-trilhos-esqueleto`) foi mergeado na `main` com o link `🗺️ Mapa` no menu principal (`Header.astro`).
+  - URLs públicas em produção:
+    - 🇧🇷 Português: https://www.mundotrilhos.com/mapa (e 31 fichas `/mapa/[slug]`)
+    - 🇺🇸 Inglês: https://www.mundotrilhos.com/mapa/en (e 31 fichas `/mapa/en/[slug]`)
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -48,11 +54,15 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 14:07] [ANTIGRAVITY] #002 Versão Bilíngue (PT-BR e EN) ativa no Mundo Trilhos — Atendendo ordem direta do Miguel, criadas `src/pages/mapa/en/index.astro` e `src/pages/mapa/en/[slug].astro` e o seletor de idioma no topo de `MapaApp.astro` e `FichaSistema.astro`, gerando 64 páginas bilíngues do mapa (32 PT-BR + 32 EN, total do site `750 page(s) built` sem erros) — commit enviado em `feat/mapa-trilhos-esqueleto` (PR #1) — próximo passo: aguardar entradas da Carina VLT e autorização do Miguel para merge em `main`.
 
+- [2026-11-11 14:39] [ANTIGRAVITY] #003 Publicação em Produção (`main`) autorizada pelo Miguel — Adicionado link `🗺️ Mapa` em `src/components/Header.astro` e realizado o merge do PR #1 na branch `main` de `migueldorosario1/mundotrilhos-v4`. Deploy automático da Vercel disparado para `https://www.mundotrilhos.com/mapa` e `https://www.mundotrilhos.com/mapa/en`.
+
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
 - [2026-11-11 12:39] Autorizada a criação da Ponte com a Carina VLT (`antigravity-ponte-v1.md`) na branch `ponte-mapa-trilhos` (`docs/ponte/PONTE.md`), ronda de 30 em 30 minutos e Sprint de 4 horas hoje à tarde.
 
 - [2026-11-11 13:46] Miguel orientou disponibilizar o conteúdo do Mapa dos Trilhos tanto em português quanto em inglês dentro do próprio Mundo Trilhos.
+
+- [2026-11-11 14:38] Miguel autorizou publicar direto no site Mundo Trilhos («otimo. pode publicar entao direto no site mundo trilhos»). Merge do PR #1 executado na `main`.
 
 ## Log das rondas
 - [2026-11-11 13:25] [ANTIGRAVITY] ronda #0 (inauguração): ponte `docs/ponte/PONTE.md` criada na branch `ponte-mapa-trilhos`, PR #2 (draft) aberto e plano da Sprint de 4h (13:25–17:25 BRT) registrado.
