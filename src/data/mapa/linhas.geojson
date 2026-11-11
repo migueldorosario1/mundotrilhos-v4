@@ -875,6 +875,47 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "sistema_id": "hs2-high-speed-2-londres-birmingham",
+        "sistema_nome_pt": "High Speed 2 (HS2) — Alta Velocidade Londres – Birmingham (360 km/h, Em obras)",
+        "sistema_nome_en": "High Speed 2 (HS2) — London – Birmingham High-Speed Railway (360 km/h, Under Construction)",
+        "linha": "High Speed 2 — HS2 Fase 1 (Londres Euston / Old Oak Common – Chilterns – Solihull Interchange – Birmingham Curzon Street, 360 km/h — Em obras)",
+        "status": "obras",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1339,
+            51.5281
+          ],
+          [
+            -0.245,
+            51.525
+          ],
+          [
+            -0.51,
+            51.61
+          ],
+          [
+            -0.98,
+            51.95
+          ],
+          [
+            -1.72,
+            52.45
+          ],
+          [
+            -1.8856,
+            52.4819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "linha-1",
       "properties": {
         "sistema_id": "metro-sp",
@@ -5872,6 +5913,588 @@
           [
             6.9589,
             50.9425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "london-underground-tube",
+        "sistema_nome_pt": "Metrô de Londres — London Underground ('The Tube' — 1º Metrô do Mundo, 1863)",
+        "sistema_nome_en": "London Underground ('The Tube' — World's First Underground Railway, 1863)",
+        "linha": "Circle Line & Metropolitan Line (1º Trecho Subterrâneo do Mundo — Paddington – Farringdon – Liverpool Street – Westminster)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1755,
+            51.5154
+          ],
+          [
+            -0.157,
+            51.5226
+          ],
+          [
+            -0.1238,
+            51.5308
+          ],
+          [
+            -0.1053,
+            51.5203
+          ],
+          [
+            -0.0817,
+            51.5178
+          ],
+          [
+            -0.0762,
+            51.5101
+          ],
+          [
+            -0.1246,
+            51.501
+          ],
+          [
+            -0.1426,
+            51.4965
+          ],
+          [
+            -0.192,
+            51.501
+          ],
+          [
+            -0.1755,
+            51.5154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "london-underground-tube",
+        "sistema_nome_pt": "Metrô de Londres — London Underground ('The Tube' — 1º Metrô do Mundo, 1863)",
+        "sistema_nome_en": "London Underground ('The Tube' — World's First Underground Railway, 1863)",
+        "linha": "Central Line Leste–Oeste (West Ruislip – White City – Oxford Circus – Bank – Stratford – Epping)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4375,
+            51.5695
+          ],
+          [
+            -0.2242,
+            51.512
+          ],
+          [
+            -0.1419,
+            51.5152
+          ],
+          [
+            -0.0886,
+            51.5133
+          ],
+          [
+            -0.0042,
+            51.5416
+          ],
+          [
+            0.1139,
+            51.6936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "london-underground-tube",
+        "sistema_nome_pt": "Metrô de Londres — London Underground ('The Tube' — 1º Metrô do Mundo, 1863)",
+        "sistema_nome_en": "London Underground ('The Tube' — World's First Underground Railway, 1863)",
+        "linha": "Piccadilly Line (Heathrow Terminals – South Kensington – Piccadilly Circus – King's Cross – Cockfosters)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4543,
+            51.4713
+          ],
+          [
+            -0.3142,
+            51.492
+          ],
+          [
+            -0.174,
+            51.4941
+          ],
+          [
+            -0.1342,
+            51.5098
+          ],
+          [
+            -0.1238,
+            51.5308
+          ],
+          [
+            -0.1492,
+            51.6517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "london-underground-tube",
+        "sistema_nome_pt": "Metrô de Londres — London Underground ('The Tube' — 1º Metrô do Mundo, 1863)",
+        "sistema_nome_en": "London Underground ('The Tube' — World's First Underground Railway, 1863)",
+        "linha": "Jubilee Line & Northern Line (Stanmore – Baker Street – Westminster – Waterloo – London Bridge – Canary Wharf – Stratford)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3028,
+            51.6194
+          ],
+          [
+            -0.157,
+            51.5226
+          ],
+          [
+            -0.1246,
+            51.501
+          ],
+          [
+            -0.1132,
+            51.5031
+          ],
+          [
+            -0.0864,
+            51.505
+          ],
+          [
+            -0.0195,
+            51.5036
+          ],
+          [
+            -0.0042,
+            51.5416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "elizabeth-line-overground-dlr",
+        "sistema_nome_pt": "Elizabeth Line (Crossrail), London Overground e DLR (Docklands Light Railway)",
+        "sistema_nome_en": "Elizabeth Line (Crossrail), London Overground & DLR (Docklands Light Railway)",
+        "linha": "Elizabeth Line / Crossrail (Reading & Heathrow – Paddington – Tottenham Court Road – Liverpool Street – Canary Wharf – Abbey Wood / Shenfield)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9719,
+            51.4586
+          ],
+          [
+            -0.4543,
+            51.4713
+          ],
+          [
+            -0.1755,
+            51.5154
+          ],
+          [
+            -0.1311,
+            51.5165
+          ],
+          [
+            -0.0817,
+            51.5178
+          ],
+          [
+            -0.0195,
+            51.5036
+          ],
+          [
+            0.1203,
+            51.4908
+          ],
+          [
+            0.3297,
+            51.6306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "elizabeth-line-overground-dlr",
+        "sistema_nome_pt": "Elizabeth Line (Crossrail), London Overground e DLR (Docklands Light Railway)",
+        "sistema_nome_en": "Elizabeth Line (Crossrail), London Overground & DLR (Docklands Light Railway)",
+        "linha": "DLR — Docklands Light Railway Automático GoA4 (Bank – Canary Wharf – Greenwich / London City Airport – Woolwich)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0886,
+            51.5133
+          ],
+          [
+            -0.0195,
+            51.5036
+          ],
+          [
+            -0.0108,
+            51.4781
+          ],
+          [
+            0.0553,
+            51.5036
+          ],
+          [
+            0.0689,
+            51.4917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-glasgow-tyne-wear",
+        "sistema_nome_pt": "Metrô de Glasgow (Glasgow Subway — 1896) e Tyne & Wear Metro (Newcastle / Sunderland)",
+        "sistema_nome_en": "Glasgow Subway (1896) & Tyne and Wear Metro (Newcastle / Sunderland)",
+        "linha": "Glasgow Subway (Anel Subterrâneo de 1896 — Buchanan Street – St Enoch – Govan – Partick – Hillhead)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2536,
+            55.8625
+          ],
+          [
+            -4.2553,
+            55.8569
+          ],
+          [
+            -4.3061,
+            55.8622
+          ],
+          [
+            -4.3092,
+            55.8703
+          ],
+          [
+            -4.2928,
+            55.8756
+          ],
+          [
+            -4.2536,
+            55.8625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-glasgow-tyne-wear",
+        "sistema_nome_pt": "Metrô de Glasgow (Glasgow Subway — 1896) e Tyne & Wear Metro (Newcastle / Sunderland)",
+        "sistema_nome_en": "Glasgow Subway (1896) & Tyne and Wear Metro (Newcastle / Sunderland)",
+        "linha": "Tyne and Wear Metro (Newcastle Airport – Monument – Gateshead – South Shields / Sunderland)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7111,
+            55.0375
+          ],
+          [
+            -1.6131,
+            54.9739
+          ],
+          [
+            -1.6003,
+            54.9622
+          ],
+          [
+            -1.4289,
+            54.9969
+          ],
+          [
+            -1.3822,
+            54.9061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-manchester-edimburgo-birmingham-nottingham",
+        "sistema_nome_pt": "Redes Britânicas de VLT — Manchester Metrolink, Edimburgo, Birmingham, Nottingham e Sheffield",
+        "sistema_nome_en": "UK Light Rail & Tram Networks — Manchester Metrolink, Edinburgh, Birmingham, Nottingham & Sheffield",
+        "linha": "Manchester Metrolink (Manchester Airport – St Peter's Square – Piccadilly – Bury / Rochdale)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2736,
+            53.3653
+          ],
+          [
+            -2.2889,
+            53.4722
+          ],
+          [
+            -2.2442,
+            53.4778
+          ],
+          [
+            -2.2308,
+            53.4775
+          ],
+          [
+            -2.2961,
+            53.5919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-manchester-edimburgo-birmingham-nottingham",
+        "sistema_nome_pt": "Redes Britânicas de VLT — Manchester Metrolink, Edimburgo, Birmingham, Nottingham e Sheffield",
+        "sistema_nome_en": "UK Light Rail & Tram Networks — Manchester Metrolink, Edinburgh, Birmingham, Nottingham & Sheffield",
+        "linha": "Edinburgh Trams (Edinburgh Airport – Haymarket – Princes Street – Leith – Newhaven)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3625,
+            55.9486
+          ],
+          [
+            -3.2183,
+            55.9456
+          ],
+          [
+            -3.1969,
+            55.9525
+          ],
+          [
+            -3.17,
+            55.9756
+          ],
+          [
+            -3.1942,
+            55.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "principais-troncos-network-rail-uk",
+        "sistema_nome_pt": "Troncos Intercidades Britânicos — East Coast, West Coast e Great Western Main Line (200 km/h)",
+        "sistema_nome_en": "UK Intercity Trunk Corridors — East Coast (ECML), West Coast (WCML) & Great Western Main Line (200 km/h)",
+        "linha": "East Coast Main Line — ECML (Londres King's Cross – Peterborough – York – Newcastle – Edimburgo Waverley, 200 km/h)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1238,
+            51.5308
+          ],
+          [
+            -0.2464,
+            52.5747
+          ],
+          [
+            -1.0931,
+            53.9581
+          ],
+          [
+            -1.6172,
+            54.9683
+          ],
+          [
+            -3.1897,
+            55.9522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "principais-troncos-network-rail-uk",
+        "sistema_nome_pt": "Troncos Intercidades Britânicos — East Coast, West Coast e Great Western Main Line (200 km/h)",
+        "sistema_nome_en": "UK Intercity Trunk Corridors — East Coast (ECML), West Coast (WCML) & Great Western Main Line (200 km/h)",
+        "linha": "West Coast Main Line — WCML (Londres Euston – Birmingham – Crewe – Manchester / Liverpool – Carlisle – Glasgow Central, 200 km/h)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1339,
+            51.5281
+          ],
+          [
+            -1.8936,
+            52.4778
+          ],
+          [
+            -2.4331,
+            53.0892
+          ],
+          [
+            -2.2308,
+            53.4775
+          ],
+          [
+            -2.6361,
+            53.7561
+          ],
+          [
+            -2.9369,
+            54.8908
+          ],
+          [
+            -4.2581,
+            55.8592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "principais-troncos-network-rail-uk",
+        "sistema_nome_pt": "Troncos Intercidades Britânicos — East Coast, West Coast e Great Western Main Line (200 km/h)",
+        "sistema_nome_en": "UK Intercity Trunk Corridors — East Coast (ECML), West Coast (WCML) & Great Western Main Line (200 km/h)",
+        "linha": "Great Western Main Line — GWML (Londres Paddington – Reading – Swindon – Bristol Temple Meads – Cardiff Central, 200 km/h)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1755,
+            51.5154
+          ],
+          [
+            -0.9719,
+            51.4586
+          ],
+          [
+            -1.7856,
+            51.5656
+          ],
+          [
+            -2.5811,
+            51.4492
+          ],
+          [
+            -3.1792,
+            51.4758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "hs1-eurostar-londres-eurotunel",
+        "sistema_nome_pt": "High Speed 1 (HS1) & Eurostar — Londres St Pancras – Eurotúnel (300 km/h)",
+        "sistema_nome_en": "High Speed 1 (HS1) & Eurostar — London St Pancras – Channel Tunnel (300 km/h)",
+        "linha": "High Speed 1 (HS1) & Eurotúnel (Londres St Pancras – Stratford – Ebbsfleet – Ashford – Folkestone – Calais, 300 km/h)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1261,
+            51.5319
+          ],
+          [
+            -0.0042,
+            51.5439
+          ],
+          [
+            0.3211,
+            51.4431
+          ],
+          [
+            0.8758,
+            51.1433
+          ],
+          [
+            1.1494,
+            51.0936
+          ],
+          [
+            1.8111,
+            50.9014
           ]
         ]
       }
