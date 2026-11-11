@@ -1,5 +1,476 @@
 [
   {
+    "id": "vlt-cuiaba",
+    "slug": "vlt-cuiaba",
+    "nome_pt": "VLT de Cuiabá – Várzea Grande (Histórico / Desativado)",
+    "nome_en": "Cuiabá – Várzea Grande Light Rail (Historical / Decommissioned)",
+    "tipo": "vlt",
+    "pais": "Brasil",
+    "uf": "MT",
+    "cidade": "Cuiabá / Várzea Grande",
+    "regiao_metropolitana": "Região Metropolitana do Vale do Rio Cuiabá",
+    "operador": "Governo de Mato Grosso (trens vendidos à Bahia em 2024)",
+    "status": "desativado",
+    "inauguracao": null,
+    "extensao_km": 22.2,
+    "n_linhas": 2,
+    "n_estacoes": null,
+    "passageiros_dia": null,
+    "ano_referencia": null,
+    "investimento": null,
+    "proximas_entregas": null,
+    "resumo_pt": "Iniciado para a Copa de 2014 com 22,2 km previstos em duas linhas (Aeroporto–CPA e Coxipó–Centro), teve obras paralisadas e trilhos removidos. Os 40 trens CAF Urbos adquiridos foram negociados com o Governo da Bahia para operar no VLT de Salvador.",
+    "resumo_en": "Launched for the 2014 World Cup with 22.2 km planned across two lines, construction was halted and tracks removed. Its 40 CAF Urbos trainsets were sold to the State of Bahia for the Salvador VLT.",
+    "foto": null,
+    "fontes": [
+      "ctb-vlt-salvador"
+    ],
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "mato-grosso",
+      "vlt",
+      "bahia"
+    ],
+    "lat": -15.6012,
+    "lon": -56.0965,
+    "zoom_inicial": 12.2,
+    "camada": "passageiros",
+    "verificado_completo": false
+  },
+  {
+    "id": "ferrograo",
+    "slug": "ferrograo",
+    "nome_pt": "Ferrogrão (EF-170 — Sinop/MT a Miritituba/PA)",
+    "nome_en": "Ferrogrão Railway (EF-170 — Sinop/MT to Miritituba/PA)",
+    "tipo": "ferrovia_carga",
+    "pais": "Brasil",
+    "uf": "MT/PA",
+    "cidade": "Sinop (MT) – Itaituba/Miritituba (PA)",
+    "regiao_metropolitana": "Corredor Logístico do Arco Norte (BR-163)",
+    "operador": "Em estruturação (Ministério dos Transportes / ANTT)",
+    "status": "projeto",
+    "inauguracao": null,
+    "extensao_km": 933.0,
+    "n_linhas": 1,
+    "n_estacoes": null,
+    "passageiros_dia": null,
+    "ano_referencia": null,
+    "investimento": null,
+    "proximas_entregas": {
+      "pt": "Conclusão dos estudos socioambientais e análise pelo STF e TCU para viabilizar o edital de concessão.",
+      "en": "Completion of socio-environmental studies and Supreme Court / TCU review to enable the concession auction."
+    },
+    "resumo_pt": "Projeto de ferrovia greenfield de 933 km paralela ao eixo da BR-163, projetada para escoar a produção de grãos do norte de Mato Grosso até os terminais hidroviários do Rio Tapajós em Miritituba (Itaituba/PA), no Arco Norte.",
+    "resumo_en": "Planned 933 km greenfield freight railway parallel to highway BR-163, designed to haul grain from northern Mato Grosso to Tapajós River barge terminals in Miritituba (Pará).",
+    "foto": null,
+    "fontes": [
+      "antt-ferrovias-oficial"
+    ],
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "carga",
+      "ferrovia de carga",
+      "logística",
+      "brasil"
+    ],
+    "lat": -8.0512,
+    "lon": -55.3125,
+    "zoom_inicial": 6.2,
+    "camada": "carga_projetos",
+    "verificado_completo": false
+  },
+  {
+    "id": "autorizacoes-antt",
+    "slug": "autorizacoes-antt",
+    "nome_pt": "Autorizações Ferroviárias da ANTT (Regime Privado)",
+    "nome_en": "ANTT Private Rail Authorizations",
+    "tipo": "projeto",
+    "pais": "Brasil",
+    "uf": "BR",
+    "cidade": "Múltiplos eixos estaduais (MS, PR, SC, MG, PA, MT)",
+    "regiao_metropolitana": "Malha Nacional de Projetos Autorizados",
+    "operador": "Operadores privados autorizados pela ANTT (ex.: Arauco, Rumo, VLI, Petrocity)",
+    "status": "projeto",
+    "inauguracao": null,
+    "extensao_km": null,
+    "n_linhas": null,
+    "n_estacoes": null,
+    "passageiros_dia": null,
+    "ano_referencia": null,
+    "investimento": null,
+    "proximas_entregas": {
+      "pt": "Ramais industriais de celulose em Mato Grosso do Sul (Inocência/Arauco) e estudos de novos corredores portuários.",
+      "en": "Industrial pulp rail spurs in Mato Grosso do Sul (Inocência/Arauco) and port corridor studies."
+    },
+    "resumo_pt": "Conjunto de projetos ferroviários solicitados pela iniciativa privada sob o regime de autorização da Lei das Ferrovias (Lei nº 14.273/2021) regulados pela ANTT, abrangendo ramais industriais (como celulose e mineração) e conexões portuárias.",
+    "resumo_en": "Portfolio of private railway projects authorized by ANTT under Brazil's 2021 Railway Law (Law 14,273/2021), encompassing industrial spurs (pulp, mining) and port links.",
+    "foto": null,
+    "fontes": [
+      "antt-ferrovias-oficial"
+    ],
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "carga",
+      "ferrovia de carga",
+      "ferrovias",
+      "investimento"
+    ],
+    "lat": -20.4612,
+    "lon": -52.5012,
+    "zoom_inicial": 5.5,
+    "camada": "carga_projetos",
+    "verificado_completo": false
+  },
+  {
+    "id": "vlt-brasilia",
+    "slug": "vlt-brasilia",
+    "nome_pt": "VLT de Brasília (Corredor W3 e Aeroporto)",
+    "nome_en": "Brasília Light Rail (W3 Corridor & Airport)",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "regiao_metropolitana": "Região Integrada de Desenvolvimento do DF e Entorno",
+    "pais": "BR",
+    "tipo": "vlt",
+    "status": "projeto",
+    "camada": "passageiros",
+    "operador": "Secretaria de Transporte e Mobilidade do DF (Semob/Metrô-DF)",
+    "inauguracao": null,
+    "extensao_km": 22.6,
+    "n_linhas": 1,
+    "n_estacoes": null,
+    "passageiros_dia": null,
+    "ano_referencia": 2026,
+    "bitola": "1435 mm (padrão)",
+    "eletrificacao": "Alimentação pelo solo (APS) / baterias sem catenária no Plano Piloto",
+    "sinalizacao": null,
+    "frota_trens": null,
+    "velocidade_max_kmh": null,
+    "investimento_brl": null,
+    "proximas_entregas_pt": "Projeto estruturante ao longo da Avenida W3 Sul/Norte e ligação ao Aeroporto Internacional de Brasília sem fiação aérea para preservação do tombamento urbanístico.",
+    "proximas_entregas_en": "Light rail project along W3 South/North Avenue and Brasília International Airport using catenary-free ground-level power supply.",
+    "lat": -15.62,
+    "lon": -47.65,
+    "zoom_inicial": 11.8,
+    "verificado_completo": false,
+    "geometria_aproximada": true,
+    "resumo_pt": "Projeto de Veículo Leve sobre Trilhos para o eixo da Avenida W3 Sul e Norte e conexão ao Aeroporto de Brasília, concebido com alimentação sem fiação aérea para atender às exigências patrimoniais do Plano Piloto.",
+    "resumo_en": "Light rail project along Brasília's W3 South/North Avenue and Airport corridor, designed with catenary-free traction to preserve the UNESCO World Heritage skyline.",
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Metr%C3%B4_DF.jpg",
+      "credito": "Agência Brasília / Wikimedia Commons",
+      "licenca": "CC BY 3.0 BR",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Metr%C3%B4_DF.jpg"
+    },
+    "linhas_resumo": [
+      {
+        "id": "vlt-bsb-w3",
+        "nome": "Corredor W3 Sul/Norte – Aeroporto",
+        "cor": "#eab308",
+        "status": "projeto",
+        "extensao_km": 22.6,
+        "estacoes": null
+      }
+    ],
+    "tags": [
+      "vlt",
+      "brasília",
+      "distrito federal",
+      "w3"
+    ],
+    "fontes": [
+      "anptrilhos-2024",
+      "osm-odbl"
+    ],
+    "atualizado_em": "2026-11-11"
+  },
+  {
+    "id": "linha-3-metro-rj",
+    "slug": "linha-3-metro-rj",
+    "nome_pt": "Linha 3 do Metrô do Rio (Rio–Niterói–São Gonçalo)",
+    "nome_en": "Rio Metro Line 3 (Rio–Niterói–São Gonçalo)",
+    "cidade": "Niterói / São Gonçalo / Rio de Janeiro",
+    "uf": "RJ",
+    "regiao_metropolitana": "Região Metropolitana do Rio de Janeiro",
+    "pais": "BR",
+    "tipo": "projeto",
+    "status": "projeto",
+    "camada": "carga_projetos",
+    "operador": "Governo do Estado do Rio de Janeiro / Setrans-RJ",
+    "inauguracao": null,
+    "extensao_km": 22.0,
+    "n_linhas": 1,
+    "n_estacoes": 14,
+    "passageiros_dia": null,
+    "ano_referencia": 2026,
+    "bitola": "1600 mm (prevista)",
+    "eletrificacao": null,
+    "sinalizacao": null,
+    "frota_trens": null,
+    "velocidade_max_kmh": null,
+    "investimento_brl": null,
+    "proximas_entregas_pt": "Estudos de viabilidade para travessia subaquática da Baía de Guanabara (Praça XV–Arariboia) e eixo Niterói–São Gonçalo (Guaxindiba).",
+    "proximas_entregas_en": "Feasibility studies for the Guanabara Bay underwater tunnel (Praça XV–Arariboia) and the Niterói–São Gonçalo corridor.",
+    "lat": -22.82,
+    "lon": -42.96,
+    "zoom_inicial": 11.4,
+    "verificado_completo": false,
+    "geometria_aproximada": true,
+    "resumo_pt": "Projeto histórico de expansão metroferroviária na Região Metropolitana do Rio de Janeiro prevendo túnel subaquático sob a Baía de Guanabara entre o Centro do Rio (Carioca/Praça XV), Niterói e São Gonçalo.",
+    "resumo_en": "Long-planned metropolitan rail expansion across Greater Rio featuring an underwater tunnel beneath Guanabara Bay linking Downtown Rio, Niterói and São Gonçalo.",
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Metro_Rio.jpg",
+      "credito": "Wilfredor / Wikimedia Commons",
+      "licenca": "Public Domain",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Metro_Rio.jpg"
+    },
+    "linhas_resumo": [
+      {
+        "id": "rj-linha3-projeto",
+        "nome": "Linha 3 (Praça XV – Arariboia – Alcântara – Guaxindiba)",
+        "cor": "#2563eb",
+        "status": "projeto",
+        "extensao_km": 22.0,
+        "estacoes": 14
+      }
+    ],
+    "tags": [
+      "linha 3",
+      "niteroi",
+      "niterói",
+      "são gonçalo",
+      "metro rio",
+      "rio de janeiro"
+    ],
+    "fontes": [
+      "agetransp-2024",
+      "anptrilhos-2024",
+      "osm-odbl"
+    ],
+    "atualizado_em": "2026-11-11"
+  },
+  {
+    "id": "vlt-salvador",
+    "slug": "vlt-salvador",
+    "nome_pt": "VLT de Salvador e Região Metropolitana",
+    "nome_en": "Salvador and Metropolitan Region Light Rail (VLT)",
+    "tipo": "vlt",
+    "pais": "Brasil",
+    "uf": "BA",
+    "cidade": "Salvador / Simões Filho",
+    "regiao_metropolitana": "Região Metropolitana de Salvador",
+    "operador": "Companhia de Transportes do Estado da Bahia (CTB)",
+    "status": "obras",
+    "inauguracao": null,
+    "extensao_km": 36.4,
+    "n_linhas": 3,
+    "n_estacoes": 34,
+    "passageiros_dia": null,
+    "ano_referencia": null,
+    "investimento": {
+      "valor": "R$ 5,4 bilhões (3 lotes licitados pelo Governo do Estado da Bahia + aquisição dos trens restaurados)",
+      "moeda": "BRL",
+      "fonte": "ctb-vlt-salvador"
+    },
+    "proximas_entregas": {
+      "pt": "Obras em andamento nos 3 trechos: Calçada – Ilha de São João (Subúrbio Ferroviário), Paripe – Águas Claras e Águas Claras – Piatã.",
+      "en": "Active construction across all 3 lots: Calçada – Ilha de São João, Paripe – Águas Claras and Águas Claras – Piatã."
+    },
+    "resumo_pt": "Megaprojeto de mobilidade urbana sobre trilhos do Governo da Bahia dividido em três lotes (36,4 km e 34 paradas), devolvendo o transporte ferroviário elétrico ao Subúrbio Ferroviário de Salvador e conectando-o à Linha 1 do Metrô (Águas Claras) e à orla atlântica (Piatã).",
+    "resumo_en": "Major light rail project by the Bahia State Government divided into three lots (36.4 km and 34 stops), restoring rail transit to Salvador's Subúrbio Ferroviário and linking it to Metro Line 1 (Águas Claras) and the Atlantic coast (Piatã).",
+    "foto": null,
+    "fontes": [
+      "ctb-vlt-salvador",
+      "osm-odbl"
+    ],
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "bahia",
+      "vlt",
+      "mobilidade urbana",
+      "expansão"
+    ],
+    "lat": -12.68,
+    "lon": -38.32,
+    "zoom_inicial": 11.8,
+    "camada": "passageiros",
+    "verificado_completo": false
+  },
+  {
+    "id": "tic-eixo-norte",
+    "slug": "tic-eixo-norte",
+    "nome_pt": "Trem Intercidades SP–Campinas (TIC Eixo Norte)",
+    "nome_en": "São Paulo–Campinas Intercity Train (TIC North Axis)",
+    "tipo": "trem_regional",
+    "pais": "Brasil",
+    "uf": "SP",
+    "cidade": "São Paulo / Jundiaí / Campinas",
+    "regiao_metropolitana": "Macrometrópole Paulista (SP – Jundiaí – Campinas)",
+    "operador": "TIC Trens (Consórcio C2 Mobilidade sobre Trilhos — Comporte e CRRC)",
+    "status": "obras",
+    "inauguracao": null,
+    "extensao_km": 101.0,
+    "n_linhas": 2,
+    "n_estacoes": null,
+    "passageiros_dia": null,
+    "ano_referencia": null,
+    "investimento": {
+      "valor": "R$ 14,2 bilhões (PPP concedida em fevereiro de 2024 incluindo TIC SP-Campinas, TIM Jundiaí-Campinas e Linha 7-Rubi)",
+      "moeda": "BRL",
+      "fonte": "spi-sp-tic"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação do Trem Intermetropolitano (TIM) Jundiaí–Campinas (previsto 2029) e do serviço expresso Trem Intercidades Barra Funda–Campinas (previsto 2031).",
+      "en": "Deployment of the Jundiaí–Campinas Intermetropolitan Train (expected 2029) and the Barra Funda–Campinas Express Intercity Train (expected 2031)."
+    },
+    "resumo_pt": "Principal projeto de trem regional de passageiros de média velocidade (até 140 km/h) em implantação no país, conectando a Estação Água Branca/Barra Funda (São Paulo) a Jundiaí e Campinas em 64 minutos, além do serviço parador TIM entre Jundiaí, Louveira, Vinhedo, Valinhos e Campinas.",
+    "resumo_en": "Brazil's flagship medium-speed regional passenger rail project (up to 140 km/h), linking São Paulo (Barra Funda) to Jundiaí and Campinas in 64 minutes alongside the local TIM service.",
+    "foto": null,
+    "fontes": [
+      "spi-sp-tic",
+      "osm-odbl"
+    ],
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "são paulo",
+      "trem intercidades",
+      "campinas",
+      "alta velocidade",
+      "regional"
+    ],
+    "lat": -22.9099,
+    "lon": -47.0626,
+    "zoom_inicial": 9.5,
+    "camada": "passageiros",
+    "verificado_completo": false
+  },
+  {
+    "id": "fiol",
+    "slug": "fiol",
+    "nome_pt": "FIOL (EF-334 — Ferrovia de Integração Oeste-Leste)",
+    "nome_en": "FIOL (EF-334 — West-East Integration Railway)",
+    "tipo": "ferrovia_carga",
+    "pais": "Brasil",
+    "uf": "BA/TO",
+    "cidade": "Ilhéus – Caetité – Barreiras (BA) – Figueirópolis (TO)",
+    "regiao_metropolitana": "Corredor Oeste-Leste (Bahia – Tocantins)",
+    "operador": "Bamin (FIOL 1) / Infra S.A. (FIOL 2 e FIOL 3)",
+    "status": "obras",
+    "inauguracao": null,
+    "extensao_km": 1527.0,
+    "n_linhas": 3,
+    "n_estacoes": null,
+    "passageiros_dia": null,
+    "ano_referencia": null,
+    "investimento": null,
+    "proximas_entregas": {
+      "pt": "Avanço das obras civis e superestrutura nos lotes da FIOL 1 (Ilhéus–Caetité) e FIOL 2 (Caetité–Barreiras) no âmbito do Novo PAC.",
+      "en": "Civil works and track laying across FIOL 1 (Ilhéus–Caetité) and FIOL 2 (Caetité–Barreiras) under the Federal New PAC."
+    },
+    "resumo_pt": "Corredor ferroviário estratégico de 1.527 km dividido em três trechos (FIOL 1, 2 e 3) para ligar o litoral sul da Bahia (Ilhéus) às regiões produtoras de minério e grãos do oeste baiano e à Ferrovia Norte-Sul em Figueirópolis (TO).",
+    "resumo_en": "Strategic 1,527 km freight rail corridor divided into three sections (FIOL 1, 2 and 3) linking the coast of Bahia (Ilhéus) to western Bahia's mining and agricultural belt and the North-South Railway in Tocantins.",
+    "foto": null,
+    "fontes": [
+      "antt-ferrovias-oficial"
+    ],
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "bahia",
+      "carga",
+      "ferrovia de carga",
+      "logística"
+    ],
+    "lat": -13.8512,
+    "lon": -43.5125,
+    "zoom_inicial": 6.2,
+    "camada": "carga_projetos",
+    "verificado_completo": false
+  },
+  {
+    "id": "fico",
+    "slug": "fico",
+    "nome_pt": "FICO (EF-354 — Ferrovia de Integração do Centro-Oeste)",
+    "nome_en": "FICO (EF-354 — Midwest Integration Railway)",
+    "tipo": "ferrovia_carga",
+    "pais": "Brasil",
+    "uf": "GO/MT",
+    "cidade": "Mara Rosa (GO) – Água Boa (MT)",
+    "regiao_metropolitana": "Corredor Centro-Oeste (Goiás – Vale do Araguaia/MT)",
+    "operador": "Vale (investimento cruzado da renovação da EFVM/EFC) / Infra S.A.",
+    "status": "obras",
+    "inauguracao": null,
+    "extensao_km": 383.0,
+    "n_linhas": 1,
+    "n_estacoes": null,
+    "passageiros_dia": null,
+    "ano_referencia": null,
+    "investimento": null,
+    "proximas_entregas": {
+      "pt": "Obras de terraplenagem, pontes ferroviárias e lançamento de trilhos entre Mara Rosa (GO, conexão com a Ferrovia Norte-Sul) e Água Boa (MT).",
+      "en": "Earthworks, railway bridges and track laying between Mara Rosa (Goiás, connecting to the North-South Railway) and Água Boa (Mato Grosso)."
+    },
+    "resumo_pt": "Ferrovia de 383 km em construção pelo mecanismo de investimento cruzado, conectando o Vale do Araguaia em Mato Grosso (Água Boa) à Ferrovia Norte-Sul em Mara Rosa (GO), formando no futuro o corredor bioceânico FICO-FIOL.",
+    "resumo_en": "383 km railway under construction via cross-investment, linking Mato Grosso's Araguaia Valley (Água Boa) to the North-South Railway in Mara Rosa (Goiás), forming the future FICO-FIOL corridor.",
+    "foto": null,
+    "fontes": [
+      "antt-ferrovias-oficial"
+    ],
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "carga",
+      "ferrovia de carga",
+      "logística",
+      "brasil"
+    ],
+    "lat": -14.0512,
+    "lon": -50.6512,
+    "zoom_inicial": 6.8,
+    "camada": "carga_projetos",
+    "verificado_completo": false
+  },
+  {
+    "id": "transnordestina",
+    "slug": "transnordestina",
+    "nome_pt": "Ferrovia Transnordestina (Eliseu Martins/PI – Pecém/CE)",
+    "nome_en": "Transnordestina Railway (Eliseu Martins/PI – Pecém/CE)",
+    "tipo": "ferrovia_carga",
+    "pais": "Brasil",
+    "uf": "PI/PE/CE",
+    "cidade": "Eliseu Martins (PI) – Salgueiro (PE) – Porto do Pecém (CE)",
+    "regiao_metropolitana": "Sertão do Piauí, Pernambuco e Ceará",
+    "operador": "Transnordestina Logística S.A. (TLSA) / Governo Federal (ramal Suape)",
+    "status": "obras",
+    "inauguracao": null,
+    "extensao_km": 1206.0,
+    "n_linhas": 1,
+    "n_estacoes": null,
+    "passageiros_dia": null,
+    "ano_referencia": null,
+    "investimento": null,
+    "proximas_entregas": {
+      "pt": "Conclusão dos lotes prioritários da Fase 1 no Ceará até o Porto do Pecém e retomada pública das obras do ramal Salgueiro–Suape em Pernambuco.",
+      "en": "Completion of Phase 1 lots in Ceará toward the Port of Pecém and public resumption of the Salgueiro–Suape branch in Pernambuco."
+    },
+    "resumo_pt": "Grande ferrovia de integração regional do Nordeste brasileiro, ligando o cerrado piauiense (Eliseu Martins) a Salgueiro (PE) e ao Porto do Pecém (CE), com retomada do ramal pernambucano até o Porto de Suape pelo Novo PAC.",
+    "resumo_en": "Major freight railway across Northeastern Brazil, linking southern Piauí (Eliseu Martins) to Salgueiro (PE) and the Port of Pecém (CE), alongside the federal resumption of the Suape Port branch.",
+    "foto": null,
+    "fontes": [
+      "antt-ferrovias-oficial"
+    ],
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "ceara",
+      "pernambuco",
+      "carga",
+      "ferrovia de carga",
+      "logística"
+    ],
+    "lat": -6.3612,
+    "lon": -40.1212,
+    "zoom_inicial": 6.2,
+    "camada": "carga_projetos",
+    "verificado_completo": false
+  },
+  {
     "id": "metro-sp",
     "slug": "metro-sp",
     "nome_pt": "Metrô de São Paulo (Rede Estatal)",
@@ -100,8 +571,8 @@
       "metrô",
       "expansão"
     ],
-    "lat": -22.9201,
-    "lon": -43.2102,
+    "lat": -22.915,
+    "lon": -43.19,
     "zoom_inicial": 11.5,
     "camada": "passageiros",
     "verificado_completo": true
@@ -206,8 +677,8 @@
       "metrô",
       "mobilidade urbana"
     ],
-    "lat": -12.9512,
-    "lon": -38.4512,
+    "lat": -12.9714,
+    "lon": -38.5014,
     "zoom_inicial": 12.0,
     "camada": "passageiros",
     "verificado_completo": true
@@ -308,8 +779,8 @@
       "metrô",
       "concessoes"
     ],
-    "lat": -23.5861,
-    "lon": -46.7018,
+    "lat": -23.62,
+    "lon": -46.735,
     "zoom_inicial": 11.2,
     "camada": "passageiros",
     "verificado_completo": false
@@ -357,8 +828,8 @@
       "ferrovia",
       "mobilidade urbana"
     ],
-    "lat": -23.5364,
-    "lon": -46.5764,
+    "lat": -23.48,
+    "lon": -46.51,
     "zoom_inicial": 10.5,
     "camada": "passageiros",
     "verificado_completo": false
@@ -406,8 +877,8 @@
       "ferrovia",
       "mobilidade urbana"
     ],
-    "lat": -22.8741,
-    "lon": -43.3382,
+    "lat": -22.78,
+    "lon": -43.43,
     "zoom_inicial": 10.5,
     "camada": "passageiros",
     "verificado_completo": false
@@ -455,8 +926,8 @@
       "bondes",
       "mobilidade urbana"
     ],
-    "lat": -22.9035,
-    "lon": -43.1852,
+    "lat": -22.89,
+    "lon": -43.165,
     "zoom_inicial": 13.5,
     "camada": "passageiros",
     "verificado_completo": false
@@ -504,8 +975,8 @@
       "metrô",
       "vlt"
     ],
-    "lat": -15.8252,
-    "lon": -47.9912,
+    "lat": -15.83,
+    "lon": -47.92,
     "zoom_inicial": 11.2,
     "camada": "passageiros",
     "verificado_completo": false
@@ -683,53 +1154,6 @@
     "lat": -7.2245,
     "lon": -39.3585,
     "zoom_inicial": 12.5,
-    "camada": "passageiros",
-    "verificado_completo": false
-  },
-  {
-    "id": "vlt-salvador",
-    "slug": "vlt-salvador",
-    "nome_pt": "VLT de Salvador e Região Metropolitana",
-    "nome_en": "Salvador and Metropolitan Region Light Rail (VLT)",
-    "tipo": "vlt",
-    "pais": "Brasil",
-    "uf": "BA",
-    "cidade": "Salvador / Simões Filho",
-    "regiao_metropolitana": "Região Metropolitana de Salvador",
-    "operador": "Companhia de Transportes do Estado da Bahia (CTB)",
-    "status": "obras",
-    "inauguracao": null,
-    "extensao_km": 36.4,
-    "n_linhas": 3,
-    "n_estacoes": 34,
-    "passageiros_dia": null,
-    "ano_referencia": null,
-    "investimento": {
-      "valor": "R$ 5,4 bilhões (3 lotes licitados pelo Governo do Estado da Bahia + aquisição dos trens restaurados)",
-      "moeda": "BRL",
-      "fonte": "ctb-vlt-salvador"
-    },
-    "proximas_entregas": {
-      "pt": "Obras em andamento nos 3 trechos: Calçada – Ilha de São João (Subúrbio Ferroviário), Paripe – Águas Claras e Águas Claras – Piatã.",
-      "en": "Active construction across all 3 lots: Calçada – Ilha de São João, Paripe – Águas Claras and Águas Claras – Piatã."
-    },
-    "resumo_pt": "Megaprojeto de mobilidade urbana sobre trilhos do Governo da Bahia dividido em três lotes (36,4 km e 34 paradas), devolvendo o transporte ferroviário elétrico ao Subúrbio Ferroviário de Salvador e conectando-o à Linha 1 do Metrô (Águas Claras) e à orla atlântica (Piatã).",
-    "resumo_en": "Major light rail project by the Bahia State Government divided into three lots (36.4 km and 34 stops), restoring rail transit to Salvador's Subúrbio Ferroviário and linking it to Metro Line 1 (Águas Claras) and the Atlantic coast (Piatã).",
-    "foto": null,
-    "fontes": [
-      "ctb-vlt-salvador",
-      "osm-odbl"
-    ],
-    "atualizado_em": "2026-11-11",
-    "tags": [
-      "bahia",
-      "vlt",
-      "mobilidade urbana",
-      "expansão"
-    ],
-    "lat": -12.8852,
-    "lon": -38.4512,
-    "zoom_inicial": 11.8,
     "camada": "passageiros",
     "verificado_completo": false
   },
@@ -984,492 +1408,54 @@
     "verificado_completo": false
   },
   {
-    "id": "vlt-cuiaba",
-    "slug": "vlt-cuiaba",
-    "nome_pt": "VLT de Cuiabá – Várzea Grande (Histórico / Desativado)",
-    "nome_en": "Cuiabá – Várzea Grande Light Rail (Historical / Decommissioned)",
-    "tipo": "vlt",
-    "pais": "Brasil",
-    "uf": "MT",
-    "cidade": "Cuiabá / Várzea Grande",
-    "regiao_metropolitana": "Região Metropolitana do Vale do Rio Cuiabá",
-    "operador": "Governo de Mato Grosso (trens vendidos à Bahia em 2024)",
-    "status": "desativado",
-    "inauguracao": null,
-    "extensao_km": 22.2,
-    "n_linhas": 2,
-    "n_estacoes": null,
-    "passageiros_dia": null,
-    "ano_referencia": null,
-    "investimento": null,
-    "proximas_entregas": null,
-    "resumo_pt": "Iniciado para a Copa de 2014 com 22,2 km previstos em duas linhas (Aeroporto–CPA e Coxipó–Centro), teve obras paralisadas e trilhos removidos. Os 40 trens CAF Urbos adquiridos foram negociados com o Governo da Bahia para operar no VLT de Salvador.",
-    "resumo_en": "Launched for the 2014 World Cup with 22.2 km planned across two lines, construction was halted and tracks removed. Its 40 CAF Urbos trainsets were sold to the State of Bahia for the Salvador VLT.",
-    "foto": null,
-    "fontes": [
-      "ctb-vlt-salvador"
-    ],
-    "atualizado_em": "2026-11-11",
-    "tags": [
-      "mato-grosso",
-      "vlt",
-      "bahia"
-    ],
-    "lat": -15.6012,
-    "lon": -56.0965,
-    "zoom_inicial": 12.2,
-    "camada": "passageiros",
-    "verificado_completo": false
-  },
-  {
-    "id": "tic-eixo-norte",
-    "slug": "tic-eixo-norte",
-    "nome_pt": "Trem Intercidades SP–Campinas (TIC Eixo Norte)",
-    "nome_en": "São Paulo–Campinas Intercity Train (TIC North Axis)",
+    "id": "efvm",
+    "slug": "efvm",
+    "nome_pt": "Estrada de Ferro Vitória a Minas (Trem de Passageiros e Carga)",
+    "nome_en": "Vitória–Minas Railway (EFVM Passenger & Freight)",
     "tipo": "trem_regional",
-    "pais": "Brasil",
-    "uf": "SP",
-    "cidade": "São Paulo / Jundiaí / Campinas",
-    "regiao_metropolitana": "Macrometrópole Paulista (SP – Jundiaí – Campinas)",
-    "operador": "TIC Trens (Consórcio C2 Mobilidade sobre Trilhos — Comporte e CRRC)",
-    "status": "obras",
-    "inauguracao": null,
-    "extensao_km": 101.0,
-    "n_linhas": 2,
-    "n_estacoes": null,
-    "passageiros_dia": null,
-    "ano_referencia": null,
-    "investimento": {
-      "valor": "R$ 14,2 bilhões (PPP concedida em fevereiro de 2024 incluindo TIC SP-Campinas, TIM Jundiaí-Campinas e Linha 7-Rubi)",
-      "moeda": "BRL",
-      "fonte": "spi-sp-tic"
-    },
-    "proximas_entregas": {
-      "pt": "Implantação do Trem Intermetropolitano (TIM) Jundiaí–Campinas (previsto 2029) e do serviço expresso Trem Intercidades Barra Funda–Campinas (previsto 2031).",
-      "en": "Deployment of the Jundiaí–Campinas Intermetropolitan Train (expected 2029) and the Barra Funda–Campinas Express Intercity Train (expected 2031)."
-    },
-    "resumo_pt": "Principal projeto de trem regional de passageiros de média velocidade (até 140 km/h) em implantação no país, conectando a Estação Água Branca/Barra Funda (São Paulo) a Jundiaí e Campinas em 64 minutos, além do serviço parador TIM entre Jundiaí, Louveira, Vinhedo, Valinhos e Campinas.",
-    "resumo_en": "Brazil's flagship medium-speed regional passenger rail project (up to 140 km/h), linking São Paulo (Barra Funda) to Jundiaí and Campinas in 64 minutes alongside the local TIM service.",
-    "foto": null,
-    "fontes": [
-      "spi-sp-tic",
-      "osm-odbl"
-    ],
-    "atualizado_em": "2026-11-11",
-    "tags": [
-      "são paulo",
-      "trem intercidades",
-      "campinas",
-      "alta velocidade",
-      "regional"
-    ],
-    "lat": -23.1951,
-    "lon": -46.8712,
-    "zoom_inicial": 9.5,
-    "camada": "passageiros",
-    "verificado_completo": false
-  },
-  {
-    "id": "ferrograo",
-    "slug": "ferrograo",
-    "nome_pt": "Ferrogrão (EF-170 — Sinop/MT a Miritituba/PA)",
-    "nome_en": "Ferrogrão Railway (EF-170 — Sinop/MT to Miritituba/PA)",
-    "tipo": "ferrovia_carga",
-    "pais": "Brasil",
-    "uf": "MT/PA",
-    "cidade": "Sinop (MT) – Itaituba/Miritituba (PA)",
-    "regiao_metropolitana": "Corredor Logístico do Arco Norte (BR-163)",
-    "operador": "Em estruturação (Ministério dos Transportes / ANTT)",
-    "status": "projeto",
-    "inauguracao": null,
-    "extensao_km": 933.0,
-    "n_linhas": 1,
-    "n_estacoes": null,
-    "passageiros_dia": null,
-    "ano_referencia": null,
-    "investimento": null,
-    "proximas_entregas": {
-      "pt": "Conclusão dos estudos socioambientais e análise pelo STF e TCU para viabilizar o edital de concessão.",
-      "en": "Completion of socio-environmental studies and Supreme Court / TCU review to enable the concession auction."
-    },
-    "resumo_pt": "Projeto de ferrovia greenfield de 933 km paralela ao eixo da BR-163, projetada para escoar a produção de grãos do norte de Mato Grosso até os terminais hidroviários do Rio Tapajós em Miritituba (Itaituba/PA), no Arco Norte.",
-    "resumo_en": "Planned 933 km greenfield freight railway parallel to highway BR-163, designed to haul grain from northern Mato Grosso to Tapajós River barge terminals in Miritituba (Pará).",
-    "foto": null,
-    "fontes": [
-      "antt-ferrovias-oficial"
-    ],
-    "atualizado_em": "2026-11-11",
-    "tags": [
-      "carga",
-      "ferrovia de carga",
-      "logística",
-      "brasil"
-    ],
-    "lat": -8.0512,
-    "lon": -55.3125,
-    "zoom_inicial": 6.2,
-    "camada": "carga_projetos",
-    "verificado_completo": false
-  },
-  {
-    "id": "fiol",
-    "slug": "fiol",
-    "nome_pt": "FIOL (EF-334 — Ferrovia de Integração Oeste-Leste)",
-    "nome_en": "FIOL (EF-334 — West-East Integration Railway)",
-    "tipo": "ferrovia_carga",
-    "pais": "Brasil",
-    "uf": "BA/TO",
-    "cidade": "Ilhéus – Caetité – Barreiras (BA) – Figueirópolis (TO)",
-    "regiao_metropolitana": "Corredor Oeste-Leste (Bahia – Tocantins)",
-    "operador": "Bamin (FIOL 1) / Infra S.A. (FIOL 2 e FIOL 3)",
-    "status": "obras",
-    "inauguracao": null,
-    "extensao_km": 1527.0,
-    "n_linhas": 3,
-    "n_estacoes": null,
-    "passageiros_dia": null,
-    "ano_referencia": null,
-    "investimento": null,
-    "proximas_entregas": {
-      "pt": "Avanço das obras civis e superestrutura nos lotes da FIOL 1 (Ilhéus–Caetité) e FIOL 2 (Caetité–Barreiras) no âmbito do Novo PAC.",
-      "en": "Civil works and track laying across FIOL 1 (Ilhéus–Caetité) and FIOL 2 (Caetité–Barreiras) under the Federal New PAC."
-    },
-    "resumo_pt": "Corredor ferroviário estratégico de 1.527 km dividido em três trechos (FIOL 1, 2 e 3) para ligar o litoral sul da Bahia (Ilhéus) às regiões produtoras de minério e grãos do oeste baiano e à Ferrovia Norte-Sul em Figueirópolis (TO).",
-    "resumo_en": "Strategic 1,527 km freight rail corridor divided into three sections (FIOL 1, 2 and 3) linking the coast of Bahia (Ilhéus) to western Bahia's mining and agricultural belt and the North-South Railway in Tocantins.",
-    "foto": null,
-    "fontes": [
-      "antt-ferrovias-oficial"
-    ],
-    "atualizado_em": "2026-11-11",
-    "tags": [
-      "bahia",
-      "carga",
-      "ferrovia de carga",
-      "logística"
-    ],
-    "lat": -13.8512,
-    "lon": -43.5125,
-    "zoom_inicial": 6.2,
-    "camada": "carga_projetos",
-    "verificado_completo": false
-  },
-  {
-    "id": "fico",
-    "slug": "fico",
-    "nome_pt": "FICO (EF-354 — Ferrovia de Integração do Centro-Oeste)",
-    "nome_en": "FICO (EF-354 — Midwest Integration Railway)",
-    "tipo": "ferrovia_carga",
-    "pais": "Brasil",
-    "uf": "GO/MT",
-    "cidade": "Mara Rosa (GO) – Água Boa (MT)",
-    "regiao_metropolitana": "Corredor Centro-Oeste (Goiás – Vale do Araguaia/MT)",
-    "operador": "Vale (investimento cruzado da renovação da EFVM/EFC) / Infra S.A.",
-    "status": "obras",
-    "inauguracao": null,
-    "extensao_km": 383.0,
-    "n_linhas": 1,
-    "n_estacoes": null,
-    "passageiros_dia": null,
-    "ano_referencia": null,
-    "investimento": null,
-    "proximas_entregas": {
-      "pt": "Obras de terraplenagem, pontes ferroviárias e lançamento de trilhos entre Mara Rosa (GO, conexão com a Ferrovia Norte-Sul) e Água Boa (MT).",
-      "en": "Earthworks, railway bridges and track laying between Mara Rosa (Goiás, connecting to the North-South Railway) and Água Boa (Mato Grosso)."
-    },
-    "resumo_pt": "Ferrovia de 383 km em construção pelo mecanismo de investimento cruzado, conectando o Vale do Araguaia em Mato Grosso (Água Boa) à Ferrovia Norte-Sul em Mara Rosa (GO), formando no futuro o corredor bioceânico FICO-FIOL.",
-    "resumo_en": "383 km railway under construction via cross-investment, linking Mato Grosso's Araguaia Valley (Água Boa) to the North-South Railway in Mara Rosa (Goiás), forming the future FICO-FIOL corridor.",
-    "foto": null,
-    "fontes": [
-      "antt-ferrovias-oficial"
-    ],
-    "atualizado_em": "2026-11-11",
-    "tags": [
-      "carga",
-      "ferrovia de carga",
-      "logística",
-      "brasil"
-    ],
-    "lat": -14.0512,
-    "lon": -50.6512,
-    "zoom_inicial": 6.8,
-    "camada": "carga_projetos",
-    "verificado_completo": false
-  },
-  {
-    "id": "transnordestina",
-    "slug": "transnordestina",
-    "nome_pt": "Ferrovia Transnordestina (Eliseu Martins/PI – Pecém/CE)",
-    "nome_en": "Transnordestina Railway (Eliseu Martins/PI – Pecém/CE)",
-    "tipo": "ferrovia_carga",
-    "pais": "Brasil",
-    "uf": "PI/PE/CE",
-    "cidade": "Eliseu Martins (PI) – Salgueiro (PE) – Porto do Pecém (CE)",
-    "regiao_metropolitana": "Sertão do Piauí, Pernambuco e Ceará",
-    "operador": "Transnordestina Logística S.A. (TLSA) / Governo Federal (ramal Suape)",
-    "status": "obras",
-    "inauguracao": null,
-    "extensao_km": 1206.0,
-    "n_linhas": 1,
-    "n_estacoes": null,
-    "passageiros_dia": null,
-    "ano_referencia": null,
-    "investimento": null,
-    "proximas_entregas": {
-      "pt": "Conclusão dos lotes prioritários da Fase 1 no Ceará até o Porto do Pecém e retomada pública das obras do ramal Salgueiro–Suape em Pernambuco.",
-      "en": "Completion of Phase 1 lots in Ceará toward the Port of Pecém and public resumption of the Salgueiro–Suape branch in Pernambuco."
-    },
-    "resumo_pt": "Grande ferrovia de integração regional do Nordeste brasileiro, ligando o cerrado piauiense (Eliseu Martins) a Salgueiro (PE) e ao Porto do Pecém (CE), com retomada do ramal pernambucano até o Porto de Suape pelo Novo PAC.",
-    "resumo_en": "Major freight railway across Northeastern Brazil, linking southern Piauí (Eliseu Martins) to Salgueiro (PE) and the Port of Pecém (CE), alongside the federal resumption of the Suape Port branch.",
-    "foto": null,
-    "fontes": [
-      "antt-ferrovias-oficial"
-    ],
-    "atualizado_em": "2026-11-11",
-    "tags": [
-      "ceara",
-      "pernambuco",
-      "carga",
-      "ferrovia de carga",
-      "logística"
-    ],
-    "lat": -6.3612,
-    "lon": -40.1212,
-    "zoom_inicial": 6.2,
-    "camada": "carga_projetos",
-    "verificado_completo": false
-  },
-  {
-    "id": "autorizacoes-antt",
-    "slug": "autorizacoes-antt",
-    "nome_pt": "Autorizações Ferroviárias da ANTT (Regime Privado)",
-    "nome_en": "ANTT Private Rail Authorizations",
-    "tipo": "projeto",
-    "pais": "Brasil",
-    "uf": "BR",
-    "cidade": "Múltiplos eixos estaduais (MS, PR, SC, MG, PA, MT)",
-    "regiao_metropolitana": "Malha Nacional de Projetos Autorizados",
-    "operador": "Operadores privados autorizados pela ANTT (ex.: Arauco, Rumo, VLI, Petrocity)",
-    "status": "projeto",
-    "inauguracao": null,
-    "extensao_km": null,
-    "n_linhas": null,
-    "n_estacoes": null,
-    "passageiros_dia": null,
-    "ano_referencia": null,
-    "investimento": null,
-    "proximas_entregas": {
-      "pt": "Ramais industriais de celulose em Mato Grosso do Sul (Inocência/Arauco) e estudos de novos corredores portuários.",
-      "en": "Industrial pulp rail spurs in Mato Grosso do Sul (Inocência/Arauco) and port corridor studies."
-    },
-    "resumo_pt": "Conjunto de projetos ferroviários solicitados pela iniciativa privada sob o regime de autorização da Lei das Ferrovias (Lei nº 14.273/2021) regulados pela ANTT, abrangendo ramais industriais (como celulose e mineração) e conexões portuárias.",
-    "resumo_en": "Portfolio of private railway projects authorized by ANTT under Brazil's 2021 Railway Law (Law 14,273/2021), encompassing industrial spurs (pulp, mining) and port links.",
-    "foto": null,
-    "fontes": [
-      "antt-ferrovias-oficial"
-    ],
-    "atualizado_em": "2026-11-11",
-    "tags": [
-      "carga",
-      "ferrovia de carga",
-      "ferrovias",
-      "investimento"
-    ],
-    "lat": -20.4612,
-    "lon": -52.5012,
-    "zoom_inicial": 5.5,
-    "camada": "carga_projetos",
-    "verificado_completo": false
-  },
-  {
-    "id": "tic-eixo-norte-sp",
-    "slug": "tic-eixo-norte-sp",
-    "nome_pt": "Trem Intercidades Eixo Norte (São Paulo–Campinas)",
-    "nome_en": "North Axis Intercity Rail (São Paulo–Campinas)",
-    "cidade": "São Paulo / Jundiaí / Campinas",
-    "uf": "SP",
-    "regiao_metropolitana": "Macrometrópole Paulista",
     "pais": "BR",
-    "tipo": "trem_regional",
-    "status": "obras",
-    "camada": "passageiros",
-    "operador": "C2 Mobilidade Sobre Trilhos (TIC Trens)",
-    "inauguracao": null,
-    "extensao_km": 101.0,
+    "uf": "ES/MG",
+    "cidade": "Cariacica (Grande Vitória) – Governador Valadares – Belo Horizonte",
+    "regiao_metropolitana": "Corredor Leste (ES / MG)",
+    "operador": "Vale S.A.",
+    "status": "operacao",
+    "inauguracao": "1904-05-13",
+    "extensao_km": 905.0,
     "n_linhas": 1,
-    "n_estacoes": 4,
-    "passageiros_dia": null,
-    "ano_referencia": 2026,
-    "bitola": "1600 mm (larga)",
-    "eletrificacao": "3000 V CC (catenária aérea)",
-    "sinalizacao": "ETCS Nível 2",
-    "frota_trens": null,
-    "velocidade_max_kmh": 140,
-    "investimento_brl": "R$ 14,2 bilhões (PPP Governo de SP)",
-    "proximas_entregas_pt": "Implantação do serviço expresso Barra Funda–Jundiaí–Campinas e do Trem Intermetropolitano (TIM) Jundiaí–Campinas.",
-    "proximas_entregas_en": "Implementation of the Barra Funda–Jundiaí–Campinas express service and Jundiaí–Campinas Intermetropolitan Train (TIM).",
-    "lat": -23.1857,
-    "lon": -46.8978,
-    "zoom_inicial": 9.2,
-    "verificado_completo": false,
-    "geometria_aproximada": true,
-    "resumo_pt": "Primeiro trem regional de média velocidade concedido em parceria público-privada no Brasil, conectando a Estação Palmeiras-Barra Funda (São Paulo) a Jundiaí e Campinas em 101 km de extensão.",
-    "resumo_en": "Brazil's first medium-speed regional passenger rail PPP, linking Palmeiras-Barra Funda station in São Paulo to Jundiaí and Campinas across 101 km.",
+    "n_estacoes": 30,
+    "passageiros_dia": 2400,
+    "ano_referencia": 2024,
+    "investimento": null,
+    "proximas_entregas": {
+      "pt": "Operação diária do trem de passageiros de longa distância entre Belo Horizonte (MG) e Cariacica (ES) com frota modernizada.",
+      "en": "Daily long-distance passenger service between Belo Horizonte (MG) and Cariacica (ES) with modernized fleet."
+    },
+    "resumo_pt": "Uma das mais importantes ferrovias em operação no Brasil e uma das duas únicas linhas de trem de passageiros de longa distância com circulação diária no país, ligando a Região Metropolitana de Belo Horizonte à Grande Vitória ao longo de 905 km.",
+    "resumo_en": "One of Brazil's flagship operational railways and one of only two daily long-distance intercity passenger train services in the country, connecting Belo Horizonte (MG) to Greater Vitória (ES) across 905 km.",
     "foto": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Estacao_da_Luz_SP.jpg",
-      "credito": "Wilfredor / Wikimedia Commons",
-      "licenca": "CC BY-SA 4.0",
-      "fonte_url": "https://commons.wikimedia.org/wiki/File:Estacao_da_Luz_SP.jpg"
+      "credito": "Wikimedia Commons",
+      "licenca": "cc-by-sa",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Estacao_da_Luz_SP.jpg"
     },
-    "linhas_resumo": [
-      {
-        "id": "tic-norte-expresso",
-        "nome": "TIC Eixo Norte (São Paulo – Jundiaí – Campinas)",
-        "cor": "#0284c7",
-        "status": "obras",
-        "extensao_km": 101.0,
-        "estacoes": 4
-      }
-    ],
-    "tags": [
-      "trem intercidades",
-      "campinas",
-      "são paulo",
-      "jundiaí",
-      "tic trens",
-      "ferrovia intercidades"
-    ],
     "fontes": [
-      "cptm-2024",
+      "antt-2024",
       "anptrilhos-2024",
       "osm-odbl"
     ],
-    "atualizado_em": "2026-11-11"
-  },
-  {
-    "id": "vlt-brasilia",
-    "slug": "vlt-brasilia",
-    "nome_pt": "VLT de Brasília (Corredor W3 e Aeroporto)",
-    "nome_en": "Brasília Light Rail (W3 Corridor & Airport)",
-    "cidade": "Brasília",
-    "uf": "DF",
-    "regiao_metropolitana": "Região Integrada de Desenvolvimento do DF e Entorno",
-    "pais": "BR",
-    "tipo": "vlt",
-    "status": "projeto",
+    "atualizado_em": "2026-11-11",
+    "tags": [
+      "efvm",
+      "vitória a minas",
+      "minas gerais",
+      "espírito santo",
+      "trem de passageiros",
+      "vale"
+    ],
+    "lat": -19.52,
+    "lon": -41.65,
+    "zoom_inicial": 7.5,
     "camada": "passageiros",
-    "operador": "Secretaria de Transporte e Mobilidade do DF (Semob/Metrô-DF)",
-    "inauguracao": null,
-    "extensao_km": 22.6,
-    "n_linhas": 1,
-    "n_estacoes": null,
-    "passageiros_dia": null,
-    "ano_referencia": 2026,
-    "bitola": "1435 mm (padrão)",
-    "eletrificacao": "Alimentação pelo solo (APS) / baterias sem catenária no Plano Piloto",
-    "sinalizacao": null,
-    "frota_trens": null,
-    "velocidade_max_kmh": null,
-    "investimento_brl": null,
-    "proximas_entregas_pt": "Projeto estruturante ao longo da Avenida W3 Sul/Norte e ligação ao Aeroporto Internacional de Brasília sem fiação aérea para preservação do tombamento urbanístico.",
-    "proximas_entregas_en": "Light rail project along W3 South/North Avenue and Brasília International Airport using catenary-free ground-level power supply.",
-    "lat": -15.7998,
-    "lon": -47.892,
-    "zoom_inicial": 11.8,
-    "verificado_completo": false,
-    "geometria_aproximada": true,
-    "resumo_pt": "Projeto de Veículo Leve sobre Trilhos para o eixo da Avenida W3 Sul e Norte e conexão ao Aeroporto de Brasília, concebido com alimentação sem fiação aérea para atender às exigências patrimoniais do Plano Piloto.",
-    "resumo_en": "Light rail project along Brasília's W3 South/North Avenue and Airport corridor, designed with catenary-free traction to preserve the UNESCO World Heritage skyline.",
-    "foto": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Metr%C3%B4_DF.jpg",
-      "credito": "Agência Brasília / Wikimedia Commons",
-      "licenca": "CC BY 3.0 BR",
-      "fonte_url": "https://commons.wikimedia.org/wiki/File:Metr%C3%B4_DF.jpg"
-    },
-    "linhas_resumo": [
-      {
-        "id": "vlt-bsb-w3",
-        "nome": "Corredor W3 Sul/Norte – Aeroporto",
-        "cor": "#eab308",
-        "status": "projeto",
-        "extensao_km": 22.6,
-        "estacoes": null
-      }
-    ],
-    "tags": [
-      "vlt",
-      "brasília",
-      "distrito federal",
-      "w3"
-    ],
-    "fontes": [
-      "anptrilhos-2024",
-      "osm-odbl"
-    ],
-    "atualizado_em": "2026-11-11"
-  },
-  {
-    "id": "linha-3-metro-rj",
-    "slug": "linha-3-metro-rj",
-    "nome_pt": "Linha 3 do Metrô do Rio (Rio–Niterói–São Gonçalo)",
-    "nome_en": "Rio Metro Line 3 (Rio–Niterói–São Gonçalo)",
-    "cidade": "Niterói / São Gonçalo / Rio de Janeiro",
-    "uf": "RJ",
-    "regiao_metropolitana": "Região Metropolitana do Rio de Janeiro",
-    "pais": "BR",
-    "tipo": "projeto",
-    "status": "projeto",
-    "camada": "carga_projetos",
-    "operador": "Governo do Estado do Rio de Janeiro / Setrans-RJ",
-    "inauguracao": null,
-    "extensao_km": 22.0,
-    "n_linhas": 1,
-    "n_estacoes": 14,
-    "passageiros_dia": null,
-    "ano_referencia": 2026,
-    "bitola": "1600 mm (prevista)",
-    "eletrificacao": null,
-    "sinalizacao": null,
-    "frota_trens": null,
-    "velocidade_max_kmh": null,
-    "investimento_brl": null,
-    "proximas_entregas_pt": "Estudos de viabilidade para travessia subaquática da Baía de Guanabara (Praça XV–Arariboia) e eixo Niterói–São Gonçalo (Guaxindiba).",
-    "proximas_entregas_en": "Feasibility studies for the Guanabara Bay underwater tunnel (Praça XV–Arariboia) and the Niterói–São Gonçalo corridor.",
-    "lat": -22.8832,
-    "lon": -43.1034,
-    "zoom_inicial": 11.4,
-    "verificado_completo": false,
-    "geometria_aproximada": true,
-    "resumo_pt": "Projeto histórico de expansão metroferroviária na Região Metropolitana do Rio de Janeiro prevendo túnel subaquático sob a Baía de Guanabara entre o Centro do Rio (Carioca/Praça XV), Niterói e São Gonçalo.",
-    "resumo_en": "Long-planned metropolitan rail expansion across Greater Rio featuring an underwater tunnel beneath Guanabara Bay linking Downtown Rio, Niterói and São Gonçalo.",
-    "foto": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Metro_Rio.jpg",
-      "credito": "Wilfredor / Wikimedia Commons",
-      "licenca": "Public Domain",
-      "fonte_url": "https://commons.wikimedia.org/wiki/File:Metro_Rio.jpg"
-    },
-    "linhas_resumo": [
-      {
-        "id": "rj-linha3-projeto",
-        "nome": "Linha 3 (Praça XV – Arariboia – Alcântara – Guaxindiba)",
-        "cor": "#2563eb",
-        "status": "projeto",
-        "extensao_km": 22.0,
-        "estacoes": 14
-      }
-    ],
-    "tags": [
-      "linha 3",
-      "niteroi",
-      "niterói",
-      "são gonçalo",
-      "metro rio",
-      "rio de janeiro"
-    ],
-    "fontes": [
-      "agetransp-2024",
-      "anptrilhos-2024",
-      "osm-odbl"
-    ],
-    "atualizado_em": "2026-11-11"
+    "verificado_completo": true
   }
 ]

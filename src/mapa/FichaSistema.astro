@@ -28,10 +28,10 @@ const tiposMap: Record<string, string> = t.tipos;
 const statusMap: Record<string, string> = t.status;
 
 const STATUS_COLORS: Record<string, string> = {
-	operacao: '#0d9488',
-	obras: '#d97706',
-	projeto: '#2563eb',
-	paralisado: '#dc2626',
+	operacao: '#10b981',
+	obras: '#f59e0b',
+	projeto: '#8b5cf6',
+	paralisado: '#ef4444',
 	desativado: '#64748b',
 };
 
@@ -323,6 +323,21 @@ const miniMapPayload = JSON.stringify({
 						maxzoom: 19,
 					},
 					{
+						id: 'sys-lines-glow',
+						type: 'line',
+						source: 'sys-lines',
+						layout: {
+							'line-join': 'round',
+							'line-cap': 'round',
+						},
+						paint: {
+							'line-color': stColor || '#10b981',
+							'line-width': 10,
+							'line-blur': 4,
+							'line-opacity': sistema.status === 'operacao' ? 0.55 : 0.2,
+						},
+					},
+					{
 						id: 'sys-lines-layer',
 						type: 'line',
 						source: 'sys-lines',
@@ -331,7 +346,7 @@ const miniMapPayload = JSON.stringify({
 							'line-cap': 'round',
 						},
 						paint: {
-							'line-color': ['coalesce', ['get', 'cor'], stColor || '#0455A1'],
+							'line-color': stColor || '#10b981',
 							'line-width': 4.8,
 						},
 					},
@@ -340,10 +355,10 @@ const miniMapPayload = JSON.stringify({
 						type: 'circle',
 						source: 'sys-stations',
 						paint: {
-							'circle-radius': 4.8,
+							'circle-radius': 5.2,
 							'circle-color': '#ffffff',
-							'circle-stroke-width': 2.2,
-							'circle-stroke-color': '#0f172a',
+							'circle-stroke-width': 2.4,
+							'circle-stroke-color': stColor || '#059669',
 						},
 					},
 					{
@@ -351,8 +366,8 @@ const miniMapPayload = JSON.stringify({
 						type: 'circle',
 						source: 'sys-center',
 						paint: {
-							'circle-radius': 7,
-							'circle-color': stColor || '#0d9488',
+							'circle-radius': 7.5,
+							'circle-color': stColor || '#10b981',
 							'circle-stroke-width': 2.5,
 							'circle-stroke-color': '#ffffff',
 						},
@@ -365,6 +380,30 @@ const miniMapPayload = JSON.stringify({
 		});
 
 		map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+
+		const miniHoverPopup = new maplibregl.Popup({
+			closeButton: false,
+			closeOnClick: false,
+			offset: 10,
+		});
+
+		map.on('mouseenter', 'sys-stations-layer', () => {
+			map.getCanvas().style.cursor = 'pointer';
+		});
+		map.on('mouseleave', 'sys-stations-layer', () => {
+			map.getCanvas().style.cursor = '';
+			miniHoverPopup.remove();
+		});
+		map.on('mousemove', 'sys-stations-layer', (e: any) => {
+			const feat = e.features?.[0];
+			if (!feat) return;
+			const props = feat.properties || {};
+			const coords = (feat.geometry as any).coordinates.slice();
+			miniHoverPopup
+				.setLngLat(coords)
+				.setHTML(`<strong>🚉 ${props.nome || ''}</strong><br/><small>${props.linha || ''}</small>`)
+				.addTo(map);
+		});
 	}
 
 	if (document.readyState === 'loading') {
