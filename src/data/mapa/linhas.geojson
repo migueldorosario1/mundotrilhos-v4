@@ -567,6 +567,170 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "sistema_id": "grand-paris-express",
+        "sistema_nome_pt": "Grand Paris Express (Linhas 15, 16, 17 e 18 Automatizadas — Em obras)",
+        "sistema_nome_en": "Grand Paris Express (Automated Lines 15, 16, 17 & 18 — Under Construction)",
+        "linha": "Grand Paris Express Linha 15 (Anel Metropolitano Subterrâneo — 75 km em obras)",
+        "status": "obras",
+        "tipo": "metro",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.226,
+            48.829
+          ],
+          [
+            2.304,
+            48.803
+          ],
+          [
+            2.362,
+            48.788
+          ],
+          [
+            2.465,
+            48.812
+          ],
+          [
+            2.551,
+            48.842
+          ],
+          [
+            2.482,
+            48.905
+          ],
+          [
+            2.346,
+            48.918
+          ],
+          [
+            2.238,
+            48.892
+          ],
+          [
+            2.226,
+            48.829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "grand-paris-express",
+        "sistema_nome_pt": "Grand Paris Express (Linhas 15, 16, 17 e 18 Automatizadas — Em obras)",
+        "sistema_nome_en": "Grand Paris Express (Automated Lines 15, 16, 17 & 18 — Under Construction)",
+        "linha": "Grand Paris Express Linha 18 (Aeroporto de Orly – Massy-Palaiseau – Saclay – Versailles — Em obras)",
+        "status": "obras",
+        "tipo": "metro",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.365,
+            48.728
+          ],
+          [
+            2.258,
+            48.725
+          ],
+          [
+            2.185,
+            48.712
+          ],
+          [
+            2.072,
+            48.765
+          ],
+          [
+            2.144,
+            48.795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-val-lille-toulouse-rennes",
+        "sistema_nome_pt": "Metrôs Automáticos VAL da França (Lille, Toulouse e Rennes)",
+        "sistema_nome_en": "French VAL Automated Metros (Lille, Toulouse & Rennes)",
+        "linha": "Metrô de Toulouse Linha C (Colomiers – Blagnac Airbus – Matabiau – Labège — 27 km em obras)",
+        "status": "obras",
+        "tipo": "metro",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.334,
+            43.604
+          ],
+          [
+            1.396,
+            43.625
+          ],
+          [
+            1.454,
+            43.611
+          ],
+          [
+            1.485,
+            43.575
+          ],
+          [
+            1.518,
+            43.542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tgv-atlantique-nord-est-europa",
+        "sistema_nome_pt": "Malha TGV Atlantique (Bordeaux), Nord (Eurostar) e Est Européen (Recorde Mundial 574,8 km/h)",
+        "sistema_nome_en": "TGV Atlantique (Bordeaux), Nord (Eurostar) & Est Européen Network (574.8 km/h World Record)",
+        "linha": "TAV Transalpino Lyon–Turim (Túnel de Base do Mont d'Ambin 57,5 km — Em obras)",
+        "status": "obras",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.859,
+            45.76
+          ],
+          [
+            5.92,
+            45.564
+          ],
+          [
+            6.345,
+            45.28
+          ],
+          [
+            7.05,
+            45.14
+          ],
+          [
+            7.669,
+            45.066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "linha-1",
       "properties": {
         "sistema_id": "metro-sp",
@@ -3760,6 +3924,543 @@
           [
             140.648,
             41.904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-paris",
+        "sistema_nome_pt": "Metrô de Paris (RATP — 16 Linhas)",
+        "sistema_nome_en": "Paris Métro (RATP — 16 Lines)",
+        "linha": "Linha 1 Automática (La Défense – Arc de Triomphe – Châtelet – Bastille – Vincennes)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.238,
+            48.892
+          ],
+          [
+            2.295,
+            48.874
+          ],
+          [
+            2.321,
+            48.866
+          ],
+          [
+            2.347,
+            48.859
+          ],
+          [
+            2.369,
+            48.853
+          ],
+          [
+            2.396,
+            48.847
+          ],
+          [
+            2.44,
+            48.844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-paris",
+        "sistema_nome_pt": "Metrô de Paris (RATP — 16 Linhas)",
+        "sistema_nome_en": "Paris Métro (RATP — 16 Lines)",
+        "linha": "Linha 4 Automática (Porte de Clignancourt – Gare du Nord – Châtelet – Montparnasse – Bagneux)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.344,
+            48.897
+          ],
+          [
+            2.355,
+            48.88
+          ],
+          [
+            2.347,
+            48.859
+          ],
+          [
+            2.332,
+            48.851
+          ],
+          [
+            2.322,
+            48.842
+          ],
+          [
+            2.326,
+            48.823
+          ],
+          [
+            2.316,
+            48.803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-paris",
+        "sistema_nome_pt": "Metrô de Paris (RATP — 16 Linhas)",
+        "sistema_nome_en": "Paris Métro (RATP — 16 Lines)",
+        "linha": "Linha 14 Expressa Automática (Saint-Denis Pleyel – Saint-Lazare – Châtelet – Gare de Lyon – Aeroporto de Orly)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.346,
+            48.918
+          ],
+          [
+            2.325,
+            48.876
+          ],
+          [
+            2.347,
+            48.859
+          ],
+          [
+            2.373,
+            48.844
+          ],
+          [
+            2.379,
+            48.83
+          ],
+          [
+            2.362,
+            48.788
+          ],
+          [
+            2.365,
+            48.728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rer-transilien-paris",
+        "sistema_nome_pt": "RER e Transilien de Paris (Rede Expressa Regional — Linhas A, B, C, D e E)",
+        "sistema_nome_en": "Paris RER & Transilien Regional Express Network (Lines A, B, C, D and E)",
+        "linha": "RER A (La Défense – Châtelet-Les Halles – Gare de Lyon – Marne-la-Vallée Disneyland)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.158,
+            48.896
+          ],
+          [
+            2.238,
+            48.892
+          ],
+          [
+            2.295,
+            48.874
+          ],
+          [
+            2.347,
+            48.862
+          ],
+          [
+            2.373,
+            48.844
+          ],
+          [
+            2.396,
+            48.848
+          ],
+          [
+            2.583,
+            48.842
+          ],
+          [
+            2.783,
+            48.87
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rer-transilien-paris",
+        "sistema_nome_pt": "RER e Transilien de Paris (Rede Expressa Regional — Linhas A, B, C, D e E)",
+        "sistema_nome_en": "Paris RER & Transilien Regional Express Network (Lines A, B, C, D and E)",
+        "linha": "RER B (Aeroporto Charles de Gaulle – Gare du Nord – Châtelet-Les Halles – Massy-Palaiseau)",
+        "status": "operacao",
+        "tipo": "trem_urbano",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.571,
+            49.004
+          ],
+          [
+            2.46,
+            48.94
+          ],
+          [
+            2.362,
+            48.92
+          ],
+          [
+            2.355,
+            48.88
+          ],
+          [
+            2.347,
+            48.862
+          ],
+          [
+            2.337,
+            48.834
+          ],
+          [
+            2.258,
+            48.725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-vlt-lyon",
+        "sistema_nome_pt": "Metrô e VLT de Lyon (TCL — 4 Linhas de Metrô e 7 de Tramway)",
+        "sistema_nome_en": "Lyon Metro & Tramway Network (TCL — 4 Metro Lines & 7 Tram Lines)",
+        "linha": "Metrô de Lyon Linha D Automática (Gare de Vaise – Bellecour – Grange Blanche – Gare de Vénissieux)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.804,
+            45.78
+          ],
+          [
+            4.832,
+            45.758
+          ],
+          [
+            4.855,
+            45.752
+          ],
+          [
+            4.879,
+            45.743
+          ],
+          [
+            4.888,
+            45.705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-vlt-lyon",
+        "sistema_nome_pt": "Metrô e VLT de Lyon (TCL — 4 Linhas de Metrô e 7 de Tramway)",
+        "sistema_nome_en": "Lyon Metro & Tramway Network (TCL — 4 Metro Lines & 7 Tram Lines)",
+        "linha": "Metrô de Lyon Linha B (Charpennes – Gare Part-Dieu – Oullins – Saint-Genis-Laval)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.863,
+            45.77
+          ],
+          [
+            4.859,
+            45.76
+          ],
+          [
+            4.842,
+            45.735
+          ],
+          [
+            4.815,
+            45.716
+          ],
+          [
+            4.794,
+            45.695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-val-lille-toulouse-rennes",
+        "sistema_nome_pt": "Metrôs Automáticos VAL da França (Lille, Toulouse e Rennes)",
+        "sistema_nome_en": "French VAL Automated Metros (Lille, Toulouse & Rennes)",
+        "linha": "Metrô de Lille Linha 1 VAL (1º Metrô Automático do Mundo — CHU Eurasanté a Quatre Cantons)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.035,
+            50.61
+          ],
+          [
+            3.057,
+            50.63
+          ],
+          [
+            3.07,
+            50.636
+          ],
+          [
+            3.118,
+            50.625
+          ],
+          [
+            3.14,
+            50.606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-val-lille-toulouse-rennes",
+        "sistema_nome_pt": "Metrôs Automáticos VAL da França (Lille, Toulouse e Rennes)",
+        "sistema_nome_en": "French VAL Automated Metros (Lille, Toulouse & Rennes)",
+        "linha": "Metrô de Toulouse Linha A VAL (Basso Cambo – Capitole – Marengo SNCF – Balma-Gramont)",
+        "status": "operacao",
+        "tipo": "metro",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.392,
+            43.57
+          ],
+          [
+            1.444,
+            43.604
+          ],
+          [
+            1.454,
+            43.611
+          ],
+          [
+            1.483,
+            43.628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tgv-sud-est-mediterranee",
+        "sistema_nome_pt": "TGV Sud-Est, Rhône-Alpes e Méditerranée (Paris – Lyon – Marselha / Montpellier, 320 km/h)",
+        "sistema_nome_en": "TGV Sud-Est, Rhône-Alpes & Méditerranée (Paris – Lyon – Marseille / Montpellier, 320 km/h)",
+        "linha": "LGV Sud-Est, Rhône-Alpes & Méditerranée (Paris – Lyon – Valence – Avignon – Aix – Marselha, 320 km/h)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.373,
+            48.844
+          ],
+          [
+            3.25,
+            47.95
+          ],
+          [
+            4.427,
+            46.765
+          ],
+          [
+            4.859,
+            45.76
+          ],
+          [
+            4.978,
+            44.991
+          ],
+          [
+            4.786,
+            43.921
+          ],
+          [
+            5.317,
+            43.455
+          ],
+          [
+            5.38,
+            43.303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tgv-atlantique-nord-est-europa",
+        "sistema_nome_pt": "Malha TGV Atlantique (Bordeaux), Nord (Eurostar) e Est Européen (Recorde Mundial 574,8 km/h)",
+        "sistema_nome_en": "TGV Atlantique (Bordeaux), Nord (Eurostar) & Est Européen Network (574.8 km/h World Record)",
+        "linha": "LGV Atlantique & Sud Europe Atlantique (Paris Montparnasse – Tours – Poitiers – Bordeaux, 320 km/h)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.322,
+            48.842
+          ],
+          [
+            1.35,
+            48.1
+          ],
+          [
+            0.725,
+            47.386
+          ],
+          [
+            0.333,
+            46.582
+          ],
+          [
+            0.172,
+            45.653
+          ],
+          [
+            -0.556,
+            44.826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tgv-atlantique-nord-est-europa",
+        "sistema_nome_pt": "Malha TGV Atlantique (Bordeaux), Nord (Eurostar) e Est Européen (Recorde Mundial 574,8 km/h)",
+        "sistema_nome_en": "TGV Atlantique (Bordeaux), Nord (Eurostar) & Est Européen Network (574.8 km/h World Record)",
+        "linha": "LGV Nord & Eurostar (Paris Gare du Nord – Lille Europe – Calais-Fréthun / Eurotúnel)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.355,
+            48.88
+          ],
+          [
+            2.78,
+            49.86
+          ],
+          [
+            3.075,
+            50.639
+          ],
+          [
+            2.35,
+            50.85
+          ],
+          [
+            1.811,
+            50.902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tgv-atlantique-nord-est-europa",
+        "sistema_nome_pt": "Malha TGV Atlantique (Bordeaux), Nord (Eurostar) e Est Européen (Recorde Mundial 574,8 km/h)",
+        "sistema_nome_en": "TGV Atlantique (Bordeaux), Nord (Eurostar) & Est Européen Network (574.8 km/h World Record)",
+        "linha": "LGV Est Européen (Paris Est – Reims/Champagne – Lorraine – Estrasburgo — Recorde 574,8 km/h)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.359,
+            48.877
+          ],
+          [
+            3.997,
+            49.214
+          ],
+          [
+            5.271,
+            48.978
+          ],
+          [
+            6.17,
+            48.958
+          ],
+          [
+            7.734,
+            48.585
           ]
         ]
       }
