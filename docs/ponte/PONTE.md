@@ -32,6 +32,9 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
     2. **31 projetos brasileiros mapeados em `src/data/mapa/sistemas.json` e `linhas.geojson` (52 linhas):** adicionados `tic-eixo-norte-sp` (Trem Intercidades São Paulo–Campinas), `vlt-brasilia` (VLT de Brasília W3–Aeroporto) e `linha-3-metro-rj` (Linha 3 Metrô Rio–Niterói–São Gonçalo) aos 28 sistemas anteriores, totalizando **31 sistemas e 718 páginas estáticas geradas no `npm run build` (0 erros)**.
   - **O que aguarda a Carina VLT:** revisão da lista dos 31 sistemas brasileiros em `src/data/mapa/sistemas.json` e eventuais diretrizes editoriais/conceituais na `Caixa de entrada`.
 
+- [2026-11-11 14:07] [ANTIGRAVITY] Ronda #2 + Versão Bilíngue Completa (PT-BR e EN) no Mundo Trilhos!
+  - **Ordem direta do Miguel cumprida:** habilitadas dentro do próprio Mundo Trilhos as rotas em inglês `/mapa/en` e as 31 fichas técnicas `/mapa/en/[slug]`, com botão seletor **🇧🇷 Português | 🇺🇸 English** no topo do mapa e de todas as fichas (`750 page(s) built`, 0 erros).
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -40,10 +43,15 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 13:40] [ANTIGRAVITY] #001 Checkpoint Sprint (Hora 1 + Carga de 31 Sistemas Brasileiros) — Implementada a alternância Globo Terrestre 3D (`projection: { type: 'globe' }`) ↔ Mapa-múndi Plano (`mercator`) + botão Visão Planetária em `src/mapa/MapaApp.astro` (`pt-br.json` e `en.json`), e completada a base com **31 projetos brasileiros** em `src/data/mapa/sistemas.json` (`718 page(s) built`, 0 erros) — PR #1 atualizado (`feat/mapa-trilhos-esqueleto`) — próximo passo: aguardar feedback/pautas da Carina VLT na Caixa de entrada e preparar proposta de integração na capa em branch dedicada.
 
+- [2026-11-11 14:07] [ANTIGRAVITY] #002 Versão Bilíngue (PT-BR e EN) ativa no Mundo Trilhos — Atendendo ordem direta do Miguel, criadas `src/pages/mapa/en/index.astro` e `src/pages/mapa/en/[slug].astro` e o seletor de idioma no topo de `MapaApp.astro` e `FichaSistema.astro`, gerando 64 páginas bilíngues do mapa (32 PT-BR + 32 EN, total do site `750 page(s) built` sem erros) — commit enviado em `feat/mapa-trilhos-esqueleto` (PR #1) — próximo passo: aguardar entradas da Carina VLT e autorização do Miguel para merge em `main`.
+
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
 - [2026-11-11 12:39] Autorizada a criação da Ponte com a Carina VLT (`antigravity-ponte-v1.md`) na branch `ponte-mapa-trilhos` (`docs/ponte/PONTE.md`), ronda de 30 em 30 minutos e Sprint de 4 horas hoje à tarde.
 
+- [2026-11-11 13:46] Miguel orientou disponibilizar o conteúdo do Mapa dos Trilhos tanto em português quanto em inglês dentro do próprio Mundo Trilhos.
+
 ## Log das rondas
 - [2026-11-11 13:25] [ANTIGRAVITY] ronda #0 (inauguração): ponte `docs/ponte/PONTE.md` criada na branch `ponte-mapa-trilhos`, PR #2 (draft) aberto e plano da Sprint de 4h (13:25–17:25 BRT) registrado.
 - [2026-11-11 13:40] [ANTIGRAVITY] ronda #1: nada novo na Caixa de entrada da Carina; entregue Checkpoint Hora 1 (Globo 3D ↔ Mapa-múndi Plano) + carga dos 31 projetos brasileiros no PR #1 (`718 page(s) built`).
+- [2026-11-11 14:07] [ANTIGRAVITY] ronda #2: nada novo da Carina na Caixa de entrada; cumprida ordem do Miguel ativando `/mapa/en` + 31 fichas `/mapa/en/[slug]` e botão PT/EN (`750 page(s) built`).
