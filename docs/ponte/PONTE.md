@@ -44,6 +44,11 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
     - 🇧🇷 Português: https://www.mundotrilhos.com/mapa (e 31 fichas `/mapa/[slug]`)
     - 🇺🇸 Inglês: https://www.mundotrilhos.com/mapa/en (e 31 fichas `/mapa/en/[slug]`)
 
+- [2026-11-11 15:08] [ANTIGRAVITY] Ronda #4 + Refinamento de Cores por Status, Luminosidade Verde "Em Operação", Destaque ao Clicar e Tooltip de Estação no Hover (`commit 1e73462` em `main`):
+  - **1. Cores de status 100% alinhadas à legenda + Luminosidade "Em operação":** Todos os sistemas e linhas em operação (`status == 'operacao'`, incluindo os 57 traçados com EFC, Ferrovia Norte-Sul, Rumo Malha Norte, EFVM e todas as redes urbanas) agora brilham em **verde-esmeralda luminoso (`#10b981`) com halo de luz (`#34d399`)**; sistemas em obras em laranja (`#f59e0b`), em projeto em roxo (`#8b5cf6`), paralisados em vermelho (`#ef4444`) e desativados em cinza (`#64748b`). Ajustadas coordenadas de sistemas sobrepostos em Brasília, Salvador, Rio e SP e ordenada a camada para que os sistemas em operação fiquem sempre no topo.
+  - **2. Clique destaca o sistema e esmaece os demais:** Ao clicar em qualquer sistema, linha ou estação (`applySystemHighlight`), o sistema selecionado fica 100% nítido e iluminado (`opacity: 1.0`, traço reforçado), enquanto todos os sistemas não clicados ficam clarinhos/meio apagados (`opacity: 0.15`).
+  - **3. Passar o mouse abre o nome da estação (`hoverPopup`):** Base expandida para **135 estações georreferenciadas** com camada de aproximação (`estacoes-hit-area`), abrindo instantaneamente o card com o **nome da estação, linha e sistema** ao passar o mouse por cima, além de chips clicáveis de estações na gaveta lateral.
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -56,6 +61,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 14:39] [ANTIGRAVITY] #003 Publicação em Produção (`main`) autorizada pelo Miguel — Adicionado link `🗺️ Mapa` em `src/components/Header.astro` e realizado o merge do PR #1 na branch `main` de `migueldorosario1/mundotrilhos-v4`. Deploy automático da Vercel disparado para `https://www.mundotrilhos.com/mapa` e `https://www.mundotrilhos.com/mapa/en`.
 
+- [2026-11-11 15:08] [ANTIGRAVITY] #004 Cores por Status + Luminosidade em Operação + Destaque ao Clicar + Nome da Estação no Hover — Cumprida nova diretriz visual/UX do Miguel: (1) verde-esmeralda luminoso (`#10b981` + halo `#34d399`) em todos os sistemas e linhas em operação (57 linhas georreferenciadas, incluindo EFC, FNS, Rumo Malha Norte e EFVM); (2) clicar num sistema deixa-o em destaque (`1.0`) e deixa os não clicados clarinhos/apagados (`0.15`); (3) passar o mouse sobre qualquer uma das 135 estações abre imediatamente o nome da estação, linha e sistema — publicado direto em `main` (`commit 1e73462`).
+
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
 - [2026-11-11 12:39] Autorizada a criação da Ponte com a Carina VLT (`antigravity-ponte-v1.md`) na branch `ponte-mapa-trilhos` (`docs/ponte/PONTE.md`), ronda de 30 em 30 minutos e Sprint de 4 horas hoje à tarde.
@@ -64,8 +71,11 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 14:38] Miguel autorizou publicar direto no site Mundo Trilhos («otimo. pode publicar entao direto no site mundo trilhos»). Merge do PR #1 executado na `main`.
 
+- [2026-11-11 14:46] Miguel determinou corrigir as cores de status no mapa para iluminar em verde tudo o que está em operação, destacar o sistema clicado deixando os demais clarinhos/meio apagados, e abrir o nome de cada estação ao passar o mouse em cima.
+
 ## Log das rondas
 - [2026-11-11 13:25] [ANTIGRAVITY] ronda #0 (inauguração): ponte `docs/ponte/PONTE.md` criada na branch `ponte-mapa-trilhos`, PR #2 (draft) aberto e plano da Sprint de 4h (13:25–17:25 BRT) registrado.
 - [2026-11-11 13:40] [ANTIGRAVITY] ronda #1: nada novo na Caixa de entrada da Carina; entregue Checkpoint Hora 1 (Globo 3D ↔ Mapa-múndi Plano) + carga dos 31 projetos brasileiros no PR #1 (`718 page(s) built`).
 - [2026-11-11 14:07] [ANTIGRAVITY] ronda #2: nada novo da Carina na Caixa de entrada; cumprida ordem do Miguel ativando `/mapa/en` + 31 fichas `/mapa/en/[slug]` e botão PT/EN (`750 page(s) built`).
 - [2026-11-11 14:34] [ANTIGRAVITY] ronda #3: nada novo na Caixa de entrada da Carina; registrado no Status o conserto dos tiles OpenStreetMap sem marca d'água e do `workerUrl` do MapLibre (`commit 77f9571`).
+- [2026-11-11 15:08] [ANTIGRAVITY] ronda #4: nada novo na Caixa de entrada da Carina; cumprida diretriz do Miguel sobre cores/luminosidade verde em operação (57 linhas), destaque ao clicar com esmaecimento dos não selecionados e tooltip de nome da estação no hover (135 estações), publicado em `main` (`commit 1e73462`).
