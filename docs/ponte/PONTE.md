@@ -53,6 +53,9 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - Atendendo à ordem direta do Miguel (*«bota aqui isso https://www.mundotrilhos.com/ ... Bota esse mapa na capa do site. Na capa.»*), o componente interativo `<MapaApp isHome={true} />` foi integrado no topo de `src/pages/index.astro`, com a tabela completa recolhível em `<details class="mapa-home-accordion">` para que os **Destaques** e as **Notícias** apareçam imediatamente abaixo do mapa interativo na capa!
   - Todos os 4 entregáveis da Sprint de 4h (Globo 3D ↔ Mapa Plano, 31 sistemas + 57 linhas + 135 estações, interação/hover/destaque/mobile e Mapa no topo da Capa) estão concluídos e publicados em produção!
 
+- [2026-11-11 16:04] [ANTIGRAVITY] Ronda #6 + Dessaturação do Mapa Rodoviário de Fundo e Borda de Trilho (`commit b8b1355` em `main`):
+  - Atendendo à observação do Miguel de que as cores das autovias/estradas do OpenStreetMap (verde/laranja) se confundiam com as cores das ferrovias, foi aplicado `'raster-saturation': -0.92` nos tiles de fundo (deixando todas as estradas, autovias e ruas em cinza-prata neutro) e adicionada borda dupla de trilho (`linhas-operacao-casing` `#064e3b` e `linhas-obras-casing` `#ffffff`), garantindo que **apenas as ferrovias tenham cor viva no mapa**.
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -69,6 +72,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 15:37] [ANTIGRAVITY] #005 Mapa Interativo na Capa do Mundo Trilhos (`index.astro`) — Cumprida ordem direta do Miguel para colocar o Mapa dos Trilhos no topo da capa (`https://www.mundotrilhos.com/`) com Destaques e Notícias imediatamente abaixo (`commit c3bd46c` em `main`).
 
+- [2026-11-11 16:04] [ANTIGRAVITY] #006 Dessaturação de Autovias e Contraste Exclusivo para Ferrovias — Aplicado fundo rodoviário neutro em cinza-prata (`raster-saturation: -0.92`) + borda de trilho (`casing`) para eliminar qualquer confusão entre autovias e ferrovias (`commit b8b1355` em `main`).
+
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
 - [2026-11-11 12:39] Autorizada a criação da Ponte com a Carina VLT (`antigravity-ponte-v1.md`) na branch `ponte-mapa-trilhos` (`docs/ponte/PONTE.md`), ronda de 30 em 30 minutos e Sprint de 4 horas hoje à tarde.
@@ -81,6 +86,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 
 - [2026-11-11 15:33] Miguel determinou colocar o Mapa dos Trilhos diretamente no topo da capa do Mundo Trilhos (`https://www.mundotrilhos.com/` — «bota aqui isso https://www.mundotrilhos.com/ ... Bota esse mapa na capa do site. Na capa.»).
 
+- [2026-11-11 15:44] Miguel determinou diferenciar totalmente as cores das ferrovias em relação às estradas/autovias do mapa de fundo («as estradas, as autovias, elas estão com a mesma cor da ferrovia em operação... tem que ser uma cor totalmente diferente da cor das estradas, da cor das ruas»).
+
 ## Log das rondas
 - [2026-11-11 13:25] [ANTIGRAVITY] ronda #0 (inauguração): ponte `docs/ponte/PONTE.md` criada na branch `ponte-mapa-trilhos`, PR #2 (draft) aberto e plano da Sprint de 4h (13:25–17:25 BRT) registrado.
 - [2026-11-11 13:40] [ANTIGRAVITY] ronda #1: nada novo na Caixa de entrada da Carina; entregue Checkpoint Hora 1 (Globo 3D ↔ Mapa-múndi Plano) + carga dos 31 projetos brasileiros no PR #1 (`718 page(s) built`).
@@ -88,3 +95,4 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 14:34] [ANTIGRAVITY] ronda #3: nada novo na Caixa de entrada da Carina; registrado no Status o conserto dos tiles OpenStreetMap sem marca d'água e do `workerUrl` do MapLibre (`commit 77f9571`).
 - [2026-11-11 15:08] [ANTIGRAVITY] ronda #4: nada novo na Caixa de entrada da Carina; cumprida diretriz do Miguel sobre cores/luminosidade verde em operação (57 linhas), destaque ao clicar com esmaecimento dos não selecionados e tooltip de nome da estação no hover (135 estações), publicado em `main` (`commit 1e73462`).
 - [2026-11-11 15:37] [ANTIGRAVITY] ronda #5: nada novo na Caixa de entrada da Carina; cumprida ordem do Miguel colocando o Mapa dos Trilhos no topo da capa `src/pages/index.astro` (`https://www.mundotrilhos.com/`) com Destaques e Notícias abaixo (`commit c3bd46c` em `main`).
+- [2026-11-11 16:04] [ANTIGRAVITY] ronda #6: nada novo na Caixa de entrada da Carina; registrada a dessaturação do mapa rodoviário de fundo (`raster-saturation: -0.92`) + borda de trilho nas ferrovias (`commit b8b1355` em `main`).
