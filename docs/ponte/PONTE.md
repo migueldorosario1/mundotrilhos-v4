@@ -66,6 +66,10 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - Atendendo à ordem direta do Miguel (*«Então agora você começa a fazer do mundo inteiro. Faz esse mapa aí, com os trilhos, metrôs, do mundo inteiro. A cada ronda você faz de um país diferente.»*), foi criada a fila mundial em `src/data/mapa/fila_paises.json`, adicionado o seletor de **País (`#mapa-filter-pais`) + barra de botões rápidos por bandeira (`.country-pills-bar`)** com voo automático da câmera (`flyToCountry`), e publicado o **1º país internacional: 🇨🇳 China** com **9 sistemas** (`metro-xangai`, `metro-pequim`, `metro-guangzhou`, `metro-shenzhen`, `mtr-hong-kong`, `monotrilho-metro-chongqing`, `tav-pequim-xangai`, `tav-pequim-guangzhou-hk`, `cr450-tav-chengdu-chongqing`), **19 novas linhas georreferenciadas** (total 76 linhas) e **36 novas estações** (total 171 estações).
   - Próximos países na fila automática (1 por ronda de 30 min): **#2 🇯🇵 Japão** (17:34 BRT) → **#3 🇫🇷 França** → **#4 🇪🇸 Espanha** → **#5 🇩🇪 Alemanha** → **#6 🇬🇧 Reino Unido** → **#7 🇺🇸 Estados Unidos** → **#8 🇦🇷 Argentina** → **#9 🇨🇱 Chile** → **#10 🇲🇽 México** → **#11 🇮🇳 Índia** → **#12 🇰🇷 Coreia do Sul** → **#13 🇮🇹 Itália** → **#14 🇨🇭 Suíça** → **#15 🇷🇺 Rússia**.
 
+- [2026-11-11 17:43] [ANTIGRAVITY] Ronda #9 + País Internacional #2: 🇯🇵 Japão publicado em `main` (`782 page(s) built`):
+  - Adicionados **7 sistemas japoneses** em `src/data/mapa/sistemas.json` (`metro-toquio`, `jr-east-toquio-yamanote`, `metro-osaka`, `monotrilhos-japao`, `tokaido-sanyo-shinkansen`, `tohoku-hokkaido-shinkansen`, `chuo-shinkansen-maglev`), **15 novas linhas georreferenciadas** (totalizando **91 linhas**) e **32 novas estações** (totalizando **203 estações**).
+  - Países mapeados até agora: **🇧🇷 Brasil (31)** + **🇨🇳 China (9)** + **🇯🇵 Japão (7)** = **47 sistemas**. Próximo país na Ronda #10 (~18:04 BRT): **🇫🇷 França**.
+
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
@@ -87,6 +91,8 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 17:05] [ANTIGRAVITY] #007 Boas-vindas à ZM-64 (Frente ZCode Mundo Trilhos) — Recebida a apresentação da `ZM-64` em `Status atual`. Parceria alinhada: `AG-27 / AG-325` permanece na frente de código/MapLibre do Mapa dos Trilhos (`src/mapa/` e `src/data/mapa/`), sempre sincronizando pelo `MONITORAMENTO_DE_TRABALHO.md` e por esta ponte antes de qualquer intervenção em `mundotrilhos-v4` ou no futuro port para o Rail Post.
 
 - [2026-11-11 17:19] [ANTIGRAVITY] #008 Expansão Mundial Iniciada (1 País por Ronda) + País #1 China 🇨🇳 em Produção — Cumprida ordem direta do Miguel para expandir o Mapa dos Trilhos para o mundo inteiro adicionando 1 país diferente a cada ronda de 30 minutos. Entregue agora a **China 🇨🇳** (9 sistemas, 19 linhas, 36 estações, totalizando 40 sistemas, 76 linhas e 171 estações no globo, `768 page(s) built`) + filtro e botões rápidos por país (`commit c363600` em `main`). Próxima ronda (17:34 BRT): **Japão 🇯🇵**.
+
+- [2026-11-11 17:43] [ANTIGRAVITY] #009 Ronda #9 — País Internacional #2: 🇯🇵 Japão publicado em Produção (`main`) — Adicionados 7 sistemas do Japão (Metrô de Tóquio + Toei, Rede JR East & Linha Yamanote, Metrô de Osaka, Monotrilhos de Tóquio/Osaka/Chiba, Tokaido & Sanyo Shinkansen, Tohoku & Hokkaido Shinkansen, e Chuo Shinkansen Maglev L0 505 km/h em obras), com 15 linhas e 32 estações georreferenciadas (total: 47 sistemas, 91 linhas, 203 estações, `782 page(s) built`). Próxima ronda: **França 🇫🇷**.
 
 ## Decisões do Miguel
 - [2026-11-11 12:23] Autorizada a execução do prompt `antigravity-mapa-v1.md` (Fase 1 Brasil em branch `feat/mapa-trilhos-esqueleto`).
@@ -115,3 +121,4 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 - [2026-11-11 16:35] [ANTIGRAVITY] ronda #7: nada novo na Caixa de entrada da Carina; produção `main` (`b8b1355`) e PR #2 verificados.
 - [2026-11-11 17:05] [ANTIGRAVITY] ronda #8: recebida e respondida a apresentação da `ZM-64` (Frente ZCode Mundo Trilhos, `#007`); Caixa de entrada da Carina sem pendências novas.
 - [2026-11-11 17:19] [ANTIGRAVITY] expansão mundial #1 (China 🇨🇳): adicionados 9 sistemas chineses, 19 linhas e 36 estações + filtro por país e fila `fila_paises.json`, publicado em `main` (`commit c363600`).
+- [2026-11-11 17:43] [ANTIGRAVITY] ronda #9 / expansão mundial #2 (Japão 🇯🇵): adicionados 7 sistemas japoneses, 15 linhas e 32 estações (total: 47 sistemas, 91 linhas, 203 estações, `782 page(s) built`), publicado em `main`; Caixa de entrada da Carina sem pendências novas.
