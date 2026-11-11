@@ -1,0 +1,1962 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "attribution": "© OpenStreetMap contributors (ODbL 1.0)",
+    "generated_at": "2026-11-11",
+    "script": "scripts/mapa/extract_osm_brasil.mjs"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "linha-1",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "linha": "Linha 1-Azul (Jabaquara – Tucuruvi)",
+        "cor": "#0455A1",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6408,
+            -23.6461
+          ],
+          [
+            -46.6409,
+            -23.6254
+          ],
+          [
+            -46.6368,
+            -23.6025
+          ],
+          [
+            -46.6387,
+            -23.5889
+          ],
+          [
+            -46.6408,
+            -23.5768
+          ],
+          [
+            -46.6384,
+            -23.5686
+          ],
+          [
+            -46.6342,
+            -23.5551
+          ],
+          [
+            -46.6333,
+            -23.5453
+          ],
+          [
+            -46.6345,
+            -23.5364
+          ],
+          [
+            -46.6321,
+            -23.5299
+          ],
+          [
+            -46.6251,
+            -23.5159
+          ],
+          [
+            -46.6248,
+            -23.5029
+          ],
+          [
+            -46.6206,
+            -23.4865
+          ],
+          [
+            -46.6033,
+            -23.4803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-2",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "linha": "Linha 2-Verde (Vila Prudente – Vila Madalena)",
+        "cor": "#007E5E",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5819,
+            -23.5844
+          ],
+          [
+            -46.5912,
+            -23.5924
+          ],
+          [
+            -46.6021,
+            -23.5997
+          ],
+          [
+            -46.6134,
+            -23.5955
+          ],
+          [
+            -46.6305,
+            -23.5892
+          ],
+          [
+            -46.6408,
+            -23.5768
+          ],
+          [
+            -46.6459,
+            -23.5686
+          ],
+          [
+            -46.6542,
+            -23.5612
+          ],
+          [
+            -46.6626,
+            -23.5553
+          ],
+          [
+            -46.6781,
+            -23.5535
+          ],
+          [
+            -46.6908,
+            -23.5465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-3",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "linha": "Linha 2-Verde Expansão (Vila Prudente – Penha)",
+        "cor": "#007E5E",
+        "status": "obras",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5819,
+            -23.5844
+          ],
+          [
+            -46.5712,
+            -23.574
+          ],
+          [
+            -46.561,
+            -23.5598
+          ],
+          [
+            -46.5522,
+            -23.5471
+          ],
+          [
+            -46.5441,
+            -23.5335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-4",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "linha": "Linha 3-Vermelha (Corinthians-Itaquera – Palmeiras-Barra Funda)",
+        "cor": "#EE372F",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4711,
+            -23.5422
+          ],
+          [
+            -46.4898,
+            -23.5403
+          ],
+          [
+            -46.5175,
+            -23.5356
+          ],
+          [
+            -46.5318,
+            -23.5318
+          ],
+          [
+            -46.5441,
+            -23.5335
+          ],
+          [
+            -46.5647,
+            -23.5387
+          ],
+          [
+            -46.5764,
+            -23.5406
+          ],
+          [
+            -46.5931,
+            -23.5432
+          ],
+          [
+            -46.6161,
+            -23.5453
+          ],
+          [
+            -46.6333,
+            -23.5453
+          ],
+          [
+            -46.6424,
+            -23.5438
+          ],
+          [
+            -46.6524,
+            -23.5354
+          ],
+          [
+            -46.6674,
+            -23.5255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-5",
+      "properties": {
+        "sistema_id": "metro-sp",
+        "linha": "Linha 15-Prata Monotrilho (Vila Prudente – Jardim Colonial)",
+        "cor": "#858D90",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5819,
+            -23.5844
+          ],
+          [
+            -46.5663,
+            -23.5815
+          ],
+          [
+            -46.5451,
+            -23.5878
+          ],
+          [
+            -46.5214,
+            -23.6001
+          ],
+          [
+            -46.4945,
+            -23.6062
+          ],
+          [
+            -46.4692,
+            -23.5993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-6",
+      "properties": {
+        "sistema_id": "viaquatro-viamobilidade",
+        "linha": "Linha 4-Amarela (Luz – Vila Sônia)",
+        "cor": "#FFD500",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6345,
+            -23.5364
+          ],
+          [
+            -46.6424,
+            -23.5438
+          ],
+          [
+            -46.6524,
+            -23.5515
+          ],
+          [
+            -46.6626,
+            -23.5553
+          ],
+          [
+            -46.6741,
+            -23.5621
+          ],
+          [
+            -46.6939,
+            -23.5669
+          ],
+          [
+            -46.7018,
+            -23.5719
+          ],
+          [
+            -46.7082,
+            -23.5861
+          ],
+          [
+            -46.7235,
+            -23.5978
+          ],
+          [
+            -46.7351,
+            -23.6038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-7",
+      "properties": {
+        "sistema_id": "viaquatro-viamobilidade",
+        "linha": "Linha 5-Lilás (Capão Redondo – Chácara Klabin)",
+        "cor": "#9B3894",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7681,
+            -23.6592
+          ],
+          [
+            -46.7429,
+            -23.6562
+          ],
+          [
+            -46.7209,
+            -23.6522
+          ],
+          [
+            -46.7077,
+            -23.6438
+          ],
+          [
+            -46.6989,
+            -23.6285
+          ],
+          [
+            -46.6789,
+            -23.6115
+          ],
+          [
+            -46.6561,
+            -23.6021
+          ],
+          [
+            -46.6368,
+            -23.6025
+          ],
+          [
+            -46.6305,
+            -23.5892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-8",
+      "properties": {
+        "sistema_id": "viaquatro-viamobilidade",
+        "linha": "Linha 8-Diamante (Júlio Prestes – Itapevi)",
+        "cor": "#9E9E93",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6401,
+            -23.5342
+          ],
+          [
+            -46.6674,
+            -23.5255
+          ],
+          [
+            -46.7024,
+            -23.5198
+          ],
+          [
+            -46.7745,
+            -23.5284
+          ],
+          [
+            -46.8492,
+            -23.5221
+          ],
+          [
+            -46.8794,
+            -23.5189
+          ],
+          [
+            -46.9341,
+            -23.5458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-9",
+      "properties": {
+        "sistema_id": "viaquatro-viamobilidade",
+        "linha": "Linha 9-Esmeralda (Osasco – Mendes-Vila Natal)",
+        "cor": "#00A88E",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7745,
+            -23.5284
+          ],
+          [
+            -46.7452,
+            -23.5432
+          ],
+          [
+            -46.7018,
+            -23.5719
+          ],
+          [
+            -46.6889,
+            -23.5952
+          ],
+          [
+            -46.6981,
+            -23.6251
+          ],
+          [
+            -46.7077,
+            -23.6438
+          ],
+          [
+            -46.7025,
+            -23.6812
+          ],
+          [
+            -46.6921,
+            -23.7295
+          ],
+          [
+            -46.6902,
+            -23.7662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-10",
+      "properties": {
+        "sistema_id": "cptm",
+        "linha": "Linha 7-Rubi (Barra Funda – Jundiaí)",
+        "cor": "#A6134F",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6674,
+            -23.5255
+          ],
+          [
+            -46.7024,
+            -23.5051
+          ],
+          [
+            -46.7341,
+            -23.4652
+          ],
+          [
+            -46.7481,
+            -23.3895
+          ],
+          [
+            -46.7432,
+            -23.3291
+          ],
+          [
+            -46.8265,
+            -23.2254
+          ],
+          [
+            -46.8712,
+            -23.1951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-11",
+      "properties": {
+        "sistema_id": "cptm",
+        "linha": "Linha 10-Turquesa (Luz – Rio Grande da Serra)",
+        "cor": "#008B9B",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6345,
+            -23.5364
+          ],
+          [
+            -46.6161,
+            -23.5453
+          ],
+          [
+            -46.5912,
+            -23.5924
+          ],
+          [
+            -46.5612,
+            -23.6154
+          ],
+          [
+            -46.5284,
+            -23.6531
+          ],
+          [
+            -46.4612,
+            -23.6712
+          ],
+          [
+            -46.3982,
+            -23.7412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-12",
+      "properties": {
+        "sistema_id": "cptm",
+        "linha": "Linha 11-Coral (Luz – Estudantes)",
+        "cor": "#F04E23",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6345,
+            -23.5364
+          ],
+          [
+            -46.6161,
+            -23.5453
+          ],
+          [
+            -46.5318,
+            -23.5318
+          ],
+          [
+            -46.4711,
+            -23.5422
+          ],
+          [
+            -46.4125,
+            -23.5382
+          ],
+          [
+            -46.3421,
+            -23.5261
+          ],
+          [
+            -46.2981,
+            -23.5351
+          ],
+          [
+            -46.1854,
+            -23.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-13",
+      "properties": {
+        "sistema_id": "cptm",
+        "linha": "Linha 12-Safira (Brás – Calmon Viana)",
+        "cor": "#1C2E63",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6161,
+            -23.5453
+          ],
+          [
+            -46.5764,
+            -23.5406
+          ],
+          [
+            -46.4892,
+            -23.4951
+          ],
+          [
+            -46.4182,
+            -23.4912
+          ],
+          [
+            -46.3481,
+            -23.4981
+          ],
+          [
+            -46.3341,
+            -23.5245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-14",
+      "properties": {
+        "sistema_id": "cptm",
+        "linha": "Linha 13-Jade (Engenheiro Goulart – Aeroporto-Guarulhos)",
+        "cor": "#00A859",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5214,
+            -23.4982
+          ],
+          [
+            -46.4982,
+            -23.4612
+          ],
+          [
+            -46.4851,
+            -23.4312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-15",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "linha": "Linha 1 (Uruguai – General Osório)",
+        "cor": "#F37021",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.2389,
+            -22.9319
+          ],
+          [
+            -43.2291,
+            -22.9225
+          ],
+          [
+            -43.2145,
+            -22.9122
+          ],
+          [
+            -43.1908,
+            -22.9041
+          ],
+          [
+            -43.1782,
+            -22.9052
+          ],
+          [
+            -43.1765,
+            -22.9125
+          ],
+          [
+            -43.1778,
+            -22.9312
+          ],
+          [
+            -43.1818,
+            -22.9452
+          ],
+          [
+            -43.1852,
+            -22.9665
+          ],
+          [
+            -43.1912,
+            -22.9742
+          ],
+          [
+            -43.1979,
+            -22.9848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-16",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "linha": "Linha 2 (Pavuna – Botafogo)",
+        "cor": "#00A650",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.3661,
+            -22.8065
+          ],
+          [
+            -43.3412,
+            -22.8285
+          ],
+          [
+            -43.3112,
+            -22.8512
+          ],
+          [
+            -43.2752,
+            -22.8742
+          ],
+          [
+            -43.2512,
+            -22.8952
+          ],
+          [
+            -43.2295,
+            -22.9112
+          ],
+          [
+            -43.2015,
+            -22.9078
+          ],
+          [
+            -43.1908,
+            -22.9041
+          ],
+          [
+            -43.1818,
+            -22.9512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-17",
+      "properties": {
+        "sistema_id": "metro-rio",
+        "linha": "Linha 4 (General Osório – Jardim Oceânico)",
+        "cor": "#FFD100",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1979,
+            -22.9848
+          ],
+          [
+            -43.2135,
+            -22.9841
+          ],
+          [
+            -43.2248,
+            -22.9815
+          ],
+          [
+            -43.2528,
+            -22.9985
+          ],
+          [
+            -43.3095,
+            -23.0055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-18",
+      "properties": {
+        "sistema_id": "supervia",
+        "linha": "Ramal Deodoro / Santa Cruz (Central do Brasil – Santa Cruz)",
+        "cor": "#E30613",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1908,
+            -22.9041
+          ],
+          [
+            -43.2295,
+            -22.9112
+          ],
+          [
+            -43.2782,
+            -22.8995
+          ],
+          [
+            -43.3382,
+            -22.8741
+          ],
+          [
+            -43.3845,
+            -22.8592
+          ],
+          [
+            -43.4612,
+            -22.8785
+          ],
+          [
+            -43.5592,
+            -22.9021
+          ],
+          [
+            -43.6812,
+            -22.9165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-19",
+      "properties": {
+        "sistema_id": "supervia",
+        "linha": "Ramal Japeri (Central do Brasil – Japeri)",
+        "cor": "#0072BC",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.3845,
+            -22.8592
+          ],
+          [
+            -43.4285,
+            -22.8051
+          ],
+          [
+            -43.4512,
+            -22.7589
+          ],
+          [
+            -43.5512,
+            -22.7125
+          ],
+          [
+            -43.6532,
+            -22.6435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-20",
+      "properties": {
+        "sistema_id": "supervia",
+        "linha": "Ramal Saracuruna (Central do Brasil – Gramacho – Saracuruna)",
+        "cor": "#F7941D",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1908,
+            -22.9041
+          ],
+          [
+            -43.2495,
+            -22.8612
+          ],
+          [
+            -43.2952,
+            -22.7852
+          ],
+          [
+            -43.3185,
+            -22.7412
+          ],
+          [
+            -43.2712,
+            -22.6685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-21",
+      "properties": {
+        "sistema_id": "vlt-carioca",
+        "linha": "Linhas 1 a 4 (Terminal Gentileza – Rodoviária – Praça XV – Santos Dumont)",
+        "cor": "#00A3E0",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.2122,
+            -22.8992
+          ],
+          [
+            -43.2045,
+            -22.8981
+          ],
+          [
+            -43.1921,
+            -22.8952
+          ],
+          [
+            -43.1802,
+            -22.8968
+          ],
+          [
+            -43.1752,
+            -22.9035
+          ],
+          [
+            -43.1765,
+            -22.9112
+          ],
+          [
+            -43.1682,
+            -22.9125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-22",
+      "properties": {
+        "sistema_id": "metro-df",
+        "linha": "Linha Verde (Central – Ceilândia)",
+        "cor": "#009640",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.8825,
+            -15.7938
+          ],
+          [
+            -47.9125,
+            -15.8192
+          ],
+          [
+            -47.9682,
+            -15.8312
+          ],
+          [
+            -48.0251,
+            -15.8342
+          ],
+          [
+            -48.0542,
+            -15.8325
+          ],
+          [
+            -48.1052,
+            -15.8185
+          ],
+          [
+            -48.1212,
+            -15.8021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-23",
+      "properties": {
+        "sistema_id": "metro-df",
+        "linha": "Linha Laranja (Central – Samambaia)",
+        "cor": "#F39200",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.0251,
+            -15.8342
+          ],
+          [
+            -48.0412,
+            -15.8512
+          ],
+          [
+            -48.0785,
+            -15.8752
+          ],
+          [
+            -48.1085,
+            -15.8842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-24",
+      "properties": {
+        "sistema_id": "metro-bh",
+        "linha": "Linha 1-Laranja (Eldorado – Vilarinho)",
+        "cor": "#F58220",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.0365,
+            -19.9438
+          ],
+          [
+            -44.0085,
+            -19.9352
+          ],
+          [
+            -43.9845,
+            -19.9235
+          ],
+          [
+            -43.9562,
+            -19.9182
+          ],
+          [
+            -43.9345,
+            -19.9145
+          ],
+          [
+            -43.9225,
+            -19.8952
+          ],
+          [
+            -43.9285,
+            -19.8652
+          ],
+          [
+            -43.9412,
+            -19.8385
+          ],
+          [
+            -43.9482,
+            -19.8125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-25",
+      "properties": {
+        "sistema_id": "metro-bh",
+        "linha": "Linha 2-Lilás (Nova Suíça – Barreiro)",
+        "cor": "#8C4799",
+        "status": "obras",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9682,
+            -19.9295
+          ],
+          [
+            -43.9852,
+            -19.9512
+          ],
+          [
+            -44.0012,
+            -19.9685
+          ],
+          [
+            -44.0152,
+            -19.9785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-26",
+      "properties": {
+        "sistema_id": "metro-recife",
+        "linha": "Linha Centro (Recife – Camaragibe / Jaboatão)",
+        "cor": "#E30613",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -34.8812,
+            -8.0685
+          ],
+          [
+            -34.9125,
+            -8.0745
+          ],
+          [
+            -34.9485,
+            -8.0785
+          ],
+          [
+            -34.9785,
+            -8.0512
+          ],
+          [
+            -34.9985,
+            -8.0252
+          ],
+          [
+            -35.0125,
+            -8.1125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-27",
+      "properties": {
+        "sistema_id": "metro-recife",
+        "linha": "Linha Sul (Recife – Cajueiro Seco)",
+        "cor": "#0054A6",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -34.8812,
+            -8.0685
+          ],
+          [
+            -34.9045,
+            -8.0952
+          ],
+          [
+            -34.9152,
+            -8.1285
+          ],
+          [
+            -34.9252,
+            -8.1685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-28",
+      "properties": {
+        "sistema_id": "metrofor-fortaleza",
+        "linha": "Linha Sul (Central-Chico da Silva – Carlito Benevides)",
+        "cor": "#E30613",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.5285,
+            -3.7245
+          ],
+          [
+            -38.5485,
+            -3.7512
+          ],
+          [
+            -38.5685,
+            -3.7952
+          ],
+          [
+            -38.5985,
+            -3.8452
+          ],
+          [
+            -38.6185,
+            -3.8785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-29",
+      "properties": {
+        "sistema_id": "metrofor-fortaleza",
+        "linha": "VLT Parangaba-Mucuripe (Linha Nordeste)",
+        "cor": "#F7941D",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.5625,
+            -3.7765
+          ],
+          [
+            -38.5325,
+            -3.7585
+          ],
+          [
+            -38.5012,
+            -3.7412
+          ],
+          [
+            -38.4785,
+            -3.7212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-30",
+      "properties": {
+        "sistema_id": "metrofor-fortaleza",
+        "linha": "Linha Leste (Tirol-Moura Brasil – Papicu)",
+        "cor": "#FDB913",
+        "status": "obras",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.5312,
+            -3.7212
+          ],
+          [
+            -38.5085,
+            -3.7312
+          ],
+          [
+            -38.4785,
+            -3.7395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-31",
+      "properties": {
+        "sistema_id": "vlt-sobral",
+        "linha": "Linhas Norte e Sul do VLT de Sobral",
+        "cor": "#009640",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.3612,
+            -3.6812
+          ],
+          [
+            -40.3485,
+            -3.6885
+          ],
+          [
+            -40.3352,
+            -3.6945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-32",
+      "properties": {
+        "sistema_id": "vlt-cariri",
+        "linha": "Linha Crato – Juazeiro do Norte",
+        "cor": "#0072BC",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.4085,
+            -7.2345
+          ],
+          [
+            -39.3585,
+            -7.2245
+          ],
+          [
+            -39.3125,
+            -7.2112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-33",
+      "properties": {
+        "sistema_id": "metro-bahia",
+        "linha": "Linha 1 (Lapa – Águas Claras)",
+        "cor": "#E30613",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.5125,
+            -12.9812
+          ],
+          [
+            -38.4925,
+            -12.9765
+          ],
+          [
+            -38.4752,
+            -12.9785
+          ],
+          [
+            -38.4625,
+            -12.9612
+          ],
+          [
+            -38.4585,
+            -12.9312
+          ],
+          [
+            -38.4452,
+            -12.9052
+          ],
+          [
+            -38.4325,
+            -12.8912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-34",
+      "properties": {
+        "sistema_id": "metro-bahia",
+        "linha": "Linha 2 (Acesso Norte – Aeroporto)",
+        "cor": "#0072BC",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.4752,
+            -12.9785
+          ],
+          [
+            -38.4552,
+            -12.9795
+          ],
+          [
+            -38.4312,
+            -12.9685
+          ],
+          [
+            -38.4012,
+            -12.9485
+          ],
+          [
+            -38.3685,
+            -12.9212
+          ],
+          [
+            -38.3385,
+            -12.9012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-35",
+      "properties": {
+        "sistema_id": "vlt-salvador",
+        "linha": "Trechos 1, 2 e 3 (Calçada – Ilha de São João – Águas Claras – Piatã)",
+        "cor": "#00A859",
+        "status": "obras",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.5012,
+            -12.9465
+          ],
+          [
+            -38.4852,
+            -12.9112
+          ],
+          [
+            -38.4785,
+            -12.8612
+          ],
+          [
+            -38.4512,
+            -12.8112
+          ],
+          [
+            -38.4325,
+            -12.8912
+          ],
+          [
+            -38.3852,
+            -12.9452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-36",
+      "properties": {
+        "sistema_id": "trensurb",
+        "linha": "Linha 1 (Mercado – Novo Hamburgo)",
+        "cor": "#0054A6",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.2285,
+            -30.0265
+          ],
+          [
+            -51.1985,
+            -30.0012
+          ],
+          [
+            -51.1812,
+            -29.9785
+          ],
+          [
+            -51.1785,
+            -29.9185
+          ],
+          [
+            -51.1685,
+            -29.8512
+          ],
+          [
+            -51.1512,
+            -29.7685
+          ],
+          [
+            -51.1325,
+            -29.6865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-37",
+      "properties": {
+        "sistema_id": "aeromovel-poa",
+        "linha": "Conexão Metrô-Aeroporto Salgado Filho",
+        "cor": "#00AEEF",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.1812,
+            -29.9865
+          ],
+          [
+            -51.1752,
+            -29.9912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-38",
+      "properties": {
+        "sistema_id": "cbtu-maceio",
+        "linha": "VLT de Maceió (Jaraguá – Lourenço de Albuquerque)",
+        "cor": "#0072BC",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.7212,
+            -9.6685
+          ],
+          [
+            -35.7412,
+            -9.6452
+          ],
+          [
+            -35.7812,
+            -9.5812
+          ],
+          [
+            -35.8285,
+            -9.5125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-39",
+      "properties": {
+        "sistema_id": "cbtu-joao-pessoa",
+        "linha": "VLT de João Pessoa (Cabedelo – Santa Rita)",
+        "cor": "#009640",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -34.8325,
+            -6.9812
+          ],
+          [
+            -34.8612,
+            -7.0612
+          ],
+          [
+            -34.8845,
+            -7.1185
+          ],
+          [
+            -34.9785,
+            -7.1285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-40",
+      "properties": {
+        "sistema_id": "cbtu-natal",
+        "linha": "Linhas Norte e Sul do Sistema de Trens Urbanos de Natal",
+        "cor": "#F7941D",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.2585,
+            -5.7312
+          ],
+          [
+            -35.2065,
+            -5.7785
+          ],
+          [
+            -35.2285,
+            -5.8512
+          ],
+          [
+            -35.2612,
+            -5.9152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-41",
+      "properties": {
+        "sistema_id": "metro-teresina",
+        "linha": "Linha 1 (Engenheiro Alberto Silva – Itararé)",
+        "cor": "#00A859",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8185,
+            -5.0892
+          ],
+          [
+            -42.7912,
+            -5.0985
+          ],
+          [
+            -42.7585,
+            -5.1185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-42",
+      "properties": {
+        "sistema_id": "vlt-baixada-santista",
+        "linha": "Linha 1 (Barreiros – Porto) e Linha 2 (Conselheiro Nébias – Valongo)",
+        "cor": "#0054A6",
+        "status": "operacao",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4125,
+            -23.9685
+          ],
+          [
+            -46.3812,
+            -23.9665
+          ],
+          [
+            -46.3485,
+            -23.9625
+          ],
+          [
+            -46.3212,
+            -23.9552
+          ],
+          [
+            -46.3285,
+            -23.9345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-43",
+      "properties": {
+        "sistema_id": "vlt-cuiaba",
+        "linha": "Eixo CPA – Aeroporto Marechal Rondon (projeto desativado e convertido)",
+        "cor": "#9E9E9E",
+        "status": "desativado",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.1185,
+            -15.6512
+          ],
+          [
+            -56.0965,
+            -15.6012
+          ],
+          [
+            -56.0585,
+            -15.5612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-44",
+      "properties": {
+        "sistema_id": "tic-eixo-norte",
+        "linha": "TIC Eixo Norte (Barra Funda – Jundiaí – Campinas)",
+        "cor": "#003399",
+        "status": "obras",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6674,
+            -23.5255
+          ],
+          [
+            -46.8712,
+            -23.1951
+          ],
+          [
+            -46.9812,
+            -23.0285
+          ],
+          [
+            -47.0685,
+            -22.9065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-45",
+      "properties": {
+        "sistema_id": "ferrograo",
+        "linha": "EF-170 Ferrogrão (Sinop/MT – Miritituba/Itaituba/PA)",
+        "cor": "#8B5A2B",
+        "status": "projeto",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5025,
+            -11.8642
+          ],
+          [
+            -55.1212,
+            -9.8512
+          ],
+          [
+            -55.3125,
+            -7.2112
+          ],
+          [
+            -55.9512,
+            -4.2812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-46",
+      "properties": {
+        "sistema_id": "fiol",
+        "linha": "EF-334 FIOL (Ilhéus/BA – Caetité – Barreiras – Figueirópolis/TO)",
+        "cor": "#B45309",
+        "status": "obras",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0485,
+            -14.7885
+          ],
+          [
+            -40.8412,
+            -14.8612
+          ],
+          [
+            -42.4812,
+            -14.0685
+          ],
+          [
+            -44.9912,
+            -12.1512
+          ],
+          [
+            -49.1712,
+            -12.1312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-47",
+      "properties": {
+        "sistema_id": "fico",
+        "linha": "EF-354 FICO (Mara Rosa/GO – Água Boa/MT)",
+        "cor": "#D97706",
+        "status": "obras",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.1712,
+            -14.0185
+          ],
+          [
+            -50.6512,
+            -14.1212
+          ],
+          [
+            -52.1612,
+            -14.0512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-48",
+      "properties": {
+        "sistema_id": "transnordestina",
+        "linha": "Transnordestina (Eliseu Martins/PI – Salgueiro/PE – Porto do Pecém/CE)",
+        "cor": "#9333EA",
+        "status": "obras",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.6612,
+            -8.0912
+          ],
+          [
+            -40.7212,
+            -7.8512
+          ],
+          [
+            -39.1212,
+            -8.0712
+          ],
+          [
+            -39.2912,
+            -6.3612
+          ],
+          [
+            -38.8112,
+            -3.5412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linha-49",
+      "properties": {
+        "sistema_id": "autorizacoes-antt",
+        "linha": "Eixos prioritários de Autorizações Ferroviárias ANTT (Pro Trilhos)",
+        "cor": "#475569",
+        "status": "projeto",
+        "geometria_aproximada": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.6112,
+            -20.4612
+          ],
+          [
+            -51.4512,
+            -22.1212
+          ],
+          [
+            -48.5512,
+            -25.5212
+          ]
+        ]
+      }
+    }
+  ]
+}

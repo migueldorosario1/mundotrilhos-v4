@@ -1,0 +1,695 @@
+---
+import 'maplibre-gl/dist/maplibre-gl.css';
+import ApoieSlot from './ApoieSlot.astro';
+import { getMapaI18n, type MapaLang } from './i18n';
+import type { FonteCitada, RelatedBlogPost, SistemaRegistro } from './types';
+
+interface Props {
+	lang?: MapaLang;
+	sistema: SistemaRegistro;
+	linhasSistema: Record<string, any>[];
+	estacoesSistema: Record<string, any>[];
+	fontesSistema: FonteCitada[];
+	relatedPosts: RelatedBlogPost[];
+}
+
+const {
+	lang = 'pt-br',
+	sistema,
+	linhasSistema,
+	estacoesSistema,
+	fontesSistema,
+	relatedPosts,
+} = Astro.props;
+
+const t = getMapaI18n(lang);
+const isEn = lang === 'en';
+const tiposMap: Record<string, string> = t.tipos;
+const statusMap: Record<string, string> = t.status;
+
+const STATUS_COLORS: Record<string, string> = {
+	operacao: '#0d9488',
+	obras: '#d97706',
+	projeto: '#2563eb',
+	paralisado: '#dc2626',
+	desativado: '#64748b',
+};
+
+const nome = isEn ? sistema.nome_en : sistema.nome_pt;
+const resumo = isEn ? sistema.resumo_en : sistema.resumo_pt;
+const tipoLabel = tiposMap[sistema.tipo] || sistema.tipo;
+const statusLabel = statusMap[sistema.status] || sistema.status;
+const stColor = STATUS_COLORS[sistema.status] || '#64748b';
+
+const proxEntregas = sistema.proximas_entregas
+	? typeof sistema.proximas_entregas === 'object'
+		? isEn
+			? sistema.proximas_entregas.en
+			: sistema.proximas_entregas.pt
+		: sistema.proximas_entregas
+	: null;
+
+const hasApprox = linhasSistema.some((f: any) => f.properties?.geometria_aproximada);
+const interlink_url = `${t.twinPortalUrl}/mapa/${sistema.slug}`;
+const interlink_lang = t.twinLang;
+
+function fmt(val: number | string | null | undefined, suffix = ''): string | null {
+	if (val === null || val === undefined || val === '') return null;
+	if (typeof val === 'number') {
+		return val.toLocaleString(isEn ? 'en-US' : 'pt-BR') + suffix;
+	}
+	return String(val) + suffix;
+}
+
+const miniMapPayload = JSON.stringify({
+	sistema,
+	linhasGeojson: {
+		type: 'FeatureCollection',
+		features: linhasSistema,
+	},
+	estacoesGeojson: {
+		type: 'FeatureCollection',
+		features: estacoesSistema,
+	},
+	stColor,
+});
+---
+
+<article class="ficha-shell" data-interlink-url={interlink_url} data-interlink-lang={interlink_lang}>
+	<nav class="ficha-breadcrumbs" aria-label="Breadcrumb">
+		<a href="/mapa" class="back-link">{t.ficha.backToMap}</a>
+		<div class="ficha-top-actions">
+			<a href={`/mapa?s=${sistema.slug}`} class="btn-map-focus">
+				🗺️ {t.ficha.openInMapInteractive}
+			</a>
+			<a href={interlink_url} hreflang={interlink_lang} rel="alternate" class="btn-twin-portal">
+				🌐 {t.twinLinkLabel}
+			</a>
+		</div>
+	</nav>
+
+	<header class="ficha-header">
+		<div class="ficha-badges">
+			<span class="status-pill" style={`--st-color:${stColor}`}>{statusLabel}</span>
+			<span class="tipo-pill">{tipoLabel}</span>
+			<span class={`verify-pill ${sistema.verificado_completo ? 'is-verified' : 'is-partial'}`}>
+				{sistema.verificado_completo ? t.drawer.verifiedBadge : t.drawer.partialBadge}
+			</span>
+		</div>
+		<h1>{nome}</h1>
+		<p class="ficha-subtitle">
+			{sistema.cidade} · {sistema.uf} ({sistema.regiao_metropolitana}) — {sistema.pais}
+		</p>
+		{hasApprox && <p class="approx-alert">⚠️ {t.drawer.approxGeomNote}</p>}
+	</header>
+
+	<div class="ficha-grid-top">
+		<div class="ficha-overview">
+			{sistema.foto && (
+				<figure class="ficha-hero-figure">
+					<img src={sistema.foto.url} alt={nome} width="960" height="540" />
+					<figcaption>
+						{t.drawer.fields.imageCredit}{' '}
+						<a href={sistema.foto.source_url} target="_blank" rel="noopener noreferrer">
+							{sistema.foto.credito}
+						</a>{' '}
+						· {t.drawer.fields.imageLicense} {sistema.foto.licenca}
+					</figcaption>
+				</figure>
+			)}
+			<p class="ficha-resumo">{resumo}</p>
+		</div>
+
+		<div class="ficha-minimap-box">
+			<h2>{t.ficha.miniMapTitle}</h2>
+			<div id="ficha-minimap" class="ficha-minimap" role="application" aria-label={nome}></div>
+			<p class="minimap-credit">
+				© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> contributors (ODbL 1.0)
+			</p>
+		</div>
+	</div>
+
+	<section class="ficha-section" aria-labelledby="indicadores-title">
+		<h2 id="indicadores-title">{t.ficha.techSheetTitle}</h2>
+		<dl class="ficha-stats-grid">
+			<div class="stat-card">
+				<dt>{t.drawer.fields.operador}</dt>
+				<dd>{fmt(sistema.operador) ?? <span class="null-chip">{t.drawer.nullValue}</span>}</dd>
+			</div>
+			<div class="stat-card">
+				<dt>{t.drawer.fields.inauguracao}</dt>
+				<dd>{fmt(sistema.inauguracao) ?? <span class="null-chip">{t.drawer.nullValue}</span>}</dd>
+			</div>
+			<div class="stat-card">
+				<dt>{t.drawer.fields.extensao}</dt>
+				<dd>{fmt(sistema.extensao_km, ' km') ?? <span class="null-chip">{t.drawer.nullValue}</span>}</dd>
+			</div>
+			<div class="stat-card">
+				<dt>{t.drawer.fields.linhas}</dt>
+				<dd>{fmt(sistema.n_linhas) ?? <span class="null-chip">{t.drawer.nullValue}</span>}</dd>
+			</div>
+			<div class="stat-card">
+				<dt>{t.drawer.fields.estacoes}</dt>
+				<dd>{fmt(sistema.n_estacoes) ?? <span class="null-chip">{t.drawer.nullValue}</span>}</dd>
+			</div>
+			<div class="stat-card">
+				<dt>{t.drawer.fields.passageirosDia}</dt>
+				<dd>
+					{sistema.passageiros_dia !== null ? (
+						<>
+							{fmt(sistema.passageiros_dia)}
+							{sistema.ano_referencia && <small> ({sistema.ano_referencia})</small>}
+						</>
+					) : (
+						<span class="null-chip">{t.drawer.nullValue}</span>
+					)}
+				</dd>
+			</div>
+			<div class="stat-card span-wide">
+				<dt>{t.drawer.fields.investimento}</dt>
+				<dd>
+					{sistema.investimento ? (
+						<span>{sistema.investimento.valor}</span>
+					) : (
+						<span class="null-chip">{t.drawer.nullValue}</span>
+					)}
+				</dd>
+			</div>
+			<div class="stat-card span-wide">
+				<dt>{t.drawer.fields.proximasEntregas}</dt>
+				<dd>{fmt(proxEntregas) ?? <span class="null-chip">{t.drawer.nullValue}</span>}</dd>
+			</div>
+		</dl>
+	</section>
+
+	{(linhasSistema.length > 0 || estacoesSistema.length > 0) && (
+		<section class="ficha-section" aria-labelledby="linhas-title">
+			<h2 id="linhas-title">{t.ficha.linesAndStationsTitle}</h2>
+			<div class="linhas-estacoes-grid">
+				{linhasSistema.length > 0 && (
+					<div>
+						<h3>{t.drawer.fields.linhas} ({linhasSistema.length})</h3>
+						<ul class="linhas-badges-list">
+							{linhasSistema.map((l: any) => (
+								<li>
+									<span class="line-swatch" style={`background:${l.properties?.cor || '#0455A1'}`}></span>
+									<strong>{l.properties?.linha}</strong>
+									<span class="line-st">
+										({statusMap[l.properties?.status] || l.properties?.status})
+									</span>
+								</li>
+							))}
+						</ul>
+					</div>
+				)}
+				{estacoesSistema.length > 0 && (
+					<div>
+						<h3>{t.drawer.fields.estacoes} ({estacoesSistema.length})</h3>
+						<ul class="estacoes-pills-list">
+							{estacoesSistema.map((e: any) => (
+								<li>
+									<strong>{e.properties?.nome}</strong>
+									{e.properties?.linha && <small> · {e.properties.linha}</small>}
+								</li>
+							))}
+						</ul>
+					</div>
+				)}
+			</div>
+		</section>
+	)}
+
+	<section class="ficha-section" aria-labelledby="materias-title">
+		<h2 id="materias-title">{t.ficha.relatedArticlesTitle}</h2>
+		{relatedPosts.length > 0 ? (
+			<div class="related-cards-grid">
+				{relatedPosts.map((post) => (
+					<a href={`/blog/${post.slug}/`} class="related-card">
+						<span class="related-date">{post.pubDate}</span>
+						<h3>{post.title}</h3>
+						<p>{post.description}</p>
+					</a>
+				))}
+			</div>
+		) : (
+			<p class="null-chip">{t.drawer.fields.semMaterias}</p>
+		)}
+	</section>
+
+	<section class="ficha-section" aria-labelledby="fontes-title">
+		<h2 id="fontes-title">{t.ficha.sourcesTitle}</h2>
+		<ul class="ficha-sources-list">
+			{fontesSistema.map((f) => (
+				<li>
+					<a href={f.url} target="_blank" rel="noopener noreferrer">
+						<strong>{isEn ? f.nome_en : f.nome_pt}</strong>
+					</a>
+					<span> — {f.orgao} ({t.ficha.consultedOn}: {f.data_consulta})</span>
+				</li>
+			))}
+		</ul>
+		<p class="updated-meta">
+			{t.ficha.updatedOn}: <strong>{sistema.atualizado_em}</strong> · {t.methodology.osmAttribution}
+		</p>
+	</section>
+
+	<ApoieSlot lang={lang} />
+</article>
+
+<script type="application/json" id="ficha-minimap-payload" set:html={miniMapPayload}></script>
+
+<script>
+	import * as maplibregl from 'maplibre-gl';
+
+	function initFichaMiniMap() {
+		const payloadEl = document.getElementById('ficha-minimap-payload');
+		const mapEl = document.getElementById('ficha-minimap');
+		if (!payloadEl || !mapEl) return;
+
+		const { sistema, linhasGeojson, estacoesGeojson, stColor } = JSON.parse(
+			payloadEl.textContent || '{}'
+		);
+
+		const map = new maplibregl.Map({
+			container: mapEl,
+			style: {
+				version: 8,
+				sources: {
+					'carto-voyager': {
+						type: 'raster',
+						tiles: [
+							'https://a.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png',
+							'https://b.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png',
+							'https://c.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png',
+						],
+						tileSize: 256,
+						attribution:
+							'© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors © <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>',
+					},
+					'sys-lines': { type: 'geojson', data: linhasGeojson },
+					'sys-stations': { type: 'geojson', data: estacoesGeojson },
+					'sys-center': {
+						type: 'geojson',
+						data: {
+							type: 'FeatureCollection',
+							features: [
+								{
+									type: 'Feature',
+									properties: {},
+									geometry: { type: 'Point', coordinates: [sistema.lon, sistema.lat] },
+								},
+							],
+						},
+					},
+				},
+				layers: [
+					{
+						id: 'bg-base',
+						type: 'background',
+						paint: { 'background-color': '#e2e8f0' },
+					},
+					{
+						id: 'carto-voyager-layer',
+						type: 'raster',
+						source: 'carto-voyager',
+						minzoom: 0,
+						maxzoom: 20,
+					},
+					{
+						id: 'sys-lines-layer',
+						type: 'line',
+						source: 'sys-lines',
+						layout: {
+							'line-join': 'round',
+							'line-cap': 'round',
+						},
+						paint: {
+							'line-color': ['coalesce', ['get', 'cor'], stColor || '#0455A1'],
+							'line-width': 4.8,
+						},
+					},
+					{
+						id: 'sys-stations-layer',
+						type: 'circle',
+						source: 'sys-stations',
+						paint: {
+							'circle-radius': 4.8,
+							'circle-color': '#ffffff',
+							'circle-stroke-width': 2.2,
+							'circle-stroke-color': '#0f172a',
+						},
+					},
+					{
+						id: 'sys-center-layer',
+						type: 'circle',
+						source: 'sys-center',
+						paint: {
+							'circle-radius': 7,
+							'circle-color': stColor || '#0d9488',
+							'circle-stroke-width': 2.5,
+							'circle-stroke-color': '#ffffff',
+						},
+					},
+				],
+			},
+			center: [sistema.lon, sistema.lat],
+			zoom: sistema.zoom_inicial || 11.2,
+			canvasContextAttributes: { preserveDrawingBuffer: true },
+		});
+
+		map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+	}
+
+	if (document.readyState === 'loading') {
+		document.addEventListener('DOMContentLoaded', initFichaMiniMap);
+	} else {
+		initFichaMiniMap();
+	}
+</script>
+
+<style>
+	.ficha-shell {
+		max-width: 1120px;
+		width: 100%;
+		box-sizing: border-box;
+		overflow-x: hidden;
+		margin: 0 auto;
+		padding: 1.5rem 1rem 3rem;
+		font-family: 'Outfit', system-ui, -apple-system, sans-serif;
+		color: #0f172a;
+	}
+
+	.ficha-breadcrumbs {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-items: center;
+		gap: 0.75rem;
+		margin-bottom: 1.25rem;
+		padding-bottom: 0.75rem;
+		border-bottom: 1px solid #e2e8f0;
+	}
+
+	.back-link {
+		font-weight: 700;
+		text-decoration: none;
+		font-size: 0.95rem;
+	}
+
+	.ficha-top-actions {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.6rem;
+	}
+
+	.btn-map-focus,
+	.btn-twin-portal {
+		font-size: 0.84rem;
+		font-weight: 600;
+		padding: 0.4rem 0.75rem;
+		border-radius: 6px;
+		text-decoration: none;
+		border: 1px solid #cbd5e1;
+		background: #f8fafc;
+		color: #1e293b;
+	}
+
+	.ficha-header {
+		margin-bottom: 1.5rem;
+	}
+
+	.ficha-badges {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.45rem;
+		margin-bottom: 0.6rem;
+	}
+
+	.status-pill {
+		display: inline-block;
+		padding: 0.22rem 0.65rem;
+		border-radius: 999px;
+		font-size: 0.76rem;
+		font-weight: 700;
+		background: var(--st-color, #475569);
+		color: #ffffff;
+	}
+
+	.tipo-pill {
+		display: inline-block;
+		padding: 0.22rem 0.65rem;
+		border-radius: 999px;
+		font-size: 0.76rem;
+		font-weight: 600;
+		background: #e2e8f0;
+		color: #1e293b;
+	}
+
+	.verify-pill {
+		display: inline-block;
+		padding: 0.22rem 0.65rem;
+		border-radius: 999px;
+		font-size: 0.75rem;
+		font-weight: 700;
+	}
+
+	.verify-pill.is-verified {
+		background: #dcfce7;
+		color: #166534;
+	}
+
+	.verify-pill.is-partial {
+		background: #fef3c7;
+		color: #92400e;
+	}
+
+	.approx-alert {
+		background: #fffbeb;
+		border-left: 3px solid #d97706;
+		padding: 0.45rem 0.7rem;
+		font-size: 0.84rem;
+		color: #92400e;
+		margin: 0.6rem 0 0;
+		border-radius: 4px;
+	}
+
+	.null-chip {
+		font-style: italic;
+		font-weight: 400;
+		color: #94a3b8;
+	}
+
+	.ficha-header h1 {
+		font-size: clamp(1.75rem, 3vw, 2.4rem);
+		margin: 0 0 0.35rem;
+	}
+
+	.ficha-subtitle {
+		font-size: 1rem;
+		color: #475569;
+		margin: 0;
+	}
+
+	.ficha-grid-top {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 1.5rem;
+		margin-bottom: 2rem;
+	}
+
+	@media (min-width: 860px) {
+		.ficha-grid-top {
+			grid-template-columns: 1.15fr 0.85fr;
+		}
+	}
+
+	.ficha-hero-figure {
+		margin: 0 0 1rem;
+	}
+
+	.ficha-hero-figure img {
+		width: 100%;
+		max-height: 340px;
+		object-fit: cover;
+		border-radius: 12px;
+		display: block;
+	}
+
+	.ficha-hero-figure figcaption {
+		font-size: 0.78rem;
+		color: #64748b;
+		margin-top: 0.35rem;
+	}
+
+	.ficha-resumo {
+		font-size: 1.05rem;
+		line-height: 1.65;
+		color: #1e293b;
+		margin: 0;
+	}
+
+	.ficha-minimap-box {
+		background: #ffffff;
+		border: 1px solid #e2e8f0;
+		border-radius: 12px;
+		padding: 0.9rem;
+	}
+
+	.ficha-minimap-box h2 {
+		font-size: 1rem;
+		margin: 0 0 0.6rem;
+	}
+
+	.ficha-minimap {
+		width: 100%;
+		height: 300px;
+		border-radius: 8px;
+		overflow: hidden;
+		border: 1px solid #cbd5e1;
+	}
+
+	.minimap-credit {
+		font-size: 0.74rem;
+		color: #64748b;
+		margin: 0.4rem 0 0;
+	}
+
+	.ficha-section {
+		background: #ffffff;
+		border: 1px solid #e2e8f0;
+		border-radius: 12px;
+		padding: 1.25rem;
+		margin-bottom: 1.5rem;
+	}
+
+	.ficha-section h2 {
+		font-size: 1.25rem;
+		margin: 0 0 1rem;
+		padding-bottom: 0.5rem;
+		border-bottom: 1px solid #f1f5f9;
+	}
+
+	.ficha-stats-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+		gap: 0.85rem;
+		margin: 0;
+	}
+
+	.stat-card {
+		background: #f8fafc;
+		border: 1px solid #e2e8f0;
+		border-radius: 8px;
+		padding: 0.75rem;
+	}
+
+	.stat-card.span-wide {
+		grid-column: 1 / -1;
+	}
+
+	.stat-card dt {
+		font-size: 0.75rem;
+		text-transform: uppercase;
+		letter-spacing: 0.04em;
+		color: #64748b;
+		font-weight: 700;
+	}
+
+	.stat-card dd {
+		margin: 0.25rem 0 0;
+		font-size: 0.98rem;
+		font-weight: 700;
+		color: #0f172a;
+	}
+
+	.linhas-estacoes-grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 1.25rem;
+	}
+
+	@media (min-width: 768px) {
+		.linhas-estacoes-grid {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+
+	.linhas-badges-list,
+	.estacoes-pills-list {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 0.45rem;
+		font-size: 0.9rem;
+	}
+
+	.line-swatch {
+		display: inline-block;
+		width: 12px;
+		height: 12px;
+		border-radius: 3px;
+		margin-right: 0.45rem;
+		vertical-align: middle;
+	}
+
+	.line-st {
+		color: #64748b;
+		font-size: 0.82rem;
+		margin-left: 0.3rem;
+	}
+
+	.related-cards-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+		gap: 1rem;
+	}
+
+	.related-card {
+		display: block;
+		background: #f8fafc;
+		border: 1px solid #e2e8f0;
+		border-radius: 10px;
+		padding: 0.9rem;
+		text-decoration: none;
+		color: inherit;
+		transition: border-color 0.15s, transform 0.15s;
+	}
+
+	.related-card:hover {
+		border-color: #d35400;
+		transform: translateY(-2px);
+	}
+
+	.related-date {
+		font-size: 0.75rem;
+		color: #64748b;
+	}
+
+	.related-card h3 {
+		font-size: 1rem;
+		margin: 0.3rem 0 0.4rem;
+		color: #0f172a;
+	}
+
+	.related-card p {
+		font-size: 0.85rem;
+		color: #475569;
+		margin: 0;
+		line-height: 1.45;
+	}
+
+	.ficha-sources-list {
+		margin: 0 0 1rem;
+		padding-left: 1.2rem;
+		font-size: 0.92rem;
+		line-height: 1.6;
+	}
+
+	.updated-meta {
+		font-size: 0.82rem;
+		color: #64748b;
+		margin: 0;
+	}
+</style>

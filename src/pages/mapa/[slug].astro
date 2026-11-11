@@ -1,0 +1,95 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+
+import estacoesRaw from '../../data/mapa/estacoes.geojson?raw';
+import fontesData from '../../data/mapa/fontes.json';
+import linhasRaw from '../../data/mapa/linhas.geojson?raw';
+import sistemasData from '../../data/mapa/sistemas.json';
+
+import FichaSistema from '../../mapa/FichaSistema.astro';
+import { getMapaI18n, type MapaLang } from '../../mapa/i18n';
+import { findRelatedPostsForSystem } from '../../mapa/relatedPosts';
+import type { FonteCitada, SistemaRegistro } from '../../mapa/types';
+
+export async function getStaticPaths() {
+	const sistemas = sistemasData as SistemaRegistro[];
+	return sistemas.map((sistema) => ({
+		params: { slug: sistema.slug },
+		props: { sistema },
+	}));
+}
+
+interface Props {
+	sistema: SistemaRegistro;
+}
+
+const { sistema } = Astro.props;
+const lang: MapaLang = 'pt-br';
+const t = getMapaI18n(lang);
+const isEn = lang === 'en';
+
+const nome = isEn ? sistema.nome_en : sistema.nome_pt;
+const resumo = isEn ? sistema.resumo_en : sistema.resumo_pt;
+
+const linhasGeojson = JSON.parse(linhasRaw);
+const estacoesGeojson = JSON.parse(estacoesRaw);
+
+const linhasSistema = ((linhasGeojson as any).features || []).filter(
+	(f: any) => f.properties?.sistema_id === sistema.id
+);
+
+const estacoesSistema = ((estacoesGeojson as any).features || []).filter(
+	(f: any) => f.properties?.sistema_id === sistema.id
+);
+
+const fontesById = Object.fromEntries((fontesData as FonteCitada[]).map((f) => [f.id, f]));
+const fontesSistema = (sistema.fontes || []).map((id) => fontesById[id]).filter(Boolean);
+
+const allPosts = await getCollection('blog');
+const relatedPosts = findRelatedPostsForSystem(sistema, allPosts, 6);
+
+const interlink_url = `${t.twinPortalUrl}/mapa/${sistema.slug}`;
+---
+
+<!doctype html>
+<html lang={lang}>
+	<head>
+		<BaseHead
+			title={`${nome} — ${t.heroTitle} | ${t.portalName}`}
+			description={resumo}
+			image={sistema.foto?.url}
+		/>
+		<link rel="alternate" hreflang={t.twinLang} href={interlink_url} />
+		<style>
+			html,
+			body {
+				overflow-x: hidden;
+				max-width: 100vw;
+			}
+			main.ficha-page-main {
+				width: 100%;
+				max-width: 100%;
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main class="ficha-page-main">
+			<FichaSistema
+				lang={lang}
+				sistema={sistema}
+				linhasSistema={linhasSistema}
+				estacoesSistema={estacoesSistema}
+				fontesSistema={fontesSistema}
+				relatedPosts={relatedPosts}
+			/>
+		</main>
+		<Footer />
+	</body>
+</html>
