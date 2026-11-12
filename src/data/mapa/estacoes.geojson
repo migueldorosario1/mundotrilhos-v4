@@ -10083,6 +10083,216 @@
           -33.593
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-cidade-do-mexico-stc-cdmx",
+        "nome": "Zócalo / Tenochtitlan & Pino Suárez (STC Metro CDMX Linhas 1 e 2)",
+        "linha": "Linhas 1 e 2",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas 1 e 2"
+        ],
+        "sistema_nome_pt": "Metrô da Cidade do México (STC Metro — 12 Linhas, Maior Rede da América Latina)",
+        "sistema_nome_en": "Mexico City Metro (STC Metro — 12 Lines, Largest Metro Network in Latin America)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.133,
+          19.433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-cidade-do-mexico-stc-cdmx",
+        "nome": "Pantitlán (Maior Hub de Integração do Metrô da Cidade do México — Linhas 1, 5, 9 e A)",
+        "linha": "Linhas 1, 5, 9 e A",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas 1, 5, 9 e A"
+        ],
+        "sistema_nome_pt": "Metrô da Cidade do México (STC Metro — 12 Linhas, Maior Rede da América Latina)",
+        "sistema_nome_en": "Mexico City Metro (STC Metro — 12 Lines, Largest Metro Network in Latin America)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.072,
+          19.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tren-maya-el-insurgente-mexico",
+        "nome": "Estación Cancún Aeropuerto (Hub Principal do Tren Maya)",
+        "linha": "Tren Maya",
+        "status": "operacao",
+        "integracoes": [
+          "Tren Maya"
+        ],
+        "sistema_nome_pt": "Tren Maya (1.554 km na Península de Yucatán) e Tren Interurbano México–Toluca 'El Insurgente' (160 km/h)",
+        "sistema_nome_en": "Tren Maya (1,554 km Yucatán Peninsula Loop) & 'El Insurgente' Mexico City–Toluca Fast Intercity Rail (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.874,
+          21.041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tren-maya-el-insurgente-mexico",
+        "nome": "Estación Mérida Teya (Tren Maya — Yucatán)",
+        "linha": "Tren Maya",
+        "status": "operacao",
+        "integracoes": [
+          "Tren Maya"
+        ],
+        "sistema_nome_pt": "Tren Maya (1.554 km na Península de Yucatán) e Tren Interurbano México–Toluca 'El Insurgente' (160 km/h)",
+        "sistema_nome_en": "Tren Maya (1,554 km Yucatán Peninsula Loop) & 'El Insurgente' Mexico City–Toluca Fast Intercity Rail (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.545,
+          20.945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tren-maya-el-insurgente-mexico",
+        "nome": "Estación Santa Fe / Observatorio (Tren Interurbano 'El Insurgente' México–Toluca)",
+        "linha": "El Insurgente",
+        "status": "operacao",
+        "integracoes": [
+          "El Insurgente"
+        ],
+        "sistema_nome_pt": "Tren Maya (1.554 km na Península de Yucatán) e Tren Interurbano México–Toluca 'El Insurgente' (160 km/h)",
+        "sistema_nome_en": "Tren Maya (1,554 km Yucatán Peninsula Loop) & 'El Insurgente' Mexico City–Toluca Fast Intercity Rail (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.262,
+          19.358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-tren-ligero-cdmx-guadalajara-monterrey-mexico",
+        "nome": "Estación Guadalajara Centro / Plaza Universidad (Mi Tren SITEUR Linhas 2 e 3)",
+        "linha": "Mi Tren Guadalajara",
+        "status": "operacao",
+        "integracoes": [
+          "Mi Tren Guadalajara"
+        ],
+        "sistema_nome_pt": "VLTs e Trens Leves do México (Mi Tren de Guadalajara L1–L4, Metrorrey de Monterrey L1–L3 e Tren Ligero Xochimilco CDMX)",
+        "sistema_nome_en": "Light Rail of Mexico (Guadalajara SITEUR L1–L4, Monterrey Metrorrey L1–L3 & Mexico City Xochimilco Light Rail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.347,
+          20.676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-tren-ligero-cdmx-guadalajara-monterrey-mexico",
+        "nome": "Estación Cuauhtémoc (Hub Central do Metrorrey — Monterrey Linhas 1 e 2)",
+        "linha": "Metrorrey Linhas 1 e 2",
+        "status": "operacao",
+        "integracoes": [
+          "Metrorrey Linhas 1 e 2"
+        ],
+        "sistema_nome_pt": "VLTs e Trens Leves do México (Mi Tren de Guadalajara L1–L4, Metrorrey de Monterrey L1–L3 e Tren Ligero Xochimilco CDMX)",
+        "sistema_nome_en": "Light Rail of Mexico (Guadalajara SITEUR L1–L4, Monterrey Metrorrey L1–L3 & Mexico City Xochimilco Light Rail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.316,
+          25.686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-suburbanos-interoceanico-chepe-mexico",
+        "nome": "Terminal Buenavista — Cidade do México (Ferrocarril Suburbano e Metrô Linha B)",
+        "linha": "Suburbano Vale do México",
+        "status": "operacao",
+        "integracoes": [
+          "Suburbano Vale do México"
+        ],
+        "sistema_nome_pt": "Trens Convencionais e Suburbanos do México (Suburbano Buenavista–Cuautitlán, Corredor Interoceânico de Tehuantepec e Chepe Express)",
+        "sistema_nome_en": "Mexican Conventional & Commuter Rail (Valle de México Suburbano, Isthmus of Tehuantepec Interoceanic Rail & Chepe Express)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.152,
+          19.447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-suburbanos-interoceanico-chepe-mexico",
+        "nome": "Estación Divisadero — Barrancas del Cobre (Chepe Express Chihuahua–Pacífico)",
+        "linha": "Chepe Express",
+        "status": "operacao",
+        "integracoes": [
+          "Chepe Express"
+        ],
+        "sistema_nome_pt": "Trens Convencionais e Suburbanos do México (Suburbano Buenavista–Cuautitlán, Corredor Interoceânico de Tehuantepec e Chepe Express)",
+        "sistema_nome_en": "Mexican Conventional & Commuter Rail (Valle de México Suburbano, Isthmus of Tehuantepec Interoceanic Rail & Chepe Express)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.818,
+          27.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-ferromex-cpkc-mexico",
+        "nome": "Ponte Internacional Ferroviária de Nuevo Laredo (CPKC de México — Fronteira EUA/México)",
+        "linha": "Corredor USMCA CPKC",
+        "status": "operacao",
+        "integracoes": [
+          "Corredor USMCA CPKC"
+        ],
+        "sistema_nome_pt": "Grandes Corredores Ferroviários de Carga do México (Ferromex / Ferrosur e CPKC de México)",
+        "sistema_nome_en": "Mexican Heavy Freight Rail Corridors (Ferromex / Ferrosur & CPKC de México)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.507,
+          27.476
+        ]
+      }
     }
   ]
 }
