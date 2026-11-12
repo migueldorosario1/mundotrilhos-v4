@@ -12990,6 +12990,316 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "subte-buenos-aires-argentina",
+        "linha": "Subte de Buenos Aires (Linhas A, B, C, D, E e H)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Subte de Buenos Aires (Linhas A, B, C, D, E e H)",
+        "sistema_nome_en": "Buenos Aires Underground — Subte (Lines A, B, C, D, E & H)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.468,
+            -34.63
+          ],
+          [
+            -58.406,
+            -34.609
+          ],
+          [
+            -58.373,
+            -34.608
+          ],
+          [
+            -58.379,
+            -34.591
+          ],
+          [
+            -58.41,
+            -34.638
+          ],
+          [
+            -58.456,
+            -34.562
+          ],
+          [
+            -58.485,
+            -34.574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-premetro-buenos-aires-metrotranvia-mendoza-argentina",
+        "linha": "Tren de la Costa (Maipú–San Isidro–Tigre) e Premetro E2 (Buenos Aires)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs da Argentina (Premetro de Buenos Aires, Tren de la Costa e Metrotranvía de Mendoza)",
+        "sistema_nome_en": "Light Rail of Argentina (Buenos Aires Premetro, Tren de la Costa & Mendoza Metrotranvía)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.461,
+            -34.643
+          ],
+          [
+            -58.477,
+            -34.678
+          ],
+          [
+            -58.481,
+            -34.525
+          ],
+          [
+            -58.508,
+            -34.471
+          ],
+          [
+            -58.579,
+            -34.426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-premetro-buenos-aires-metrotranvia-mendoza-argentina",
+        "linha": "Metrotranvía de Mendoza (Panquehua Las Heras–Estação Mendoza–Gutiérrez Maipú)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs da Argentina (Premetro de Buenos Aires, Tren de la Costa e Metrotranvía de Mendoza)",
+        "sistema_nome_en": "Light Rail of Argentina (Buenos Aires Premetro, Tren de la Costa & Mendoza Metrotranvía)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.838,
+            -32.845
+          ],
+          [
+            -68.851,
+            -32.889
+          ],
+          [
+            -68.828,
+            -32.928
+          ],
+          [
+            -68.789,
+            -32.971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-metropolitanos-buenos-aires-roca-mitre-sarmiento-argentina",
+        "linha": "Trens Metropolitanos AMBA (Roca Constitución–La Plata/Ezeiza, Mitre Retiro–Tigre e Sarmiento Once–Moreno)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Rede de Trens Metropolitanos de Buenos Aires (Linhas Roca, Mitre, Sarmiento, San Martín, Belgrano e Urquiza)",
+        "sistema_nome_en": "Buenos Aires Metropolitan Commuter Rail Network (Roca, Mitre, Sarmiento, San Martín, Belgrano & Urquiza Lines)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.949,
+            -34.904
+          ],
+          [
+            -58.26,
+            -34.724
+          ],
+          [
+            -58.381,
+            -34.628
+          ],
+          [
+            -58.526,
+            -34.822
+          ],
+          [
+            -58.374,
+            -34.591
+          ],
+          [
+            -58.579,
+            -34.426
+          ],
+          [
+            -58.406,
+            -34.609
+          ],
+          [
+            -58.791,
+            -34.651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-longa-distancia-expresso-mar-del-plata-rosario-cordoba-argentina",
+        "linha": "Expresso Atlântico e Pampeano (Buenos Aires–Mar del Plata e Buenos Aires–Rosário–Córdoba)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Expressos Intercidades da Argentina (Buenos Aires–Mar del Plata e Buenos Aires–Rosário–Córdoba)",
+        "sistema_nome_en": "Argentine Fast Intercity Corridors (Buenos Aires–Mar del Plata & Buenos Aires–Rosario–Córdoba)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.562,
+            -37.989
+          ],
+          [
+            -57.676,
+            -36.313
+          ],
+          [
+            -58.015,
+            -35.579
+          ],
+          [
+            -58.381,
+            -34.628
+          ],
+          [
+            -58.374,
+            -34.591
+          ],
+          [
+            -60.65,
+            -32.929
+          ],
+          [
+            -62.083,
+            -32.695
+          ],
+          [
+            -64.176,
+            -31.421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-belgrano-cargas-nca-ferrosur-argentina",
+        "linha": "Corredor Norte e Andino de Carga (Salta/Jujuy–Tucumán–Santa Fe–Portos de Rosário e Mendoza–Rosário–Buenos Aires)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga da Argentina (Trenes Argentinos Cargas — Belgrano, San Martín, Urquiza, NCA e Ferrosur Roca)",
+        "sistema_nome_en": "Argentine Rail Freight Corridors (Trenes Argentinos Cargas — Belgrano, San Martín, Urquiza, NCA & Ferrosur Roca)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -65.411,
+            -24.785
+          ],
+          [
+            -65.217,
+            -26.808
+          ],
+          [
+            -60.705,
+            -31.633
+          ],
+          [
+            -60.692,
+            -32.747
+          ],
+          [
+            -68.827,
+            -32.89
+          ],
+          [
+            -66.335,
+            -33.301
+          ],
+          [
+            -64.349,
+            -33.123
+          ],
+          [
+            -60.65,
+            -32.929
+          ],
+          [
+            -58.381,
+            -34.603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-belgrano-cargas-nca-ferrosur-argentina",
+        "linha": "Corredor Sul Ferrosur Roca e Vaca Muerta (Zapala/Neuquén–Bahía Blanca–Olavarría–Buenos Aires)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga da Argentina (Trenes Argentinos Cargas — Belgrano, San Martín, Urquiza, NCA e Ferrosur Roca)",
+        "sistema_nome_en": "Argentine Rail Freight Corridors (Trenes Argentinos Cargas — Belgrano, San Martín, Urquiza, NCA & Ferrosur Roca)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.064,
+            -38.899
+          ],
+          [
+            -68.059,
+            -38.951
+          ],
+          [
+            -62.266,
+            -38.718
+          ],
+          [
+            -60.322,
+            -36.892
+          ],
+          [
+            -58.381,
+            -34.628
+          ]
+        ]
+      }
     }
   ]
 }

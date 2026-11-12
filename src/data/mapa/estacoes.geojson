@@ -9684,6 +9684,216 @@
           37.975
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "subte-buenos-aires-argentina",
+        "nome": "Plaza de Mayo / Bolívar / Catedral (Subte Linhas A, D e E)",
+        "linha": "Linhas A, D e E",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas A, D e E"
+        ],
+        "sistema_nome_pt": "Subte de Buenos Aires (Linhas A, B, C, D, E e H)",
+        "sistema_nome_en": "Buenos Aires Underground — Subte (Lines A, B, C, D, E & H)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.373,
+          -34.608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "subte-buenos-aires-argentina",
+        "nome": "Obelisco — 9 de Julio / Carlos Pellegrini / Diagonal Norte (Subte B, C e D)",
+        "linha": "Linhas B, C e D",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas B, C e D"
+        ],
+        "sistema_nome_pt": "Subte de Buenos Aires (Linhas A, B, C, D, E e H)",
+        "sistema_nome_en": "Buenos Aires Underground — Subte (Lines A, B, C, D, E & H)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.381,
+          -34.604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-metropolitanos-buenos-aires-roca-mitre-sarmiento-argentina",
+        "nome": "Terminal Retiro (Linhas Mitre, Belgrano Norte, San Martín e Subte C/E)",
+        "linha": "Terminal Retiro",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Retiro"
+        ],
+        "sistema_nome_pt": "Rede de Trens Metropolitanos de Buenos Aires (Linhas Roca, Mitre, Sarmiento, San Martín, Belgrano e Urquiza)",
+        "sistema_nome_en": "Buenos Aires Metropolitan Commuter Rail Network (Roca, Mitre, Sarmiento, San Martín, Belgrano & Urquiza Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.374,
+          -34.591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-metropolitanos-buenos-aires-roca-mitre-sarmiento-argentina",
+        "nome": "Terminal Plaza Constitución (Linha General Roca e Subte C)",
+        "linha": "Linha General Roca",
+        "status": "operacao",
+        "integracoes": [
+          "Linha General Roca"
+        ],
+        "sistema_nome_pt": "Rede de Trens Metropolitanos de Buenos Aires (Linhas Roca, Mitre, Sarmiento, San Martín, Belgrano e Urquiza)",
+        "sistema_nome_en": "Buenos Aires Metropolitan Commuter Rail Network (Roca, Mitre, Sarmiento, San Martín, Belgrano & Urquiza Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.381,
+          -34.628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-metropolitanos-buenos-aires-roca-mitre-sarmiento-argentina",
+        "nome": "Estación La Plata (Linha General Roca)",
+        "linha": "Linha General Roca",
+        "status": "operacao",
+        "integracoes": [
+          "Linha General Roca"
+        ],
+        "sistema_nome_pt": "Rede de Trens Metropolitanos de Buenos Aires (Linhas Roca, Mitre, Sarmiento, San Martín, Belgrano e Urquiza)",
+        "sistema_nome_en": "Buenos Aires Metropolitan Commuter Rail Network (Roca, Mitre, Sarmiento, San Martín, Belgrano & Urquiza Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.949,
+          -34.904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-premetro-buenos-aires-metrotranvia-mendoza-argentina",
+        "nome": "Estación Delta — Tigre (Tren de la Costa)",
+        "linha": "Tren de la Costa",
+        "status": "operacao",
+        "integracoes": [
+          "Tren de la Costa"
+        ],
+        "sistema_nome_pt": "VLTs da Argentina (Premetro de Buenos Aires, Tren de la Costa e Metrotranvía de Mendoza)",
+        "sistema_nome_en": "Light Rail of Argentina (Buenos Aires Premetro, Tren de la Costa & Mendoza Metrotranvía)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.579,
+          -34.426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-premetro-buenos-aires-metrotranvia-mendoza-argentina",
+        "nome": "Estación Mendoza (Metrotranvía de Mendoza)",
+        "linha": "Metrotranvía de Mendoza",
+        "status": "operacao",
+        "integracoes": [
+          "Metrotranvía de Mendoza"
+        ],
+        "sistema_nome_pt": "VLTs da Argentina (Premetro de Buenos Aires, Tren de la Costa e Metrotranvía de Mendoza)",
+        "sistema_nome_en": "Light Rail of Argentina (Buenos Aires Premetro, Tren de la Costa & Mendoza Metrotranvía)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.851,
+          -32.889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-longa-distancia-expresso-mar-del-plata-rosario-cordoba-argentina",
+        "nome": "Estación Mar del Plata (Expresso Atlântico Trenes Argentinos)",
+        "linha": "Expresso Mar del Plata",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Mar del Plata"
+        ],
+        "sistema_nome_pt": "Corredores Expressos Intercidades da Argentina (Buenos Aires–Mar del Plata e Buenos Aires–Rosário–Córdoba)",
+        "sistema_nome_en": "Argentine Fast Intercity Corridors (Buenos Aires–Mar del Plata & Buenos Aires–Rosario–Córdoba)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.562,
+          -37.989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-longa-distancia-expresso-mar-del-plata-rosario-cordoba-argentina",
+        "nome": "Estación Rosario Norte (Trenes Argentinos / NCA)",
+        "linha": "Eixo Buenos Aires–Rosário–Córdoba",
+        "status": "operacao",
+        "integracoes": [
+          "Eixo Buenos Aires–Rosário–Córdoba"
+        ],
+        "sistema_nome_pt": "Corredores Expressos Intercidades da Argentina (Buenos Aires–Mar del Plata e Buenos Aires–Rosário–Córdoba)",
+        "sistema_nome_en": "Argentine Fast Intercity Corridors (Buenos Aires–Mar del Plata & Buenos Aires–Rosario–Córdoba)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.65,
+          -32.929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-belgrano-cargas-nca-ferrosur-argentina",
+        "nome": "Complexo Portuário Ferroviário de San Lorenzo / Gran Rosario (Rio Paraná)",
+        "linha": "Belgrano Cargas / NCA",
+        "status": "operacao",
+        "integracoes": [
+          "Belgrano Cargas / NCA"
+        ],
+        "sistema_nome_pt": "Corredores Ferroviários de Carga da Argentina (Trenes Argentinos Cargas — Belgrano, San Martín, Urquiza, NCA e Ferrosur Roca)",
+        "sistema_nome_en": "Argentine Rail Freight Corridors (Trenes Argentinos Cargas — Belgrano, San Martín, Urquiza, NCA & Ferrosur Roca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.692,
+          -32.747
+        ]
+      }
     }
   ]
 }

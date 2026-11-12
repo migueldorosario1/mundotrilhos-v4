@@ -1,111 +1,123 @@
 {
-  "atualizado_em": "2026-11-11T19:42:00-03:00",
-  "regra": "Ordem Miguel (11/11/2026 17:09): Fazer o Mapa dos Trilhos do mundo inteiro, adicionando 1 país diferente a cada ronda de 30 minutos.",
+  "atualizado_em": "2026-11-12T15:45:00-03:00",
+  "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
       "ordem": 0,
       "pais": "Brasil",
       "bandeira": "🇧🇷",
-      "sistemas": 31,
-      "ronda": "Fase 1 Base"
+      "sistemas_operacao": 28,
+      "ronda": "Fase 1 Base + 5 Modalidades"
     },
     {
       "ordem": 1,
       "pais": "China",
       "bandeira": "🇨🇳",
-      "sistemas": 9,
-      "ronda": "Ronda #8 / País Internacional #1 (17:12 BRT)"
+      "sistemas_operacao": 23,
+      "ronda": "Ronda #8 + Revisão Completa #14 (5 Modalidades)"
     },
     {
       "ordem": 2,
       "pais": "Japão",
       "bandeira": "🇯🇵",
-      "sistemas": 7,
-      "ronda": "Ronda #9 / País Internacional #2 (17:41 BRT)"
+      "sistemas_operacao": 10,
+      "ronda": "Ronda #9 + Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 3,
       "pais": "França",
       "bandeira": "🇫🇷",
-      "sistemas": 7,
-      "ronda": "Ronda #10 / País Internacional #3 (18:11 BRT)"
+      "sistemas_operacao": 8,
+      "ronda": "Ronda #10 + Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 4,
       "pais": "Espanha",
       "bandeira": "🇪🇸",
-      "sistemas": 7,
-      "ronda": "Ronda #11 / País Internacional #4 (18:41 BRT)"
+      "sistemas_operacao": 7,
+      "ronda": "Ronda #11 + Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 5,
       "pais": "Alemanha",
       "bandeira": "🇩🇪",
-      "sistemas": 7,
-      "ronda": "Ronda #12 / País Internacional #5 (19:14 BRT)"
+      "sistemas_operacao": 7,
+      "ronda": "Ronda #12 + Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 6,
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
-      "sistemas": 7,
-      "ronda": "Ronda #13 / País Internacional #6 (19:42 BRT)"
-    }
-  ],
-  "fila_proximas_rondas": [
+      "sistemas_operacao": 7,
+      "ronda": "Ronda #13 + Mega-Sprint #15 (5 Modalidades)"
+    },
     {
       "ordem": 7,
       "pais": "Estados Unidos",
       "bandeira": "🇺🇸",
-      "foco": "New York City Subway, Washington Metro, BART São Francisco, Chicago L, Acela Northeast Corridor, California HSR e Brightline West em obras"
+      "sistemas_operacao": 7,
+      "ronda": "Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 8,
-      "pais": "Argentina",
-      "bandeira": "🇦🇷",
-      "foco": "Subte de Buenos Aires, Trens Metropolitanos Mitre/Roca/Sarmiento, Tren de la Costa, Belgrano Cargas"
+      "pais": "Coreia do Sul",
+      "bandeira": "🇰🇷",
+      "sistemas_operacao": 6,
+      "ronda": "Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 9,
-      "pais": "Chile",
-      "bandeira": "🇨🇱",
-      "foco": "Metrô de Santiago (incluindo Linha 7 em obras), EFE Tren Santiago–Chillán, Limache–Puerto (Valparaíso), Biotrén Concepción"
+      "pais": "Austrália",
+      "bandeira": "🇦🇺",
+      "sistemas_operacao": 5,
+      "ronda": "Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 10,
-      "pais": "México",
-      "bandeira": "🇲🇽",
-      "foco": "Metrô da Cidade do México, Tren Maya, Tren Interurbano México–Toluca (El Insurgente), Mi Tren Guadalajara e Metrorrey"
+      "pais": "Rússia (São Petersburgo)",
+      "bandeira": "🇷🇺",
+      "sistemas_operacao": 5,
+      "ronda": "Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 11,
-      "pais": "Índia",
-      "bandeira": "🇮🇳",
-      "foco": "Metrô de Délhi, Metrô e Suburban de Mumbai, Namo Bharat RRTS, TAV Mumbai–Ahmedabad (Shinkansen indiano em obras)"
+      "pais": "Europa Completa (Itália, Suíça, Áustria, Holanda, Bélgica, Portugal, Suécia, Noruega, Dinamarca, Finlândia, Polônia, Tchéquia, Hungria, Romênia e Grécia)",
+      "bandeira": "🇪🇺",
+      "sistemas_operacao": 30,
+      "ronda": "Mega-Sprint #15 (5 Modalidades)"
     },
     {
       "ordem": 12,
-      "pais": "Coreia do Sul",
-      "bandeira": "🇰🇷",
-      "foco": "Metrô Metropolitano de Seul + GTX (Great Train eXpress), KTX Seul–Busan, Metrô de Busan"
-    },
+      "pais": "Argentina",
+      "bandeira": "🇦🇷",
+      "sistemas_operacao": 5,
+      "ronda": "Ronda #16 (15:45 BRT — 5 Modalidades)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 13,
-      "pais": "Itália",
-      "bandeira": "🇮🇹",
-      "foco": "Metrôs de Milão, Roma e Nápoles, Frecciarossa Alta Velocidade Turim–Milão–Bolonha–Florença–Roma–Nápoles"
+      "pais": "Chile",
+      "bandeira": "🇨🇱",
+      "foco": "Metrô de Santiago, EFE Tren Rancagua/Chillán, Limache–Puerto (Valparaíso), Biotrén Concepción e Ferrocarril de Antofagasta a Bolivia / Ferronor (Cobre/Lítio)"
     },
     {
       "ordem": 14,
-      "pais": "Suíça",
-      "bandeira": "🇨🇭",
-      "foco": "Malha SBB-CFF-FFS, Túnel de Base de São Gotardo (57 km), Glacier Express / Ferrovia Rética, S-Bahn de Zurique"
+      "pais": "México",
+      "bandeira": "🇲🇽",
+      "foco": "Metrô da Cidade do México, Tren Maya, El Insurgente México–Toluca, VLTs de Guadalajara/CDMX/Monterrey e Ferromex/CPKC Carga"
     },
     {
       "ordem": 15,
-      "pais": "Rússia",
-      "bandeira": "🇷🇺",
-      "foco": "Metrô de Moscou (Anel Grande Bolshaya Koltsevaya + MCC), Metrô de São Petersburgo, Sapsan Moscou–São Petersburgo, Ferrovia Transiberiana"
+      "pais": "Índia",
+      "bandeira": "🇮🇳",
+      "foco": "Metrôs de Délhi/Mumbai/Bangalore/Calcutá, Vande Bharat / Namo Bharat RRTS, Indian Railways e Dedicated Freight Corridors (DFCCIL)"
+    },
+    {
+      "ordem": 16,
+      "pais": "Canadá",
+      "bandeira": "🇨🇦",
+      "foco": "Metrôs de Toronto (TTC), Montreal (REM + STM) e Vancouver (SkyTrain), VLTs de Calgary/Edmonton/Ottawa, VIA Rail Corridor/Canadian e CN/CPKC Carga"
     }
   ]
 }
