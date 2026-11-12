@@ -16396,6 +16396,284 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "klia-ekspres-ktm-ets-160kmh-malasia",
+        "linha": "KTM ETS (160 km/h): Padang Besar (Fronteira Tailândia) – Butterworth (Penang) – Ipoh – KL Sentral – Seremban – Gemas – Johor Bahru (JB Sentral)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "KTM ETS (Electric Train Service Padang Besar–KL–Johor 160 km/h) & KLIA Ekspres Aeroporto (160 km/h)",
+        "sistema_nome_en": "KTM ETS (Padang Besar–KL–Johor 160 km/h Fast Rail) & KLIA Ekspres Airport High-Speed Link",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.329,
+            6.663
+          ],
+          [
+            100.365,
+            5.394
+          ],
+          [
+            101.0736,
+            4.5975
+          ],
+          [
+            101.6861,
+            3.1342
+          ],
+          [
+            101.6997,
+            2.7433
+          ],
+          [
+            101.942,
+            2.725
+          ],
+          [
+            102.613,
+            2.583
+          ],
+          [
+            103.7644,
+            1.4631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrt-singapura-6-linhas-automaticas",
+        "linha": "Singapore MRT East–West & North–South Lines (Tuas Link – Jurong East – Raffles Place – Marina Bay – Changi Airport)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "MRT de Singapura — 6 Linhas de Metrô 100% Automáticas (North–South, East–West, North East, Circle, Downtown & Thomson–East Coast)",
+        "sistema_nome_en": "Singapore MRT — 6 Automated Metro Lines (NSL, EWL, NEL, CCL, DTL & TEL)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.6369,
+            1.3404
+          ],
+          [
+            103.7422,
+            1.3331
+          ],
+          [
+            103.8514,
+            1.284
+          ],
+          [
+            103.8606,
+            1.2816
+          ],
+          [
+            103.9885,
+            1.3573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrt-singapura-6-linhas-automaticas",
+        "linha": "Singapore MRT Thomson–East Coast, North East, Circle & Downtown Lines (Woodlands North – Orchard – Marina Bay Sands / Bayfront – East Coast)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "MRT de Singapura — 6 Linhas de Metrô 100% Automáticas (North–South, East–West, North East, Circle, Downtown & Thomson–East Coast)",
+        "sistema_nome_en": "Singapore MRT — 6 Automated Metro Lines (NSL, EWL, NEL, CCL, DTL & TEL)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7855,
+            1.4482
+          ],
+          [
+            103.8318,
+            1.304
+          ],
+          [
+            103.8455,
+            1.299
+          ],
+          [
+            103.8606,
+            1.2816
+          ],
+          [
+            103.929,
+            1.31
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rapid-kl-mrt-lrt-kuala-lumpur-malasia",
+        "linha": "Rapid KL MRT Kajang & Putrajaya Lines + LRT Kelana Jaya (Kwasa Damansara – KL Sentral / Pasar Seni – Tun Razak Exchange TRX – Putrajaya Sentral / Kajang)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô e LRT de Kuala Lumpur (Rapid KL — MRT Kajang & Putrajaya Lines + LRT Kelana Jaya, Ampang & Sri Petaling)",
+        "sistema_nome_en": "Kuala Lumpur Rapid KL Metro & LRT (MRT Kajang & Putrajaya Lines + LRT Kelana Jaya, Ampang & Sri Petaling)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.572,
+            3.1765
+          ],
+          [
+            101.6861,
+            3.1342
+          ],
+          [
+            101.6953,
+            3.1425
+          ],
+          [
+            101.7189,
+            3.1428
+          ],
+          [
+            101.7905,
+            2.993
+          ],
+          [
+            101.671,
+            2.9315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lrt-singapura-sentosa-kl-monorail-malasia",
+        "linha": "Sengkang & Punggol Automated LRT + Sentosa Express Monorail (Singapura) & KL Monorail (KL Sentral – Bukit Bintang – Titiwangsa)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "LRT Automático de Singapura (Bukit Panjang, Sengkang & Punggol + Sentosa Express) & Monotrilho de Kuala Lumpur",
+        "sistema_nome_en": "Singapore Automated LRT (Bukit Panjang, Sengkang, Punggol & Sentosa Express) & KL Monorail",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.8222,
+            1.2654
+          ],
+          [
+            103.8235,
+            1.2545
+          ],
+          [
+            103.895,
+            1.392
+          ],
+          [
+            103.9022,
+            1.4052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ktm-komuter-shuttle-tebrau-singapura-malasia",
+        "linha": "Shuttle Tebrau Internacional (Johor–Singapore Causeway: JB Sentral Malásia – Woodlands Train Checkpoint Singapura) & Ferrovia da Costa Leste (Gemas–Tumpat)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "KTM Komuter (Vale do Klang), Ferrovia da Costa Leste (Jungle Railway) & Trem Internacional Shuttle Tebrau Johor–Singapura",
+        "sistema_nome_en": "KTM Komuter, East Coast Jungle Railway & Johor Bahru–Singapore (Woodlands) Shuttle Tebrau",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.7689,
+            1.4442
+          ],
+          [
+            103.7644,
+            1.4631
+          ],
+          [
+            102.613,
+            2.583
+          ],
+          [
+            102.05,
+            4.15
+          ],
+          [
+            102.164,
+            6.198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-port-klang-tanjung-pelepas-malasia",
+        "linha": "Corredor Portuário de Carga do Estreito de Malaca (KTMB Cargo): Port Klang – Subang – Gemas – Porto de Tanjung Pelepas (PTP) & Pasir Gudang (Johor)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários Portuários de Carga do Estreito de Malaca (Port Klang, Penang, Tanjung Pelepas & Pasir Gudang — KTMB Cargo)",
+        "sistema_nome_en": "Strait of Malacca Port Freight Corridors (Port Klang, Penang, Tanjung Pelepas & Pasir Gudang — KTMB Cargo)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.3919,
+            2.9997
+          ],
+          [
+            101.6861,
+            3.1342
+          ],
+          [
+            102.613,
+            2.583
+          ],
+          [
+            103.551,
+            1.365
+          ],
+          [
+            103.905,
+            1.438
+          ]
+        ]
+      }
     }
   ]
 }

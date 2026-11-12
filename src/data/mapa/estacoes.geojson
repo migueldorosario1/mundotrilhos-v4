@@ -11862,6 +11862,235 @@
           24.308
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "klia-ekspres-ktm-ets-160kmh-malasia",
+        "nome": "KL Sentral (Maior Hub Ferroviário da Malásia — ETS + KLIA Ekspres + LRT + MRT + Monorail + Komuter)",
+        "linha": "KTM ETS / KLIA Ekspres / Rapid KL",
+        "status": "operacao",
+        "integracoes": [
+          "KTM ETS 160 km/h",
+          "KLIA Ekspres 160 km/h",
+          "LRT Kelana Jaya",
+          "MRT Kajang",
+          "KL Monorail"
+        ],
+        "sistema_nome_pt": "KTM ETS (Electric Train Service Padang Besar–KL–Johor 160 km/h) & KLIA Ekspres Aeroporto (160 km/h)",
+        "sistema_nome_en": "KTM ETS (Padang Besar–KL–Johor 160 km/h Fast Rail) & KLIA Ekspres Airport High-Speed Link"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6861,
+          3.1342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "klia-ekspres-ktm-ets-160kmh-malasia",
+        "nome": "KLIA Terminal 1 & 2 Station (KLIA Ekspres 160 km/h)",
+        "linha": "KLIA Ekspres / KLIA Transit",
+        "status": "operacao",
+        "integracoes": [
+          "KLIA Ekspres",
+          "Aeroporto Internacional de Kuala Lumpur"
+        ],
+        "sistema_nome_pt": "KTM ETS (Electric Train Service Padang Besar–KL–Johor 160 km/h) & KLIA Ekspres Aeroporto (160 km/h)",
+        "sistema_nome_en": "KTM ETS (Padang Besar–KL–Johor 160 km/h Fast Rail) & KLIA Ekspres Airport High-Speed Link"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6997,
+          2.7433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "klia-ekspres-ktm-ets-160kmh-malasia",
+        "nome": "Ipoh Railway Station (Estação Histórica e Eixo ETS)",
+        "linha": "KTM ETS",
+        "status": "operacao",
+        "integracoes": [
+          "KTM ETS 160 km/h",
+          "KTM Komuter Northern Sector"
+        ],
+        "sistema_nome_pt": "KTM ETS (Electric Train Service Padang Besar–KL–Johor 160 km/h) & KLIA Ekspres Aeroporto (160 km/h)",
+        "sistema_nome_en": "KTM ETS (Padang Besar–KL–Johor 160 km/h Fast Rail) & KLIA Ekspres Airport High-Speed Link"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0736,
+          4.5975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrt-singapura-6-linhas-automaticas",
+        "nome": "Raffles Place & Marina Bay / Bayfront MRT (Coração Financeiro de Singapura)",
+        "linha": "North–South / East–West / Circle / Downtown / Thomson–East Coast",
+        "status": "operacao",
+        "integracoes": [
+          "NSL",
+          "EWL",
+          "CCL",
+          "DTL",
+          "TEL"
+        ],
+        "sistema_nome_pt": "MRT de Singapura — 6 Linhas de Metrô 100% Automáticas (North–South, East–West, North East, Circle, Downtown & Thomson–East Coast)",
+        "sistema_nome_en": "Singapore MRT — 6 Automated Metro Lines (NSL, EWL, NEL, CCL, DTL & TEL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8514,
+          1.284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrt-singapura-6-linhas-automaticas",
+        "nome": "Changi Airport MRT Station (Jewel Changi Airport)",
+        "linha": "East–West Line Changi Branch",
+        "status": "operacao",
+        "integracoes": [
+          "Singapore MRT EWL",
+          "Terminais 1, 2 e 3 Changi Airport"
+        ],
+        "sistema_nome_pt": "MRT de Singapura — 6 Linhas de Metrô 100% Automáticas (North–South, East–West, North East, Circle, Downtown & Thomson–East Coast)",
+        "sistema_nome_en": "Singapore MRT — 6 Automated Metro Lines (NSL, EWL, NEL, CCL, DTL & TEL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9885,
+          1.3573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrt-singapura-6-linhas-automaticas",
+        "nome": "Dhoby Ghaut & Orchard MRT (Grande Intercâmbio de 3 Linhas)",
+        "linha": "NSL / NEL / CCL / TEL",
+        "status": "operacao",
+        "integracoes": [
+          "North–South Line",
+          "North East Line",
+          "Circle Line"
+        ],
+        "sistema_nome_pt": "MRT de Singapura — 6 Linhas de Metrô 100% Automáticas (North–South, East–West, North East, Circle, Downtown & Thomson–East Coast)",
+        "sistema_nome_en": "Singapore MRT — 6 Automated Metro Lines (NSL, EWL, NEL, CCL, DTL & TEL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8455,
+          1.299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rapid-kl-mrt-lrt-kuala-lumpur-malasia",
+        "nome": "Pasar Seni & Tun Razak Exchange TRX (Hub Subterrâneo MRT Kajang & Putrajaya Lines)",
+        "linha": "MRT Kajang / MRT Putrajaya / LRT Kelana Jaya",
+        "status": "operacao",
+        "integracoes": [
+          "MRT Kajang Line",
+          "MRT Putrajaya Line"
+        ],
+        "sistema_nome_pt": "Metrô e LRT de Kuala Lumpur (Rapid KL — MRT Kajang & Putrajaya Lines + LRT Kelana Jaya, Ampang & Sri Petaling)",
+        "sistema_nome_en": "Kuala Lumpur Rapid KL Metro & LRT (MRT Kajang & Putrajaya Lines + LRT Kelana Jaya, Ampang & Sri Petaling)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7189,
+          3.1428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lrt-singapura-sentosa-kl-monorail-malasia",
+        "nome": "HarbourFront / VivoCity Station (Terminal do Monotrilho Sentosa Express + MRT NEL/CCL)",
+        "linha": "Sentosa Express / NEL / CCL",
+        "status": "operacao",
+        "integracoes": [
+          "Sentosa Express Monorail",
+          "North East Line",
+          "Circle Line"
+        ],
+        "sistema_nome_pt": "LRT Automático de Singapura (Bukit Panjang, Sengkang & Punggol + Sentosa Express) & Monotrilho de Kuala Lumpur",
+        "sistema_nome_en": "Singapore Automated LRT (Bukit Panjang, Sengkang, Punggol & Sentosa Express) & KL Monorail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8222,
+          1.2654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ktm-komuter-shuttle-tebrau-singapura-malasia",
+        "nome": "JB Sentral & Woodlands Train Checkpoint (Travessia Ferroviária Internacional Malásia–Singapura)",
+        "linha": "Shuttle Tebrau / KTM ETS",
+        "status": "operacao",
+        "integracoes": [
+          "Shuttle Tebrau Internacional",
+          "KTM ETS",
+          "Futuro RTS Link Johor–Singapura"
+        ],
+        "sistema_nome_pt": "KTM Komuter (Vale do Klang), Ferrovia da Costa Leste (Jungle Railway) & Trem Internacional Shuttle Tebrau Johor–Singapura",
+        "sistema_nome_en": "KTM Komuter, East Coast Jungle Railway & Johor Bahru–Singapore (Woodlands) Shuttle Tebrau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7644,
+          1.4631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-port-klang-tanjung-pelepas-malasia",
+        "nome": "Terminal Ferroviário de Contêineres de Port Klang (Estreito de Malaca)",
+        "linha": "Corredor de Carga KTMB",
+        "status": "operacao",
+        "integracoes": [
+          "KTMB Cargo",
+          "Northport & Westports Port Klang"
+        ],
+        "sistema_nome_pt": "Corredores Ferroviários Portuários de Carga do Estreito de Malaca (Port Klang, Penang, Tanjung Pelepas & Pasir Gudang — KTMB Cargo)",
+        "sistema_nome_en": "Strait of Malacca Port Freight Corridors (Port Klang, Penang, Tanjung Pelepas & Pasir Gudang — KTMB Cargo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3919,
+          2.9997
+        ]
+      }
     }
   ]
 }
