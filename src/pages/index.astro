@@ -62,6 +62,34 @@ for (const sys of sistemas) {
 				width: min(1280px, calc(100% - 2em));
 				box-sizing: border-box;
 			}
+
+			.manifesto-banner {
+				display: block;
+				position: relative;
+				isolation: isolate;
+				overflow: hidden;
+				margin: 0 0 2rem;
+				padding: clamp(1.5rem, 4vw, 3rem);
+				border-radius: 16px;
+				background: #132e32;
+				color: #fff;
+				text-decoration: none;
+				border: 1px solid #315156;
+			}
+			.manifesto-banner::after {
+				content: '';
+				position: absolute;
+				inset: 0;
+				z-index: -1;
+				background: repeating-linear-gradient(120deg, transparent 0 66px, #ffffff05 66px 68px);
+			}
+			.manifesto-banner:hover { color: #fff; border-color: #f4b36a; }
+			.manifesto-banner:focus-visible { outline: 3px solid #d35400; outline-offset: 5px; }
+			.manifesto-kicker { display: block; color: #f4b36a; font-size: .75rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
+			.manifesto-heading { color: #fff; font-size: clamp(2.6rem, 6.5vw, 5.5rem); line-height: 1.08; letter-spacing: -.035em; margin: .5rem 0 .7rem; }
+			.manifesto-subtitle { max-width: 44rem; margin: 0; font-size: clamp(1.1rem, 2.4vw, 1.6rem); line-height: 1.4; color: #e3eeee; }
+			.manifesto-cta { display: inline-block; margin-top: 1.5rem; padding: .5rem 1rem; background: #f4b36a; color: #132e32; border-radius: 6px; font-size: .9rem; font-weight: 700; }
+
 			.home-mapa-section {
 				margin-bottom: 1.5rem;
 			}
@@ -233,6 +261,13 @@ for (const sys of sistemas) {
 	<body>
 		<Header />
 		<main>
+			<a class="manifesto-banner" href="https://www.ocafezinho.com/2026-11-12/e-trem-lula/" aria-label="Leia o manifesto É trem, Lula! no Cafezinho">
+				<span class="manifesto-kicker">Manifesto · Miguel do Rosário</span>
+				<h1 class="manifesto-heading">É trem, Lula!</h1>
+				<p class="manifesto-subtitle">Por um projeto nacional de mobilidade sobre trilhos</p>
+				<span class="manifesto-cta">Leia o manifesto no Cafezinho <span aria-hidden="true">→</span></span>
+			</a>
+
 			<div class="home-mapa-section">
 				<MapaApp
 					lang="pt-br"
