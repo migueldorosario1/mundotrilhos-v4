@@ -14440,6 +14440,336 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "via-rail-corridor-quebec-windsor-canada",
+        "linha": "VIA Rail Corridor (Cidade de Quebec–Montreal–Ottawa–Kingston–Toronto–London–Windsor)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VIA Rail Corridor (Eixo Rápido Cidade de Quebec–Montreal–Ottawa–Toronto–Windsor — 160 km/h)",
+        "sistema_nome_en": "VIA Rail Corridor (Quebec City–Montreal–Ottawa–Toronto–Windsor Fast Intercity Rail — 160 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.214,
+            46.817
+          ],
+          [
+            -72.542,
+            46.343
+          ],
+          [
+            -73.567,
+            45.5
+          ],
+          [
+            -75.651,
+            45.416
+          ],
+          [
+            -76.495,
+            44.258
+          ],
+          [
+            -79.38,
+            43.645
+          ],
+          [
+            -81.246,
+            42.983
+          ],
+          [
+            -83.005,
+            42.326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-toronto-montreal-vancouver-canada",
+        "linha": "Metrôs de Toronto (TTC L1/L2/L4), Montreal (STM + REM Automático) e Vancouver (SkyTrain Expo/Millennium/Canada Line)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs do Canadá (Toronto Subway TTC, Metrô de Montreal STM + REM Automático e Vancouver SkyTrain)",
+        "sistema_nome_en": "Metros of Canada (Toronto TTC Subway, Montreal STM Metro + Automated REM & Vancouver SkyTrain)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.535,
+            43.638
+          ],
+          [
+            -79.38,
+            43.645
+          ],
+          [
+            -79.411,
+            43.78
+          ],
+          [
+            -79.263,
+            43.732
+          ],
+          [
+            -73.63,
+            45.556
+          ],
+          [
+            -73.567,
+            45.5
+          ],
+          [
+            -73.44,
+            45.445
+          ],
+          [
+            -123.182,
+            49.194
+          ],
+          [
+            -123.112,
+            49.285
+          ],
+          [
+            -122.849,
+            49.189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-toronto-streetcar-calgary-edmonton-ottawa-waterloo-canada",
+        "linha": "Toronto Streetcars, Calgary CTrain (Red/Blue Lines), Edmonton LRT e Ottawa O-Train (Linhas 1 e 2)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes do Canadá (Toronto Streetcars, Calgary CTrain, Edmonton LRT, Ottawa O-Train e Waterloo ION)",
+        "sistema_nome_en": "Light Rail & Streetcars of Canada (Toronto Streetcar Network, Calgary CTrain, Edmonton LRT, Ottawa O-Train & Waterloo ION)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.21,
+            51.125
+          ],
+          [
+            -114.072,
+            51.045
+          ],
+          [
+            -114.062,
+            50.902
+          ],
+          [
+            -113.525,
+            53.6
+          ],
+          [
+            -113.493,
+            53.541
+          ],
+          [
+            -113.425,
+            53.458
+          ],
+          [
+            -75.76,
+            45.35
+          ],
+          [
+            -75.697,
+            45.421
+          ],
+          [
+            -75.605,
+            45.435
+          ],
+          [
+            -79.46,
+            43.64
+          ],
+          [
+            -79.38,
+            43.645
+          ],
+          [
+            -79.29,
+            43.67
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-transcontinentais-the-canadian-go-transit-exo-canada",
+        "linha": "VIA Rail 'The Canadian' (Toronto–Sudbury–Winnipeg–Saskatoon–Edmonton–Jasper–Kamloops–Vancouver) e 'The Ocean' (Montreal–Halifax)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trens Transcontinentais (VIA Rail 'The Canadian', 'The Ocean' e Rocky Mountaineer) e Redes Suburbanas (GO Transit, Exo e West Coast Express)",
+        "sistema_nome_en": "Canadian Transcontinental Trains (VIA Rail 'The Canadian', 'The Ocean' & Rocky Mountaineer) and Commuter Rail (GO Transit, Exo & West Coast Express)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.57,
+            44.639
+          ],
+          [
+            -64.778,
+            46.088
+          ],
+          [
+            -68.524,
+            48.452
+          ],
+          [
+            -71.214,
+            46.817
+          ],
+          [
+            -73.567,
+            45.5
+          ],
+          [
+            -79.38,
+            43.645
+          ],
+          [
+            -80.99,
+            46.49
+          ],
+          [
+            -89.25,
+            49.85
+          ],
+          [
+            -97.135,
+            49.889
+          ],
+          [
+            -106.67,
+            52.133
+          ],
+          [
+            -113.493,
+            53.541
+          ],
+          [
+            -118.081,
+            52.873
+          ],
+          [
+            -120.327,
+            50.674
+          ],
+          [
+            -123.098,
+            49.273
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-cn-cpkc-transcontinental-canada",
+        "linha": "Corredor Transcontinental CN e CPKC (Porto de Prince Rupert e Vancouver–Calgary/Banff–Regina–Winnipeg–Thunder Bay–Toronto–Montreal–Porto de Halifax) + Ferrovia de Minério QNS&L (Labrador City–Sept-Îles)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Superferrovias Transcontinentais de Carga Classe I do Canadá (Canadian National — CN, CPKC e Ferrovia de Minério QNS&L Labrador)",
+        "sistema_nome_en": "Canadian Class I Transcontinental Freight Railroads (Canadian National — CN, CPKC & QNS&L Labrador Iron Ore Railway)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.32,
+            54.315
+          ],
+          [
+            -122.749,
+            53.917
+          ],
+          [
+            -118.081,
+            52.873
+          ],
+          [
+            -113.493,
+            53.541
+          ],
+          [
+            -123.112,
+            49.285
+          ],
+          [
+            -116.48,
+            51.425
+          ],
+          [
+            -114.072,
+            51.045
+          ],
+          [
+            -104.618,
+            50.445
+          ],
+          [
+            -97.135,
+            49.889
+          ],
+          [
+            -89.247,
+            48.38
+          ],
+          [
+            -79.38,
+            43.645
+          ],
+          [
+            -73.567,
+            45.5
+          ],
+          [
+            -66.063,
+            45.273
+          ],
+          [
+            -63.57,
+            44.639
+          ],
+          [
+            -66.382,
+            50.21
+          ],
+          [
+            -66.915,
+            52.945
+          ]
+        ]
+      }
     }
   ]
 }

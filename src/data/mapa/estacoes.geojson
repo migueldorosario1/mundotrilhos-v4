@@ -10503,6 +10503,216 @@
           18.95
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "via-rail-corridor-quebec-windsor-canada",
+        "nome": "Toronto Union Station (Maior Hub Ferroviário do Canadá — VIA Rail / GO Transit / TTC Subway / UP Express)",
+        "linha": "VIA Rail / GO Transit / TTC",
+        "status": "operacao",
+        "integracoes": [
+          "VIA Rail / GO Transit / TTC"
+        ],
+        "sistema_nome_pt": "VIA Rail Corridor (Eixo Rápido Cidade de Quebec–Montreal–Ottawa–Toronto–Windsor — 160 km/h)",
+        "sistema_nome_en": "VIA Rail Corridor (Quebec City–Montreal–Ottawa–Toronto–Windsor Fast Intercity Rail — 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38,
+          43.645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "via-rail-corridor-quebec-windsor-canada",
+        "nome": "Gare Centrale de Montréal (VIA Rail / Exo / REM Automático / STM Linha Laranja)",
+        "linha": "VIA Rail / REM / STM",
+        "status": "operacao",
+        "integracoes": [
+          "VIA Rail / REM / STM"
+        ],
+        "sistema_nome_pt": "VIA Rail Corridor (Eixo Rápido Cidade de Quebec–Montreal–Ottawa–Toronto–Windsor — 160 km/h)",
+        "sistema_nome_en": "VIA Rail Corridor (Quebec City–Montreal–Ottawa–Toronto–Windsor Fast Intercity Rail — 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567,
+          45.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "via-rail-corridor-quebec-windsor-canada",
+        "nome": "Gare du Palais — Cidade de Quebec (Terminal Histórico VIA Rail)",
+        "linha": "VIA Rail Corridor",
+        "status": "operacao",
+        "integracoes": [
+          "VIA Rail Corridor"
+        ],
+        "sistema_nome_pt": "VIA Rail Corridor (Eixo Rápido Cidade de Quebec–Montreal–Ottawa–Toronto–Windsor — 160 km/h)",
+        "sistema_nome_en": "VIA Rail Corridor (Quebec City–Montreal–Ottawa–Toronto–Windsor Fast Intercity Rail — 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.214,
+          46.817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-toronto-montreal-vancouver-canada",
+        "nome": "Waterfront Station — Vancouver (Hub SkyTrain Expo & Canada Lines / SeaBus / West Coast Express)",
+        "linha": "SkyTrain Vancouver",
+        "status": "operacao",
+        "integracoes": [
+          "SkyTrain Vancouver"
+        ],
+        "sistema_nome_pt": "Metrôs do Canadá (Toronto Subway TTC, Metrô de Montreal STM + REM Automático e Vancouver SkyTrain)",
+        "sistema_nome_en": "Metros of Canada (Toronto TTC Subway, Montreal STM Metro + Automated REM & Vancouver SkyTrain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.112,
+          49.285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-toronto-streetcar-calgary-edmonton-ottawa-waterloo-canada",
+        "nome": "Calgary City Hall / 7th Avenue Transit Mall (Calgary CTrain Red & Blue Lines)",
+        "linha": "Calgary CTrain",
+        "status": "operacao",
+        "integracoes": [
+          "Calgary CTrain"
+        ],
+        "sistema_nome_pt": "VLTs e Bondes do Canadá (Toronto Streetcars, Calgary CTrain, Edmonton LRT, Ottawa O-Train e Waterloo ION)",
+        "sistema_nome_en": "Light Rail & Streetcars of Canada (Toronto Streetcar Network, Calgary CTrain, Edmonton LRT, Ottawa O-Train & Waterloo ION)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.057,
+          51.045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-toronto-streetcar-calgary-edmonton-ottawa-waterloo-canada",
+        "nome": "Rideau / Parliament Station — Ottawa (O-Train Confederation Line 1)",
+        "linha": "Ottawa O-Train",
+        "status": "operacao",
+        "integracoes": [
+          "Ottawa O-Train"
+        ],
+        "sistema_nome_pt": "VLTs e Bondes do Canadá (Toronto Streetcars, Calgary CTrain, Edmonton LRT, Ottawa O-Train e Waterloo ION)",
+        "sistema_nome_en": "Light Rail & Streetcars of Canada (Toronto Streetcar Network, Calgary CTrain, Edmonton LRT, Ottawa O-Train & Waterloo ION)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.697,
+          45.421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-transcontinentais-the-canadian-go-transit-exo-canada",
+        "nome": "Winnipeg Union Station (Marco Central do Transcontinental 'The Canadian' e Ferrovia da Baía de Hudson)",
+        "linha": "The Canadian VIA Rail",
+        "status": "operacao",
+        "integracoes": [
+          "The Canadian VIA Rail"
+        ],
+        "sistema_nome_pt": "Trens Transcontinentais (VIA Rail 'The Canadian', 'The Ocean' e Rocky Mountaineer) e Redes Suburbanas (GO Transit, Exo e West Coast Express)",
+        "sistema_nome_en": "Canadian Transcontinental Trains (VIA Rail 'The Canadian', 'The Ocean' & Rocky Mountaineer) and Commuter Rail (GO Transit, Exo & West Coast Express)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135,
+          49.889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-transcontinentais-the-canadian-go-transit-exo-canada",
+        "nome": "Jasper Station — Montanhas Rochosas Canadenses (VIA Rail 'The Canadian' & Rocky Mountaineer)",
+        "linha": "The Canadian / Rocky Mountaineer",
+        "status": "operacao",
+        "integracoes": [
+          "The Canadian / Rocky Mountaineer"
+        ],
+        "sistema_nome_pt": "Trens Transcontinentais (VIA Rail 'The Canadian', 'The Ocean' e Rocky Mountaineer) e Redes Suburbanas (GO Transit, Exo e West Coast Express)",
+        "sistema_nome_en": "Canadian Transcontinental Trains (VIA Rail 'The Canadian', 'The Ocean' & Rocky Mountaineer) and Commuter Rail (GO Transit, Exo & West Coast Express)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.081,
+          52.873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-cn-cpkc-transcontinental-canada",
+        "nome": "Túneis Espirais de Kicking Horse Pass — Banff/Yoho (Corredor Transcontinental CPKC)",
+        "linha": "CPKC Main Line",
+        "status": "operacao",
+        "integracoes": [
+          "CPKC Main Line"
+        ],
+        "sistema_nome_pt": "Superferrovias Transcontinentais de Carga Classe I do Canadá (Canadian National — CN, CPKC e Ferrovia de Minério QNS&L Labrador)",
+        "sistema_nome_en": "Canadian Class I Transcontinental Freight Railroads (Canadian National — CN, CPKC & QNS&L Labrador Iron Ore Railway)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.425,
+          51.425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-cn-cpkc-transcontinental-canada",
+        "nome": "Porto Ferroviário de Prince Rupert (Terminal Pacífico Norte da Canadian National — CN)",
+        "linha": "CN Northern Main Line",
+        "status": "operacao",
+        "integracoes": [
+          "CN Northern Main Line"
+        ],
+        "sistema_nome_pt": "Superferrovias Transcontinentais de Carga Classe I do Canadá (Canadian National — CN, CPKC e Ferrovia de Minério QNS&L Labrador)",
+        "sistema_nome_en": "Canadian Class I Transcontinental Freight Railroads (Canadian National — CN, CPKC & QNS&L Labrador Iron Ore Railway)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.32,
+          54.315
+        ]
+      }
     }
   ]
 }
