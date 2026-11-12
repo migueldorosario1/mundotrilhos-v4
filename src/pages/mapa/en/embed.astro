@@ -1,0 +1,26 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import estacoesRaw from '../../../data/mapa/estacoes.geojson?raw';
+import fontesData from '../../../data/mapa/fontes.json';
+import linhasRaw from '../../../data/mapa/linhas.geojson?raw';
+import sistemasData from '../../../data/mapa/sistemas.json';
+import MapaApp from '../../../mapa/MapaApp.astro';
+import { getMapaI18n } from '../../../mapa/i18n';
+import type { FonteCitada, SistemaRegistro } from '../../../mapa/types';
+const t = getMapaI18n('en');
+---
+<!doctype html>
+<html lang="en">
+<head>
+<BaseHead title={`${t.pageTitle} | Mundo Trilhos`} description={t.pageDescription} noindex={true} />
+<style>
+html, body { margin: 0; padding: 0; width: 100%; max-width: 100vw; overflow-x: hidden; }
+main { width: 100%; max-width: 100%; margin: 0; padding: 0; box-sizing: border-box; }
+</style>
+</head>
+<body>
+<main>
+<MapaApp lang="en" sistemas={sistemasData as SistemaRegistro[]} linhasGeojson={JSON.parse(linhasRaw)} estacoesGeojson={JSON.parse(estacoesRaw)} fontes={fontesData as FonteCitada[]} relatedBySystemId={{}} />
+</main>
+</body>
+</html>
