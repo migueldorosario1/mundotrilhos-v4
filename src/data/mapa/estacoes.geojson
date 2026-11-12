@@ -11187,6 +11187,232 @@
           30.657
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "gautrain-joanesburgo-pretoria-aeroporto-or-tambo-africa-do-sul",
+        "nome": "Sandton Station (Hub Central Subterrâneo do Gautrain — 45 m de profundidade)",
+        "linha": "Gautrain Norte–Sul / Aeroporto",
+        "status": "operacao",
+        "integracoes": [
+          "Gautrain Norte–Sul",
+          "Gautrain Expresso Aeroporto OR Tambo"
+        ],
+        "sistema_nome_pt": "Gautrain — Ferrovia Rápida Joanesburgo–Sandton–Pretória & Aeroporto OR Tambo (160 km/h)",
+        "sistema_nome_en": "Gautrain — Johannesburg–Sandton–Pretoria & OR Tambo Airport Rapid Rail (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0567,
+          -26.1076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "gautrain-joanesburgo-pretoria-aeroporto-or-tambo-africa-do-sul",
+        "nome": "OR Tambo International Airport Station (Gautrain)",
+        "linha": "Gautrain Linha do Aeroporto",
+        "status": "operacao",
+        "integracoes": [
+          "Gautrain 160 km/h",
+          "Terminal A & B Aeroporto Internacional OR Tambo"
+        ],
+        "sistema_nome_pt": "Gautrain — Ferrovia Rápida Joanesburgo–Sandton–Pretória & Aeroporto OR Tambo (160 km/h)",
+        "sistema_nome_en": "Gautrain — Johannesburg–Sandton–Pretoria & OR Tambo Airport Rapid Rail (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2314,
+          -26.1336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "gautrain-joanesburgo-pretoria-aeroporto-or-tambo-africa-do-sul",
+        "nome": "Johannesburg Park Station (Maior Hub Ferroviário da África Austral)",
+        "linha": "Gautrain / Metrorail / Shosholoza Meyl",
+        "status": "operacao",
+        "integracoes": [
+          "Gautrain",
+          "PRASA Metrorail Gauteng",
+          "Shosholoza Meyl",
+          "Rea Vaya BRT"
+        ],
+        "sistema_nome_pt": "Gautrain — Ferrovia Rápida Joanesburgo–Sandton–Pretória & Aeroporto OR Tambo (160 km/h)",
+        "sistema_nome_en": "Gautrain — Johannesburg–Sandton–Pretoria & OR Tambo Airport Rapid Rail (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0416,
+          -26.1972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metrorail-cidade-do-cabo-joanesburgo-durban-africa-do-sul",
+        "nome": "Cape Town Station (Terminal Central Metrorail & The Blue Train)",
+        "linha": "Metrorail Southern / Northern / Central Lines",
+        "status": "operacao",
+        "integracoes": [
+          "Metrorail Cidade do Cabo",
+          "The Blue Train",
+          "Rovos Rail",
+          "MyCiTi BRT"
+        ],
+        "sistema_nome_pt": "PRASA Metrorail — Redes Metropolitanas da Cidade do Cabo, Gauteng (Joanesburgo/Pretória) e Durban",
+        "sistema_nome_en": "PRASA Metrorail — Cape Town, Gauteng (Johannesburg/Pretoria) & Durban Urban Rail Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4258,
+          -33.9221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metrorail-cidade-do-cabo-joanesburgo-durban-africa-do-sul",
+        "nome": "Simon's Town Station (Terminal Costeiro da Península do Cabo)",
+        "linha": "Metrorail Southern Line",
+        "status": "operacao",
+        "integracoes": [
+          "Metrorail Southern Line",
+          "Base Naval de Simon's Town / Boulders Beach"
+        ],
+        "sistema_nome_pt": "PRASA Metrorail — Redes Metropolitanas da Cidade do Cabo, Gauteng (Joanesburgo/Pretória) e Durban",
+        "sistema_nome_en": "PRASA Metrorail — Cape Town, Gauteng (Johannesburg/Pretoria) & Durban Urban Rail Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4319,
+          -34.1894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-bondes-franschhoek-wine-tram-kimberley-africa-do-sul",
+        "nome": "Franschhoek Terminal (Wine Tram Double-Decker)",
+        "linha": "Franschhoek Wine Tram",
+        "status": "operacao",
+        "integracoes": [
+          "Bondes de Dois Andares Franschhoek"
+        ],
+        "sistema_nome_pt": "Bondes sobre Trilhos de Franschhoek (Cape Winelands Double-Decker) & Kimberley (1887)",
+        "sistema_nome_en": "Franschhoek Wine Tram (Cape Winelands Double-Decker) & Kimberley Historic Tramway (1887)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118,
+          -33.908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-longa-distancia-shosholoza-meyl-blue-train-rovos-rail-africa-do-sul",
+        "nome": "Pretoria Station & Capital Park (Terminal The Blue Train & Rovos Rail)",
+        "linha": "Corredor Trans-Karoo / Gautrain",
+        "status": "operacao",
+        "integracoes": [
+          "The Blue Train",
+          "Rovos Rail",
+          "Gautrain",
+          "Metrorail Tshwane"
+        ],
+        "sistema_nome_pt": "Trens Transcontinentais (Shosholoza Meyl, The Blue Train & Rovos Rail — Cidade do Cabo–Kimberley–Joanesburgo–Pretória)",
+        "sistema_nome_en": "Long-Distance & Luxury Rail (Shosholoza Meyl, The Blue Train & Rovos Rail — Cape Town–Kimberley–Johannesburg–Pretoria)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1886,
+          -25.7586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-longa-distancia-shosholoza-meyl-blue-train-rovos-rail-africa-do-sul",
+        "nome": "Kimberley Station (Entroncamento Histórico do Karoo e Bonde Big Hole)",
+        "linha": "Corredor Trans-Karoo",
+        "status": "operacao",
+        "integracoes": [
+          "The Blue Train",
+          "Rovos Rail",
+          "Bonde Histórico de Kimberley 1887"
+        ],
+        "sistema_nome_pt": "Trens Transcontinentais (Shosholoza Meyl, The Blue Train & Rovos Rail — Cidade do Cabo–Kimberley–Joanesburgo–Pretória)",
+        "sistema_nome_en": "Long-Distance & Luxury Rail (Shosholoza Meyl, The Blue Train & Rovos Rail — Cape Town–Kimberley–Johannesburg–Pretoria)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7499,
+          -28.7282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-sishen-saldanha-richards-bay-transnet-africa-do-sul",
+        "nome": "Terminal de Minério de Ferro de Saldanha Bay (OREX 50 kV CA)",
+        "linha": "Ferrovia Sishen–Saldanha",
+        "status": "operacao",
+        "integracoes": [
+          "Transnet OREX (Trens de 342 vagões e 4,1 km)",
+          "Porto de Saldanha Bay"
+        ],
+        "sistema_nome_pt": "Superferrovias Heavy-Haul de Minério (Sishen–Saldanha 50 kV, trens de 4,1 km) e Carvão (Ermelo–Richards Bay) — Transnet",
+        "sistema_nome_en": "Transnet Heavy-Haul Iron Ore (Sishen–Saldanha 50 kV, 4.1 km trains) & Coal (Ermelo–Richards Bay) Export Corridors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9442,
+          -33.0117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-sishen-saldanha-richards-bay-transnet-africa-do-sul",
+        "nome": "Richards Bay Coal Terminal (RBCT — Maior Terminal de Carvão da África)",
+        "linha": "Richards Bay Coal Line",
+        "status": "operacao",
+        "integracoes": [
+          "Transnet Heavy-Haul Coal Line",
+          "Porto de Richards Bay"
+        ],
+        "sistema_nome_pt": "Superferrovias Heavy-Haul de Minério (Sishen–Saldanha 50 kV, trens de 4,1 km) e Carvão (Ermelo–Richards Bay) — Transnet",
+        "sistema_nome_en": "Transnet Heavy-Haul Iron Ore (Sishen–Saldanha 50 kV, 4.1 km trains) & Coal (Ermelo–Richards Bay) Export Corridors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0377,
+          -28.783
+        ]
+      }
     }
   ]
 }

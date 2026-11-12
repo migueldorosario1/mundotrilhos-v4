@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T18:45:00-03:00",
+  "atualizado_em": "2026-11-12T19:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -134,15 +134,16 @@
       "bandeira": "🇪🇬",
       "sistemas_operacao": 5,
       "ronda": "Ronda #22 (18:45 BRT — 5 Modalidades)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 19,
       "pais": "África do Sul",
       "bandeira": "🇿🇦",
-      "foco": "Gautrain (Joanesburgo–Pretória–Aeroporto OR Tambo 160 km/h), Metrorail (Cidade do Cabo/Joanesburgo/Durban), Shosholoza Meyl/Blue Train e Superferrovias Heavy-Haul de Minério Sishen–Saldanha e Carvão para Richards Bay"
-    },
+      "sistemas_operacao": 5,
+      "ronda": "Ronda #23 (19:15 BRT — 5 Modalidades)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 20,
       "pais": "Turquia",
@@ -160,6 +161,12 @@
       "pais": "Singapura e Malásia",
       "bandeira": "🇸🇬",
       "foco": "MRT e LRT Automáticos de Singapura, Metrô/Monotrilho/LRT de Kuala Lumpur (Rapid KL), ETS KTM (160 km/h Padang Besar–KL–Gemas) e Corredores de Carga Port Klang / Johor"
+    },
+    {
+      "ordem": 23,
+      "pais": "Indonésia e Tailândia",
+      "bandeira": "🇮🇩",
+      "foco": "Whoosh Trem de Alta Velocidade Jacarta–Bandung (350 km/h — 1º TAV do Sudeste Asiático), MRT/LRT/KRL de Jacarta, BTS Skytrain e MRT de Bangkok, Malhas KAI/SRT e Corredores de Carvão de Sumatra"
     }
   ]
 }

@@ -15400,6 +15400,308 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "gautrain-joanesburgo-pretoria-aeroporto-or-tambo-africa-do-sul",
+        "linha": "Gautrain Eixo Norte–Sul & Linha do Aeroporto (160 km/h): Park Station (Joanesburgo) – Rosebank – Sandton – Midrand – Centurion – Pretória – Hatfield + Ramal Aeroporto OR Tambo",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Gautrain — Ferrovia Rápida Joanesburgo–Sandton–Pretória & Aeroporto OR Tambo (160 km/h)",
+        "sistema_nome_en": "Gautrain — Johannesburg–Sandton–Pretoria & OR Tambo Airport Rapid Rail (160 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0416,
+            -26.1972
+          ],
+          [
+            28.0439,
+            -26.1467
+          ],
+          [
+            28.0567,
+            -26.1076
+          ],
+          [
+            28.1105,
+            -26.0835
+          ],
+          [
+            28.2314,
+            -26.1336
+          ],
+          [
+            28.1105,
+            -26.0835
+          ],
+          [
+            28.1369,
+            -25.9964
+          ],
+          [
+            28.1892,
+            -25.8517
+          ],
+          [
+            28.1886,
+            -25.7586
+          ],
+          [
+            28.2381,
+            -25.7475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metrorail-cidade-do-cabo-joanesburgo-durban-africa-do-sul",
+        "linha": "Metrorail Cidade do Cabo (Southern & Northern Lines: Cape Town Station – Rondebosch – Muizenberg – Fish Hoek – Simon's Town / Bellville)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "PRASA Metrorail — Redes Metropolitanas da Cidade do Cabo, Gauteng (Joanesburgo/Pretória) e Durban",
+        "sistema_nome_en": "PRASA Metrorail — Cape Town, Gauteng (Johannesburg/Pretoria) & Durban Urban Rail Networks",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.4319,
+            -34.1894
+          ],
+          [
+            18.4706,
+            -34.1086
+          ],
+          [
+            18.4744,
+            -33.96
+          ],
+          [
+            18.4258,
+            -33.9221
+          ],
+          [
+            18.6294,
+            -33.9036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metrorail-cidade-do-cabo-joanesburgo-durban-africa-do-sul",
+        "linha": "Metrorail Gauteng (Soweto Naledi – Joanesburgo Park Station – Germiston – Kempton Park – Pretória – Mabopane)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "PRASA Metrorail — Redes Metropolitanas da Cidade do Cabo, Gauteng (Joanesburgo/Pretória) e Durban",
+        "sistema_nome_en": "PRASA Metrorail — Cape Town, Gauteng (Johannesburg/Pretoria) & Durban Urban Rail Networks",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8542,
+            -26.2678
+          ],
+          [
+            28.0416,
+            -26.1972
+          ],
+          [
+            28.167,
+            -26.217
+          ],
+          [
+            28.23,
+            -26.1
+          ],
+          [
+            28.1886,
+            -25.7586
+          ],
+          [
+            28.041,
+            -25.502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-bondes-franschhoek-wine-tram-kimberley-africa-do-sul",
+        "linha": "Franschhoek Wine Tram (Groot Drakenstein – Simondium – Franschhoek Terminal, Cape Winelands)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bondes sobre Trilhos de Franschhoek (Cape Winelands Double-Decker) & Kimberley (1887)",
+        "sistema_nome_en": "Franschhoek Wine Tram (Cape Winelands Double-Decker) & Kimberley Historic Tramway (1887)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.969,
+            -33.835
+          ],
+          [
+            19.018,
+            -33.869
+          ],
+          [
+            19.118,
+            -33.908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-longa-distancia-shosholoza-meyl-blue-train-rovos-rail-africa-do-sul",
+        "linha": "Corredor Trans-Karoo (The Blue Train, Rovos Rail & Shosholoza Meyl): Cidade do Cabo – Worcester – Beaufort West – De Aar – Kimberley – Joanesburgo – Pretória",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trens Transcontinentais (Shosholoza Meyl, The Blue Train & Rovos Rail — Cidade do Cabo–Kimberley–Joanesburgo–Pretória)",
+        "sistema_nome_en": "Long-Distance & Luxury Rail (Shosholoza Meyl, The Blue Train & Rovos Rail — Cape Town–Kimberley–Johannesburg–Pretoria)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.4258,
+            -33.9221
+          ],
+          [
+            19.4485,
+            -33.6465
+          ],
+          [
+            22.5829,
+            -32.3567
+          ],
+          [
+            24.0123,
+            -30.65
+          ],
+          [
+            24.7499,
+            -28.7282
+          ],
+          [
+            26.6667,
+            -26.8667
+          ],
+          [
+            28.0416,
+            -26.1972
+          ],
+          [
+            28.1886,
+            -25.7586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-sishen-saldanha-richards-bay-transnet-africa-do-sul",
+        "linha": "Ferrovia de Minério de Ferro Sishen–Saldanha (OREX 861 km — 50 kV CA, trens de 342 vagões e 4,1 km): Minas de Sishen/Kathu – Loop 10 – Porto de Saldanha Bay",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Superferrovias Heavy-Haul de Minério (Sishen–Saldanha 50 kV, trens de 4,1 km) e Carvão (Ermelo–Richards Bay) — Transnet",
+        "sistema_nome_en": "Transnet Heavy-Haul Iron Ore (Sishen–Saldanha 50 kV, 4.1 km trains) & Coal (Ermelo–Richards Bay) Export Corridors",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.0039,
+            -27.7689
+          ],
+          [
+            21.25,
+            -29.32
+          ],
+          [
+            19.65,
+            -30.95
+          ],
+          [
+            18.35,
+            -31.85
+          ],
+          [
+            17.9442,
+            -33.0117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-sishen-saldanha-richards-bay-transnet-africa-do-sul",
+        "linha": "Corredor de Exportação de Carvão de Richards Bay (580 km — 25 kV CA, trens de 200 vagões) & Natcor: Witbank/Ermelo – Vryheid – Porto de Richards Bay / Joanesburgo – Durban",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Superferrovias Heavy-Haul de Minério (Sishen–Saldanha 50 kV, trens de 4,1 km) e Carvão (Ermelo–Richards Bay) — Transnet",
+        "sistema_nome_en": "Transnet Heavy-Haul Iron Ore (Sishen–Saldanha 50 kV, 4.1 km trains) & Coal (Ermelo–Richards Bay) Export Corridors",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.2333,
+            -25.876
+          ],
+          [
+            29.9833,
+            -26.5333
+          ],
+          [
+            30.7917,
+            -27.7694
+          ],
+          [
+            32.0377,
+            -28.783
+          ],
+          [
+            31.0292,
+            -29.8579
+          ],
+          [
+            29.6025,
+            -29.6006
+          ],
+          [
+            28.0416,
+            -26.1972
+          ]
+        ]
+      }
     }
   ]
 }
