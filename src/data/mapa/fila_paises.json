@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T19:45:00-03:00",
+  "atualizado_em": "2026-11-12T20:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -148,20 +148,21 @@
       "bandeira": "🇹🇷",
       "sistemas_operacao": 6,
       "ronda": "Ronda #24 (19:45 BRT — 5 Modalidades)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 21,
       "pais": "Taiwan",
       "bandeira": "🇹🇼",
-      "foco": "THSR Alta Velocidade Taipei–Kaohsiung (300 km/h), Metrôs de Taipei/Taoyuan/Taichung/Kaohsiung, VLTs de Danhai/Ankeng/Kaohsiung Circular, Anel Ferroviário TRA + Alishan Forest Railway e Ramais de Cimento/Portuários"
-    },
+      "sistemas_operacao": 5,
+      "ronda": "Ronda #25 (20:15 BRT — 5 Modalidades)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 22,
       "pais": "Singapura e Malásia",
       "bandeira": "🇸🇬",
-      "foco": "MRT e LRT Automáticos de Singapura, Metrô/Monotrilho/LRT de Kuala Lumpur (Rapid KL), ETS KTM (160 km/h Padang Besar–KL–Gemas) e Corredores de Carga Port Klang / Johor"
+      "foco": "MRT e LRT Automáticos de Singapura, Metrô/Monotrilho/LRT de Kuala Lumpur (Rapid KL) + KLIA Ekspres (160 km/h), ETS KTM (160 km/h Padang Besar–KL–Gemas–Johor) e Corredores de Carga Port Klang / Johor"
     },
     {
       "ordem": 23,
@@ -174,6 +175,12 @@
       "pais": "Tailândia",
       "bandeira": "🇹🇭",
       "foco": "BTS Skytrain, MRT e Monotrilhos (Yellow/Pink Lines) + Airport Rail Link (160 km/h) de Bangkok, Ferrovia Sino-Tailandesa/Laos (Krung Thep Aphiwat–Vientiane) e Corredor de Carga de Laem Chabang"
+    },
+    {
+      "ordem": 25,
+      "pais": "Arábia Saudita e Emirados Árabes Unidos",
+      "bandeira": "🇸🇦",
+      "foco": "Haramain High Speed Railway Meca–Jeddah–Medina (300 km/h), Metrô de Riad (6 linhas automáticas) + Metrô e Tram de Dubai, Ferrovias SAR Norte–Sul/Leste e Etihad Rail + Corredor de Fosfato/Bauxita Ma'aden"
     }
   ]
 }

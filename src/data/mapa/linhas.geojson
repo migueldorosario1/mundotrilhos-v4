@@ -16070,6 +16070,332 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "thsr-alta-velocidade-taipei-taichung-kaohsiung-taiwan",
+        "linha": "THSR (300 km/h): Nangang – Taipei Main Station – Banqiao – Taoyuan – Hsinchu – Miaoli – Taichung – Changhua – Yunlin – Chiayi – Tainan – Zuoying (Kaohsiung)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Taiwan High Speed Rail (THSR — Taipei Nangang–Taichung–Zuoying Kaohsiung, 300 km/h)",
+        "sistema_nome_en": "Taiwan High Speed Rail (THSR — Taipei Nangang–Taichung–Zuoying Kaohsiung, 300 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.6071,
+            25.0531
+          ],
+          [
+            121.517,
+            25.0478
+          ],
+          [
+            121.4637,
+            25.0142
+          ],
+          [
+            121.2147,
+            25.013
+          ],
+          [
+            121.0402,
+            24.8084
+          ],
+          [
+            120.8253,
+            24.6054
+          ],
+          [
+            120.6157,
+            24.1118
+          ],
+          [
+            120.5746,
+            23.8743
+          ],
+          [
+            120.4163,
+            23.7362
+          ],
+          [
+            120.3232,
+            23.4593
+          ],
+          [
+            120.2861,
+            22.9249
+          ],
+          [
+            120.3075,
+            22.6874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-taipei-taoyuan-taichung-kaohsiung-taiwan",
+        "linha": "Taipei MRT (Tamsui–Xinyi Red Line & Bannan Blue Line) + Taoyuan Airport MRT (Taipei Main Station – Aeroporto de Taoyuan – Zhongli)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs de Taipei (Taipei MRT & New Taipei), Taoyuan Airport MRT, Taichung e Kaohsiung",
+        "sistema_nome_en": "Taipei MRT, New Taipei Metro, Taoyuan Airport MRT, Taichung MRT & Kaohsiung MRT",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.4452,
+            25.1678
+          ],
+          [
+            121.517,
+            25.0478
+          ],
+          [
+            121.5645,
+            25.033
+          ],
+          [
+            121.6175,
+            25.0553
+          ],
+          [
+            121.517,
+            25.0478
+          ],
+          [
+            121.4637,
+            25.0142
+          ],
+          [
+            121.2322,
+            25.0777
+          ],
+          [
+            121.2147,
+            25.013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-taipei-taoyuan-taichung-kaohsiung-taiwan",
+        "linha": "Kaohsiung MRT (Linha Vermelha Gangshan–Zuoying–Formosa Boulevard–Aeroporto–Siaogang & Linha Laranja Hamasen–Daliao)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs de Taipei (Taipei MRT & New Taipei), Taoyuan Airport MRT, Taichung e Kaohsiung",
+        "sistema_nome_en": "Taipei MRT, New Taipei Metro, Taoyuan Airport MRT, Taichung MRT & Kaohsiung MRT",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.3005,
+            22.7805
+          ],
+          [
+            120.3075,
+            22.6874
+          ],
+          [
+            120.302,
+            22.6314
+          ],
+          [
+            120.3425,
+            22.5702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-kaohsiung-circular-danhai-ankeng-taiwan",
+        "linha": "VLT Circular de Kaohsiung (Anel Completo de 22,1 km e 38 estações sem catenária: Lizihnei – Pier-2 Art Center – Hamasen – Museu de Belas Artes – Heart of Love River)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs de Kaohsiung (Anel Circular 100% sem Catenária) e Nova Taipei (Danhai LRT & Ankeng LRT)",
+        "sistema_nome_en": "Kaohsiung Circular Light Rail (Catenary-Free Loop) & New Taipei Light Rail (Danhai & Ankeng LRT)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.311,
+            22.596
+          ],
+          [
+            120.2815,
+            22.62
+          ],
+          [
+            120.289,
+            22.658
+          ],
+          [
+            120.326,
+            22.655
+          ],
+          [
+            120.329,
+            22.615
+          ],
+          [
+            120.311,
+            22.596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tra-anel-ferroviario-insular-alishan-taiwan",
+        "linha": "Anel Ferroviário Insular de Taiwan (TRA): Taipei – Keelung – Yilan – Hualien – Taitung – Fangliao – Kaohsiung – Tainan – Chiayi – Taichung – Hsinchu – Taipei",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Anel Ferroviário Insular de Taiwan (TRA EMU3000 / Taroko / Puyuma) & Ferrovia Florestal de Alishan (2.451 m)",
+        "sistema_nome_en": "Taiwan Railway Round-Island Network (TRA) & Alishan Forest Mountain Railway (2,451 m)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.517,
+            25.0478
+          ],
+          [
+            121.7392,
+            25.1317
+          ],
+          [
+            121.7579,
+            24.7545
+          ],
+          [
+            121.6015,
+            23.993
+          ],
+          [
+            121.1232,
+            22.7932
+          ],
+          [
+            120.595,
+            22.368
+          ],
+          [
+            120.3025,
+            22.6396
+          ],
+          [
+            120.2127,
+            22.9971
+          ],
+          [
+            120.4411,
+            23.4791
+          ],
+          [
+            120.685,
+            24.1368
+          ],
+          [
+            120.9715,
+            24.8016
+          ],
+          [
+            121.517,
+            25.0478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tra-anel-ferroviario-insular-alishan-taiwan",
+        "linha": "Ferrovia Florestal de Montanha de Alishan (Chiayi 30 m – Fenqihu – Alishan – Chushan 2.451 m)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Anel Ferroviário Insular de Taiwan (TRA EMU3000 / Taroko / Puyuma) & Ferrovia Florestal de Alishan (2.451 m)",
+        "sistema_nome_en": "Taiwan Railway Round-Island Network (TRA) & Alishan Forest Mountain Railway (2,451 m)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4411,
+            23.4791
+          ],
+          [
+            120.695,
+            23.505
+          ],
+          [
+            120.803,
+            23.51
+          ],
+          [
+            120.822,
+            23.508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-cimento-hualien-suao-porto-taichung-taiwan",
+        "linha": "Corredor de Carga de Cimento e Calcário da Costa Leste: Porto de Hualien – Xincheng (Asia Cement) – Heping (Taiwan Cement) – Su'ao / Porto de Su'ao",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga de Cimento/Calcário (Hualien–Heping–Su'ao) e Ramal do Porto de Taichung (TRA Freight)",
+        "sistema_nome_en": "Hualien–Heping–Su'ao Cement/Limestone Heavy Freight Corridor & Taichung Port Rail Line (TRA Freight)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.625,
+            23.991
+          ],
+          [
+            121.608,
+            24.128
+          ],
+          [
+            121.751,
+            24.308
+          ],
+          [
+            121.841,
+            24.596
+          ]
+        ]
+      }
     }
   ]
 }

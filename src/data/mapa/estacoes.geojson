@@ -11639,6 +11639,229 @@
           40.6013
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "thsr-alta-velocidade-taipei-taichung-kaohsiung-taiwan",
+        "nome": "Taipei Main Station (Super Hub Integrado THSR + TRA + Taipei MRT + Taoyuan Airport MRT)",
+        "linha": "THSR / TRA / MRT Red & Blue Lines / Airport MRT",
+        "status": "operacao",
+        "integracoes": [
+          "THSR 300 km/h",
+          "TRA Anel Insular",
+          "Taipei MRT L2/L5",
+          "Taoyuan Airport MRT"
+        ],
+        "sistema_nome_pt": "Taiwan High Speed Rail (THSR — Taipei Nangang–Taichung–Zuoying Kaohsiung, 300 km/h)",
+        "sistema_nome_en": "Taiwan High Speed Rail (THSR — Taipei Nangang–Taichung–Zuoying Kaohsiung, 300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517,
+          25.0478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "thsr-alta-velocidade-taipei-taichung-kaohsiung-taiwan",
+        "nome": "THSR Taichung Station (Hub Central de Alta Velocidade + TRA Xinwuri + Taichung MRT)",
+        "linha": "THSR / Taichung MRT Green Line",
+        "status": "operacao",
+        "integracoes": [
+          "THSR 300 km/h",
+          "Taichung MRT",
+          "TRA Xinwuri"
+        ],
+        "sistema_nome_pt": "Taiwan High Speed Rail (THSR — Taipei Nangang–Taichung–Zuoying Kaohsiung, 300 km/h)",
+        "sistema_nome_en": "Taiwan High Speed Rail (THSR — Taipei Nangang–Taichung–Zuoying Kaohsiung, 300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6157,
+          24.1118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "thsr-alta-velocidade-taipei-taichung-kaohsiung-taiwan",
+        "nome": "THSR Zuoying / Sinzuoying Station (Terminal Sul de Alta Velocidade em Kaohsiung)",
+        "linha": "THSR / TRA / Kaohsiung MRT Red Line",
+        "status": "operacao",
+        "integracoes": [
+          "THSR 300 km/h",
+          "Kaohsiung MRT",
+          "TRA"
+        ],
+        "sistema_nome_pt": "Taiwan High Speed Rail (THSR — Taipei Nangang–Taichung–Zuoying Kaohsiung, 300 km/h)",
+        "sistema_nome_en": "Taiwan High Speed Rail (THSR — Taipei Nangang–Taichung–Zuoying Kaohsiung, 300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3075,
+          22.6874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-taipei-taoyuan-taichung-kaohsiung-taiwan",
+        "nome": "Taipei 101 / World Trade Center Station (Taipei MRT Tamsui–Xinyi Red Line)",
+        "linha": "Taipei MRT Red Line",
+        "status": "operacao",
+        "integracoes": [
+          "Taipei MRT Red Line",
+          "Distrito Financeiro Xinyi"
+        ],
+        "sistema_nome_pt": "Metrôs de Taipei (Taipei MRT & New Taipei), Taoyuan Airport MRT, Taichung e Kaohsiung",
+        "sistema_nome_en": "Taipei MRT, New Taipei Metro, Taoyuan Airport MRT, Taichung MRT & Kaohsiung MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5645,
+          25.033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-taipei-taoyuan-taichung-kaohsiung-taiwan",
+        "nome": "Taoyuan Airport Terminal 1 & 2 Stations (Taoyuan Airport MRT)",
+        "linha": "Taoyuan Airport MRT Express",
+        "status": "operacao",
+        "integracoes": [
+          "Taoyuan Airport MRT",
+          "Aeroporto Internacional de Taoyuan"
+        ],
+        "sistema_nome_pt": "Metrôs de Taipei (Taipei MRT & New Taipei), Taoyuan Airport MRT, Taichung e Kaohsiung",
+        "sistema_nome_en": "Taipei MRT, New Taipei Metro, Taoyuan Airport MRT, Taichung MRT & Kaohsiung MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2322,
+          25.0777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-taipei-taoyuan-taichung-kaohsiung-taiwan",
+        "nome": "Formosa Boulevard Station (Dome of Light — Intercâmbio Central do Metrô de Kaohsiung)",
+        "linha": "Kaohsiung MRT Red & Orange Lines",
+        "status": "operacao",
+        "integracoes": [
+          "Kaohsiung MRT Linha Vermelha",
+          "Kaohsiung MRT Linha Laranja"
+        ],
+        "sistema_nome_pt": "Metrôs de Taipei (Taipei MRT & New Taipei), Taoyuan Airport MRT, Taichung e Kaohsiung",
+        "sistema_nome_en": "Taipei MRT, New Taipei Metro, Taoyuan Airport MRT, Taichung MRT & Kaohsiung MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.302,
+          22.6314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-kaohsiung-circular-danhai-ankeng-taiwan",
+        "nome": "Pier-2 Art Center / Hamasen (VLT Circular de Kaohsiung sem Catenária)",
+        "linha": "Kaohsiung Circular LRT",
+        "status": "operacao",
+        "integracoes": [
+          "VLT Circular sem Catenária",
+          "Kaohsiung MRT Linha Laranja"
+        ],
+        "sistema_nome_pt": "VLTs de Kaohsiung (Anel Circular 100% sem Catenária) e Nova Taipei (Danhai LRT & Ankeng LRT)",
+        "sistema_nome_en": "Kaohsiung Circular Light Rail (Catenary-Free Loop) & New Taipei Light Rail (Danhai & Ankeng LRT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2815,
+          22.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tra-anel-ferroviario-insular-alishan-taiwan",
+        "nome": "Hualien Station (Hub da Costa Leste do Anel Insular TRA — Taroko &EMU3000)",
+        "linha": "Linha Oriental TRA",
+        "status": "operacao",
+        "integracoes": [
+          "TRA EMU3000 / Taroko Express",
+          "Parque Nacional Taroko"
+        ],
+        "sistema_nome_pt": "Anel Ferroviário Insular de Taiwan (TRA EMU3000 / Taroko / Puyuma) & Ferrovia Florestal de Alishan (2.451 m)",
+        "sistema_nome_en": "Taiwan Railway Round-Island Network (TRA) & Alishan Forest Mountain Railway (2,451 m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6015,
+          23.993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tra-anel-ferroviario-insular-alishan-taiwan",
+        "nome": "Alishan & Chushan Station (2.451 m — Estação Ferroviária Mais Alta de Taiwan)",
+        "linha": "Ferrovia Florestal de Alishan",
+        "status": "operacao",
+        "integracoes": [
+          "Ferrovia de Montanha de Alishan"
+        ],
+        "sistema_nome_pt": "Anel Ferroviário Insular de Taiwan (TRA EMU3000 / Taroko / Puyuma) & Ferrovia Florestal de Alishan (2.451 m)",
+        "sistema_nome_en": "Taiwan Railway Round-Island Network (TRA) & Alishan Forest Mountain Railway (2,451 m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.803,
+          23.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-cimento-hualien-suao-porto-taichung-taiwan",
+        "nome": "Terminal Ferroviário de Cimento de Heping e Porto de Hualien",
+        "linha": "Corredor de Carga Hualien–Su'ao",
+        "status": "operacao",
+        "integracoes": [
+          "TRA Freight",
+          "Porto Industrial de Heping"
+        ],
+        "sistema_nome_pt": "Corredores Ferroviários de Carga de Cimento/Calcário (Hualien–Heping–Su'ao) e Ramal do Porto de Taichung (TRA Freight)",
+        "sistema_nome_en": "Hualien–Heping–Su'ao Cement/Limestone Heavy Freight Corridor & Taichung Port Rail Line (TRA Freight)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.751,
+          24.308
+        ]
+      }
     }
   ]
 }
