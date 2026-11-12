@@ -8,7 +8,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "linha-43",
       "properties": {
         "sistema_id": "vlt-cuiaba",
         "linha": "Eixo CPA – Aeroporto Marechal Rondon (projeto desativado e convertido)",
@@ -39,7 +38,6 @@
     },
     {
       "type": "Feature",
-      "id": "linha-45",
       "properties": {
         "sistema_id": "ferrograo",
         "linha": "EF-170 Ferrogrão (Sinop/MT – Miritituba/Itaituba/PA)",
@@ -74,7 +72,6 @@
     },
     {
       "type": "Feature",
-      "id": "linha-49",
       "properties": {
         "sistema_id": "autorizacoes-antt",
         "linha": "Eixos prioritários de Autorizações Ferroviárias ANTT (Pro Trilhos)",
@@ -106,7 +103,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "vlt-bsb-w3",
         "sistema_id": "vlt-brasilia",
         "nome": "VLT de Brasília (W3 Sul/Norte – Aeroporto)",
         "cor": "#eab308",
@@ -142,7 +138,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "rj-linha3-projeto",
         "sistema_id": "linha-3-metro-rj",
         "nome": "Linha 3 (Praça XV – Niterói – São Gonçalo)",
         "cor": "#2563eb",
@@ -177,12 +172,11 @@
     },
     {
       "type": "Feature",
-      "id": "linha-3",
       "properties": {
         "sistema_id": "metro-sp",
         "linha": "Linha 2-Verde Expansão (Vila Prudente – Penha)",
-        "cor": "#007E5E",
-        "status": "obras",
+        "cor": "#00b0ff",
+        "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
         "sistema_nome_en": "São Paulo Metro (State Network)",
@@ -216,12 +210,11 @@
     },
     {
       "type": "Feature",
-      "id": "linha-25",
       "properties": {
         "sistema_id": "metro-bh",
         "linha": "Linha 2-Lilás (Nova Suíça – Barreiro)",
-        "cor": "#8C4799",
-        "status": "obras",
+        "cor": "#00b0ff",
+        "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de Belo Horizonte (Metrô BH)",
         "sistema_nome_en": "Belo Horizonte Metro (Metrô BH)",
@@ -251,12 +244,11 @@
     },
     {
       "type": "Feature",
-      "id": "linha-30",
       "properties": {
         "sistema_id": "metrofor-fortaleza",
         "linha": "Linha Leste (Tirol-Moura Brasil – Papicu)",
-        "cor": "#FDB913",
-        "status": "obras",
+        "cor": "#00b0ff",
+        "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
         "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)",
@@ -282,7 +274,6 @@
     },
     {
       "type": "Feature",
-      "id": "linha-35",
       "properties": {
         "sistema_id": "vlt-salvador",
         "linha": "Trechos 1, 2 e 3 (Calçada – Ilha de São João – Águas Claras – Piatã)",
@@ -325,7 +316,6 @@
     },
     {
       "type": "Feature",
-      "id": "linha-44",
       "properties": {
         "sistema_id": "tic-eixo-norte",
         "linha": "TIC Eixo Norte (Barra Funda – Jundiaí – Campinas)",
@@ -360,7 +350,6 @@
     },
     {
       "type": "Feature",
-      "id": "linha-46",
       "properties": {
         "sistema_id": "fiol",
         "linha": "EF-334 FIOL (Ilhéus/BA – Caetité – Barreiras – Figueirópolis/TO)",
@@ -399,7 +388,6 @@
     },
     {
       "type": "Feature",
-      "id": "linha-47",
       "properties": {
         "sistema_id": "fico",
         "linha": "EF-354 FICO (Mara Rosa/GO – Água Boa/MT)",
@@ -430,7 +418,6 @@
     },
     {
       "type": "Feature",
-      "id": "linha-48",
       "properties": {
         "sistema_id": "transnordestina",
         "linha": "Transnordestina (Eliseu Martins/PI – Salgueiro/PE – Porto do Pecém/CE)",
@@ -476,7 +463,8 @@
         "linha": "TAV Chengdu–Chongqing Linha Central (400 km/h CR450 — Em obras)",
         "status": "obras",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -507,9 +495,10 @@
         "sistema_nome_pt": "Tohoku & Hokkaido Shinkansen (Tóquio – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
         "sistema_nome_en": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Aomori – Hakodate – Sapporo, 320 km/h)",
         "linha": "Extensão Hokkaido Shinkansen (Shin-Hakodate-Hokuto – Niseko – Otaru – Sapporo — Em obras)",
-        "status": "obras",
+        "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -546,7 +535,8 @@
         "linha": "Chuo Shinkansen SCMaglev L0 (Shinagawa – Kofu – Nagoya, 505 km/h — Em obras)",
         "status": "obras",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -587,7 +577,8 @@
         "linha": "Grand Paris Express Linha 15 (Anel Metropolitano Subterrâneo — 75 km em obras)",
         "status": "obras",
         "tipo": "metro",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -640,7 +631,8 @@
         "linha": "Grand Paris Express Linha 18 (Aeroporto de Orly – Massy-Palaiseau – Saclay – Versailles — Em obras)",
         "status": "obras",
         "tipo": "metro",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -675,9 +667,10 @@
         "sistema_nome_pt": "Metrôs Automáticos VAL da França (Lille, Toulouse e Rennes)",
         "sistema_nome_en": "French VAL Automated Metros (Lille, Toulouse & Rennes)",
         "linha": "Metrô de Toulouse Linha C (Colomiers – Blagnac Airbus – Matabiau – Labège — 27 km em obras)",
-        "status": "obras",
+        "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -712,9 +705,10 @@
         "sistema_nome_pt": "Malha TGV Atlantique (Bordeaux), Nord (Eurostar) e Est Européen (Recorde Mundial 574,8 km/h)",
         "sistema_nome_en": "TGV Atlantique (Bordeaux), Nord (Eurostar) & Est Européen Network (574.8 km/h World Record)",
         "linha": "TAV Transalpino Lyon–Turim (Túnel de Base do Mont d'Ambin 57,5 km — Em obras)",
-        "status": "obras",
+        "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -751,7 +745,8 @@
         "linha": "Y Basco de Alta Velocidade (Vitória-Gasteiz – Bergara – Bilbao / San Sebastián — Em obras)",
         "status": "obras",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -788,7 +783,8 @@
         "linha": "Corredor Mediterrâneo Alta Velocidade (Valência – Alicante – Murcia – Lorca – Almería — Em obras)",
         "status": "obras",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -825,7 +821,8 @@
         "linha": "Stuttgart 21 — Nó Subterrâneo e Túnel de Filder até Wendlingen (Em obras)",
         "status": "obras",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -862,7 +859,8 @@
         "linha": "Corredor e Túnel Imerso Submarino Fehmarnbelt (Lübeck – Puttgarden – Rødbyhavn Dinamarca — Em obras)",
         "status": "obras",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -895,7 +893,8 @@
         "linha": "High Speed 2 — HS2 Fase 1 (Londres Euston / Old Oak Common – Chilterns – Solihull Interchange – Birmingham Curzon Street, 360 km/h — Em obras)",
         "status": "obras",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": true
+        "geometria_aproximada": true,
+        "cor": "#9E9E9E"
       },
       "geometry": {
         "type": "LineString",
@@ -929,11 +928,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-1",
       "properties": {
         "sistema_id": "metro-sp",
         "linha": "Linha 1-Azul (Jabaquara – Tucuruvi)",
-        "cor": "#0455A1",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
@@ -1004,11 +1002,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-2",
       "properties": {
         "sistema_id": "metro-sp",
         "linha": "Linha 2-Verde (Vila Prudente – Vila Madalena)",
-        "cor": "#007E5E",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
@@ -1067,11 +1064,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-4",
       "properties": {
         "sistema_id": "metro-sp",
         "linha": "Linha 3-Vermelha (Corinthians-Itaquera – Palmeiras-Barra Funda)",
-        "cor": "#EE372F",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
@@ -1138,11 +1134,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-5",
       "properties": {
         "sistema_id": "metro-sp",
         "linha": "Linha 15-Prata Monotrilho (Vila Prudente – Jardim Colonial)",
-        "cor": "#858D90",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
@@ -1181,11 +1176,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-6",
       "properties": {
         "sistema_id": "viaquatro-viamobilidade",
         "linha": "Linha 4-Amarela (Luz – Vila Sônia)",
-        "cor": "#FFD500",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
@@ -1240,11 +1234,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-7",
       "properties": {
         "sistema_id": "viaquatro-viamobilidade",
         "linha": "Linha 5-Lilás (Capão Redondo – Chácara Klabin)",
-        "cor": "#9B3894",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
@@ -1295,16 +1288,15 @@
     },
     {
       "type": "Feature",
-      "id": "linha-8",
       "properties": {
         "sistema_id": "viaquatro-viamobilidade",
         "linha": "Linha 8-Diamante (Júlio Prestes – Itapevi)",
-        "cor": "#9E9E93",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
         "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)",
-        "tipo": "trem_convencional"
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1342,16 +1334,15 @@
     },
     {
       "type": "Feature",
-      "id": "linha-9",
       "properties": {
         "sistema_id": "viaquatro-viamobilidade",
         "linha": "Linha 9-Esmeralda (Osasco – Mendes-Vila Natal)",
-        "cor": "#00A88E",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
         "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)",
-        "tipo": "trem_convencional"
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1397,11 +1388,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-10",
       "properties": {
         "sistema_id": "cptm",
         "linha": "Linha 7-Rubi (Barra Funda – Jundiaí)",
-        "cor": "#A6134F",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
@@ -1444,11 +1434,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-11",
       "properties": {
         "sistema_id": "cptm",
         "linha": "Linha 10-Turquesa (Luz – Rio Grande da Serra)",
-        "cor": "#008B9B",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
@@ -1491,11 +1480,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-12",
       "properties": {
         "sistema_id": "cptm",
         "linha": "Linha 11-Coral (Luz – Estudantes)",
-        "cor": "#F04E23",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
@@ -1542,11 +1530,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-13",
       "properties": {
         "sistema_id": "cptm",
         "linha": "Linha 12-Safira (Brás – Calmon Viana)",
-        "cor": "#1C2E63",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
@@ -1585,11 +1572,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-14",
       "properties": {
         "sistema_id": "cptm",
         "linha": "Linha 13-Jade (Engenheiro Goulart – Aeroporto-Guarulhos)",
-        "cor": "#00A859",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
@@ -1616,11 +1602,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-15",
       "properties": {
         "sistema_id": "metro-rio",
         "linha": "Linha 1 (Uruguai – General Osório)",
-        "cor": "#F37021",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
@@ -1679,11 +1664,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-16",
       "properties": {
         "sistema_id": "metro-rio",
         "linha": "Linha 2 (Pavuna – Botafogo)",
-        "cor": "#00A650",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
@@ -1734,11 +1718,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-17",
       "properties": {
         "sistema_id": "metro-rio",
         "linha": "Linha 4 (General Osório – Jardim Oceânico)",
-        "cor": "#FFD100",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
@@ -1773,11 +1756,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-18",
       "properties": {
         "sistema_id": "supervia",
         "linha": "Ramal Deodoro / Santa Cruz (Central do Brasil – Santa Cruz)",
-        "cor": "#E30613",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
@@ -1824,11 +1806,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-19",
       "properties": {
         "sistema_id": "supervia",
         "linha": "Ramal Japeri (Central do Brasil – Japeri)",
-        "cor": "#0072BC",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
@@ -1863,11 +1844,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-20",
       "properties": {
         "sistema_id": "supervia",
         "linha": "Ramal Saracuruna (Central do Brasil – Gramacho – Saracuruna)",
-        "cor": "#F7941D",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
@@ -1902,11 +1882,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-21",
       "properties": {
         "sistema_id": "vlt-carioca",
         "linha": "Linhas 1 a 4 (Terminal Gentileza – Rodoviária – Praça XV – Santos Dumont)",
-        "cor": "#00A3E0",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT Carioca",
@@ -1949,11 +1928,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-22",
       "properties": {
         "sistema_id": "metro-df",
         "linha": "Linha Verde (Central – Ceilândia)",
-        "cor": "#009640",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô-DF (Metrô de Brasília)",
@@ -1996,11 +1974,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-23",
       "properties": {
         "sistema_id": "metro-df",
         "linha": "Linha Laranja (Central – Samambaia)",
-        "cor": "#F39200",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô-DF (Metrô de Brasília)",
@@ -2031,11 +2008,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-24",
       "properties": {
         "sistema_id": "metro-bh",
         "linha": "Linha 1-Laranja (Eldorado – Vilarinho)",
-        "cor": "#F58220",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de Belo Horizonte (Metrô BH)",
@@ -2086,11 +2062,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-26",
       "properties": {
         "sistema_id": "metro-recife",
         "linha": "Linha Centro (Recife – Camaragibe / Jaboatão)",
-        "cor": "#E30613",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô do Recife (CBTU Recife)",
@@ -2129,11 +2104,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-27",
       "properties": {
         "sistema_id": "metro-recife",
         "linha": "Linha Sul (Recife – Cajueiro Seco)",
-        "cor": "#0054A6",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô do Recife (CBTU Recife)",
@@ -2164,11 +2138,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-28",
       "properties": {
         "sistema_id": "metrofor-fortaleza",
         "linha": "Linha Sul (Central-Chico da Silva – Carlito Benevides)",
-        "cor": "#E30613",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
@@ -2203,16 +2176,15 @@
     },
     {
       "type": "Feature",
-      "id": "linha-29",
       "properties": {
         "sistema_id": "metrofor-fortaleza",
         "linha": "VLT Parangaba-Mucuripe (Linha Nordeste)",
-        "cor": "#F7941D",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
         "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)",
-        "tipo": "vlt"
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -2238,11 +2210,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-31",
       "properties": {
         "sistema_id": "vlt-sobral",
         "linha": "Linhas Norte e Sul do VLT de Sobral",
-        "cor": "#009640",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT de Sobral (Metrofor)",
@@ -2269,11 +2240,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-32",
       "properties": {
         "sistema_id": "vlt-cariri",
         "linha": "Linha Crato – Juazeiro do Norte",
-        "cor": "#0072BC",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT do Cariri (Crato – Juazeiro do Norte)",
@@ -2300,11 +2270,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-33",
       "properties": {
         "sistema_id": "metro-bahia",
         "linha": "Linha 1 (Lapa – Águas Claras)",
-        "cor": "#E30613",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CCR Metrô Bahia (Salvador e Lauro de Freitas)",
@@ -2347,11 +2316,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-34",
       "properties": {
         "sistema_id": "metro-bahia",
         "linha": "Linha 2 (Acesso Norte – Aeroporto)",
-        "cor": "#0072BC",
+        "cor": "#00b0ff",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CCR Metrô Bahia (Salvador e Lauro de Freitas)",
@@ -2390,11 +2358,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-36",
       "properties": {
         "sistema_id": "trensurb",
         "linha": "Linha 1 (Mercado – Novo Hamburgo)",
-        "cor": "#0054A6",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Trensurb (Metrô de Porto Alegre)",
@@ -2437,11 +2404,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-37",
       "properties": {
         "sistema_id": "aeromovel-poa",
         "linha": "Conexão Metrô-Aeroporto Salgado Filho",
-        "cor": "#00AEEF",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Aeromóvel de Porto Alegre (Conexão Metrô–Aeroporto)",
@@ -2464,11 +2430,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-38",
       "properties": {
         "sistema_id": "cbtu-maceio",
         "linha": "VLT de Maceió (Jaraguá – Lourenço de Albuquerque)",
-        "cor": "#0072BC",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT de Maceió (CBTU Maceió)",
@@ -2499,11 +2464,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-39",
       "properties": {
         "sistema_id": "cbtu-joao-pessoa",
         "linha": "VLT de João Pessoa (Cabedelo – Santa Rita)",
-        "cor": "#009640",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Sistema de Trens Urbanos de João Pessoa (CBTU)",
@@ -2534,11 +2498,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-40",
       "properties": {
         "sistema_id": "cbtu-natal",
         "linha": "Linhas Norte e Sul do Sistema de Trens Urbanos de Natal",
-        "cor": "#F7941D",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Sistema de Trens Urbanos de Natal (CBTU)",
@@ -2569,11 +2532,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-41",
       "properties": {
         "sistema_id": "metro-teresina",
         "linha": "Linha 1 (Engenheiro Alberto Silva – Itararé)",
-        "cor": "#00A859",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de Teresina (VLT de Teresina)",
@@ -2600,11 +2562,10 @@
     },
     {
       "type": "Feature",
-      "id": "linha-42",
       "properties": {
         "sistema_id": "vlt-baixada-santista",
         "linha": "Linha 1 (Barreiros – Porto) e Linha 2 (Conselheiro Nébias – Valongo)",
-        "cor": "#0054A6",
+        "cor": "#00e676",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT da Baixada Santista",
@@ -2640,10 +2601,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "efvm-tronco",
         "sistema_id": "efvm",
         "nome": "EFVM (Belo Horizonte – Governador Valadares – Cariacica/Vitória)",
-        "cor": "#10b981",
+        "cor": "#ff9100",
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Estrada de Ferro Vitória a Minas (Trem de Passageiros e Carga)",
@@ -2693,7 +2653,7 @@
         "sistema_nome_en": "",
         "linha": "Estrada de Ferro Carajás (EF-315 · São Luís/MA – Marabá – Parauapebas/PA)",
         "status": "operacao",
-        "cor": "#10b981",
+        "cor": "#aa00ff",
         "geometria_aproximada": false,
         "tipo": "ferrovia_carga"
       },
@@ -2747,7 +2707,7 @@
         "sistema_nome_en": "",
         "linha": "Ferrovia Norte-Sul (EF-151 · Açailândia/MA – Palmas/TO – Anápolis/GO – Estrela d'Oeste/SP)",
         "status": "operacao",
-        "cor": "#10b981",
+        "cor": "#aa00ff",
         "geometria_aproximada": false,
         "tipo": "ferrovia_carga"
       },
@@ -2813,7 +2773,7 @@
         "sistema_nome_en": "",
         "linha": "Rumo Malha Norte (Rondonópolis/MT – Alto Araguaia – Aparecida do Taboado/MS – SP)",
         "status": "operacao",
-        "cor": "#10b981",
+        "cor": "#aa00ff",
         "geometria_aproximada": false,
         "tipo": "ferrovia_carga"
       },
@@ -2855,7 +2815,7 @@
         "sistema_nome_en": "",
         "linha": "Trem Republicano (Estação Itu – Estação Salto)",
         "status": "operacao",
-        "cor": "#10b981",
+        "cor": "#ff9100",
         "geometria_aproximada": false,
         "tipo": "trem_convencional"
       },
@@ -2885,7 +2845,7 @@
         "sistema_nome_en": "",
         "linha": "People Mover Aeroporto de Guarulhos (CPTM Linha 13 – Terminais 1, 2 e 3)",
         "status": "operacao",
-        "cor": "#10b981",
+        "cor": "#00e676",
         "geometria_aproximada": false,
         "tipo": "vlt"
       },
@@ -2920,7 +2880,8 @@
         "linha": "Linha 1 (Xinzhuang – Fujin Road)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -2965,7 +2926,8 @@
         "linha": "Linha 2 (Hongqiao Hub – Lujiazui – Aeroporto de Pudong)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3014,7 +2976,8 @@
         "linha": "Shanghai Maglev (Longyang Road – Aeroporto de Pudong, 430 km/h)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3047,7 +3010,8 @@
         "linha": "Linha 1 – Batong (Gucheng – Tian'anmen – Universal Resort)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3092,7 +3056,8 @@
         "linha": "Linha 2 (Anel Central Histórico de Pequim)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3133,7 +3098,8 @@
         "linha": "Linha 4 – Daxing (Anheqiao North – Beijing South – Tiangongyuan)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3174,7 +3140,8 @@
         "linha": "Linha 10 (Segundo Anel Metroviário — 57 km)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3211,7 +3178,8 @@
         "linha": "Linha 1 (Xilang – Estação Leste de Guangzhou)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3248,7 +3216,8 @@
         "linha": "Linha 3 (Aeroporto Baiyun – Tiyu Xilu – Canton Tower – Panyu Square)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3289,7 +3258,8 @@
         "linha": "Linha 1 Luobao (Luohu – Futian – Qianhaiwan – Aeroporto Leste)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3330,7 +3300,8 @@
         "linha": "Linha 4 Longhua (Futian Checkpoint – Shenzhen North – Niuhu)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3367,7 +3338,8 @@
         "linha": "Island Line (Kennedy Town – Central – Causeway Bay – Chai Wan)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3408,7 +3380,8 @@
         "linha": "Tsuen Wan Line (Central – Tsim Sha Tsui – Mong Kok – Tsuen Wan)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3445,7 +3418,8 @@
         "linha": "East Rail Line (Admiralty – Hung Hom – Kowloon Tong – Lo Wu / Fronteira Shenzhen)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3486,7 +3460,8 @@
         "linha": "Linha 2 — Monotrilho Pesado (Jiaochangkou – Liziba – Yudong)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3523,7 +3498,8 @@
         "linha": "Linha 3 — Maior Monotrilho do Mundo (Yudong – Chongqing North – Aeroporto Jiangbei, 67 km)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3555,12 +3531,13 @@
       "type": "Feature",
       "properties": {
         "sistema_id": "tav-pequim-xangai",
-        "sistema_nome_pt": "Ferrovia de Alta Velocidade Pequim–Xangai (Jinghu HSR — 350 km/h)",
-        "sistema_nome_en": "Beijing–Shanghai High-Speed Railway (Jinghu HSR — 350 km/h)",
+        "sistema_nome_pt": "TAV Pequim–Xangai & Corredor Costeiro Leste (Xangai–Fuzhou–Xiamen–Shenzhen)",
+        "sistema_nome_en": "Beijing–Shanghai HSR & East Coastal High-Speed Corridor (Shanghai–Xiamen–Shenzhen)",
         "linha": "TAV Pequim–Xangai (Beijing South – Jinan West – Nanjing South – Shanghai Hongqiao)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -3605,7 +3582,8 @@
         "linha": "TAV Pequim–Wuhan–Guangzhou–Shenzhen–Hong Kong (2.298 km, 350 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -3654,7 +3632,8 @@
         "linha": "Linha Ginza (Asakusa – Ueno – Ginza – Shimbashi – Shibuya)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3695,7 +3674,8 @@
         "linha": "Linha Marunouchi (Ikebukuro – Tokyo Station – Ginza – Shinjuku – Ogikubo)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3732,7 +3712,8 @@
         "linha": "Toei Oedo Line (Grande Anel Subterrâneo de Tóquio)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3773,7 +3754,8 @@
         "linha": "Linha Yamanote (Anel Ferroviário de Tóquio — 34,5 km)",
         "status": "operacao",
         "tipo": "trem_convencional",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff9100"
       },
       "geometry": {
         "type": "LineString",
@@ -3822,7 +3804,8 @@
         "linha": "Linha Chuo Rápida (Tokyo Station – Shinjuku – Tachikawa – Takao)",
         "status": "operacao",
         "tipo": "trem_convencional",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff9100"
       },
       "geometry": {
         "type": "LineString",
@@ -3859,7 +3842,8 @@
         "linha": "Linha Midosuji (Esaka – Shin-Osaka – Umeda – Namba – Tennoji – Nakamozu)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3900,7 +3884,8 @@
         "linha": "Linha Chuo (Yumeshima – Cosmosquare – Hommachi – Nagata)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -3933,7 +3918,8 @@
         "linha": "Tokyo Monorail (Hamamatsucho – Aeroporto Internacional de Haneda)",
         "status": "operacao",
         "tipo": "vlt",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00e676"
       },
       "geometry": {
         "type": "LineString",
@@ -3966,7 +3952,8 @@
         "linha": "Osaka Monorail (Aeroporto de Itami – Expo Park – Kadoma-shi)",
         "status": "operacao",
         "tipo": "vlt",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00e676"
       },
       "geometry": {
         "type": "LineString",
@@ -4003,7 +3990,8 @@
         "linha": "Chiba Urban Monorail (Maior Monotrilho Suspenso do Mundo — 15,2 km)",
         "status": "operacao",
         "tipo": "vlt",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00e676"
       },
       "geometry": {
         "type": "LineString",
@@ -4036,7 +4024,8 @@
         "linha": "Tokaido Shinkansen (Tokyo – Shin-Yokohama – Shizuoka – Nagoya – Kyoto – Shin-Osaka)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -4085,7 +4074,8 @@
         "linha": "Sanyo Shinkansen (Shin-Osaka – Shin-Kobe – Okayama – Hiroshima – Hakata/Fukuoka)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -4126,7 +4116,8 @@
         "linha": "Tohoku & Hokkaido Shinkansen (Tokyo – Sendai – Morioka – Shin-Aomori – Túnel Seikan – Hakodate, 320 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -4179,7 +4170,8 @@
         "linha": "Linha 1 Automática (La Défense – Arc de Triomphe – Châtelet – Bastille – Vincennes)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4224,7 +4216,8 @@
         "linha": "Linha 4 Automática (Porte de Clignancourt – Gare du Nord – Châtelet – Montparnasse – Bagneux)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4269,7 +4262,8 @@
         "linha": "Linha 14 Expressa Automática (Saint-Denis Pleyel – Saint-Lazare – Châtelet – Gare de Lyon – Aeroporto de Orly)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4314,7 +4308,8 @@
         "linha": "RER A (La Défense – Châtelet-Les Halles – Gare de Lyon – Marne-la-Vallée Disneyland)",
         "status": "operacao",
         "tipo": "trem_convencional",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff9100"
       },
       "geometry": {
         "type": "LineString",
@@ -4363,7 +4358,8 @@
         "linha": "RER B (Aeroporto Charles de Gaulle – Gare du Nord – Châtelet-Les Halles – Massy-Palaiseau)",
         "status": "operacao",
         "tipo": "trem_convencional",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff9100"
       },
       "geometry": {
         "type": "LineString",
@@ -4408,7 +4404,8 @@
         "linha": "Metrô de Lyon Linha D Automática (Gare de Vaise – Bellecour – Grange Blanche – Gare de Vénissieux)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4445,7 +4442,8 @@
         "linha": "Metrô de Lyon Linha B (Charpennes – Gare Part-Dieu – Oullins – Saint-Genis-Laval)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4482,7 +4480,8 @@
         "linha": "Metrô de Lille Linha 1 VAL (1º Metrô Automático do Mundo — CHU Eurasanté a Quatre Cantons)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4519,7 +4518,8 @@
         "linha": "Metrô de Toulouse Linha A VAL (Basso Cambo – Capitole – Marengo SNCF – Balma-Gramont)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4552,7 +4552,8 @@
         "linha": "LGV Sud-Est, Rhône-Alpes & Méditerranée (Paris – Lyon – Valence – Avignon – Aix – Marselha, 320 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -4601,7 +4602,8 @@
         "linha": "LGV Atlantique & Sud Europe Atlantique (Paris Montparnasse – Tours – Poitiers – Bordeaux, 320 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -4642,7 +4644,8 @@
         "linha": "LGV Nord & Eurostar (Paris Gare du Nord – Lille Europe – Calais-Fréthun / Eurotúnel)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -4679,7 +4682,8 @@
         "linha": "LGV Est Européen (Paris Est – Reims/Champagne – Lorraine – Estrasburgo — Recorde 574,8 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -4716,7 +4720,8 @@
         "linha": "Linha 1 (Pinar de Chamartín – Chamartín – Sol – Atocha – Valdecarros)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4761,7 +4766,8 @@
         "linha": "Linha 6 Circular (Anel Metroviário Central de Madri)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4806,7 +4812,8 @@
         "linha": "Linha 8 Expressa (Nuevos Ministerios – Feria de Madrid – Aeropuerto Barajas T4)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4843,7 +4850,8 @@
         "linha": "Linha 12 MetroSur (Anel Subterrâneo de 41 km — Alcorcón, Móstoles, Fuenlabrada, Getafe e Leganés)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4884,7 +4892,8 @@
         "linha": "Linha 1 Vermelha (Hospital de Bellvitge – Espanya – Catalunya – Sagrera – Fondo)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4925,7 +4934,8 @@
         "linha": "Linha 3 Verde (Zona Universitària – Sants – Catalunya – Passeig de Gràcia – Trinitat Nova)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4962,7 +4972,8 @@
         "linha": "Linha 9 Automática GoA4 (Aeroport T1 – Zona Universitària & La Sagrera – Can Zam)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -4995,7 +5006,8 @@
         "linha": "Túneis da Risa — Cercanías Madrid (Atocha – Sol/Recoletos – Nuevos Ministerios – Chamartín – Aeropuerto T4)",
         "status": "operacao",
         "tipo": "trem_convencional",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff9100"
       },
       "geometry": {
         "type": "LineString",
@@ -5032,7 +5044,8 @@
         "linha": "Rodalies de Catalunya R1/R2 (Aeroport – Barcelona Sants – Passeig de Gràcia – Clot – Mataró)",
         "status": "operacao",
         "tipo": "trem_convencional",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff9100"
       },
       "geometry": {
         "type": "LineString",
@@ -5069,7 +5082,8 @@
         "linha": "Metrô de Bilbao Linhas 1 e 2 (Basauri – Casco Viejo – Moyua – San Mamés – Plentzia/Kabiezes)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5110,7 +5124,8 @@
         "linha": "Metrovalencia Linhas 3, 5 e 9 (Aeroport – Xàtiva – Colón – Alameda – Marítim/Rafelbunyol)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5147,7 +5162,8 @@
         "linha": "AVE Madri–Zaragoza–Barcelona–Figueres/França (804 km, 310 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5200,7 +5216,8 @@
         "linha": "AVE Madri–Córdoba–Sevilha & Málaga (1ª Linha de Alta Velocidade da Espanha — 1992)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5233,7 +5250,8 @@
         "linha": "Ramal AVE Andaluzia Oriental (Córdoba – Antequera – Málaga / Granada)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5262,7 +5280,8 @@
         "linha": "AVE Levante (Madri – Cuenca – Valência / Alicante – Murcia)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5299,7 +5318,8 @@
         "linha": "AVE Noroeste & Galícia/Astúrias (Madri Chamartín – Valladolid – Zamora – Ourense / León – Túnel de Pajares – Oviedo)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5340,7 +5360,8 @@
         "linha": "S-Bahn Berlim — Ringbahn S41/S42 (Anel Circular Ferroviário de 37 km)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5397,7 +5418,8 @@
         "linha": "S-Bahn Berlim — Stadtbahn Leste–Oeste (Westkreuz – Zoologischer Garten – Hauptbahnhof – Friedrichstraße – Alexanderplatz – Ostkreuz)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5442,7 +5464,8 @@
         "linha": "U-Bahn Berlim — Linhas U2 & U5 (Ruhleben – Potsdamer Platz – Unter den Linden – Alexanderplatz – Hönow)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5483,7 +5506,8 @@
         "linha": "U-Bahn Berlim — Linha U6/U7 Norte–Sul (Alt-Tegel – Friedrichstraße – Mehringdamm – Rudow)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5520,7 +5544,8 @@
         "linha": "U-Bahn Munique — Linhas U3 e U6 (Garching-Forschungszentrum – Allianz Arena – Marienplatz – Klinikum Großhadern)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5561,7 +5586,8 @@
         "linha": "S-Bahn Munique — Tronco Central Stammstrecke (Pasing – Hauptbahnhof – Marienplatz – Ostbahnhof – Aeroporto)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5598,7 +5624,8 @@
         "linha": "U-Bahn Hamburgo — Linha U1 & Anel U3 (Norderstedt – Hauptbahnhof – Landungsbrücken Porto – Barmbek)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5643,7 +5670,8 @@
         "linha": "S-Bahn Hamburgo — Eixo Altona – Jungfernstieg – Hauptbahnhof – Harburg",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -5676,7 +5704,8 @@
         "linha": "U-Bahn Frankfurt — Troncos A/B/C (Südbahnhof – Hauptwache – Hauptbahnhof – Oberursel)",
         "status": "operacao",
         "tipo": "vlt",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00e676"
       },
       "geometry": {
         "type": "LineString",
@@ -5713,7 +5742,8 @@
         "linha": "Stadtbahn Reno-Ruhr — Eixo Düsseldorf – Colônia (KVB) – Bonn (Linhas 16 e 18)",
         "status": "operacao",
         "tipo": "vlt",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00e676"
       },
       "geometry": {
         "type": "LineString",
@@ -5746,7 +5776,8 @@
         "linha": "Wuppertaler Schwebebahn (Vohwinkel – Zoo – Hauptbahnhof – Oberbarmen — Inaugurado em 1901)",
         "status": "operacao",
         "tipo": "vlt",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00e676"
       },
       "geometry": {
         "type": "LineString",
@@ -5783,7 +5814,8 @@
         "linha": "ICE Corredor Reno–Meno–Baviera (Colônia – Aeroporto de Frankfurt – Mannheim – Estugarda – Ulm – Munique, 300 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5840,7 +5872,8 @@
         "linha": "ICE Sprinter VDE 8 (Berlim – Halle/Leipzig – Erfurt – Nuremberg – Munique, 300 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5889,7 +5922,8 @@
         "linha": "ICE Tronco Norte–Sul (Hamburgo – Hanôver – Kassel – Fulda – Würzburg – Nuremberg / Frankfurt)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5934,7 +5968,8 @@
         "linha": "ICE Leste–Oeste (Berlim – Wolfsburg – Hanôver – Dortmund – Essen – Düsseldorf – Colônia)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -5983,7 +6018,8 @@
         "linha": "Circle Line & Metropolitan Line (1º Trecho Subterrâneo do Mundo — Paddington – Farringdon – Liverpool Street – Westminster)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6040,7 +6076,8 @@
         "linha": "Central Line Leste–Oeste (West Ruislip – White City – Oxford Circus – Bank – Stratford – Epping)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6081,7 +6118,8 @@
         "linha": "Piccadilly Line (Heathrow Terminals – South Kensington – Piccadilly Circus – King's Cross – Cockfosters)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6122,7 +6160,8 @@
         "linha": "Jubilee Line & Northern Line (Stanmore – Baker Street – Westminster – Waterloo – London Bridge – Canary Wharf – Stratford)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6167,7 +6206,8 @@
         "linha": "Elizabeth Line / Crossrail (Reading & Heathrow – Paddington – Tottenham Court Road – Liverpool Street – Canary Wharf – Abbey Wood / Shenfield)",
         "status": "operacao",
         "tipo": "trem_convencional",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff9100"
       },
       "geometry": {
         "type": "LineString",
@@ -6216,7 +6256,8 @@
         "linha": "DLR — Docklands Light Railway Automático GoA4 (Bank – Canary Wharf – Greenwich / London City Airport – Woolwich)",
         "status": "operacao",
         "tipo": "trem_convencional",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff9100"
       },
       "geometry": {
         "type": "LineString",
@@ -6253,7 +6294,8 @@
         "linha": "Glasgow Subway (Anel Subterrâneo de 1896 — Buchanan Street – St Enoch – Govan – Partick – Hillhead)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6294,7 +6336,8 @@
         "linha": "Tyne and Wear Metro (Newcastle Airport – Monument – Gateshead – South Shields / Sunderland)",
         "status": "operacao",
         "tipo": "metro",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00b0ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6331,7 +6374,8 @@
         "linha": "Manchester Metrolink (Manchester Airport – St Peter's Square – Piccadilly – Bury / Rochdale)",
         "status": "operacao",
         "tipo": "vlt",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00e676"
       },
       "geometry": {
         "type": "LineString",
@@ -6368,7 +6412,8 @@
         "linha": "Edinburgh Trams (Edinburgh Airport – Haymarket – Princes Street – Leith – Newhaven)",
         "status": "operacao",
         "tipo": "vlt",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#00e676"
       },
       "geometry": {
         "type": "LineString",
@@ -6405,7 +6450,8 @@
         "linha": "East Coast Main Line — ECML (Londres King's Cross – Peterborough – York – Newcastle – Edimburgo Waverley, 200 km/h)",
         "status": "operacao",
         "tipo": "ferrovia_carga",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#aa00ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6442,7 +6488,8 @@
         "linha": "West Coast Main Line — WCML (Londres Euston – Birmingham – Crewe – Manchester / Liverpool – Carlisle – Glasgow Central, 200 km/h)",
         "status": "operacao",
         "tipo": "ferrovia_carga",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#aa00ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6487,7 +6534,8 @@
         "linha": "Great Western Main Line — GWML (Londres Paddington – Reading – Swindon – Bristol Temple Meads – Cardiff Central, 200 km/h)",
         "status": "operacao",
         "tipo": "ferrovia_carga",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#aa00ff"
       },
       "geometry": {
         "type": "LineString",
@@ -6524,7 +6572,8 @@
         "linha": "High Speed 1 (HS1) & Eurotúnel (Londres St Pancras – Stratford – Ebbsfleet – Ashford – Folkestone – Calais, 300 km/h)",
         "status": "operacao",
         "tipo": "alta_velocidade",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "cor": "#ff1744"
       },
       "geometry": {
         "type": "LineString",
@@ -6788,8 +6837,8 @@
       "type": "Feature",
       "properties": {
         "sistema_id": "tav-pequim-guangzhou-hk",
-        "sistema_nome_pt": "TAV Pequim–Guangzhou–Shenzhen–Hong Kong (Jingguang HSR)",
-        "sistema_nome_en": "Beijing–Guangzhou–Shenzhen–Hong Kong High-Speed Railway (Jingguang HSR)",
+        "sistema_nome_pt": "Ferrovia de Alta Velocidade Pequim–Wuhan–Guangzhou–Shenzhen–Hong Kong",
+        "sistema_nome_en": "Beijing–Wuhan–Guangzhou–Shenzhen–Hong Kong High-Speed Railway",
         "linha": "Corredor Jinggang HSR (Pequim – Xiong'an – Shangqiu – Hefei – Nanchang – Ganzhou – Shenzhen)",
         "status": "operacao",
         "tipo": "alta_velocidade",
@@ -8700,6 +8749,4244 @@
           [
             117.435,
             49.598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "amtrak-acela-brightline-hsr-us",
+        "sistema_nome_pt": "Corredor Nordeste Acela (Boston–NY–Washington) & Brightline Flórida (Miami–Orlando)",
+        "sistema_nome_en": "Northeast Corridor Acela (Boston–NY–Washington) & Brightline Florida (Miami–Orlando)",
+        "linha": "Amtrak Northeast Corridor — Acela (Boston – Providence – New Haven – Nova York Penn – Filadélfia – Baltimore – Washington, D.C.)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.055,
+            42.352
+          ],
+          [
+            -71.413,
+            41.829
+          ],
+          [
+            -72.926,
+            41.298
+          ],
+          [
+            -73.993,
+            40.75
+          ],
+          [
+            -74.164,
+            40.734
+          ],
+          [
+            -75.182,
+            39.956
+          ],
+          [
+            -75.551,
+            39.737
+          ],
+          [
+            -76.615,
+            39.307
+          ],
+          [
+            -77.006,
+            38.897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "amtrak-acela-brightline-hsr-us",
+        "sistema_nome_pt": "Corredor Nordeste Acela (Boston–NY–Washington) & Brightline Flórida (Miami–Orlando)",
+        "sistema_nome_en": "Northeast Corridor Acela (Boston–NY–Washington) & Brightline Florida (Miami–Orlando)",
+        "linha": "Brightline Flórida (MiamiCentral – Fort Lauderdale – West Palm Beach – Cocoa – Aeroporto de Orlando)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.196,
+            25.778
+          ],
+          [
+            -80.145,
+            26.122
+          ],
+          [
+            -80.055,
+            26.713
+          ],
+          [
+            -80.085,
+            27.195
+          ],
+          [
+            -80.755,
+            28.355
+          ],
+          [
+            -81.311,
+            28.425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "nyc-subway-path-us",
+        "sistema_nome_pt": "Metrô de Nova York (MTA New York City Subway) & PATH",
+        "sistema_nome_en": "New York City Subway (MTA) & PATH Rapid Transit",
+        "linha": "MTA NYC Subway — Troncos de Manhattan, Bronx, Queens e Brooklyn (Lexington Ave 4/5/6, 7th Ave 1/2/3, 8th Ave A/C/E e Flushing 7)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86,
+            40.89
+          ],
+          [
+            -73.925,
+            40.828
+          ],
+          [
+            -73.977,
+            40.753
+          ],
+          [
+            -74.009,
+            40.707
+          ],
+          [
+            -73.985,
+            40.684
+          ],
+          [
+            -73.955,
+            40.615
+          ],
+          [
+            -73.98,
+            40.576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "nyc-subway-path-us",
+        "sistema_nome_pt": "Metrô de Nova York (MTA New York City Subway) & PATH",
+        "sistema_nome_en": "New York City Subway (MTA) & PATH Rapid Transit",
+        "linha": "Corredor Queens – Manhattan – Nova Jersey (Linha 7 Flushing – Times Square & PATH World Trade Center – Newark)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.83,
+            40.759
+          ],
+          [
+            -73.945,
+            40.747
+          ],
+          [
+            -73.987,
+            40.755
+          ],
+          [
+            -74.011,
+            40.712
+          ],
+          [
+            -74.043,
+            40.719
+          ],
+          [
+            -74.164,
+            40.734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-washington-chicago-boston-philly-atlanta-us",
+        "sistema_nome_pt": "Grandes Metrôs do Leste e Meio-Oeste dos EUA: Washington (WMATA), Chicago ('L'), Boston (MBTA), Filadélfia (SEPTA) e Atlanta (MARTA)",
+        "sistema_nome_en": "Eastern & Midwest US Metros: Washington Metro (WMATA), Chicago 'L' (CTA), Boston (MBTA), Philadelphia (SEPTA) & Atlanta (MARTA)",
+        "linha": "Washington Metro WMATA — Red, Orange, Blue e Silver Lines (Shady Grove – Metro Center – Pentagon – Aeroporto Dulles)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.164,
+            39.119
+          ],
+          [
+            -77.085,
+            38.984
+          ],
+          [
+            -77.026,
+            38.898
+          ],
+          [
+            -77.059,
+            38.871
+          ],
+          [
+            -77.228,
+            38.921
+          ],
+          [
+            -77.447,
+            38.956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-washington-chicago-boston-philly-atlanta-us",
+        "sistema_nome_pt": "Grandes Metrôs do Leste e Meio-Oeste dos EUA: Washington (WMATA), Chicago ('L'), Boston (MBTA), Filadélfia (SEPTA) e Atlanta (MARTA)",
+        "sistema_nome_en": "Eastern & Midwest US Metros: Washington Metro (WMATA), Chicago 'L' (CTA), Boston (MBTA), Philadelphia (SEPTA) & Atlanta (MARTA)",
+        "linha": "Chicago 'L' CTA — Red, Blue e Loop Lines (O'Hare Airport – The Loop – Howard – 95th/Dan Ryan)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.904,
+            41.978
+          ],
+          [
+            -87.628,
+            41.884
+          ],
+          [
+            -87.653,
+            42.019
+          ],
+          [
+            -87.628,
+            41.884
+          ],
+          [
+            -87.624,
+            41.722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-washington-chicago-boston-philly-atlanta-us",
+        "sistema_nome_pt": "Grandes Metrôs do Leste e Meio-Oeste dos EUA: Washington (WMATA), Chicago ('L'), Boston (MBTA), Filadélfia (SEPTA) e Atlanta (MARTA)",
+        "sistema_nome_en": "Eastern & Midwest US Metros: Washington Metro (WMATA), Chicago 'L' (CTA), Boston (MBTA), Philadelphia (SEPTA) & Atlanta (MARTA)",
+        "linha": "Metrôs de Boston (MBTA Red/Orange), Filadélfia (SEPTA) e Atlanta (MARTA)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.142,
+            42.395
+          ],
+          [
+            -71.119,
+            42.373
+          ],
+          [
+            -71.06,
+            42.356
+          ],
+          [
+            -71.006,
+            42.252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-bart-sao-francisco-los-angeles-us",
+        "sistema_nome_pt": "Metrôs da Costa Oeste dos EUA: BART (Baía de São Francisco–Oakland–San Jose) & Metrô de Los Angeles (Linhas B e D)",
+        "sistema_nome_en": "US West Coast Heavy Rail: San Francisco Bay Area BART & Los Angeles Metro (B & D Subway Lines)",
+        "linha": "BART — São Francisco (SFO / Embarcadero) – Transbay Tube – Oakland – Berkeley – Berryessa/San Jose",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.386,
+            37.616
+          ],
+          [
+            -122.419,
+            37.779
+          ],
+          [
+            -122.397,
+            37.793
+          ],
+          [
+            -122.271,
+            37.804
+          ],
+          [
+            -122.212,
+            37.752
+          ],
+          [
+            -121.976,
+            37.557
+          ],
+          [
+            -121.874,
+            37.368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-bart-sao-francisco-los-angeles-us",
+        "sistema_nome_pt": "Metrôs da Costa Oeste dos EUA: BART (Baía de São Francisco–Oakland–San Jose) & Metrô de Los Angeles (Linhas B e D)",
+        "sistema_nome_en": "US West Coast Heavy Rail: San Francisco Bay Area BART & Los Angeles Metro (B & D Subway Lines)",
+        "linha": "Metrô de Los Angeles — Linhas B (Red) e D (Purple) (Union Station – Downtown LA – Wilshire – Hollywood – North Hollywood)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.234,
+            34.056
+          ],
+          [
+            -118.258,
+            34.048
+          ],
+          [
+            -118.291,
+            34.062
+          ],
+          [
+            -118.327,
+            34.101
+          ],
+          [
+            -118.377,
+            34.168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-estados-unidos-la-sf-seattle-dallas-denver-boston",
+        "sistema_nome_pt": "Grandes Redes de VLT dos Estados Unidos (Los Angeles, São Francisco Muni, Seattle, San Diego, Dallas, Denver, Portland e Boston Green Line)",
+        "sistema_nome_en": "Major US Light Rail (VLT) Networks (Los Angeles, SF Muni, Seattle Link, San Diego Trolley, Dallas DART, Denver RTD, Portland MAX & Boston)",
+        "linha": "VLT de Los Angeles — Linha A (Azusa – Pasadena – Downtown LA – Long Beach, 78 km) & Linha E (Santa Monica – East LA)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.906,
+            34.136
+          ],
+          [
+            -118.148,
+            34.145
+          ],
+          [
+            -118.234,
+            34.056
+          ],
+          [
+            -118.268,
+            33.925
+          ],
+          [
+            -118.193,
+            33.768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-estados-unidos-la-sf-seattle-dallas-denver-boston",
+        "sistema_nome_pt": "Grandes Redes de VLT dos Estados Unidos (Los Angeles, São Francisco Muni, Seattle, San Diego, Dallas, Denver, Portland e Boston Green Line)",
+        "sistema_nome_en": "Major US Light Rail (VLT) Networks (Los Angeles, SF Muni, Seattle Link, San Diego Trolley, Dallas DART, Denver RTD, Portland MAX & Boston)",
+        "linha": "VLT de Seattle (Sound Transit Link 1 Line — Lynnwood – University of Washington – Downtown Seattle – Sea-Tac Airport – Angle Lake)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.296,
+            47.815
+          ],
+          [
+            -122.304,
+            47.65
+          ],
+          [
+            -122.331,
+            47.608
+          ],
+          [
+            -122.297,
+            47.444
+          ],
+          [
+            -122.298,
+            47.422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-estados-unidos-la-sf-seattle-dallas-denver-boston",
+        "sistema_nome_pt": "Grandes Redes de VLT dos Estados Unidos (Los Angeles, São Francisco Muni, Seattle, San Diego, Dallas, Denver, Portland e Boston Green Line)",
+        "sistema_nome_en": "Major US Light Rail (VLT) Networks (Los Angeles, SF Muni, Seattle Link, San Diego Trolley, Dallas DART, Denver RTD, Portland MAX & Boston)",
+        "linha": "VLT de Dallas DART (Red, Blue, Green e Orange Lines — DFW Airport – Downtown Dallas – Plano)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.04,
+            32.899
+          ],
+          [
+            -96.845,
+            32.815
+          ],
+          [
+            -96.798,
+            32.781
+          ],
+          [
+            -96.7,
+            33.019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-estados-unidos-la-sf-seattle-dallas-denver-boston",
+        "sistema_nome_pt": "Grandes Redes de VLT dos Estados Unidos (Los Angeles, São Francisco Muni, Seattle, San Diego, Dallas, Denver, Portland e Boston Green Line)",
+        "sistema_nome_en": "Major US Light Rail (VLT) Networks (Los Angeles, SF Muni, Seattle Link, San Diego Trolley, Dallas DART, Denver RTD, Portland MAX & Boston)",
+        "linha": "VLT de San Diego (San Diego Trolley — San Ysidro / Fronteira México – Downtown San Diego – UTC La Jolla)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.043,
+            32.544
+          ],
+          [
+            -117.105,
+            32.64
+          ],
+          [
+            -117.169,
+            32.716
+          ],
+          [
+            -117.213,
+            32.868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "amtrak-nacional-trens-suburbanos-eua",
+        "sistema_nome_pt": "Rede Nacional Amtrak (Transcontinentais) & Trens Suburbanos dos EUA (LIRR, Metro-North, NJ Transit, Metra, Caltrain e Metrolink)",
+        "sistema_nome_en": "Amtrak National Network (Transcontinentals) & US Commuter Rail (LIRR, Metro-North, NJ Transit, Metra, Caltrain & Metrolink)",
+        "linha": "Amtrak California Zephyr & Southwest Chief (Chicago Union Station – Omaha – Denver – Salt Lake City – Reno – São Francisco / Emeryville)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.64,
+            41.879
+          ],
+          [
+            -90.58,
+            41.32
+          ],
+          [
+            -95.93,
+            41.252
+          ],
+          [
+            -104.999,
+            39.753
+          ],
+          [
+            -107.325,
+            39.55
+          ],
+          [
+            -111.908,
+            40.762
+          ],
+          [
+            -119.812,
+            39.529
+          ],
+          [
+            -121.5,
+            38.584
+          ],
+          [
+            -122.292,
+            37.84
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "amtrak-nacional-trens-suburbanos-eua",
+        "sistema_nome_pt": "Rede Nacional Amtrak (Transcontinentais) & Trens Suburbanos dos EUA (LIRR, Metro-North, NJ Transit, Metra, Caltrain e Metrolink)",
+        "sistema_nome_en": "Amtrak National Network (Transcontinentals) & US Commuter Rail (LIRR, Metro-North, NJ Transit, Metra, Caltrain & Metrolink)",
+        "linha": "Amtrak Empire Builder & Coast Starlight (Chicago – Minneapolis – Spokane – Seattle – Portland – Sacramento – Los Angeles)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.64,
+            41.879
+          ],
+          [
+            -87.917,
+            43.034
+          ],
+          [
+            -93.085,
+            44.947
+          ],
+          [
+            -96.78,
+            46.877
+          ],
+          [
+            -113.985,
+            48.411
+          ],
+          [
+            -117.415,
+            47.655
+          ],
+          [
+            -122.328,
+            47.598
+          ],
+          [
+            -122.676,
+            45.529
+          ],
+          [
+            -121.5,
+            38.584
+          ],
+          [
+            -120.66,
+            35.276
+          ],
+          [
+            -118.234,
+            34.056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "amtrak-nacional-trens-suburbanos-eua",
+        "sistema_nome_pt": "Rede Nacional Amtrak (Transcontinentais) & Trens Suburbanos dos EUA (LIRR, Metro-North, NJ Transit, Metra, Caltrain e Metrolink)",
+        "sistema_nome_en": "Amtrak National Network (Transcontinentals) & US Commuter Rail (LIRR, Metro-North, NJ Transit, Metra, Caltrain & Metrolink)",
+        "linha": "Amtrak Crescent, Silver Meteor & City of New Orleans (Nova York – Washington – Atlanta – Nova Orleans – Chicago & Miami)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.006,
+            38.897
+          ],
+          [
+            -78.898,
+            35.994
+          ],
+          [
+            -80.838,
+            35.241
+          ],
+          [
+            -84.392,
+            33.799
+          ],
+          [
+            -86.805,
+            33.513
+          ],
+          [
+            -90.078,
+            29.946
+          ],
+          [
+            -90.052,
+            35.138
+          ],
+          [
+            -87.64,
+            41.879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-classe-1-eua-bnsf-up-csx-ns",
+        "sistema_nome_pt": "Megaferrovias de Carga Classe I dos Estados Unidos (BNSF, Union Pacific, CSX, Norfolk Southern, CN e CPKC)",
+        "sistema_nome_en": "US Class I Heavy-Haul Freight Railroads (BNSF, Union Pacific, CSX, Norfolk Southern, CN & CPKC)",
+        "linha": "BNSF Southern Transcon & Union Pacific Sunset Route (Portos de Los Angeles/Long Beach – Phoenix/Albuquerque – Kansas City – Chicago & Dallas–Nova Orleans)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.215,
+            33.754
+          ],
+          [
+            -117.29,
+            34.108
+          ],
+          [
+            -114.055,
+            35.189
+          ],
+          [
+            -106.646,
+            35.084
+          ],
+          [
+            -101.831,
+            35.222
+          ],
+          [
+            -97.336,
+            37.687
+          ],
+          [
+            -94.579,
+            39.1
+          ],
+          [
+            -91.112,
+            40.625
+          ],
+          [
+            -87.752,
+            41.785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-classe-1-eua-bnsf-up-csx-ns",
+        "sistema_nome_pt": "Megaferrovias de Carga Classe I dos Estados Unidos (BNSF, Union Pacific, CSX, Norfolk Southern, CN e CPKC)",
+        "sistema_nome_en": "US Class I Heavy-Haul Freight Railroads (BNSF, Union Pacific, CSX, Norfolk Southern, CN & CPKC)",
+        "linha": "Union Pacific Overland Route & BNSF Northern Transcon (Oakland/Seattle – Cheyenne – North Platte Bailey Yard – Omaha – Chicago)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.302,
+            37.815
+          ],
+          [
+            -119.812,
+            39.529
+          ],
+          [
+            -111.98,
+            41.223
+          ],
+          [
+            -104.82,
+            41.135
+          ],
+          [
+            -100.765,
+            41.14
+          ],
+          [
+            -95.93,
+            41.252
+          ],
+          [
+            -90.18,
+            41.84
+          ],
+          [
+            -87.752,
+            41.785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-classe-1-eua-bnsf-up-csx-ns",
+        "sistema_nome_pt": "Megaferrovias de Carga Classe I dos Estados Unidos (BNSF, Union Pacific, CSX, Norfolk Southern, CN e CPKC)",
+        "sistema_nome_en": "US Class I Heavy-Haul Freight Railroads (BNSF, Union Pacific, CSX, Norfolk Southern, CN & CPKC)",
+        "linha": "CSX & Norfolk Southern Eastern Freight Corridors (Chicago – Cleveland – Nova York/NJ – Atlanta – Porto de Savannah – Jacksonville)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.752,
+            41.785
+          ],
+          [
+            -83.537,
+            41.652
+          ],
+          [
+            -81.694,
+            41.499
+          ],
+          [
+            -78.878,
+            42.886
+          ],
+          [
+            -73.756,
+            42.652
+          ],
+          [
+            -74.15,
+            40.69
+          ],
+          [
+            -77.436,
+            37.54
+          ],
+          [
+            -84.392,
+            33.799
+          ],
+          [
+            -81.091,
+            32.081
+          ],
+          [
+            -81.655,
+            30.332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ktx-srt-alta-velocidade-coreia-do-sul",
+        "sistema_nome_pt": "KTX & SRT — Rede Nacional de Alta Velocidade da Coreia do Sul (Seul–Busan, Honam e Gangneung)",
+        "sistema_nome_en": "KTX & SRT — South Korea High-Speed Rail Network (Gyeongbu, Honam & Gangneung HSR)",
+        "linha": "Linha Gyeongbu HSR (Seoul Station / Suseo – Gwangmyeong – Osong – Daejeon – Dongdaegu – Gyeongju – Ulsan – Busan)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9707,
+            37.5547
+          ],
+          [
+            126.8848,
+            37.4164
+          ],
+          [
+            127.3275,
+            36.6201
+          ],
+          [
+            127.4342,
+            36.3325
+          ],
+          [
+            128.6285,
+            35.8797
+          ],
+          [
+            129.1388,
+            35.7983
+          ],
+          [
+            129.1385,
+            35.5514
+          ],
+          [
+            129.0414,
+            35.1152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ktx-srt-alta-velocidade-coreia-do-sul",
+        "sistema_nome_pt": "KTX & SRT — Rede Nacional de Alta Velocidade da Coreia do Sul (Seul–Busan, Honam e Gangneung)",
+        "sistema_nome_en": "KTX & SRT — South Korea High-Speed Rail Network (Gyeongbu, Honam & Gangneung HSR)",
+        "linha": "Linha Honam HSR & Gangneung KTX (Osong – Iksan – GwangjuSongjeong – Mokpo & Seul – Pyeongchang – Gangneung)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3882,
+            34.7913
+          ],
+          [
+            126.7903,
+            35.1375
+          ],
+          [
+            126.9465,
+            35.9402
+          ],
+          [
+            127.3275,
+            36.6201
+          ],
+          [
+            126.9707,
+            37.5547
+          ],
+          [
+            127.945,
+            37.336
+          ],
+          [
+            128.8961,
+            37.7638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-grande-seul-incheon-gtx-coreia",
+        "sistema_nome_pt": "Metrô da Grande Seul, Metrô de Incheon & Supermetro Expresso GTX-A",
+        "sistema_nome_en": "Seoul Metropolitan Subway, Incheon Metro & GTX-A Great Train Express",
+        "linha": "Metrô de Seul — Linhas 1, 2 (Circular), 9, AREX Aeroporto de Incheon e Superexpresso GTX-A (Suseo–Dongtan / Unjeong–Seul)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.4475,
+            37.4485
+          ],
+          [
+            126.7215,
+            37.4895
+          ],
+          [
+            126.9707,
+            37.5547
+          ],
+          [
+            127.0276,
+            37.4979
+          ],
+          [
+            127.1086,
+            37.4851
+          ],
+          [
+            127.0956,
+            37.2001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-busan-daegu-daejeon-gwangju-coreia",
+        "sistema_nome_pt": "Metrôs Regionais da Coreia do Sul: Busan (6 linhas), Daegu (3 linhas), Daejeon e Gwangju",
+        "sistema_nome_en": "South Korea Regional Metros: Busan (6 lines), Daegu (3 lines), Daejeon & Gwangju",
+        "linha": "Metrô de Busan — Linhas 1, 2, 3 e 4 (Nopo – Seomyeon – Haeundae – Centum City – Dadaepo Beach)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.0925,
+            35.2845
+          ],
+          [
+            129.0592,
+            35.1578
+          ],
+          [
+            129.1636,
+            35.1631
+          ],
+          [
+            128.9665,
+            35.0485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-busan-daegu-daejeon-gwangju-coreia",
+        "sistema_nome_pt": "Metrôs Regionais da Coreia do Sul: Busan (6 linhas), Daegu (3 linhas), Daejeon e Gwangju",
+        "sistema_nome_en": "South Korea Regional Metros: Busan (6 lines), Daegu (3 lines), Daejeon & Gwangju",
+        "linha": "Metrô de Daegu — Linhas 1, 2 e Linha 3 Monotrilho (Chilgok – Banwoldang – Suseongmot)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            128.5525,
+            35.945
+          ],
+          [
+            128.5933,
+            35.8655
+          ],
+          [
+            128.6215,
+            35.8255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-coreia-do-sul-seul-busan-gimhae-yongin-uijeongbu",
+        "sistema_nome_pt": "Redes de VLT e Metrô Leve Automatizado da Coreia do Sul (Busan–Gimhae, Yongin EverLine, Uijeongbu, Ui-Sinseol e Sillim)",
+        "sistema_nome_en": "South Korea Light Rail (VLT) Networks (Busan–Gimhae LRT, Yongin EverLine, Uijeongbu, Seoul Ui-Sinseol & Sillim)",
+        "linha": "VLT Busan–Gimhae (Sasang – Aeroporto Internacional de Gimhae – Kaya University) & Yongin EverLine",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            128.988,
+            35.1625
+          ],
+          [
+            128.9535,
+            35.1735
+          ],
+          [
+            128.8715,
+            35.2425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "korail-troncos-convencionais-coreia-do-sul",
+        "sistema_nome_pt": "Malha Ferroviária Convencional Korail (Linhas Gyeongbu, Honam, Jungang, Yeongdong e Donghae — ITX & Mugunghwa)",
+        "sistema_nome_en": "Korail Conventional Railway Network (Gyeongbu, Honam, Jungang, Yeongdong & Donghae Lines — ITX & Mugunghwa)",
+        "linha": "Linha Jungang & Donghae (Seul Cheongnyangni – Wonju – Jecheon – Andong – Gyeongju – Pohang – Busan Bujeon)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.0485,
+            37.5805
+          ],
+          [
+            127.945,
+            37.336
+          ],
+          [
+            128.2055,
+            37.1365
+          ],
+          [
+            128.725,
+            36.5655
+          ],
+          [
+            129.3415,
+            36.0715
+          ],
+          [
+            129.1388,
+            35.7983
+          ],
+          [
+            129.0605,
+            35.1645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "korail-frete-cargas-busan-uiwang-coreia",
+        "sistema_nome_pt": "Korail Logistics — Corredores Ferroviários de Carga e Contêineres (Porto de Busan – Uiwang ICD Seul, Pohang, Ulsan e Gwangyang)",
+        "sistema_nome_en": "Korail Freight Corridors (Port of Busan – Uiwang ICD Seoul, Pohang Steelworks, Ulsan & Gwangyang)",
+        "linha": "Corredor Ferroviário de Contêineres e Aço Korail (Porto Novo de Busan – Ulsan / Pohang POSCO – Daejeon – Uiwang ICD Seul)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            128.8285,
+            35.0785
+          ],
+          [
+            129.0414,
+            35.1152
+          ],
+          [
+            129.365,
+            35.995
+          ],
+          [
+            128.6285,
+            35.8797
+          ],
+          [
+            127.4342,
+            36.3325
+          ],
+          [
+            126.9535,
+            37.3325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "hokuriku-joetsu-kyushu-shinkansen-japao",
+        "sistema_nome_pt": "Hokuriku, Joetsu, Kyushu & Nishi-Kyushu Shinkansen (Tóquio–Kanazawa–Tsuruga, Niigata, Kagoshima e Nagasaki)",
+        "sistema_nome_en": "Hokuriku, Joetsu, Kyushu & Nishi-Kyushu Shinkansen (Tokyo–Kanazawa–Tsuruga, Niigata, Kagoshima & Nagasaki)",
+        "linha": "Hokuriku & Joetsu Shinkansen (Tóquio – Omiya – Takasaki – Nagano – Toyama – Kanazawa – Fukui – Tsuruga & Niigata)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.7671,
+            35.6812
+          ],
+          [
+            139.6238,
+            35.9063
+          ],
+          [
+            139.0125,
+            36.3225
+          ],
+          [
+            138.1889,
+            36.6431
+          ],
+          [
+            137.2133,
+            36.7014
+          ],
+          [
+            136.6478,
+            36.5781
+          ],
+          [
+            136.2233,
+            36.0611
+          ],
+          [
+            136.0769,
+            35.645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "hokuriku-joetsu-kyushu-shinkansen-japao",
+        "sistema_nome_pt": "Hokuriku, Joetsu, Kyushu & Nishi-Kyushu Shinkansen (Tóquio–Kanazawa–Tsuruga, Niigata, Kagoshima e Nagasaki)",
+        "sistema_nome_en": "Hokuriku, Joetsu, Kyushu & Nishi-Kyushu Shinkansen (Tokyo–Kanazawa–Tsuruga, Niigata, Kagoshima & Nagasaki)",
+        "linha": "Kyushu & Nishi-Kyushu Shinkansen (Fukuoka Hakata – Kumamoto – Kagoshima-Chuo & Takeo-Onsen – Nagasaki)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.4206,
+            33.5897
+          ],
+          [
+            130.53,
+            33.195
+          ],
+          [
+            130.6889,
+            32.7903
+          ],
+          [
+            130.415,
+            32.095
+          ],
+          [
+            130.5419,
+            31.5839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-nagoia-fukuoka-sapporo-quioto-kobe-sendai-yokohama",
+        "sistema_nome_pt": "Metrôs de Nagoia (6 linhas), Yokohama, Quioto, Kobe, Fukuoka, Sapporo e Sendai",
+        "sistema_nome_en": "Metros of Nagoya (6 lines), Yokohama, Kyoto, Kobe, Fukuoka, Sapporo & Sendai",
+        "linha": "Metrô de Nagoia — Linhas Higashiyama, Meijo (Anel) e Sakura-dori",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8515,
+            35.1685
+          ],
+          [
+            136.8815,
+            35.1709
+          ],
+          [
+            136.9085,
+            35.1695
+          ],
+          [
+            136.985,
+            35.175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-nagoia-fukuoka-sapporo-quioto-kobe-sendai-yokohama",
+        "sistema_nome_pt": "Metrôs de Nagoia (6 linhas), Yokohama, Quioto, Kobe, Fukuoka, Sapporo e Sendai",
+        "sistema_nome_en": "Metros of Nagoya (6 lines), Yokohama, Kyoto, Kobe, Fukuoka, Sapporo & Sendai",
+        "linha": "Metrô de Sapporo (Hokkaido — Linhas Namboku, Tozai e Toho) & Metrô de Fukuoka (Kuko Line)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            141.3508,
+            43.095
+          ],
+          [
+            141.3508,
+            43.0686
+          ],
+          [
+            141.3545,
+            43.015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-japao-hiroshima-utsunomiya-toyama-enoden",
+        "sistema_nome_pt": "Redes de VLT e Bondes do Japão (Hiroshima Hiroden, Utsunomiya Lightline, Toyama LRT, Enoden Kamakura, Kumamoto, Nagasaki e Kagoshima)",
+        "sistema_nome_en": "Japan Light Rail (VLT) & Tram Networks (Hiroshima Hiroden, Utsunomiya Lightline, Toyama LRT, Enoden, Kumamoto & Nagasaki)",
+        "linha": "VLT de Hiroshima (Hiroden — Estação de Hiroshima – Cúpula da Bomba Atômica – Miyajimaguchi) & Utsunomiya Lightline",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.4756,
+            34.3975
+          ],
+          [
+            132.4536,
+            34.3955
+          ],
+          [
+            132.395,
+            34.3715
+          ],
+          [
+            132.3039,
+            34.3119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jr-freight-corredor-nacional-carga-japao",
+        "sistema_nome_pt": "JR Freight — Corredor Ferroviário Nacional de Contêineres e Carga (Hokkaido – Túnel Seikan – Tóquio – Osaka – Fukuoka)",
+        "sistema_nome_en": "JR Freight — National Container & Bulk Freight Railway Corridor (Sapporo – Seikan Tunnel – Tokyo – Osaka – Fukuoka)",
+        "linha": "Corredor Nacional de Carga JR Freight (Sapporo – Túnel Submarino Seikan – Sendai – Tóquio – Nagoia – Osaka – Hiroshima – Fukuoka)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            141.385,
+            43.045
+          ],
+          [
+            140.725,
+            41.815
+          ],
+          [
+            140.515,
+            41.185
+          ],
+          [
+            140.735,
+            40.825
+          ],
+          [
+            140.882,
+            38.26
+          ],
+          [
+            139.79,
+            35.61
+          ],
+          [
+            138.389,
+            34.972
+          ],
+          [
+            136.865,
+            35.155
+          ],
+          [
+            135.535,
+            34.785
+          ],
+          [
+            132.515,
+            34.385
+          ],
+          [
+            130.925,
+            33.895
+          ],
+          [
+            130.425,
+            33.615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-rapidos-tilt-train-vlocity-xpt-australia",
+        "sistema_nome_pt": "Trens Rápidos da Austrália: Tilt Train (Brisbane–Cairns 160 km/h), V/Line VLocity (Vitória) e Transwa Prospector",
+        "sistema_nome_en": "Australia High-Speed & Fast Regional Trains: Queensland Tilt Train (160 km/h), V/Line VLocity & Transwa Prospector",
+        "linha": "Queensland Rail Electric Tilt Train & Spirit of Queensland (Brisbane Roma Street – Bundaberg – Rockhampton – Townsville – Cairns)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.018,
+            -27.465
+          ],
+          [
+            152.665,
+            -25.54
+          ],
+          [
+            152.348,
+            -24.866
+          ],
+          [
+            150.51,
+            -23.381
+          ],
+          [
+            149.186,
+            -21.142
+          ],
+          [
+            146.817,
+            -19.259
+          ],
+          [
+            145.775,
+            -16.925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-rapidos-tilt-train-vlocity-xpt-australia",
+        "sistema_nome_pt": "Trens Rápidos da Austrália: Tilt Train (Brisbane–Cairns 160 km/h), V/Line VLocity (Vitória) e Transwa Prospector",
+        "sistema_nome_en": "Australia High-Speed & Fast Regional Trains: Queensland Tilt Train (160 km/h), V/Line VLocity & Transwa Prospector",
+        "linha": "V/Line VLocity Fast Regional Rail (Melbourne Southern Cross – Geelong – Ballarat – Bendigo)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.355,
+            -38.144
+          ],
+          [
+            144.952,
+            -37.818
+          ],
+          [
+            143.859,
+            -37.559
+          ],
+          [
+            144.282,
+            -36.766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sydney-metro-melbourne-brisbane-perth-australia",
+        "sistema_nome_pt": "Sydney Metro (Automatizado GoA4) & Redes Metropolitanas de Sydney, Melbourne, Brisbane, Perth e Adelaide",
+        "sistema_nome_en": "Sydney Metro (Driverless GoA4) & Metropolitan Rail Networks of Sydney, Melbourne, Brisbane, Perth & Adelaide",
+        "linha": "Sydney Metro M1 (Tallawong – Chatswood – Travessia Subaquática da Baía de Sydney – Gadigal CBD – Sydenham) & Sydney Trains",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.906,
+            -33.692
+          ],
+          [
+            151.181,
+            -33.796
+          ],
+          [
+            151.209,
+            -33.868
+          ],
+          [
+            151.166,
+            -33.915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sydney-metro-melbourne-brisbane-perth-australia",
+        "sistema_nome_pt": "Sydney Metro (Automatizado GoA4) & Redes Metropolitanas de Sydney, Melbourne, Brisbane, Perth e Adelaide",
+        "sistema_nome_en": "Sydney Metro (Driverless GoA4) & Metropolitan Rail Networks of Sydney, Melbourne, Brisbane, Perth & Adelaide",
+        "linha": "Metro Trains Melbourne (Flinders Street – Southern Cross – City Loop – Pakenham / Sunbury) & Transperth",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.745,
+            -37.701
+          ],
+          [
+            144.952,
+            -37.818
+          ],
+          [
+            144.967,
+            -37.818
+          ],
+          [
+            145.125,
+            -37.919
+          ],
+          [
+            145.485,
+            -38.071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-melbourne-yarra-trams-sydney-gold-coast-australia",
+        "sistema_nome_pt": "VLT de Melbourne (Yarra Trams — Maior Rede de VLT do Mundo, 250 km) & VLTs de Sydney, Gold Coast, Canberra, Adelaide e Newcastle",
+        "sistema_nome_en": "Melbourne Tramway (Yarra Trams — World's Largest Light Rail Network, 250 km) & Sydney, Gold Coast, Canberra & Adelaide Light Rail",
+        "linha": "VLT de Melbourne Yarra Trams (Swanston St / Bourke St – St Kilda – Box Hill – Port Melbourne, 250 km)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.932,
+            -37.84
+          ],
+          [
+            144.963,
+            -37.814
+          ],
+          [
+            144.978,
+            -37.868
+          ],
+          [
+            145.122,
+            -37.819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-melbourne-yarra-trams-sydney-gold-coast-australia",
+        "sistema_nome_pt": "VLT de Melbourne (Yarra Trams — Maior Rede de VLT do Mundo, 250 km) & VLTs de Sydney, Gold Coast, Canberra, Adelaide e Newcastle",
+        "sistema_nome_en": "Melbourne Tramway (Yarra Trams — World's Largest Light Rail Network, 250 km) & Sydney, Gold Coast, Canberra & Adelaide Light Rail",
+        "linha": "Sydney Light Rail (Circular Quay – Central – Randwick / Dulwich Hill & L4 Parramatta) + Gold Coast G:link",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.211,
+            -33.861
+          ],
+          [
+            151.206,
+            -33.883
+          ],
+          [
+            151.242,
+            -33.915
+          ],
+          [
+            151.139,
+            -33.905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "transcontinentais-indian-pacific-ghan-xpt-australia",
+        "sistema_nome_pt": "Ferrovias Transcontinentais Indian Pacific (Sydney–Perth 4.352 km), The Ghan (Adelaide–Darwin 2.979 km) & NSW TrainLink XPT",
+        "sistema_nome_en": "Transcontinental Railways Indian Pacific (Sydney–Perth 4,352 km), The Ghan (Adelaide–Darwin 2,979 km) & NSW TrainLink XPT",
+        "linha": "Ferrovia Transcontinental Indian Pacific (Sydney – Broken Hill – Adelaide – Reta de 478 km em Nullarbor – Kalgoorlie – Perth)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.206,
+            -33.883
+          ],
+          [
+            149.1,
+            -33.33
+          ],
+          [
+            141.454,
+            -31.958
+          ],
+          [
+            138.583,
+            -34.943
+          ],
+          [
+            137.766,
+            -32.495
+          ],
+          [
+            133.66,
+            -30.56
+          ],
+          [
+            128.995,
+            -30.71
+          ],
+          [
+            121.469,
+            -30.745
+          ],
+          [
+            115.869,
+            -31.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "transcontinentais-indian-pacific-ghan-xpt-australia",
+        "sistema_nome_pt": "Ferrovias Transcontinentais Indian Pacific (Sydney–Perth 4.352 km), The Ghan (Adelaide–Darwin 2.979 km) & NSW TrainLink XPT",
+        "sistema_nome_en": "Transcontinental Railways Indian Pacific (Sydney–Perth 4,352 km), The Ghan (Adelaide–Darwin 2,979 km) & NSW TrainLink XPT",
+        "linha": "Ferrovia Transcontinental The Ghan (Adelaide – Port Augusta – Alice Springs – Katherine – Darwin)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.583,
+            -34.943
+          ],
+          [
+            137.766,
+            -32.495
+          ],
+          [
+            134.755,
+            -29.015
+          ],
+          [
+            133.87,
+            -23.698
+          ],
+          [
+            134.19,
+            -19.65
+          ],
+          [
+            132.265,
+            -14.465
+          ],
+          [
+            130.892,
+            -12.455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-minerio-pilbara-autohaul-artc-australia",
+        "sistema_nome_pt": "Superferrovias Heavy-Haul de Pilbara (BHP, Rio Tinto AutoHaul Autônomo, Fortescue e Roy Hill) & Corredor Nacional de Carga ARTC",
+        "sistema_nome_en": "Pilbara Heavy-Haul Iron Ore Railways (BHP, Rio Tinto Autonomous AutoHaul, Fortescue & Roy Hill) & ARTC National Freight Network",
+        "linha": "Superferrovias Heavy-Haul de Pilbara (Rio Tinto AutoHaul Autônomo Dampier–Tom Price & BHP/Fortescue/Roy Hill Port Hedland–Newman)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.601,
+            -20.315
+          ],
+          [
+            118.92,
+            -21.35
+          ],
+          [
+            119.736,
+            -23.358
+          ],
+          [
+            117.755,
+            -22.691
+          ],
+          [
+            117.145,
+            -21.45
+          ],
+          [
+            116.772,
+            -20.662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-minerio-pilbara-autohaul-artc-australia",
+        "sistema_nome_pt": "Superferrovias Heavy-Haul de Pilbara (BHP, Rio Tinto AutoHaul Autônomo, Fortescue e Roy Hill) & Corredor Nacional de Carga ARTC",
+        "sistema_nome_en": "Pilbara Heavy-Haul Iron Ore Railways (BHP, Rio Tinto Autonomous AutoHaul, Fortescue & Roy Hill) & ARTC National Freight Network",
+        "linha": "Corredor Interestadual de Carga ARTC Costa Leste (Melbourne – Albury – Sydney – Newcastle – Brisbane)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.915,
+            -37.805
+          ],
+          [
+            146.921,
+            -36.079
+          ],
+          [
+            149.725,
+            -34.75
+          ],
+          [
+            150.985,
+            -33.885
+          ],
+          [
+            151.778,
+            -32.928
+          ],
+          [
+            152.915,
+            -30.302
+          ],
+          [
+            153.015,
+            -27.565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sapsan-alta-velocidade-sao-petersburgo-moscou-vyborg",
+        "sistema_nome_pt": "Trem de Alta Velocidade Sapsan (São Petersburgo – Moscou 250 km/h) & Corredor Rápido São Petersburgo – Vyborg",
+        "sistema_nome_en": "Sapsan High-Speed Train (Saint Petersburg – Moscow 250 km/h) & Saint Petersburg – Vyborg Fast Corridor",
+        "linha": "TAV Sapsan — Ferrovia de Outubro (São Petersburgo Estação Moskovsky – Chudovo – Bologoye – Tver – Moscou Estação Leningradsky)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3614,
+            59.9296
+          ],
+          [
+            31.665,
+            59.125
+          ],
+          [
+            34.062,
+            57.882
+          ],
+          [
+            35.897,
+            56.836
+          ],
+          [
+            37.6553,
+            55.7764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sapsan-alta-velocidade-sao-petersburgo-moscou-vyborg",
+        "sistema_nome_pt": "Trem de Alta Velocidade Sapsan (São Petersburgo – Moscou 250 km/h) & Corredor Rápido São Petersburgo – Vyborg",
+        "sistema_nome_en": "Sapsan High-Speed Train (Saint Petersburg – Moscow 250 km/h) & Saint Petersburg – Vyborg Fast Corridor",
+        "linha": "Corredor de Alta Velocidade São Petersburgo (Estação Finlyandsky) – Zelenogorsk – Vyborg",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3561,
+            59.9558
+          ],
+          [
+            29.705,
+            60.198
+          ],
+          [
+            28.7514,
+            60.7139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-sao-petersburgo-russia",
+        "sistema_nome_pt": "Metrô de São Petersburgo (Peterburgsky Metropoliten — 5 Linhas e 72 Estações Profundas)",
+        "sistema_nome_en": "Saint Petersburg Metro (Peterburgsky Metropoliten — 5 Deep Lines & 72 Stations)",
+        "linha": "Metrô de São Petersburgo — Linha 1 Vermelha Kirovsko-Vyborgskaya (Devyatkino – Ploshchad Vosstaniya – Avtovo – Prospekt Veteranov)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4425,
+            60.0503
+          ],
+          [
+            30.3555,
+            59.958
+          ],
+          [
+            30.3605,
+            59.931
+          ],
+          [
+            30.3195,
+            59.907
+          ],
+          [
+            30.2615,
+            59.8672
+          ],
+          [
+            30.2535,
+            59.8419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-sao-petersburgo-russia",
+        "sistema_nome_pt": "Metrô de São Petersburgo (Peterburgsky Metropoliten — 5 Linhas e 72 Estações Profundas)",
+        "sistema_nome_en": "Saint Petersburg Metro (Peterburgsky Metropoliten — 5 Deep Lines & 72 Stations)",
+        "linha": "Metrô de São Petersburgo — Linha 2 Azul Moskovsko-Petrogradskaya (Parnas – Nevsky Prospekt – Moskovskaya – Kupchino)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3339,
+            60.0672
+          ],
+          [
+            30.3215,
+            59.9665
+          ],
+          [
+            30.3328,
+            59.9353
+          ],
+          [
+            30.3214,
+            59.8522
+          ],
+          [
+            30.3756,
+            59.8297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-sao-petersburgo-russia",
+        "sistema_nome_pt": "Metrô de São Petersburgo (Peterburgsky Metropoliten — 5 Linhas e 72 Estações Profundas)",
+        "sistema_nome_en": "Saint Petersburg Metro (Peterburgsky Metropoliten — 5 Deep Lines & 72 Stations)",
+        "linha": "Metrô de São Petersburgo — Linha 3 Verde Nevsko-Vasileostrovskaya & Linha 5 Roxa (Begovaya – Gostiny Dvor – Admiralteyskaya – Rybatskoye / Shushary)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.2025,
+            59.9872
+          ],
+          [
+            30.2783,
+            59.9428
+          ],
+          [
+            30.315,
+            59.9358
+          ],
+          [
+            30.3622,
+            59.9308
+          ],
+          [
+            30.4515,
+            59.8685
+          ],
+          [
+            30.5003,
+            59.8308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-bondes-sao-petersburgo-gorelektrotrans-chizhik",
+        "sistema_nome_pt": "Rede de VLT e Bondes de São Petersburgo (Gorelektrotrans — 230 km & VLT Rápido Chizhik)",
+        "sistema_nome_en": "Saint Petersburg Tram & Light Rail Network (Gorelektrotrans — 230 km & Chizhik Rapid Tram)",
+        "linha": "VLT Rápido Chizhik (Estação Ladozhsky – Krasnogvardeysky – Rzhevka) & Rede de Bondes Gorelektrotrans de São Petersburgo",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.2615,
+            59.8672
+          ],
+          [
+            30.325,
+            59.948
+          ],
+          [
+            30.4395,
+            59.9325
+          ],
+          [
+            30.489,
+            59.955
+          ],
+          [
+            30.512,
+            59.972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-outubro-suburbanos-sao-petersburgo-rzd",
+        "sistema_nome_pt": "Ferrovia de Outubro (Oktyabrskaya) & Rede de Trens Suburbanos dos 5 Terminais de São Petersburgo",
+        "sistema_nome_en": "October Railway (Oktyabrskaya) & Saint Petersburg Suburban Rail Network (5 Historic Terminals)",
+        "linha": "Redes Suburbanas de São Petersburgo (Vitebsky – Pushkin/Tsarskoye Selo – Pavlovsk & Baltiysky – Peterhof – Oranienbaum – Gatchina)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.765,
+            59.914
+          ],
+          [
+            29.905,
+            59.872
+          ],
+          [
+            30.2965,
+            59.9072
+          ],
+          [
+            30.3292,
+            59.9195
+          ],
+          [
+            30.415,
+            59.722
+          ],
+          [
+            30.448,
+            59.683
+          ],
+          [
+            30.122,
+            59.566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-baltico-sao-petersburgo-ust-luga-rzd",
+        "sistema_nome_pt": "Corredor Ferroviário de Carga do Mar Báltico: Portos de São Petersburgo, Ust-Luga, Bronka e Primorsk (RZD)",
+        "sistema_nome_en": "Baltic Sea Rail Freight Corridor: Ports of Saint Petersburg, Ust-Luga, Bronka & Primorsk (RZD)",
+        "linha": "Corredor Ferroviário de Carga do Báltico (Volkhovstroy / Anel de Carga de São Petersburgo – Grande Porto de São Petersburgo – Bronka – Megaporto de Ust-Luga)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.305,
+            59.915
+          ],
+          [
+            31.035,
+            59.755
+          ],
+          [
+            30.225,
+            59.885
+          ],
+          [
+            29.665,
+            59.905
+          ],
+          [
+            28.435,
+            59.685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "intercites-ter-sncf-franca",
+        "linha": "Intercités POLT (Paris–Orléans–Limoges–Toulouse–Narbonne)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Convencional Francesa (SNCF Intercités, TER e Transilien)",
+        "sistema_nome_en": "French Conventional Rail Network (SNCF Intercités, TER & Transilien)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.366,
+            48.842
+          ],
+          [
+            1.904,
+            47.907
+          ],
+          [
+            1.268,
+            45.836
+          ],
+          [
+            1.555,
+            45.152
+          ],
+          [
+            1.454,
+            43.611
+          ],
+          [
+            2.352,
+            43.218
+          ],
+          [
+            3.001,
+            43.19
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "intercites-ter-sncf-franca",
+        "linha": "Intercités Transversal (Nantes–Tours–Bourges–Lyon)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Convencional Francesa (SNCF Intercités, TER e Transilien)",
+        "sistema_nome_en": "French Conventional Rail Network (SNCF Intercités, TER & Transilien)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.542,
+            47.217
+          ],
+          [
+            -0.548,
+            47.464
+          ],
+          [
+            0.695,
+            47.389
+          ],
+          [
+            2.404,
+            47.094
+          ],
+          [
+            3.159,
+            46.989
+          ],
+          [
+            4.86,
+            45.76
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "fret-sncf-franca",
+        "linha": "Corredor de Carga HAROPA–Ródano (Le Havre–Paris–Dijon–Lyon–Marselha Fos)",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga da França (Hexafret / Fret SNCF e VIIA)",
+        "sistema_nome_en": "French Rail Freight Corridors (Hexafret / Fret SNCF & VIIA Rolling Highways)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.125,
+            49.492
+          ],
+          [
+            1.094,
+            49.449
+          ],
+          [
+            2.45,
+            48.72
+          ],
+          [
+            5.027,
+            47.323
+          ],
+          [
+            4.86,
+            45.72
+          ],
+          [
+            4.805,
+            43.942
+          ],
+          [
+            4.892,
+            43.435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "renfe-mercancias-espanha",
+        "linha": "Autoestrada Ferroviária Algeciras–Madri–Zaragoza–Barcelona–Portbou",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga da Espanha (Renfe Mercancías — Corredor Mediterrâneo e Atlântico)",
+        "sistema_nome_en": "Spanish Rail Freight Corridors (Renfe Mercancías — Mediterranean & Atlantic Freight)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.448,
+            36.128
+          ],
+          [
+            -4.789,
+            37.888
+          ],
+          [
+            -3.612,
+            40.395
+          ],
+          [
+            -0.911,
+            41.658
+          ],
+          [
+            1.255,
+            41.116
+          ],
+          [
+            2.14,
+            41.352
+          ],
+          [
+            3.158,
+            42.426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "db-cargo-alemanha",
+        "linha": "Corredor de Carga Mar do Norte–Reno–Alpes (Hamburgo Maschen–Duisburg–Mannheim–Basileia)",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga da Alemanha (DB Cargo — Reno-Alpes e Portos do Mar do Norte)",
+        "sistema_nome_en": "German Rail Freight Corridors (DB Cargo — Rhine-Alpine & North Sea Ports)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.029,
+            53.395
+          ],
+          [
+            8.813,
+            53.083
+          ],
+          [
+            7.635,
+            51.956
+          ],
+          [
+            6.776,
+            51.43
+          ],
+          [
+            6.958,
+            50.943
+          ],
+          [
+            8.469,
+            49.479
+          ],
+          [
+            7.606,
+            47.567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "db-cargo-freightliner-uk",
+        "linha": "Corredor Intermodal UK (Porto de Felixstowe–Londres–Daventry DIRFT–Crewe–Mossend Glasgow)",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga do Reino Unido (Freightliner, DB Cargo UK e Eurotúnel)",
+        "sistema_nome_en": "UK Rail Freight Corridors (Freightliner, DB Cargo UK & Channel Tunnel Freight)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.326,
+            51.956
+          ],
+          [
+            1.145,
+            52.052
+          ],
+          [
+            -0.15,
+            51.55
+          ],
+          [
+            -1.142,
+            52.342
+          ],
+          [
+            -2.435,
+            53.089
+          ],
+          [
+            -2.933,
+            54.89
+          ],
+          [
+            -4.012,
+            55.815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "frecciarossa-italo-tav-italia",
+        "linha": "Dorsal TAV Italiana (Turim–Milão–Bolonha–Florença–Roma–Nápoles–Salerno)",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Alta Velocidade Italiana (Le Frecce Trenitalia e Italo NTV — TAV)",
+        "sistema_nome_en": "Italian High-Speed Rail (Trenitalia Frecciarossa & Italo NTV — TAV)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.678,
+            45.062
+          ],
+          [
+            9.204,
+            45.486
+          ],
+          [
+            10.658,
+            44.755
+          ],
+          [
+            11.343,
+            44.506
+          ],
+          [
+            11.248,
+            43.776
+          ],
+          [
+            12.502,
+            41.901
+          ],
+          [
+            14.272,
+            40.853
+          ],
+          [
+            14.772,
+            40.675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "frecciarossa-italo-tav-italia",
+        "linha": "Eixo TAV Milão–Brescia–Verona–Pádua–Veneza Santa Lucia",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Alta Velocidade Italiana (Le Frecce Trenitalia e Italo NTV — TAV)",
+        "sistema_nome_en": "Italian High-Speed Rail (Trenitalia Frecciarossa & Italo NTV — TAV)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.204,
+            45.486
+          ],
+          [
+            10.212,
+            45.533
+          ],
+          [
+            10.982,
+            45.429
+          ],
+          [
+            11.547,
+            45.541
+          ],
+          [
+            11.88,
+            45.418
+          ],
+          [
+            12.321,
+            45.441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metros-milao-roma-napoles-turim-italia",
+        "linha": "Metrô de Milão (Linhas M1, M2, M3, M4 e M5)",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs da Itália (Milão ATM M1–M5, Roma ATAC A–C, Nápoles, Turim, Brescia, Gênova e Catânia)",
+        "sistema_nome_en": "Metros of Italy (Milan M1–M5, Rome A–C, Naples, Turin, Brescia, Genoa & Catania)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.08,
+            45.522
+          ],
+          [
+            9.189,
+            45.464
+          ],
+          [
+            9.204,
+            45.486
+          ],
+          [
+            9.28,
+            45.461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metros-milao-roma-napoles-turim-italia",
+        "linha": "Metrô de Roma (Linhas A, B e C)",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs da Itália (Milão ATM M1–M5, Roma ATAC A–C, Nápoles, Turim, Brescia, Gênova e Catânia)",
+        "sistema_nome_en": "Metros of Italy (Milan M1–M5, Rome A–C, Naples, Turin, Brescia, Genoa & Catania)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.416,
+            41.905
+          ],
+          [
+            12.502,
+            41.901
+          ],
+          [
+            12.573,
+            41.849
+          ],
+          [
+            12.68,
+            41.865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metros-milao-roma-napoles-turim-italia",
+        "linha": "Metrô de Nápoles (Linhas 1 e 6 — Estações da Arte)",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs da Itália (Milão ATM M1–M5, Roma ATAC A–C, Nápoles, Turim, Brescia, Gênova e Catânia)",
+        "sistema_nome_en": "Metros of Italy (Milan M1–M5, Rome A–C, Naples, Turin, Brescia, Genoa & Catania)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.21,
+            40.828
+          ],
+          [
+            14.252,
+            40.84
+          ],
+          [
+            14.272,
+            40.853
+          ],
+          [
+            14.228,
+            40.892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlts-bondes-milao-roma-turim-florenca-italia",
+        "linha": "Rede de Bondes de Milão (ATM) e Turim (GTT)",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes da Itália (Milão, Turim, Roma, Florença, Palermo, Nápoles, Cagliari e Veneza-Mestre)",
+        "sistema_nome_en": "Light Rail & Trams of Italy (Milan, Turin, Rome, Florence, Palermo, Naples, Cagliari & Venice)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.64,
+            45.04
+          ],
+          [
+            7.686,
+            45.071
+          ],
+          [
+            7.72,
+            45.095
+          ],
+          [
+            9.14,
+            45.45
+          ],
+          [
+            9.19,
+            45.464
+          ],
+          [
+            9.225,
+            45.495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlts-bondes-milao-roma-turim-florenca-italia",
+        "linha": "VLT de Florença (Tramvia GEST Linhas T1 e T2)",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes da Itália (Milão, Turim, Roma, Florença, Palermo, Nápoles, Cagliari e Veneza-Mestre)",
+        "sistema_nome_en": "Light Rail & Trams of Italy (Milan, Turin, Rome, Florence, Palermo, Naples, Cagliari & Venice)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.182,
+            43.756
+          ],
+          [
+            11.248,
+            43.776
+          ],
+          [
+            11.202,
+            43.805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "trenitalia-intercity-regionale-rfi-italia",
+        "linha": "Ferrovia Adriática (Bolonha–Rimini–Ancona–Pescara–Bari–Lecce)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Convencional e Suburbana Italiana (Trenitalia Intercity, Regionale, Trenord e Circumvesuviana)",
+        "sistema_nome_en": "Italian Conventional & Commuter Rail (Trenitalia Intercity, Regionale, Trenord & Circumvesuviana)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.343,
+            44.506
+          ],
+          [
+            12.574,
+            44.064
+          ],
+          [
+            13.503,
+            43.606
+          ],
+          [
+            14.203,
+            42.465
+          ],
+          [
+            15.552,
+            41.464
+          ],
+          [
+            16.87,
+            41.118
+          ],
+          [
+            18.167,
+            40.347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "trenitalia-intercity-regionale-rfi-italia",
+        "linha": "Ferrovia Tirrênica (Gênova–La Spezia–Pisa–Livorno–Roma)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Convencional e Suburbana Italiana (Trenitalia Intercity, Regionale, Trenord e Circumvesuviana)",
+        "sistema_nome_en": "Italian Conventional & Commuter Rail (Trenitalia Intercity, Regionale, Trenord & Circumvesuviana)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.918,
+            44.417
+          ],
+          [
+            9.814,
+            44.111
+          ],
+          [
+            10.399,
+            43.708
+          ],
+          [
+            10.312,
+            43.553
+          ],
+          [
+            11.11,
+            42.76
+          ],
+          [
+            11.796,
+            42.088
+          ],
+          [
+            12.502,
+            41.901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "mercitalia-corredor-alpino-carga-italia",
+        "linha": "Corredor de Carga Gênova–Milão–Verona–Passo do Brenner e Trieste",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga da Itália (Mercitalia Rail — Portos de Gênova/Trieste e Passos Alpinos)",
+        "sistema_nome_en": "Italian Rail Freight Corridors (Mercitalia Rail — Genoa/Trieste Ports & Alpine Crossings)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.895,
+            44.41
+          ],
+          [
+            8.87,
+            44.765
+          ],
+          [
+            9.25,
+            45.46
+          ],
+          [
+            10.94,
+            45.42
+          ],
+          [
+            11.354,
+            46.498
+          ],
+          [
+            11.505,
+            47.003
+          ],
+          [
+            13.762,
+            45.656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "sbb-gotthard-railjet-suica-austria",
+        "linha": "Eixo São Gotardo e Ceneri (Zurique–Arth-Goldau–Túnel de Base de São Gotardo–Lugano)",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Eixos de Alta Velocidade Alpina (SBB Túnel de Base de São Gotardo e ÖBB Railjet Westbahn)",
+        "sistema_nome_en": "Alpine High-Speed Rail Axes (SBB Gotthard Base Tunnel & ÖBB Railjet Westbahn)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.54,
+            47.378
+          ],
+          [
+            8.55,
+            47.048
+          ],
+          [
+            8.65,
+            46.82
+          ],
+          [
+            8.96,
+            46.33
+          ],
+          [
+            9.024,
+            46.195
+          ],
+          [
+            8.947,
+            46.005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "sbb-gotthard-railjet-suica-austria",
+        "linha": "Westbahn Austríaca de Alta Velocidade (Viena Hbf–St. Pölten–Linz–Salzburgo–Innsbruck)",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Eixos de Alta Velocidade Alpina (SBB Túnel de Base de São Gotardo e ÖBB Railjet Westbahn)",
+        "sistema_nome_en": "Alpine High-Speed Rail Axes (SBB Gotthard Base Tunnel & ÖBB Railjet Westbahn)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.376,
+            48.185
+          ],
+          [
+            15.624,
+            48.208
+          ],
+          [
+            14.291,
+            48.29
+          ],
+          [
+            13.046,
+            47.813
+          ],
+          [
+            12.169,
+            47.592
+          ],
+          [
+            11.401,
+            47.263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metro-viena-lausanne-austria-suica",
+        "linha": "Metrô de Viena (Wiener U-Bahn U1, U2, U3, U4 e U6)",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Viena (Wiener U-Bahn U1–U6) e Metrô de Lausanne (TL M1–M2)",
+        "sistema_nome_en": "Vienna U-Bahn (Lines U1–U6) & Lausanne Metro (Lines M1–M2)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.312,
+            48.136
+          ],
+          [
+            16.373,
+            48.208
+          ],
+          [
+            16.415,
+            48.235
+          ],
+          [
+            16.463,
+            48.261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metro-viena-lausanne-austria-suica",
+        "linha": "Metrô de Lausanne (Linhas M1 e M2)",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Viena (Wiener U-Bahn U1–U6) e Metrô de Lausanne (TL M1–M2)",
+        "sistema_nome_en": "Vienna U-Bahn (Lines U1–U6) & Lausanne Metro (Lines M1–M2)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.565,
+            46.522
+          ],
+          [
+            6.629,
+            46.517
+          ],
+          [
+            6.663,
+            46.544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlts-zurique-basileia-genebra-berna-viena",
+        "linha": "Redes de Bondes e VLTs de Zurique (VBZ) e Basileia (BVB/BLT)",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes da Suíça e Áustria (Zurique VBZ, Basileia, Genebra, Berna, Viena, Graz, Linz e Innsbruck)",
+        "sistema_nome_en": "Light Rail & Trams of Switzerland and Austria (Zurich, Basel, Geneva, Bern, Vienna, Graz, Linz & Innsbruck)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.589,
+            47.547
+          ],
+          [
+            7.615,
+            47.565
+          ],
+          [
+            8.485,
+            47.39
+          ],
+          [
+            8.54,
+            47.378
+          ],
+          [
+            8.58,
+            47.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlts-zurique-basileia-genebra-berna-viena",
+        "linha": "Rede de Bondes de Viena (Wiener Straßenbahn) e Graz",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes da Suíça e Áustria (Zurique VBZ, Basileia, Genebra, Berna, Viena, Graz, Linz e Innsbruck)",
+        "sistema_nome_en": "Light Rail & Trams of Switzerland and Austria (Zurich, Basel, Geneva, Bern, Vienna, Graz, Linz & Innsbruck)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.34,
+            48.19
+          ],
+          [
+            16.373,
+            48.208
+          ],
+          [
+            16.405,
+            48.225
+          ],
+          [
+            15.415,
+            47.07
+          ],
+          [
+            15.45,
+            47.072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "malha-alpina-sbb-rhb-obb-suica-austria",
+        "linha": "Tronco Suíço SBB e Ferrovia Rética (Genebra–Lausanne–Berna–Zurique–Chur–St. Moritz)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Ferroviária Nacional e Alpina da Suíça e Áustria (SBB, RhB Bernina/Glacier Express, BLS e ÖBB)",
+        "sistema_nome_en": "Swiss & Austrian National and Alpine Rail Network (SBB, RhB, BLS & ÖBB)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.142,
+            46.21
+          ],
+          [
+            6.629,
+            46.517
+          ],
+          [
+            7.439,
+            46.949
+          ],
+          [
+            8.54,
+            47.378
+          ],
+          [
+            9.529,
+            46.854
+          ],
+          [
+            9.839,
+            46.497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "corredor-carga-reno-alpes-sbb-obb",
+        "linha": "Corredor Transalpino de Carga NEAT (Basileia–Lötschberg/Simplon–São Gotardo–Chiasso)",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Transalpino de Carga (SBB Cargo, BLS Cargo e Rail Cargo Group ÖBB)",
+        "sistema_nome_en": "Transalpine Rail Freight Corridor (SBB Cargo, BLS Cargo & ÖBB Rail Cargo Group)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.589,
+            47.547
+          ],
+          [
+            7.674,
+            46.686
+          ],
+          [
+            7.988,
+            46.319
+          ],
+          [
+            8.55,
+            47.048
+          ],
+          [
+            9.03,
+            45.833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "hsl-zuid-eurostar-benelux",
+        "linha": "HSL-Zuid, HSL 4 e HSL 1/2/3 (Amsterdã–Schiphol–Roterdã–Antuérpia–Bruxelas–Liège)",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Alta Velocidade do Benelux (HSL-Zuid Holanda e HSL 1–4 Bélgica — Eurostar e ICE)",
+        "sistema_nome_en": "Benelux High-Speed Rail (HSL-Zuid Netherlands & HSL 1–4 Belgium — Eurostar & ICE)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9,
+            52.379
+          ],
+          [
+            4.762,
+            52.309
+          ],
+          [
+            4.469,
+            51.924
+          ],
+          [
+            4.421,
+            51.217
+          ],
+          [
+            4.336,
+            50.835
+          ],
+          [
+            5.567,
+            50.624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metros-amsterda-roterda-bruxelas-benelux",
+        "linha": "Metrôs de Amsterdã (M50–M54) e Roterdã-Haia (RET A–E)",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs de Amsterdã (GVB M50–M54), Roterdã-Haia (RET A–E RandstadRail) e Bruxelas (STIB-MIVB 1–2–5–6)",
+        "sistema_nome_en": "Metros of Amsterdam (GVB), Rotterdam-The Hague (RET) & Brussels (STIB-MIVB)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.125,
+            51.977
+          ],
+          [
+            4.469,
+            51.924
+          ],
+          [
+            4.325,
+            52.081
+          ],
+          [
+            4.855,
+            52.338
+          ],
+          [
+            4.9,
+            52.379
+          ],
+          [
+            4.935,
+            52.402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metros-amsterda-roterda-bruxelas-benelux",
+        "linha": "Metrô de Bruxelas (STIB-MIVB Linhas 1, 2, 5 e 6)",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs de Amsterdã (GVB M50–M54), Roterdã-Haia (RET A–E RandstadRail) e Bruxelas (STIB-MIVB 1–2–5–6)",
+        "sistema_nome_en": "Metros of Amsterdam (GVB), Rotterdam-The Hague (RET) & Brussels (STIB-MIVB)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.285,
+            50.815
+          ],
+          [
+            4.336,
+            50.835
+          ],
+          [
+            4.357,
+            50.845
+          ],
+          [
+            4.432,
+            50.842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlts-amsterda-haia-bruxelas-antuerpia-kusttram",
+        "linha": "Kusttram da Costa Belga (De Panne–Ostende–Knokke) e Pré-Metrô de Antuérpia",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes dos Países Baixos e Bélgica (Amsterdã, Haia, Utrecht, Bruxelas, Antuérpia, Gante, Charleroi e Kusttram)",
+        "sistema_nome_en": "Light Rail & Trams of the Netherlands and Belgium (Amsterdam, The Hague, Utrecht, Brussels, Antwerp, Ghent & Kusttram)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.59,
+            51.095
+          ],
+          [
+            2.926,
+            51.229
+          ],
+          [
+            3.285,
+            51.345
+          ],
+          [
+            4.38,
+            51.215
+          ],
+          [
+            4.421,
+            51.217
+          ],
+          [
+            4.465,
+            51.22
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "malha-nacional-ns-sncb-benelux",
+        "linha": "Troncos NS e SNCB (Groningen–Zwolle–Utrecht–Eindhoven–Maastricht e Bruxelas–Luxemburgo)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Ferroviária Nacional dos Países Baixos (NS) e da Bélgica (SNCB/NMBS) + Luxemburgo (CFL)",
+        "sistema_nome_en": "National Railway Network of the Netherlands (NS), Belgium (SNCB/NMBS) & Luxembourg (CFL)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.564,
+            53.211
+          ],
+          [
+            6.091,
+            52.505
+          ],
+          [
+            5.11,
+            52.089
+          ],
+          [
+            5.479,
+            51.443
+          ],
+          [
+            5.705,
+            50.85
+          ],
+          [
+            4.357,
+            50.845
+          ],
+          [
+            4.862,
+            50.469
+          ],
+          [
+            6.134,
+            49.6
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "betuweroute-carga-roterda-antuerpia-ruhr",
+        "linha": "Betuweroute e Corredor Portuário (Porto de Roterdã Maasvlakte–Zevenaar–Alemanha e Antuérpia–Aachen)",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Betuweroute e Corredores Portuários de Carga de Roterdã e Antuérpia",
+        "sistema_nome_en": "Betuweroute & Rotterdam/Antwerp Port Rail Freight Corridors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.02,
+            51.955
+          ],
+          [
+            4.469,
+            51.924
+          ],
+          [
+            5.442,
+            51.892
+          ],
+          [
+            6.075,
+            51.925
+          ],
+          [
+            4.35,
+            51.28
+          ],
+          [
+            5.332,
+            50.93
+          ],
+          [
+            6.091,
+            50.768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "alfa-pendular-intercidades-portugal",
+        "linha": "Eixo Alfa Pendular (Braga–Porto Campanhã–Aveiro–Coimbra-B–Lisboa Oriente–Faro)",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Alfa Pendular — Eixo Rápido Braga–Porto–Coimbra–Lisboa–Faro (CP)",
+        "sistema_nome_en": "Alfa Pendular — Fast Tilting Rail Axis Braga–Porto–Coimbra–Lisbon–Faro (CP)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.435,
+            41.548
+          ],
+          [
+            -8.585,
+            41.149
+          ],
+          [
+            -8.641,
+            40.644
+          ],
+          [
+            -8.439,
+            40.225
+          ],
+          [
+            -8.458,
+            39.468
+          ],
+          [
+            -9.099,
+            38.768
+          ],
+          [
+            -8.429,
+            38.033
+          ],
+          [
+            -8.23,
+            37.129
+          ],
+          [
+            -7.94,
+            37.018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metro-lisboa-portugal",
+        "linha": "Metropolitano de Lisboa (Linhas Azul, Amarela, Verde e Vermelha)",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metropolitano de Lisboa (Linhas Azul, Amarela, Verde e Vermelha)",
+        "sistema_nome_en": "Lisbon Metro (Blue, Yellow, Green & Red Lines)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.224,
+            38.759
+          ],
+          [
+            -9.142,
+            38.711
+          ],
+          [
+            -9.148,
+            38.758
+          ],
+          [
+            -9.099,
+            38.768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlt-metro-do-porto-almada-lisboa-portugal",
+        "linha": "Metro do Porto (Linhas A, B, C, D, E e F)",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metro do Porto (Linhas A–F), Metro Sul do Tejo (Almada) e Elétricos de Lisboa (Carris)",
+        "sistema_nome_en": "Porto Light Rail (Metro do Porto A–F), Metro Sul do Tejo & Lisbon Trams (Carris)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.761,
+            41.377
+          ],
+          [
+            -8.69,
+            41.182
+          ],
+          [
+            -8.61,
+            41.152
+          ],
+          [
+            -8.605,
+            41.115
+          ],
+          [
+            -8.555,
+            41.175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlt-metro-do-porto-almada-lisboa-portugal",
+        "linha": "Metro Sul do Tejo (Almada/Cacilhas/Corroios) e Elétricos de Lisboa (15E/28E)",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metro do Porto (Linhas A–F), Metro Sul do Tejo (Almada) e Elétricos de Lisboa (Carris)",
+        "sistema_nome_en": "Porto Light Rail (Metro do Porto A–F), Metro Sul do Tejo & Lisbon Trams (Carris)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.235,
+            38.698
+          ],
+          [
+            -9.136,
+            38.707
+          ],
+          [
+            -9.148,
+            38.688
+          ],
+          [
+            -9.205,
+            38.662
+          ],
+          [
+            -9.152,
+            38.636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "cp-suburbanos-regionais-portugal",
+        "linha": "Urbanos de Lisboa (Sintra/Cascais/Fertagus) e Linha do Douro (Porto–Régua–Pocinho)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Convencional e Suburbana de Portugal (CP Urbanos de Lisboa/Porto, Fertagus, Linha do Douro e Beira Alta)",
+        "sistema_nome_en": "Portuguese Conventional & Suburban Rail (CP Lisbon/Porto Commuter, Fertagus & Douro Line)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.418,
+            38.697
+          ],
+          [
+            -9.379,
+            38.798
+          ],
+          [
+            -9.146,
+            38.714
+          ],
+          [
+            -8.893,
+            38.531
+          ],
+          [
+            -8.585,
+            41.149
+          ],
+          [
+            -7.787,
+            41.159
+          ],
+          [
+            -7.118,
+            41.137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "medway-corredor-carga-sines-portugal",
+        "linha": "Corredor de Carga Medway (Porto de Sines–Setúbal–Entroncamento–Aveiro–Vilar Formoso)",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga de Portugal (Medway e Captrain — Porto de Sines, Leixões e Entroncamento)",
+        "sistema_nome_en": "Portuguese Rail Freight Corridors (Medway & Captrain — Port of Sines, Leixões & Entroncamento)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.868,
+            37.954
+          ],
+          [
+            -8.893,
+            38.531
+          ],
+          [
+            -8.958,
+            38.956
+          ],
+          [
+            -8.458,
+            39.468
+          ],
+          [
+            -8.641,
+            40.644
+          ],
+          [
+            -7.266,
+            40.536
+          ],
+          [
+            -6.835,
+            40.606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "sj-x2000-vr-pendolino-flytoget-nordicos",
+        "linha": "SJ X2000 Tronco Sul e Oeste (Estocolmo–Gotemburgo e Estocolmo–Malmö–Copenhague)",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Alta Velocidade Nórdica (SJ X2000 Suécia, VR Pendolino Finlândia e Flytoget/Follobanen Noruega)",
+        "sistema_nome_en": "Nordic High-Speed Rail (SJ X2000 Sweden, VR Pendolino Finland & Flytoget/Follobanen Norway)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.058,
+            59.33
+          ],
+          [
+            15.619,
+            58.416
+          ],
+          [
+            11.973,
+            57.709
+          ],
+          [
+            14.165,
+            57.779
+          ],
+          [
+            13.001,
+            55.609
+          ],
+          [
+            12.565,
+            55.673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "sj-x2000-vr-pendolino-flytoget-nordicos",
+        "linha": "VR Pendolino (Helsinque–Tampere–Turku) e Flytoget/Follobanen (Oslo–Gardermoen)",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Alta Velocidade Nórdica (SJ X2000 Suécia, VR Pendolino Finlândia e Flytoget/Follobanen Noruega)",
+        "sistema_nome_en": "Nordic High-Speed Rail (SJ X2000 Sweden, VR Pendolino Finland & Flytoget/Follobanen Norway)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.753,
+            59.911
+          ],
+          [
+            11.097,
+            60.193
+          ],
+          [
+            22.266,
+            60.454
+          ],
+          [
+            24.941,
+            60.171
+          ],
+          [
+            23.773,
+            61.498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metros-estocolmo-oslo-copenhague-helsinque",
+        "linha": "Metrôs de Estocolmo (Tunnelbana), Oslo (T-bane), Copenhague (M1–M4) e Helsinque",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs Nórdicos (Estocolmo Tunnelbana, Oslo T-bane, Copenhague M1–M4 e Helsinque Metro)",
+        "sistema_nome_en": "Nordic Metros (Stockholm Tunnelbana, Oslo T-bane, Copenhagen Metro M1–M4 & Helsinki Metro)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.52,
+            55.68
+          ],
+          [
+            12.565,
+            55.673
+          ],
+          [
+            10.7,
+            59.93
+          ],
+          [
+            10.753,
+            59.911
+          ],
+          [
+            17.95,
+            59.36
+          ],
+          [
+            18.058,
+            59.33
+          ],
+          [
+            24.73,
+            60.16
+          ],
+          [
+            24.941,
+            60.171
+          ],
+          [
+            25.14,
+            60.21
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlts-gotemburgo-estocolmo-oslo-bergen-helsinque",
+        "linha": "VLTs e Bondes de Gotemburgo, Bergen (Bybanen), Oslo e Helsinque",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes Nórdicos (Gotemburgo, Estocolmo, Oslo, Bergen Bybanen, Helsinque, Tampere, Aarhus e Odense)",
+        "sistema_nome_en": "Nordic Light Rail & Trams (Gothenburg, Stockholm, Oslo, Bergen, Helsinki, Tampere, Aarhus & Odense)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.324,
+            60.39
+          ],
+          [
+            5.335,
+            60.295
+          ],
+          [
+            10.72,
+            59.915
+          ],
+          [
+            10.76,
+            59.92
+          ],
+          [
+            11.93,
+            57.69
+          ],
+          [
+            11.973,
+            57.709
+          ],
+          [
+            24.92,
+            60.165
+          ],
+          [
+            24.955,
+            60.185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "troncos-ferroviarios-nordicos-suecia-noruega-dinamarca-finlandia",
+        "linha": "Bergensbanen/Dovrebanen (Bergen–Oslo–Trondheim), Grande Belt (Copenhague–Aarhus) e Expresso da Lapônia (Helsinque–Oulu–Rovaniemi)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Convencional e Suburbana da Suécia, Noruega (Bergensbanen), Dinamarca (DSB/S-tog) e Finlândia (VR)",
+        "sistema_nome_en": "Nordic Conventional & Commuter Rail (Sweden, Norway Bergensbanen, Denmark DSB/S-tog & Finland VR)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.204,
+            56.15
+          ],
+          [
+            10.388,
+            55.401
+          ],
+          [
+            12.565,
+            55.673
+          ],
+          [
+            5.334,
+            60.39
+          ],
+          [
+            8.208,
+            60.535
+          ],
+          [
+            10.753,
+            59.911
+          ],
+          [
+            10.399,
+            63.436
+          ],
+          [
+            24.941,
+            60.171
+          ],
+          [
+            25.485,
+            65.011
+          ],
+          [
+            25.706,
+            66.498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "ferrovia-minerio-artico-malmbanan-kiruna-narvik",
+        "linha": "Malmbanan / Ofotbanen — Ferrovia de Minério do Ártico (Luleå–Boden–Gällivare–Kiruna–Narvik)",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia de Minério do Ártico (Malmbanan / Ofotbanen — Luleå–Kiruna–Narvik) e Green Cargo",
+        "sistema_nome_en": "Arctic Iron Ore Railway (Malmbanan / Ofotbanen — Luleå–Kiruna–Narvik) & Green Cargo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.156,
+            65.584
+          ],
+          [
+            21.69,
+            65.825
+          ],
+          [
+            20.659,
+            67.132
+          ],
+          [
+            20.225,
+            67.855
+          ],
+          [
+            18.831,
+            68.354
+          ],
+          [
+            17.427,
+            68.438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "pkp-pendolino-railjet-europa-central-oriental",
+        "linha": "PKP Pendolino CMK (Gdańsk–Varsóvia–Linha Tronco Central–Cracóvia/Katowice)",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Eixos Rápidos da Europa Central e Balcãs (PKP Pendolino CMK Polônia, ČD Railjet Tchéquia e Eixo Atenas–Tessalônica)",
+        "sistema_nome_en": "Fast Rail Axes of Central Europe & Balkans (PKP Pendolino Poland, ČD Railjet Czechia & Athens–Thessaloniki)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.644,
+            54.356
+          ],
+          [
+            19.98,
+            53.778
+          ],
+          [
+            21.003,
+            52.229
+          ],
+          [
+            19.65,
+            50.85
+          ],
+          [
+            19.017,
+            50.258
+          ],
+          [
+            19.947,
+            50.068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "pkp-pendolino-railjet-europa-central-oriental",
+        "linha": "Corredor ČD Pendolino/Railjet (Praga–Brno–Bratislava–Budapeste) e Eixo 200 km/h Atenas–Tessalônica",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Eixos Rápidos da Europa Central e Balcãs (PKP Pendolino CMK Polônia, ČD Railjet Tchéquia e Eixo Atenas–Tessalônica)",
+        "sistema_nome_en": "Fast Rail Axes of Central Europe & Balkans (PKP Pendolino Poland, ČD Railjet Czechia & Athens–Thessaloniki)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.436,
+            50.083
+          ],
+          [
+            16.613,
+            49.191
+          ],
+          [
+            17.106,
+            48.158
+          ],
+          [
+            19.084,
+            47.5
+          ],
+          [
+            22.929,
+            40.644
+          ],
+          [
+            22.423,
+            39.629
+          ],
+          [
+            23.721,
+            37.992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "metros-praga-budapeste-varsovia-bucareste-atenas-sofia",
+        "linha": "Metrôs de Praga, Budapeste (M1–M4), Varsóvia, Bucareste e Atenas–Tessalônica",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs de Praga, Budapeste (M1–M4), Varsóvia (M1–M2), Bucareste (Metrorex) e Atenas–Tessalônica",
+        "sistema_nome_en": "Metros of Prague, Budapest, Warsaw, Bucharest (Metrorex) & Athens–Thessaloniki"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.35,
+            50.05
+          ],
+          [
+            14.436,
+            50.083
+          ],
+          [
+            20.95,
+            52.23
+          ],
+          [
+            21.003,
+            52.229
+          ],
+          [
+            19.02,
+            47.495
+          ],
+          [
+            19.084,
+            47.5
+          ],
+          [
+            26.05,
+            44.435
+          ],
+          [
+            26.102,
+            44.426
+          ],
+          [
+            23.642,
+            37.943
+          ],
+          [
+            23.735,
+            37.975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "vlts-praga-budapeste-varsovia-cracovia-bucareste-zagreb",
+        "linha": "Redes de Bondes e VLTs de Budapeste (Linhas 4/6), Praga, Varsóvia, Cracóvia e Bucareste",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes da Europa Central e Oriental (Budapeste, Praga, Varsóvia, Cracóvia, Silésia, Bucareste, Sófia, Zagreb e Atenas)",
+        "sistema_nome_en": "Light Rail & Trams of Central and Eastern Europe (Budapest, Prague, Warsaw, Kraków, Silesia, Bucharest & Athens)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4,
+            50.075
+          ],
+          [
+            14.45,
+            50.09
+          ],
+          [
+            19.04,
+            47.475
+          ],
+          [
+            19.055,
+            47.515
+          ],
+          [
+            19.93,
+            50.06
+          ],
+          [
+            19.96,
+            50.07
+          ],
+          [
+            20.98,
+            52.22
+          ],
+          [
+            21.02,
+            52.24
+          ],
+          [
+            26.08,
+            44.42
+          ],
+          [
+            26.12,
+            44.44
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "troncos-convencionais-pkp-cd-mav-cfr-ose",
+        "linha": "Troncos PKP, ČD, MÁV e CFR (Poznań–Varsóvia, Praga–Ostrava e Budapeste–Cluj–Brașov–Bucareste–Constança)",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Ferroviária Convencional da Polônia (PKP), Tchéquia (ČD), Hungria (MÁV), Romênia (CFR) e Grécia",
+        "sistema_nome_en": "Conventional Railway Network of Poland (PKP), Czechia (ČD), Hungary (MÁV), Romania (CFR) & Greece"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.912,
+            52.402
+          ],
+          [
+            21.003,
+            52.229
+          ],
+          [
+            14.436,
+            50.083
+          ],
+          [
+            18.266,
+            49.851
+          ],
+          [
+            19.084,
+            47.5
+          ],
+          [
+            21.942,
+            47.069
+          ],
+          [
+            23.586,
+            46.784
+          ],
+          [
+            25.613,
+            45.661
+          ],
+          [
+            26.074,
+            44.446
+          ],
+          [
+            28.634,
+            44.169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "operacao",
+        "sistema_id": "corredores-carga-pkp-cargo-lhs-gdansk-constanca-pireu",
+        "linha": "Corredor de Carga LHS Bitola Larga (Hrubieszów–Sławków) e Eixo Mar Negro–Egeu (Constança–Bucareste–Sófia–Tessalônica–Porto do Pireu)",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga do Leste Europeu e Balcãs (PKP Cargo, LHS Bitola Larga, ČD Cargo, Porto de Constança e Pireu)",
+        "sistema_nome_en": "Eastern European & Balkan Rail Freight Corridors (PKP Cargo, LHS Broad Gauge, ČD Cargo, Constanța & Piraeus)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.892,
+            50.805
+          ],
+          [
+            21.75,
+            50.55
+          ],
+          [
+            19.385,
+            50.298
+          ],
+          [
+            28.634,
+            44.169
+          ],
+          [
+            26.074,
+            44.446
+          ],
+          [
+            25.965,
+            43.856
+          ],
+          [
+            23.321,
+            42.712
+          ],
+          [
+            22.929,
+            40.644
+          ],
+          [
+            23.627,
+            37.948
           ]
         ]
       }
