@@ -10293,6 +10293,216 @@
           27.476
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-delhi-dmrc-ncr-india",
+        "nome": "Rajiv Chowk — Connaught Place (Hub Central do Metrô de Délhi — Linhas Yellow e Blue)",
+        "linha": "Linhas Yellow e Blue",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas Yellow e Blue"
+        ],
+        "sistema_nome_pt": "Metrô de Délhi (DMRC — 12 Linhas, Noida Metro e Rapid Metro Gurgaon)",
+        "sistema_nome_en": "Delhi Metro (DMRC — 12 Lines, Noida Aqua Line & Rapid Metro Gurgaon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.219,
+          28.633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vande-bharat-namo-bharat-rrts-india",
+        "nome": "New Delhi Railway Station (Terminal Vande Bharat Express / DMRC Airport Express)",
+        "linha": "Vande Bharat / DMRC",
+        "status": "operacao",
+        "integracoes": [
+          "Vande Bharat / DMRC"
+        ],
+        "sistema_nome_pt": "Namo Bharat RRTS (Délhi–Meerut 160 km/h) e Rede Vande Bharat Express (Semi-Alta Velocidade da Índia)",
+        "sistema_nome_en": "Namo Bharat RRTS (Delhi–Meerut 160 km/h) & Vande Bharat Express Semi-High-Speed Network of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.22,
+          28.642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vande-bharat-namo-bharat-rrts-india",
+        "nome": "Sahibabad / Anand Vihar RRTS (Namo Bharat 160 km/h Délhi–Meerut)",
+        "linha": "Namo Bharat RRTS",
+        "status": "operacao",
+        "integracoes": [
+          "Namo Bharat RRTS"
+        ],
+        "sistema_nome_pt": "Namo Bharat RRTS (Délhi–Meerut 160 km/h) e Rede Vande Bharat Express (Semi-Alta Velocidade da Índia)",
+        "sistema_nome_en": "Namo Bharat RRTS (Delhi–Meerut 160 km/h) & Vande Bharat Express Semi-High-Speed Network of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.315,
+          28.647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "indian-railways-suburban-mumbai-golden-quadrilateral-india",
+        "nome": "Chhatrapati Shivaji Maharaj Terminus — CSMT Mumbai (Patrimônio da UNESCO — Indian Railways & Mumbai Suburban)",
+        "linha": "Central Line / Konkan",
+        "status": "operacao",
+        "integracoes": [
+          "Central Line / Konkan"
+        ],
+        "sistema_nome_pt": "Indian Railways — Quadrilátero Dourado, Ferrovia Konkan e Redes Suburbanas Gigantes (Mumbai, Calcutá e Chennai)",
+        "sistema_nome_en": "Indian Railways — Golden Quadrilateral, Konkan Railway & Mega Suburban Networks (Mumbai, Kolkata & Chennai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.835,
+          18.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "indian-railways-suburban-mumbai-golden-quadrilateral-india",
+        "nome": "Howrah Junction — Calcutá (Maior Complexo Ferroviário da Índia com 23 Plataformas e Metrô Subaquático)",
+        "linha": "Indian Railways / Kolkata Metro",
+        "status": "operacao",
+        "integracoes": [
+          "Indian Railways / Kolkata Metro"
+        ],
+        "sistema_nome_pt": "Indian Railways — Quadrilátero Dourado, Ferrovia Konkan e Redes Suburbanas Gigantes (Mumbai, Calcutá e Chennai)",
+        "sistema_nome_en": "Indian Railways — Golden Quadrilateral, Konkan Railway & Mega Suburban Networks (Mumbai, Kolkata & Chennai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.342,
+          22.583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "indian-railways-suburban-mumbai-golden-quadrilateral-india",
+        "nome": "Puratchi Thalaivar Dr. M.G. Ramachandran Central — Chennai Central (Vande Bharat / Chennai Metro)",
+        "linha": "Southern Railway / Chennai Metro",
+        "status": "operacao",
+        "integracoes": [
+          "Southern Railway / Chennai Metro"
+        ],
+        "sistema_nome_pt": "Indian Railways — Quadrilátero Dourado, Ferrovia Konkan e Redes Suburbanas Gigantes (Mumbai, Calcutá e Chennai)",
+        "sistema_nome_en": "Indian Railways — Golden Quadrilateral, Konkan Railway & Mega Suburban Networks (Mumbai, Kolkata & Chennai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.275,
+          13.082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-mumbai-bangalore-calcuta-chennai-hyderabad-india",
+        "nome": "Nadaprabhu Kempegowda Station — Majestic (Hub do Namma Metro de Bangalore — Linhas Purple e Green)",
+        "linha": "Namma Metro Bengaluru",
+        "status": "operacao",
+        "integracoes": [
+          "Namma Metro Bengaluru"
+        ],
+        "sistema_nome_pt": "Grandes Metrôs da Índia (Mumbai, Bangalore Namma Metro, Calcutá, Chennai, Hyderabad, Kochi, Pune, Ahmedabad e Lucknow)",
+        "sistema_nome_en": "Major Metros of India (Mumbai, Bengaluru Namma Metro, Kolkata, Chennai, Hyderabad, Kochi, Pune, Ahmedabad & Lucknow)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.572,
+          12.976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-mumbai-bangalore-calcuta-chennai-hyderabad-india",
+        "nome": "Ameerpet & Miyapur (Metrô de Hyderabad)",
+        "linha": "Hyderabad Metro",
+        "status": "operacao",
+        "integracoes": [
+          "Hyderabad Metro"
+        ],
+        "sistema_nome_pt": "Grandes Metrôs da Índia (Mumbai, Bangalore Namma Metro, Calcutá, Chennai, Hyderabad, Kochi, Pune, Ahmedabad e Lucknow)",
+        "sistema_nome_en": "Major Metros of India (Mumbai, Bengaluru Namma Metro, Kolkata, Chennai, Hyderabad, Kochi, Pune, Ahmedabad & Lucknow)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.448,
+          17.437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredores-dedicados-carga-dfccil-edfc-wdfc-india",
+        "nome": "Terminal Intermodal Double-Stack de Dadri / Porto de Mundra (Western Dedicated Freight Corridor — WDFC)",
+        "linha": "WDFC Double-Stack",
+        "status": "operacao",
+        "integracoes": [
+          "WDFC Double-Stack"
+        ],
+        "sistema_nome_pt": "Corredores Dedicados de Carga da Índia (DFCCIL — Western DFC Double-Stack Elétrico e Eastern DFC)",
+        "sistema_nome_en": "Dedicated Freight Corridors of India (DFCCIL — Electric Double-Stack Western DFC & Eastern DFC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.721,
+          22.839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredores-dedicados-carga-dfccil-edfc-wdfc-india",
+        "nome": "Porto de Jawaharlal Nehru — JNPT Navi Mumbai (Terminal Sul do WDFC)",
+        "linha": "WDFC Double-Stack",
+        "status": "operacao",
+        "integracoes": [
+          "WDFC Double-Stack"
+        ],
+        "sistema_nome_pt": "Corredores Dedicados de Carga da Índia (DFCCIL — Western DFC Double-Stack Elétrico e Eastern DFC)",
+        "sistema_nome_en": "Dedicated Freight Corridors of India (DFCCIL — Electric Double-Stack Western DFC & Eastern DFC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.951,
+          18.95
+        ]
+      }
     }
   ]
 }

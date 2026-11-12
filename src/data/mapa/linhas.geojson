@@ -13980,6 +13980,466 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vande-bharat-namo-bharat-rrts-india",
+        "linha": "Namo Bharat RRTS (Délhi–Meerut) e Corredores Norte Vande Bharat Express (Nova Délhi–Agra–Bhopal e Nova Délhi–Kanpur–Prayagraj–Varanasi)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Namo Bharat RRTS (Délhi–Meerut 160 km/h) e Rede Vande Bharat Express (Semi-Alta Velocidade da Índia)",
+        "sistema_nome_en": "Namo Bharat RRTS (Delhi–Meerut 160 km/h) & Vande Bharat Express Semi-High-Speed Network of India",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.706,
+            28.984
+          ],
+          [
+            77.453,
+            28.669
+          ],
+          [
+            77.22,
+            28.642
+          ],
+          [
+            78.008,
+            27.176
+          ],
+          [
+            78.182,
+            26.218
+          ],
+          [
+            77.412,
+            23.259
+          ],
+          [
+            80.331,
+            26.449
+          ],
+          [
+            81.846,
+            25.435
+          ],
+          [
+            82.973,
+            25.317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vande-bharat-namo-bharat-rrts-india",
+        "linha": "Corredores Oeste e Sul Vande Bharat Express (Mumbai–Surat–Vadodara–Ahmedabad e Chennai–Bengaluru–Mysuru)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Namo Bharat RRTS (Délhi–Meerut 160 km/h) e Rede Vande Bharat Express (Semi-Alta Velocidade da Índia)",
+        "sistema_nome_en": "Namo Bharat RRTS (Delhi–Meerut 160 km/h) & Vande Bharat Express Semi-High-Speed Network of India",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.571,
+            23.022
+          ],
+          [
+            73.181,
+            22.307
+          ],
+          [
+            72.831,
+            21.17
+          ],
+          [
+            72.835,
+            18.94
+          ],
+          [
+            80.275,
+            13.082
+          ],
+          [
+            79.132,
+            12.969
+          ],
+          [
+            77.568,
+            12.978
+          ],
+          [
+            76.641,
+            12.313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-delhi-dmrc-ncr-india",
+        "linha": "Metrô de Délhi — DMRC (12 Linhas: Red, Yellow, Blue, Green, Violet, Pink, Magenta, Airport Express, Noida Aqua e Gurgaon)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Délhi (DMRC — 12 Linhas, Noida Metro e Rapid Metro Gurgaon)",
+        "sistema_nome_en": "Delhi Metro (DMRC — 12 Lines, Noida Aqua Line & Rapid Metro Gurgaon)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.026,
+            28.459
+          ],
+          [
+            77.089,
+            28.556
+          ],
+          [
+            77.219,
+            28.633
+          ],
+          [
+            77.23,
+            28.656
+          ],
+          [
+            77.391,
+            28.535
+          ],
+          [
+            77.536,
+            28.474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-mumbai-bangalore-calcuta-chennai-hyderabad-india",
+        "linha": "Grandes Metrôs Indianos (Mumbai Metro L1/2A/3/7, Bengaluru Namma Metro, Kolkata Metro, Chennai Metro e Hyderabad Metro)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Grandes Metrôs da Índia (Mumbai, Bangalore Namma Metro, Calcutá, Chennai, Hyderabad, Kochi, Pune, Ahmedabad e Lucknow)",
+        "sistema_nome_en": "Major Metros of India (Mumbai, Bengaluru Namma Metro, Kolkata, Chennai, Hyderabad, Kochi, Pune, Ahmedabad & Lucknow)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.825,
+            18.925
+          ],
+          [
+            72.868,
+            19.115
+          ],
+          [
+            72.856,
+            19.228
+          ],
+          [
+            77.52,
+            12.96
+          ],
+          [
+            77.6,
+            12.975
+          ],
+          [
+            77.75,
+            12.99
+          ],
+          [
+            78.38,
+            17.445
+          ],
+          [
+            78.486,
+            17.385
+          ],
+          [
+            78.552,
+            17.345
+          ],
+          [
+            80.175,
+            12.99
+          ],
+          [
+            80.275,
+            13.082
+          ],
+          [
+            88.325,
+            22.562
+          ],
+          [
+            88.363,
+            22.572
+          ],
+          [
+            88.435,
+            22.58
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-calcuta-vlt-monotrilho-mumbai-india",
+        "linha": "Kolkata Tramways (Bondes Históricos de Calcutá) e Monotrilho de Mumbai (Chembur–Wadala–Jacob Circle)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bondes Históricos de Calcutá (Kolkata Tramways — 1902) e Monotrilho de Mumbai",
+        "sistema_nome_en": "Historic Kolkata Tramways (Oldest Operating Electric Tram in Asia — 1902) & Mumbai Monorail",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.342,
+            22.545
+          ],
+          [
+            88.352,
+            22.565
+          ],
+          [
+            88.372,
+            22.595
+          ],
+          [
+            72.832,
+            18.978
+          ],
+          [
+            72.868,
+            19.018
+          ],
+          [
+            72.899,
+            19.062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "indian-railways-suburban-mumbai-golden-quadrilateral-india",
+        "linha": "Quadrilátero Dourado da Indian Railways (Nova Délhi–Mumbai–Chennai–Calcutá–Nova Délhi), Ferrovia Konkan e Mumbai Suburban",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Indian Railways — Quadrilátero Dourado, Ferrovia Konkan e Redes Suburbanas Gigantes (Mumbai, Calcutá e Chennai)",
+        "sistema_nome_en": "Indian Railways — Golden Quadrilateral, Konkan Railway & Mega Suburban Networks (Mumbai, Kolkata & Chennai)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.22,
+            28.642
+          ],
+          [
+            75.82,
+            25.18
+          ],
+          [
+            73.181,
+            22.307
+          ],
+          [
+            72.835,
+            18.94
+          ],
+          [
+            73.827,
+            15.49
+          ],
+          [
+            74.856,
+            12.914
+          ],
+          [
+            75.78,
+            11.258
+          ],
+          [
+            76.267,
+            9.931
+          ],
+          [
+            77.568,
+            12.978
+          ],
+          [
+            80.275,
+            13.082
+          ],
+          [
+            80.648,
+            16.506
+          ],
+          [
+            83.297,
+            17.712
+          ],
+          [
+            85.84,
+            20.266
+          ],
+          [
+            88.342,
+            22.583
+          ],
+          [
+            86.43,
+            23.795
+          ],
+          [
+            85.012,
+            24.795
+          ],
+          [
+            82.973,
+            25.317
+          ],
+          [
+            80.331,
+            26.449
+          ],
+          [
+            77.22,
+            28.642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredores-dedicados-carga-dfccil-edfc-wdfc-india",
+        "linha": "Western Dedicated Freight Corridor — WDFC Double-Stack Elétrico (Dadri/Délhi–Rewari–Jaipur–Palanpur–Porto de Mundra e Vadodara–Porto JNPT Mumbai)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Dedicados de Carga da Índia (DFCCIL — Western DFC Double-Stack Elétrico e Eastern DFC)",
+        "sistema_nome_en": "Dedicated Freight Corridors of India (DFCCIL — Electric Double-Stack Western DFC & Eastern DFC)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.554,
+            28.55
+          ],
+          [
+            76.619,
+            28.192
+          ],
+          [
+            75.787,
+            26.912
+          ],
+          [
+            74.639,
+            26.449
+          ],
+          [
+            72.434,
+            24.172
+          ],
+          [
+            69.721,
+            22.839
+          ],
+          [
+            72.636,
+            23.022
+          ],
+          [
+            73.181,
+            22.307
+          ],
+          [
+            72.831,
+            21.17
+          ],
+          [
+            72.951,
+            18.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredores-dedicados-carga-dfccil-edfc-wdfc-india",
+        "linha": "Eastern Dedicated Freight Corridor — EDFC (Ludhiana–Ambala–Khurja–Kanpur–Prayagraj–Mughalsarai–Sonnagar)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Dedicados de Carga da Índia (DFCCIL — Western DFC Double-Stack Elétrico e Eastern DFC)",
+        "sistema_nome_en": "Dedicated Freight Corridors of India (DFCCIL — Electric Double-Stack Western DFC & Eastern DFC)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.857,
+            30.901
+          ],
+          [
+            76.826,
+            30.337
+          ],
+          [
+            77.554,
+            28.25
+          ],
+          [
+            80.331,
+            26.449
+          ],
+          [
+            81.846,
+            25.435
+          ],
+          [
+            83.12,
+            25.28
+          ],
+          [
+            84.285,
+            24.872
+          ]
+        ]
+      }
     }
   ]
 }

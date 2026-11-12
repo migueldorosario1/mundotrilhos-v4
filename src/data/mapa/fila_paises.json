@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T16:45:00-03:00",
+  "atualizado_em": "2026-11-12T17:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -106,20 +106,39 @@
       "bandeira": "🇲🇽",
       "sistemas_operacao": 5,
       "ronda": "Ronda #18 (16:45 BRT — 5 Modalidades)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 15,
       "pais": "Índia",
       "bandeira": "🇮🇳",
-      "foco": "Metrôs de Délhi/Mumbai/Bangalore/Calcutá, Vande Bharat / Namo Bharat RRTS, Indian Railways e Dedicated Freight Corridors (DFCCIL)"
-    },
+      "sistemas_operacao": 6,
+      "ronda": "Ronda #19 (17:15 BRT — 5 Modalidades)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 16,
       "pais": "Canadá",
       "bandeira": "🇨🇦",
       "foco": "Metrôs de Toronto (TTC), Montreal (REM + STM) e Vancouver (SkyTrain), VLTs de Calgary/Edmonton/Ottawa, VIA Rail Corridor/Canadian e CN/CPKC Carga"
+    },
+    {
+      "ordem": 17,
+      "pais": "Marrocos e Egito (Norte da África)",
+      "bandeira": "🇲🇦",
+      "foco": "Al Boraq (1º TAV da África Tânger–Casablanca), Metrô do Cairo (L1–L3 + VLT da Nova Capital), VLTs de Rabat-Salé/Casablanca, ONCF/ENR e Ferrovia de Fosfato Khouribga–Jorf Lasfar"
+    },
+    {
+      "ordem": 18,
+      "pais": "África do Sul",
+      "bandeira": "🇿🇦",
+      "foco": "Gautrain (Joanesburgo–Pretória–Aeroporto OR Tambo 160 km/h), Metrorail (Cidade do Cabo/Joanesburgo/Durban), Shosholoza Meyl/Blue Train e Superferrovias Heavy-Haul de Minério Sishen–Saldanha e Carvão para Richards Bay"
+    },
+    {
+      "ordem": 19,
+      "pais": "Turquia",
+      "bandeira": "🇹🇷",
+      "foco": "YHT Alta Velocidade (Ancara–Istambul–Konya–Sivas), Metrô de Istambul + Marmaray (túnel sob o Bósforo) + Ancara/Izmir, Bondes e VLTs de Istambul/Antália/Kayseri, TCDD e Corredor de Carga Baku–Tbilisi–Kars"
     }
   ]
 }
