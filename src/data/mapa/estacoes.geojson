@@ -11413,6 +11413,232 @@
           -28.783
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "yht-alta-velocidade-ancara-istambul-konya-sivas-turquia",
+        "nome": "Ankara YHT Gar (Terminal Central de Alta Velocidade ATG)",
+        "linha": "YHT Ancara–Istambul / Konya / Sivas",
+        "status": "operacao",
+        "integracoes": [
+          "YHT 300 km/h",
+          "Başkentray",
+          "Ankaray / Metrô de Ancara"
+        ],
+        "sistema_nome_pt": "YHT (Yüksek Hızlı Tren) — Rede de Alta Velocidade Ancara–Istambul, Ancara–Konya–Karaman e Ancara–Sivas (250–300 km/h)",
+        "sistema_nome_en": "YHT (Yüksek Hızlı Tren) — Ankara–Istanbul, Ankara–Konya–Karaman & Ankara–Sivas High-Speed Rail (250–300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8439,
+          39.9358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "yht-alta-velocidade-ancara-istambul-konya-sivas-turquia",
+        "nome": "Eskişehir Gar (Entroncamento Nacional YHT)",
+        "linha": "YHT Ancara–Istambul / Ancara–Konya",
+        "status": "operacao",
+        "integracoes": [
+          "YHT",
+          "EsTram VLT"
+        ],
+        "sistema_nome_pt": "YHT (Yüksek Hızlı Tren) — Rede de Alta Velocidade Ancara–Istambul, Ancara–Konya–Karaman e Ancara–Sivas (250–300 km/h)",
+        "sistema_nome_en": "YHT (Yüksek Hızlı Tren) — Ankara–Istanbul, Ankara–Konya–Karaman & Ankara–Sivas High-Speed Rail (250–300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5114,
+          39.7825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "yht-alta-velocidade-ancara-istambul-konya-sivas-turquia",
+        "nome": "Konya YHT Gar / Selçuklu",
+        "linha": "YHT Ancara–Konya–Karaman",
+        "status": "operacao",
+        "integracoes": [
+          "YHT 300 km/h",
+          "KonyaRay VLT"
+        ],
+        "sistema_nome_pt": "YHT (Yüksek Hızlı Tren) — Rede de Alta Velocidade Ancara–Istambul, Ancara–Konya–Karaman e Ancara–Sivas (250–300 km/h)",
+        "sistema_nome_en": "YHT (Yüksek Hızlı Tren) — Ankara–Istanbul, Ankara–Konya–Karaman & Ankara–Sivas High-Speed Rail (250–300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4764,
+          37.8686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "yht-alta-velocidade-ancara-istambul-konya-sivas-turquia",
+        "nome": "Sivas YHT Gar (Terminal Leste 300 km/h)",
+        "linha": "YHT Ancara–Sivas",
+        "status": "operacao",
+        "integracoes": [
+          "YHT 300 km/h",
+          "Doğu Ekspresi"
+        ],
+        "sistema_nome_pt": "YHT (Yüksek Hızlı Tren) — Rede de Alta Velocidade Ancara–Istambul, Ancara–Konya–Karaman e Ancara–Sivas (250–300 km/h)",
+        "sistema_nome_en": "YHT (Yüksek Hızlı Tren) — Ankara–Istanbul, Ankara–Konya–Karaman & Ankara–Sivas High-Speed Rail (250–300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0019,
+          39.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-istambul-m1-m11-tunel-turquia",
+        "nome": "Yenikapı Transfer Center (Maior Hub Subterrâneo de Istambul — Achados Bizantinos do Porto de Teodósio)",
+        "linha": "M1A / M1B / M2 / Marmaray",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô M1",
+          "Metrô M2",
+          "Marmaray Transcontinental",
+          "Ido Ferry"
+        ],
+        "sistema_nome_pt": "Metrô de Istambul (Linhas M1–M11 Europeias e Asiáticas) & Tünel Histórico de 1875",
+        "sistema_nome_en": "Istanbul Metro (European & Asian Lines M1–M11) & Historic 1875 Tünel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9539,
+          41.0053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-istambul-m1-m11-tunel-turquia",
+        "nome": "Taksim & Karaköy Tünel (1875 — 2º Metrô Subterrâneo Mais Antigo do Mundo)",
+        "linha": "Metrô M2 / F2 Tünel / T2 İstiklal",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô M2",
+          "Funicular F1 Kabataş",
+          "Bonde Nostálgico T2"
+        ],
+        "sistema_nome_pt": "Metrô de Istambul (Linhas M1–M11 Europeias e Asiáticas) & Tünel Histórico de 1875",
+        "sistema_nome_en": "Istanbul Metro (European & Asian Lines M1–M11) & Historic 1875 Tünel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.985,
+          41.037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-istambul-m1-m11-tunel-turquia",
+        "nome": "İstanbul Havalimanı Station (Metrô Expresso M11 — 120 km/h)",
+        "linha": "M11 Gayrettepe–Aeroporto de Istambul",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô Expresso M11",
+          "Aeroporto Internacional de Istambul"
+        ],
+        "sistema_nome_pt": "Metrô de Istambul (Linhas M1–M11 Europeias e Asiáticas) & Tünel Histórico de 1875",
+        "sistema_nome_en": "Istanbul Metro (European & Asian Lines M1–M11) & Historic 1875 Tünel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7422,
+          41.2611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-istambul-eskisehir-antalia-kayseri-konya-turquia",
+        "nome": "Sultanahmet / Eminönü (VLT T1 Centro Histórico de Istambul)",
+        "linha": "Tramway T1 Kabataş–Bağcılar",
+        "status": "operacao",
+        "integracoes": [
+          "VLT T1",
+          "VLT T5 Corno de Ouro",
+          "Balsas do Bósforo"
+        ],
+        "sistema_nome_pt": "VLTs e Bondes de Istambul (T1, T4, T5 Corno de Ouro & İstiklal), Eskişehir, Kayseri, Antália, Konya e Samsun",
+        "sistema_nome_en": "Istanbul (T1, T4, T5 Golden Horn & İstiklal), Eskişehir, Kayseri, Antalya, Konya & Samsun Light Rail / Trams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9768,
+          41.0067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "marmaray-bosforo-izban-baskentray-dogu-ekspresi-tcdd-turquia",
+        "nome": "Sirkeci & Üsküdar (Estações Subterrâneas do Túnel Marmaray sob o Bósforo — 60,4 m de profundidade)",
+        "linha": "Marmaray Halkalı–Gebze",
+        "status": "operacao",
+        "integracoes": [
+          "Marmaray Europa–Ásia",
+          "VLT T1",
+          "Metrô M5 Üsküdar"
+        ],
+        "sistema_nome_pt": "Marmaray (Túnel Submarino Transcontinental sob o Bósforo — 60,4 m), İZBAN, Başkentray & Malha Nacional TCDD",
+        "sistema_nome_en": "Marmaray (Undersea Transcontinental Bosphorus Tunnel — 60.4 m), İZBAN, Başkentray & TCDD National Network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9769,
+          41.0147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-corredor-medio-baku-tbilisi-kars-marmaray-mersin-turquia",
+        "nome": "Terminal Logístico Internacional de Kars (Porta do Corredor Baku–Tbilisi–Kars)",
+        "linha": "Ferrovia Baku–Tbilisi–Kars (BTK)",
+        "status": "operacao",
+        "integracoes": [
+          "BTK Middle Corridor China–Europa",
+          "Doğu Ekspresi"
+        ],
+        "sistema_nome_pt": "Corredor Euro-Asiático de Carga (Baku–Tbilisi–Kars – Anatólia – Túnel Marmaray – Kapıkule) & Portos de Mersin/İskenderun",
+        "sistema_nome_en": "Eurasian Middle Corridor Freight Rail (Baku–Tbilisi–Kars – Marmaray Tunnel – Kapıkule) & Mersin/İskenderun Ports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.0975,
+          40.6013
+        ]
+      }
     }
   ]
 }

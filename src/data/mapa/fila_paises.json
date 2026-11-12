@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T19:15:00-03:00",
+  "atualizado_em": "2026-11-12T19:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -141,20 +141,21 @@
       "bandeira": "🇿🇦",
       "sistemas_operacao": 5,
       "ronda": "Ronda #23 (19:15 BRT — 5 Modalidades)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 20,
       "pais": "Turquia",
       "bandeira": "🇹🇷",
-      "foco": "YHT Alta Velocidade (Ancara–Istambul–Konya–Sivas), Metrô de Istambul + Marmaray (túnel sob o Bósforo) + Ancara/Izmir, Bondes e VLTs de Istambul/Antália/Kayseri, TCDD e Corredor de Carga Baku–Tbilisi–Kars"
-    },
+      "sistemas_operacao": 6,
+      "ronda": "Ronda #24 (19:45 BRT — 5 Modalidades)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 21,
       "pais": "Taiwan",
       "bandeira": "🇹🇼",
-      "foco": "THSR Alta Velocidade Taipei–Kaohsiung (300 km/h), Metrôs de Taipei/Taoyuan/Taichung/Kaohsiung, VLTs de Danhai/Ankeng/Kaohsiung Circular, Anel Ferroviário TRA e Ramais Industriais/Portuários"
+      "foco": "THSR Alta Velocidade Taipei–Kaohsiung (300 km/h), Metrôs de Taipei/Taoyuan/Taichung/Kaohsiung, VLTs de Danhai/Ankeng/Kaohsiung Circular, Anel Ferroviário TRA + Alishan Forest Railway e Ramais de Cimento/Portuários"
     },
     {
       "ordem": 22,
@@ -164,9 +165,15 @@
     },
     {
       "ordem": 23,
-      "pais": "Indonésia e Tailândia",
+      "pais": "Indonésia",
       "bandeira": "🇮🇩",
-      "foco": "Whoosh Trem de Alta Velocidade Jacarta–Bandung (350 km/h — 1º TAV do Sudeste Asiático), MRT/LRT/KRL de Jacarta, BTS Skytrain e MRT de Bangkok, Malhas KAI/SRT e Corredores de Carvão de Sumatra"
+      "foco": "Whoosh Trem de Alta Velocidade Jacarta–Bandung (350 km/h — 1º TAV do Sudeste Asiático e do Hemisfério Sul), MRT e LRT de Jacarta/Palembang, KRL Commuterline + Malha de Java KAI e Ferrovias Heavy-Haul de Carvão do Sul de Sumatra (Babaranjang)"
+    },
+    {
+      "ordem": 24,
+      "pais": "Tailândia",
+      "bandeira": "🇹🇭",
+      "foco": "BTS Skytrain, MRT e Monotrilhos (Yellow/Pink Lines) + Airport Rail Link (160 km/h) de Bangkok, Ferrovia Sino-Tailandesa/Laos (Krung Thep Aphiwat–Vientiane) e Corredor de Carga de Laem Chabang"
     }
   ]
 }

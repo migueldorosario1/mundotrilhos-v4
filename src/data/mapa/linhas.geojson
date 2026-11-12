@@ -15702,6 +15702,374 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "yht-alta-velocidade-ancara-istambul-konya-sivas-turquia",
+        "linha": "YHT Ancara–Istambul (250–300 km/h): Ankara Gar – Polatlı – Eskişehir – Bilecik – İzmit – Pendik – Söğütlüçeşme – Halkalı",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "YHT (Yüksek Hızlı Tren) — Rede de Alta Velocidade Ancara–Istambul, Ancara–Konya–Karaman e Ancara–Sivas (250–300 km/h)",
+        "sistema_nome_en": "YHT (Yüksek Hızlı Tren) — Ankara–Istanbul, Ankara–Konya–Karaman & Ankara–Sivas High-Speed Rail (250–300 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8439,
+            39.9358
+          ],
+          [
+            32.146,
+            39.584
+          ],
+          [
+            30.5114,
+            39.7825
+          ],
+          [
+            29.979,
+            40.142
+          ],
+          [
+            29.918,
+            40.762
+          ],
+          [
+            29.2317,
+            40.8803
+          ],
+          [
+            29.0378,
+            40.9906
+          ],
+          [
+            28.7867,
+            41.0169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "yht-alta-velocidade-ancara-istambul-konya-sivas-turquia",
+        "linha": "YHT Ancara–Konya–Karaman & Ancara–Sivas (300 km/h): Karaman – Konya – Polatlı – Ankara Gar – Kırıkkale – Yozgat – Sivas",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "YHT (Yüksek Hızlı Tren) — Rede de Alta Velocidade Ancara–Istambul, Ancara–Konya–Karaman e Ancara–Sivas (250–300 km/h)",
+        "sistema_nome_en": "YHT (Yüksek Hızlı Tren) — Ankara–Istanbul, Ankara–Konya–Karaman & Ankara–Sivas High-Speed Rail (250–300 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.215,
+            37.188
+          ],
+          [
+            32.4764,
+            37.8686
+          ],
+          [
+            32.146,
+            39.584
+          ],
+          [
+            32.8439,
+            39.9358
+          ],
+          [
+            33.515,
+            39.846
+          ],
+          [
+            34.804,
+            39.82
+          ],
+          [
+            37.0019,
+            39.74
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-istambul-m1-m11-tunel-turquia",
+        "linha": "Metrô de Istambul Lado Europeu (M2 Yenikapı–Taksim–Levent–Hacıosman & M11 Expresso Gayrettepe–Aeroporto de Istambul 120 km/h)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Istambul (Linhas M1–M11 Europeias e Asiáticas) & Tünel Histórico de 1875",
+        "sistema_nome_en": "Istanbul Metro (European & Asian Lines M1–M11) & Historic 1875 Tünel",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9539,
+            41.0053
+          ],
+          [
+            28.985,
+            41.037
+          ],
+          [
+            29.007,
+            41.069
+          ],
+          [
+            29.013,
+            41.081
+          ],
+          [
+            29.035,
+            41.14
+          ],
+          [
+            28.887,
+            41.158
+          ],
+          [
+            28.7422,
+            41.2611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-istambul-m1-m11-tunel-turquia",
+        "linha": "Metrô de Istambul Lado Asiático (M4 Kadıköy–Aeroporto Sabiha Gökçen & M5 Automático Üsküdar–Çekmeköy–Sultanbeyli)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Istambul (Linhas M1–M11 Europeias e Asiáticas) & Tünel Histórico de 1875",
+        "sistema_nome_en": "Istanbul Metro (European & Asian Lines M1–M11) & Historic 1875 Tünel",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.0228,
+            40.9917
+          ],
+          [
+            29.124,
+            40.963
+          ],
+          [
+            29.2317,
+            40.8803
+          ],
+          [
+            29.3092,
+            40.9056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-ancara-izmir-bursa-adana-turquia",
+        "linha": "Metrô de Ancara M1–M4 & Ankaray (Koru – Kızılay – Batıkent – OSB-Törekent / Keçiören)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs de Ancara (M1–M4 & Ankaray), Esmirna (İzmir Metro), Bursa (Bursaray) e Adana",
+        "sistema_nome_en": "Ankara (M1–M4 & Ankaray), İzmir, Bursa (Bursaray) & Adana Metro Systems",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.685,
+            39.885
+          ],
+          [
+            32.8541,
+            39.9208
+          ],
+          [
+            32.732,
+            39.969
+          ],
+          [
+            32.57,
+            39.992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-istambul-eskisehir-antalia-kayseri-konya-turquia",
+        "linha": "VLT de Istambul T1 (Kabataş – Karaköy – Ponte de Gálata – Eminönü – Sultanahmet – Grand Bazaar – Aksaray – Zeytinburnu – Bağcılar)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e Bondes de Istambul (T1, T4, T5 Corno de Ouro & İstiklal), Eskişehir, Kayseri, Antália, Konya e Samsun",
+        "sistema_nome_en": "Istanbul (T1, T4, T5 Golden Horn & İstiklal), Eskişehir, Kayseri, Antalya, Konya & Samsun Light Rail / Trams",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9928,
+            41.0339
+          ],
+          [
+            28.9756,
+            41.0222
+          ],
+          [
+            28.9722,
+            41.0169
+          ],
+          [
+            28.9768,
+            41.0067
+          ],
+          [
+            28.9519,
+            41.0114
+          ],
+          [
+            28.902,
+            41.005
+          ],
+          [
+            28.856,
+            41.034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "marmaray-bosforo-izban-baskentray-dogu-ekspresi-tcdd-turquia",
+        "linha": "Marmaray (Ferrovia Transcontinental Europa–Ásia sob o Estreito de Bósforo): Halkalı – Bakırköy – Yenikapı – Sirkeci – Túnel Submarino (60,4 m) – Üsküdar – Ayrılık Çeşmesi – Söğütlüçeşme – Pendik – Gebze",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Marmaray (Túnel Submarino Transcontinental sob o Bósforo — 60,4 m), İZBAN, Başkentray & Malha Nacional TCDD",
+        "sistema_nome_en": "Marmaray (Undersea Transcontinental Bosphorus Tunnel — 60.4 m), İZBAN, Başkentray & TCDD National Network",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.7867,
+            41.0169
+          ],
+          [
+            28.875,
+            40.98
+          ],
+          [
+            28.9539,
+            41.0053
+          ],
+          [
+            28.9769,
+            41.0147
+          ],
+          [
+            29.0131,
+            41.0258
+          ],
+          [
+            29.0378,
+            40.9906
+          ],
+          [
+            29.2317,
+            40.8803
+          ],
+          [
+            29.418,
+            40.785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-corredor-medio-baku-tbilisi-kars-marmaray-mersin-turquia",
+        "linha": "Corredor Euro-Asiático de Carga (Middle Corridor / BTK): Fronteira Geórgia (Kars) – Erzurum – Erzincan – Sivas – Kayseri – Ancara – Eskişehir – Túnel Marmaray – Edirne (Kapıkule) + Ramal Porto de Mersin",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Euro-Asiático de Carga (Baku–Tbilisi–Kars – Anatólia – Túnel Marmaray – Kapıkule) & Portos de Mersin/İskenderun",
+        "sistema_nome_en": "Eurasian Middle Corridor Freight Rail (Baku–Tbilisi–Kars – Marmaray Tunnel – Kapıkule) & Mersin/İskenderun Ports",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.0975,
+            40.6013
+          ],
+          [
+            41.2769,
+            39.9043
+          ],
+          [
+            39.49,
+            39.75
+          ],
+          [
+            37.0019,
+            39.74
+          ],
+          [
+            35.4787,
+            38.7312
+          ],
+          [
+            34.63,
+            36.8
+          ],
+          [
+            35.4787,
+            38.7312
+          ],
+          [
+            32.8439,
+            39.9358
+          ],
+          [
+            30.5114,
+            39.7825
+          ],
+          [
+            29.0131,
+            41.0258
+          ],
+          [
+            26.351,
+            41.716
+          ]
+        ]
+      }
     }
   ]
 }
