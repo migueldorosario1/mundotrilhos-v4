@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T18:15:00-03:00",
+  "atualizado_em": "2026-11-12T18:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -127,15 +127,16 @@
       "bandeira": "🇲🇦",
       "sistemas_operacao": 5,
       "ronda": "Ronda #21 (18:15 BRT — 5 Modalidades)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 18,
       "pais": "Egito",
       "bandeira": "🇪🇬",
-      "foco": "Metrô do Cairo (L1–L3 — 1º metrô da África), VLT Elétrico da Nova Capital Administrativa (Cairo LRT 120 km/h) + Bondes de Alexandria (1863), Trens ENR Vale do Nilo (Alexandria–Cairo–Luxor–Aswan) e Corredores de Carga Suez/Port Said/Ain Sokhna"
-    },
+      "sistemas_operacao": 5,
+      "ronda": "Ronda #22 (18:45 BRT — 5 Modalidades)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 19,
       "pais": "África do Sul",
@@ -153,6 +154,12 @@
       "pais": "Taiwan",
       "bandeira": "🇹🇼",
       "foco": "THSR Alta Velocidade Taipei–Kaohsiung (300 km/h), Metrôs de Taipei/Taoyuan/Taichung/Kaohsiung, VLTs de Danhai/Ankeng/Kaohsiung Circular, Anel Ferroviário TRA e Ramais Industriais/Portuários"
+    },
+    {
+      "ordem": 22,
+      "pais": "Singapura e Malásia",
+      "bandeira": "🇸🇬",
+      "foco": "MRT e LRT Automáticos de Singapura, Metrô/Monotrilho/LRT de Kuala Lumpur (Rapid KL), ETS KTM (160 km/h Padang Besar–KL–Gemas) e Corredores de Carga Port Klang / Johor"
     }
   ]
 }

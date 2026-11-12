@@ -15084,6 +15084,322 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cairo-lrt-nova-capital-expresso-talgo-alexandria-egito",
+        "linha": "Expresso Rápido Talgo ENR: Cairo (Ramses) – Banha – Tanta – Damanhur – Alexandria (Sidi Gaber / Misr)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Expresso Rápido Talgo Cairo–Alexandria (160 km/h) & Trem Elétrico da Nova Capital (Cairo LRT 120 km/h)",
+        "sistema_nome_en": "Cairo–Alexandria Talgo Fast Rail (160 km/h) & Capital Train Electric Railway (Cairo LRT 120 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.2466,
+            30.0636
+          ],
+          [
+            31.185,
+            30.466
+          ],
+          [
+            31.0004,
+            30.7865
+          ],
+          [
+            30.4682,
+            31.0341
+          ],
+          [
+            29.9422,
+            31.2186
+          ],
+          [
+            29.9056,
+            31.1931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cairo-lrt-nova-capital-expresso-talgo-alexandria-egito",
+        "linha": "Capital Train (Cairo LRT 120 km/h): Adly Mansour – El Obour – Badr – 10th of Ramadan / Cidade das Artes e Cultura (Nova Capital)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Expresso Rápido Talgo Cairo–Alexandria (160 km/h) & Trem Elétrico da Nova Capital (Cairo LRT 120 km/h)",
+        "sistema_nome_en": "Cairo–Alexandria Talgo Fast Rail (160 km/h) & Capital Train Electric Railway (Cairo LRT 120 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.4214,
+            30.1469
+          ],
+          [
+            31.482,
+            30.175
+          ],
+          [
+            31.625,
+            30.168
+          ],
+          [
+            31.718,
+            30.156
+          ],
+          [
+            31.745,
+            30.015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-cairo-linhas-1-2-3-egito",
+        "linha": "Metrô do Cairo Linha 1 (New El Marg – Estação Ramses/Al-Shohadaa – Sadat/Praça Tahrir – Maadi – Helwan)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô do Cairo — Linhas 1, 2 e 3 (1º Metrô da África e do Mundo Árabe)",
+        "sistema_nome_en": "Cairo Metro — Lines 1, 2 & 3 (First Metro in Africa & the Arab World)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.3383,
+            30.1633
+          ],
+          [
+            31.2466,
+            30.0636
+          ],
+          [
+            31.2357,
+            30.0444
+          ],
+          [
+            31.258,
+            29.96
+          ],
+          [
+            31.3342,
+            29.8489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-cairo-linhas-1-2-3-egito",
+        "linha": "Metrô do Cairo Linhas 2 & 3 (Shubra El Kheima – Sadat – Gizé – El Mounib / Adly Mansour – Attaba – Zamalek – Kit Kat – Universidade do Cairo)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô do Cairo — Linhas 1, 2 e 3 (1º Metrô da África e do Mundo Árabe)",
+        "sistema_nome_en": "Cairo Metro — Lines 1, 2 & 3 (First Metro in Africa & the Arab World)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.4214,
+            30.1469
+          ],
+          [
+            31.325,
+            30.091
+          ],
+          [
+            31.2466,
+            30.0525
+          ],
+          [
+            31.224,
+            30.062
+          ],
+          [
+            31.2089,
+            30.036
+          ],
+          [
+            31.2119,
+            29.9814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-alexandria-vlt-monotrilho-cairo-egito",
+        "linha": "Bonde de Alexandria Al Ramlh (Ramleh Station – San Stefano – Sidi Gaber – Victoria, 1863)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bondes Históricos de Alexandria (1863 — Double-Decker) & Monotrilho Leste do Cairo–Nova Capital",
+        "sistema_nome_en": "Alexandria Historic Tramways (1863 — Double-Decker) & East Nile Cairo–New Capital Monorail",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.8992,
+            31.2014
+          ],
+          [
+            29.9422,
+            31.2186
+          ],
+          [
+            29.9665,
+            31.245
+          ],
+          [
+            29.985,
+            31.251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "enr-ferrovia-vale-do-nilo-alexandria-cairo-luxor-aswan-egito",
+        "linha": "Tronco Nacional do Vale do Nilo (ENR): Cairo (Ramses / Bashtil) – Beni Suef – Minya – Assiut – Sohag – Qena – Luxor – Edfu – Kom Ombo – Aswan",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Nacional do Vale do Nilo (ENR — Alexandria–Cairo–Assiut–Luxor–Aswan, 1854)",
+        "sistema_nome_en": "Nile Valley National Railway (ENR — Alexandria–Cairo–Asyut–Luxor–Aswan, 1854)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.2466,
+            30.0636
+          ],
+          [
+            31.0994,
+            29.0661
+          ],
+          [
+            30.7503,
+            28.1099
+          ],
+          [
+            31.1837,
+            27.1809
+          ],
+          [
+            31.6948,
+            26.5569
+          ],
+          [
+            32.716,
+            26.1551
+          ],
+          [
+            32.6396,
+            25.6872
+          ],
+          [
+            32.8772,
+            24.9785
+          ],
+          [
+            32.8998,
+            24.0889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-suez-ain-sokhna-alexandria-abu-tartur-egito",
+        "linha": "Corredor Ferroviário de Carga do Canal de Suez: Port Said – Ismailia (Ponte El Ferdan) – Suez – Porto de Ain Sokhna",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga Suez–Port Said–Alexandria e Fosfato Abu Tartur–Safaga (ENR Freight)",
+        "sistema_nome_en": "Suez–Port Said–Alexandria Port Rail & Abu Tartur–Safaga Phosphate Freight Corridors (ENR)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.3019,
+            31.2653
+          ],
+          [
+            32.336,
+            30.657
+          ],
+          [
+            32.2654,
+            30.5852
+          ],
+          [
+            32.5498,
+            29.9668
+          ],
+          [
+            32.345,
+            29.6
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-suez-ain-sokhna-alexandria-abu-tartur-egito",
+        "linha": "Ferrovia de Fosfato do Deserto Ocidental ao Mar Vermelho: Oásis de Kharga (Abu Tartur) – Qena – Porto de Safaga",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga Suez–Port Said–Alexandria e Fosfato Abu Tartur–Safaga (ENR Freight)",
+        "sistema_nome_en": "Suez–Port Said–Alexandria Port Rail & Abu Tartur–Safaga Phosphate Freight Corridors (ENR)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.545,
+            25.44
+          ],
+          [
+            32.716,
+            26.1551
+          ],
+          [
+            33.936,
+            26.749
+          ]
+        ]
+      }
     }
   ]
 }

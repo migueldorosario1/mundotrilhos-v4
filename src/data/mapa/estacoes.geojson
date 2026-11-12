@@ -10962,6 +10962,231 @@
           32.8811
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cairo-lrt-nova-capital-expresso-talgo-alexandria-egito",
+        "nome": "Adly Mansour Central Hub (Metrô L3 + Capital Train LRT + Superjet)",
+        "linha": "Capital Train Cairo LRT",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô L3",
+          "Capital Train LRT",
+          "ENR Suez",
+          "BRT Cairo Ring Road"
+        ],
+        "sistema_nome_pt": "Expresso Rápido Talgo Cairo–Alexandria (160 km/h) & Trem Elétrico da Nova Capital (Cairo LRT 120 km/h)",
+        "sistema_nome_en": "Cairo–Alexandria Talgo Fast Rail (160 km/h) & Capital Train Electric Railway (Cairo LRT 120 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4214,
+          30.1469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cairo-lrt-nova-capital-expresso-talgo-alexandria-egito",
+        "nome": "Arts and Culture City Station (Nova Capital Administrativa)",
+        "linha": "Capital Train Cairo LRT",
+        "status": "operacao",
+        "integracoes": [
+          "Capital Train LRT",
+          "Monotrilho da Nova Capital"
+        ],
+        "sistema_nome_pt": "Expresso Rápido Talgo Cairo–Alexandria (160 km/h) & Trem Elétrico da Nova Capital (Cairo LRT 120 km/h)",
+        "sistema_nome_en": "Cairo–Alexandria Talgo Fast Rail (160 km/h) & Capital Train Electric Railway (Cairo LRT 120 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.745,
+          30.015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-cairo-linhas-1-2-3-egito",
+        "nome": "Sadat / Praça Tahrir (Intercâmbio Central Metrô do Cairo L1/L2)",
+        "linha": "Linha 1 / Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô Linha 1",
+          "Metrô Linha 2",
+          "Museu Egípcio / Praça Tahrir"
+        ],
+        "sistema_nome_pt": "Metrô do Cairo — Linhas 1, 2 e 3 (1º Metrô da África e do Mundo Árabe)",
+        "sistema_nome_en": "Cairo Metro — Lines 1, 2 & 3 (First Metro in Africa & the Arab World)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2357,
+          30.0444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-cairo-linhas-1-2-3-egito",
+        "nome": "Al-Shohadaa / Estação Ramses (Hub Ferroviário Nacional do Cairo)",
+        "linha": "Linha 1 / Linha 2 / ENR",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô Linha 1",
+          "Metrô Linha 2",
+          "Estação Central Ramses ENR",
+          "Expresso Talgo Alexandria"
+        ],
+        "sistema_nome_pt": "Metrô do Cairo — Linhas 1, 2 e 3 (1º Metrô da África e do Mundo Árabe)",
+        "sistema_nome_en": "Cairo Metro — Lines 1, 2 & 3 (First Metro in Africa & the Arab World)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2466,
+          30.0636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-cairo-linhas-1-2-3-egito",
+        "nome": "Attaba / Zamalek Safaa Hegazy (Metrô Linha 3 RATP Dev)",
+        "linha": "Linha 3",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô Linha 3",
+          "Ilha de Zamalek"
+        ],
+        "sistema_nome_pt": "Metrô do Cairo — Linhas 1, 2 e 3 (1º Metrô da África e do Mundo Árabe)",
+        "sistema_nome_en": "Cairo Metro — Lines 1, 2 & 3 (First Metro in Africa & the Arab World)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.224,
+          30.062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-alexandria-vlt-monotrilho-cairo-egito",
+        "nome": "Ramleh Station (Terminal Histórico dos Bondes de Alexandria — 1863)",
+        "linha": "Al Ramlh Tramway",
+        "status": "operacao",
+        "integracoes": [
+          "Bondes Double-Decker de Alexandria",
+          "Orla Corniche de Alexandria"
+        ],
+        "sistema_nome_pt": "Bondes Históricos de Alexandria (1863 — Double-Decker) & Monotrilho Leste do Cairo–Nova Capital",
+        "sistema_nome_en": "Alexandria Historic Tramways (1863 — Double-Decker) & East Nile Cairo–New Capital Monorail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8992,
+          31.2014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "enr-ferrovia-vale-do-nilo-alexandria-cairo-luxor-aswan-egito",
+        "nome": "Misr Station / Sidi Gaber (Alexandria ENR)",
+        "linha": "Corredor Cairo–Alexandria",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Talgo ENR",
+          "Trens Intercidades do Delta"
+        ],
+        "sistema_nome_pt": "Ferrovia Nacional do Vale do Nilo (ENR — Alexandria–Cairo–Assiut–Luxor–Aswan, 1854)",
+        "sistema_nome_en": "Nile Valley National Railway (ENR — Alexandria–Cairo–Asyut–Luxor–Aswan, 1854)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9056,
+          31.1931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "enr-ferrovia-vale-do-nilo-alexandria-cairo-luxor-aswan-egito",
+        "nome": "Estação de Luxor (Vale do Nilo — Alto Egito)",
+        "linha": "Tronco Vale do Nilo ENR",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Noturnos Watania Cairo–Aswan",
+          "ENR Intercidades"
+        ],
+        "sistema_nome_pt": "Ferrovia Nacional do Vale do Nilo (ENR — Alexandria–Cairo–Assiut–Luxor–Aswan, 1854)",
+        "sistema_nome_en": "Nile Valley National Railway (ENR — Alexandria–Cairo–Asyut–Luxor–Aswan, 1854)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6396,
+          25.6872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "enr-ferrovia-vale-do-nilo-alexandria-cairo-luxor-aswan-egito",
+        "nome": "Estação de Aswan (Terminal Sul do Vale do Nilo)",
+        "linha": "Tronco Vale do Nilo ENR",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Noturnos Cairo–Aswan",
+          "Represa Alta de Aswan"
+        ],
+        "sistema_nome_pt": "Ferrovia Nacional do Vale do Nilo (ENR — Alexandria–Cairo–Assiut–Luxor–Aswan, 1854)",
+        "sistema_nome_en": "Nile Valley National Railway (ENR — Alexandria–Cairo–Asyut–Luxor–Aswan, 1854)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8998,
+          24.0889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-suez-ain-sokhna-alexandria-abu-tartur-egito",
+        "nome": "Ponte Ferroviária Giratória de El Ferdan (Canal de Suez / Ismailia)",
+        "linha": "Corredor Canal de Suez–Sinai",
+        "status": "operacao",
+        "integracoes": [
+          "Maior ponte ferroviária giratória do mundo sobre o Canal de Suez",
+          "ENR Freight"
+        ],
+        "sistema_nome_pt": "Corredores Ferroviários de Carga Suez–Port Said–Alexandria e Fosfato Abu Tartur–Safaga (ENR Freight)",
+        "sistema_nome_en": "Suez–Port Said–Alexandria Port Rail & Abu Tartur–Safaga Phosphate Freight Corridors (ENR)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.336,
+          30.657
+        ]
+      }
     }
   ]
 }
