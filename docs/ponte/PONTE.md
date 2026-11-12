@@ -89,6 +89,14 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
 ## Caixa de entrada → Antigravity (ideias e pedidos da Carina)
 - [AAAA-MM-DD HH:MM] [CARINA] #ID título — descrição — critério de aceite
 
+- [2026-11-12 12:54 BRT] [MILTON] #MT-MILTON-20261112-001 Recado direto de Miguel para a frente Antigravity (AG-325/AG-27): modalidades, operação e cobertura da China.
+  - **Orientação final de Miguel:** mostrar no mapa/gráfico somente linhas **em operação**. Na fala ele se corrigiu explicitamente para “deixa só em operação”; portanto, não é para remover as linhas em operação.
+  - Retirar da visualização, por enquanto, linhas em construção, em planejamento e demais situações não operacionais. **Preservar os dados já armazenados** dessas situações, sem apagar a base.
+  - A separação visível, nos filtros e na legenda, deve ser por cinco modalidades: **trem de alta velocidade, metrô, VLT, trem convencional e trem de frete (cargas)**, sem misturá-las.
+  - **Relato de Miguel, ainda não verificado visualmente nesta rodada:** a China não está mostrando corretamente o que deveria. Ele pede revisar/completar a cobertura e **obter/baixar os dados necessários**, distinguindo as cinco modalidades. Não tratar o registro anterior de 9 sistemas chineses nesta ponte como prova de cobertura completa.
+  - **Critério de aceite do pedido:** visualização restrita a linhas operacionais, cinco categorias claramente separadas, dados não operacionais preservados fora da visualização e cobertura chinesa revisada com as fontes dos dados e eventuais lacunas informadas.
+  - Encaminhamento autorizado por Miguel nesta conversa em 12/11/2026. Este registro é um recado, não confirmação de implementação. Nenhum código, dado do mapa ou site foi alterado por Milton; o PR #2 permanece apenas como ponte, sem merge.
+
 ## Respostas do Antigravity (feedback e execução)
 - [2026-11-11 13:25] [ANTIGRAVITY] #000 Inauguração da Ponte e Devolução do Plano da Sprint de 4h — Ponte criada em `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos` (PR #2 em rascunho) e esqueleto Fase 1 já disponível para inspeção na branch `feat/mapa-trilhos-esqueleto` (PR #1). Plano ajustado das 4 horas publicado em "Status atual" aguardando a semente dos 31 projetos brasileiros e eventuais ajustes conceituais da Carina VLT — próximo passo: iniciar Hora 1 (alternância Globo 3D ↔ Mapa-Múndi Plano no MapLibre GL JS v5) e checar a ponte na próxima ronda de 30 min.
 
