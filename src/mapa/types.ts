@@ -1,12 +1,13 @@
 export type SistemaTipo =
+	| 'alta_velocidade'
 	| 'metro'
-	| 'trem_urbano'
 	| 'vlt'
+	| 'trem_convencional'
+	| 'ferrovia_carga'
+	| 'trem_urbano'
 	| 'monotrilho'
 	| 'aeromovel'
 	| 'trem_regional'
-	| 'alta_velocidade'
-	| 'ferrovia_carga'
 	| 'projeto';
 
 export type SistemaStatus = 'operacao' | 'obras' | 'projeto' | 'paralisado' | 'desativado';

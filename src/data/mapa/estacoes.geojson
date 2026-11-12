@@ -6156,6 +6156,762 @@
           52.4819
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-xangai",
+        "sistema_nome_pt": "TAV Pequim–Xangai & Corredor Costeiro Leste (Xangai–Fuzhou–Xiamen–Shenzhen)",
+        "sistema_nome_en": "Beijing–Shanghai HSR & East Coastal High-Speed Corridor (Shanghai–Xiamen–Shenzhen)",
+        "nome": "Estação de Fuzhou South (福州南站)",
+        "linha": "Corredor Costeiro Sudeste HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.385,
+          25.986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-xangai",
+        "sistema_nome_pt": "TAV Pequim–Xangai & Corredor Costeiro Leste (Xangai–Fuzhou–Xiamen–Shenzhen)",
+        "sistema_nome_en": "Beijing–Shanghai HSR & East Coastal High-Speed Corridor (Shanghai–Xiamen–Shenzhen)",
+        "nome": "Estação de Xiamen North (厦门北站)",
+        "linha": "Corredor Costeiro Sudeste HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.071,
+          24.636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-harbin-nordeste",
+        "sistema_nome_pt": "TAV Pequim–Harbin & Malha de Alta Velocidade do Nordeste (Shenyang–Dalian–Qiqihar)",
+        "sistema_nome_en": "Beijing–Harbin HSR & Northeast High-Speed Network (Shenyang–Dalian–Qiqihar)",
+        "nome": "Estação de Shenyang North (沈阳北站)",
+        "linha": "Jingha HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.431,
+          41.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-harbin-nordeste",
+        "sistema_nome_pt": "TAV Pequim–Harbin & Malha de Alta Velocidade do Nordeste (Shenyang–Dalian–Qiqihar)",
+        "sistema_nome_en": "Beijing–Harbin HSR & Northeast High-Speed Network (Shenyang–Dalian–Qiqihar)",
+        "nome": "Estação de Changchun West (长春西站)",
+        "linha": "Jingha HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.323,
+          43.817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-harbin-nordeste",
+        "sistema_nome_pt": "TAV Pequim–Harbin & Malha de Alta Velocidade do Nordeste (Shenyang–Dalian–Qiqihar)",
+        "sistema_nome_en": "Beijing–Harbin HSR & Northeast High-Speed Network (Shenyang–Dalian–Qiqihar)",
+        "nome": "Estação de Harbin West (哈尔滨西站)",
+        "linha": "Jingha HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.457,
+          45.706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-harbin-nordeste",
+        "sistema_nome_pt": "TAV Pequim–Harbin & Malha de Alta Velocidade do Nordeste (Shenyang–Dalian–Qiqihar)",
+        "sistema_nome_en": "Beijing–Harbin HSR & Northeast High-Speed Network (Shenyang–Dalian–Qiqihar)",
+        "nome": "Estação de Dalian North (大连北站)",
+        "linha": "Hadal HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.614,
+          38.914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xangai-wuhan-chengdu-kunming",
+        "sistema_nome_pt": "Corredores de Alta Velocidade do Rio Yangtzé (Xangai–Wuhan–Chengdu) e Xangai–Kunming",
+        "sistema_nome_en": "Yangtze River HSR (Shanghai–Wuhan–Chengdu) & Shanghai–Kunming High-Speed Corridors",
+        "nome": "Estação de Hefei South (合肥南站)",
+        "linha": "Huhanrong HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.29,
+          31.798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xangai-wuhan-chengdu-kunming",
+        "sistema_nome_pt": "Corredores de Alta Velocidade do Rio Yangtzé (Xangai–Wuhan–Chengdu) e Xangai–Kunming",
+        "sistema_nome_en": "Yangtze River HSR (Shanghai–Wuhan–Chengdu) & Shanghai–Kunming High-Speed Corridors",
+        "nome": "Estação de Chongqing North (重庆北站)",
+        "linha": "Huhanrong HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.551,
+          29.609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xangai-wuhan-chengdu-kunming",
+        "sistema_nome_pt": "Corredores de Alta Velocidade do Rio Yangtzé (Xangai–Wuhan–Chengdu) e Xangai–Kunming",
+        "sistema_nome_en": "Yangtze River HSR (Shanghai–Wuhan–Chengdu) & Shanghai–Kunming High-Speed Corridors",
+        "nome": "Estação de Chengdu East (成都东站)",
+        "linha": "Huhanrong HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.14,
+          30.629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xangai-wuhan-chengdu-kunming",
+        "sistema_nome_pt": "Corredores de Alta Velocidade do Rio Yangtzé (Xangai–Wuhan–Chengdu) e Xangai–Kunming",
+        "sistema_nome_en": "Yangtze River HSR (Shanghai–Wuhan–Chengdu) & Shanghai–Kunming High-Speed Corridors",
+        "nome": "Estação de Nanchang West (南昌西站)",
+        "linha": "Hukun HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.792,
+          28.628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xangai-wuhan-chengdu-kunming",
+        "sistema_nome_pt": "Corredores de Alta Velocidade do Rio Yangtzé (Xangai–Wuhan–Chengdu) e Xangai–Kunming",
+        "sistema_nome_en": "Yangtze River HSR (Shanghai–Wuhan–Chengdu) & Shanghai–Kunming High-Speed Corridors",
+        "nome": "Estação de Guiyang North (贵阳北站)",
+        "linha": "Hukun HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.643,
+          26.621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xangai-wuhan-chengdu-kunming",
+        "sistema_nome_pt": "Corredores de Alta Velocidade do Rio Yangtzé (Xangai–Wuhan–Chengdu) e Xangai–Kunming",
+        "sistema_nome_en": "Yangtze River HSR (Shanghai–Wuhan–Chengdu) & Shanghai–Kunming High-Speed Corridors",
+        "nome": "Estação de Kunming South (昆明南站)",
+        "linha": "Hukun HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.833,
+          24.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xuzhou-xian-lanzhou-urumqi",
+        "sistema_nome_pt": "Corredor Euroasiático de Alta Velocidade Lianyungang–Xi'an–Lanzhou–Ürümqi (Xinjiang)",
+        "sistema_nome_en": "Eurasian High-Speed Corridor Lianyungang–Xi'an–Lanzhou–Ürümqi & Xi'an–Chengdu HSR",
+        "nome": "Estação de Xi'an North (西安北站)",
+        "linha": "Longhai / Xicheng HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939,
+          34.376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xuzhou-xian-lanzhou-urumqi",
+        "sistema_nome_pt": "Corredor Euroasiático de Alta Velocidade Lianyungang–Xi'an–Lanzhou–Ürümqi (Xinjiang)",
+        "sistema_nome_en": "Eurasian High-Speed Corridor Lianyungang–Xi'an–Lanzhou–Ürümqi & Xi'an–Chengdu HSR",
+        "nome": "Estação de Lanzhou West (兰州西站)",
+        "linha": "Lanxin HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.751,
+          36.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xuzhou-xian-lanzhou-urumqi",
+        "sistema_nome_pt": "Corredor Euroasiático de Alta Velocidade Lianyungang–Xi'an–Lanzhou–Ürümqi (Xinjiang)",
+        "sistema_nome_en": "Eurasian High-Speed Corridor Lianyungang–Xi'an–Lanzhou–Ürümqi & Xi'an–Chengdu HSR",
+        "nome": "Estação de Xining (西宁站)",
+        "linha": "Lanxin HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.778,
+          36.617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xuzhou-xian-lanzhou-urumqi",
+        "sistema_nome_pt": "Corredor Euroasiático de Alta Velocidade Lianyungang–Xi'an–Lanzhou–Ürümqi (Xinjiang)",
+        "sistema_nome_en": "Eurasian High-Speed Corridor Lianyungang–Xi'an–Lanzhou–Ürümqi & Xi'an–Chengdu HSR",
+        "nome": "Estação de Ürümqi (乌鲁木齐站 — Xinjiang)",
+        "linha": "Lanxin HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.535,
+          43.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-guangzhou-guiyang-nanning-hainan",
+        "sistema_nome_pt": "TAV do Sudoeste (Guangzhou–Guiyang–Nanning–Kunming) & Anel de Alta Velocidade de Hainan",
+        "sistema_nome_en": "Southwest HSR Network (Guangzhou–Guiyang–Nanning–Kunming) & Hainan Island Ring HSR",
+        "nome": "Estação de Guilin North (桂林北站)",
+        "linha": "Guiguang HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.29,
+          25.273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-guangzhou-guiyang-nanning-hainan",
+        "sistema_nome_pt": "TAV do Sudoeste (Guangzhou–Guiyang–Nanning–Kunming) & Anel de Alta Velocidade de Hainan",
+        "sistema_nome_en": "Southwest HSR Network (Guangzhou–Guiyang–Nanning–Kunming) & Hainan Island Ring HSR",
+        "nome": "Estação de Nanning East (南宁东站)",
+        "linha": "Nanning–Kunming HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.375,
+          22.855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-guangzhou-guiyang-nanning-hainan",
+        "sistema_nome_pt": "TAV do Sudoeste (Guangzhou–Guiyang–Nanning–Kunming) & Anel de Alta Velocidade de Hainan",
+        "sistema_nome_en": "Southwest HSR Network (Guangzhou–Guiyang–Nanning–Kunming) & Hainan Island Ring HSR",
+        "nome": "Estação de Sanya (三亚站 — Ilha de Hainan)",
+        "linha": "Hainan Ring HSR",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.512,
+          18.252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-chengdu",
+        "sistema_nome_pt": "Metrô de Chengdu (Chengdu Metro — 4ª maior rede da China)",
+        "sistema_nome_en": "Chengdu Metro (4th largest metro network in China)",
+        "nome": "Estação Tianfu Square (天府广场 — Metrô de Chengdu)",
+        "linha": "Linhas 1 e 2",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.065,
+          30.658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-wuhan",
+        "sistema_nome_pt": "Metrô de Wuhan (Wuhan Metro)",
+        "sistema_nome_en": "Wuhan Metro",
+        "nome": "Estação Jianghan Road (江汉路 — Metrô de Wuhan)",
+        "linha": "Linhas 2 e 6",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.292,
+          30.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-hangzhou-nanjing-suzhou",
+        "sistema_nome_pt": "Metrôs do Delta do Yangtzé: Hangzhou (516 km), Nanjing (449 km) e Suzhou (254 km)",
+        "sistema_nome_en": "Yangtze River Delta Metros: Hangzhou (516 km), Nanjing (449 km) & Suzhou (254 km)",
+        "nome": "Estação Hangzhou East (杭州东站 — Metrô de Hangzhou)",
+        "linha": "Linhas 1, 4, 6 e 19",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.213,
+          30.291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-hangzhou-nanjing-suzhou",
+        "sistema_nome_pt": "Metrôs do Delta do Yangtzé: Hangzhou (516 km), Nanjing (449 km) e Suzhou (254 km)",
+        "sistema_nome_en": "Yangtze River Delta Metros: Hangzhou (516 km), Nanjing (449 km) & Suzhou (254 km)",
+        "nome": "Estação Xinjiekou (新街口 — Metrô de Nanjing)",
+        "linha": "Linhas 1 e 2",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.784,
+          32.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-xian-zhengzhou-tianjin",
+        "sistema_nome_pt": "Metrôs do Norte e Planície Central: Xi'an (311 km), Zhengzhou (344 km) e Tianjin (298 km)",
+        "sistema_nome_en": "North & Central Plains Metros: Xi'an (311 km), Zhengzhou (344 km) & Tianjin (298 km)",
+        "nome": "Estação Bell Tower / Zhonglou (钟楼 — Metrô de Xi'an)",
+        "linha": "Linhas 2 e 6",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.947,
+          34.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-qingdao-shenyang-dalian-harbin-kunming-changsha",
+        "sistema_nome_pt": "Metrôs Regionais da China: Qingdao, Changsha, Kunming, Shenyang, Dalian e Harbin",
+        "sistema_nome_en": "Regional Metros of China: Qingdao, Changsha, Kunming, Shenyang, Dalian & Harbin",
+        "nome": "Estação Wuyi Square (五一广场 — Metrô de Changsha)",
+        "linha": "Linhas 1 e 2",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.976,
+          28.196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-china-shenyang-suzhou-wuhan-guangzhou-songjiang",
+        "sistema_nome_pt": "Redes de VLT da China (Shenyang Hunnan, Xangai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian e Hong Kong)",
+        "sistema_nome_en": "China Light Rail (VLT) Networks (Shenyang, Shanghai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian & HK)",
+        "nome": "Parada Canton Tower VLT (广州塔有轨电车)",
+        "linha": "Guangzhou Haizhu Tram",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.324,
+          23.106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-china-shenyang-suzhou-wuhan-guangzhou-songjiang",
+        "sistema_nome_pt": "Redes de VLT da China (Shenyang Hunnan, Xangai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian e Hong Kong)",
+        "sistema_nome_en": "China Light Rail (VLT) Networks (Shenyang, Shanghai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian & HK)",
+        "nome": "Estação Songjiang University Town VLT (松江大学城)",
+        "linha": "Shanghai Songjiang Tram T2",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.225,
+          31.035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-china-shenyang-suzhou-wuhan-guangzhou-songjiang",
+        "sistema_nome_pt": "Redes de VLT da China (Shenyang Hunnan, Xangai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian e Hong Kong)",
+        "sistema_nome_en": "China Light Rail (VLT) Networks (Shenyang, Shanghai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian & HK)",
+        "nome": "Estação Shenyang Olympic Sports Center VLT (奥体中心)",
+        "linha": "Shenyang Hunnan Tram",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.455,
+          41.745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-qinghai-tibete-lhasa",
+        "sistema_nome_pt": "Ferrovia Qinghai–Tibete (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "sistema_nome_en": "Qinghai–Tibet Railway (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "nome": "Estação de Golmud (格尔木站)",
+        "linha": "Ferrovia Qinghai–Tibete",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.903,
+          36.402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-qinghai-tibete-lhasa",
+        "sistema_nome_pt": "Ferrovia Qinghai–Tibete (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "sistema_nome_en": "Qinghai–Tibet Railway (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "nome": "Estação de Tanggula (唐古拉站 — 5.068 m, estação mais alta do mundo)",
+        "linha": "Ferrovia Qinghai–Tibete",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.915,
+          32.885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-qinghai-tibete-lhasa",
+        "sistema_nome_pt": "Ferrovia Qinghai–Tibete (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "sistema_nome_en": "Qinghai–Tibet Railway (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "nome": "Estação de Lhasa (拉萨站 — Tibete)",
+        "linha": "Ferrovia Qinghai–Tibete",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.117,
+          29.646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-qinghai-tibete-lhasa",
+        "sistema_nome_pt": "Ferrovia Qinghai–Tibete (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "sistema_nome_en": "Qinghai–Tibet Railway (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "nome": "Estação de Nyingchi (林芝站)",
+        "linha": "Ferrovia Lhasa–Nyingchi",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.361,
+          29.649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "troncos-convencionais-china-railway",
+        "sistema_nome_pt": "Grandes Troncos Convencionais da China Railway (Jinghu, Jingguang, Longhai, Chengkun, Lanxin e Trens Suburbanos)",
+        "sistema_nome_en": "China Railway Conventional Trunk Lines (Jinghu, Jingguang, Longhai, Chengkun, Lanxin & Suburban Rail)",
+        "nome": "Estação de Kashgar (喀什站 — Extremo Oeste de Xinjiang)",
+        "linha": "Ferrovia Nanjiang",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.989,
+          39.467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "troncos-convencionais-china-railway",
+        "sistema_nome_pt": "Grandes Troncos Convencionais da China Railway (Jinghu, Jingguang, Longhai, Chengkun, Lanxin e Trens Suburbanos)",
+        "sistema_nome_en": "China Railway Conventional Trunk Lines (Jinghu, Jingguang, Longhai, Chengkun, Lanxin & Suburban Rail)",
+        "nome": "Estação de Panzhihua South (攀枝花)",
+        "linha": "Ferrovia Chengkun",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.718,
+          26.582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-daqin-shuohuang-wari",
+        "sistema_nome_pt": "Corredores Heavy-Haul de Carvão Leste–Oeste: Ferrovias Daqin, Shuohuang e Wari",
+        "sistema_nome_en": "East–West Heavy-Haul Coal Freight Corridors: Daqin, Shuohuang & Wari Railways",
+        "nome": "Terminal Carbonífero de Datong / Hudong (湖东站 — Origem dos trens de 20.000 t)",
+        "linha": "Ferrovia Daqin",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3,
+          40.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-daqin-shuohuang-wari",
+        "sistema_nome_pt": "Corredores Heavy-Haul de Carvão Leste–Oeste: Ferrovias Daqin, Shuohuang e Wari",
+        "sistema_nome_en": "East–West Heavy-Haul Coal Freight Corridors: Daqin, Shuohuang & Wari Railways",
+        "nome": "Porto Carbonífero de Qinhuangdao (秦皇岛港站)",
+        "linha": "Ferrovia Daqin",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6,
+          39.935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-daqin-shuohuang-wari",
+        "sistema_nome_pt": "Corredores Heavy-Haul de Carvão Leste–Oeste: Ferrovias Daqin, Shuohuang e Wari",
+        "sistema_nome_en": "East–West Heavy-Haul Coal Freight Corridors: Daqin, Shuohuang & Wari Railways",
+        "nome": "Porto de Huanghua (黄骅港站)",
+        "linha": "Ferrovia Shuohuang",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.85,
+          38.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-haoji-norte-sul",
+        "sistema_nome_pt": "Ferrovia de Carga Pesada Haoji (Corredor Exclusivo de Frete Norte–Sul Mongólia Interior – Jiangxi)",
+        "sistema_nome_en": "Haoji Heavy-Haul Freight Railway (Inner Mongolia – Jiangxi North–South Coal Corridor)",
+        "nome": "Terminal de Haolebaoji / Ordos (浩勒报吉站 — Mongólia Interior)",
+        "linha": "Ferrovia Haoji",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.95,
+          39.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-haoji-norte-sul",
+        "sistema_nome_pt": "Ferrovia de Carga Pesada Haoji (Corredor Exclusivo de Frete Norte–Sul Mongólia Interior – Jiangxi)",
+        "sistema_nome_en": "Haoji Heavy-Haul Freight Railway (Inner Mongolia – Jiangxi North–South Coal Corridor)",
+        "nome": "Terminal Ferroviário de Ji'an (吉安站 — Jiangxi)",
+        "linha": "Ferrovia Haoji",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.99,
+          27.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-china-europa-yuxinou",
+        "sistema_nome_pt": "Corredor de Frete China–Europa (China–Europe Railway Express / Yuxinou via Xinjiang e Manzhouli)",
+        "sistema_nome_en": "China–Europe Railway Express Freight Corridors (Yuxinou via Alashankou/Khorgos & Manzhouli)",
+        "nome": "Porto Seco Internacional de Alashankou (阿拉山口站 — Fronteira China–Cazaquistão)",
+        "linha": "China–Europe Railway Express",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.565,
+          45.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-china-europa-yuxinou",
+        "sistema_nome_pt": "Corredor de Frete China–Europa (China–Europe Railway Express / Yuxinou via Xinjiang e Manzhouli)",
+        "sistema_nome_en": "China–Europe Railway Express Freight Corridors (Yuxinou via Alashankou/Khorgos & Manzhouli)",
+        "nome": "Porto Seco Internacional de Khorgos (霍尔果斯站 — Fronteira China–Cazaquistão)",
+        "linha": "China–Europe Railway Express",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.415,
+          44.215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-china-europa-yuxinou",
+        "sistema_nome_pt": "Corredor de Frete China–Europa (China–Europe Railway Express / Yuxinou via Xinjiang e Manzhouli)",
+        "sistema_nome_en": "China–Europe Railway Express Freight Corridors (Yuxinou via Alashankou/Khorgos & Manzhouli)",
+        "nome": "Porto Seco Internacional de Manzhouli (满洲里站 — Fronteira China–Rússia)",
+        "linha": "China–Europe Railway Express",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.435,
+          49.598
+        ]
+      }
     }
   ]
 }

@@ -35,11 +35,22 @@ const STATUS_COLORS: Record<string, string> = {
 	desativado: '#475569',
 };
 
+const MODALITY_COLORS: Record<string, string> = {
+	alta_velocidade: '#ff1744',
+	metro: '#00b0ff',
+	vlt: '#00e676',
+	trem_convencional: '#ff9100',
+	ferrovia_carga: '#aa00ff',
+};
+
 const nome = isEn ? sistema.nome_en : sistema.nome_pt;
 const resumo = isEn ? sistema.resumo_en : sistema.resumo_pt;
 const tipoLabel = tiposMap[sistema.tipo] || sistema.tipo;
 const statusLabel = statusMap[sistema.status] || sistema.status;
-const stColor = STATUS_COLORS[sistema.status] || '#64748b';
+const stColor =
+	sistema.status === 'operacao'
+		? MODALITY_COLORS[sistema.tipo] || '#00b0ff'
+		: STATUS_COLORS[sistema.status] || '#64748b';
 
 const proxEntregas = sistema.proximas_entregas
 	? typeof sistema.proximas_entregas === 'object'
