@@ -16,7 +16,8 @@
         "status": "desativado",
         "geometria_aproximada": true,
         "sistema_nome_pt": "VLT de Cuiabá – Várzea Grande (Histórico / Desativado)",
-        "sistema_nome_en": "Cuiabá – Várzea Grande Light Rail (Historical / Decommissioned)"
+        "sistema_nome_en": "Cuiabá – Várzea Grande Light Rail (Historical / Decommissioned)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -46,7 +47,8 @@
         "status": "projeto",
         "geometria_aproximada": true,
         "sistema_nome_pt": "Ferrogrão (EF-170 — Sinop/MT a Miritituba/PA)",
-        "sistema_nome_en": "Ferrogrão Railway (EF-170 — Sinop/MT to Miritituba/PA)"
+        "sistema_nome_en": "Ferrogrão Railway (EF-170 — Sinop/MT to Miritituba/PA)",
+        "tipo": "ferrovia_carga"
       },
       "geometry": {
         "type": "LineString",
@@ -80,7 +82,8 @@
         "status": "projeto",
         "geometria_aproximada": true,
         "sistema_nome_pt": "Autorizações Ferroviárias da ANTT (Regime Privado)",
-        "sistema_nome_en": "ANTT Private Rail Authorizations"
+        "sistema_nome_en": "ANTT Private Rail Authorizations",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -111,7 +114,8 @@
         "geometria_aproximada": true,
         "sistema_nome_pt": "VLT de Brasília (Corredor W3 e Aeroporto)",
         "sistema_nome_en": "Brasília Light Rail (W3 Corridor & Airport)",
-        "linha": "VLT de Brasília (W3 Sul/Norte – Aeroporto)"
+        "linha": "VLT de Brasília (W3 Sul/Norte – Aeroporto)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -146,7 +150,8 @@
         "geometria_aproximada": true,
         "sistema_nome_pt": "Linha 3 do Metrô do Rio (Rio–Niterói–São Gonçalo)",
         "sistema_nome_en": "Rio Metro Line 3 (Rio–Niterói–São Gonçalo)",
-        "linha": "Linha 3 (Praça XV – Niterói – São Gonçalo)"
+        "linha": "Linha 3 (Praça XV – Niterói – São Gonçalo)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -180,7 +185,8 @@
         "status": "obras",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
-        "sistema_nome_en": "São Paulo Metro (State Network)"
+        "sistema_nome_en": "São Paulo Metro (State Network)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -218,7 +224,8 @@
         "status": "obras",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de Belo Horizonte (Metrô BH)",
-        "sistema_nome_en": "Belo Horizonte Metro (Metrô BH)"
+        "sistema_nome_en": "Belo Horizonte Metro (Metrô BH)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -252,7 +259,8 @@
         "status": "obras",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
-        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)"
+        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -282,7 +290,8 @@
         "status": "obras",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT de Salvador e Região Metropolitana",
-        "sistema_nome_en": "Salvador and Metropolitan Region Light Rail (VLT)"
+        "sistema_nome_en": "Salvador and Metropolitan Region Light Rail (VLT)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -324,7 +333,8 @@
         "status": "obras",
         "geometria_aproximada": true,
         "sistema_nome_pt": "Trem Intercidades SP–Campinas (TIC Eixo Norte)",
-        "sistema_nome_en": "São Paulo–Campinas Intercity Train (TIC North Axis)"
+        "sistema_nome_en": "São Paulo–Campinas Intercity Train (TIC North Axis)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -358,7 +368,8 @@
         "status": "obras",
         "geometria_aproximada": true,
         "sistema_nome_pt": "FIOL (EF-334 — Ferrovia de Integração Oeste-Leste)",
-        "sistema_nome_en": "FIOL (EF-334 — West-East Integration Railway)"
+        "sistema_nome_en": "FIOL (EF-334 — West-East Integration Railway)",
+        "tipo": "ferrovia_carga"
       },
       "geometry": {
         "type": "LineString",
@@ -396,7 +407,8 @@
         "status": "obras",
         "geometria_aproximada": true,
         "sistema_nome_pt": "FICO (EF-354 — Ferrovia de Integração do Centro-Oeste)",
-        "sistema_nome_en": "FICO (EF-354 — Midwest Integration Railway)"
+        "sistema_nome_en": "FICO (EF-354 — Midwest Integration Railway)",
+        "tipo": "ferrovia_carga"
       },
       "geometry": {
         "type": "LineString",
@@ -426,7 +438,8 @@
         "status": "obras",
         "geometria_aproximada": true,
         "sistema_nome_pt": "Ferrovia Transnordestina (Eliseu Martins/PI – Pecém/CE)",
-        "sistema_nome_en": "Transnordestina Railway (Eliseu Martins/PI – Pecém/CE)"
+        "sistema_nome_en": "Transnordestina Railway (Eliseu Martins/PI – Pecém/CE)",
+        "tipo": "ferrovia_carga"
       },
       "geometry": {
         "type": "LineString",
@@ -924,7 +937,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
-        "sistema_nome_en": "São Paulo Metro (State Network)"
+        "sistema_nome_en": "São Paulo Metro (State Network)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -998,7 +1012,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
-        "sistema_nome_en": "São Paulo Metro (State Network)"
+        "sistema_nome_en": "São Paulo Metro (State Network)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1060,7 +1075,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
-        "sistema_nome_en": "São Paulo Metro (State Network)"
+        "sistema_nome_en": "São Paulo Metro (State Network)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1130,7 +1146,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de São Paulo (Rede Estatal)",
-        "sistema_nome_en": "São Paulo Metro (State Network)"
+        "sistema_nome_en": "São Paulo Metro (State Network)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1172,7 +1189,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
-        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)"
+        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1230,7 +1248,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
-        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)"
+        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1284,7 +1303,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
-        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)"
+        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1330,7 +1350,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "ViaQuatro e ViaMobilidade (Linhas 4, 5, 8 e 9 — SP)",
-        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)"
+        "sistema_nome_en": "ViaQuatro and ViaMobilidade (Lines 4, 5, 8 and 9 — São Paulo)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1384,7 +1405,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
-        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1430,7 +1452,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
-        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1476,7 +1499,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
-        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1526,7 +1550,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
-        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1568,7 +1593,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CPTM (Companhia Paulista de Trens Metropolitanos)",
-        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)"
+        "sistema_nome_en": "CPTM (São Paulo Metropolitan Trains)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1598,7 +1624,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
-        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)"
+        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1660,7 +1687,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
-        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)"
+        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1714,7 +1742,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "MetrôRio (Metrô do Rio de Janeiro)",
-        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)"
+        "sistema_nome_en": "MetrôRio (Rio de Janeiro Subway)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1752,7 +1781,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
-        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)"
+        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1802,7 +1832,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
-        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)"
+        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1840,7 +1871,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "SuperVia (Trens Urbanos do Rio de Janeiro)",
-        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)"
+        "sistema_nome_en": "SuperVia (Rio de Janeiro Suburban Rail)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -1878,7 +1910,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT Carioca",
-        "sistema_nome_en": "Rio de Janeiro Light Rail (VLT Carioca)"
+        "sistema_nome_en": "Rio de Janeiro Light Rail (VLT Carioca)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -1924,7 +1957,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô-DF (Metrô de Brasília)",
-        "sistema_nome_en": "Brasília Metro (Metrô-DF)"
+        "sistema_nome_en": "Brasília Metro (Metrô-DF)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -1970,7 +2004,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô-DF (Metrô de Brasília)",
-        "sistema_nome_en": "Brasília Metro (Metrô-DF)"
+        "sistema_nome_en": "Brasília Metro (Metrô-DF)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -2004,7 +2039,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de Belo Horizonte (Metrô BH)",
-        "sistema_nome_en": "Belo Horizonte Metro (Metrô BH)"
+        "sistema_nome_en": "Belo Horizonte Metro (Metrô BH)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -2058,7 +2094,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô do Recife (CBTU Recife)",
-        "sistema_nome_en": "Recife Metro (CBTU Recife)"
+        "sistema_nome_en": "Recife Metro (CBTU Recife)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -2100,7 +2137,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô do Recife (CBTU Recife)",
-        "sistema_nome_en": "Recife Metro (CBTU Recife)"
+        "sistema_nome_en": "Recife Metro (CBTU Recife)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -2134,7 +2172,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
-        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)"
+        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -2172,7 +2211,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô e VLT de Fortaleza (Metrofor)",
-        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)"
+        "sistema_nome_en": "Fortaleza Metro and Light Rail (Metrofor)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2206,7 +2246,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT de Sobral (Metrofor)",
-        "sistema_nome_en": "Sobral Light Rail (Metrofor)"
+        "sistema_nome_en": "Sobral Light Rail (Metrofor)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2236,7 +2277,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT do Cariri (Crato – Juazeiro do Norte)",
-        "sistema_nome_en": "Cariri Light Rail (Crato – Juazeiro do Norte)"
+        "sistema_nome_en": "Cariri Light Rail (Crato – Juazeiro do Norte)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2266,7 +2308,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CCR Metrô Bahia (Salvador e Lauro de Freitas)",
-        "sistema_nome_en": "CCR Metrô Bahia (Salvador and Lauro de Freitas Subway)"
+        "sistema_nome_en": "CCR Metrô Bahia (Salvador and Lauro de Freitas Subway)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -2312,7 +2355,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "CCR Metrô Bahia (Salvador e Lauro de Freitas)",
-        "sistema_nome_en": "CCR Metrô Bahia (Salvador and Lauro de Freitas Subway)"
+        "sistema_nome_en": "CCR Metrô Bahia (Salvador and Lauro de Freitas Subway)",
+        "tipo": "metro"
       },
       "geometry": {
         "type": "LineString",
@@ -2354,7 +2398,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Trensurb (Metrô de Porto Alegre)",
-        "sistema_nome_en": "Trensurb (Porto Alegre Metropolitan Rail)"
+        "sistema_nome_en": "Trensurb (Porto Alegre Metropolitan Rail)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -2400,7 +2445,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Aeromóvel de Porto Alegre (Conexão Metrô–Aeroporto)",
-        "sistema_nome_en": "Porto Alegre People Mover (Aeromóvel)"
+        "sistema_nome_en": "Porto Alegre People Mover (Aeromóvel)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2426,7 +2472,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT de Maceió (CBTU Maceió)",
-        "sistema_nome_en": "Maceió Light Rail (CBTU Maceió)"
+        "sistema_nome_en": "Maceió Light Rail (CBTU Maceió)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2460,7 +2507,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Sistema de Trens Urbanos de João Pessoa (CBTU)",
-        "sistema_nome_en": "João Pessoa Urban Rail (CBTU)"
+        "sistema_nome_en": "João Pessoa Urban Rail (CBTU)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2494,7 +2542,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Sistema de Trens Urbanos de Natal (CBTU)",
-        "sistema_nome_en": "Natal Urban Rail System (CBTU)"
+        "sistema_nome_en": "Natal Urban Rail System (CBTU)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2528,7 +2577,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "Metrô de Teresina (VLT de Teresina)",
-        "sistema_nome_en": "Teresina Light Rail / Metro"
+        "sistema_nome_en": "Teresina Light Rail / Metro",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2558,7 +2608,8 @@
         "status": "operacao",
         "geometria_aproximada": false,
         "sistema_nome_pt": "VLT da Baixada Santista",
-        "sistema_nome_en": "Baixada Santista Light Rail (Santos & São Vicente)"
+        "sistema_nome_en": "Baixada Santista Light Rail (Santos & São Vicente)",
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2597,7 +2648,8 @@
         "geometria_aproximada": false,
         "sistema_nome_pt": "Estrada de Ferro Vitória a Minas (Trem de Passageiros e Carga)",
         "sistema_nome_en": "Vitória–Minas Railway (EFVM Passenger & Freight)",
-        "linha": "EFVM (Belo Horizonte – Governador Valadares – Cariacica/Vitória)"
+        "linha": "EFVM (Belo Horizonte – Governador Valadares – Cariacica/Vitória)",
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -2642,7 +2694,8 @@
         "linha": "Estrada de Ferro Carajás (EF-315 · São Luís/MA – Marabá – Parauapebas/PA)",
         "status": "operacao",
         "cor": "#10b981",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "tipo": "ferrovia_carga"
       },
       "geometry": {
         "type": "LineString",
@@ -2695,7 +2748,8 @@
         "linha": "Ferrovia Norte-Sul (EF-151 · Açailândia/MA – Palmas/TO – Anápolis/GO – Estrela d'Oeste/SP)",
         "status": "operacao",
         "cor": "#10b981",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "tipo": "ferrovia_carga"
       },
       "geometry": {
         "type": "LineString",
@@ -2760,7 +2814,8 @@
         "linha": "Rumo Malha Norte (Rondonópolis/MT – Alto Araguaia – Aparecida do Taboado/MS – SP)",
         "status": "operacao",
         "cor": "#10b981",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "tipo": "ferrovia_carga"
       },
       "geometry": {
         "type": "LineString",
@@ -2801,7 +2856,8 @@
         "linha": "Trem Republicano (Estação Itu – Estação Salto)",
         "status": "operacao",
         "cor": "#10b981",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "tipo": "trem_convencional"
       },
       "geometry": {
         "type": "LineString",
@@ -2830,7 +2886,8 @@
         "linha": "People Mover Aeroporto de Guarulhos (CPTM Linha 13 – Terminais 1, 2 e 3)",
         "status": "operacao",
         "cor": "#10b981",
-        "geometria_aproximada": false
+        "geometria_aproximada": false,
+        "tipo": "vlt"
       },
       "geometry": {
         "type": "LineString",
@@ -2956,7 +3013,7 @@
         "sistema_nome_en": "Shanghai Metro & Maglev Network",
         "linha": "Shanghai Maglev (Longyang Road – Aeroporto de Pudong, 430 km/h)",
         "status": "operacao",
-        "tipo": "aeromovel",
+        "tipo": "metro",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -3428,7 +3485,7 @@
         "sistema_nome_en": "Chongqing Rail Transit (CRT — Monorail & Metro)",
         "linha": "Linha 2 — Monotrilho Pesado (Jiaochangkou – Liziba – Yudong)",
         "status": "operacao",
-        "tipo": "monotrilho",
+        "tipo": "metro",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -3465,7 +3522,7 @@
         "sistema_nome_en": "Chongqing Rail Transit (CRT — Monorail & Metro)",
         "linha": "Linha 3 — Maior Monotrilho do Mundo (Yudong – Chongqing North – Aeroporto Jiangbei, 67 km)",
         "status": "operacao",
-        "tipo": "monotrilho",
+        "tipo": "metro",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -3715,7 +3772,7 @@
         "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
         "linha": "Linha Yamanote (Anel Ferroviário de Tóquio — 34,5 km)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "trem_convencional",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -3764,7 +3821,7 @@
         "sistema_nome_en": "JR East Greater Tokyo Commuter Network & Yamanote Line",
         "linha": "Linha Chuo Rápida (Tokyo Station – Shinjuku – Tachikawa – Takao)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "trem_convencional",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -3875,7 +3932,7 @@
         "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
         "linha": "Tokyo Monorail (Hamamatsucho – Aeroporto Internacional de Haneda)",
         "status": "operacao",
-        "tipo": "monotrilho",
+        "tipo": "vlt",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -3908,7 +3965,7 @@
         "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
         "linha": "Osaka Monorail (Aeroporto de Itami – Expo Park – Kadoma-shi)",
         "status": "operacao",
-        "tipo": "monotrilho",
+        "tipo": "vlt",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -3945,7 +4002,7 @@
         "sistema_nome_en": "Japan Urban Monorails (Tokyo Haneda, Osaka & Chiba Suspended Monorail)",
         "linha": "Chiba Urban Monorail (Maior Monotrilho Suspenso do Mundo — 15,2 km)",
         "status": "operacao",
-        "tipo": "monotrilho",
+        "tipo": "vlt",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -4256,7 +4313,7 @@
         "sistema_nome_en": "Paris RER & Transilien Regional Express Network (Lines A, B, C, D and E)",
         "linha": "RER A (La Défense – Châtelet-Les Halles – Gare de Lyon – Marne-la-Vallée Disneyland)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "trem_convencional",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -4305,7 +4362,7 @@
         "sistema_nome_en": "Paris RER & Transilien Regional Express Network (Lines A, B, C, D and E)",
         "linha": "RER B (Aeroporto Charles de Gaulle – Gare du Nord – Châtelet-Les Halles – Massy-Palaiseau)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "trem_convencional",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -4937,7 +4994,7 @@
         "sistema_nome_en": "Cercanías Madrid & Rodalies de Catalunya (Renfe Commuter Rail)",
         "linha": "Túneis da Risa — Cercanías Madrid (Atocha – Sol/Recoletos – Nuevos Ministerios – Chamartín – Aeropuerto T4)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "trem_convencional",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -4974,7 +5031,7 @@
         "sistema_nome_en": "Cercanías Madrid & Rodalies de Catalunya (Renfe Commuter Rail)",
         "linha": "Rodalies de Catalunya R1/R2 (Aeroport – Barcelona Sants – Passeig de Gràcia – Clot – Mataró)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "trem_convencional",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -5282,7 +5339,7 @@
         "sistema_nome_en": "Berlin U-Bahn & S-Bahn Network (BVG & S-Bahn Berlin)",
         "linha": "S-Bahn Berlim — Ringbahn S41/S42 (Anel Circular Ferroviário de 37 km)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "metro",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -5339,7 +5396,7 @@
         "sistema_nome_en": "Berlin U-Bahn & S-Bahn Network (BVG & S-Bahn Berlin)",
         "linha": "S-Bahn Berlim — Stadtbahn Leste–Oeste (Westkreuz – Zoologischer Garten – Hauptbahnhof – Friedrichstraße – Alexanderplatz – Ostkreuz)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "metro",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -5503,7 +5560,7 @@
         "sistema_nome_en": "Munich U-Bahn & S-Bahn Network (MVG & S-Bahn München)",
         "linha": "S-Bahn Munique — Tronco Central Stammstrecke (Pasing – Hauptbahnhof – Marienplatz – Ostbahnhof – Aeroporto)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "metro",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -5585,7 +5642,7 @@
         "sistema_nome_en": "Hamburg U-Bahn & S-Bahn Network (HOCHBAHN & S-Bahn Hamburg)",
         "linha": "S-Bahn Hamburgo — Eixo Altona – Jungfernstieg – Hauptbahnhof – Harburg",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "metro",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -5688,7 +5745,7 @@
         "sistema_nome_en": "Wuppertal Suspension Monorail (Schwebebahn — 1901) & Dortmund/Düsseldorf H-Bahn",
         "linha": "Wuppertaler Schwebebahn (Vohwinkel – Zoo – Hauptbahnhof – Oberbarmen — Inaugurado em 1901)",
         "status": "operacao",
-        "tipo": "monotrilho",
+        "tipo": "vlt",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -6109,7 +6166,7 @@
         "sistema_nome_en": "Elizabeth Line (Crossrail), London Overground & DLR (Docklands Light Railway)",
         "linha": "Elizabeth Line / Crossrail (Reading & Heathrow – Paddington – Tottenham Court Road – Liverpool Street – Canary Wharf – Abbey Wood / Shenfield)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "trem_convencional",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -6158,7 +6215,7 @@
         "sistema_nome_en": "Elizabeth Line (Crossrail), London Overground & DLR (Docklands Light Railway)",
         "linha": "DLR — Docklands Light Railway Automático GoA4 (Bank – Canary Wharf – Greenwich / London City Airport – Woolwich)",
         "status": "operacao",
-        "tipo": "trem_urbano",
+        "tipo": "trem_convencional",
         "geometria_aproximada": false
       },
       "geometry": {
@@ -6495,6 +6552,2154 @@
           [
             1.8111,
             50.9014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrs-malha-sudeste",
+        "sistema_nome_pt": "MRS Logística — Malha Ferroviária de Carga do Sudeste (MG–RJ–SP)",
+        "sistema_nome_en": "MRS Logística — Southeast Heavy-Haul Freight Network (MG–RJ–SP)",
+        "linha": "Linha do Centro & Ferrovia do Aço (Belo Horizonte – Jeceaba – Barra Mansa – Itaguaí / Rio)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.938,
+            -19.919
+          ],
+          [
+            -43.985,
+            -20.385
+          ],
+          [
+            -43.79,
+            -20.66
+          ],
+          [
+            -43.788,
+            -21.226
+          ],
+          [
+            -43.35,
+            -21.764
+          ],
+          [
+            -43.65,
+            -22.25
+          ],
+          [
+            -44.1,
+            -22.54
+          ],
+          [
+            -43.77,
+            -22.88
+          ],
+          [
+            -43.82,
+            -22.92
+          ],
+          [
+            -43.21,
+            -22.905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrs-malha-sudeste",
+        "sistema_nome_pt": "MRS Logística — Malha Ferroviária de Carga do Sudeste (MG–RJ–SP)",
+        "sistema_nome_en": "MRS Logística — Southeast Heavy-Haul Freight Network (MG–RJ–SP)",
+        "linha": "Ramal de São Paulo & Cremalheira da Serra do Mar (Barra Mansa – São Paulo – Porto de Santos)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.1,
+            -22.54
+          ],
+          [
+            -44.96,
+            -22.56
+          ],
+          [
+            -45.55,
+            -23.02
+          ],
+          [
+            -45.88,
+            -23.18
+          ],
+          [
+            -46.31,
+            -23.52
+          ],
+          [
+            -46.63,
+            -23.53
+          ],
+          [
+            -46.42,
+            -23.78
+          ],
+          [
+            -46.32,
+            -23.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "efvm-carga",
+        "sistema_nome_pt": "Estrada de Ferro Vitória a Minas — Corredor de Carga (EFVM)",
+        "sistema_nome_en": "Vitória–Minas Railway — Heavy-Haul Freight Corridor (EFVM)",
+        "linha": "Tronco Duplicado de Minério EFVM (Itabira / Belo Horizonte – Governador Valadares – Porto de Tubarão)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.938,
+            -19.919
+          ],
+          [
+            -43.226,
+            -19.62
+          ],
+          [
+            -42.53,
+            -19.47
+          ],
+          [
+            -41.949,
+            -18.851
+          ],
+          [
+            -41.15,
+            -19.45
+          ],
+          [
+            -40.625,
+            -19.535
+          ],
+          [
+            -40.245,
+            -20.285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-xangai",
+        "sistema_nome_pt": "TAV Pequim–Xangai & Corredor Costeiro Leste (Xangai–Fuzhou–Xiamen–Shenzhen)",
+        "sistema_nome_en": "Beijing–Shanghai HSR & East Coastal High-Speed Corridor (Shanghai–Xiamen–Shenzhen)",
+        "linha": "Corredor Costeiro Sudeste de Alta Velocidade (Xangai – Hangzhou – Ningbo – Wenzhou – Fuzhou – Xiamen – Shenzhen)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.319,
+            31.194
+          ],
+          [
+            120.213,
+            30.291
+          ],
+          [
+            120.58,
+            30.05
+          ],
+          [
+            121.539,
+            29.862
+          ],
+          [
+            121.42,
+            28.65
+          ],
+          [
+            120.655,
+            27.994
+          ],
+          [
+            119.385,
+            25.986
+          ],
+          [
+            119.01,
+            25.43
+          ],
+          [
+            118.675,
+            24.91
+          ],
+          [
+            118.071,
+            24.636
+          ],
+          [
+            117.65,
+            24.51
+          ],
+          [
+            116.71,
+            23.4
+          ],
+          [
+            115.38,
+            22.82
+          ],
+          [
+            114.029,
+            22.609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-guangzhou-hk",
+        "sistema_nome_pt": "TAV Pequim–Guangzhou–Shenzhen–Hong Kong (Jingguang HSR)",
+        "sistema_nome_en": "Beijing–Guangzhou–Shenzhen–Hong Kong High-Speed Railway (Jingguang HSR)",
+        "linha": "Corredor Jinggang HSR (Pequim – Xiong'an – Shangqiu – Hefei – Nanchang – Ganzhou – Shenzhen)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.321,
+            39.894
+          ],
+          [
+            115.98,
+            39.05
+          ],
+          [
+            115.48,
+            36.58
+          ],
+          [
+            115.65,
+            34.42
+          ],
+          [
+            115.82,
+            32.89
+          ],
+          [
+            117.29,
+            31.798
+          ],
+          [
+            117.05,
+            30.52
+          ],
+          [
+            115.989,
+            29.705
+          ],
+          [
+            115.792,
+            28.628
+          ],
+          [
+            114.98,
+            27.11
+          ],
+          [
+            114.935,
+            25.83
+          ],
+          [
+            114.7,
+            23.74
+          ],
+          [
+            114.029,
+            22.609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-harbin-nordeste",
+        "sistema_nome_pt": "TAV Pequim–Harbin & Malha de Alta Velocidade do Nordeste (Shenyang–Dalian–Qiqihar)",
+        "sistema_nome_en": "Beijing–Harbin HSR & Northeast High-Speed Network (Shenyang–Dalian–Qiqihar)",
+        "linha": "Jingha HSR & Haqi HSR (Pequim – Chengde – Shenyang – Changchun – Harbin – Daqing – Qiqihar)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.427,
+            39.903
+          ],
+          [
+            117.962,
+            40.952
+          ],
+          [
+            120.45,
+            41.575
+          ],
+          [
+            121.615,
+            42.01
+          ],
+          [
+            123.431,
+            41.805
+          ],
+          [
+            124.35,
+            43.16
+          ],
+          [
+            125.323,
+            43.817
+          ],
+          [
+            126.457,
+            45.706
+          ],
+          [
+            125.02,
+            46.59
+          ],
+          [
+            123.918,
+            47.354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-harbin-nordeste",
+        "sistema_nome_pt": "TAV Pequim–Harbin & Malha de Alta Velocidade do Nordeste (Shenyang–Dalian–Qiqihar)",
+        "sistema_nome_en": "Beijing–Harbin HSR & Northeast High-Speed Network (Shenyang–Dalian–Qiqihar)",
+        "linha": "Ramo Litorâneo Qinshen & Hadal HSR (Tianjin – Qinhuangdao – Shenyang – Anshan – Dalian)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.199,
+            39.136
+          ],
+          [
+            118.18,
+            39.63
+          ],
+          [
+            119.6,
+            39.935
+          ],
+          [
+            121.127,
+            41.118
+          ],
+          [
+            123.431,
+            41.805
+          ],
+          [
+            122.995,
+            41.108
+          ],
+          [
+            122.24,
+            40.665
+          ],
+          [
+            121.614,
+            38.914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-pequim-harbin-nordeste",
+        "sistema_nome_pt": "TAV Pequim–Harbin & Malha de Alta Velocidade do Nordeste (Shenyang–Dalian–Qiqihar)",
+        "sistema_nome_en": "Beijing–Harbin HSR & Northeast High-Speed Network (Shenyang–Dalian–Qiqihar)",
+        "linha": "Corredor Leste de Heilongjiang e Jilin (Harbin – Mudanjiang – Yanji – Changchun)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.457,
+            45.706
+          ],
+          [
+            128.05,
+            45.22
+          ],
+          [
+            129.633,
+            44.551
+          ],
+          [
+            129.508,
+            42.891
+          ],
+          [
+            128.25,
+            43.35
+          ],
+          [
+            126.55,
+            43.838
+          ],
+          [
+            125.323,
+            43.817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xangai-wuhan-chengdu-kunming",
+        "sistema_nome_pt": "Corredores de Alta Velocidade do Rio Yangtzé (Xangai–Wuhan–Chengdu) e Xangai–Kunming",
+        "sistema_nome_en": "Yangtze River HSR (Shanghai–Wuhan–Chengdu) & Shanghai–Kunming High-Speed Corridors",
+        "linha": "Corredor do Rio Yangtzé Huhanrong HSR (Xangai – Nanjing – Hefei – Wuhan – Yichang – Chongqing – Chengdu)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.319,
+            31.194
+          ],
+          [
+            120.62,
+            31.33
+          ],
+          [
+            119.97,
+            31.81
+          ],
+          [
+            118.798,
+            31.969
+          ],
+          [
+            117.29,
+            31.798
+          ],
+          [
+            115.92,
+            31.25
+          ],
+          [
+            114.424,
+            30.608
+          ],
+          [
+            112.24,
+            30.35
+          ],
+          [
+            111.286,
+            30.692
+          ],
+          [
+            109.48,
+            30.29
+          ],
+          [
+            107.75,
+            29.85
+          ],
+          [
+            106.551,
+            29.609
+          ],
+          [
+            105.59,
+            30.53
+          ],
+          [
+            104.14,
+            30.629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xangai-wuhan-chengdu-kunming",
+        "sistema_nome_pt": "Corredores de Alta Velocidade do Rio Yangtzé (Xangai–Wuhan–Chengdu) e Xangai–Kunming",
+        "sistema_nome_en": "Yangtze River HSR (Shanghai–Wuhan–Chengdu) & Shanghai–Kunming High-Speed Corridors",
+        "linha": "Ferrovia de Alta Velocidade Xangai–Kunming Hukun HSR (Xangai – Hangzhou – Nanchang – Changsha – Guiyang – Kunming)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.319,
+            31.194
+          ],
+          [
+            120.213,
+            30.291
+          ],
+          [
+            119.65,
+            29.08
+          ],
+          [
+            117.943,
+            28.455
+          ],
+          [
+            115.792,
+            28.628
+          ],
+          [
+            114.42,
+            27.8
+          ],
+          [
+            113.065,
+            28.147
+          ],
+          [
+            111.99,
+            27.73
+          ],
+          [
+            109.968,
+            27.556
+          ],
+          [
+            107.98,
+            26.58
+          ],
+          [
+            106.643,
+            26.621
+          ],
+          [
+            105.29,
+            25.82
+          ],
+          [
+            103.796,
+            25.49
+          ],
+          [
+            102.833,
+            24.88
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xuzhou-xian-lanzhou-urumqi",
+        "sistema_nome_pt": "Corredor Euroasiático de Alta Velocidade Lianyungang–Xi'an–Lanzhou–Ürümqi (Xinjiang)",
+        "sistema_nome_en": "Eurasian High-Speed Corridor Lianyungang–Xi'an–Lanzhou–Ürümqi & Xi'an–Chengdu HSR",
+        "linha": "Corredor Euroasiático Longhai & Lanxin HSR (Lianyungang – Xuzhou – Zhengzhou – Xi'an – Lanzhou – Xining – Zhangye – Hami – Ürümqi)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.221,
+            34.596
+          ],
+          [
+            117.305,
+            34.267
+          ],
+          [
+            115.655,
+            34.415
+          ],
+          [
+            113.778,
+            34.759
+          ],
+          [
+            112.453,
+            34.619
+          ],
+          [
+            110.08,
+            34.52
+          ],
+          [
+            108.939,
+            34.376
+          ],
+          [
+            107.145,
+            34.365
+          ],
+          [
+            105.725,
+            34.58
+          ],
+          [
+            103.751,
+            36.068
+          ],
+          [
+            101.778,
+            36.617
+          ],
+          [
+            100.449,
+            38.926
+          ],
+          [
+            98.51,
+            39.744
+          ],
+          [
+            94.662,
+            40.142
+          ],
+          [
+            93.515,
+            42.825
+          ],
+          [
+            89.189,
+            42.951
+          ],
+          [
+            87.535,
+            43.84
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-xuzhou-xian-lanzhou-urumqi",
+        "sistema_nome_pt": "Corredor Euroasiático de Alta Velocidade Lianyungang–Xi'an–Lanzhou–Ürümqi (Xinjiang)",
+        "sistema_nome_en": "Eurasian High-Speed Corridor Lianyungang–Xi'an–Lanzhou–Ürümqi & Xi'an–Chengdu HSR",
+        "linha": "TAV Xi'an – Chengdu – Chongqing – Guiyang (Travessia das Montanhas Qinling e Bacia de Sichuan)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.939,
+            34.376
+          ],
+          [
+            107.023,
+            33.067
+          ],
+          [
+            105.843,
+            32.435
+          ],
+          [
+            104.679,
+            31.467
+          ],
+          [
+            104.14,
+            30.629
+          ],
+          [
+            105.058,
+            29.58
+          ],
+          [
+            106.551,
+            29.609
+          ],
+          [
+            106.927,
+            27.725
+          ],
+          [
+            106.643,
+            26.621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-guangzhou-guiyang-nanning-hainan",
+        "sistema_nome_pt": "TAV do Sudoeste (Guangzhou–Guiyang–Nanning–Kunming) & Anel de Alta Velocidade de Hainan",
+        "sistema_nome_en": "Southwest HSR Network (Guangzhou–Guiyang–Nanning–Kunming) & Hainan Island Ring HSR",
+        "linha": "Corredores Guiguang & Nanning–Kunming HSR (Guangzhou – Guilin – Guiyang & Guangzhou – Nanning – Kunming)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.643,
+            26.621
+          ],
+          [
+            108.25,
+            25.95
+          ],
+          [
+            110.29,
+            25.273
+          ],
+          [
+            111.51,
+            24.41
+          ],
+          [
+            113.269,
+            22.989
+          ],
+          [
+            111.27,
+            23.47
+          ],
+          [
+            109.61,
+            23.09
+          ],
+          [
+            108.375,
+            22.855
+          ],
+          [
+            106.618,
+            23.902
+          ],
+          [
+            104.25,
+            23.6
+          ],
+          [
+            102.833,
+            24.88
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tav-guangzhou-guiyang-nanning-hainan",
+        "sistema_nome_pt": "TAV do Sudoeste (Guangzhou–Guiyang–Nanning–Kunming) & Anel de Alta Velocidade de Hainan",
+        "sistema_nome_en": "Southwest HSR Network (Guangzhou–Guiyang–Nanning–Kunming) & Hainan Island Ring HSR",
+        "linha": "Anel Ferroviário Insular de Alta Velocidade de Hainan (Haikou – Bo'ao – Sanya – Dongfang – Haikou)",
+        "status": "operacao",
+        "tipo": "alta_velocidade",
+        "cor": "#ff1744",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.33,
+            20.02
+          ],
+          [
+            110.75,
+            19.61
+          ],
+          [
+            110.58,
+            19.15
+          ],
+          [
+            110.03,
+            18.54
+          ],
+          [
+            109.512,
+            18.252
+          ],
+          [
+            108.65,
+            18.5
+          ],
+          [
+            108.65,
+            19.09
+          ],
+          [
+            109.58,
+            19.79
+          ],
+          [
+            110.33,
+            20.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-chengdu",
+        "sistema_nome_pt": "Metrô de Chengdu (Chengdu Metro — 4ª maior rede da China)",
+        "sistema_nome_en": "Chengdu Metro (4th largest metro network in China)",
+        "linha": "Linhas 1, 2, 7 (Anel) e 18 Expressa Aeroporto de Tianfu",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.072,
+            30.785
+          ],
+          [
+            104.065,
+            30.658
+          ],
+          [
+            104.068,
+            30.55
+          ],
+          [
+            104.075,
+            30.415
+          ],
+          [
+            104.442,
+            30.315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-chengdu",
+        "sistema_nome_pt": "Metrô de Chengdu (Chengdu Metro — 4ª maior rede da China)",
+        "sistema_nome_en": "Chengdu Metro (4th largest metro network in China)",
+        "linha": "Eixo Leste–Oeste Linha 2 & Linha 6 Subterrânea (Xipu – Tianfu Square – Chengdu East – Longquanyi)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.905,
+            30.755
+          ],
+          [
+            104.01,
+            30.69
+          ],
+          [
+            104.065,
+            30.658
+          ],
+          [
+            104.14,
+            30.629
+          ],
+          [
+            104.268,
+            30.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-wuhan",
+        "sistema_nome_pt": "Metrô de Wuhan (Wuhan Metro)",
+        "sistema_nome_en": "Wuhan Metro",
+        "linha": "Linha 2 (Aeroporto Tianhe – Hankou – Travessia do Rio Yangtzé – Wuchang – Optics Valley)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.208,
+            30.776
+          ],
+          [
+            114.255,
+            30.62
+          ],
+          [
+            114.292,
+            30.58
+          ],
+          [
+            114.335,
+            30.535
+          ],
+          [
+            114.405,
+            30.505
+          ],
+          [
+            114.465,
+            30.455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-wuhan",
+        "sistema_nome_pt": "Metrô de Wuhan (Wuhan Metro)",
+        "sistema_nome_en": "Wuhan Metro",
+        "linha": "Linha 4 (Estação Wuhan HSR – Wuchang – Hanyang – Berlitz)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.424,
+            30.608
+          ],
+          [
+            114.355,
+            30.565
+          ],
+          [
+            114.316,
+            30.528
+          ],
+          [
+            114.21,
+            30.55
+          ],
+          [
+            114.085,
+            30.575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-hangzhou-nanjing-suzhou",
+        "sistema_nome_pt": "Metrôs do Delta do Yangtzé: Hangzhou (516 km), Nanjing (449 km) e Suzhou (254 km)",
+        "sistema_nome_en": "Yangtze River Delta Metros: Hangzhou (516 km), Nanjing (449 km) & Suzhou (254 km)",
+        "linha": "Metrô de Hangzhou — Linhas 1, 2 e 19 Expressa Aeroporto Xiaoshan",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.955,
+            30.285
+          ],
+          [
+            120.155,
+            30.274
+          ],
+          [
+            120.213,
+            30.291
+          ],
+          [
+            120.275,
+            30.185
+          ],
+          [
+            120.435,
+            30.235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-hangzhou-nanjing-suzhou",
+        "sistema_nome_pt": "Metrôs do Delta do Yangtzé: Hangzhou (516 km), Nanjing (449 km) e Suzhou (254 km)",
+        "sistema_nome_en": "Yangtze River Delta Metros: Hangzhou (516 km), Nanjing (449 km) & Suzhou (254 km)",
+        "linha": "Metrô de Nanjing — Linhas 1, 2, 3 e S1 (Nanjing North – Xinjiekou – Nanjing South – Aeroporto Lukou)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.725,
+            32.145
+          ],
+          [
+            118.784,
+            32.042
+          ],
+          [
+            118.798,
+            31.969
+          ],
+          [
+            118.845,
+            31.88
+          ],
+          [
+            118.862,
+            31.742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-hangzhou-nanjing-suzhou",
+        "sistema_nome_pt": "Metrôs do Delta do Yangtzé: Hangzhou (516 km), Nanjing (449 km) e Suzhou (254 km)",
+        "sistema_nome_en": "Yangtze River Delta Metros: Hangzhou (516 km), Nanjing (449 km) & Suzhou (254 km)",
+        "linha": "Metrô de Suzhou — Linhas 1 e 11 (Suzhou – Kunshan – Conexão Huaqiao com Metrô de Xangai)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.515,
+            31.295
+          ],
+          [
+            120.62,
+            31.315
+          ],
+          [
+            120.75,
+            31.325
+          ],
+          [
+            120.98,
+            31.365
+          ],
+          [
+            121.102,
+            31.298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-xian-zhengzhou-tianjin",
+        "sistema_nome_pt": "Metrôs do Norte e Planície Central: Xi'an (311 km), Zhengzhou (344 km) e Tianjin (298 km)",
+        "sistema_nome_en": "North & Central Plains Metros: Xi'an (311 km), Zhengzhou (344 km) & Tianjin (298 km)",
+        "linha": "Metrô de Xi'an — Linhas 1, 2, 9 e 14 (Aeroporto Xianyang – Xi'an North – Bell Tower – Huaqingchi)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.755,
+            34.442
+          ],
+          [
+            108.939,
+            34.376
+          ],
+          [
+            108.947,
+            34.26
+          ],
+          [
+            108.947,
+            34.155
+          ],
+          [
+            109.21,
+            34.368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-xian-zhengzhou-tianjin",
+        "sistema_nome_pt": "Metrôs do Norte e Planície Central: Xi'an (311 km), Zhengzhou (344 km) e Tianjin (298 km)",
+        "sistema_nome_en": "North & Central Plains Metros: Xi'an (311 km), Zhengzhou (344 km) & Tianjin (298 km)",
+        "linha": "Metrô de Zhengzhou — Linhas 1, 2 e Chengjiao (Zhengzhou West – Erqi – Zhengzhou East – Aeroporto Xinzheng)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.545,
+            34.775
+          ],
+          [
+            113.665,
+            34.752
+          ],
+          [
+            113.778,
+            34.759
+          ],
+          [
+            113.845,
+            34.525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-xian-zhengzhou-tianjin",
+        "sistema_nome_pt": "Metrôs do Norte e Planície Central: Xi'an (311 km), Zhengzhou (344 km) e Tianjin (298 km)",
+        "sistema_nome_en": "North & Central Plains Metros: Xi'an (311 km), Zhengzhou (344 km) & Tianjin (298 km)",
+        "linha": "Metrô de Tianjin — Linhas 1, 2, 3 e 9 (Tianjin Station – Centro – Binhai New Area)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.125,
+            39.185
+          ],
+          [
+            117.209,
+            39.136
+          ],
+          [
+            117.395,
+            39.085
+          ],
+          [
+            117.698,
+            39.015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-qingdao-shenyang-dalian-harbin-kunming-changsha",
+        "sistema_nome_pt": "Metrôs Regionais da China: Qingdao, Changsha, Kunming, Shenyang, Dalian e Harbin",
+        "sistema_nome_en": "Regional Metros of China: Qingdao, Changsha, Kunming, Shenyang, Dalian & Harbin",
+        "linha": "Metrô de Qingdao — Linhas 1, 3, 8 e 11 (Travessia Submarina da Baía de Jiaozhou – Qingdao North)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.185,
+            35.965
+          ],
+          [
+            120.315,
+            36.065
+          ],
+          [
+            120.375,
+            36.185
+          ],
+          [
+            120.305,
+            36.365
+          ],
+          [
+            120.665,
+            36.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-qingdao-shenyang-dalian-harbin-kunming-changsha",
+        "sistema_nome_pt": "Metrôs Regionais da China: Qingdao, Changsha, Kunming, Shenyang, Dalian e Harbin",
+        "sistema_nome_en": "Regional Metros of China: Qingdao, Changsha, Kunming, Shenyang, Dalian & Harbin",
+        "linha": "Metrô de Changsha — Linhas 1, 2 e 6 (Meixihu – Wuyi Square – Changsha South HSR – Aeroporto Huanghua)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.885,
+            28.195
+          ],
+          [
+            112.976,
+            28.196
+          ],
+          [
+            113.065,
+            28.147
+          ],
+          [
+            113.218,
+            28.188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-qingdao-shenyang-dalian-harbin-kunming-changsha",
+        "sistema_nome_pt": "Metrôs Regionais da China: Qingdao, Changsha, Kunming, Shenyang, Dalian e Harbin",
+        "sistema_nome_en": "Regional Metros of China: Qingdao, Changsha, Kunming, Shenyang, Dalian & Harbin",
+        "linha": "Metrô de Kunming — Linhas 1, 2, 3 e 6 (Western Hills – Dongfeng Square – Kunming South – Aeroporto Changshui)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.635,
+            25.035
+          ],
+          [
+            102.715,
+            25.038
+          ],
+          [
+            102.833,
+            24.88
+          ],
+          [
+            102.928,
+            25.101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-qingdao-shenyang-dalian-harbin-kunming-changsha",
+        "sistema_nome_pt": "Metrôs Regionais da China: Qingdao, Changsha, Kunming, Shenyang, Dalian e Harbin",
+        "sistema_nome_en": "Regional Metros of China: Qingdao, Changsha, Kunming, Shenyang, Dalian & Harbin",
+        "linha": "Metrôs de Shenyang, Dalian e Harbin (Eixos Urbanos do Nordeste)",
+        "status": "operacao",
+        "tipo": "metro",
+        "cor": "#00b0ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.32,
+            41.795
+          ],
+          [
+            123.431,
+            41.805
+          ],
+          [
+            123.56,
+            41.825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-china-shenyang-suzhou-wuhan-guangzhou-songjiang",
+        "sistema_nome_pt": "Redes de VLT da China (Shenyang Hunnan, Xangai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian e Hong Kong)",
+        "sistema_nome_en": "China Light Rail (VLT) Networks (Shenyang, Shanghai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian & HK)",
+        "linha": "VLT de Shenyang Hunnan (Linhas 1 a 5 — Olympic Sports Center – Aeroporto Taoxian – Shenyang South)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.455,
+            41.745
+          ],
+          [
+            123.485,
+            41.695
+          ],
+          [
+            123.492,
+            41.64
+          ],
+          [
+            123.41,
+            41.665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-china-shenyang-suzhou-wuhan-guangzhou-songjiang",
+        "sistema_nome_pt": "Redes de VLT da China (Shenyang Hunnan, Xangai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian e Hong Kong)",
+        "sistema_nome_en": "China Light Rail (VLT) Networks (Shenyang, Shanghai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian & HK)",
+        "linha": "VLT de Xangai Songjiang (Linhas T1 e T2 — Cidade Universitária de Songjiang) & VLT de Suzhou SND",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.165,
+            31.015
+          ],
+          [
+            121.225,
+            31.035
+          ],
+          [
+            121.295,
+            31.055
+          ],
+          [
+            120.465,
+            31.325
+          ],
+          [
+            120.345,
+            31.385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-china-shenyang-suzhou-wuhan-guangzhou-songjiang",
+        "sistema_nome_pt": "Redes de VLT da China (Shenyang Hunnan, Xangai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian e Hong Kong)",
+        "sistema_nome_en": "China Light Rail (VLT) Networks (Shenyang, Shanghai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian & HK)",
+        "linha": "VLT de Wuhan Optics Valley (Linhas L1 e L2 — Huazhong Univ. of Science & Tech – Tangxunhu)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.405,
+            30.505
+          ],
+          [
+            114.425,
+            30.445
+          ],
+          [
+            114.475,
+            30.395
+          ],
+          [
+            114.545,
+            30.465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-china-shenyang-suzhou-wuhan-guangzhou-songjiang",
+        "sistema_nome_pt": "Redes de VLT da China (Shenyang Hunnan, Xangai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian e Hong Kong)",
+        "sistema_nome_en": "China Light Rail (VLT) Networks (Shenyang, Shanghai Songjiang, Suzhou, Wuhan, Guangzhou, Dalian & HK)",
+        "linha": "VLT de Guangzhou Haizhu/Huangpu (Canton Tower – Wanshengwei) & Hong Kong MTR Light Rail (Tuen Mun – Yuen Long)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "cor": "#00e676",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.324,
+            23.106
+          ],
+          [
+            113.385,
+            23.098
+          ],
+          [
+            113.485,
+            23.175
+          ],
+          [
+            113.975,
+            22.395
+          ],
+          [
+            114.035,
+            22.445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-qinghai-tibete-lhasa",
+        "sistema_nome_pt": "Ferrovia Qinghai–Tibete (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "sistema_nome_en": "Qinghai–Tibet Railway (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "linha": "Ferrovia Qinghai–Tibete (Xining – Lago Qinghai – Delingha – Golmud – Passo Tanggula 5.072m – Nagqu – Lhasa – Shigatse)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.778,
+            36.617
+          ],
+          [
+            100.15,
+            36.89
+          ],
+          [
+            97.37,
+            37.37
+          ],
+          [
+            94.903,
+            36.402
+          ],
+          [
+            94.05,
+            35.65
+          ],
+          [
+            92.45,
+            34.22
+          ],
+          [
+            91.915,
+            32.885
+          ],
+          [
+            92.05,
+            31.475
+          ],
+          [
+            91.1,
+            30.48
+          ],
+          [
+            91.117,
+            29.646
+          ],
+          [
+            89.58,
+            29.32
+          ],
+          [
+            88.88,
+            29.267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-qinghai-tibete-lhasa",
+        "sistema_nome_pt": "Ferrovia Qinghai–Tibete (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "sistema_nome_en": "Qinghai–Tibet Railway (Xining–Golmud–Lhasa–Shigatse–Nyingchi)",
+        "linha": "Ferrovia Eletrificada Lhasa – Shannan – Nyingchi (Vale do Rio Yarlung Tsangpo)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.117,
+            29.646
+          ],
+          [
+            91.773,
+            29.237
+          ],
+          [
+            92.65,
+            29.11
+          ],
+          [
+            94.361,
+            29.649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "troncos-convencionais-china-railway",
+        "sistema_nome_pt": "Grandes Troncos Convencionais da China Railway (Jinghu, Jingguang, Longhai, Chengkun, Lanxin e Trens Suburbanos)",
+        "sistema_nome_en": "China Railway Conventional Trunk Lines (Jinghu, Jingguang, Longhai, Chengkun, Lanxin & Suburban Rail)",
+        "linha": "Tronco Convencional Jingjiu (Pequim – Hengshui – Heze – Fuyang – Jiujiang – Nanchang – Ganzhou – Shenzhen / Kowloon)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.321,
+            39.894
+          ],
+          [
+            115.67,
+            37.735
+          ],
+          [
+            115.48,
+            35.235
+          ],
+          [
+            115.815,
+            32.89
+          ],
+          [
+            115.0,
+            31.18
+          ],
+          [
+            115.989,
+            29.705
+          ],
+          [
+            115.89,
+            28.68
+          ],
+          [
+            114.96,
+            27.09
+          ],
+          [
+            114.935,
+            25.83
+          ],
+          [
+            114.7,
+            23.74
+          ],
+          [
+            114.115,
+            22.545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "troncos-convencionais-china-railway",
+        "sistema_nome_pt": "Grandes Troncos Convencionais da China Railway (Jinghu, Jingguang, Longhai, Chengkun, Lanxin e Trens Suburbanos)",
+        "sistema_nome_en": "China Railway Conventional Trunk Lines (Jinghu, Jingguang, Longhai, Chengkun, Lanxin & Suburban Rail)",
+        "linha": "Troncos Ocidentais Baocheng & Chengkun (Baoji – Chengdu – Emei – Xichang – Panzhihua – Kunming – Hekou)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.145,
+            34.365
+          ],
+          [
+            106.08,
+            33.25
+          ],
+          [
+            105.55,
+            32.15
+          ],
+          [
+            104.065,
+            30.658
+          ],
+          [
+            103.485,
+            29.601
+          ],
+          [
+            102.72,
+            28.85
+          ],
+          [
+            102.267,
+            27.882
+          ],
+          [
+            101.718,
+            26.582
+          ],
+          [
+            102.02,
+            25.7
+          ],
+          [
+            102.715,
+            25.038
+          ],
+          [
+            103.38,
+            23.36
+          ],
+          [
+            103.96,
+            22.51
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "troncos-convencionais-china-railway",
+        "sistema_nome_pt": "Grandes Troncos Convencionais da China Railway (Jinghu, Jingguang, Longhai, Chengkun, Lanxin e Trens Suburbanos)",
+        "sistema_nome_en": "China Railway Conventional Trunk Lines (Jinghu, Jingguang, Longhai, Chengkun, Lanxin & Suburban Rail)",
+        "linha": "Ferrovia do Sul de Xinjiang Nanjiang Railway (Turpan – Korla – Aksu – Kashgar – Hotan, contorno do Deserto de Taklamakan)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            89.189,
+            42.951
+          ],
+          [
+            86.174,
+            41.725
+          ],
+          [
+            82.96,
+            41.715
+          ],
+          [
+            80.265,
+            41.168
+          ],
+          [
+            78.55,
+            39.85
+          ],
+          [
+            75.989,
+            39.467
+          ],
+          [
+            77.25,
+            38.415
+          ],
+          [
+            79.922,
+            37.114
+          ],
+          [
+            85.55,
+            38.14
+          ],
+          [
+            88.165,
+            39.02
+          ],
+          [
+            86.174,
+            41.725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "troncos-convencionais-china-railway",
+        "sistema_nome_pt": "Grandes Troncos Convencionais da China Railway (Jinghu, Jingguang, Longhai, Chengkun, Lanxin e Trens Suburbanos)",
+        "sistema_nome_en": "China Railway Conventional Trunk Lines (Jinghu, Jingguang, Longhai, Chengkun, Lanxin & Suburban Rail)",
+        "linha": "Ferrovia Transmanchuriana Binzhou & Jingbao (Pequim – Hohhot – Baotou – Lanzhou & Harbin – Hailar – Manzhouli)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "cor": "#ff9100",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.751,
+            36.068
+          ],
+          [
+            105.19,
+            37.515
+          ],
+          [
+            106.23,
+            38.487
+          ],
+          [
+            107.4,
+            40.74
+          ],
+          [
+            109.84,
+            40.657
+          ],
+          [
+            111.65,
+            40.818
+          ],
+          [
+            113.3,
+            40.09
+          ],
+          [
+            114.885,
+            40.768
+          ],
+          [
+            116.321,
+            39.894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-daqin-shuohuang-wari",
+        "sistema_nome_pt": "Corredores Heavy-Haul de Carvão Leste–Oeste: Ferrovias Daqin, Shuohuang e Wari",
+        "sistema_nome_en": "East–West Heavy-Haul Coal Freight Corridors: Daqin, Shuohuang & Wari Railways",
+        "linha": "Ferrovia de Carga Pesada Daqin (Datong – Huairou Norte – Zunhua – Porto de Qinhuangdao, >420 Mt/ano)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.3,
+            40.09
+          ],
+          [
+            114.55,
+            40.38
+          ],
+          [
+            115.95,
+            40.45
+          ],
+          [
+            116.65,
+            40.32
+          ],
+          [
+            117.95,
+            40.18
+          ],
+          [
+            119.6,
+            39.935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-daqin-shuohuang-wari",
+        "sistema_nome_pt": "Corredores Heavy-Haul de Carvão Leste–Oeste: Ferrovias Daqin, Shuohuang e Wari",
+        "sistema_nome_en": "East–West Heavy-Haul Coal Freight Corridors: Daqin, Shuohuang & Wari Railways",
+        "linha": "Ferrovia de Carga Pesada Shuohuang (Shenmu / Shenchi –肃宁 Suning – Porto de Huanghua, >350 Mt/ano)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.49,
+            38.84
+          ],
+          [
+            112.2,
+            39.18
+          ],
+          [
+            113.95,
+            38.65
+          ],
+          [
+            115.83,
+            38.42
+          ],
+          [
+            117.85,
+            38.37
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-daqin-shuohuang-wari",
+        "sistema_nome_pt": "Corredores Heavy-Haul de Carvão Leste–Oeste: Ferrovias Daqin, Shuohuang e Wari",
+        "sistema_nome_en": "East–West Heavy-Haul Coal Freight Corridors: Daqin, Shuohuang & Wari Railways",
+        "linha": "Ferrovia de Carga Pesada Wari (Watang /呂梁 Lüliang – Changzhi – Tai'an – Porto de Rizhao, 30t/eixo)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.95,
+            38.42
+          ],
+          [
+            111.52,
+            37.15
+          ],
+          [
+            113.11,
+            36.19
+          ],
+          [
+            114.35,
+            35.75
+          ],
+          [
+            116.08,
+            35.95
+          ],
+          [
+            117.13,
+            36.19
+          ],
+          [
+            118.35,
+            35.75
+          ],
+          [
+            119.52,
+            35.41
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-haoji-norte-sul",
+        "sistema_nome_pt": "Ferrovia de Carga Pesada Haoji (Corredor Exclusivo de Frete Norte–Sul Mongólia Interior – Jiangxi)",
+        "sistema_nome_en": "Haoji Heavy-Haul Freight Railway (Inner Mongolia – Jiangxi North–South Coal Corridor)",
+        "linha": "Corredor Exclusivo Norte–Sul Haoji (Haolebaoji / Ordos – Yan'an – Sanmenxia – Xiangyang – Jingzhou – Yueyang – Ji'an, 1.813,5 km)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.95,
+            39.12
+          ],
+          [
+            109.73,
+            38.28
+          ],
+          [
+            109.49,
+            36.585
+          ],
+          [
+            110.48,
+            35.55
+          ],
+          [
+            111.2,
+            34.77
+          ],
+          [
+            111.55,
+            33.25
+          ],
+          [
+            112.14,
+            32.01
+          ],
+          [
+            112.24,
+            30.35
+          ],
+          [
+            113.12,
+            29.35
+          ],
+          [
+            114.38,
+            28.12
+          ],
+          [
+            114.99,
+            27.09
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-china-europa-yuxinou",
+        "sistema_nome_pt": "Corredor de Frete China–Europa (China–Europe Railway Express / Yuxinou via Xinjiang e Manzhouli)",
+        "sistema_nome_en": "China–Europe Railway Express Freight Corridors (Yuxinou via Alashankou/Khorgos & Manzhouli)",
+        "linha": "Corredor Ocidental China–Europe Express (Chongqing – Xi'an – Lanzhou – Ürümqi – Alashankou / Khorgos na fronteira do Cazaquistão)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.38,
+            29.68
+          ],
+          [
+            107.5,
+            31.22
+          ],
+          [
+            108.939,
+            34.376
+          ],
+          [
+            103.751,
+            36.068
+          ],
+          [
+            98.29,
+            39.77
+          ],
+          [
+            93.515,
+            42.825
+          ],
+          [
+            87.535,
+            43.84
+          ],
+          [
+            84.88,
+            44.45
+          ],
+          [
+            82.565,
+            45.175
+          ],
+          [
+            80.415,
+            44.215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-china-europa-yuxinou",
+        "sistema_nome_pt": "Corredor de Frete China–Europa (China–Europe Railway Express / Yuxinou via Xinjiang e Manzhouli)",
+        "sistema_nome_en": "China–Europe Railway Express Freight Corridors (Yuxinou via Alashankou/Khorgos & Manzhouli)",
+        "linha": "Corredor Oriental China–Europe Express (Harbin – Daqing – Qiqihar – Hailar – Porto Seco de Manzhouli na fronteira da Rússia)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.535,
+            45.802
+          ],
+          [
+            125.103,
+            46.588
+          ],
+          [
+            123.955,
+            47.342
+          ],
+          [
+            121.85,
+            48.75
+          ],
+          [
+            119.765,
+            49.212
+          ],
+          [
+            117.435,
+            49.598
           ]
         ]
       }

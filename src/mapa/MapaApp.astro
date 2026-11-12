@@ -37,12 +37,28 @@ const STATUS_COLORS: Record<string, string> = {
 	desativado: '#475569',
 };
 
+const MODALITY_COLORS: Record<string, string> = {
+	alta_velocidade: '#ff1744',
+	metro: '#00b0ff',
+	vlt: '#00e676',
+	trem_convencional: '#ff9100',
+	ferrovia_carga: '#aa00ff',
+};
+
+const MODALITY_ORDER = [
+	'alta_velocidade',
+	'metro',
+	'vlt',
+	'trem_convencional',
+	'ferrovia_carga',
+] as const;
+
 const COUNTRY_META: Record<
 	string,
 	{ flag: string; labelPt: string; labelEn: string; center: [number, number]; zoom: number }
 > = {
 	Brasil: { flag: '🇧🇷', labelPt: 'Brasil', labelEn: 'Brazil', center: [-47.5, -15.2], zoom: 3.8 },
-	China: { flag: '🇨🇳', labelPt: 'China', labelEn: 'China', center: [113.5, 31.2], zoom: 3.9 },
+	China: { flag: '🇨🇳', labelPt: 'China', labelEn: 'China', center: [106.5, 34.2], zoom: 3.6 },
 	Japão: { flag: '🇯🇵', labelPt: 'Japão', labelEn: 'Japan', center: [138.2, 36.2], zoom: 5.0 },
 	França: { flag: '🇫🇷', labelPt: 'França', labelEn: 'France', center: [2.4, 46.6], zoom: 5.2 },
 	Espanha: { flag: '🇪🇸', labelPt: 'Espanha', labelEn: 'Spain', center: [-3.7, 40.4], zoom: 5.3 },
@@ -59,10 +75,41 @@ const COUNTRY_META: Record<
 	Rússia: { flag: '🇷🇺', labelPt: 'Rússia', labelEn: 'Russia', center: [45.0, 56.5], zoom: 3.6 },
 };
 
+// Visualização restrita exclusivamente a linhas e sistemas EM OPERAÇÃO (preservando os não operacionais na base)
+const sistemasOperacionais = sistemas.filter((s) => s.status === 'operacao');
+const preservedNonOpCount = sistemas.length - sistemasOperacionais.length;
+const operationalSysIds = new Set(sistemasOperacionais.map((s) => s.id));
+
+const linhasOperacionaisGeojson = {
+	type: 'FeatureCollection',
+	features: (linhasGeojson.features || []).filter(
+		(f: any) =>
+			f.properties?.status === 'operacao' && operationalSysIds.has(f.properties?.sistema_id)
+	),
+};
+
+const estacoesOperacionaisGeojson = {
+	type: 'FeatureCollection',
+	features: (estacoesGeojson.features || []).filter(
+		(f: any) =>
+			f.properties?.status === 'operacao' && operationalSysIds.has(f.properties?.sistema_id)
+	),
+};
+
 const countryCounts: Record<string, number> = {};
-for (const s of sistemas) {
+const modalityCounts: Record<string, number> = {
+	alta_velocidade: 0,
+	metro: 0,
+	vlt: 0,
+	trem_convencional: 0,
+	ferrovia_carga: 0,
+};
+for (const s of sistemasOperacionais) {
 	const p = s.pais || 'Brasil';
 	countryCounts[p] = (countryCounts[p] || 0) + 1;
+	if (modalityCounts[s.tipo] !== undefined) {
+		modalityCounts[s.tipo] += 1;
+	}
 }
 const activeCountries = Object.keys(countryCounts);
 
@@ -74,12 +121,13 @@ function formatNum(val: number | null, suffix = ''): string {
 const payloadClient = JSON.stringify({
 	lang,
 	t,
-	sistemas,
-	linhasGeojson,
-	estacoesGeojson,
+	sistemas: sistemasOperacionais,
+	linhasGeojson: linhasOperacionaisGeojson,
+	estacoesGeojson: estacoesOperacionaisGeojson,
 	fontes,
 	relatedBySystemId,
 	STATUS_COLORS,
+	MODALITY_COLORS,
 	COUNTRY_META,
 });
 ---
@@ -116,7 +164,7 @@ const payloadClient = JSON.stringify({
 				<label class="control-field">
 					<span>{(t as any).filterPaisLabel || (isEn ? 'Country' : 'País')}</span>
 					<select id="mapa-filter-pais">
-						<option value="all">🌎 {t.filterAll} ({sistemas.length})</option>
+						<option value="all">🌎 {isEn ? 'All' : 'Todos'} ({sistemasOperacionais.length})</option>
 						{activeCountries.map((paisKey) => {
 							const meta = COUNTRY_META[paisKey] || {
 								flag: '🌐',
@@ -135,27 +183,18 @@ const payloadClient = JSON.stringify({
 				<label class="control-field">
 					<span>{t.filterTipoLabel}</span>
 					<select id="mapa-filter-tipo">
-						<option value="all">{t.filterAll}</option>
-						{Object.entries(t.tipos).map(([key, label]) => (
-							<option value={key}>{label}</option>
+						<option value="all">{t.filterAll} (5)</option>
+						{MODALITY_ORDER.map((key) => (
+							<option value={key}>
+								{t.tipos[key]} ({modalityCounts[key] || 0})
+							</option>
 						))}
 					</select>
 				</label>
 
-				<label class="control-field">
-					<span>{t.filterStatusLabel}</span>
-					<select id="mapa-filter-status">
-						<option value="all">{t.filterAll}</option>
-						{Object.entries(t.status).map(([key, label]) => (
-							<option value={key}>{label}</option>
-						))}
-					</select>
-				</label>
-
-				<label class="control-checkbox">
-					<input id="mapa-toggle-carga" type="checkbox" checked />
-					<span>{t.toggleCargaLabel}</span>
-				</label>
+				<span class="operational-only-badge" title={isEn ? 'Non-operational systems remain preserved in the database' : 'Sistemas não operacionais permanecem preservados na base de dados'}>
+					🟢 {isEn ? 'Operational lines only' : 'Somente linhas em operação'}
+				</span>
 
 				<div class="control-actions">
 					<div class="proj-toggle-group" role="group" aria-label="Modo de visualização do mapa">
@@ -178,10 +217,30 @@ const payloadClient = JSON.stringify({
 				</div>
 			</div>
 
+			<div class="modality-pills-bar" role="group" aria-label={isEn ? 'Filter by 5 rail modalities' : 'Filtrar pelas 5 modalidades ferroviárias'}>
+				<span class="country-pills-label">{isEn ? '5 Modalities (in operation):' : '5 Modalidades (em operação):'}</span>
+				<button type="button" class="modality-pill-btn is-active" data-modality-jump="all">
+					<span>✨ {isEn ? 'All 5 Modalities' : 'Todas as 5 modalidades'}</span>
+					<strong>{sistemasOperacionais.length}</strong>
+				</button>
+				{MODALITY_ORDER.map((modKey) => (
+					<button
+						type="button"
+						class="modality-pill-btn"
+						data-modality-jump={modKey}
+						style={`--mod-color:${MODALITY_COLORS[modKey]}`}
+					>
+						<i class="modality-dot" style={`background:${MODALITY_COLORS[modKey]}`}></i>
+						<span>{t.tipos[modKey]}</span>
+						<strong>{modalityCounts[modKey] || 0}</strong>
+					</button>
+				))}
+			</div>
+
 			<div class="country-pills-bar" role="group" aria-label={isEn ? 'Jump to country' : 'Ir rápido para país'}>
 				<span class="country-pills-label">{isEn ? 'Countries mapped:' : 'Países no mapa:'}</span>
 				<button type="button" class="country-pill-btn is-active" data-country-jump="all">
-					🌎 {isEn ? 'World (All)' : 'Mundo (Todos)'} <strong>{sistemas.length}</strong>
+					🌎 {isEn ? 'World (All)' : 'Mundo (Todos)'} <strong>{sistemasOperacionais.length}</strong>
 				</button>
 				{activeCountries.map((paisKey) => {
 					const meta = COUNTRY_META[paisKey] || {
@@ -203,22 +262,30 @@ const payloadClient = JSON.stringify({
 		<div class="mapa-canvas-wrap">
 			<div id="maplibre-canvas" class="maplibre-canvas" role="application" aria-label={t.heroTitle}></div>
 
-			<div class="mapa-legend" aria-label="Legenda do mapa">
+			<div class="mapa-legend" aria-label="Legenda do mapa por modalidade">
 				<div class="legend-row">
-					{Object.entries(t.status).map(([stKey, stLabel]) => (
-						<span class="legend-item">
+					<span class="legend-kicker">
+						🟢 {isEn ? 'In operation — 5 Modalities:' : 'Em operação — 5 Modalidades:'}
+					</span>
+					{MODALITY_ORDER.map((modKey) => (
+						<button
+							type="button"
+							class="legend-item legend-modality-btn"
+							data-modality-jump={modKey}
+							title={isEn ? `Filter by ${t.tipos[modKey]}` : `Filtrar por ${t.tipos[modKey]}`}
+						>
 							<i
-								class={`legend-dot ${stKey === 'operacao' ? 'is-luminous' : ''}`}
-								style={`background:${STATUS_COLORS[stKey] || '#64748b'}`}
+								class="legend-dot is-luminous"
+								style={`background:${MODALITY_COLORS[modKey]}; --dot-glow:${MODALITY_COLORS[modKey]}`}
 							></i>
-							{stLabel}
-						</span>
+							{t.tipos[modKey]}
+						</button>
 					))}
 				</div>
 				<div class="legend-zoom-hint" id="mapa-zoom-hint">
 					{isEn
-						? 'Hover over any station or line to see its name · Click a system to highlight it and dim the others.'
-						: 'Passe o mouse nas estações e linhas para ver o nome · Clique num sistema para destacá-lo e apagar os demais.'}
+						? 'Showing operational lines only · Click any modality in the legend or filter bar to isolate it · Hover over stations for names.'
+						: 'Exibindo somente linhas em operação · Clique numa modalidade na barra ou legenda para isolá-la · Passe o mouse nas estações para ver o nome.'}
 				</div>
 			</div>
 		</div>
@@ -238,13 +305,13 @@ const payloadClient = JSON.stringify({
 	{isHome ? (
 		<details class="mapa-home-accordion">
 			<summary class="mapa-home-summary">
-				<span>📋 {t.directory.title} ({sistemas.length} sistemas · {activeCountries.length} países) e metodologia</span>
+				<span>📋 {t.directory.title} ({sistemasOperacionais.length} sistemas em operação · {activeCountries.length} países · 5 modalidades) e metodologia</span>
 				<a href="/mapa" class="mapa-home-full-link">Abrir página dedicada do Mapa →</a>
 			</summary>
 			<section class="mapa-directory" aria-labelledby="dir-heading">
 				<div class="dir-header">
 					<h2 id="dir-heading">{t.directory.title}</h2>
-					<p>{t.directory.subtitle}</p>
+					<p>{t.directory.subtitle} ({preservedNonOpCount} registros não operacionais permanecem preservados na base técnica fora da visualização).</p>
 				</div>
 
 				<div class="dir-table-wrap">
@@ -262,11 +329,11 @@ const payloadClient = JSON.stringify({
 							</tr>
 						</thead>
 						<tbody>
-							{sistemas.map((sys) => {
+							{sistemasOperacionais.map((sys) => {
 								const nome = isEn ? sys.nome_en : sys.nome_pt;
 								const tipoLabel = tiposMap[sys.tipo] || sys.tipo;
 								const statusLabel = statusMap[sys.status] || sys.status;
-								const stColor = STATUS_COLORS[sys.status] || '#64748b';
+								const modColor = MODALITY_COLORS[sys.tipo] || '#00b0ff';
 								const sheetBase = isEn ? '/mapa/en' : '/mapa';
 								const cMeta = COUNTRY_META[sys.pais] || { flag: '🌐' };
 								return (
@@ -280,9 +347,13 @@ const payloadClient = JSON.stringify({
 											)}
 										</td>
 										<td>{cMeta.flag} {sys.cidade} ({sys.uf})</td>
-										<td>{tipoLabel}</td>
 										<td>
-											<span class="status-pill" style={`--st-color:${stColor}`}>
+											<span class="status-pill" style={`--st-color:${modColor}`}>
+												{tipoLabel}
+											</span>
+										</td>
+										<td>
+											<span class="status-pill" style="--st-color:#00c853">
 												{statusLabel}
 											</span>
 										</td>
@@ -329,7 +400,7 @@ const payloadClient = JSON.stringify({
 			<section class="mapa-directory" aria-labelledby="dir-heading">
 				<div class="dir-header">
 					<h2 id="dir-heading">{t.directory.title}</h2>
-					<p>{t.directory.subtitle}</p>
+					<p>{t.directory.subtitle} ({preservedNonOpCount} {isEn ? 'non-operational records remain preserved in the database outside the active view' : 'registros não operacionais permanecem preservados na base técnica fora da visualização'}).</p>
 				</div>
 
 				<div class="dir-table-wrap">
@@ -347,11 +418,11 @@ const payloadClient = JSON.stringify({
 							</tr>
 						</thead>
 						<tbody>
-							{sistemas.map((sys) => {
+							{sistemasOperacionais.map((sys) => {
 								const nome = isEn ? sys.nome_en : sys.nome_pt;
 								const tipoLabel = tiposMap[sys.tipo] || sys.tipo;
 								const statusLabel = statusMap[sys.status] || sys.status;
-								const stColor = STATUS_COLORS[sys.status] || '#64748b';
+								const modColor = MODALITY_COLORS[sys.tipo] || '#00b0ff';
 								const sheetBase = isEn ? '/mapa/en' : '/mapa';
 								const cMeta = COUNTRY_META[sys.pais] || { flag: '🌐' };
 								return (
@@ -365,9 +436,13 @@ const payloadClient = JSON.stringify({
 											)}
 										</td>
 										<td>{cMeta.flag} {sys.cidade} ({sys.uf})</td>
-										<td>{tipoLabel}</td>
 										<td>
-											<span class="status-pill" style={`--st-color:${stColor}`}>
+											<span class="status-pill" style={`--st-color:${modColor}`}>
+												{tipoLabel}
+											</span>
+										</td>
+										<td>
+											<span class="status-pill" style="--st-color:#00c853">
 												{statusLabel}
 											</span>
 										</td>
@@ -440,6 +515,13 @@ const payloadClient = JSON.stringify({
 			fontes,
 			relatedBySystemId,
 			STATUS_COLORS,
+			MODALITY_COLORS = {
+				alta_velocidade: '#ff1744',
+				metro: '#00b0ff',
+				vlt: '#00e676',
+				trem_convencional: '#ff9100',
+				ferrovia_carga: '#aa00ff',
+			},
 			COUNTRY_META = {},
 		} = data;
 		const isEn = lang === 'en';
@@ -450,6 +532,7 @@ const payloadClient = JSON.stringify({
 		const urlParams = new URLSearchParams(window.location.search);
 		const initialSysSlug = urlParams.get('s') || urlParams.get('sistema');
 		const initialPais = urlParams.get('pais') || 'all';
+		const initialTipo = urlParams.get('tipo') || 'all';
 		const initialLat = parseFloat(urlParams.get('lat') || '');
 		const initialLon = parseFloat(urlParams.get('lon') || '');
 		const initialZoom = parseFloat(urlParams.get('z') || '');
@@ -475,8 +558,6 @@ const payloadClient = JSON.stringify({
 		const searchInput = document.getElementById('mapa-search-input') as HTMLInputElement | null;
 		const selectPais = document.getElementById('mapa-filter-pais') as HTMLSelectElement | null;
 		const selectTipo = document.getElementById('mapa-filter-tipo') as HTMLSelectElement | null;
-		const selectStatus = document.getElementById('mapa-filter-status') as HTMLSelectElement | null;
-		const toggleCarga = document.getElementById('mapa-toggle-carga') as HTMLInputElement | null;
 		const btnProjGlobe = document.getElementById('mapa-btn-proj-globe');
 		const btnProjFlat = document.getElementById('mapa-btn-proj-flat');
 		const btnWorld = document.getElementById('mapa-btn-world');
@@ -486,6 +567,13 @@ const payloadClient = JSON.stringify({
 		const drawerBody = document.getElementById('drawer-body');
 		const drawerBadges = document.getElementById('drawer-badges');
 		const drawerCloseBtn = document.getElementById('drawer-close-btn');
+
+		if (selectPais && initialPais !== 'all') {
+			selectPais.value = initialPais;
+		}
+		if (selectTipo && initialTipo !== 'all') {
+			selectTipo.value = initialTipo;
+		}
 
 		let activeSlug: string | null = initialSysSlug;
 		let currentProjection: 'globe' | 'mercator' =
@@ -693,7 +781,8 @@ const payloadClient = JSON.stringify({
 			const resumo = isEn ? sys.resumo_en : sys.resumo_pt;
 			const tipoLabel = t.tipos[sys.tipo] || sys.tipo;
 			const statusLabel = t.status[sys.status] || sys.status;
-			const stColor = STATUS_COLORS[sys.status] || '#64748b';
+			const stColor = STATUS_COLORS[sys.status] || '#00c853';
+			const modColor = MODALITY_COLORS[sys.tipo] || '#00b0ff';
 
 			const proxEntregas = sys.proximas_entregas
 				? typeof sys.proximas_entregas === 'object'
@@ -712,8 +801,8 @@ const payloadClient = JSON.stringify({
 			const hasApprox = sysLines.some((f: any) => f.properties?.geometria_aproximada);
 
 			drawerBadges.innerHTML = `
+				<span class="status-pill" style="--st-color:${modColor}">${escapeHtml(tipoLabel)}</span>
 				<span class="status-pill" style="--st-color:${stColor}">${escapeHtml(statusLabel)}</span>
-				<span class="tipo-pill">${escapeHtml(tipoLabel)}</span>
 				<span class="verify-pill ${sys.verificado_completo ? 'is-verified' : 'is-partial'}">
 					${escapeHtml(sys.verificado_completo ? t.drawer.verifiedBadge : t.drawer.partialBadge)}
 				</span>
@@ -898,18 +987,32 @@ const payloadClient = JSON.stringify({
 			openSystemDrawer(sistemasBySlug[initialSysSlug]);
 		}
 
+		// Mapeamento das modalidades presentes nas linhas de cada sistema (para operadores multimodais como Metrofor ou ViaMobilidade)
+		const modalitiesBySystemId: Record<string, Set<string>> = {};
+		for (const s of sistemas) {
+			modalitiesBySystemId[s.id] = new Set([s.tipo]);
+		}
+		for (const f of linhasGeojson.features || []) {
+			const sid = f.properties?.sistema_id;
+			const ltipo = f.properties?.tipo;
+			if (sid && ltipo) {
+				if (!modalitiesBySystemId[sid]) modalitiesBySystemId[sid] = new Set();
+				modalitiesBySystemId[sid].add(ltipo);
+			}
+		}
+
 		function getFilteredSistemas(): any[] {
 			const q = (searchInput?.value || '').trim().toLowerCase();
 			const pais = selectPais?.value || 'all';
 			const tipo = selectTipo?.value || 'all';
-			const status = selectStatus?.value || 'all';
-			const showCarga = toggleCarga ? toggleCarga.checked : true;
 
 			return sistemas.filter((s: any) => {
-				if (!showCarga && s.camada === 'carga_projetos') return false;
+				if (s.status !== 'operacao') return false;
 				if (pais !== 'all' && s.pais !== pais) return false;
-				if (tipo !== 'all' && s.tipo !== tipo) return false;
-				if (status !== 'all' && s.status !== status) return false;
+				if (tipo !== 'all') {
+					const sysMods = modalitiesBySystemId[s.id];
+					if (s.tipo !== tipo && (!sysMods || !sysMods.has(tipo))) return false;
+				}
 				if (q) {
 					const hay = `${s.nome_pt} ${s.nome_en} ${s.pais} ${s.cidade} ${s.uf} ${s.operador} ${(s.tags || []).join(' ')}`.toLowerCase();
 					if (!hay.includes(q)) return false;
@@ -922,6 +1025,13 @@ const payloadClient = JSON.stringify({
 			document.querySelectorAll<HTMLButtonElement>('[data-country-jump]').forEach((btn) => {
 				const key = btn.getAttribute('data-country-jump') || 'all';
 				btn.classList.toggle('is-active', key === selectedPais);
+			});
+		}
+
+		function syncModalityPills(selectedTipo: string) {
+			document.querySelectorAll<HTMLButtonElement>('[data-modality-jump]').forEach((btn) => {
+				const key = btn.getAttribute('data-modality-jump') || 'all';
+				btn.classList.toggle('is-active', key === selectedTipo);
 			});
 		}
 
@@ -948,33 +1058,42 @@ const payloadClient = JSON.stringify({
 		}
 
 		function buildSistemasGeojson(filteredList: any[]) {
+			const selectedTipo = selectTipo?.value || 'all';
 			return {
 				type: 'FeatureCollection',
-				features: filteredList.map((s: any) => ({
-					type: 'Feature',
-					properties: {
-						id: s.id,
-						slug: s.slug,
-						nome: isEn ? s.nome_en : s.nome_pt,
-						cidade: s.cidade,
-						uf: s.uf,
-						status: s.status,
-						status_label: t.status[s.status] || s.status,
-						tipo: s.tipo,
-						color: STATUS_COLORS[s.status] || '#64748b',
-						zoom_inicial: s.zoom_inicial || 11.5,
-					},
-					geometry: {
-						type: 'Point',
-						coordinates: [s.lon, s.lat],
-					},
-				})),
+				features: filteredList.map((s: any) => {
+					const effectiveTipo =
+						selectedTipo !== 'all' && modalitiesBySystemId[s.id]?.has(selectedTipo)
+							? selectedTipo
+							: s.tipo;
+					return {
+						type: 'Feature',
+						properties: {
+							id: s.id,
+							slug: s.slug,
+							nome: isEn ? s.nome_en : s.nome_pt,
+							cidade: s.cidade,
+							uf: s.uf,
+							status: s.status,
+							status_label: t.status[s.status] || s.status,
+							tipo: effectiveTipo,
+							tipo_label: t.tipos[effectiveTipo] || effectiveTipo,
+							color: MODALITY_COLORS[effectiveTipo] || '#00b0ff',
+							zoom_inicial: s.zoom_inicial || 11.5,
+						},
+						geometry: {
+							type: 'Point',
+							coordinates: [s.lon, s.lat],
+						},
+					};
+				}),
 			};
 		}
 
 		function applyFilters() {
 			const filtered = getFilteredSistemas();
 			const allowedIds = new Set(filtered.map((s: any) => s.id));
+			const selectedTipo = selectTipo?.value || 'all';
 
 			// Atualiza tabela acessível
 			document.querySelectorAll<HTMLElement>('[data-sys-row]').forEach((row) => {
@@ -982,7 +1101,7 @@ const payloadClient = JSON.stringify({
 				row.style.display = allowedIds.has(id) ? '' : 'none';
 			});
 
-			// Atualiza sources no MapLibre
+			// Atualiza sources no MapLibre (separando estritamente as 5 modalidades sem misturá-las)
 			if (!map) return;
 			const sysSrc = map.getSource('sistemas-points') as maplibregl.GeoJSONSource | undefined;
 			if (sysSrc) {
@@ -993,9 +1112,12 @@ const payloadClient = JSON.stringify({
 			if (linSrc) {
 				linSrc.setData({
 					type: 'FeatureCollection',
-					features: (linhasGeojson.features || []).filter((f: any) =>
-						allowedIds.has(f.properties?.sistema_id)
-					),
+					features: (linhasGeojson.features || []).filter((f: any) => {
+						if (f.properties?.status !== 'operacao') return false;
+						if (!allowedIds.has(f.properties?.sistema_id)) return false;
+						if (selectedTipo !== 'all' && f.properties?.tipo !== selectedTipo) return false;
+						return true;
+					}),
 				} as any);
 			}
 
@@ -1003,12 +1125,29 @@ const payloadClient = JSON.stringify({
 			if (estSrc) {
 				estSrc.setData({
 					type: 'FeatureCollection',
-					features: (estacoesGeojson.features || []).filter((f: any) =>
-						allowedIds.has(f.properties?.sistema_id)
+					features: (estacoesGeojson.features || []).filter(
+						(f: any) =>
+							f.properties?.status === 'operacao' && allowedIds.has(f.properties?.sistema_id)
 					),
 				} as any);
 			}
 		}
+
+		const modalityColorMatch: any = [
+			'match',
+			['get', 'tipo'],
+			'alta_velocidade',
+			MODALITY_COLORS.alta_velocidade,
+			'metro',
+			MODALITY_COLORS.metro,
+			'vlt',
+			MODALITY_COLORS.vlt,
+			'trem_convencional',
+			MODALITY_COLORS.trem_convencional,
+			'ferrovia_carga',
+			MODALITY_COLORS.ferrovia_carga,
+			'#00b0ff',
+		];
 
 		const openStyle: maplibregl.StyleSpecification = {
 			version: 8,
@@ -1055,49 +1194,6 @@ const payloadClient = JSON.stringify({
 					},
 				},
 				{
-					id: 'linhas-obras-casing',
-					type: 'line',
-					source: 'linhas-source',
-					filter: ['!=', ['get', 'status'], 'operacao'],
-					layout: {
-						'line-join': 'round',
-						'line-cap': 'round',
-					},
-					paint: {
-						'line-color': '#ffffff',
-						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 4.5, 9, 6.5, 13, 9.0],
-						'line-opacity': 0.85,
-					},
-				},
-				{
-					id: 'linhas-obras-projeto',
-					type: 'line',
-					source: 'linhas-source',
-					filter: ['!=', ['get', 'status'], 'operacao'],
-					layout: {
-						'line-join': 'round',
-						'line-cap': 'round',
-					},
-					paint: {
-						'line-color': [
-							'match',
-							['get', 'status'],
-							'obras',
-							STATUS_COLORS.obras,
-							'projeto',
-							STATUS_COLORS.projeto,
-							'paralisado',
-							STATUS_COLORS.paralisado,
-							'desativado',
-							STATUS_COLORS.desativado,
-							STATUS_COLORS.obras,
-						],
-						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 2.6, 9, 4.2, 13, 6.0],
-						'line-dasharray': [2, 1.6],
-						'line-opacity': 0.92,
-					},
-				},
-				{
 					id: 'linhas-operacao-glow',
 					type: 'line',
 					source: 'linhas-source',
@@ -1107,7 +1203,7 @@ const payloadClient = JSON.stringify({
 						'line-cap': 'round',
 					},
 					paint: {
-						'line-color': '#00e676',
+						'line-color': modalityColorMatch,
 						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 8, 9, 13, 13, 18],
 						'line-blur': 4.5,
 						'line-opacity': 0.65,
@@ -1123,7 +1219,7 @@ const payloadClient = JSON.stringify({
 						'line-cap': 'round',
 					},
 					paint: {
-						'line-color': '#064e3b',
+						'line-color': '#0f172a',
 						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 4.6, 9, 7.2, 13, 10.2],
 						'line-opacity': 0.95,
 					},
@@ -1138,7 +1234,7 @@ const payloadClient = JSON.stringify({
 						'line-cap': 'round',
 					},
 					paint: {
-						'line-color': STATUS_COLORS.operacao,
+						'line-color': modalityColorMatch,
 						'line-width': ['interpolate', ['linear'], ['zoom'], 3, 3.0, 9, 4.8, 13, 7.0],
 						'line-opacity': 1.0,
 					},
@@ -1163,21 +1259,7 @@ const payloadClient = JSON.stringify({
 						'circle-radius': ['interpolate', ['linear'], ['zoom'], 5.5, 3.6, 9, 5.2, 13, 7.2],
 						'circle-color': '#ffffff',
 						'circle-stroke-width': ['interpolate', ['linear'], ['zoom'], 5.5, 2.0, 12, 2.8],
-						'circle-stroke-color': [
-							'match',
-							['get', 'status'],
-							'operacao',
-							'#059669',
-							'obras',
-							STATUS_COLORS.obras,
-							'projeto',
-							STATUS_COLORS.projeto,
-							'paralisado',
-							STATUS_COLORS.paralisado,
-							'desativado',
-							STATUS_COLORS.desativado,
-							'#059669',
-						],
+						'circle-stroke-color': '#0f172a',
 						'circle-opacity': 0.98,
 						'circle-stroke-opacity': 0.98,
 					},
@@ -1189,7 +1271,7 @@ const payloadClient = JSON.stringify({
 					filter: ['==', ['get', 'status'], 'operacao'],
 					paint: {
 						'circle-radius': ['interpolate', ['linear'], ['zoom'], 2, 13, 6, 16, 12, 12],
-						'circle-color': '#34d399',
+						'circle-color': ['get', 'color'],
 						'circle-blur': 0.65,
 						'circle-opacity': 0.65,
 					},
@@ -1204,16 +1286,16 @@ const payloadClient = JSON.stringify({
 							['linear'],
 							['zoom'],
 							2,
-							['case', ['==', ['get', 'status'], 'operacao'], 7.8, 6.4],
+							7.8,
 							7,
-							['case', ['==', ['get', 'status'], 'operacao'], 9.8, 8.0],
+							9.8,
 							12,
-							['case', ['==', ['get', 'status'], 'operacao'], 7.0, 5.8],
+							7.0,
 						],
 						'circle-color': ['get', 'color'],
-						'circle-stroke-width': ['case', ['==', ['get', 'status'], 'operacao'], 2.8, 2.2],
+						'circle-stroke-width': 2.8,
 						'circle-stroke-color': '#ffffff',
-						'circle-opacity': ['case', ['==', ['get', 'status'], 'operacao'], 1.0, 0.84],
+						'circle-opacity': 1.0,
 					},
 				},
 			],
@@ -1251,12 +1333,13 @@ const payloadClient = JSON.stringify({
 				if (!feat || !hoverPopup) return;
 				const props = feat.properties || {};
 				const coords = (feat.geometry as any).coordinates.slice();
+				const sysObj = sistemasById[props.sistema_id];
 				const sysNome = isEn
-					? props.sistema_nome_en || sistemasById[props.sistema_id]?.nome_en || ''
-					: props.sistema_nome_pt || sistemasById[props.sistema_id]?.nome_pt || '';
-				const stKey = props.status || 'operacao';
-				const stLabel = t.status[stKey] || stKey;
-				const stColor = STATUS_COLORS[stKey] || '#10b981';
+					? props.sistema_nome_en || sysObj?.nome_en || ''
+					: props.sistema_nome_pt || sysObj?.nome_pt || '';
+				const modKey = sysObj?.tipo || 'metro';
+				const modLabel = t.tipos[modKey] || modKey;
+				const modColor = MODALITY_COLORS[modKey] || '#00b0ff';
 
 				hoverPopup
 					.setLngLat(coords)
@@ -1265,8 +1348,8 @@ const payloadClient = JSON.stringify({
 							<div class="hover-title">🚉 ${escapeHtml(props.nome)}</div>
 							${props.linha ? `<div class="hover-sub">${escapeHtml(props.linha)}</div>` : ''}
 							<div class="hover-meta">
-								<span class="hover-dot" style="background:${stColor}"></span>
-								<span>${escapeHtml(sysNome)} · ${escapeHtml(stLabel)}</span>
+								<span class="hover-dot" style="background:${modColor}"></span>
+								<span>${escapeHtml(sysNome)} · ${escapeHtml(modLabel)}</span>
 							</div>
 						</div>`
 					)
@@ -1274,6 +1357,11 @@ const payloadClient = JSON.stringify({
 			};
 
 			map.on('load', () => {
+				if (initialPais !== 'all' || initialTipo !== 'all') {
+					syncCountryPills(initialPais);
+					syncModalityPills(initialTipo);
+					applyFilters();
+				}
 				if (activeSysId) {
 					applySystemHighlight(activeSysId);
 					const firstSt = (estacoesGeojson.features || []).find(
@@ -1288,7 +1376,6 @@ const payloadClient = JSON.stringify({
 			const clickableLayers = [
 				'sistemas-circles',
 				'linhas-operacao',
-				'linhas-obras-projeto',
 				'estacoes-hit-area',
 				'estacoes-points',
 			];
@@ -1326,7 +1413,8 @@ const payloadClient = JSON.stringify({
 				if (!feat || !hoverPopup) return;
 				const props = feat.properties || {};
 				const coords = (feat.geometry as any).coordinates.slice();
-				const stColor = props.color || STATUS_COLORS[props.status] || '#10b981';
+				const modColor = props.color || MODALITY_COLORS[props.tipo] || '#00b0ff';
+				const modLabel = props.tipo_label || t.tipos[props.tipo] || props.tipo;
 
 				hoverPopup
 					.setLngLat(coords)
@@ -1335,8 +1423,8 @@ const payloadClient = JSON.stringify({
 							<div class="hover-title">${escapeHtml(props.nome)}</div>
 							<div class="hover-sub">${escapeHtml(props.cidade)} (${escapeHtml(props.uf)})</div>
 							<div class="hover-meta">
-								<span class="hover-dot" style="background:${stColor}"></span>
-								<span>${escapeHtml(props.status_label || props.status)}</span>
+								<span class="hover-dot" style="background:${modColor}"></span>
+								<span>${escapeHtml(modLabel)} · ${escapeHtml(props.status_label || props.status)}</span>
 							</div>
 						</div>`
 					)
@@ -1356,12 +1444,13 @@ const payloadClient = JSON.stringify({
 				const feat = e.features?.[0];
 				if (!feat || !hoverPopup) return;
 				const props = feat.properties || {};
+				const sysObj = sistemasById[props.sistema_id];
 				const sysNome = isEn
-					? props.sistema_nome_en || sistemasById[props.sistema_id]?.nome_en || ''
-					: props.sistema_nome_pt || sistemasById[props.sistema_id]?.nome_pt || '';
-				const stKey = props.status || 'operacao';
-				const stLabel = t.status[stKey] || stKey;
-				const stColor = STATUS_COLORS[stKey] || '#10b981';
+					? props.sistema_nome_en || sysObj?.nome_en || ''
+					: props.sistema_nome_pt || sysObj?.nome_pt || '';
+				const modKey = props.tipo || sysObj?.tipo || 'metro';
+				const modLabel = t.tipos[modKey] || modKey;
+				const modColor = MODALITY_COLORS[modKey] || '#00b0ff';
 
 				hoverPopup
 					.setLngLat(e.lngLat)
@@ -1369,8 +1458,8 @@ const payloadClient = JSON.stringify({
 						`<div class="hover-card">
 							<div class="hover-title">🚆 ${escapeHtml(props.linha || sysNome)}</div>
 							<div class="hover-meta">
-								<span class="hover-dot" style="background:${stColor}"></span>
-								<span>${escapeHtml(sysNome)} · ${escapeHtml(stLabel)}</span>
+								<span class="hover-dot" style="background:${modColor}"></span>
+								<span>${escapeHtml(sysNome)} · ${escapeHtml(modLabel)}</span>
 							</div>
 						</div>`
 					)
@@ -1378,9 +1467,7 @@ const payloadClient = JSON.stringify({
 			};
 
 			map.on('mousemove', 'linhas-operacao', handleLineHover);
-			map.on('mousemove', 'linhas-obras-projeto', handleLineHover);
 			map.on('mouseleave', 'linhas-operacao', () => hoverPopup?.remove());
-			map.on('mouseleave', 'linhas-obras-projeto', () => hoverPopup?.remove());
 
 			// Clique em qualquer sistema, linha ou estação: destaca o sistema clicado e apaga os demais
 			map.on('click', 'sistemas-circles', (e: any) => {
@@ -1399,12 +1486,6 @@ const payloadClient = JSON.stringify({
 			});
 
 			map.on('click', 'linhas-operacao', (e: any) => {
-				const feat = e.features?.[0];
-				const sys = sistemasById[feat?.properties?.sistema_id];
-				if (sys) openSystemDrawer(sys);
-			});
-
-			map.on('click', 'linhas-obras-projeto', (e: any) => {
 				const feat = e.features?.[0];
 				const sys = sistemasById[feat?.properties?.sistema_id];
 				if (sys) openSystemDrawer(sys);
@@ -1442,9 +1523,11 @@ const payloadClient = JSON.stringify({
 			applyFilters();
 			flyToCountry(chosen);
 		});
-		selectTipo?.addEventListener('change', applyFilters);
-		selectStatus?.addEventListener('change', applyFilters);
-		toggleCarga?.addEventListener('change', applyFilters);
+		selectTipo?.addEventListener('change', () => {
+			const chosenTipo = selectTipo.value || 'all';
+			syncModalityPills(chosenTipo);
+			applyFilters();
+		});
 
 		document.querySelectorAll<HTMLButtonElement>('[data-country-jump]').forEach((btn) => {
 			btn.addEventListener('click', () => {
@@ -1455,6 +1538,19 @@ const payloadClient = JSON.stringify({
 				syncCountryPills(key);
 				applyFilters();
 				flyToCountry(key);
+			});
+		});
+
+		document.querySelectorAll<HTMLButtonElement>('[data-modality-jump]').forEach((btn) => {
+			btn.addEventListener('click', () => {
+				const key = btn.getAttribute('data-modality-jump') || 'all';
+				const currentVal = selectTipo?.value || 'all';
+				const nextVal = key !== 'all' && currentVal === key ? 'all' : key;
+				if (selectTipo) {
+					selectTipo.value = nextVal;
+				}
+				syncModalityPills(nextVal);
+				applyFilters();
 			});
 		});
 
@@ -1650,6 +1746,20 @@ const payloadClient = JSON.stringify({
 		font-size: 0.88rem;
 	}
 
+	.operational-only-badge {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.3rem;
+		padding: 0.35rem 0.7rem;
+		border-radius: 999px;
+		background: #ecfdf5;
+		border: 1px solid #10b981;
+		color: #065f46;
+		font-size: 0.8rem;
+		font-weight: 700;
+	}
+
+	.modality-pills-bar,
 	.country-pills-bar {
 		display: flex;
 		flex-wrap: wrap;
@@ -1666,6 +1776,7 @@ const payloadClient = JSON.stringify({
 		margin-right: 0.2rem;
 	}
 
+	.modality-pill-btn,
 	.country-pill-btn {
 		display: inline-flex;
 		align-items: center;
@@ -1681,6 +1792,16 @@ const payloadClient = JSON.stringify({
 		transition: all 0.15s ease;
 	}
 
+	.modality-dot {
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		display: inline-block;
+		flex-shrink: 0;
+		box-shadow: 0 0 6px var(--mod-color, #00b0ff);
+	}
+
+	.modality-pill-btn strong,
 	.country-pill-btn strong {
 		font-size: 0.74rem;
 		padding: 0.08rem 0.38rem;
@@ -1689,20 +1810,23 @@ const payloadClient = JSON.stringify({
 		color: #0f172a;
 	}
 
+	.modality-pill-btn:hover,
 	.country-pill-btn:hover {
-		border-color: #00c853;
-		background: #ecfdf5;
+		border-color: #0f172a;
+		background: #f1f5f9;
 	}
 
+	.modality-pill-btn.is-active,
 	.country-pill-btn.is-active {
 		background: #0f172a;
 		border-color: #0f172a;
 		color: #ffffff;
 	}
 
+	.modality-pill-btn.is-active strong,
 	.country-pill-btn.is-active strong {
-		background: #00c853;
-		color: #052e16;
+		background: var(--mod-color, #00e676);
+		color: #ffffff;
 	}
 
 	.control-checkbox {
@@ -1801,16 +1925,45 @@ const payloadClient = JSON.stringify({
 	.legend-row {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 0.65rem;
-		margin-bottom: 0.25rem;
+		align-items: center;
+		gap: 0.55rem;
+		margin-bottom: 0.3rem;
+	}
+
+	.legend-kicker {
+		font-weight: 800;
+		color: #065f46;
+		font-size: 0.78rem;
+		margin-right: 0.2rem;
 	}
 
 	.legend-item {
 		display: inline-flex;
 		align-items: center;
-		gap: 0.3rem;
-		font-weight: 600;
-		color: #1e293b;
+		gap: 0.32rem;
+		font-weight: 700;
+		color: #0f172a;
+	}
+
+	.legend-modality-btn {
+		border: 1px solid #cbd5e1;
+		background: #f8fafc;
+		padding: 0.2rem 0.55rem;
+		border-radius: 999px;
+		font-size: 0.76rem;
+		cursor: pointer;
+		transition: all 0.15s ease;
+	}
+
+	.legend-modality-btn:hover {
+		border-color: #0f172a;
+		background: #e2e8f0;
+	}
+
+	.legend-modality-btn.is-active {
+		background: #0f172a;
+		border-color: #0f172a;
+		color: #ffffff;
 	}
 
 	.legend-dot {
@@ -1821,7 +1974,7 @@ const payloadClient = JSON.stringify({
 	}
 
 	.legend-dot.is-luminous {
-		box-shadow: 0 0 8px 2px rgba(16, 185, 129, 0.75);
+		box-shadow: 0 0 7px 1px var(--dot-glow, rgba(16, 185, 129, 0.75));
 	}
 
 	:global(.mapa-hover-tooltip .maplibregl-popup-content) {
