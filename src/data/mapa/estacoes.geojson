@@ -9894,6 +9894,195 @@
           -32.747
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-santiago-chile",
+        "nome": "Baquedano (Metrô de Santiago — Linhas 1 e 5)",
+        "linha": "Linhas 1 e 5",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas 1 e 5"
+        ],
+        "sistema_nome_pt": "Metrô de Santiago (Linhas 1, 2, 3, 4, 4A, 5 e 6 — Maior Rede da América do Sul)",
+        "sistema_nome_en": "Santiago Metro (Lines 1, 2, 3, 4, 4A, 5 & 6 — Largest Metro Network in South America)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.634,
+          -33.437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-santiago-chile",
+        "nome": "Tobalaba (Metrô de Santiago — Linhas 1 e 4)",
+        "linha": "Linhas 1 e 4",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas 1 e 4"
+        ],
+        "sistema_nome_pt": "Metrô de Santiago (Linhas 1, 2, 3, 4, 4A, 5 e 6 — Maior Rede da América do Sul)",
+        "sistema_nome_en": "Santiago Metro (Lines 1, 2, 3, 4, 4A, 5 & 6 — Largest Metro Network in South America)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.601,
+          -33.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "efe-tren-chillan-alta-velocidade-chile",
+        "nome": "Estación Central de Santiago (Terminal EFE / Linha 1 do Metrô)",
+        "linha": "EFE Santiago–Chillán / Tren Nos",
+        "status": "operacao",
+        "integracoes": [
+          "EFE Santiago–Chillán / Tren Nos"
+        ],
+        "sistema_nome_pt": "EFE Tren Santiago–Chillán (Trem Mais Rápido da América do Sul — 160 km/h)",
+        "sistema_nome_en": "EFE Santiago–Chillán Fast Rail (Fastest Operational Train in South America — 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.679,
+          -33.452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "efe-tren-chillan-alta-velocidade-chile",
+        "nome": "Estación Chillán (Terminal do Trem Rápido 160 km/h da EFE)",
+        "linha": "EFE Santiago–Chillán",
+        "status": "operacao",
+        "integracoes": [
+          "EFE Santiago–Chillán"
+        ],
+        "sistema_nome_pt": "EFE Tren Santiago–Chillán (Trem Mais Rápido da América do Sul — 160 km/h)",
+        "sistema_nome_en": "EFE Santiago–Chillán Fast Rail (Fastest Operational Train in South America — 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.111,
+          -36.606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "efe-trens-suburbanos-nos-valparaiso-biotren-chile",
+        "nome": "Estación Puerto — Valparaíso (Terminal Tren Limache–Puerto e Ascensor El Peral)",
+        "linha": "Tren Limache–Puerto",
+        "status": "operacao",
+        "integracoes": [
+          "Tren Limache–Puerto"
+        ],
+        "sistema_nome_pt": "Trens Suburbanos e Regionais do Chile (EFE Tren Nos, Limache–Puerto Valparaíso, Biotrén Concepción, Victoria–Temuco e Talca–Constitución)",
+        "sistema_nome_en": "Chilean Commuter & Regional Rail (EFE Tren Nos, Valparaíso Limache–Puerto, Concepción Biotrén, Victoria–Temuco & Talca–Constitución)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.629,
+          -33.037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "efe-trens-suburbanos-nos-valparaiso-biotren-chile",
+        "nome": "Estación Viña del Mar (Subterrânea — Tren Limache–Puerto)",
+        "linha": "Tren Limache–Puerto",
+        "status": "operacao",
+        "integracoes": [
+          "Tren Limache–Puerto"
+        ],
+        "sistema_nome_pt": "Trens Suburbanos e Regionais do Chile (EFE Tren Nos, Limache–Puerto Valparaíso, Biotrén Concepción, Victoria–Temuco e Talca–Constitución)",
+        "sistema_nome_en": "Chilean Commuter & Regional Rail (EFE Tren Nos, Valparaíso Limache–Puerto, Concepción Biotrén, Victoria–Temuco & Talca–Constitución)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.552,
+          -33.025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "efe-trens-suburbanos-nos-valparaiso-biotren-chile",
+        "nome": "Estación Concepción (Hub Central do Biotrén L1 e L2)",
+        "linha": "Biotrén Linhas 1 e 2",
+        "status": "operacao",
+        "integracoes": [
+          "Biotrén Linhas 1 e 2"
+        ],
+        "sistema_nome_pt": "Trens Suburbanos e Regionais do Chile (EFE Tren Nos, Limache–Puerto Valparaíso, Biotrén Concepción, Victoria–Temuco e Talca–Constitución)",
+        "sistema_nome_en": "Chilean Commuter & Regional Rail (EFE Tren Nos, Valparaíso Limache–Puerto, Concepción Biotrén, Victoria–Temuco & Talca–Constitución)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.062,
+          -36.829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-fcab-ferronor-fepasa-cobre-litio-chile",
+        "nome": "Pátio e Porto Ferroviário de Antofagasta (FCAB — Cobre e Lítio do Atacama)",
+        "linha": "FCAB Atacama",
+        "status": "operacao",
+        "integracoes": [
+          "FCAB Atacama"
+        ],
+        "sistema_nome_pt": "Ferrovias de Mineração (Cobre e Lítio no Atacama — FCAB e Ferronor) e Carga Centro-Sul (FEPASA e TRANSAP)",
+        "sistema_nome_en": "Chilean Mining Railways (Atacama Copper & Lithium — FCAB & Ferronor) and South-Central Freight (FEPASA & TRANSAP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.398,
+          -23.651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-fcab-ferronor-fepasa-cobre-litio-chile",
+        "nome": "Terminal Ferroviário do Porto de San Antonio (FEPASA)",
+        "linha": "Corredor Santiago–San Antonio",
+        "status": "operacao",
+        "integracoes": [
+          "Corredor Santiago–San Antonio"
+        ],
+        "sistema_nome_pt": "Ferrovias de Mineração (Cobre e Lítio no Atacama — FCAB e Ferronor) e Carga Centro-Sul (FEPASA e TRANSAP)",
+        "sistema_nome_en": "Chilean Mining Railways (Atacama Copper & Lithium — FCAB & Ferronor) and South-Central Freight (FEPASA & TRANSAP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.615,
+          -33.593
+        ]
+      }
     }
   ]
 }
