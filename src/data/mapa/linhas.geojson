@@ -14770,6 +14770,320 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "al-boraq-tav-tanger-rabat-casablanca-marrocos",
+        "linha": "LGV Al Boraq: Tânger-Ville – Kenitra (320 km/h) – Rabat-Agdal – Casablanca-Voyageurs",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Al Boraq — Trem de Alta Velocidade Tânger–Kenitra–Rabat–Casablanca (320 km/h)",
+        "sistema_nome_en": "Al Boraq — Tangier–Kenitra–Rabat–Casablanca High-Speed Rail (320 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.7865,
+            35.7768
+          ],
+          [
+            -5.915,
+            35.56
+          ],
+          [
+            -6.005,
+            35.19
+          ],
+          [
+            -6.26,
+            34.65
+          ],
+          [
+            -6.5783,
+            34.2541
+          ],
+          [
+            -6.813,
+            34.041
+          ],
+          [
+            -6.8555,
+            34.0018
+          ],
+          [
+            -7.386,
+            33.695
+          ],
+          [
+            -7.5898,
+            33.5898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-casablanca-rabat-sale-marrocos",
+        "linha": "Casa Tramway T1/T2/T3/T4 (Sidi Moumen – Lissasfa / Ain Diab – Bernoussi / Casa-Port – Parc de la Ligue Arabe)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs de Casablanca (Casa Tramway T1–T4) e Rabat–Salé (L1–L2)",
+        "sistema_nome_en": "Casablanca (Casa Tramway T1–T4) & Rabat–Salé (L1–L2) Light Rail Networks",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.669,
+            33.539
+          ],
+          [
+            -7.632,
+            33.562
+          ],
+          [
+            -7.6192,
+            33.5951
+          ],
+          [
+            -7.5898,
+            33.5898
+          ],
+          [
+            -7.531,
+            33.578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-casablanca-rabat-sale-marrocos",
+        "linha": "Tramway de Rabat–Salé L1 & L2 (Madinat Al Irfane – Rabat-Ville – Ponte Hassan II – Salé Karima / Hôpital Moulay Abdellah)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs de Casablanca (Casa Tramway T1–T4) e Rabat–Salé (L1–L2)",
+        "sistema_nome_en": "Casablanca (Casa Tramway T1–T4) & Rabat–Salé (L1–L2) Light Rail Networks",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.8665,
+            33.982
+          ],
+          [
+            -6.8555,
+            34.0018
+          ],
+          [
+            -6.835,
+            34.0165
+          ],
+          [
+            -6.824,
+            34.028
+          ],
+          [
+            -6.798,
+            34.051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oncf-tnr-al-bidaoui-casablanca-rabat-aeroporto-marrocos",
+        "linha": "TNR Al Bidaoui & Eixo Metropolitano: Kenitra – Rabat-Ville – Mohammedia – Casa-Port – Casa-Voyageurs – Aeroporto Mohammed V – El Jadida",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trens Metropolitanos TNR (Al Bidaoui Aeroporto Mohammed V & Eixo Casa-Port–Rabat–Kenitra)",
+        "sistema_nome_en": "TNR Commuter Rail (Al Bidaoui Mohammed V Airport & Casa-Port–Rabat–Kenitra)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.5783,
+            34.2541
+          ],
+          [
+            -6.835,
+            34.0165
+          ],
+          [
+            -7.386,
+            33.695
+          ],
+          [
+            -7.6128,
+            33.5992
+          ],
+          [
+            -7.5898,
+            33.5898
+          ],
+          [
+            -7.5875,
+            33.3708
+          ],
+          [
+            -8.5007,
+            33.2316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oncf-trens-al-atlas-casablanca-marrakech-fez-oujda-marrocos",
+        "linha": "Tronco Nacional ONCF Al Atlas: Marrakech – Benguerir – Settat – Casablanca – Rabat – Meknès – Fez – Taza – Taourirt – Oujda / Nador",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Rede Nacional ONCF Al Atlas (Casablanca–Marrakech e Rabat–Meknès–Fez–Oujda–Nador)",
+        "sistema_nome_en": "ONCF Al Atlas Intercity Rail (Casablanca–Marrakesh & Rabat–Meknes–Fez–Oujda–Nador)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.0174,
+            31.6305
+          ],
+          [
+            -7.954,
+            32.235
+          ],
+          [
+            -7.6167,
+            33.001
+          ],
+          [
+            -7.5898,
+            33.5898
+          ],
+          [
+            -6.8555,
+            34.0018
+          ],
+          [
+            -6.5783,
+            34.2541
+          ],
+          [
+            -5.92,
+            34.26
+          ],
+          [
+            -5.5422,
+            33.8969
+          ],
+          [
+            -4.9998,
+            34.0471
+          ],
+          [
+            -4.01,
+            34.21
+          ],
+          [
+            -2.8936,
+            34.4073
+          ],
+          [
+            -1.9125,
+            34.6814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-fosfato-ocp-khouribga-jorf-lasfar-tanger-med-marrocos",
+        "linha": "Corredor Heavy-Haul de Fosfato OCP: Oued Zem – Khouribga – Berrechid – Casablanca / Porto de Jorf Lasfar",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores de Carga e Fosfato ONCF/OCP (Khouribga–Casablanca/Jorf Lasfar, Benguerir–Safi e Tanger Med)",
+        "sistema_nome_en": "ONCF/OCP Phosphate & Freight Corridors (Khouribga–Jorf Lasfar, Benguerir–Safi & Tanger Med)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.5656,
+            32.8627
+          ],
+          [
+            -6.9063,
+            32.8811
+          ],
+          [
+            -7.5811,
+            33.2655
+          ],
+          [
+            -7.5898,
+            33.5898
+          ],
+          [
+            -8.5007,
+            33.2316
+          ],
+          [
+            -8.6317,
+            33.1165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-fosfato-ocp-khouribga-jorf-lasfar-tanger-med-marrocos",
+        "linha": "Corredor Sul de Fosfato OCP & Ramal Tanger Med: Benguerir – Youssoufia – Porto de Safi",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores de Carga e Fosfato ONCF/OCP (Khouribga–Casablanca/Jorf Lasfar, Benguerir–Safi e Tanger Med)",
+        "sistema_nome_en": "ONCF/OCP Phosphate & Freight Corridors (Khouribga–Jorf Lasfar, Benguerir–Safi & Tanger Med)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.954,
+            32.235
+          ],
+          [
+            -8.5294,
+            32.2464
+          ],
+          [
+            -9.24,
+            32.2994
+          ]
+        ]
+      }
     }
   ]
 }

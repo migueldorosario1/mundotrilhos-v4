@@ -10713,6 +10713,255 @@
           54.315
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "al-boraq-tav-tanger-rabat-casablanca-marrocos",
+        "nome": "Tanger-Ville (Terminal TAV Al Boraq)",
+        "linha": "LGV Al Boraq",
+        "status": "operacao",
+        "integracoes": [
+          "Al Boraq 320 km/h",
+          "Al Atlas",
+          "Porto de Tânger"
+        ],
+        "sistema_nome_pt": "Al Boraq — Trem de Alta Velocidade Tânger–Kenitra–Rabat–Casablanca (320 km/h)",
+        "sistema_nome_en": "Al Boraq — Tangier–Kenitra–Rabat–Casablanca High-Speed Rail (320 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7865,
+          35.7768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "al-boraq-tav-tanger-rabat-casablanca-marrocos",
+        "nome": "Kenitra (Conexão LGV Al Boraq)",
+        "linha": "LGV Al Boraq",
+        "status": "operacao",
+        "integracoes": [
+          "Al Boraq",
+          "TNR",
+          "Al Atlas"
+        ],
+        "sistema_nome_pt": "Al Boraq — Trem de Alta Velocidade Tânger–Kenitra–Rabat–Casablanca (320 km/h)",
+        "sistema_nome_en": "Al Boraq — Tangier–Kenitra–Rabat–Casablanca High-Speed Rail (320 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5783,
+          34.2541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "al-boraq-tav-tanger-rabat-casablanca-marrocos",
+        "nome": "Rabat-Agdal (Estação TAV da Capital)",
+        "linha": "LGV Al Boraq",
+        "status": "operacao",
+        "integracoes": [
+          "Al Boraq 320 km/h",
+          "TNR",
+          "Tramway de Rabat–Salé"
+        ],
+        "sistema_nome_pt": "Al Boraq — Trem de Alta Velocidade Tânger–Kenitra–Rabat–Casablanca (320 km/h)",
+        "sistema_nome_en": "Al Boraq — Tangier–Kenitra–Rabat–Casablanca High-Speed Rail (320 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8555,
+          34.0018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "al-boraq-tav-tanger-rabat-casablanca-marrocos",
+        "nome": "Casa-Voyageurs (Hub Nacional de Casablanca)",
+        "linha": "LGV Al Boraq",
+        "status": "operacao",
+        "integracoes": [
+          "Al Boraq 320 km/h",
+          "Casa Tramway T1",
+          "TNR Aeroporto",
+          "Al Atlas"
+        ],
+        "sistema_nome_pt": "Al Boraq — Trem de Alta Velocidade Tânger–Kenitra–Rabat–Casablanca (320 km/h)",
+        "sistema_nome_en": "Al Boraq — Tangier–Kenitra–Rabat–Casablanca High-Speed Rail (320 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5898,
+          33.5898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-casablanca-rabat-sale-marrocos",
+        "nome": "Place des Nations Unies / Casa-Port (Casa Tramway)",
+        "linha": "Casa Tramway T1/T3",
+        "status": "operacao",
+        "integracoes": [
+          "Casa Tramway T1",
+          "Casa Tramway T3",
+          "Gare de Casa-Port"
+        ],
+        "sistema_nome_pt": "VLTs de Casablanca (Casa Tramway T1–T4) e Rabat–Salé (L1–L2)",
+        "sistema_nome_en": "Casablanca (Casa Tramway T1–T4) & Rabat–Salé (L1–L2) Light Rail Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6192,
+          33.5951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-casablanca-rabat-sale-marrocos",
+        "nome": "Rabat-Ville / Bab El Had (Tramway Rabat–Salé)",
+        "linha": "Tramway L1/L2",
+        "status": "operacao",
+        "integracoes": [
+          "Tramway L1/L2",
+          "Gare de Rabat-Ville ONCF"
+        ],
+        "sistema_nome_pt": "VLTs de Casablanca (Casa Tramway T1–T4) e Rabat–Salé (L1–L2)",
+        "sistema_nome_en": "Casablanca (Casa Tramway T1–T4) & Rabat–Salé (L1–L2) Light Rail Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.835,
+          34.0165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oncf-tnr-al-bidaoui-casablanca-rabat-aeroporto-marrocos",
+        "nome": "Casa-Port (Terminal Metropolitano TNR)",
+        "linha": "TNR Casablanca–Rabat–Kenitra",
+        "status": "operacao",
+        "integracoes": [
+          "TNR",
+          "Casa Tramway T3",
+          "Porto de Casablanca"
+        ],
+        "sistema_nome_pt": "Trens Metropolitanos TNR (Al Bidaoui Aeroporto Mohammed V & Eixo Casa-Port–Rabat–Kenitra)",
+        "sistema_nome_en": "TNR Commuter Rail (Al Bidaoui Mohammed V Airport & Casa-Port–Rabat–Kenitra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6128,
+          33.5992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oncf-tnr-al-bidaoui-casablanca-rabat-aeroporto-marrocos",
+        "nome": "Aéroport Mohammed V (Estação Subterrânea ONCF)",
+        "linha": "TNR Al Bidaoui",
+        "status": "operacao",
+        "integracoes": [
+          "TNR Al Bidaoui",
+          "Terminal 1 & 2 Aeroporto Internacional"
+        ],
+        "sistema_nome_pt": "Trens Metropolitanos TNR (Al Bidaoui Aeroporto Mohammed V & Eixo Casa-Port–Rabat–Kenitra)",
+        "sistema_nome_en": "TNR Commuter Rail (Al Bidaoui Mohammed V Airport & Casa-Port–Rabat–Kenitra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5875,
+          33.3708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oncf-trens-al-atlas-casablanca-marrakech-fez-oujda-marrocos",
+        "nome": "Gare de Marrakech (Terminal Sul Al Atlas)",
+        "linha": "Al Atlas Casablanca–Marrakech",
+        "status": "operacao",
+        "integracoes": [
+          "Al Atlas",
+          "BRT Marrakech"
+        ],
+        "sistema_nome_pt": "Rede Nacional ONCF Al Atlas (Casablanca–Marrakech e Rabat–Meknès–Fez–Oujda–Nador)",
+        "sistema_nome_en": "ONCF Al Atlas Intercity Rail (Casablanca–Marrakesh & Rabat–Meknes–Fez–Oujda–Nador)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0174,
+          31.6305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oncf-trens-al-atlas-casablanca-marrakech-fez-oujda-marrocos",
+        "nome": "Gare de Fès-Ville (Hub Leste Al Atlas)",
+        "linha": "Al Atlas Rabat–Fez–Oujda",
+        "status": "operacao",
+        "integracoes": [
+          "Al Atlas",
+          "ONCF Leste"
+        ],
+        "sistema_nome_pt": "Rede Nacional ONCF Al Atlas (Casablanca–Marrakech e Rabat–Meknès–Fez–Oujda–Nador)",
+        "sistema_nome_en": "ONCF Al Atlas Intercity Rail (Casablanca–Marrakesh & Rabat–Meknes–Fez–Oujda–Nador)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9998,
+          34.0471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-fosfato-ocp-khouribga-jorf-lasfar-tanger-med-marrocos",
+        "nome": "Complexo Minerador OCP Khouribga",
+        "linha": "Corredor de Fosfato Khouribga–Jorf Lasfar",
+        "status": "operacao",
+        "integracoes": [
+          "OCP Phosphate Rail",
+          "ONCF Fret"
+        ],
+        "sistema_nome_pt": "Corredores de Carga e Fosfato ONCF/OCP (Khouribga–Casablanca/Jorf Lasfar, Benguerir–Safi e Tanger Med)",
+        "sistema_nome_en": "ONCF/OCP Phosphate & Freight Corridors (Khouribga–Jorf Lasfar, Benguerir–Safi & Tanger Med)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9063,
+          32.8811
+        ]
+      }
     }
   ]
 }

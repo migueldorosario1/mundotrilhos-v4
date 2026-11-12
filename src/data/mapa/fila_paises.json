@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T17:45:00-03:00",
+  "atualizado_em": "2026-11-12T18:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -120,26 +120,39 @@
       "bandeira": "🇨🇦",
       "sistemas_operacao": 5,
       "ronda": "Ronda #20 (17:45 BRT — 5 Modalidades)"
+    },
+    {
+      "ordem": 17,
+      "pais": "Marrocos",
+      "bandeira": "🇲🇦",
+      "sistemas_operacao": 5,
+      "ronda": "Ronda #21 (18:15 BRT — 5 Modalidades)"
     }
   ],
   "fila_proximas_rondas": [
     {
-      "ordem": 17,
-      "pais": "Marrocos e Egito (Norte da África)",
-      "bandeira": "🇲🇦",
-      "foco": "Al Boraq (1º TAV da África Tânger–Casablanca), Metrô do Cairo (L1–L3 + VLT da Nova Capital), VLTs de Rabat-Salé/Casablanca, ONCF/ENR e Ferrovia de Fosfato Khouribga–Jorf Lasfar"
+      "ordem": 18,
+      "pais": "Egito",
+      "bandeira": "🇪🇬",
+      "foco": "Metrô do Cairo (L1–L3 — 1º metrô da África), VLT Elétrico da Nova Capital Administrativa (Cairo LRT 120 km/h) + Bondes de Alexandria (1863), Trens ENR Vale do Nilo (Alexandria–Cairo–Luxor–Aswan) e Corredores de Carga Suez/Port Said/Ain Sokhna"
     },
     {
-      "ordem": 18,
+      "ordem": 19,
       "pais": "África do Sul",
       "bandeira": "🇿🇦",
       "foco": "Gautrain (Joanesburgo–Pretória–Aeroporto OR Tambo 160 km/h), Metrorail (Cidade do Cabo/Joanesburgo/Durban), Shosholoza Meyl/Blue Train e Superferrovias Heavy-Haul de Minério Sishen–Saldanha e Carvão para Richards Bay"
     },
     {
-      "ordem": 19,
+      "ordem": 20,
       "pais": "Turquia",
       "bandeira": "🇹🇷",
       "foco": "YHT Alta Velocidade (Ancara–Istambul–Konya–Sivas), Metrô de Istambul + Marmaray (túnel sob o Bósforo) + Ancara/Izmir, Bondes e VLTs de Istambul/Antália/Kayseri, TCDD e Corredor de Carga Baku–Tbilisi–Kars"
+    },
+    {
+      "ordem": 21,
+      "pais": "Taiwan",
+      "bandeira": "🇹🇼",
+      "foco": "THSR Alta Velocidade Taipei–Kaohsiung (300 km/h), Metrôs de Taipei/Taoyuan/Taichung/Kaohsiung, VLTs de Danhai/Ankeng/Kaohsiung Circular, Anel Ferroviário TRA e Ramais Industriais/Portuários"
     }
   ]
 }
