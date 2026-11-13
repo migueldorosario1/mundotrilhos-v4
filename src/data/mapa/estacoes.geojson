@@ -15401,6 +15401,225 @@
           -32.8167
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-panama-linhas-1-2-ramal-aeroporto-tocumen",
+        "nome": "Estação Albrook (Terminal Multimodal da Linha 1 do Metrô do Panamá e Futura Linha 3)",
+        "linha": "Linha 1 do Metrô do Panamá (Albrook–Villa Zaita)",
+        "status": "operacao",
+        "integracoes": [
+          "Gran Terminal Nacional de Transporte de Albrook",
+          "Trens Alstom Metropolis da Linha 1"
+        ],
+        "sistema_nome_pt": "Metrô do Panamá — Linha 1 (Albrook–Villa Zaita) e Linha 2 (San Miguelito–Nuevo Tocumen + Aeroporto)",
+        "sistema_nome_en": "Panama Metro — Line 1 (Albrook–Villa Zaita) & Line 2 (San Miguelito–Nuevo Tocumen + Airport Branch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5503,
+          8.9736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-panama-linhas-1-2-ramal-aeroporto-tocumen",
+        "nome": "Estação San Miguelito (Intercâmbio Elevado Linhas 1 e 2 do Metrô do Panamá)",
+        "linha": "Linhas 1 e 2 do Metrô do Panamá",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1 (Albrook–Villa Zaita)",
+          "Linha 2 (San Miguelito–Nuevo Tocumen / Aeroporto)"
+        ],
+        "sistema_nome_pt": "Metrô do Panamá — Linha 1 (Albrook–Villa Zaita) e Linha 2 (San Miguelito–Nuevo Tocumen + Aeroporto)",
+        "sistema_nome_en": "Panama Metro — Line 1 (Albrook–Villa Zaita) & Line 2 (San Miguelito–Nuevo Tocumen + Airport Branch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5067,
+          9.0306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-panama-linhas-1-2-ramal-aeroporto-tocumen",
+        "nome": "Estação Aeropuerto (Aeroporto Internacional de Tocumen — Ramal da Linha 2 do Metrô do Panamá)",
+        "linha": "Ramal Aeroporto da Linha 2 (Corredor Sur – ITSE – Aeropuerto)",
+        "status": "operacao",
+        "integracoes": [
+          "Terminais 1 e 2 do Aeroporto Internacional de Tocumen (Hub das Américas)"
+        ],
+        "sistema_nome_pt": "Metrô do Panamá — Linha 1 (Albrook–Villa Zaita) e Linha 2 (San Miguelito–Nuevo Tocumen + Aeroporto)",
+        "sistema_nome_en": "Panama Metro — Line 1 (Albrook–Villa Zaita) & Line 2 (San Miguelito–Nuevo Tocumen + Airport Branch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3878,
+          9.0714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-santo-domingo-linhas-1-2-republica-dominicana",
+        "nome": "Estação Juan Pablo Duarte (Intercâmbio Central Subterrâneo Linhas 1 e 2 em Santo Domingo)",
+        "linha": "Linhas 1 e 2 do Metrô de Santo Domingo",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1 Norte–Sul",
+          "Linha 2 Leste–Oeste",
+          "Centro Olímpico Juan Pablo Duarte"
+        ],
+        "sistema_nome_pt": "Metrô de Santo Domingo — Linha 1 (Mamá Tingó–Centro de los Héroes) e Linha 2 (María Montez–Concepción Bona)",
+        "sistema_nome_en": "Santo Domingo Metro — Line 1 (Mamá Tingó–Centro de los Héroes) & Line 2 (María Montez–Concepción Bona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9156,
+          18.4792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-santo-domingo-linhas-1-2-republica-dominicana",
+        "nome": "Estação Eduardo Brito (Integração Linha 2 do Metrô e Teleférico de Santo Domingo sobre o Rio Ozama)",
+        "linha": "Linha 2 do Metrô de Santo Domingo",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 2 do Metrô (Ponte Francisco del Rosario Sánchez)",
+          "Linha 1 do Teleférico de Santo Domingo (Gualey–Sabana Perdida–Charles de Gaulle)"
+        ],
+        "sistema_nome_pt": "Metrô de Santo Domingo — Linha 1 (Mamá Tingó–Centro de los Héroes) e Linha 2 (María Montez–Concepción Bona)",
+        "sistema_nome_en": "Santo Domingo Metro — Line 1 (Mamá Tingó–Centro de los Héroes) & Line 2 (María Montez–Concepción Bona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8825,
+          18.4978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tren-interurbano-incofer-san-jose-heredia-alajuela-cartago-costa-rica",
+        "nome": "Estación al Atlántico de San José (Hub Histórico Central do Trem Interurbano INCOFER)",
+        "linha": "Linhas San José–Heredia–Alajuela e San José–Cartago",
+        "status": "operacao",
+        "integracoes": [
+          "Trens DMU CRRC Qingdao Sifang do INCOFER",
+          "Edifício Histórico Vitoriano de 1908"
+        ],
+        "sistema_nome_pt": "Trem Interurbano Metropolitano INCOFER — San José–Heredia–Alajuela, Cartago e Belén–Curridabat",
+        "sistema_nome_en": "INCOFER Greater Metropolitan Area Commuter Rail — San José–Heredia–Alajuela, Cartago & Belén–Curridabat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0694,
+          9.935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tren-interurbano-incofer-san-jose-heredia-alajuela-cartago-costa-rica",
+        "nome": "Estación de Heredia e Cartago (Terminais Metropolitanos do Vale Central da Costa Rica)",
+        "linha": "Corredor Interurbano Alajuela – Heredia – San José – Cartago",
+        "status": "operacao",
+        "integracoes": [
+          "Serviço Metropolitano INCOFER"
+        ],
+        "sistema_nome_pt": "Trem Interurbano Metropolitano INCOFER — San José–Heredia–Alajuela, Cartago e Belén–Curridabat",
+        "sistema_nome_en": "INCOFER Greater Metropolitan Area Commuter Rail — San José–Heredia–Alajuela, Cartago & Belén–Curridabat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1167,
+          9.9981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "panama-canal-railway-transcontinental-cidade-panama-colon-passageiros",
+        "nome": "Estação de Passageiros de Corozal (Cidade do Panamá — Terminal Pacífico da Ferrovia do Canal)",
+        "linha": "Panama Canal Railway (Corozal – Colón)",
+        "status": "operacao",
+        "integracoes": [
+          "Vagões Panorâmicos Dome Car da Panama Canal Railway",
+          "Eclusas de Miraflores e Pedro Miguel"
+        ],
+        "sistema_nome_pt": "Ferrovia Transcontinental do Canal do Panamá — Corozal (Cidade do Panamá) – Colón (Pacífico ↔ Atlântico)",
+        "sistema_nome_en": "Panama Canal Railway Company (PCRC) — Transcontinental Passenger Train Panama City (Corozal)–Colón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5714,
+          8.9839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "panama-canal-railway-ponte-terrestre-containers-balboa-manzanillo-colon",
+        "nome": "Terminal Intermodal de Colón / Manzanillo e Balboa (Ponte Terrestre Double-Stack do Canal do Panamá)",
+        "linha": "Corredor de Contêineres Balboa (Pacífico) ↔ Colón/Manzanillo (Atlântico)",
+        "status": "operacao",
+        "integracoes": [
+          "Manzanillo International Terminal (MIT)",
+          "Colon Container Terminal (CCT)",
+          "Port of Balboa"
+        ],
+        "sistema_nome_pt": "Ponte Terrestre de Contêineres do Canal do Panamá — Porto de Balboa (Pacífico) ↔ Portos de Colón/Manzanillo (Atlântico)",
+        "sistema_nome_en": "Panama Canal Land Bridge Double-Stack Container Railway — Balboa Port (Pacific) to Colón/Manzanillo Ports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.885,
+          9.3622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-atlantico-limon-moin-valle-la-estrella-incofer-costa-rica",
+        "nome": "Pátio Ferro-Portuário de Limón e Moín (Exportação Agrícola e Aço no Caribe Costarriquenho)",
+        "linha": "Ferrovia de Carga do Atlântico INCOFER",
+        "status": "operacao",
+        "integracoes": [
+          "Portos Caribenhos de Limón e APM Terminals Moín (JAPDEVA)"
+        ],
+        "sistema_nome_pt": "Ferrovia de Carga do Atlântico INCOFER — Valle de la Estrella e Siquirres – Portos de Limón e Moín",
+        "sistema_nome_en": "INCOFER Atlantic Freight Railway — Valle de la Estrella & Siquirres to Ports of Limón & Moín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0275,
+          9.9914
+        ]
+      }
     }
   ]
 }
