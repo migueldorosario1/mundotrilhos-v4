@@ -15839,6 +15839,226 @@
           43.62
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ter-dakar-diamniadio-aibd-senegal",
+        "nome": "Grande Gare de Dakar (Estação Histórica Restaurada e Terminal Central do TER 160 km/h)",
+        "linha": "Train Express Régional (TER) Dacar–Diamniadio",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Alstom Coradia Polyvalent Bimodais 25 kV",
+          "BRT de Dacar (Bus Rapid Transit)"
+        ],
+        "sistema_nome_pt": "Train Express Régional (TER) de Dacar — Linha Eletrificada 160 km/h Dacar–Rufisque–Bargny–Diamniadio",
+        "sistema_nome_en": "Dakar Regional Express Train (TER) — 160 km/h Electrified Line Dakar–Rufisque–Bargny–Diamniadio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4344,
+          14.6769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ter-dakar-diamniadio-aibd-senegal",
+        "nome": "Estação Ministerial de Diamniadio (Hub do Novo Polo Urbano e Conexão Fase 2 Aeroporto AIBD)",
+        "linha": "Train Express Régional (TER) Dacar–Diamniadio",
+        "status": "operacao",
+        "integracoes": [
+          "Cidade Nova de Diamniadio / Dakar Arena",
+          "Sinalização Europeia ERTMS Nível 2"
+        ],
+        "sistema_nome_pt": "Train Express Régional (TER) de Dacar — Linha Eletrificada 160 km/h Dacar–Rufisque–Bargny–Diamniadio",
+        "sistema_nome_en": "Dakar Regional Express Train (TER) — 160 km/h Electrified Line Dakar–Rufisque–Bargny–Diamniadio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1856,
+          14.7219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "grcl-tema-mpakadan-standard-gauge-accra-nsawam-gana",
+        "nome": "Estação Portuária de Tema (Terminal Sul da Nova Ferrovia de Bitola Padrão Tema–Mpakadan)",
+        "linha": "Ferrovia de Bitola Padrão Tema–Mpakadan (97,6 km)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Marítimo de Tema",
+          "Trens DMU Modernos PESA Bydgoszcz"
+        ],
+        "sistema_nome_pt": "Ferrovia de Bitola Padrão Tema–Mpakadan (Ponte Senchi sobre o Rio Volta) e Linha Suburbana Acra–Nsawam (GRCL)",
+        "sistema_nome_en": "Tema–Mpakadan Standard Gauge Railway (Volta River Bridge) & Accra–Nsawam Suburban Line (GRCL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0111,
+          5.6311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "grcl-tema-mpakadan-standard-gauge-accra-nsawam-gana",
+        "nome": "Estação e Ponte Ferroviária do Rio Volta / Mpakadan (Integração Multimodal com o Lago Volta)",
+        "linha": "Ferrovia de Bitola Padrão Tema–Mpakadan",
+        "status": "operacao",
+        "integracoes": [
+          "Ponte Ferroviária de 300 m sobre o Rio Volta",
+          "Porto Fluvial do Lago Volta em Mpakadan"
+        ],
+        "sistema_nome_pt": "Ferrovia de Bitola Padrão Tema–Mpakadan (Ponte Senchi sobre o Rio Volta) e Linha Suburbana Acra–Nsawam (GRCL)",
+        "sistema_nome_en": "Tema–Mpakadan Standard Gauge Railway (Volta River Bridge) & Accra–Nsawam Suburban Line (GRCL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0972,
+          6.2611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "grcl-tema-mpakadan-standard-gauge-accra-nsawam-gana",
+        "nome": "Estação Central de Acra (Kantamanto — Terminal da Linha Suburbana Acra–Achimota–Nsawam)",
+        "linha": "Linha Suburbana Acra–Nsawam (GRCL)",
+        "status": "operacao",
+        "integracoes": [
+          "Centro Comercial de Acra",
+          "Terminal Rodoviário de Achimota / Circle"
+        ],
+        "sistema_nome_pt": "Ferrovia de Bitola Padrão Tema–Mpakadan (Ponte Senchi sobre o Rio Volta) e Linha Suburbana Acra–Nsawam (GRCL)",
+        "sistema_nome_en": "Tema–Mpakadan Standard Gauge Railway (Volta River Bridge) & Accra–Nsawam Suburban Line (GRCL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2058,
+          5.5539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sitarail-abidjan-bouake-bobo-dioulasso-ouagadougou-costa-do-marfim",
+        "nome": "Gare de Treichville — Abidjan (Terminal Sul da Ferrovia Internacional Sitarail Costa do Marfim–Burkina Faso)",
+        "linha": "Ferrovia Internacional Abidjan–Ouagadougou (Sitarail)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Autônomo de Abidjan",
+          "Futura Linha 1 do Metrô de Abidjan"
+        ],
+        "sistema_nome_pt": "Ferrovia Internacional Abidjan–Níger (Sitarail) — Treichville–Agboville–Bouaké–Ferkessédougou–Bobo-Dioulasso–Ouagadougou",
+        "sistema_nome_en": "Abidjan–Ouagadougou International Railway (Sitarail) — Abidjan–Agboville–Bouaké–Ferkessédougou–Burkina Faso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0083,
+          5.3033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sitarail-abidjan-bouake-bobo-dioulasso-ouagadougou-costa-do-marfim",
+        "nome": "Estação Ferroviária de Bouaké (Principal Hub Ferroviário e Logístico do Centro da Costa do Marfim)",
+        "linha": "Ferrovia Internacional Abidjan–Ouagadougou (Sitarail)",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Intermodal de Bouaké",
+          "Corredor Norte para Ferkessédougou e Bobo-Dioulasso"
+        ],
+        "sistema_nome_pt": "Ferrovia Internacional Abidjan–Níger (Sitarail) — Treichville–Agboville–Bouaké–Ferkessédougou–Bobo-Dioulasso–Ouagadougou",
+        "sistema_nome_en": "Abidjan–Ouagadougou International Railway (Sitarail) — Abidjan–Agboville–Bouaké–Ferkessédougou–Burkina Faso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0303,
+          7.6906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-ocidental-gana-takoradi-tarkwa-obausi-kumasi-grcl",
+        "nome": "Estação de Sekondi-Takoradi / Kojokrom (Hub Ferroviário da Linha Ocidental de Gana)",
+        "linha": "Linha Ferroviária Ocidental Takoradi–Tarkwa–Kumasi",
+        "status": "operacao",
+        "integracoes": [
+          "Trem Suburbano Sekondi-Takoradi–Kojokrom–Tarkwa",
+          "Porto de Takoradi"
+        ],
+        "sistema_nome_pt": "Linha Ferroviária Ocidental de Gana (GRCL) — Sekondi-Takoradi–Kojokrom–Tarkwa–Dunkwa–Obuasi–Kumasi",
+        "sistema_nome_en": "Ghana Western Railway Line (GRCL) — Sekondi-Takoradi–Kojokrom–Tarkwa–Dunkwa–Obuasi–Kumasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7167,
+          4.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-fosfato-ics-taiba-porto-dakar-senegal",
+        "nome": "Nó Ferroviário de Thiès e Terminal Mineral de Taïba (Escoamento de Fosfato e Ácido Fosfórico ICS para o Porto de Dacar)",
+        "linha": "Corredor Ferroviário de Carga Taïba–Thiès–Dacar",
+        "status": "operacao",
+        "integracoes": [
+          "Oficinas Ferroviárias Históricas de Thiès",
+          "Complexo Mineral de Fosfato de Taïba / Darou Khoudoss"
+        ],
+        "sistema_nome_pt": "Corredor Ferroviário de Fosfato e Contêineres do Senegal (CFS / ICS) — Minas de Taïba–Thiès–Rufisque–Porto de Dacar",
+        "sistema_nome_en": "Senegal Phosphate & Port Freight Railway (CFS / ICS) — Taïba Mines–Thiès–Rufisque–Port of Dakar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9261,
+          14.7886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-manganes-bauxita-nsuta-awaso-porto-takoradi-sitarail",
+        "nome": "Terminal Mineral de Nsuta / Tarkwa (Carregamento Heavy-Haul de Manganês para o Porto de Takoradi)",
+        "linha": "Corredor Mineral Nsuta–Tarkwa–Porto de Takoradi",
+        "status": "operacao",
+        "integracoes": [
+          "Mina de Manganês de Nsuta (Ghana Manganese Company)",
+          "Terminal de Granéis Minerais do Porto de Takoradi"
+        ],
+        "sistema_nome_pt": "Corredores de Carga Mineral e Portuária da África Ocidental — Manganês de Nsuta–Porto de Takoradi (Gana) e Frete Sitarail Porto de Abidjan (Costa do Marfim)",
+        "sistema_nome_en": "West Africa Mineral & Port Freight Railways — Nsuta Manganese–Takoradi Port (Ghana) & Sitarail Abidjan Port Freight (Ivory Coast)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9722,
+          5.2789
+        ]
+      }
     }
   ]
 }

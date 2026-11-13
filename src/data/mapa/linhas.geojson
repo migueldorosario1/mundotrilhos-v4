@@ -21560,6 +21560,266 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ter-dakar-diamniadio-aibd-senegal",
+        "linha": "TER de Dacar 160 km/h (Gare de Dakar – Colobane – Pikine – Thiaroye – Rufisque – Bargny – Diamniadio)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Train Express Régional (TER) de Dacar — Linha Eletrificada 160 km/h Dacar–Rufisque–Bargny–Diamniadio",
+        "sistema_nome_en": "Dakar Regional Express Train (TER) — 160 km/h Electrified Line Dakar–Rufisque–Bargny–Diamniadio",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -17.4344,
+            14.6769
+          ],
+          [
+            -17.4414,
+            14.7003
+          ],
+          [
+            -17.4008,
+            14.7467
+          ],
+          [
+            -17.3586,
+            14.7508
+          ],
+          [
+            -17.2733,
+            14.7167
+          ],
+          [
+            -17.2289,
+            14.6961
+          ],
+          [
+            -17.1856,
+            14.7219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "grcl-tema-mpakadan-standard-gauge-accra-nsawam-gana",
+        "linha": "Ferrovia Bitola Padrão Tema–Mpakadan (Porto de Tema – Afienya – Shai Hills – Ponte do Rio Volta Senchi – Mpakadan) e Suburbano Acra–Nsawam",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia de Bitola Padrão Tema–Mpakadan (Ponte Senchi sobre o Rio Volta) e Linha Suburbana Acra–Nsawam (GRCL)",
+        "sistema_nome_en": "Tema–Mpakadan Standard Gauge Railway (Volta River Bridge) & Accra–Nsawam Suburban Line (GRCL)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3514,
+            5.8089
+          ],
+          [
+            -0.2286,
+            5.6194
+          ],
+          [
+            -0.2058,
+            5.5539
+          ],
+          [
+            -0.0111,
+            5.6311
+          ],
+          [
+            -0.0056,
+            5.7981
+          ],
+          [
+            0.0889,
+            6.1356
+          ],
+          [
+            0.0972,
+            6.2611
+          ],
+          [
+            0.125,
+            6.4167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sitarail-abidjan-bouake-bobo-dioulasso-ouagadougou-costa-do-marfim",
+        "linha": "Tronco Internacional Sitarail (Abidjan Treichville – Agboville – Dimbokro – Bouaké – Tafiré – Ferkessédougou – Bobo-Dioulasso – Ouagadougou)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Internacional Abidjan–Níger (Sitarail) — Treichville–Agboville–Bouaké–Ferkessédougou–Bobo-Dioulasso–Ouagadougou",
+        "sistema_nome_en": "Abidjan–Ouagadougou International Railway (Sitarail) — Abidjan–Agboville–Bouaké–Ferkessédougou–Burkina Faso",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0083,
+            5.3033
+          ],
+          [
+            -4.2136,
+            5.9281
+          ],
+          [
+            -4.7056,
+            6.6467
+          ],
+          [
+            -5.0303,
+            7.6906
+          ],
+          [
+            -5.1583,
+            9.0667
+          ],
+          [
+            -5.1967,
+            9.5928
+          ],
+          [
+            -4.7667,
+            10.6333
+          ],
+          [
+            -4.2978,
+            11.1772
+          ],
+          [
+            -1.5275,
+            12.3714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-ocidental-gana-takoradi-tarkwa-obausi-kumasi-grcl",
+        "linha": "Linha Ferroviária Ocidental GRCL (Sekondi-Takoradi – Kojokrom – Nsuta – Tarkwa – Dunkwa – Obuasi – Kumasi)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Linha Ferroviária Ocidental de Gana (GRCL) — Sekondi-Takoradi–Kojokrom–Tarkwa–Dunkwa–Obuasi–Kumasi",
+        "sistema_nome_en": "Ghana Western Railway Line (GRCL) — Sekondi-Takoradi–Kojokrom–Tarkwa–Dunkwa–Obuasi–Kumasi",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7554,
+            4.8928
+          ],
+          [
+            -1.7167,
+            4.95
+          ],
+          [
+            -1.9942,
+            5.3036
+          ],
+          [
+            -1.7789,
+            5.9656
+          ],
+          [
+            -1.6669,
+            6.2044
+          ],
+          [
+            -1.6244,
+            6.6885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-fosfato-ics-taiba-porto-dakar-senegal",
+        "linha": "Corredor Mineral de Fosfato do Senegal (Minas de Taïba Darou Khoudoss – Tivaouane – Thiès – Rufisque – Porto Autônomo de Dacar)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Ferroviário de Fosfato e Contêineres do Senegal (CFS / ICS) — Minas de Taïba–Thiès–Rufisque–Porto de Dacar",
+        "sistema_nome_en": "Senegal Phosphate & Port Freight Railway (CFS / ICS) — Taïba Mines–Thiès–Rufisque–Port of Dakar",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.845,
+            15.055
+          ],
+          [
+            -16.8267,
+            14.9519
+          ],
+          [
+            -16.9261,
+            14.7886
+          ],
+          [
+            -17.2733,
+            14.7167
+          ],
+          [
+            -17.43,
+            14.685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-manganes-bauxita-nsuta-awaso-porto-takoradi-sitarail",
+        "linha": "Corredor Heavy-Haul de Manganês Nsuta–Porto de Takoradi (Gana) e Terminal Portuário de Contêineres Sitarail Vridi–Abidjan–Bouaké",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores de Carga Mineral e Portuária da África Ocidental — Manganês de Nsuta–Porto de Takoradi (Gana) e Frete Sitarail Porto de Abidjan (Costa do Marfim)",
+        "sistema_nome_en": "West Africa Mineral & Port Freight Railways — Nsuta Manganese–Takoradi Port (Ghana) & Sitarail Abidjan Port Freight (Ivory Coast)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9722,
+            5.2789
+          ],
+          [
+            -1.7167,
+            4.95
+          ],
+          [
+            -1.7554,
+            4.8928
+          ]
+        ]
+      }
     }
   ]
 }
