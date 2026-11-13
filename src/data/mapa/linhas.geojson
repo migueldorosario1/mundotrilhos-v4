@@ -18728,6 +18728,304 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-argel-linha-1-argelia",
+        "linha": "Metrô de Argel Linha 1: Place des Martyrs – Tafourah Grande Poste – Khelifa Boukhalfa – Haï El Badr – El Harrach Centre & Ramal Aïn Naâdja",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Argel (Linha 1 Place des Martyrs – Tafourah – Haï El Badr – El Harrach / Aïn Naâdja)",
+        "sistema_nome_en": "Algiers Metro (Line 1 Place des Martyrs – Tafourah – Haï El Badr – El Harrach / Aïn Naâdja)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.0625,
+            36.7856
+          ],
+          [
+            3.0586,
+            36.7764
+          ],
+          [
+            3.085,
+            36.745
+          ],
+          [
+            3.105,
+            36.726
+          ],
+          [
+            3.136,
+            36.721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lagos-rail-mass-transit-blue-red-lines-abuja-metro-nigeria",
+        "linha": "Lagos Rail Mass Transit: Blue Line (Marina – National Theatre – Mile 2) & Red Line (Oyingbo – Yaba – Ikeja – Agege – Agbado)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Lagos (LRMT Blue Line Marina–Mile 2 & Red Line Agbado–Oyingbo) e Abuja Light Rail",
+        "sistema_nome_en": "Lagos Rail Mass Transit (Blue Line Marina–Mile 2 & Red Line Agbado–Oyingbo) and Abuja Light Rail",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.309,
+            6.459
+          ],
+          [
+            3.369,
+            6.476
+          ],
+          [
+            3.3841,
+            6.455
+          ],
+          [
+            3.381,
+            6.481
+          ],
+          [
+            3.342,
+            6.596
+          ],
+          [
+            3.298,
+            6.685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "redes-vlt-argelia-7-cidades-argel-oran-constantina-setif",
+        "linha": "VLTs de Argel (Ruisseau – Bordj El Kiffan – Dergana), Orã (Es Sénia – Place 1er Novembre – Sidi Maarouf) e Constantina (Ben Abdelmalek – Zouaghi – Ali Mendjeli)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "7 Redes de VLT da Argélia (Argel, Orã, Constantina, Sétif, Sidi Bel Abbès, Ouargla e Mostaganem — SETRAM)",
+        "sistema_nome_en": "Algeria's 7 Light Rail Tram Networks (Algiers, Oran, Constantine, Sétif, Sidi Bel Abbès, Ouargla & Mostaganem — SETRAM)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.085,
+            36.739
+          ],
+          [
+            3.136,
+            36.721
+          ],
+          [
+            3.195,
+            36.748
+          ],
+          [
+            3.255,
+            36.772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-leve-tunis-tgm-rfr-sahel-metro-tunisia",
+        "linha": "Metrô Leve de Túnis (Place de Barcelone – Ariana / La Manouba / Ben Arous) & TGM (Túnis Marine – La Goulette – Cartago – Sidi Bou Said – La Marsa)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô Leve de Túnis (Linhas 1 a 6), Ferrovia TGM (Túnis–Cartago–La Marsa) & Sahel Metro (Sousse–Monastir–Mahdia)",
+        "sistema_nome_en": "Tunis Light Metro (Lines 1–6), TGM Suburban Line (Tunis–Carthage–La Marsa) & Sahel Metro (Sousse–Monastir–Mahdia)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.096,
+            36.81
+          ],
+          [
+            10.18,
+            36.796
+          ],
+          [
+            10.193,
+            36.801
+          ],
+          [
+            10.306,
+            36.816
+          ],
+          [
+            10.331,
+            36.858
+          ],
+          [
+            10.325,
+            36.878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-sntf-argelia-sncft-tunisia-nrc-standard-gauge-nigeria",
+        "linha": "Ferrovias de Bitola Padrão da Nigéria (150 km/h): Lagos (Ebute Metta) – Abeokuta – Ibadan (Moniya) & Abuja (Idu) – Kubwa – Rigasa (Kaduna)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias de Bitola Padrão da Nigéria (Lagos–Ibadan & Abuja–Kaduna) e Malhas Nacionais SNTF (Argélia) & SNCFT (Tunísia)",
+        "sistema_nome_en": "Nigeria Standard Gauge Railways (Lagos–Ibadan & Abuja–Kaduna) and SNTF (Algeria) & SNCFT (Tunisia) National Networks",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.381,
+            6.481
+          ],
+          [
+            3.345,
+            7.155
+          ],
+          [
+            3.91,
+            7.495
+          ],
+          [
+            7.35,
+            9.05
+          ],
+          [
+            7.38,
+            10.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-sntf-argelia-sncft-tunisia-nrc-standard-gauge-nigeria",
+        "linha": "Tronco Costeiro do Magrebe (SNTF & SNCFT): Orã – Chlef – Argel – Sétif – Constantina – Annaba & Túnis – Sousse – Sfax – Gabès",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias de Bitola Padrão da Nigéria (Lagos–Ibadan & Abuja–Kaduna) e Malhas Nacionais SNTF (Argélia) & SNCFT (Tunísia)",
+        "sistema_nome_en": "Nigeria Standard Gauge Railways (Lagos–Ibadan & Abuja–Kaduna) and SNTF (Algeria) & SNCFT (Tunisia) National Networks",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.6308,
+            35.6971
+          ],
+          [
+            1.334,
+            36.165
+          ],
+          [
+            3.0586,
+            36.7764
+          ],
+          [
+            5.41,
+            36.19
+          ],
+          [
+            6.6147,
+            36.365
+          ],
+          [
+            7.7667,
+            36.9
+          ],
+          [
+            10.18,
+            36.796
+          ],
+          [
+            10.641,
+            35.825
+          ],
+          [
+            10.76,
+            34.74
+          ],
+          [
+            10.098,
+            33.881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-minerio-djebel-onq-ouenza-annaba-fosfato-gafsa-sfax",
+        "linha": "Corredor Mineral Leste Argelino (Minas de Fosfato de Djebel Onk e Minério de Ferro de Ouenza – Souk Ahras – Porto de Annaba) & Corredor de Fosfato de Gafsa/Métlaoui – Porto de Sfax (Tunísia)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Minerais de Minério e Fosfato (Ouenza/Djebel Onk–Porto de Annaba na Argélia & Gafsa–Porto de Sfax na Tunísia) + Apapa Port (Nigéria)",
+        "sistema_nome_en": "North African Iron Ore & Phosphate Corridors (Ouenza/Djebel Onk–Annaba Port in Algeria & Gafsa–Sfax Port in Tunisia) + Apapa Port Rail (Nigeria)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0,
+            34.7
+          ],
+          [
+            8.12,
+            35.95
+          ],
+          [
+            7.95,
+            36.28
+          ],
+          [
+            7.7667,
+            36.9
+          ],
+          [
+            8.4,
+            34.32
+          ],
+          [
+            8.78,
+            34.42
+          ],
+          [
+            10.76,
+            34.74
+          ]
+        ]
+      }
     }
   ]
 }

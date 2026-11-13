@@ -13638,6 +13638,225 @@
           -37.655
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-argel-linha-1-argelia",
+        "nome": "Place des Martyrs & Tafourah Grande Poste Stations (Coração Histórico e Casbah de Argel)",
+        "linha": "Metrô de Argel Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô de Argel Linha 1",
+          "Museu Arqueológico Subterrâneo da Place des Martyrs"
+        ],
+        "sistema_nome_pt": "Metrô de Argel (Linha 1 Place des Martyrs – Tafourah – Haï El Badr – El Harrach / Aïn Naâdja)",
+        "sistema_nome_en": "Algiers Metro (Line 1 Place des Martyrs – Tafourah – Haï El Badr – El Harrach / Aïn Naâdja)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0586,
+          36.7764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-argel-linha-1-argelia",
+        "nome": "El Harrach Centre Interchange (Integração Metrô de Argel + VLT de Argel + Trens Suburbanos SNTF)",
+        "linha": "Metrô de Argel L1 / VLT / SNTF",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô de Argel Linha 1",
+          "VLT de Argel",
+          "SNTF Suburbano"
+        ],
+        "sistema_nome_pt": "Metrô de Argel (Linha 1 Place des Martyrs – Tafourah – Haï El Badr – El Harrach / Aïn Naâdja)",
+        "sistema_nome_en": "Algiers Metro (Line 1 Place des Martyrs – Tafourah – Haï El Badr – El Harrach / Aïn Naâdja)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.136,
+          36.721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lagos-rail-mass-transit-blue-red-lines-abuja-metro-nigeria",
+        "nome": "Marina Central Elevated Station (Lagos Island — Terminal da Blue Line sobre a Lagoa de Lagos)",
+        "linha": "Lagos Rail Mass Transit Blue Line",
+        "status": "operacao",
+        "integracoes": [
+          "LRMT Blue Line",
+          "Terminal de Balsas CMS Marina",
+          "BRT de Lagos"
+        ],
+        "sistema_nome_pt": "Metrô de Lagos (LRMT Blue Line Marina–Mile 2 & Red Line Agbado–Oyingbo) e Abuja Light Rail",
+        "sistema_nome_en": "Lagos Rail Mass Transit (Blue Line Marina–Mile 2 & Red Line Agbado–Oyingbo) and Abuja Light Rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3841,
+          6.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lagos-rail-mass-transit-blue-red-lines-abuja-metro-nigeria",
+        "nome": "Mobolaji Johnson Station (Ebute Metta, Lagos) & Ikeja Station (Integração Red Line + Ferrovia de Bitola Padrão Lagos–Ibadan)",
+        "linha": "LRMT Red Line / NRC Lagos–Ibadan",
+        "status": "operacao",
+        "integracoes": [
+          "LRMT Red Line",
+          "Ferrovia de Bitola Padrão Lagos–Ibadan"
+        ],
+        "sistema_nome_pt": "Metrô de Lagos (LRMT Blue Line Marina–Mile 2 & Red Line Agbado–Oyingbo) e Abuja Light Rail",
+        "sistema_nome_en": "Lagos Rail Mass Transit (Blue Line Marina–Mile 2 & Red Line Agbado–Oyingbo) and Abuja Light Rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.381,
+          6.481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "redes-vlt-argelia-7-cidades-argel-oran-constantina-setif",
+        "nome": "Place 1er Novembre Tram Hub (Orã) & Ben Abdelmalek Ramdane Station (Constantina)",
+        "linha": "VLTs de Orã e Constantina (SETRAM)",
+        "status": "operacao",
+        "integracoes": [
+          "VLT de Orã"
+        ],
+        "sistema_nome_pt": "7 Redes de VLT da Argélia (Argel, Orã, Constantina, Sétif, Sidi Bel Abbès, Ouargla e Mostaganem — SETRAM)",
+        "sistema_nome_en": "Algeria's 7 Light Rail Tram Networks (Algiers, Oran, Constantine, Sétif, Sidi Bel Abbès, Ouargla & Mostaganem — SETRAM)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6308,
+          35.6971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-leve-tunis-tgm-rfr-sahel-metro-tunisia",
+        "nome": "Place de Barcelone Multimodal Hub (Túnis — Intercâmbio de 5 Linhas do Metrô Leve + Gare Centrale SNCFT)",
+        "linha": "Metrô Leve de Túnis / SNCFT / RFR",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô Leve de Túnis Linhas 1, 3, 4, 5 e 6",
+          "Gare de Tunis SNCFT",
+          "RFR Linha E"
+        ],
+        "sistema_nome_pt": "Metrô Leve de Túnis (Linhas 1 a 6), Ferrovia TGM (Túnis–Cartago–La Marsa) & Sahel Metro (Sousse–Monastir–Mahdia)",
+        "sistema_nome_en": "Tunis Light Metro (Lines 1–6), TGM Suburban Line (Tunis–Carthage–La Marsa) & Sahel Metro (Sousse–Monastir–Mahdia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.18,
+          36.796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-leve-tunis-tgm-rfr-sahel-metro-tunisia",
+        "nome": "Carthage Hannibal & Sidi Bou Said Stations (Linha Histórica TGM pela Baía de Túnis, 1872)",
+        "linha": "TGM Túnis–La Marsa",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Suburbana Elétrica TGM"
+        ],
+        "sistema_nome_pt": "Metrô Leve de Túnis (Linhas 1 a 6), Ferrovia TGM (Túnis–Cartago–La Marsa) & Sahel Metro (Sousse–Monastir–Mahdia)",
+        "sistema_nome_en": "Tunis Light Metro (Lines 1–6), TGM Suburban Line (Tunis–Carthage–La Marsa) & Sahel Metro (Sousse–Monastir–Mahdia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.331,
+          36.858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-sntf-argelia-sncft-tunisia-nrc-standard-gauge-nigeria",
+        "nome": "Obafemi Awolowo Station (Moniya, Ibadan) & Idu/Rigasa Stations (Corredores de Bitola Padrão Lagos–Ibadan e Abuja–Kaduna)",
+        "linha": "NRC Standard Gauge",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Lagos–Abeokuta–Ibadan"
+        ],
+        "sistema_nome_pt": "Ferrovias de Bitola Padrão da Nigéria (Lagos–Ibadan & Abuja–Kaduna) e Malhas Nacionais SNTF (Argélia) & SNCFT (Tunísia)",
+        "sistema_nome_en": "Nigeria Standard Gauge Railways (Lagos–Ibadan & Abuja–Kaduna) and SNTF (Algeria) & SNCFT (Tunisia) National Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.91,
+          7.495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-sntf-argelia-sncft-tunisia-nrc-standard-gauge-nigeria",
+        "nome": "Gare d'Agha / Alger Central & Gare de Sousse Bab Jedid (Corredores Expressos SNTF e SNCFT)",
+        "linha": "SNTF / SNCFT",
+        "status": "operacao",
+        "integracoes": [
+          "Expressos Coradia SNTF para Orã e Constantina"
+        ],
+        "sistema_nome_pt": "Ferrovias de Bitola Padrão da Nigéria (Lagos–Ibadan & Abuja–Kaduna) e Malhas Nacionais SNTF (Argélia) & SNCFT (Tunísia)",
+        "sistema_nome_en": "Nigeria Standard Gauge Railways (Lagos–Ibadan & Abuja–Kaduna) and SNTF (Algeria) & SNCFT (Tunisia) National Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.055,
+          36.766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-minerio-djebel-onq-ouenza-annaba-fosfato-gafsa-sfax",
+        "nome": "Terminal Mineral do Porto de Annaba (Argélia) & Porto de Fosfato de Sfax (Tunísia)",
+        "linha": "SNTF Fret / SNCFT Phosphates",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Mineral Eletrificada Ouenza/Djebel Onk–Annaba",
+          "Complexo Siderúrgico de El Hadjar"
+        ],
+        "sistema_nome_pt": "Corredores Minerais de Minério e Fosfato (Ouenza/Djebel Onk–Porto de Annaba na Argélia & Gafsa–Porto de Sfax na Tunísia) + Apapa Port (Nigéria)",
+        "sistema_nome_en": "North African Iron Ore & Phosphate Corridors (Ouenza/Djebel Onk–Annaba Port in Algeria & Gafsa–Sfax Port in Tunisia) + Apapa Port Rail (Nigeria)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7667,
+          36.9
+        ]
+      }
     }
   ]
 }
