@@ -12982,6 +12982,223 @@
           12.227
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "afrosiyob-tav-tashkent-samarcanda-bukhara-250kmh-uzbequistao",
+        "nome": "Tashkent North Central Railway Station (Toshkent-Shimoliy — Terminal do TAV Afrosiyob 250 km/h)",
+        "linha": "Afrosiyob TAV / Metrô de Tashkent",
+        "status": "operacao",
+        "integracoes": [
+          "Afrosiyob TAV 250 km/h",
+          "Metrô de Tashkent Linha Oʻzbekiston"
+        ],
+        "sistema_nome_pt": "Trem de Alta Velocidade Afrosiyob (Tashkent – Samarcanda – Bukhara / Karshi, 250 km/h)",
+        "sistema_nome_en": "Afrosiyob High-Speed Rail (Tashkent – Samarkand – Bukhara / Qarshi, 250 km/h Talgo 250)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2869,
+          41.2922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "afrosiyob-tav-tashkent-samarcanda-bukhara-250kmh-uzbequistao",
+        "nome": "Samarkand High-Speed Railway Station (Estação de Samarcanda na Rota da Seda)",
+        "linha": "Afrosiyob TAV / Bonde de Samarcanda",
+        "status": "operacao",
+        "integracoes": [
+          "Afrosiyob TAV 250 km/h",
+          "Bonde de Samarcanda Linha 1 para Registan/Siyob"
+        ],
+        "sistema_nome_pt": "Trem de Alta Velocidade Afrosiyob (Tashkent – Samarcanda – Bukhara / Karshi, 250 km/h)",
+        "sistema_nome_en": "Afrosiyob High-Speed Rail (Tashkent – Samarkand – Bukhara / Qarshi, 250 km/h Talgo 250)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9286,
+          39.6825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "afrosiyob-tav-tashkent-samarcanda-bukhara-250kmh-uzbequistao",
+        "nome": "Bukhara Railway Station (Kagan — Portal Ferroviário de Bukhara)",
+        "linha": "Afrosiyob TAV / Expresso Khiva",
+        "status": "operacao",
+        "integracoes": [
+          "Afrosiyob TAV 250 km/h",
+          "Linha Bukhara–Urgench–Khiva"
+        ],
+        "sistema_nome_pt": "Trem de Alta Velocidade Afrosiyob (Tashkent – Samarcanda – Bukhara / Karshi, 250 km/h)",
+        "sistema_nome_en": "Afrosiyob High-Speed Rail (Tashkent – Samarkand – Bukhara / Qarshi, 250 km/h Talgo 250)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.5139,
+          39.7161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-tashkent-4-linhas-uzbequistao",
+        "nome": "Kosmonavtlar & Alisher Navoiy / Paxtakor Interchange (Estações Subterrâneas Palacianas de Tashkent)",
+        "linha": "Metrô de Tashkent Linhas Chilonzor & Oʻzbekiston",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Chilonzor",
+          "Linha Oʻzbekiston"
+        ],
+        "sistema_nome_pt": "Metrô de Tashkent (Linhas Chilonzor, Oʻzbekiston, Yunusobod & Anel Elevado)",
+        "sistema_nome_en": "Tashkent Metro (Chilonzor, Oʻzbekiston, Yunusobod & Circle Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2544,
+          41.3189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-tashkent-4-linhas-uzbequistao",
+        "nome": "Yunus Rajabiy / Amir Temur Xiyoboni Interchange (Centro de Tashkent)",
+        "linha": "Metrô de Tashkent Linhas Chilonzor & Yunusobod",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Chilonzor",
+          "Linha Yunusobod"
+        ],
+        "sistema_nome_pt": "Metrô de Tashkent (Linhas Chilonzor, Oʻzbekiston, Yunusobod & Anel Elevado)",
+        "sistema_nome_en": "Tashkent Metro (Chilonzor, Oʻzbekiston, Yunusobod & Circle Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2797,
+          41.3111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-almaty-linha-1-cazaquistao",
+        "nome": "Zhibek Zholy & Abay Metro Stations (Coração Cultural de Almaty)",
+        "linha": "Metrô de Almaty Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô de Almaty Linha 1"
+        ],
+        "sistema_nome_pt": "Metrô de Almaty (Linha 1 Raiymbek Batyr – Bauyrzhan Momyshuly)",
+        "sistema_nome_en": "Almaty Metro (Line 1 Raiymbek Batyr – Bauyrzhan Momyshuly)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9458,
+          43.2603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-samarcanda-pavlodar-temirtau-oskemen-asia-central",
+        "nome": "Pavlodar Central Tram Hub (Maior Rede de Bondes da Ásia Central)",
+        "linha": "Bondes de Pavlodar",
+        "status": "operacao",
+        "integracoes": [
+          "15 Linhas de Bonde de Pavlodar"
+        ],
+        "sistema_nome_pt": "Redes de Bondes de Pavlodar & Oskemen (Cazaquistão) e Bonde de Samarcanda (Uzbequistão)",
+        "sistema_nome_en": "Pavlodar & Oskemen Tram Networks (Kazakhstan) and Samarkand Tramway (Uzbekistan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9674,
+          52.2873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "malhas-uty-uzbequistao-ktz-tulpar-talgo-astana-almaty-cazaquistao",
+        "nome": "Astana Nurly Zhol Grand Railway Station (Capital do Cazaquistão — Terminal KTZ Tulpar-Talgo)",
+        "linha": "KTZ Tulpar-Talgo",
+        "status": "operacao",
+        "integracoes": [
+          "Expressos Tulpar-Talgo para Almaty, Shymkent e Aktau"
+        ],
+        "sistema_nome_pt": "Expressos Tulpar-Talgo KTZ (Astana–Almaty–Shymkent) & Malha UTY (Túnel de Kamchik / Vale de Fergana e Khiva)",
+        "sistema_nome_en": "KTZ Tulpar-Talgo Expresses (Astana–Almaty–Shymkent) & UTY Silk Road Network (Kamchik Tunnel / Fergana & Khiva)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5364,
+          51.1256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "malhas-uty-uzbequistao-ktz-tulpar-talgo-astana-almaty-cazaquistao",
+        "nome": "Almaty-2 Central Station & Khiva Silk Road Station",
+        "linha": "KTZ / UTY",
+        "status": "operacao",
+        "integracoes": [
+          "KTZ Tulpar-Talgo",
+          "Metrô de Almaty Raiymbek Batyr"
+        ],
+        "sistema_nome_pt": "Expressos Tulpar-Talgo KTZ (Astana–Almaty–Shymkent) & Malha UTY (Túnel de Kamchik / Vale de Fergana e Khiva)",
+        "sistema_nome_en": "KTZ Tulpar-Talgo Expresses (Astana–Almaty–Shymkent) & UTY Silk Road Network (Kamchik Tunnel / Fergana & Khiva)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9453,
+          43.2703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ponte-terrestre-eurasiatica-carga-khorgos-dostyk-aktau-cazaquistao-uzbequistao",
+        "nome": "Porto Seco de Khorgos Gateway (Altynkol) & Dostyk (Maior Terminal de Troca de Bitola China–Europa do Mundo)",
+        "linha": "Nova Ponte Terrestre Eurasiática",
+        "status": "operacao",
+        "integracoes": [
+          "Troca de Bitola 1.435 mm (China) ↔ 1.520 mm (Ásia Central/Europa)",
+          "China–Europe Railway Express"
+        ],
+        "sistema_nome_pt": "Nova Ponte Terrestre Eurasiática de Carga (Khorgos & Dostyk na Fronteira com a China – Astana – Porto de Aktau no Mar Cáspio)",
+        "sistema_nome_en": "New Eurasian Land Bridge Freight Corridor (Khorgos & Dostyk Dry Ports – Astana – Aktau Caspian Sea Port)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.38,
+          44.22
+        ]
+      }
     }
   ]
 }
