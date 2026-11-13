@@ -17132,6 +17132,196 @@
           -10.7167
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-express-mauricio-vlt-port-louis-rose-hill-quatre-bornes-vacoas-curepipe-reduit",
+        "nome": "Port Louis Victoria Station (Metro Express)",
+        "linha": "Metro Express Port Louis – Curepipe",
+        "status": "operacao",
+        "integracoes": "Victoria Urban Terminal / Caudan Waterfront / Porto de Port Louis",
+        "sistema_nome_pt": "Metro Express de Maurício (VLT Port Louis Victoria – Rose Hill – Quatre Bornes – Curepipe e Ramal Ébène – Réduit)",
+        "sistema_nome_en": "Mauritius Metro Express (LRT Port Louis Victoria – Rose Hill – Quatre Bornes – Curepipe & Ébène – Réduit Branch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4989,
+          -20.1654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-express-mauricio-vlt-port-louis-rose-hill-quatre-bornes-vacoas-curepipe-reduit",
+        "nome": "Rose Hill Central Station (Metro Express Interchange)",
+        "linha": "Linha Principal Port Louis – Curepipe e Ramal Ébène – Réduit",
+        "status": "operacao",
+        "integracoes": "Intercâmbio para Ébène Cybercity e Universidade de Maurício (Réduit)",
+        "sistema_nome_pt": "Metro Express de Maurício (VLT Port Louis Victoria – Rose Hill – Quatre Bornes – Curepipe e Ramal Ébène – Réduit)",
+        "sistema_nome_en": "Mauritius Metro Express (LRT Port Louis Victoria – Rose Hill – Quatre Bornes – Curepipe & Ébène – Réduit Branch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4792,
+          -20.2442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-express-mauricio-vlt-port-louis-rose-hill-quatre-bornes-vacoas-curepipe-reduit",
+        "nome": "Curepipe Central (Jan Palach Station)",
+        "linha": "Metro Express Port Louis – Curepipe",
+        "status": "operacao",
+        "integracoes": "Terminal Rodoviário Jan Palach / Centro de Curepipe",
+        "sistema_nome_pt": "Metro Express de Maurício (VLT Port Louis Victoria – Rose Hill – Quatre Bornes – Curepipe e Ramal Ébène – Réduit)",
+        "sistema_nome_en": "Mauritius Metro Express (LRT Port Louis Victoria – Rose Hill – Quatre Bornes – Curepipe & Ébène – Réduit Branch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5261,
+          -20.3175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fianarantsoa-costa-leste-fce-madagascar-fianarantsoa-manakara",
+        "nome": "Gare de Fianarantsoa (FCE)",
+        "linha": "Ligne Fianarantsoa-Côte Est (Fianarantsoa – Manakara)",
+        "status": "operacao",
+        "integracoes": "Capital do Planalto Betsileo / RN7",
+        "sistema_nome_pt": "Ferrovia Fianarantsoa–Costa Leste (FCE — Fianarantsoa – Sahambavy – Tolongoina – Manakara, Madagascar)",
+        "sistema_nome_en": "Fianarantsoa-Côte Est Railway (FCE — Fianarantsoa – Sahambavy – Tolongoina – Manakara, Madagascar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0858,
+          -21.4536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fianarantsoa-costa-leste-fce-madagascar-fianarantsoa-manakara",
+        "nome": "Gare de Manakara (FCE — Costa do Oceano Índico)",
+        "linha": "Ligne Fianarantsoa-Côte Est (Fianarantsoa – Manakara)",
+        "status": "operacao",
+        "integracoes": "Porto de Manakara / Cruzamento Ferroviário da Pista do Aeroporto de Manakara",
+        "sistema_nome_pt": "Ferrovia Fianarantsoa–Costa Leste (FCE — Fianarantsoa – Sahambavy – Tolongoina – Manakara, Madagascar)",
+        "sistema_nome_en": "Fianarantsoa-Côte Est Railway (FCE — Fianarantsoa – Sahambavy – Tolongoina – Manakara, Madagascar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0167,
+          -22.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "madarail-madagascar-antananarivo-moramanga-toamasina-antsirabe-lac-alaotra",
+        "nome": "Gare de Soarano (Antananarivo — Madarail)",
+        "linha": "Trem Urbano de Antananarivo e Linhas TCE (Toamasina) e TA (Antsirabe)",
+        "status": "operacao",
+        "integracoes": "Avenue de l'Indépendance / Centro Histórico de Antananarivo",
+        "sistema_nome_pt": "Madarail — Rede Norte de Madagascar (Urbano de Antananarivo e Corredores Soarano – Moramanga – Toamasina / Antsirabe)",
+        "sistema_nome_en": "Madarail — Madagascar Northern Network (Antananarivo Urban Train & Soarano – Moramanga – Toamasina / Antsirabe Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5219,
+          -18.9056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "madarail-madagascar-antananarivo-moramanga-toamasina-antsirabe-lac-alaotra",
+        "nome": "Gare de Toamasina / Tamatave (Madarail)",
+        "linha": "Ligne TCE (Antananarivo – Moramanga – Toamasina)",
+        "status": "operacao",
+        "integracoes": "Porto Autônomo de Toamasina / Terminal de Níquel-Cobalto de Ambatovy",
+        "sistema_nome_pt": "Madarail — Rede Norte de Madagascar (Urbano de Antananarivo e Corredores Soarano – Moramanga – Toamasina / Antsirabe)",
+        "sistema_nome_en": "Madarail — Madagascar Northern Network (Antananarivo Urban Train & Soarano – Moramanga – Toamasina / Antsirabe Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4023,
+          -18.1492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "camrail-camaroes-intercity-douala-edaa-eseaka-yaounde-kumba",
+        "nome": "Gare Centrale de Bessengué (Douala — Camrail)",
+        "linha": "InterCity Douala – Yaoundé e Expresso Douala – Kumba",
+        "status": "operacao",
+        "integracoes": "Porto Autônomo de Douala / Centro Comercial de Akwa e Bonanjo",
+        "sistema_nome_pt": "Camrail — Transcamerounais I (InterCity Douala – Edéa – Eséka – Yaoundé e Linha Oeste Mbanga – Kumba)",
+        "sistema_nome_en": "Camrail — Trans-Cameroon Railway I (InterCity Douala – Edéa – Eséka – Yaoundé & Mbanga – Kumba Western Line)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7186,
+          4.0605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "camrail-camaroes-transcamerounais-ii-expresso-norte-yaounde-belabo-ngaoundere",
+        "nome": "Gare Centrale de Yaoundé (Camrail)",
+        "linha": "InterCity Douala – Yaoundé e Train Express Nord Yaoundé – Ngaoundéré",
+        "status": "operacao",
+        "integracoes": "Hub Ferroviário Nacional de Camarões (Conexão Transcamerounais I & II)",
+        "sistema_nome_pt": "Camrail — Transcamerounais II (Train Express Nord Yaoundé – Nanga-Eboko – Belabo – Goyoum – Ngaoundéré)",
+        "sistema_nome_en": "Camrail — Trans-Cameroon Railway II (Northern Express Train Yaoundé – Nanga-Eboko – Belabo – Ngaoundéré)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5214,
+          3.8722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-camrail-douala-ngaoundere-chade-madarail-cromita-toamasina-petroleo",
+        "nome": "Terminal Ferroviário e Porto Seco de Ngaoundéré (Camrail Cargo)",
+        "linha": "Corredor de Carga Douala – Yaoundé – Belabo – Ngaoundéré",
+        "status": "operacao",
+        "integracoes": "Hub Multimodal para N'Djamena (Chade), Moundou e Norte de Camarões",
+        "sistema_nome_pt": "Corredores de Carga Camrail (Porto de Douala – Yaoundé – Ngaoundéré) e Madarail (Porto de Toamasina – Antananarivo / Cromita)",
+        "sistema_nome_en": "Camrail Freight Corridor (Douala Port – Yaoundé – Ngaoundéré) & Madarail Freight (Toamasina Port – Antananarivo / Chromite)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5847,
+          7.3277
+        ]
+      }
     }
   ]
 }
