@@ -14525,6 +14525,226 @@
           45.3271
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tanzania-sgr-eletrificada-dar-es-salaam-morogoro-dodoma",
+        "nome": "Estação Magufuli SGR Terminal (Dar es Salaam — Terminal da Ferrovia Eletrificada SGR)",
+        "linha": "Ferrovia Eletrificada SGR Dar es Salaam – Morogoro – Dodoma",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Elétricos EMU Hyundai Rotem (160 km/h)",
+          "Estação Histórica Kamata de Dar es Salaam"
+        ],
+        "sistema_nome_pt": "Ferrovia Eletrificada SGR da Tanzânia — Dar es Salaam–Morogoro–Dodoma (160 km/h)",
+        "sistema_nome_en": "Tanzania Electric Standard Gauge Railway (SGR) — Dar es Salaam–Morogoro–Dodoma (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2842,
+          -6.8231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tanzania-sgr-eletrificada-dar-es-salaam-morogoro-dodoma",
+        "nome": "Estação Samia Suluhu Hassan SGR Terminal (Dodoma — Capital Nacional da Tanzânia)",
+        "linha": "Ferrovia Eletrificada SGR Dar es Salaam – Morogoro – Dodoma",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Expressos Elétricos SGR (3h20 até Dar es Salaam)",
+          "Extensão SGR para Tabora e Mwanza"
+        ],
+        "sistema_nome_pt": "Ferrovia Eletrificada SGR da Tanzânia — Dar es Salaam–Morogoro–Dodoma (160 km/h)",
+        "sistema_nome_en": "Tanzania Electric Standard Gauge Railway (SGR) — Dar es Salaam–Morogoro–Dodoma (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7516,
+          -6.1831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tanzania-sgr-eletrificada-dar-es-salaam-morogoro-dodoma",
+        "nome": "Estação Morogoro SGR (Hub Regional nas Montanhas Uluguru)",
+        "linha": "Ferrovia Eletrificada SGR Dar es Salaam – Morogoro – Dodoma",
+        "status": "operacao",
+        "integracoes": [
+          "Ferrovia Eletrificada SGR",
+          "Linha Central Histórica TRC"
+        ],
+        "sistema_nome_pt": "Ferrovia Eletrificada SGR da Tanzânia — Dar es Salaam–Morogoro–Dodoma (160 km/h)",
+        "sistema_nome_en": "Tanzania Electric Standard Gauge Railway (SGR) — Dar es Salaam–Morogoro–Dodoma (160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6611,
+          -6.8161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-adis-abeba-light-rail-linhas-azul-verde-etiopia",
+        "nome": "Estação Meskel Square (Coração do VLT de Adis Abeba — Trecho Comum Linhas Azul e Verde)",
+        "linha": "Linhas Leste–Oeste (Verde) e Norte–Sul (Azul) do VLT de Adis Abeba",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Verde (Ayat–Torhailoch)",
+          "Linha Azul (Menelik II Square–Kality)"
+        ],
+        "sistema_nome_pt": "VLT de Adis Abeba — Linhas Leste–Oeste (Verde) e Norte–Sul (Azul)",
+        "sistema_nome_en": "Addis Ababa Light Rail Transit — East–West (Green) & North–South (Blue) Lines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7613,
+          9.0108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-adis-abeba-light-rail-linhas-azul-verde-etiopia",
+        "nome": "Estação Kality (Terminal Sul do VLT de Adis Abeba e Integração Rodoviária)",
+        "linha": "Linha Azul Norte–Sul do VLT de Adis Abeba",
+        "status": "operacao",
+        "integracoes": [
+          "Pátio Central Kality do VLT",
+          "Acesso à Estação Ferroviária de Lebu (EDR)"
+        ],
+        "sistema_nome_pt": "VLT de Adis Abeba — Linhas Leste–Oeste (Verde) e Norte–Sul (Azul)",
+        "sistema_nome_en": "Addis Ababa Light Rail Transit — East–West (Green) & North–South (Blue) Lines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7633,
+          8.9189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kenya-sgr-madaraka-express-mombasa-nairobi-naivasha-commuter",
+        "nome": "Estação Nairobi Terminus (Syokimau — Hub do Madaraka Express e Nairobi Commuter Rail)",
+        "linha": "Madaraka Express SGR (Mombasa–Nairóbi–Suswa) e DMU para Nairobi Central",
+        "status": "operacao",
+        "integracoes": [
+          "Madaraka Express SGR",
+          "Trem Suburbano Nairobi Commuter Rail (Link para Nairobi Central e JKIA)"
+        ],
+        "sistema_nome_pt": "Ferrovia SGR Madaraka Express (Mombasa–Nairóbi–Suswa) e Nairobi Commuter Rail",
+        "sistema_nome_en": "Kenya Standard Gauge Railway Madaraka Express (Mombasa–Nairobi–Suswa) & Nairobi Commuter Rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9158,
+          -1.3536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kenya-sgr-madaraka-express-mombasa-nairobi-naivasha-commuter",
+        "nome": "Estação Mombasa Terminus (Miritini — Portal Oceânico do Madaraka Express)",
+        "linha": "Madaraka Express SGR (Mombasa–Nairóbi)",
+        "status": "operacao",
+        "integracoes": [
+          "Madaraka Express SGR",
+          "Mombasa Commuter Rail Link para o Centro da Ilha de Mombasa"
+        ],
+        "sistema_nome_pt": "Ferrovia SGR Madaraka Express (Mombasa–Nairóbi–Suswa) e Nairobi Commuter Rail",
+        "sistema_nome_en": "Kenya Standard Gauge Railway Madaraka Express (Mombasa–Nairobi–Suswa) & Nairobi Commuter Rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5892,
+          -4.0044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-eletrificada-adis-abeba-dire-dawa-djibuti-edr",
+        "nome": "Estação Lebu (Adis Abeba — Terminal da Ferrovia Eletrificada Etiópia–Djibuti EDR)",
+        "linha": "Ferrovia Eletrificada Internacional Adis Abeba–Dire Dawa–Djibuti",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Internacionais de Passageiros e Carga EDR",
+          "Distrito Sul de Adis Abeba"
+        ],
+        "sistema_nome_pt": "Ferrovia Eletrificada Internacional Adis Abeba–Adama–Dire Dawa–Djibuti (EDR)",
+        "sistema_nome_en": "Addis Ababa–Djibouti Electrified Standard Gauge Railway (EDR)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7044,
+          8.9389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-tazara-dar-es-salaam-mbeya-new-kapiri-mposhi-trc",
+        "nome": "Estação TAZARA Dar es Salaam (Terminal Binacional Tanzânia–Zâmbia)",
+        "linha": "Ferrovia TAZARA (Dar es Salaam – Mbeya – New Kapiri Mposhi) e Trem Suburbano de Dar es Salaam",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Internacional Mukuba e Kilimanjaro",
+          "Trem Suburbano TAZARA de Dar es Salaam"
+        ],
+        "sistema_nome_pt": "Ferrovia Binacional TAZARA (Dar es Salaam–Mbeya–Zâmbia) e Linha Central TRC (Kigoma/Mwanza)",
+        "sistema_nome_en": "TAZARA Binational Railway (Dar es Salaam–Mbeya–Zambia) & TRC Central Line (Kigoma/Mwanza)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.255,
+          -6.8458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-sgr-porto-mombasa-embakasi-naivasha-icd-quenia",
+        "nome": "Porto Seco Intermodal de Embakasi (Nairobi Inland Container Depot — KPA/SGR)",
+        "linha": "Corredor de Carga SGR Porto de Mombasa – Nairóbi – Naivasha",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Duplos de Contêineres SGR do Porto de Mombasa",
+          "Hub Aduaneiro da África Oriental"
+        ],
+        "sistema_nome_pt": "Corredor de Carga SGR Porto de Mombasa – Terminal Intermodal de Embakasi (Nairóbi) e Naivasha ICD",
+        "sistema_nome_en": "Mombasa Port–Nairobi Embakasi ICD–Naivasha ICD Standard Gauge Freight Rail Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.935,
+          -1.325
+        ]
+      }
     }
   ]
 }

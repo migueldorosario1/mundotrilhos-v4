@@ -19936,6 +19936,270 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tanzania-sgr-eletrificada-dar-es-salaam-morogoro-dodoma",
+        "linha": "Ferrovia Eletrificada SGR 160 km/h (Dar es Salaam Magufuli Terminal – Pugu – Ruvu – Morogoro – Kilosa – Dodoma Samia Suluhu)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Eletrificada SGR da Tanzânia — Dar es Salaam–Morogoro–Dodoma (160 km/h)",
+        "sistema_nome_en": "Tanzania Electric Standard Gauge Railway (SGR) — Dar es Salaam–Morogoro–Dodoma (160 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2842,
+            -6.8231
+          ],
+          [
+            39.12,
+            -6.89
+          ],
+          [
+            38.68,
+            -6.75
+          ],
+          [
+            37.6611,
+            -6.8161
+          ],
+          [
+            36.9881,
+            -6.83
+          ],
+          [
+            36.48,
+            -6.36
+          ],
+          [
+            35.7516,
+            -6.1831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-adis-abeba-light-rail-linhas-azul-verde-etiopia",
+        "linha": "Linha Verde Leste–Oeste (Ayat – Megenagna – Meskel Square – Mexico – Torhailoch) e Linha Azul Norte–Sul (Menelik II Square – Kality)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLT de Adis Abeba — Linhas Leste–Oeste (Verde) e Norte–Sul (Azul)",
+        "sistema_nome_en": "Addis Ababa Light Rail Transit — East–West (Green) & North–South (Blue) Lines",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.8783,
+            9.0222
+          ],
+          [
+            38.8017,
+            9.0197
+          ],
+          [
+            38.7613,
+            9.0108
+          ],
+          [
+            38.745,
+            9.0103
+          ],
+          [
+            38.7139,
+            9.0069
+          ],
+          [
+            38.7536,
+            9.0358
+          ],
+          [
+            38.7633,
+            8.9189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kenya-sgr-madaraka-express-mombasa-nairobi-naivasha-commuter",
+        "linha": "Madaraka Express SGR (Mombasa Terminus Miritini – Voi – Mtito Andei – Emali – Nairobi Terminus Syokimau – Suswa)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia SGR Madaraka Express (Mombasa–Nairóbi–Suswa) e Nairobi Commuter Rail",
+        "sistema_nome_en": "Kenya Standard Gauge Railway Madaraka Express (Mombasa–Nairobi–Suswa) & Nairobi Commuter Rail",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.5892,
+            -4.0044
+          ],
+          [
+            38.5631,
+            -3.3944
+          ],
+          [
+            38.1653,
+            -2.6889
+          ],
+          [
+            37.4694,
+            -2.0789
+          ],
+          [
+            36.9158,
+            -1.3536
+          ],
+          [
+            36.6578,
+            -1.4328
+          ],
+          [
+            36.33,
+            -1.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-eletrificada-adis-abeba-dire-dawa-djibuti-edr",
+        "linha": "Ferrovia Eletrificada EDR (Lebu / Adis Abeba – Bishoftu – Adama – Awash – Mieso – Dire Dawa – Dewele – Nagad / Djibuti)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Eletrificada Internacional Adis Abeba–Adama–Dire Dawa–Djibuti (EDR)",
+        "sistema_nome_en": "Addis Ababa–Djibouti Electrified Standard Gauge Railway (EDR)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.7044,
+            8.9389
+          ],
+          [
+            38.9833,
+            8.75
+          ],
+          [
+            39.27,
+            8.54
+          ],
+          [
+            40.17,
+            8.98
+          ],
+          [
+            40.75,
+            9.23
+          ],
+          [
+            41.835,
+            9.605
+          ],
+          [
+            42.63,
+            10.95
+          ],
+          [
+            43.1336,
+            11.5514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-tazara-dar-es-salaam-mbeya-new-kapiri-mposhi-trc",
+        "linha": "Corredor TAZARA Uhuru Railway (Dar es Salaam – Kidatu – Makambako – Mbeya – Tunduma)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Binacional TAZARA (Dar es Salaam–Mbeya–Zâmbia) e Linha Central TRC (Kigoma/Mwanza)",
+        "sistema_nome_en": "TAZARA Binational Railway (Dar es Salaam–Mbeya–Zambia) & TRC Central Line (Kigoma/Mwanza)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.255,
+            -6.8458
+          ],
+          [
+            36.96,
+            -7.69
+          ],
+          [
+            34.83,
+            -8.85
+          ],
+          [
+            33.45,
+            -8.9
+          ],
+          [
+            32.7667,
+            -9.3
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-sgr-porto-mombasa-embakasi-naivasha-icd-quenia",
+        "linha": "Corredor de Contêineres SGR (Porto de Mombasa Port Reitz – Voi – Nairobi Embakasi ICD – Naivasha Inland Container Depot)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor de Carga SGR Porto de Mombasa – Terminal Intermodal de Embakasi (Nairóbi) e Naivasha ICD",
+        "sistema_nome_en": "Mombasa Port–Nairobi Embakasi ICD–Naivasha ICD Standard Gauge Freight Rail Corridor",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.63,
+            -4.0435
+          ],
+          [
+            39.5892,
+            -4.0044
+          ],
+          [
+            38.5631,
+            -3.3944
+          ],
+          [
+            36.935,
+            -1.325
+          ],
+          [
+            36.52,
+            -0.95
+          ]
+        ]
+      }
     }
   ]
 }
