@@ -22364,6 +22364,294 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-teera-7-linhas-karaj-iran",
+        "linha": "Metrô de Teerã Linhas 1 a 7 (Tajrish – Imam Khomeini – Kahrizak / Aeroporto IKA) e Expresso Suburbano Linha 5 (Sadeghieh – Karaj – Hashtgerd)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Teerã e Subúrbios — Linhas 1 a 7, Expresso de Karaj–Hashtgerd e Ramal Aeroporto Imam Khomeini (Maior Rede do Oriente Médio)",
+        "sistema_nome_en": "Tehran Metro & Suburbs — Lines 1–7, Karaj–Hashtgerd Express & Imam Khomeini Airport Branch (292 km, 160 Stations)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.4314,
+            35.8069
+          ],
+          [
+            51.4214,
+            35.6861
+          ],
+          [
+            51.3592,
+            35.5892
+          ],
+          [
+            51.1553,
+            35.4161
+          ],
+          [
+            51.4214,
+            35.6861
+          ],
+          [
+            51.3011,
+            35.7186
+          ],
+          [
+            50.9858,
+            35.8056
+          ],
+          [
+            50.6922,
+            35.9519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-mashhad-isfahan-shiraz-tabriz-karaj-iran",
+        "linha": "Metrô de Mashhad Linhas 1 e 2 (Vakilabad – Imam Reza – Aeroporto Hasheminejad) e Metrôs de Isfahan, Shiraz e Tabriz",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Redes de Metrô de Mashhad (Linhas 1 e 2), Isfahan, Shiraz (Linhas 1 e 2) e Tabriz",
+        "sistema_nome_en": "Mashhad (Lines 1–2), Isfahan, Shiraz (Lines 1–2) & Tabriz Urban Metro Networks",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            59.475,
+            36.3422
+          ],
+          [
+            59.5656,
+            36.3069
+          ],
+          [
+            59.6067,
+            36.2869
+          ],
+          [
+            59.6428,
+            36.2353
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-rapida-teera-mashhad-pardis-fadak-160kmh-iran",
+        "linha": "Corredor Rápido Teerã–Mashhad 160 km/h (Teerã Central – Garmsar – Semnan – Damghan – Shahrud – Neyshabur – Mashhad)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Ferroviário Rápido Teerã–Semnan–Shahrud–Neyshabur–Mashhad (Trens Pardis e Fadak 160 km/h — RAI)",
+        "sistema_nome_en": "Tehran–Semnan–Shahrud–Nishapur–Mashhad Fast Rail Corridor (Pardis & Fadak 160 km/h Express Trains — RAI)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3978,
+            35.6581
+          ],
+          [
+            52.3408,
+            35.2183
+          ],
+          [
+            53.3972,
+            35.5728
+          ],
+          [
+            54.3486,
+            36.1683
+          ],
+          [
+            54.9764,
+            36.4181
+          ],
+          [
+            57.6819,
+            36.2125
+          ],
+          [
+            58.7958,
+            36.2133
+          ],
+          [
+            59.6164,
+            36.3106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-transiraniana-unesco-bandar-torkaman-teera-ahvaz-bandar-imam-khomeini",
+        "linha": "Ferrovia Transiraniana Patrimônio UNESCO (Bandar Torkaman – Sari – Ponte Veresk – Teerã – Qom – Arak – Dorud – Andimeshk – Ahvaz – Bandar Imam Khomeini)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Transiraniana (Patrimônio UNESCO — Mar Cáspio a Teerã, Qom, Dorud, Ahvaz e Golfo Pérsico) e Troncos Nacionais RAI",
+        "sistema_nome_en": "Trans-Iranian Railway (UNESCO World Heritage — Caspian Sea to Tehran, Qom, Dorud, Ahvaz & Persian Gulf) & RAI Trunk Lines",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0686,
+            36.9017
+          ],
+          [
+            53.06,
+            36.5633
+          ],
+          [
+            52.9878,
+            35.9033
+          ],
+          [
+            51.3978,
+            35.6581
+          ],
+          [
+            50.8764,
+            34.6416
+          ],
+          [
+            49.6892,
+            34.0917
+          ],
+          [
+            49.0578,
+            33.4933
+          ],
+          [
+            48.3556,
+            32.46
+          ],
+          [
+            48.6692,
+            31.3203
+          ],
+          [
+            49.0758,
+            30.4358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "irr-iraque-expresso-bagda-karbala-samawa-basra-fallujah",
+        "linha": "Tronco Mesopotâmico IRR 160 km/h (Bagdá Central – Hillah/Babilônia – Karbala – Diwaniyah – Samawa – Nasiriyah/Ur – Basra Al-Maqal) e Linha Bagdá–Fallujah–Mosul",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias da República do Iraque (IRR) — Expresso Mesopotâmico Bagdá–Babilônia–Karbala–Samawa–Ur–Basra e Linha Bagdá–Fallujah–Mosul",
+        "sistema_nome_en": "Iraqi Republic Railways (IRR) — Baghdad–Babylon–Karbala–Samawa–Ur–Basra DMU Express & Baghdad–Fallujah–Mosul Line",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.13,
+            36.34
+          ],
+          [
+            43.875,
+            34.198
+          ],
+          [
+            44.3661,
+            33.3267
+          ],
+          [
+            44.42,
+            32.4636
+          ],
+          [
+            44.0325,
+            32.605
+          ],
+          [
+            44.925,
+            31.9889
+          ],
+          [
+            45.2806,
+            31.3189
+          ],
+          [
+            46.2572,
+            31.0439
+          ],
+          [
+            47.785,
+            30.5586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-instc-bandar-abbas-bafq-chabahar-umm-qasr-iran-iraque",
+        "linha": "Corredor de Carga INSTC e Mineral (Porto de Shahid Rajaee Bandar Abbas – Minas de Gol Gohar Sirjan – Bafq – Yazd – Kashan / Sarakhs)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Internacional Norte–Sul (INSTC — Porto de Bandar Abbas–Sirjan–Bafq–Yazd–Sarakhs) e Eixo Portuário Umm Qasr–Basra–Bagdá",
+        "sistema_nome_en": "North–South Freight Corridor (INSTC — Bandar Abbas Port–Sirjan–Bafq–Yazd–Sarakhs) & Umm Qasr–Basra–Baghdad Port Rail",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            56.0667,
+            27.1333
+          ],
+          [
+            55.675,
+            29.4519
+          ],
+          [
+            55.4028,
+            31.6033
+          ],
+          [
+            54.3569,
+            31.8974
+          ],
+          [
+            56.9244,
+            33.5886
+          ],
+          [
+            61.1578,
+            36.5447
+          ]
+        ]
+      }
     }
   ]
 }
