@@ -21820,6 +21820,302 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfm-sul-metrobus-maputo-matola-ressano-garcia-goba-limpopo-mocambique",
+        "linha": "Rede CFM Sul e Metrobus da Grande Maputo (Estação Central de Maputo – Machava – Matola – Boane/Goba – Ressano Garcia e Linha do Limpopo Maputo – Chokwé – Chicualacuala)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CFM Sul e Metrobus da Grande Maputo — Estação Central de Maputo–Matola–Boane–Marracuene–Ressano Garcia e Linha do Limpopo",
+        "sistema_nome_en": "CFM South & Greater Maputo Rail Metrobus — Maputo Central Station–Matola–Boane–Marracuene–Ressano Garcia & Limpopo Line",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.5644,
+            -25.9708
+          ],
+          [
+            32.4819,
+            -25.9189
+          ],
+          [
+            32.3333,
+            -26.0469
+          ],
+          [
+            32.4819,
+            -25.9189
+          ],
+          [
+            31.9889,
+            -25.4419
+          ],
+          [
+            32.5644,
+            -25.9708
+          ],
+          [
+            32.6733,
+            -25.7369
+          ],
+          [
+            32.9919,
+            -24.5333
+          ],
+          [
+            31.6939,
+            -22.0789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfm-centro-norte-beira-moatize-nampula-cuamba-lichinga-mocambique",
+        "linha": "Corredor CFM Norte (Nacala – Monapo – Nampula – Ribáuè – Cuamba – Lichinga) e Linha de Sena CFM Centro (Beira – Dondo – Caia – Moatize)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CFM Centro e CFM Norte — Linhas de Sena e Machipanda (Beira–Moatize/Chimoio) e Corredor Nampula–Cuamba–Lichinga",
+        "sistema_nome_en": "CFM Central & North — Sena & Machipanda Lines (Beira–Moatize/Chimoio) & Nampula–Cuamba–Lichinga Railway",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.6853,
+            -14.5628
+          ],
+          [
+            39.2667,
+            -15.1167
+          ],
+          [
+            38.3167,
+            -14.9333
+          ],
+          [
+            36.5372,
+            -14.8031
+          ],
+          [
+            35.2406,
+            -13.3128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zambia-railways-livingstone-lusaka-kapiri-mposhi-ndola-kitwe-victoria-falls",
+        "linha": "Tronco Nacional Zambia Railways (Ponte de Victoria Falls – Livingstone – Choma – Kafue – Lusaka – Kabwe – Kapiri Mposhi – Ndola – Kitwe)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Zambia Railways (ZRL) — Tronco Nacional Ponte de Victoria Falls–Livingstone–Lusaka–Kapiri Mposhi–Ndola–Kitwe",
+        "sistema_nome_en": "Zambia Railways (ZRL) — Victoria Falls Bridge–Livingstone–Lusaka–Kapiri Mposhi–Ndola–Kitwe Trunk Line",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.8572,
+            -17.9281
+          ],
+          [
+            25.8542,
+            -17.8419
+          ],
+          [
+            26.9875,
+            -16.8089
+          ],
+          [
+            28.1814,
+            -15.7694
+          ],
+          [
+            28.2833,
+            -15.4167
+          ],
+          [
+            28.4464,
+            -14.4469
+          ],
+          [
+            28.6694,
+            -13.9714
+          ],
+          [
+            28.6333,
+            -12.9667
+          ],
+          [
+            28.2136,
+            -12.8025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "nrz-zimbabue-bulawayo-victoria-falls-harare-mutare",
+        "linha": "Malha Nacional NRZ Zimbábue (Victoria Falls – Hwange – Bulawayo – Gweru – Kwekwe – Harare – Mutare)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "National Railways of Zimbabwe (NRZ) — Corredores Bulawayo–Victoria Falls e Bulawayo–Gweru–Harare–Mutare",
+        "sistema_nome_en": "National Railways of Zimbabwe (NRZ) — Bulawayo–Victoria Falls & Bulawayo–Gweru–Harare–Mutare Lines",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.8333,
+            -17.9317
+          ],
+          [
+            26.4928,
+            -18.3644
+          ],
+          [
+            28.5739,
+            -20.1561
+          ],
+          [
+            29.8167,
+            -19.45
+          ],
+          [
+            29.8167,
+            -18.9167
+          ],
+          [
+            31.0522,
+            -17.8319
+          ],
+          [
+            32.6708,
+            -18.9708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-logistico-nacala-cln-carvao-moatize-porto-nacala-a-velha-mocambique",
+        "linha": "Corredor Heavy-Haul de Carvão CLN (Moatize – Nkaya Maláui – Entre-Lagos – Cuamba – Nampula – Terminal Marítimo de Nacala-a-Velha) e Linha de Sena Moatize–Porto da Beira",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Logístico de Nacala (CLN) e Linha de Sena — Ferrovias Heavy-Haul de Carvão Moatize–Maláui–Porto de Nacala-a-Velha e Porto da Beira",
+        "sistema_nome_en": "Nacala Logistics Corridor (CLN) & Sena Line — Moatize Coal Heavy-Haul Railways to Nacala-a-Velha & Beira Ports",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.8389,
+            -19.8314
+          ],
+          [
+            34.62,
+            -19.6
+          ],
+          [
+            35.33,
+            -17.82
+          ],
+          [
+            33.7431,
+            -16.1158
+          ],
+          [
+            35.15,
+            -15.2
+          ],
+          [
+            35.89,
+            -14.95
+          ],
+          [
+            36.5372,
+            -14.8031
+          ],
+          [
+            39.2667,
+            -15.1167
+          ],
+          [
+            40.665,
+            -14.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-cobre-cobalto-copperbelt-zambia-zimbabue-porto-maputo-beira",
+        "linha": "Corredor Mineral Sul-Africano (Copperbelt Ndola/Kitwe – Livingstone – Hwange – Bulawayo – Rutenga – Chicualacuala – Porto de Maputo/Matola)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Ferroviário Mineral da África Austral — Cobre da Zâmbia (Copperbelt) e Cromo/Lítio do Zimbábue aos Portos de Maputo e Beira",
+        "sistema_nome_en": "Southern Africa Mineral Freight Corridor — Zambian Copperbelt & Zimbabwe Chrome/Coal to Maputo & Beira Ports",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.6333,
+            -12.9667
+          ],
+          [
+            28.2833,
+            -15.4167
+          ],
+          [
+            25.8542,
+            -17.8419
+          ],
+          [
+            28.5739,
+            -20.1561
+          ],
+          [
+            30.7333,
+            -21.25
+          ],
+          [
+            31.6939,
+            -22.0789
+          ],
+          [
+            32.45,
+            -25.95
+          ],
+          [
+            32.5644,
+            -25.9708
+          ]
+        ]
+      }
     }
   ]
 }

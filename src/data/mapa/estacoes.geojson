@@ -16059,6 +16059,227 @@
           5.2789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfm-sul-metrobus-maputo-matola-ressano-garcia-goba-limpopo-mocambique",
+        "nome": "Estação Central dos Caminhos de Ferro de Maputo (Monumento Arquitetônico de 1910 com Cúpula Metálica)",
+        "linha": "Linhas de Ressano Garcia, Goba, Limpopo e Metrobus da Grande Maputo",
+        "status": "operacao",
+        "integracoes": [
+          "Museu Nacional dos Caminhos de Ferro de Moçambique",
+          "Metrobus Ferroviário Urbano de Maputo",
+          "Porto de Maputo"
+        ],
+        "sistema_nome_pt": "CFM Sul e Metrobus da Grande Maputo — Estação Central de Maputo–Matola–Boane–Marracuene–Ressano Garcia e Linha do Limpopo",
+        "sistema_nome_en": "CFM South & Greater Maputo Rail Metrobus — Maputo Central Station–Matola–Boane–Marracuene–Ressano Garcia & Limpopo Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5644,
+          -25.9708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfm-sul-metrobus-maputo-matola-ressano-garcia-goba-limpopo-mocambique",
+        "nome": "Estação Fronteiriça de Ressano Garcia (Interconexão Internacional CFM Sul ↔ Transnet África do Sul)",
+        "linha": "Linha de Ressano Garcia Maputo–Komatipoort",
+        "status": "operacao",
+        "integracoes": [
+          "Corredor Internacional de Maputo",
+          "Fronteira Ferroviária Ressano Garcia / Komatipoort"
+        ],
+        "sistema_nome_pt": "CFM Sul e Metrobus da Grande Maputo — Estação Central de Maputo–Matola–Boane–Marracuene–Ressano Garcia e Linha do Limpopo",
+        "sistema_nome_en": "CFM South & Greater Maputo Rail Metrobus — Maputo Central Station–Matola–Boane–Marracuene–Ressano Garcia & Limpopo Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9889,
+          -25.4419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfm-centro-norte-beira-moatize-nampula-cuamba-lichinga-mocambique",
+        "nome": "Estação Ferroviária da Beira (Edifício Modernista de 1966 e Terminal das Linhas de Sena e Machipanda)",
+        "linha": "Linha de Sena (Beira–Moatize) e Linha de Machipanda (Beira–Zimbábue)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto da Beira",
+          "Arquitetura Modernista Histórica de Moçambique"
+        ],
+        "sistema_nome_pt": "CFM Centro e CFM Norte — Linhas de Sena e Machipanda (Beira–Moatize/Chimoio) e Corredor Nampula–Cuamba–Lichinga",
+        "sistema_nome_en": "CFM Central & North — Sena & Machipanda Lines (Beira–Moatize/Chimoio) & Nampula–Cuamba–Lichinga Railway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8389,
+          -19.8314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfm-centro-norte-beira-moatize-nampula-cuamba-lichinga-mocambique",
+        "nome": "Estação Central de Nampula (Principal Hub Ferroviário do CFM Norte no Corredor de Nacala)",
+        "linha": "Corredor Ferroviário do Norte Nacala–Nampula–Cuamba–Lichinga",
+        "status": "operacao",
+        "integracoes": [
+          "Trens de Passageiros Nampula–Cuamba",
+          "Oficinas Gerais do CFM Norte"
+        ],
+        "sistema_nome_pt": "CFM Centro e CFM Norte — Linhas de Sena e Machipanda (Beira–Moatize/Chimoio) e Corredor Nampula–Cuamba–Lichinga",
+        "sistema_nome_en": "CFM Central & North — Sena & Machipanda Lines (Beira–Moatize/Chimoio) & Nampula–Cuamba–Lichinga Railway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2667,
+          -15.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zambia-railways-livingstone-lusaka-kapiri-mposhi-ndola-kitwe-victoria-falls",
+        "nome": "Estação de Livingstone e Ponte Ferroviária de Victoria Falls (Travessia Histórica de 1905 sobre o Rio Zambeze)",
+        "linha": "Tronco Zambia Railways Livingstone–Lusaka–Kitwe e Conexão NRZ Zimbábue",
+        "status": "operacao",
+        "integracoes": [
+          "Ponte Rodoferroviária das Cataratas Vitória (128 m acima do Zambeze)",
+          "Museu Ferroviário de Livingstone"
+        ],
+        "sistema_nome_pt": "Zambia Railways (ZRL) — Tronco Nacional Ponte de Victoria Falls–Livingstone–Lusaka–Kapiri Mposhi–Ndola–Kitwe",
+        "sistema_nome_en": "Zambia Railways (ZRL) — Victoria Falls Bridge–Livingstone–Lusaka–Kapiri Mposhi–Ndola–Kitwe Trunk Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8572,
+          -17.9281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zambia-railways-livingstone-lusaka-kapiri-mposhi-ndola-kitwe-victoria-falls",
+        "nome": "Estação Ferroviária de Lusaka (Hub Central da Capital da Zâmbia)",
+        "linha": "Tronco Nacional Zambia Railways Livingstone–Lusaka–Copperbelt",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Kafue–Lusaka–Kapiri Mposhi–Ndola",
+          "Centro Financeiro de Lusaka"
+        ],
+        "sistema_nome_pt": "Zambia Railways (ZRL) — Tronco Nacional Ponte de Victoria Falls–Livingstone–Lusaka–Kapiri Mposhi–Ndola–Kitwe",
+        "sistema_nome_en": "Zambia Railways (ZRL) — Victoria Falls Bridge–Livingstone–Lusaka–Kapiri Mposhi–Ndola–Kitwe Trunk Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2833,
+          -15.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "nrz-zimbabue-bulawayo-victoria-falls-harare-mutare",
+        "nome": "Estação Central de Bulawayo (Sede da NRZ, Museu Ferroviário e Maior Entroncamento do Zimbábue)",
+        "linha": "Corredores Bulawayo–Victoria Falls, Bulawayo–Harare e Bulawayo–Beitbridge/Chicualacuala",
+        "status": "operacao",
+        "integracoes": [
+          "Bulawayo Railway Museum",
+          "Trens Noturnos Bulawayo–Victoria Falls e Bulawayo–Harare"
+        ],
+        "sistema_nome_pt": "National Railways of Zimbabwe (NRZ) — Corredores Bulawayo–Victoria Falls e Bulawayo–Gweru–Harare–Mutare",
+        "sistema_nome_en": "National Railways of Zimbabwe (NRZ) — Bulawayo–Victoria Falls & Bulawayo–Gweru–Harare–Mutare Lines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5739,
+          -20.1561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "nrz-zimbabue-bulawayo-victoria-falls-harare-mutare",
+        "nome": "Estação Ferroviária de Harare (Terminal da Capital do Zimbábue no Eixo Bulawayo–Harare–Mutare)",
+        "linha": "Linha Principal Bulawayo–Gweru–Harare–Mutare (NRZ)",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Urbanos e Interurbanos NRZ de Harare",
+          "Corredor Leste para Mutare e Porto da Beira"
+        ],
+        "sistema_nome_pt": "National Railways of Zimbabwe (NRZ) — Corredores Bulawayo–Victoria Falls e Bulawayo–Gweru–Harare–Mutare",
+        "sistema_nome_en": "National Railways of Zimbabwe (NRZ) — Bulawayo–Victoria Falls & Bulawayo–Gweru–Harare–Mutare Lines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0522,
+          -17.8319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-logistico-nacala-cln-carvao-moatize-porto-nacala-a-velha-mocambique",
+        "nome": "Terminal Ferroviário Carbonífero de Moatize (Tete) e Terminal Marítimo de Nacala-a-Velha (CLN)",
+        "linha": "Corredor Logístico de Nacala (912 km) e Linha de Sena (575 km)",
+        "status": "operacao",
+        "integracoes": [
+          "Pêra Ferroviária de Carregamento de Carvão de Moatize",
+          "Porto de Águas Profundas de Nacala-a-Velha"
+        ],
+        "sistema_nome_pt": "Corredor Logístico de Nacala (CLN) e Linha de Sena — Ferrovias Heavy-Haul de Carvão Moatize–Maláui–Porto de Nacala-a-Velha e Porto da Beira",
+        "sistema_nome_en": "Nacala Logistics Corridor (CLN) & Sena Line — Moatize Coal Heavy-Haul Railways to Nacala-a-Velha & Beira Ports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7431,
+          -16.1158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-cobre-cobalto-copperbelt-zambia-zimbabue-porto-maputo-beira",
+        "nome": "Hub Ferroviário Mineral de Ndola / Kitwe (Coração do Cinturão do Cobre / Copperbelt da Zâmbia)",
+        "linha": "Corredor de Exportação Mineral Copperbelt–Livingstone–Bulawayo–Portos do Índico",
+        "status": "operacao",
+        "integracoes": [
+          "Refinarias e Minas de Cobre e Cobalto do Copperbelt",
+          "Interconexão com a SNCC (RD Congo) em Sakania"
+        ],
+        "sistema_nome_pt": "Corredor Ferroviário Mineral da África Austral — Cobre da Zâmbia (Copperbelt) e Cromo/Lítio do Zimbábue aos Portos de Maputo e Beira",
+        "sistema_nome_en": "Southern Africa Mineral Freight Corridor — Zambian Copperbelt & Zimbabwe Chrome/Coal to Maputo & Beira Ports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6333,
+          -12.9667
+        ]
+      }
     }
   ]
 }
