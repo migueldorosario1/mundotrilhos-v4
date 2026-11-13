@@ -13857,6 +13857,227 @@
           36.9
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "manila-lrt2-mrt3-metro-filipinas",
+        "nome": "Araneta Center–Cubao Interchange (Quezon City — Integração LRT Line 2 Megatren + MRT Line 3 EDSA)",
+        "linha": "Manila LRT-2 / MRT-3",
+        "status": "operacao",
+        "integracoes": [
+          "LRT Line 2",
+          "MRT Line 3 EDSA"
+        ],
+        "sistema_nome_pt": "Metrô de Manila (LRT Line 2 Megatren Recto–Antipolo & MRT Line 3 EDSA North Avenue–Taft Avenue)",
+        "sistema_nome_en": "Manila Metro (LRT Line 2 Megatren Recto–Antipolo & MRT Line 3 EDSA North Avenue–Taft Avenue)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0528,
+          14.6228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "manila-lrt2-mrt3-metro-filipinas",
+        "nome": "Ayala & Taft Avenue / EDSA Interchange (Makati / Pasay — Coração Financeiro de Metro Manila)",
+        "linha": "Manila MRT-3 / LRT-1",
+        "status": "operacao",
+        "integracoes": [
+          "MRT Line 3",
+          "LRT Line 1 EDSA",
+          "EDSA Carousel BRT"
+        ],
+        "sistema_nome_pt": "Metrô de Manila (LRT Line 2 Megatren Recto–Antipolo & MRT Line 3 EDSA North Avenue–Taft Avenue)",
+        "sistema_nome_en": "Manila Metro (LRT Line 2 Megatren Recto–Antipolo & MRT Line 3 EDSA North Avenue–Taft Avenue)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0281,
+          14.5492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lahore-orange-line-automated-metro-paquistao",
+        "nome": "GPO (General Post Office) Central Underground Station & Anarkali (Lahore Orange Line)",
+        "linha": "Lahore Orange Line Metro",
+        "status": "operacao",
+        "integracoes": [
+          "Lahore Orange Line Metro",
+          "Lahore Metrobus"
+        ],
+        "sistema_nome_pt": "Metrô Automático de Lahore (Orange Line — Ali Town – Estação Central de Lahore – Dera Gujran)",
+        "sistema_nome_en": "Lahore Orange Line Automated Metro (Ali Town – Lahore Junction – Dera Gujran — PMA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3142,
+          31.5656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lahore-orange-line-automated-metro-paquistao",
+        "nome": "Lahore Junction Railway & Metro Interchange Station (Histórica Estação Central de Lahore de 1860)",
+        "linha": "Pakistan Railways ML-1 / Orange Line Metro",
+        "status": "operacao",
+        "integracoes": [
+          "Pakistan Railways Main Line 1",
+          "Lahore Orange Line Metro"
+        ],
+        "sistema_nome_pt": "Metrô Automático de Lahore (Orange Line — Ali Town – Estação Central de Lahore – Dera Gujran)",
+        "sistema_nome_en": "Lahore Orange Line Automated Metro (Ali Town – Lahore Junction – Dera Gujran — PMA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3428,
+          31.5761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "manila-lrt-line-1-baclaran-dr-santos-roosevelt-filipinas",
+        "nome": "Doroteo Jose – Recto Interchange (Manila — Integração LRT Line 1 + LRT Line 2)",
+        "linha": "Manila LRT-1 / LRT-2",
+        "status": "operacao",
+        "integracoes": [
+          "LRT Line 1",
+          "LRT Line 2 Recto"
+        ],
+        "sistema_nome_pt": "Manila LRT Line 1 (Fernando Poe Jr./Roosevelt – Doroteo Jose – EDSA – Baclaran – Dr. Santos em Parañaque)",
+        "sistema_nome_en": "Manila LRT Line 1 (Fernando Poe Jr./Roosevelt – Doroteo Jose – EDSA – Baclaran – Dr. Santos Cavite Extension)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9822,
+          14.6053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "manila-lrt-line-1-baclaran-dr-santos-roosevelt-filipinas",
+        "nome": "PITX (Parañaque Integrated Terminal Exchange) & Dr. Santos Station (Extensão Cavite da LRT-1)",
+        "linha": "Manila LRT Line 1",
+        "status": "operacao",
+        "integracoes": [
+          "LRT Line 1 Cavite Extension",
+          "Terminal Intermodal PITX"
+        ],
+        "sistema_nome_pt": "Manila LRT Line 1 (Fernando Poe Jr./Roosevelt – Doroteo Jose – EDSA – Baclaran – Dr. Santos em Parañaque)",
+        "sistema_nome_en": "Manila LRT Line 1 (Fernando Poe Jr./Roosevelt – Doroteo Jose – EDSA – Baclaran – Dr. Santos Cavite Extension)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.991,
+          14.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "pnr-metro-commuter-manila-laguna-bicol-filipinas",
+        "nome": "Manila Tutuban Central Station (Km 0 Histórico da Philippine National Railways, 1892) & Naga Station",
+        "linha": "PNR Commuter",
+        "status": "operacao",
+        "integracoes": [
+          "PNR Metro Commuter",
+          "Futura North–South Commuter Railway (NSCR)"
+        ],
+        "sistema_nome_pt": "Philippine National Railways (PNR Metro South Commuter & Bicol Commuter Naga–Sipocot–Legazpi)",
+        "sistema_nome_en": "Philippine National Railways (PNR Metro Commuter Line & Bicol Commuter Naga–Sipocot–Legazpi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9733,
+          14.6078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "pakistan-railways-main-line-1-karachi-lahore-rawalpindi-peshawar-khyber",
+        "nome": "Karachi Cantonment Railway Station (Terminal Sul dos Expressos Green Line, Tezgam e Khyber Mail)",
+        "linha": "Pakistan Railways ML-1",
+        "status": "operacao",
+        "integracoes": [
+          "Pakistan Railways ML-1",
+          "Karachi City Station"
+        ],
+        "sistema_nome_pt": "Malha Principal da Pakistan Railways (Main Line 1 ML-1 Karachi–Multan–Lahore–Rawalpindi–Peshawar & Bolan Mail para Quetta)",
+        "sistema_nome_en": "Pakistan Railways Main Line 1 (ML-1 Karachi–Multan–Lahore–Rawalpindi–Peshawar, 1,687 km) & Quetta Bolan Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0422,
+          24.8469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "pakistan-railways-main-line-1-karachi-lahore-rawalpindi-peshawar-khyber",
+        "nome": "Rawalpindi Railway Station (Islamabad/Rawalpindi) & Quetta Station (Passo de Bolan)",
+        "linha": "Pakistan Railways ML-1 / ML-3",
+        "status": "operacao",
+        "integracoes": [
+          "Pakistan Railways ML-1",
+          "Rawalpindi–Islamabad Metrobus"
+        ],
+        "sistema_nome_pt": "Malha Principal da Pakistan Railways (Main Line 1 ML-1 Karachi–Multan–Lahore–Rawalpindi–Peshawar & Bolan Mail para Quetta)",
+        "sistema_nome_en": "Pakistan Railways Main Line 1 (ML-1 Karachi–Multan–Lahore–Rawalpindi–Peshawar, 1,687 km) & Quetta Bolan Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0606,
+          33.5975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-portos-karachi-bin-qasim-upcountry-paquistao",
+        "nome": "Terminais Ferroviários de Karachi Port & Port Qasim (Mar Arábico — Portal de Carga do Paquistão)",
+        "linha": "Corredor de Carga Upcountry",
+        "status": "operacao",
+        "integracoes": [
+          "Pakistan Railways Freight",
+          "Porto Marítimo de Karachi e Port Qasim"
+        ],
+        "sistema_nome_pt": "Corredor Ferroviário de Carga Portos de Karachi & Port Qasim – Portos Secos de Lahore / Faisalabad / Multan",
+        "sistema_nome_en": "Karachi Port & Port Qasim – Lahore / Faisalabad / Multan Upcountry Freight Corridor (Pakistan Railways Freight)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.988,
+          24.8415
+        ]
+      }
     }
   ]
 }
