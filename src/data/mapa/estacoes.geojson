@@ -14966,6 +14966,222 @@
           22.31
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-china-laos-lcr-boten-luang-prabang-vang-vieng-vientiane",
+        "nome": "Estação Vientiane LCR (Terminal Sul da Ferrovia Eletrificada China–Laos)",
+        "linha": "Ferrovia China–Laos LCR (Boten – Luang Prabang – Vang Vieng – Vientiane)",
+        "status": "operacao",
+        "integracoes": [
+          "Trens EMU CR200J Lane Xang (160 km/h)",
+          "Expresso Internacional Vientiane–Kunming South"
+        ],
+        "sistema_nome_pt": "Ferrovia Eletrificada China–Laos (LCR Lane Xang EMU 160 km/h) — Boten–Luang Prabang–Vang Vieng–Vientiane",
+        "sistema_nome_en": "China–Laos Electrified Railway (LCR Lane Xang EMU 160 km/h) — Boten–Luang Prabang–Vang Vieng–Vientiane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6694,
+          18.0758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-china-laos-lcr-boten-luang-prabang-vang-vieng-vientiane",
+        "nome": "Estação Luang Prabang (Capital Real Patrimônio UNESCO no Rio Mekong — LCR)",
+        "linha": "Ferrovia China–Laos LCR (Boten – Luang Prabang – Vientiane)",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Expressos EMU Lane Xang",
+          "Viaduto da Ferrovia LCR sobre o Rio Mekong"
+        ],
+        "sistema_nome_pt": "Ferrovia Eletrificada China–Laos (LCR Lane Xang EMU 160 km/h) — Boten–Luang Prabang–Vang Vieng–Vientiane",
+        "sistema_nome_en": "China–Laos Electrified Railway (LCR Lane Xang EMU 160 km/h) — Boten–Luang Prabang–Vang Vieng–Vientiane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1819,
+          19.8697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-china-laos-lcr-boten-luang-prabang-vang-vieng-vientiane",
+        "nome": "Estação Fronteiriça de Boten (Portal Internacional Laos–China da Ferrovia LCR)",
+        "linha": "Ferrovia China–Laos LCR (Fronteira Boten–Mohan)",
+        "status": "operacao",
+        "integracoes": [
+          "Túnel da Amizade Laos–China",
+          "Controle Aduaneiro e Imigração Ferroviária Internacional"
+        ],
+        "sistema_nome_pt": "Ferrovia Eletrificada China–Laos (LCR Lane Xang EMU 160 km/h) — Boten–Luang Prabang–Vang Vieng–Vientiane",
+        "sistema_nome_en": "China–Laos Electrified Railway (LCR Lane Xang EMU 160 km/h) — Boten–Luang Prabang–Vang Vieng–Vientiane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6719,
+          21.1869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "yangon-circular-railway-mr-suburban-mianmar",
+        "nome": "Estação Central de Yangon (Yangon Central Railway Station — Arquitetura Tradicional Birmanesa Pyatthat)",
+        "linha": "Ferrovia Circular de Yangon e Tronco Yangon–Naypyidaw–Mandalay",
+        "status": "operacao",
+        "integracoes": [
+          "Yangon Circular Railway (Anel de 39 Estações)",
+          "Expressos Nacionais Myanma Railways"
+        ],
+        "sistema_nome_pt": "Ferrovia Circular de Yangon — Anel Suburbano Metropolitano (39 Estações)",
+        "sistema_nome_en": "Yangon Circular Railway — Metropolitan Suburban Loop Line (39 Stations)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1614,
+          16.7822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "myanma-railways-yangon-naypyidaw-mandalay-goteik-viaduct",
+        "nome": "Estação Central de Mandalay e Naypyidaw (Hubs do Tronco Central Birmanês)",
+        "linha": "Tronco Principal Yangon – Naypyidaw – Mandalay",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Expressos Yangon–Mandalay",
+          "Ramal Montanhoso Mandalay–Pyin Oo Lwin–Lashio"
+        ],
+        "sistema_nome_pt": "Tronco Nacional Myanma Railways (Yangon–Naypyidaw–Mandalay e Viaduto Histórico de Goteik)",
+        "sistema_nome_en": "Myanma Railways National Trunk (Yangon–Naypyidaw–Mandalay & Historic Goteik Viaduct)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0869,
+          21.9786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "myanma-railways-yangon-naypyidaw-mandalay-goteik-viaduct",
+        "nome": "Viaduto Ferroviário de Goteik (Goteik Viaduct — Ponte Histórica de Aço de 1900 a 102 m de Altura)",
+        "linha": "Linha Montanhosa Mandalay – Pyin Oo Lwin – Goteik – Hsipaw – Lashio",
+        "status": "operacao",
+        "integracoes": [
+          "Maior Viaduto Ferroviário de Mianmar (Pennsylvania Steel Co., 1900)"
+        ],
+        "sistema_nome_pt": "Tronco Nacional Myanma Railways (Yangon–Naypyidaw–Mandalay e Viaduto Histórico de Goteik)",
+        "sistema_nome_en": "Myanma Railways National Trunk (Yangon–Naypyidaw–Mandalay & Historic Goteik Viaduct)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.8672,
+          22.3436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "royal-railway-cambodia-phnom-penh-kampot-sihanoukville-poipet",
+        "nome": "Estação Ferroviária de Phnom Penh (Edifício Art Déco Histórico de 1932 — Royal Railway)",
+        "linha": "Linhas Sul (Sihanoukville) e Norte (Battambang–Poipet) da Royal Railway Cambodia",
+        "status": "operacao",
+        "integracoes": [
+          "Trens de Passageiros para Kampot/Sihanoukville e Battambang/Poipet"
+        ],
+        "sistema_nome_pt": "Ferrovia Real do Camboja — Linha Sul (Phnom Penh–Kampot–Sihanoukville) e Linha Norte (Battambang–Poipet)",
+        "sistema_nome_en": "Royal Railway Cambodia — Southern Line (Phnom Penh–Kampot–Sihanoukville) & Northern Line (Battambang–Poipet)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9169,
+          11.5719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "royal-railway-cambodia-phnom-penh-kampot-sihanoukville-poipet",
+        "nome": "Estação de Sihanoukville e Kampot (Litoral do Golfo da Tailândia — Camboja)",
+        "linha": "Linha Sul Phnom Penh – Kampot – Sihanoukville",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Autônomo de Sihanoukville",
+          "Trens Turísticos e Regulares Royal Railway"
+        ],
+        "sistema_nome_pt": "Ferrovia Real do Camboja — Linha Sul (Phnom Penh–Kampot–Sihanoukville) e Linha Norte (Battambang–Poipet)",
+        "sistema_nome_en": "Royal Railway Cambodia — Southern Line (Phnom Penh–Kampot–Sihanoukville) & Northern Line (Battambang–Poipet)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5169,
+          10.6389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-transfronteirica-tha-naleng-khamsavath-vientiane-nong-khai",
+        "nome": "Estação Khamsavath (Vientiane) e Thanaleng (Terminal do Expresso Internacional Bangkok–Vientiane)",
+        "linha": "Ligação Transfronteiriça Vientiane Khamsavath – Thanaleng – Nong Khai",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Internacional SRT Krung Thep Aphiwat (Bangkok) – Vientiane (Khamsavath)"
+        ],
+        "sistema_nome_pt": "Ligação Ferroviária Internacional Vientiane (Khamsavath/Thanaleng) – Ponte da Amizade – Nong Khai (Tailândia)",
+        "sistema_nome_en": "Vientiane (Khamsavath/Thanaleng)–Nong Khai Cross-Border Railway Link (Mekong Friendship Bridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6711,
+          17.9711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-vientiane-south-dry-port-lcr-sihanoukville-port-rail",
+        "nome": "Porto Seco Intermodal de Thanaleng / Vientiane South (Transbordo Bitola Padrão 1.435 mm ↔ Métrica 1.000 mm)",
+        "linha": "Corredor Logístico China–Laos–Tailândia",
+        "status": "operacao",
+        "integracoes": [
+          "Transbordo Ferroviário Internacional LCR (1.435 mm) e SRT (1.000 mm)"
+        ],
+        "sistema_nome_pt": "Corredor de Carga Vientiane South / Thanaleng Dry Port (LCR) e Eixo Portuário de Sihanoukville",
+        "sistema_nome_en": "Vientiane South / Thanaleng Dry Port Freight Hub (LCR) & Sihanoukville Port Freight Railway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7106,
+          17.9056
+        ]
+      }
     }
   ]
 }

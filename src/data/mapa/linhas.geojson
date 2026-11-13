@@ -20534,6 +20534,292 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-china-laos-lcr-boten-luang-prabang-vang-vieng-vientiane",
+        "linha": "Ferrovia Eletrificada China–Laos LCR 160 km/h (Vientiane – Phonhong – Vang Vieng – Kasi – Luang Prabang – Muang Xay – Nateuy – Boten)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Eletrificada China–Laos (LCR Lane Xang EMU 160 km/h) — Boten–Luang Prabang–Vang Vieng–Vientiane",
+        "sistema_nome_en": "China–Laos Electrified Railway (LCR Lane Xang EMU 160 km/h) — Boten–Luang Prabang–Vang Vieng–Vientiane",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.6694,
+            18.0758
+          ],
+          [
+            102.45,
+            18.5
+          ],
+          [
+            102.4439,
+            18.9389
+          ],
+          [
+            102.25,
+            19.42
+          ],
+          [
+            102.1819,
+            19.8697
+          ],
+          [
+            101.9869,
+            20.6869
+          ],
+          [
+            101.6639,
+            21.1167
+          ],
+          [
+            101.6719,
+            21.1869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "yangon-circular-railway-mr-suburban-mianmar",
+        "linha": "Anel Suburbano de Yangon (Yangon Central – Kyeemyindaing – Insein – Mingaladon – Mahlwagone – Yangon Central)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Circular de Yangon — Anel Suburbano Metropolitano (39 Estações)",
+        "sistema_nome_en": "Yangon Circular Railway — Metropolitan Suburban Loop Line (39 Stations)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            96.1614,
+            16.7822
+          ],
+          [
+            96.1244,
+            16.805
+          ],
+          [
+            96.1036,
+            16.8897
+          ],
+          [
+            96.1539,
+            16.9258
+          ],
+          [
+            96.1914,
+            16.855
+          ],
+          [
+            96.1833,
+            16.7917
+          ],
+          [
+            96.1614,
+            16.7822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "myanma-railways-yangon-naypyidaw-mandalay-goteik-viaduct",
+        "linha": "Tronco Principal Yangon – Bago – Taungoo – Naypyidaw – Thazi – Mandalay – Pyin Oo Lwin – Viaduto de Goteik – Lashio",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Tronco Nacional Myanma Railways (Yangon–Naypyidaw–Mandalay e Viaduto Histórico de Goteik)",
+        "sistema_nome_en": "Myanma Railways National Trunk (Yangon–Naypyidaw–Mandalay & Historic Goteik Viaduct)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            96.1614,
+            16.7822
+          ],
+          [
+            96.4814,
+            17.3367
+          ],
+          [
+            96.4333,
+            18.9333
+          ],
+          [
+            96.1528,
+            19.795
+          ],
+          [
+            96.0667,
+            20.85
+          ],
+          [
+            96.0869,
+            21.9786
+          ],
+          [
+            96.4694,
+            22.035
+          ],
+          [
+            96.8672,
+            22.3436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "royal-railway-cambodia-phnom-penh-kampot-sihanoukville-poipet",
+        "linha": "Linha Sul Royal Railway (Phnom Penh – Takeo – Touk Meas – Kampot – Veal Renh – Sihanoukville)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Real do Camboja — Linha Sul (Phnom Penh–Kampot–Sihanoukville) e Linha Norte (Battambang–Poipet)",
+        "sistema_nome_en": "Royal Railway Cambodia — Southern Line (Phnom Penh–Kampot–Sihanoukville) & Northern Line (Battambang–Poipet)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.9169,
+            11.5719
+          ],
+          [
+            104.7833,
+            10.9833
+          ],
+          [
+            104.1819,
+            10.6169
+          ],
+          [
+            103.8,
+            10.7
+          ],
+          [
+            103.5169,
+            10.6389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "royal-railway-cambodia-phnom-penh-kampot-sihanoukville-poipet",
+        "linha": "Linha Norte Royal Railway (Phnom Penh – Pursat – Battambang – Sisophon – Poipet / Fronteira Tailandesa)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Real do Camboja — Linha Sul (Phnom Penh–Kampot–Sihanoukville) e Linha Norte (Battambang–Poipet)",
+        "sistema_nome_en": "Royal Railway Cambodia — Southern Line (Phnom Penh–Kampot–Sihanoukville) & Northern Line (Battambang–Poipet)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.9169,
+            11.5719
+          ],
+          [
+            103.9167,
+            12.5333
+          ],
+          [
+            103.2028,
+            13.1028
+          ],
+          [
+            102.9667,
+            13.5833
+          ],
+          [
+            102.5639,
+            13.6561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-transfronteirica-tha-naleng-khamsavath-vientiane-nong-khai",
+        "linha": "Ligação Transfronteiriça Khamsavath (Vientiane) – Thanaleng – 1ª Ponte da Amizade sobre o Rio Mekong – Nong Khai",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ligação Ferroviária Internacional Vientiane (Khamsavath/Thanaleng) – Ponte da Amizade – Nong Khai (Tailândia)",
+        "sistema_nome_en": "Vientiane (Khamsavath/Thanaleng)–Nong Khai Cross-Border Railway Link (Mekong Friendship Bridge)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.6711,
+            17.9711
+          ],
+          [
+            102.7106,
+            17.9056
+          ],
+          [
+            102.7289,
+            17.8783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-vientiane-south-dry-port-lcr-sihanoukville-port-rail",
+        "linha": "Corredor de Carga e Contêineres Porto Autônomo de Sihanoukville – Kampot – Terminal Intermodal de Phnom Penh",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor de Carga Vientiane South / Thanaleng Dry Port (LCR) e Eixo Portuário de Sihanoukville",
+        "sistema_nome_en": "Vientiane South / Thanaleng Dry Port Freight Hub (LCR) & Sihanoukville Port Freight Railway",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.505,
+            10.645
+          ],
+          [
+            104.1819,
+            10.6169
+          ],
+          [
+            104.85,
+            11.55
+          ],
+          [
+            104.9169,
+            11.5719
+          ]
+        ]
+      }
     }
   ]
 }
