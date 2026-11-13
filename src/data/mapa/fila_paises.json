@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-13T03:45:00-03:00",
+  "atualizado_em": "2026-11-13T04:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -260,20 +260,39 @@
       "bandeira": "🇱🇦🇲🇲🇰🇭",
       "sistemas_operacao": 6,
       "ronda": "Ronda #40 (03:45 BRT — Modalidades Operacionais)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 37,
       "pais": "Uruguai, Bolívia e Paraguai (Cone Sul e Altiplano)",
-      "bandeira": "🇺🇾",
-      "foco": "Ferrovia Central do Uruguai Montevidéu–Paso de los Toros (carga de celulose e trens regionais AFE), Tren Metropolitano de Cochabamba (Mi Tren) + Ferrovias Andina e Oriental da Bolívia, e Tren Binacional Posadas–Encarnación"
-    },
+      "bandeira": "🇺🇾🇧🇴🇵🇾",
+      "sistemas_operacao": 6,
+      "ronda": "Ronda #41 (04:15 BRT — Modalidades Operacionais)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 38,
       "pais": "Panamá, República Dominicana e Costa Rica (América Central e Caribe)",
       "bandeira": "🇵🇦",
       "foco": "Metrô do Panamá (Linhas 1 e 2 + Ramal Aeroporto de Tocumen) e Panama Canal Railway transcontinental, Metrô de Santo Domingo (Linhas 1 e 2), e Tren Interurbano Incofer San José–Heredia–Cartago–Alajuela"
+    },
+    {
+      "ordem": 39,
+      "pais": "Azerbaijão, Armênia e Mongólia (Cáucaso e Estepes Asiáticas)",
+      "bandeira": "🇦🇿",
+      "foco": "Metrô de Baku (Linhas Vermelha, Verde e Roxa) + Expresso Stadler Baku–Ganja e Anel Suburbano de Absheron, Metrô de Yerevan Karen Demirchyan + Ferrovia do Cáucaso Sul, e Ferrovia Transmongoliana UBTZ Ulan Bator–Sükhbaatar–Zamyn-Üüd"
+    },
+    {
+      "ordem": 40,
+      "pais": "Senegal, Costa do Marfim e Gana (África Ocidental)",
+      "bandeira": "🇸🇳",
+      "foco": "Train Express Régional TER Eletrificado de Dacar–Diamniadio (160 km/h) no Senegal, Ferrovia Internacional Abidjan–Bobo-Dioulasso–Ouagadougou (Sitarail) na Costa do Marfim, e Nova Ferrovia de Bitola Padrão Tema–Mpakadan + Linha Suburbana de Acra em Gana"
+    },
+    {
+      "ordem": 41,
+      "pais": "Moçambique, Zâmbia e Zimbábue (África Austral)",
+      "bandeira": "🇲🇿",
+      "foco": "Corredor de Carga e Passageiros de Nacala, Sena/Beira–Moatize e Metrobus de Maputo (CFM) em Moçambique, Zambia Railways Livingstone–Lusaka–Kitwe + Ponte de Victoria Falls, e National Railways of Zimbabwe (NRZ) Bulawayo–Victoria Falls–Harare"
     }
   ]
 }

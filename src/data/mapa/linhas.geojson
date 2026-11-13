@@ -20820,6 +20820,242 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mi-tren-vlt-metropolitano-cochabamba-linhas-roja-verde-amarilla-bolivia",
+        "linha": "Linha Verde (Estación Central San Antonio – Colcapirhua – Quillacollo – Vinto – Suticollo) e Linha Vermelha (San Antonio – Agronomía UMSS)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Tren Metropolitano de Cochabamba (Mi Tren) — Linhas Vermelha e Verde (VLT Stadler Metelitsa)",
+        "sistema_nome_en": "Cochabamba Metropolitan Light Rail (Mi Tren) — Red & Green Lines (Stadler Metelitsa)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.3228,
+            -17.3925
+          ],
+          [
+            -66.2789,
+            -17.3958
+          ],
+          [
+            -66.2389,
+            -17.3931
+          ],
+          [
+            -66.1583,
+            -17.3989
+          ],
+          [
+            -66.1436,
+            -17.4244
+          ],
+          [
+            -66.135,
+            -17.4417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-andina-bolivia-oruro-uyuni-villazon-tupiza-fca",
+        "linha": "Corredor Altiplânico FCA (Oruro – Río Mulato – Uyuni / Salar de Uyuni – Atocha – Tupiza – Villazón)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Rede Ferroviária Andina da Bolívia — Oruro–Uyuni–Tupiza–Villazón (Expresso del Sur / Salar de Uyuni)",
+        "sistema_nome_en": "Bolivian Andean Railway Network — Oruro–Uyuni–Tupiza–Villazón (Expresso del Sur / Uyuni Salt Flat)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.1106,
+            -17.9697
+          ],
+          [
+            -66.85,
+            -19.6833
+          ],
+          [
+            -66.8253,
+            -20.4606
+          ],
+          [
+            -66.22,
+            -20.93
+          ],
+          [
+            -65.7189,
+            -21.4439
+          ],
+          [
+            -65.5961,
+            -22.0908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-oriental-bolivia-santa-cruz-puerto-quijarro-corumba-yacuiba",
+        "linha": "Linha Leste Chiquitana (Santa Cruz Bimodal – Pailón – San José de Chiquitos – Roboré – Carmen Rivero Tórrez – Puerto Quijarro / Fronteira Corumbá)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Rede Ferroviária Oriental da Bolívia — Santa Cruz de la Sierra–Puerto Quijarro (Corumbá) e Yacuiba",
+        "sistema_nome_en": "Bolivian Eastern Railway Network — Santa Cruz de la Sierra–Puerto Quijarro (Corumbá) & Yacuiba",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.1517,
+            -17.7989
+          ],
+          [
+            -62.7167,
+            -17.65
+          ],
+          [
+            -60.7422,
+            -17.8458
+          ],
+          [
+            -59.7569,
+            -18.3347
+          ],
+          [
+            -58.625,
+            -18.82
+          ],
+          [
+            -57.7169,
+            -19.0039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "afe-uruguai-tacuarembo-rivera-servicos-regionais",
+        "linha": "Linha Regional Norte AFE (Tacuarembó – Bañado de Rocha – Paso del Cerro – Tranqueras – Ataques – Rivera)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Regional AFE do Uruguai — Linha Norte Tacuarembó–Rivera (Fronteira Santana do Livramento)",
+        "sistema_nome_en": "Uruguay AFE Regional Rail — Northern Line Tacuarembó–Rivera (Brazilian Border)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9811,
+            -31.7144
+          ],
+          [
+            -55.85,
+            -31.48
+          ],
+          [
+            -55.7583,
+            -31.2
+          ],
+          [
+            -55.5394,
+            -30.9025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tren-binacional-encarnacion-posadas-ponte-san-roque-gonzalez-paraguai",
+        "linha": "Travessia Ferroviária Binacional (Apeadero Encarnación Paraguai – Ponte Internacional San Roque González de Santa Cruz – Estación Posadas Argentina)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trem Binacional Internacional Encarnación (Paraguai) – Posadas (Argentina) sobre o Rio Paraná",
+        "sistema_nome_en": "Encarnación (Paraguay)–Posadas (Argentina) Cross-Border Commuter Train (Paraná River Bridge)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8622,
+            -27.3619
+          ],
+          [
+            -55.8756,
+            -27.3672
+          ],
+          [
+            -55.8853,
+            -27.3711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-central-uruguai-porto-montevideu-paso-de-los-toros-carga",
+        "linha": "Ferrocarril Central 22,5 t/eixo (Terminal Portuário de Montevidéu – Las Piedras – Canelones – Florida – Sarandí Grande – Durazno – Paso de los Toros)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrocarril Central do Uruguai — Corredor de Carga Porto de Montevidéu–Florida–Durazno–Paso de los Toros",
+        "sistema_nome_en": "Uruguay Central Railway (Ferrocarril Central) — Port of Montevideo–Paso de los Toros Freight Corridor",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.2111,
+            -34.8964
+          ],
+          [
+            -56.22,
+            -34.7267
+          ],
+          [
+            -56.2778,
+            -34.5228
+          ],
+          [
+            -56.215,
+            -34.0956
+          ],
+          [
+            -56.33,
+            -33.7333
+          ],
+          [
+            -56.5228,
+            -33.3806
+          ],
+          [
+            -56.5167,
+            -32.8167
+          ]
+        ]
+      }
     }
   ]
 }
