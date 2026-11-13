@@ -25395,6 +25395,322 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfm-calea-ferata-din-moldova-chisinau-ungheni-iasi-socola-bender-bucareste",
+        "linha": "Eixo Internacional CFM Chișinău – Ungheni – Iași Socola (Expresso Prietenia) e Ramais Bender / Bălți",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Calea Ferată din Moldova (CFM — Expresso Prietenia Chișinău – Ungheni – Iași/Bucareste e Rede Regional Moldava)",
+        "sistema_nome_en": "Moldovan Railways (CFM — Prietenia Express Chișinău – Ungheni – Iași/Bucharest & Moldovan Regional Network)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              29.4744,
+              46.8244
+            ],
+            [
+              28.8603,
+              47.0125
+            ],
+            [
+              28.3797,
+              47.2108
+            ],
+            [
+              27.7969,
+              47.2114
+            ],
+            [
+              27.6322,
+              47.1472
+            ]
+          ],
+          [
+            [
+              27.7969,
+              47.2114
+            ],
+            [
+              27.9289,
+              47.7631
+            ],
+            [
+              27.4508,
+              48.3853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kyrgyz-temir-jolu-ktj-bishkek-kara-balta-tokmok-balykchy-lago-issyk-kul-quirguistao",
+        "linha": "Linha Norte KTJ Kaindy – Kara-Balta – Bishkek-2 – Tokmok – Desfiladeiro de Boom – Balykchy (Lago Issyk-Kul)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Kyrgyz Temir Jolu (KTJ — Ferrovia Bishkek – Kara-Balta – Tokmok – Balykchy no Desfiladeiro de Boom e Lago Issyk-Kul)",
+        "sistema_nome_en": "Kyrgyz Railways (KTJ — Bishkek – Kara-Balta – Tokmok – Balykchy Railway in Boom Gorge & Lake Issyk-Kul)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.6758,
+            42.8256
+          ],
+          [
+            73.8531,
+            42.8147
+          ],
+          [
+            74.5997,
+            42.8653
+          ],
+          [
+            75.3014,
+            42.8419
+          ],
+          [
+            75.8167,
+            42.7667
+          ],
+          [
+            76.1833,
+            42.4606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rohi-ohani-tojikiston-rot-dushanbe-vahdat-kulob-pakhtaabad-khujand-tadjiquistao",
+        "linha": "Linha Central e Sul ROT (Pakhtaabad – Tursunzoda – Dushanbe-1 – Vahdat – Yavan – Bokhtar – Kulob) e Ramal Norte Khujand",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Rohi Ohani Tojikiston (ROT — Ferrovia Dushanbe – Vahdat – Bokhtar – Kulob, Eixo Pakhtaabad e Ramal Norte de Khujand)",
+        "sistema_nome_en": "Tajik Railways (ROT — Dushanbe – Vahdat – Bokhtar – Kulob Railway, Pakhtaabad Axis & Northern Khujand Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              68.1333,
+              38.4833
+            ],
+            [
+              68.2319,
+              38.5128
+            ],
+            [
+              68.7989,
+              38.5597
+            ],
+            [
+              69.0186,
+              38.5561
+            ],
+            [
+              69.0453,
+              38.3189
+            ],
+            [
+              68.7808,
+              37.8364
+            ],
+            [
+              69.7847,
+              37.9142
+            ]
+          ],
+          [
+            [
+              69.3167,
+              40.15
+            ],
+            [
+              69.6222,
+              40.2833
+            ],
+            [
+              70.4167,
+              40.2833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "turkmendemiryollary-ferrovia-transcaspiana-ashgabat-turkmenbasy-mary-turkmenabat-serhetabat",
+        "linha": "Ferrovia Transcaspiana (Türkmenbaşy – Balkanabat – Bereket – Ashgabat – Mary – Türkmenabat – Kerki) e Linha Trans-Karakum (Ashgabat – Daşoguz)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Türkmendemirýollary (Ferrovia Transcaspiana Türkmenbaşy – Ashgabat – Mary – Türkmenabat e Eixo Trans-Karakum Ashgabat – Daşoguz)",
+        "sistema_nome_en": "Turkmenistan Railways (Trans-Caspian Railway Türkmenbaşy – Ashgabat – Mary – Türkmenabat & Trans-Karakum Ashgabat – Daşoguz Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              52.9692,
+              40.0156
+            ],
+            [
+              54.3672,
+              39.5119
+            ],
+            [
+              55.5153,
+              39.2444
+            ],
+            [
+              58.3833,
+              37.9606
+            ],
+            [
+              60.5961,
+              37.3828
+            ],
+            [
+              61.8303,
+              37.5936
+            ],
+            [
+              63.5786,
+              39.0733
+            ],
+            [
+              65.2125,
+              37.8364
+            ]
+          ],
+          [
+            [
+              58.3833,
+              37.9606
+            ],
+            [
+              58.5,
+              39.8
+            ],
+            [
+              59.9667,
+              41.8333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-norte-sul-instc-bereket-etrek-serhetabat-turkmenbasy-tadjiquistao-quirguistao",
+        "linha": "Corredor Norte–Sul INSTC (Serhetyaka – Bereket – Etrek/Irã) e Ramo Sul Mary – Serhetabat / Sarakhs",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Internacional Norte–Sul (INSTC Cazaquistão–Turcomenistão–Irã Bereket–Etrek) e Malha de Carga da Ásia Central",
+        "sistema_nome_en": "International North–South Transport Corridor (INSTC Kazakhstan–Turkmenistan–Iran Bereket–Etrek) & Central Asian Freight Network",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              54.7833,
+              42.3167
+            ],
+            [
+              55.5153,
+              39.2444
+            ],
+            [
+              54.7492,
+              37.4694
+            ]
+          ],
+          [
+            [
+              61.8303,
+              37.5936
+            ],
+            [
+              62.3456,
+              35.2797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-danubio-mar-negro-giurgiulesti-basarabeasca-ungheni-cfm-moldavia",
+        "linha": "Corredor de Carga CFM — Porto Internacional Livre de Giurgiulești (Danúbio) – Cahul – Basarabeasca – Berezyno / Chișinău",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor de Carga do Danúbio e Solidariedade Europeia (Porto Internacional de Giurgiulești – Basarabeasca – Chișinău – Ungheni CFM)",
+        "sistema_nome_en": "Danube & European Solidarity Freight Corridor (Giurgiulești International Free Port – Basarabeasca – Chișinău – Ungheni CFM)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              28.2089,
+              45.4742
+            ],
+            [
+              28.1917,
+              45.9042
+            ],
+            [
+              28.9658,
+              46.3314
+            ],
+            [
+              29.2667,
+              46.4667
+            ]
+          ],
+          [
+            [
+              28.9658,
+              46.3314
+            ],
+            [
+              28.8603,
+              47.0125
+            ],
+            [
+              27.7969,
+              47.2114
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
