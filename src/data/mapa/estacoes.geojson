@@ -16280,6 +16280,226 @@
           -12.9667
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-quito-linha-1-quitumbe-el-labrador-equador",
+        "nome": "Estação San Francisco (1ª Estação de Metrô sob um Centro Histórico Patrimônio UNESCO na América do Sul — 2.850 m)",
+        "linha": "Linha 1 do Metrô de Quito",
+        "status": "operacao",
+        "integracoes": [
+          "Praça e Convento de San Francisco (Centro Histórico de Quito)",
+          "Museu Arqueológico Subterrâneo"
+        ],
+        "sistema_nome_pt": "Metrô de Quito — Linha 1 Quitumbe–San Francisco–Iñaquito–El Labrador (2.850 m de Altitude nos Andes)",
+        "sistema_nome_en": "Quito Metro — Line 1 Quitumbe–San Francisco–Iñaquito–El Labrador (Highest Subway in the World at 2,850 m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5153,
+          -0.2203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-quito-linha-1-quitumbe-el-labrador-equador",
+        "nome": "Estação Multimodal Quitumbe e Estação El Labrador (Terminais Sul e Norte do Metrô de Quito)",
+        "linha": "Linha 1 do Metrô de Quito",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Terrestre Interprovincial de Quitumbe",
+          "Corredor Trolebús e Ecovía de Quito"
+        ],
+        "sistema_nome_pt": "Metrô de Quito — Linha 1 Quitumbe–San Francisco–Iñaquito–El Labrador (2.850 m de Altitude nos Andes)",
+        "sistema_nome_en": "Quito Metro — Line 1 Quitumbe–San Francisco–Iñaquito–El Labrador (Highest Subway in the World at 2,850 m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5542,
+          -0.2944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-caracas-los-teques-valencia-maracaibo-venezuela",
+        "nome": "Estação Plaza Venezuela / Zona Rental (Hub Central das Linhas 1, 3 e 4 do Metrô de Caracas)",
+        "linha": "Linhas 1, 3 e 4 do Metrô de Caracas",
+        "status": "operacao",
+        "integracoes": [
+          "Cidade Universitária de Caracas (Patrimônio UNESCO)",
+          "Integração Linhas 1, 3 e 4"
+        ],
+        "sistema_nome_pt": "Metrô de Caracas (Linhas 1 a 4), Metrô de Los Teques e Redes de Metrô de Valencia e Maracaibo",
+        "sistema_nome_en": "Caracas Metro (Lines 1–4), Los Teques Metro & Valencia and Maracaibo Metro Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8856,
+          10.4961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-caracas-los-teques-valencia-maracaibo-venezuela",
+        "nome": "Complexo Intermodal La Rinconada (Integração Linha 3 do Metrô de Caracas e Ferrovia IFE Caracas–Cúa)",
+        "linha": "Linha 3 do Metrô de Caracas e Ferrovia Valles del Tuy IFE",
+        "status": "operacao",
+        "integracoes": [
+          "Estação Libertador Simón Bolívar (IFE Caracas–Cúa)",
+          "Poliedro de Caracas"
+        ],
+        "sistema_nome_pt": "Metrô de Caracas (Linhas 1 a 4), Metrô de Los Teques e Redes de Metrô de Valencia e Maracaibo",
+        "sistema_nome_en": "Caracas Metro (Lines 1–4), Los Teques Metro & Valencia and Maracaibo Metro Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9069,
+          10.4336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tranvia-cuenca-quatro-rios-equador",
+        "nome": "Parada Parque Calderón (Trecho APS sem Catenária no Centro Histórico de Cuenca)",
+        "linha": "Tranvía Cuatro Ríos de Cuenca",
+        "status": "operacao",
+        "integracoes": [
+          "Catedral da Imaculada Conceição de Cuenca",
+          "Tecnologia Alstom APS de Alimentação pelo Solo"
+        ],
+        "sistema_nome_pt": "Tranvía de Cuenca (VLT Cuatro Ríos) — Alimentação pelo Solo APS no Centro Histórico UNESCO de Cuenca",
+        "sistema_nome_en": "Cuenca Tramway (Tranvía Cuatro Ríos) — Catenary-Free APS LRT across UNESCO Historic Center of Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0045,
+          -2.8974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ife-ferrovia-valles-del-tuy-caracas-cua-barquisimeto-yaritagua-venezuela",
+        "nome": "Estação Generalísimo Francisco de Miranda — Charallave Norte e Terminal General Ezequiel Zamora — Cúa (IFE)",
+        "linha": "Ferrovia Suburbana Eletrificada Caracas–Cúa (Valles del Tuy)",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Elétricos Suburbanos IFE 25 kV",
+          "Terminal Rodoviário dos Valles del Tuy"
+        ],
+        "sistema_nome_pt": "Ferrovia Caracas–Cúa (Valles del Tuy — Ezequiel Zamora IFE) e Linha Centro-Ocidental Barquisimeto–Yaritagua–Acarigua",
+        "sistema_nome_en": "Caracas–Cúa Suburban Railway (Valles del Tuy IFE) & Barquisimeto–Yaritagua–Acarigua Regional Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8617,
+          10.2286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarriles-de-cuba-linha-central-havana-santa-clara-camaguey-santiago",
+        "nome": "Estación Central de Ferrocarriles de La Habana (Palácio Ferroviário Histórico de 1912 em Havana Velha)",
+        "linha": "Linha Central Havana–Santa Clara–Camagüey–Santiago de Cuba (UFC)",
+        "status": "operacao",
+        "integracoes": [
+          "Centro Histórico de Havana Velha (Patrimônio UNESCO)",
+          "Trens Nacionais para Santiago de Cuba, Holguín, Guantánamo e Bayamo"
+        ],
+        "sistema_nome_pt": "Ferrocarriles de Cuba (UFC) — Linha Central Havana–Santa Clara–Camagüey–Holguín–Santiago de Cuba e Linha de Hershey",
+        "sistema_nome_en": "Cuban National Railways (UFC) — Havana–Santa Clara–Camagüey–Holguín–Santiago de Cuba Central Line & Hershey Railway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3531,
+          23.1286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarriles-de-cuba-linha-central-havana-santa-clara-camaguey-santiago",
+        "nome": "Estação Ferroviária de Santa Clara e Camagüey (Eixo Central dos Ferrocarriles de Cuba)",
+        "linha": "Linha Central Havana–Santiago de Cuba",
+        "status": "operacao",
+        "integracoes": [
+          "Museu do Monumento ao Trem Blindado em Santa Clara",
+          "Oficinas Ferroviárias Centrais de Camagüey"
+        ],
+        "sistema_nome_pt": "Ferrocarriles de Cuba (UFC) — Linha Central Havana–Santa Clara–Camagüey–Holguín–Santiago de Cuba e Linha de Hershey",
+        "sistema_nome_en": "Cuban National Railways (UFC) — Havana–Santa Clara–Camagüey–Holguín–Santiago de Cuba Central Line & Hershey Railway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9658,
+          22.4069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarriles-de-cuba-linha-central-havana-santa-clara-camaguey-santiago",
+        "nome": "Estación de Ferrocarril Senén Casas Regueiro — Santiago de Cuba (Terminal Oriental junto à Baía de Santiago)",
+        "linha": "Linha Central Havana–Santiago de Cuba (UFC)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto e Paseo Marítimo de Santiago de Cuba",
+          "Ramais do Oriente Cubano"
+        ],
+        "sistema_nome_pt": "Ferrocarriles de Cuba (UFC) — Linha Central Havana–Santa Clara–Camagüey–Holguín–Santiago de Cuba e Linha de Hershey",
+        "sistema_nome_en": "Cuban National Railways (UFC) — Havana–Santa Clara–Camagüey–Holguín–Santiago de Cuba Central Line & Hershey Railway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8303,
+          20.0217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-minerio-ferro-bauxita-guayana-ferrominera-orinoco-acucar-cuba",
+        "nome": "Terminal Ferroviário e Siderúrgico de Puerto Ordaz / Palúa (CVG Ferrominera Orinoco — Ciudad Guayana)",
+        "linha": "Ferrovia Mineral Cerro Bolívar / Ciudad Piar – Puerto Ordaz",
+        "status": "operacao",
+        "integracoes": [
+          "Complexo Siderúrgico SIDOR e Planta de Briquetes do Orinoco",
+          "Porto Fluvial-Marítimo de Palúa na Confluência Caroní–Orinoco"
+        ],
+        "sistema_nome_pt": "Ferrovia Mineral Heavy-Haul de Guayana (CVG Ferrominera Orinoco — Cerro Bolívar–Puerto Ordaz) e Malha Portuária de Cuba (Mariel–Cienfuegos)",
+        "sistema_nome_en": "Guayana Iron Ore Heavy-Haul Railway (CVG Ferrominera Orinoco — Cerro Bolívar–Puerto Ordaz) & Cuba Port Freight Railways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6819,
+          8.3522
+        ]
+      }
     }
   ]
 }

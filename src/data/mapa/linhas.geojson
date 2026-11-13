@@ -22116,6 +22116,254 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-quito-linha-1-quitumbe-el-labrador-equador",
+        "linha": "Linha 1 do Metrô de Quito (Quitumbe – El Recreo – San Francisco UNESCO – La Alameda – Iñaquito – El Labrador)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Quito — Linha 1 Quitumbe–San Francisco–Iñaquito–El Labrador (2.850 m de Altitude nos Andes)",
+        "sistema_nome_en": "Quito Metro — Line 1 Quitumbe–San Francisco–Iñaquito–El Labrador (Highest Subway in the World at 2,850 m)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.5542,
+            -0.2944
+          ],
+          [
+            -78.5236,
+            -0.2519
+          ],
+          [
+            -78.5153,
+            -0.2203
+          ],
+          [
+            -78.5019,
+            -0.2136
+          ],
+          [
+            -78.4856,
+            -0.1833
+          ],
+          [
+            -78.485,
+            -0.1456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-caracas-los-teques-valencia-maracaibo-venezuela",
+        "linha": "Metrô de Caracas Linhas 1 a 4 (Propatria – Plaza Venezuela – Chacaíto – Palo Verde / La Rinconada / Las Adjuntas) e Metrô de Los Teques",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Caracas (Linhas 1 a 4), Metrô de Los Teques e Redes de Metrô de Valencia e Maracaibo",
+        "sistema_nome_en": "Caracas Metro (Lines 1–4), Los Teques Metro & Valencia and Maracaibo Metro Networks",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.0419,
+            10.3478
+          ],
+          [
+            -66.9889,
+            10.4222
+          ],
+          [
+            -66.9539,
+            10.5019
+          ],
+          [
+            -66.8856,
+            10.4961
+          ],
+          [
+            -66.8039,
+            10.4792
+          ],
+          [
+            -66.8856,
+            10.4961
+          ],
+          [
+            -66.9069,
+            10.4336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tranvia-cuenca-quatro-rios-equador",
+        "linha": "Tranvía de Cuenca Cuatro Ríos (Río Tarqui – Feria Libre – Centro Histórico Parque Calderón – Terminal Terrestre – Aeroporto – Parque Industrial)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Tranvía de Cuenca (VLT Cuatro Ríos) — Alimentação pelo Solo APS no Centro Histórico UNESCO de Cuenca",
+        "sistema_nome_en": "Cuenca Tramway (Tranvía Cuatro Ríos) — Catenary-Free APS LRT across UNESCO Historic Center of Cuenca",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.0411,
+            -2.9128
+          ],
+          [
+            -79.0208,
+            -2.8994
+          ],
+          [
+            -79.0045,
+            -2.8974
+          ],
+          [
+            -78.9917,
+            -2.8906
+          ],
+          [
+            -78.9839,
+            -2.8856
+          ],
+          [
+            -78.9722,
+            -2.8789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ife-ferrovia-valles-del-tuy-caracas-cua-barquisimeto-yaritagua-venezuela",
+        "linha": "Ferrovia Eletrificada Valles del Tuy IFE (Caracas La Rinconada – Charallave Norte – Charallave Sur – Cúa)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Caracas–Cúa (Valles del Tuy — Ezequiel Zamora IFE) e Linha Centro-Ocidental Barquisimeto–Yaritagua–Acarigua",
+        "sistema_nome_en": "Caracas–Cúa Suburban Railway (Valles del Tuy IFE) & Barquisimeto–Yaritagua–Acarigua Regional Line",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.9069,
+            10.4336
+          ],
+          [
+            -66.8583,
+            10.2608
+          ],
+          [
+            -66.8617,
+            10.2286
+          ],
+          [
+            -66.8858,
+            10.1656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarriles-de-cuba-linha-central-havana-santa-clara-camaguey-santiago",
+        "linha": "Linha Central Ferrocarriles de Cuba (Havana Estación Central – Matanzas – Santa Clara – Camagüey – Las Tunas – Holguín – Santiago de Cuba) e Corredor Mariel",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrocarriles de Cuba (UFC) — Linha Central Havana–Santa Clara–Camagüey–Holguín–Santiago de Cuba e Linha de Hershey",
+        "sistema_nome_en": "Cuban National Railways (UFC) — Havana–Santa Clara–Camagüey–Holguín–Santiago de Cuba Central Line & Hershey Railway",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7539,
+            22.9875
+          ],
+          [
+            -82.3531,
+            23.1286
+          ],
+          [
+            -81.5775,
+            23.0411
+          ],
+          [
+            -79.9658,
+            22.4069
+          ],
+          [
+            -77.9169,
+            21.3808
+          ],
+          [
+            -76.9511,
+            20.9619
+          ],
+          [
+            -76.2631,
+            20.8872
+          ],
+          [
+            -75.8303,
+            20.0217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-minerio-ferro-bauxita-guayana-ferrominera-orinoco-acucar-cuba",
+        "linha": "Ferrovia Mineral CVG Ferrominera Orinoco (Minas de Cerro Bolívar / San Isidro Ciudad Piar – Puerto Ordaz / Palúa no Rio Orinoco)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Mineral Heavy-Haul de Guayana (CVG Ferrominera Orinoco — Cerro Bolívar–Puerto Ordaz) e Malha Portuária de Cuba (Mariel–Cienfuegos)",
+        "sistema_nome_en": "Guayana Iron Ore Heavy-Haul Railway (CVG Ferrominera Orinoco — Cerro Bolívar–Puerto Ordaz) & Cuba Port Freight Railways",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.3189,
+            7.4528
+          ],
+          [
+            -63.02,
+            7.85
+          ],
+          [
+            -62.735,
+            8.285
+          ],
+          [
+            -62.6819,
+            8.3522
+          ]
+        ]
+      }
     }
   ]
 }
