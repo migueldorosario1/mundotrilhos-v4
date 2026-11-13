@@ -18272,6 +18272,196 @@
           49.5008
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zfbh-zrs-bosnia-trens-talgo-sarajevo-mostar-capljina-zenica-doboj-banja-luka",
+        "nome": "Glavna željeznička stanica Sarajevo (Estação Central de Sarajevo — ŽFBH)",
+        "linha": "Trens Talgo Sarajevo – Mostar – Čapljina / Sarajevo – Zenica – Doboj e Bondes de Sarajevo",
+        "status": "operacao",
+        "integracoes": "Bondes de Sarajevo (Linhas 1 e 4) / Terminal Rodoviário Central de Sarajevo",
+        "sistema_nome_pt": "ŽFBH e ŽRS — Ferrovias da Bósnia e Herzegovina (Trens Talgo Sarajevo – Mostar – Čapljina e Eixo Zenica – Doboj – Banja Luka)",
+        "sistema_nome_en": "ŽFBH & ŽRS — Railways of Bosnia and Herzegovina (Talgo Sarajevo – Mostar – Čapljina & Zenica – Doboj – Banja Luka Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3989,
+          43.8603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-de-sarajevo-vlt-ilidza-zeljeznicka-stanica-bascarsija-bosnia",
+        "nome": "Terminal Baščaršija (Centro Histórico Otomano — Bondes de Sarajevo)",
+        "linha": "Bondes de Sarajevo Linhas 1, 2, 3 e 5",
+        "status": "operacao",
+        "integracoes": "Centro Histórico de Baščaršija / Prefeitura Histórica Vijećnica",
+        "sistema_nome_pt": "Bondes de Sarajevo (KJKP GRAS — VLT Ilidža – Estação Central – Marijin Dvor – Baščaršija, Bósnia e Herzegovina)",
+        "sistema_nome_en": "Sarajevo Tramway (KJKP GRAS — Ilidža – Central Station – Marijin Dvor – Baščaršija LRT, Bosnia and Herzegovina)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4314,
+          43.8597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zfbh-zrs-bosnia-trens-talgo-sarajevo-mostar-capljina-zenica-doboj-banja-luka",
+        "nome": "Željeznička stanica Mostar (Herzegovina — ŽFBH)",
+        "linha": "Linha Panorâmica do Neretva (Sarajevo – Konjic – Mostar – Čapljina)",
+        "status": "operacao",
+        "integracoes": "Terminal Rodoviário de Mostar / Ponte Velha Stari Most (UNESCO)",
+        "sistema_nome_pt": "ŽFBH e ŽRS — Ferrovias da Bósnia e Herzegovina (Trens Talgo Sarajevo – Mostar – Čapljina e Eixo Zenica – Doboj – Banja Luka)",
+        "sistema_nome_en": "ŽFBH & ŽRS — Railways of Bosnia and Herzegovina (Talgo Sarajevo – Mostar – Čapljina & Zenica – Doboj – Banja Luka Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8078,
+          43.3438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zfbh-zrs-bosnia-trens-talgo-sarajevo-mostar-capljina-zenica-doboj-banja-luka",
+        "nome": "Željeznička stanica Banja Luka (Sede Operacional ŽRS)",
+        "linha": "Linha Doboj – Banja Luka – Prijedor – Novi Grad",
+        "status": "operacao",
+        "integracoes": "Terminal Rodoviário de Banja Luka / Capital da Republika Srpska",
+        "sistema_nome_pt": "ŽFBH e ŽRS — Ferrovias da Bósnia e Herzegovina (Trens Talgo Sarajevo – Mostar – Čapljina e Eixo Zenica – Doboj – Banja Luka)",
+        "sistema_nome_en": "ŽFBH & ŽRS — Railways of Bosnia and Herzegovina (Talgo Sarajevo – Mostar – Čapljina & Zenica – Doboj – Banja Luka Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.191,
+          44.7722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zpcg-montenegro-ferrovia-alpina-belgrado-bar-bijelo-polje-kolasin-podgorica-niksic",
+        "nome": "Željeznička stanica Podgorica (Hub Nacional de Montenegro — ŽPCG)",
+        "linha": "Ferrovia Belgrado–Bar, Linha Podgorica–Nikšić e Linha Podgorica–Shkodër",
+        "status": "operacao",
+        "integracoes": "Terminal Rodoviário Central de Podgorica / Entroncamento Nacional de Montenegro",
+        "sistema_nome_pt": "ŽPCG — Ferrovias de Montenegro (Linha Alpina Bijelo Polje – Kolašin – Podgorica – Bar e Linha Eletrificada Podgorica – Nikšić)",
+        "sistema_nome_en": "ŽPCG — Railways of Montenegro (Alpine Line Bijelo Polje – Kolašin – Podgorica – Bar & Podgorica – Nikšić Electrified Line)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2694,
+          42.4314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zpcg-montenegro-ferrovia-alpina-belgrado-bar-bijelo-polje-kolasin-podgorica-niksic",
+        "nome": "Željeznička stanica Bar (Terminal Adriático Belgrado–Bar — ŽPCG / Montecargo)",
+        "linha": "Ferrovia Belgrado – Bijelo Polje – Podgorica – Bar",
+        "status": "operacao",
+        "integracoes": "Porto Marítimo de Bar (Luka Bar) / Ferries Adriáticos",
+        "sistema_nome_pt": "ŽPCG — Ferrovias de Montenegro (Linha Alpina Bijelo Polje – Kolašin – Podgorica – Bar e Linha Eletrificada Podgorica – Nikšić)",
+        "sistema_nome_en": "ŽPCG — Railways of Montenegro (Alpine Line Bijelo Polje – Kolašin – Podgorica – Bar & Podgorica – Nikšić Electrified Line)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0942,
+          42.0911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "makedonski-zeleznici-mz-skopje-kumanovo-veles-gevgelija-bitola-kicevo-macedonia",
+        "nome": "Transporten Centar Skopje (Estação Central de Skopje — ŽRSM)",
+        "linha": "Corredor X (Kumanovo – Skopje – Veles – Gevgelija) e Linhas Bitola / Kičevo / Pristina",
+        "status": "operacao",
+        "integracoes": "Complexo Intermodal Projetado por Kenzo Tange / Terminal Rodoviário Internacional de Skopje",
+        "sistema_nome_pt": "ŽRSM Transport — Ferrovias da Macedônia do Norte (Corredor X Kumanovo – Skopje – Veles – Gevgelija e Linha Veles – Prilep – Bitola)",
+        "sistema_nome_en": "ŽRSM Transport — North Macedonia Railways (Corridor X Kumanovo – Skopje – Veles – Gevgelija & Veles – Prilep – Bitola Line)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4461,
+          41.9906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "makedonski-zeleznici-mz-skopje-kumanovo-veles-gevgelija-bitola-kicevo-macedonia",
+        "nome": "Železnička stanica Bitola (Pelagônia — ŽRSM)",
+        "linha": "Linha Skopje – Veles – Prilep – Bitola",
+        "status": "operacao",
+        "integracoes": "Sul da Macedônia do Norte / Corredor Histórico de Monastir",
+        "sistema_nome_pt": "ŽRSM Transport — Ferrovias da Macedônia do Norte (Corredor X Kumanovo – Skopje – Veles – Gevgelija e Linha Veles – Prilep – Bitola)",
+        "sistema_nome_en": "ŽRSM Transport — North Macedonia Railways (Corridor X Kumanovo – Skopje – Veles – Gevgelija & Veles – Prilep – Bitola Line)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3347,
+          41.0311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "hekurudha-shqiptare-hsh-albania-durres-kashar-elbasan-shkoder-lac",
+        "nome": "Stacioni Hekurudhor i Durrësit (Estação Central de Durrës — Sede da HSH)",
+        "linha": "Linhas Durrës – Elbasan, Durrës – Shkodër e Corredor Tirana–Rinas–Durrës",
+        "status": "operacao",
+        "integracoes": "Maior Porto Marítimo da Albânia (Porto de Durrës) / Sede da Hekurudha Shqiptare",
+        "sistema_nome_pt": "Hekurudha Shqiptare (HSH — Rede Ferroviária da Albânia: Durrës – Elbasan, Durrës – Laç – Shkodër e Corredor Tirana–Durrës)",
+        "sistema_nome_en": "Albanian Railways (HSH — Durrës – Elbasan, Durrës – Laç – Shkodër & Tirana–Rinas–Durrës Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4547,
+          41.3189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "hekurudha-shqiptare-hsh-albania-durres-kashar-elbasan-shkoder-lac",
+        "nome": "Stacioni Hekurudhor i Shkodrës (Shkodër — HSH)",
+        "linha": "Linha Norte Durrës – Vorë – Laç – Lezhë – Shkodër – Bajzë (Fronteira com Montenegro)",
+        "status": "operacao",
+        "integracoes": "Norte da Albânia / Conexão Internacional de Carga HSH–Montecargo",
+        "sistema_nome_pt": "Hekurudha Shqiptare (HSH — Rede Ferroviária da Albânia: Durrës – Elbasan, Durrës – Laç – Shkodër e Corredor Tirana–Durrës)",
+        "sistema_nome_en": "Albanian Railways (HSH — Durrës – Elbasan, Durrës – Laç – Shkodër & Tirana–Rinas–Durrës Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5126,
+          42.0683
+        ]
+      }
     }
   ]
 }

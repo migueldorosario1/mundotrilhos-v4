@@ -25043,6 +25043,358 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-de-sarajevo-vlt-ilidza-zeljeznicka-stanica-bascarsija-bosnia",
+        "linha": "Bondes de Sarajevo Linhas 1–6 (Ilidža – Nedžarići – Čengić Vila – Željeznička stanica – Marijin Dvor – Baščaršija)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bondes de Sarajevo (KJKP GRAS — VLT Ilidža – Estação Central – Marijin Dvor – Baščaršija, Bósnia e Herzegovina)",
+        "sistema_nome_en": "Sarajevo Tramway (KJKP GRAS — Ilidža – Central Station – Marijin Dvor – Baščaršija LRT, Bosnia and Herzegovina)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.3108,
+            43.8306
+          ],
+          [
+            18.345,
+            43.845
+          ],
+          [
+            18.378,
+            43.851
+          ],
+          [
+            18.3989,
+            43.8603
+          ],
+          [
+            18.4069,
+            43.8561
+          ],
+          [
+            18.4314,
+            43.8597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zfbh-zrs-bosnia-trens-talgo-sarajevo-mostar-capljina-zenica-doboj-banja-luka",
+        "linha": "ŽFBH & ŽRS (Čapljina – Mostar – Konjic – Sarajevo – Zenica – Doboj – Banja Luka – Prijedor – Novi Grad)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "ŽFBH e ŽRS — Ferrovias da Bósnia e Herzegovina (Trens Talgo Sarajevo – Mostar – Čapljina e Eixo Zenica – Doboj – Banja Luka)",
+        "sistema_nome_en": "ŽFBH & ŽRS — Railways of Bosnia and Herzegovina (Talgo Sarajevo – Mostar – Čapljina & Zenica – Doboj – Banja Luka Corridor)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.7044,
+            43.1114
+          ],
+          [
+            17.8078,
+            43.3438
+          ],
+          [
+            17.9608,
+            43.6514
+          ],
+          [
+            18.3989,
+            43.8603
+          ],
+          [
+            17.9078,
+            44.2036
+          ],
+          [
+            18.087,
+            44.7318
+          ],
+          [
+            17.191,
+            44.7722
+          ],
+          [
+            16.7142,
+            44.9794
+          ],
+          [
+            16.3778,
+            45.0464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zpcg-montenegro-ferrovia-alpina-belgrado-bar-bijelo-polje-kolasin-podgorica-niksic",
+        "linha": "ŽPCG (Bijelo Polje – Mojkovac – Kolašin – Podgorica – Sutomore – Bar & Linha Eletrificada Podgorica – Danilovgrad – Nikšić)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "ŽPCG — Ferrovias de Montenegro (Linha Alpina Bijelo Polje – Kolašin – Podgorica – Bar e Linha Eletrificada Podgorica – Nikšić)",
+        "sistema_nome_en": "ŽPCG — Railways of Montenegro (Alpine Line Bijelo Polje – Kolašin – Podgorica – Bar & Podgorica – Nikšić Electrified Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              19.7475,
+              43.0383
+            ],
+            [
+              19.5833,
+              42.96
+            ],
+            [
+              19.5167,
+              42.8222
+            ],
+            [
+              19.2694,
+              42.4314
+            ],
+            [
+              19.0467,
+              42.1428
+            ],
+            [
+              19.0942,
+              42.0911
+            ]
+          ],
+          [
+            [
+              19.2694,
+              42.4314
+            ],
+            [
+              19.1036,
+              42.5536
+            ],
+            [
+              18.9444,
+              42.7731
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "makedonski-zeleznici-mz-skopje-kumanovo-veles-gevgelija-bitola-kicevo-macedonia",
+        "linha": "ŽRSM Corredor X (Tabanovce – Kumanovo – Skopje – Veles – Gevgelija), Linha de Bitola (Veles – Prilep – Bitola) e Skopje – Kičevo",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "ŽRSM Transport — Ferrovias da Macedônia do Norte (Corredor X Kumanovo – Skopje – Veles – Gevgelija e Linha Veles – Prilep – Bitola)",
+        "sistema_nome_en": "ŽRSM Transport — North Macedonia Railways (Corridor X Kumanovo – Skopje – Veles – Gevgelija & Veles – Prilep – Bitola Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              21.7,
+              42.23
+            ],
+            [
+              21.685,
+              42.1322
+            ],
+            [
+              21.4461,
+              41.9906
+            ],
+            [
+              21.7753,
+              41.7178
+            ],
+            [
+              22.0906,
+              41.4844
+            ],
+            [
+              22.5025,
+              41.1403
+            ]
+          ],
+          [
+            [
+              21.7753,
+              41.7178
+            ],
+            [
+              21.5542,
+              41.3464
+            ],
+            [
+              21.3347,
+              41.0311
+            ]
+          ],
+          [
+            [
+              21.4461,
+              41.9906
+            ],
+            [
+              20.9714,
+              42.0097
+            ],
+            [
+              20.9589,
+              41.5128
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "hekurudha-shqiptare-hsh-albania-durres-kashar-elbasan-shkoder-lac",
+        "linha": "HSH Albânia (Shkodër – Lezhë – Laç – Vorë – Durrës – Rrogozhinë – Elbasan e Ramal Vorë – Tirana)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Hekurudha Shqiptare (HSH — Rede Ferroviária da Albânia: Durrës – Elbasan, Durrës – Laç – Shkodër e Corredor Tirana–Durrës)",
+        "sistema_nome_en": "Albanian Railways (HSH — Durrës – Elbasan, Durrës – Laç – Shkodër & Tirana–Rinas–Durrës Corridor)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              19.5126,
+              42.0683
+            ],
+            [
+              19.6436,
+              41.7836
+            ],
+            [
+              19.7131,
+              41.6356
+            ],
+            [
+              19.655,
+              41.3939
+            ],
+            [
+              19.4547,
+              41.3189
+            ],
+            [
+              19.6653,
+              41.0761
+            ],
+            [
+              20.0822,
+              41.1125
+            ]
+          ],
+          [
+            [
+              19.655,
+              41.3939
+            ],
+            [
+              19.78,
+              41.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-porto-de-bar-montecargo-zfbh-zenica-mz-corredor-x-shkoder-balcas",
+        "linha": "Corredores de Carga Montecargo (Porto de Bar – Podgorica – Bijelo Polje / Shkodër), ŽFBH-ŽRS (Omarska – Doboj – Zenica – Čapljina) e Corredor X ŽRSM",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores de Carga dos Bálcãs Ocidentais (Porto de Bar Montecargo, Siderúrgica Zenica / Omarska ŽFBH-ŽRS e Corredor X ŽRSM)",
+        "sistema_nome_en": "Western Balkans Freight Corridors (Port of Bar Montecargo, Zenica / Omarska Steel-Mining ŽFBH-ŽRS & Corridor X ŽRSM)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              19.0942,
+              42.0911
+            ],
+            [
+              19.2694,
+              42.4314
+            ],
+            [
+              19.7475,
+              43.0383
+            ]
+          ],
+          [
+            [
+              19.2694,
+              42.4314
+            ],
+            [
+              19.5126,
+              42.0683
+            ],
+            [
+              19.4547,
+              41.3189
+            ]
+          ],
+          [
+            [
+              16.89,
+              44.89
+            ],
+            [
+              18.087,
+              44.7318
+            ],
+            [
+              17.9078,
+              44.2036
+            ],
+            [
+              18.3989,
+              43.8603
+            ],
+            [
+              17.7044,
+              43.1114
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
