@@ -26885,6 +26885,214 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "manx-electric-railway-douglas-derby-castle-laxey-ramsey-ilha-de-man",
+        "linha": "Linha Costeira Manx Electric Railway: Derby Castle (Douglas) – Groudle Glen – Baldrine – Laxey – Dhoon Glen – Ramsey (Bitola 914 mm, 550 V CC)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Manx Electric Railway (MER — Bonde Elétrico Interurbano Vitoriano Douglas – Laxey – Ramsey, Ilha de Man)",
+        "sistema_nome_en": "Manx Electric Railway (MER — Victorian Interurban Electric Tramway Douglas – Laxey – Ramsey, Isle of Man)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4622,
+            54.1678
+          ],
+          [
+            -4.4239,
+            54.1781
+          ],
+          [
+            -4.4008,
+            54.2361
+          ],
+          [
+            -4.3694,
+            54.2739
+          ],
+          [
+            -4.3822,
+            54.3208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "snaefell-mountain-railway-laxey-bungalow-snaefell-summit-ilha-de-man",
+        "linha": "Linha Elétrica de Montanha Snaefell: Estação Laxey – The Bungalow (TT Course) – Snaefell Summit (621 m, Sistema Fell)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Snaefell Mountain Railway (SMR — Ferrovia Elétrica de Montanha com Trilho Central Fell Laxey – Snaefell Summit, Ilha de Man)",
+        "sistema_nome_en": "Snaefell Mountain Railway (SMR — Fell Centre-Rail Electric Mountain Railway Laxey – Snaefell Summit, Isle of Man)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4008,
+            54.2361
+          ],
+          [
+            -4.4633,
+            54.2528
+          ],
+          [
+            -4.4608,
+            54.2633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "douglas-bay-horse-tramway-victoria-street-strathallan-derby-castle-ilha-de-man",
+        "linha": "Linha da Orla de Douglas: Sea Terminal / Victoria Pier – Villa Marina – Queen's Promenade – Derby Castle (Bonde a Cavalo de 1876)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Douglas Bay Horse Tramway (Bonde Vitoriano de Tração Animal da Orla de Douglas, Ilha de Man)",
+        "sistema_nome_en": "Douglas Bay Horse Tramway (Victorian Promenade Horse-Drawn Tramway of Douglas, Isle of Man)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4756,
+            54.1489
+          ],
+          [
+            -4.4775,
+            54.1569
+          ],
+          [
+            -4.4622,
+            54.1678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "isle-of-man-steam-railway-douglas-ballasalla-castletown-port-erin-ilha-de-man",
+        "linha": "Linha Sul Isle of Man Steam Railway: Douglas Station – Santon – Ballasalla – Castletown – Colby – Port St Mary – Port Erin (Bitola 914 mm)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Isle of Man Steam Railway (IMR — Ferrovia a Vapor de Bitola Estreita Douglas – Castletown – Port Erin, Ilha de Man)",
+        "sistema_nome_en": "Isle of Man Steam Railway (IMR — Narrow-Gauge Steam Railway Douglas – Castletown – Port Erin, Isle of Man)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4858,
+            54.1475
+          ],
+          [
+            -4.5686,
+            54.1136
+          ],
+          [
+            -4.6297,
+            54.0956
+          ],
+          [
+            -4.655,
+            54.0764
+          ],
+          [
+            -4.7381,
+            54.0789
+          ],
+          [
+            -4.7589,
+            54.0853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "groudle-glen-railway-great-laxey-mine-railway-orchid-line-ilha-de-man",
+        "linha": "Linhas Vitorianas Groudle Glen (Lhen Coan – Sea Lion Rocks) e Great Laxey Mine Railway (Valley Gardens – Mines Yard)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Groudle Glen Railway & Great Laxey Mine Railway (Ferrovias Vitorianas de Penhasco e Mineração da Ilha de Man)",
+        "sistema_nome_en": "Groudle Glen Railway & Great Laxey Mine Railway (Victorian Cliffside & Mining Narrow-Gauge Railways of the Isle of Man)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.4219,
+              54.1783
+            ],
+            [
+              -4.4106,
+              54.1756
+            ]
+          ],
+          [
+            [
+              -4.4008,
+              54.2361
+            ],
+            [
+              -4.4072,
+              54.2389
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "alderney-railway-bray-harbour-mannez-quarry-lighthouse-guernsey-channel-islands",
+        "linha": "Linha Costeira Alderney Railway: Braye Road (Porto de Braye) – Whitegates – Mannez Quarry & Lighthouse (Ilha de Alderney, Guernsey)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Alderney Railway (A Única Ferrovia em Operação nas Ilhas do Canal — Braye Beach – Mannez Quarry & Lighthouse, Bailiado de Guernsey)",
+        "sistema_nome_en": "Alderney Railway (The Only Working Railway in the Channel Islands — Braye Beach – Mannez Quarry & Lighthouse, Bailiwick of Guernsey)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2014,
+            49.7214
+          ],
+          [
+            -2.1833,
+            49.7239
+          ],
+          [
+            -2.1669,
+            49.7289
+          ]
+        ]
+      }
     }
   ]
 }
