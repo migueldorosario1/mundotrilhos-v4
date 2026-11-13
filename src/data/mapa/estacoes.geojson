@@ -14745,6 +14745,227 @@
           -1.325
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "dhaka-metro-rail-mrt-line-6-uttara-agargaon-motijheel-kamalapur",
+        "nome": "Estação Motijheel / Kamalapur (Metrô Elevado de Daca MRT Line 6 — Distrito Financeiro)",
+        "linha": "MRT Line 6 do Metrô de Daca",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Elétricos Kawasaki Heavy Industries da MRT Line 6",
+          "Estação Ferroviária Central de Kamalapur"
+        ],
+        "sistema_nome_pt": "Metrô Elevado de Daca — MRT Line 6 (Uttara North–Mirpur–Farmgate–Motijheel–Kamalapur)",
+        "sistema_nome_en": "Dhaka Metro Rail — MRT Line 6 (Uttara North–Mirpur–Farmgate–Motijheel–Kamalapur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4178,
+          23.7278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "dhaka-metro-rail-mrt-line-6-uttara-agargaon-motijheel-kamalapur",
+        "nome": "Estação Agargaon / Farmgate (Coração Administrativo e Universitário da MRT Line 6 em Daca)",
+        "linha": "MRT Line 6 do Metrô de Daca",
+        "status": "operacao",
+        "integracoes": [
+          "MRT Line 6 (Uttara North–Motijheel)",
+          "Parlamento Nacional de Bangladesh (Jatiya Sangsad)"
+        ],
+        "sistema_nome_pt": "Metrô Elevado de Daca — MRT Line 6 (Uttara North–Mirpur–Farmgate–Motijheel–Kamalapur)",
+        "sistema_nome_en": "Dhaka Metro Rail — MRT Line 6 (Uttara North–Mirpur–Farmgate–Motijheel–Kamalapur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3792,
+          23.7778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bangladesh-railway-padma-bridge-rail-link-dhaka-chattogram-sylhet",
+        "nome": "Estação Central Dhaka Kamalapur (Maior Hub Ferroviário de Bangladesh)",
+        "linha": "Ferrovia da Ponte Padma, Subarno Express e Maitree Express (Daca–Calcutá)",
+        "status": "operacao",
+        "integracoes": [
+          "Bangladesh Railway Intercity",
+          "Metrô de Daca MRT Line 6",
+          "Trem Suburbano de Narayanganj e Joydebpur"
+        ],
+        "sistema_nome_pt": "Ferrovia da Ponte Padma (Daca–Mawa–Bhanga–Jashore) e Troncos Nacionais da Bangladesh Railway",
+        "sistema_nome_en": "Padma Bridge Rail Link (Dhaka–Bhanga–Jashore) & Bangladesh Railway National Trunk Network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4258,
+          23.7317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bangladesh-railway-padma-bridge-rail-link-dhaka-chattogram-sylhet",
+        "nome": "Travessia Ferroviária da Ponte Padma (Mawa–Janjira — 6,15 km de Deck Duplo Rodoferroviário sobre o Rio Padma)",
+        "linha": "Padma Bridge Rail Link (Daca–Mawa–Bhanga–Jashore)",
+        "status": "operacao",
+        "integracoes": [
+          "Travessia em Bitola Larga 1.676 mm no Nível Inferior da Ponte Padma"
+        ],
+        "sistema_nome_pt": "Ferrovia da Ponte Padma (Daca–Mawa–Bhanga–Jashore) e Troncos Nacionais da Bangladesh Railway",
+        "sistema_nome_en": "Padma Bridge Rail Link (Dhaka–Bhanga–Jashore) & Bangladesh Railway National Trunk Network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.26,
+          23.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "dhaka-suburban-circular-demu-narayanganj-joydebpur-tongi",
+        "nome": "Estação Dhaka Airport (Biman Bandar — Hub Suburbano e Intercidades no Aeroporto Hazrat Shahjalal)",
+        "linha": "Corredor Norte Daca Kamalapur – Airport – Tongi – Joydebpur",
+        "status": "operacao",
+        "integracoes": [
+          "Aeroporto Internacional Hazrat Shahjalal",
+          "Trens Suburbanos e Intercidades Bangladesh Railway"
+        ],
+        "sistema_nome_pt": "Rede Suburbana e Metropolitana de Daca (Kamalapur–Airport–Tongi–Joydebpur e Narayanganj)",
+        "sistema_nome_en": "Dhaka Suburban & Commuter Rail Network (Kamalapur–Airport–Tongi–Joydebpur & Narayanganj)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4086,
+          23.8511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sri-lanka-railways-main-line-colombo-kandy-nanu-oya-ella-badulla",
+        "nome": "Estação Colombo Fort (Coração Nacional da Sri Lanka Railways)",
+        "linha": "Main Line, Coastal Line, Northern Line e Puttalam Line",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Podi Menike / Udarata Menike (Terras Altas)",
+          "Expresso Yal Devi (Jaffna)",
+          "Expresso Ruhunu Kumari (Galle/Matara)"
+        ],
+        "sistema_nome_pt": "Linha Montanhosa do Sri Lanka — Colombo Fort–Kandy–Nanu Oya–Ella–Badulla (Ponte dos Nove Arcos)",
+        "sistema_nome_en": "Sri Lanka Railways Scenic Main Line — Colombo Fort–Kandy–Ella–Badulla (Nine Arch Bridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.85,
+          6.9344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sri-lanka-railways-main-line-colombo-kandy-nanu-oya-ella-badulla",
+        "nome": "Estação Kandy (Capital Real das Montanhas do Sri Lanka)",
+        "linha": "Main Line (Colombo Fort – Peradeniya – Kandy – Matale)",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Panorâmicos de Observação para Colombo e Ella",
+          "Templo da Relíquia do Dente Sagrado ( Patrimônio UNESCO)"
+        ],
+        "sistema_nome_pt": "Linha Montanhosa do Sri Lanka — Colombo Fort–Kandy–Nanu Oya–Ella–Badulla (Ponte dos Nove Arcos)",
+        "sistema_nome_en": "Sri Lanka Railways Scenic Main Line — Colombo Fort–Kandy–Ella–Badulla (Nine Arch Bridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6336,
+          7.2897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sri-lanka-railways-main-line-colombo-kandy-nanu-oya-ella-badulla",
+        "nome": "Estação Ella e Ponte dos Nove Arcos (Nine Arch Bridge em Demodara — Ícone Ferroviário Mundial)",
+        "linha": "Main Line Montanhosa (Nanu Oya – Haputale – Ella – Demodara Loop – Badulla)",
+        "status": "operacao",
+        "integracoes": [
+          "Viaduto Colonial de Pedra Nine Arch Bridge (1921)",
+          "Espiral Ferroviária de Demodara"
+        ],
+        "sistema_nome_pt": "Linha Montanhosa do Sri Lanka — Colombo Fort–Kandy–Nanu Oya–Ella–Badulla (Ponte dos Nove Arcos)",
+        "sistema_nome_en": "Sri Lanka Railways Scenic Main Line — Colombo Fort–Kandy–Ella–Badulla (Nine Arch Bridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0608,
+          6.8768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sri-lanka-coastal-northern-lines-colombo-galle-matara-beliatta-jaffna",
+        "nome": "Estação de Galle e Jaffna (Terminais Históricos da Linha Costeira Sul e da Linha Norte Yal Devi)",
+        "linha": "Coastal Line (Colombo–Galle–Beliatta)",
+        "status": "operacao",
+        "integracoes": [
+          "Forte Holandês de Galle (UNESCO)",
+          "Expresso Costeiro Samudra Devi e Ruhunu Kumari"
+        ],
+        "sistema_nome_pt": "Linha Costeira (Colombo–Galle–Matara–Beliatta) e Linha Norte (Anuradhapura–Jaffna) da Sri Lanka Railways",
+        "sistema_nome_en": "Sri Lanka Coastal Line (Colombo–Galle–Matara–Beliatta) & Northern Line (Anuradhapura–Jaffna)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2144,
+          6.0328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-porto-chattogram-dhaka-icd-kamalapur-mongla-bangladesh",
+        "nome": "Terminal Ferro-Portuário de Chattogram (Chittagong Goods Port Yard CGPY)",
+        "linha": "Corredor de Contêineres Porto de Chattogram – Daca Kamalapur ICD",
+        "status": "operacao",
+        "integracoes": [
+          "Principal Porto Marítimo de Bangladesh (Baía de Bengala)",
+          "Trens de Contêineres para Daca"
+        ],
+        "sistema_nome_pt": "Corredor de Carga e Contêineres Porto de Chattogram – Daca Kamalapur ICD e Porto de Mongla",
+        "sistema_nome_en": "Chattogram Port–Dhaka Kamalapur ICD & Mongla Port Freight Rail Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8,
+          22.31
+        ]
+      }
     }
   ]
 }
