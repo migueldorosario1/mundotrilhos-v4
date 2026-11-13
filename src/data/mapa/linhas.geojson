@@ -16674,6 +16674,246 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "whoosh-tav-jacarta-bandung-350kmh-indonesia",
+        "linha": "Whoosh TAV Jacarta–Bandung (350 km/h): Halim (Jacarta) – Karawang – Padalarang (Conexão Feeder Bandung) – Tegalluar",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Whoosh — Trem de Alta Velocidade Jacarta–Bandung (350 km/h — 1º TAV do Sudeste Asiático e do Hemisfério Sul)",
+        "sistema_nome_en": "Whoosh — Jakarta–Bandung High-Speed Railway (350 km/h — 1st HSR in Southeast Asia & Southern Hemisphere)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8856,
+            -6.2458
+          ],
+          [
+            107.265,
+            -6.355
+          ],
+          [
+            107.4719,
+            -6.8428
+          ],
+          [
+            107.712,
+            -6.965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrt-jacarta-lrt-jabodebek-indonesia",
+        "linha": "MRT Jakarta North–South Line (Lebak Bulus – Blok M – Senayan – Dukuh Atas BNI – Bundaran HI) & LRT Jabodebek (Dukuh Atas – Cawang – Harjamukti / Jatimulya Bekasi)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "MRT de Jacarta (Linha Norte–Sul Lebak Bulus–Bundaran HI) & LRT Jabodebek Automático (Cibubur & Bekasi Lines)",
+        "sistema_nome_en": "Jakarta MRT (North–South Line) & Automated Jabodebek LRT (Cibubur & Bekasi Lines)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.7744,
+            -6.2894
+          ],
+          [
+            106.7981,
+            -6.2442
+          ],
+          [
+            106.8228,
+            -6.2008
+          ],
+          [
+            106.823,
+            -6.193
+          ],
+          [
+            106.868,
+            -6.245
+          ],
+          [
+            106.895,
+            -6.372
+          ],
+          [
+            107.022,
+            -6.262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lrt-jacarta-palembang-skytrain-soekarno-hatta-indonesia",
+        "linha": "LRT Sumatera Selatan (Palembang LRT): Aeroporto Sultan Mahmud Badaruddin II – Ampera (Rio Musi) – Jakabaring DJKA",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs e LRTs Urbanos: LRT Jakarta (Kelapa Gading–Velodrome), LRT Palembang (Sumatra) & Skytrain Soekarno–Hatta",
+        "sistema_nome_en": "Jakarta LRT, South Sumatra Palembang LRT & Soekarno–Hatta Airport Skytrain",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.7042,
+            -2.8947
+          ],
+          [
+            104.76,
+            -2.989
+          ],
+          [
+            104.795,
+            -3.028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kai-commuter-krl-jabodetabek-malha-java-indonesia",
+        "linha": "KRL Commuterline Jabodetabek (Jakarta Kota – Manggarai – Bogor & Tanah Abang – Bekasi / Tangerang)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) e Troncos Intercidades Trans-Java (Jacarta–Yogyakarta–Surabaya)",
+        "sistema_nome_en": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) & Trans-Java Intercity Mainlines (Jakarta–Yogyakarta–Surabaya)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8147,
+            -6.1376
+          ],
+          [
+            106.8503,
+            -6.2097
+          ],
+          [
+            106.8317,
+            -6.4025
+          ],
+          [
+            106.7906,
+            -6.595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kai-commuter-krl-jabodetabek-malha-java-indonesia",
+        "linha": "Troncos Norte e Sul da Ilha de Java (KAI): Jacarta (Gambir / Pasar Senen) – Cirebon – Semarang – Solo Balapan / Bandung – Yogyakarta – Surabaya (Pasar Turi / Gubeng)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) e Troncos Intercidades Trans-Java (Jacarta–Yogyakarta–Surabaya)",
+        "sistema_nome_en": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) & Trans-Java Intercity Mainlines (Jakarta–Yogyakarta–Surabaya)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8306,
+            -6.1767
+          ],
+          [
+            108.5556,
+            -6.7056
+          ],
+          [
+            110.4281,
+            -6.9647
+          ],
+          [
+            112.7317,
+            -7.2492
+          ],
+          [
+            112.7519,
+            -7.2653
+          ],
+          [
+            110.8214,
+            -7.5569
+          ],
+          [
+            110.3639,
+            -7.7892
+          ],
+          [
+            107.6025,
+            -6.9125
+          ],
+          [
+            106.8306,
+            -6.1767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-carvao-babaranjang-sumatra-java-indonesia",
+        "linha": "Ferrovia Heavy-Haul de Carvão Babaranjang (Sul de Sumatra): Minas de Tanjung Enim – Prabumulih – Baturaja – Kotabumi – Terminal Portuário de Tarahan (Lampung) & Kertapati (Palembang)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Superferrovia Heavy-Haul de Carvão do Sul de Sumatra (Babaranjang: Tanjung Enim–Tarahan) & Corredor de Contêineres de Java",
+        "sistema_nome_en": "South Sumatra Heavy-Haul Coal Railway (Babaranjang: Tanjung Enim–Tarahan) & North Java Container Freight Corridor",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.76,
+            -3.015
+          ],
+          [
+            104.23,
+            -3.43
+          ],
+          [
+            103.79,
+            -3.75
+          ],
+          [
+            104.167,
+            -4.128
+          ],
+          [
+            104.889,
+            -4.825
+          ],
+          [
+            105.318,
+            -5.475
+          ]
+        ]
+      }
     }
   ]
 }

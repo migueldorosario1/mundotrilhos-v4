@@ -12091,6 +12091,232 @@
           2.9997
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "whoosh-tav-jacarta-bandung-350kmh-indonesia",
+        "nome": "Halim High-Speed Station (Terminal Jacarta do TAV Whoosh 350 km/h + LRT Jabodebek)",
+        "linha": "Whoosh TAV Jacarta–Bandung",
+        "status": "operacao",
+        "integracoes": [
+          "TAV Whoosh 350 km/h",
+          "LRT Jabodebek Bekasi Line",
+          "TransJakarta BRT"
+        ],
+        "sistema_nome_pt": "Whoosh — Trem de Alta Velocidade Jacarta–Bandung (350 km/h — 1º TAV do Sudeste Asiático e do Hemisfério Sul)",
+        "sistema_nome_en": "Whoosh — Jakarta–Bandung High-Speed Railway (350 km/h — 1st HSR in Southeast Asia & Southern Hemisphere)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8856,
+          -6.2458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "whoosh-tav-jacarta-bandung-350kmh-indonesia",
+        "nome": "Padalarang & Tegalluar Stations (Terminais Bandung do TAV Whoosh 350 km/h)",
+        "linha": "Whoosh TAV Jacarta–Bandung",
+        "status": "operacao",
+        "integracoes": [
+          "TAV Whoosh 350 km/h",
+          "KAI Feeder Train para Estação Central de Bandung"
+        ],
+        "sistema_nome_pt": "Whoosh — Trem de Alta Velocidade Jacarta–Bandung (350 km/h — 1º TAV do Sudeste Asiático e do Hemisfério Sul)",
+        "sistema_nome_en": "Whoosh — Jakarta–Bandung High-Speed Railway (350 km/h — 1st HSR in Southeast Asia & Southern Hemisphere)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4719,
+          -6.8428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrt-jacarta-lrt-jabodebek-indonesia",
+        "nome": "Dukuh Atas BNI Transit Hub (Maior Intercâmbio de Jacarta: MRT + LRT Jabodebek + KRL Sudirman + Trem do Aeroporto BNI City)",
+        "linha": "MRT North–South / LRT Jabodebek / KRL",
+        "status": "operacao",
+        "integracoes": [
+          "MRT Jakarta",
+          "LRT Jabodebek",
+          "KRL Commuterline",
+          "Soekarno–Hatta Airport Rail Link",
+          "TransJakarta"
+        ],
+        "sistema_nome_pt": "MRT de Jacarta (Linha Norte–Sul Lebak Bulus–Bundaran HI) & LRT Jabodebek Automático (Cibubur & Bekasi Lines)",
+        "sistema_nome_en": "Jakarta MRT (North–South Line) & Automated Jabodebek LRT (Cibubur & Bekasi Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8228,
+          -6.2008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "mrt-jacarta-lrt-jabodebek-indonesia",
+        "nome": "Bundaran HI & Lebak Bulus Grab Stations (MRT Jakarta)",
+        "linha": "MRT Jakarta North–South Line",
+        "status": "operacao",
+        "integracoes": [
+          "MRT Jakarta",
+          "TransJakarta Corridor 1"
+        ],
+        "sistema_nome_pt": "MRT de Jacarta (Linha Norte–Sul Lebak Bulus–Bundaran HI) & LRT Jabodebek Automático (Cibubur & Bekasi Lines)",
+        "sistema_nome_en": "Jakarta MRT (North–South Line) & Automated Jabodebek LRT (Cibubur & Bekasi Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.823,
+          -6.193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lrt-jacarta-palembang-skytrain-soekarno-hatta-indonesia",
+        "nome": "Ampera Station (LRT de Palembang junto à Ponte Ampera sobre o Rio Musi)",
+        "linha": "LRT Sumatera Selatan",
+        "status": "operacao",
+        "integracoes": [
+          "LRT Palembang",
+          "Trans Musi"
+        ],
+        "sistema_nome_pt": "VLTs e LRTs Urbanos: LRT Jakarta (Kelapa Gading–Velodrome), LRT Palembang (Sumatra) & Skytrain Soekarno–Hatta",
+        "sistema_nome_en": "Jakarta LRT, South Sumatra Palembang LRT & Soekarno–Hatta Airport Skytrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.76,
+          -2.989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kai-commuter-krl-jabodetabek-malha-java-indonesia",
+        "nome": "Manggarai Central Station & Gambir Station (Hubs Ferroviários de Jacarta)",
+        "linha": "KRL Commuterline / Expressos Argo Trans-Java",
+        "status": "operacao",
+        "integracoes": [
+          "KRL Bogor/Bekasi Line",
+          "Airport Rail Link",
+          "Expressos KAI Gambir"
+        ],
+        "sistema_nome_pt": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) e Troncos Intercidades Trans-Java (Jacarta–Yogyakarta–Surabaya)",
+        "sistema_nome_en": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) & Trans-Java Intercity Mainlines (Jakarta–Yogyakarta–Surabaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8503,
+          -6.2097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kai-commuter-krl-jabodetabek-malha-java-indonesia",
+        "nome": "Yogyakarta Tugu Station (Eixo Sul de Java + KRL Yogyakarta–Solo + Airport Rail Link YIA)",
+        "linha": "Tronco Sul de Java / KRL Yogya–Solo",
+        "status": "operacao",
+        "integracoes": [
+          "KAI Intercity",
+          "KRL Yogyakarta–Palur",
+          "YIA Airport Rail Link"
+        ],
+        "sistema_nome_pt": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) e Troncos Intercidades Trans-Java (Jacarta–Yogyakarta–Surabaya)",
+        "sistema_nome_en": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) & Trans-Java Intercity Mainlines (Jakarta–Yogyakarta–Surabaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3639,
+          -7.7892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kai-commuter-krl-jabodetabek-malha-java-indonesia",
+        "nome": "Surabaya Pasar Turi & Surabaya Gubeng Stations (Terminais Orientais de Java)",
+        "linha": "Troncos Norte e Sul de Java KAI",
+        "status": "operacao",
+        "integracoes": [
+          "Argo Bromo Anggrek",
+          "Argo Wilis",
+          "KAI Commuter Surabaya"
+        ],
+        "sistema_nome_pt": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) e Troncos Intercidades Trans-Java (Jacarta–Yogyakarta–Surabaya)",
+        "sistema_nome_en": "KAI Commuter (KRL Jabodetabek & Yogyakarta–Solo) & Trans-Java Intercity Mainlines (Jakarta–Yogyakarta–Surabaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7317,
+          -7.2492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-carvao-babaranjang-sumatra-java-indonesia",
+        "nome": "Minas de Carvão de Tanjung Enim (Origem dos Trens de 60 Vagões Babaranjang)",
+        "linha": "Ferrovia de Carvão Babaranjang",
+        "status": "operacao",
+        "integracoes": [
+          "PT Bukit Asam Coal Rail",
+          "KAI Logistik"
+        ],
+        "sistema_nome_pt": "Superferrovia Heavy-Haul de Carvão do Sul de Sumatra (Babaranjang: Tanjung Enim–Tarahan) & Corredor de Contêineres de Java",
+        "sistema_nome_en": "South Sumatra Heavy-Haul Coal Railway (Babaranjang: Tanjung Enim–Tarahan) & North Java Container Freight Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79,
+          -3.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-carvao-babaranjang-sumatra-java-indonesia",
+        "nome": "Terminal Portuário de Carvão de Tarahan (Lampung — Estreito de Sunda)",
+        "linha": "Ferrovia de Carvão Babaranjang",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Marítimo de Exportação de Carvão Tarahan"
+        ],
+        "sistema_nome_pt": "Superferrovia Heavy-Haul de Carvão do Sul de Sumatra (Babaranjang: Tanjung Enim–Tarahan) & Corredor de Contêineres de Java",
+        "sistema_nome_en": "South Sumatra Heavy-Haul Coal Railway (Babaranjang: Tanjung Enim–Tarahan) & North Java Container Freight Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318,
+          -5.475
+        ]
+      }
     }
   ]
 }
