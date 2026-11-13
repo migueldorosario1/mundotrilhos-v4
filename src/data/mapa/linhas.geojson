@@ -22912,6 +22912,310 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-de-luanda-cfl-suburbano-luanda-bungo-catete-malanje-angola",
+        "linha": "CFL (Bungo / Luanda – Viana – Baia – Novo Aeroporto / Catete – Zenza do Itombe – Ndalatando – Malanje)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Caminho de Ferro de Luanda (CFL — Suburbano Bungo – Viana – Catete / Novo Aeroporto e Expresso Malanje)",
+        "sistema_nome_en": "Luanda Railway (CFL — Bungo – Viana – Catete / New Airport Suburban & Malanje Express)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2302,
+            -8.8147
+          ],
+          [
+            13.285,
+            -8.84
+          ],
+          [
+            13.3744,
+            -8.9036
+          ],
+          [
+            13.52,
+            -9.05
+          ],
+          [
+            13.7081,
+            -9.1128
+          ],
+          [
+            14.25,
+            -9.27
+          ],
+          [
+            14.9117,
+            -9.2978
+          ],
+          [
+            15.6,
+            -9.42
+          ],
+          [
+            16.341,
+            -9.5402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-de-benguela-cfb-lobito-benguela-huambo-kuito-luau-angola",
+        "linha": "CFB (Porto do Lobito – Catumbela – Benguela – Cubal – Huambo – Kuito – Munhango – Luena – Luau)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Caminho de Ferro de Benguela (CFB — Suburbano Lobito – Benguela e Expresso Huambo – Kuito – Luau)",
+        "sistema_nome_en": "Benguela Railway (CFB — Lobito – Benguela Suburban & Huambo – Kuito – Luau Intercity)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5361,
+            -12.3597
+          ],
+          [
+            13.4094,
+            -12.5763
+          ],
+          [
+            14.24,
+            -13.035
+          ],
+          [
+            15.7392,
+            -12.7761
+          ],
+          [
+            16.9333,
+            -12.3833
+          ],
+          [
+            18.65,
+            -12.1667
+          ],
+          [
+            19.9167,
+            -11.7833
+          ],
+          [
+            22.2247,
+            -10.7072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-de-mocamedes-cfm-namibe-lubango-jamba-menongue-angola",
+        "linha": "CFM (Moçâmedes / Saco Mar – Bibala – Lubango – Matala – Kuvango – Menongue)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Caminho de Ferro de Moçâmedes (CFM — Moçâmedes / Namibe – Lubango – Matala – Menongue)",
+        "sistema_nome_en": "Moçâmedes Railway (CFM — Moçâmedes / Namibe – Lubango – Matala – Menongue Southern Corridor)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1522,
+            -15.1961
+          ],
+          [
+            13.35,
+            -14.76
+          ],
+          [
+            13.4925,
+            -14.9172
+          ],
+          [
+            15.0333,
+            -14.7333
+          ],
+          [
+            16.3,
+            -14.4667
+          ],
+          [
+            17.691,
+            -14.6585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sncc-onatra-scpt-rd-congo-matadi-kinshasa-lubumbashi-kolwezi-kamina",
+        "linha": "SCTP (Matadi – Mbanza-Ngungu – Kinshasa Est) e SNCC (Lubumbashi – Likasi – Tenke – Kolwezi – Kamina)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "SCTP (Kinshasa – Matadi) e SNCC (Lubumbashi – Likasi – Kolwezi – Kamina — RD Congo)",
+        "sistema_nome_en": "SCTP (Kinshasa – Matadi) & SNCC (Lubumbashi – Likasi – Kolwezi – Kamina Railway — DR Congo)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              13.445,
+              -5.8167
+            ],
+            [
+              14.8583,
+              -5.2583
+            ],
+            [
+              15.3136,
+              -4.3276
+            ]
+          ],
+          [
+            [
+              27.4794,
+              -11.6609
+            ],
+            [
+              26.7333,
+              -10.9833
+            ],
+            [
+              26.1333,
+              -10.6
+            ],
+            [
+              25.4667,
+              -10.7167
+            ],
+            [
+              24.9906,
+              -8.7386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "transgabonais-setrag-owendo-libreville-ndjole-booue-lastoursville-franceville-gabao",
+        "linha": "Transgabonais (Owendo / Libreville – Ndjolé – Booué – Lastoursville – Moanda – Franceville)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Transgabonesa (SETRAG — Owendo / Libreville – Ndjolé – Booué – Moanda – Franceville)",
+        "sistema_nome_en": "Trans-Gabon Railway (SETRAG — Owendo / Libreville – Ndjolé – Booué – Moanda – Franceville)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5036,
+            0.2965
+          ],
+          [
+            10.7644,
+            -0.1783
+          ],
+          [
+            11.9389,
+            -0.0922
+          ],
+          [
+            12.7081,
+            -0.8172
+          ],
+          [
+            13.1986,
+            -1.5664
+          ],
+          [
+            13.5836,
+            -1.6333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-do-lobito-lar-angola-rd-congo-kolwezi-tenke-transgabonais-moanda-carga",
+        "linha": "Corredor do Lobito (Porto do Lobito – Huambo – Luau – Dilolo – Kolwezi – Tenke) e Manganês Moanda – Owendo",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Minerador do Lobito (LAR — Porto do Lobito – Luau – Kolwezi / Tenke) e Manganês de Moanda (SETRAG)",
+        "sistema_nome_en": "Lobito Mining Corridor (LAR — Lobito Port – Luau – Kolwezi / Tenke Copperbelt) & Moanda Manganese (SETRAG)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              13.5361,
+              -12.3597
+            ],
+            [
+              15.7392,
+              -12.7761
+            ],
+            [
+              19.9167,
+              -11.7833
+            ],
+            [
+              22.2247,
+              -10.7072
+            ],
+            [
+              22.3486,
+              -10.6914
+            ],
+            [
+              25.4667,
+              -10.7167
+            ],
+            [
+              26.1333,
+              -10.6
+            ]
+          ],
+          [
+            [
+              13.1986,
+              -1.5664
+            ],
+            [
+              11.9389,
+              -0.0922
+            ],
+            [
+              9.5036,
+              0.2965
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

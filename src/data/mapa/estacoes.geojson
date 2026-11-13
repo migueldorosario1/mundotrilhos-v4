@@ -16942,6 +16942,196 @@
           45.555
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-de-luanda-cfl-suburbano-luanda-bungo-catete-malanje-angola",
+        "nome": "Estação Central do Bungo (Luanda)",
+        "linha": "CFL Suburbano e Longo Curso",
+        "status": "operacao",
+        "integracoes": "Porto de Luanda / Baixa de Luanda / Viana / Novo Aeroporto Internacional",
+        "sistema_nome_pt": "Caminho de Ferro de Luanda (CFL — Suburbano Bungo – Viana – Catete / Novo Aeroporto e Expresso Malanje)",
+        "sistema_nome_en": "Luanda Railway (CFL — Bungo – Viana – Catete / New Airport Suburban & Malanje Express)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2302,
+          -8.8147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-de-luanda-cfl-suburbano-luanda-bungo-catete-malanje-angola",
+        "nome": "Estação de Malanje (CFL)",
+        "linha": "CFL Expresso Luanda – Malanje",
+        "status": "operacao",
+        "integracoes": "Terminal Ferroviário de Malanje / Planalto de Malanje",
+        "sistema_nome_pt": "Caminho de Ferro de Luanda (CFL — Suburbano Bungo – Viana – Catete / Novo Aeroporto e Expresso Malanje)",
+        "sistema_nome_en": "Luanda Railway (CFL — Bungo – Viana – Catete / New Airport Suburban & Malanje Express)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.341,
+          -9.5402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-de-benguela-cfb-lobito-benguela-huambo-kuito-luau-angola",
+        "nome": "Estação do Lobito (CFB / Corredor do Lobito)",
+        "linha": "CFB Lobito – Benguela – Huambo – Luau",
+        "status": "operacao",
+        "integracoes": "Porto Comercial e Mineraleiro do Lobito / Trem Urbano Lobito–Benguela",
+        "sistema_nome_pt": "Caminho de Ferro de Benguela (CFB — Suburbano Lobito – Benguela e Expresso Huambo – Kuito – Luau)",
+        "sistema_nome_en": "Benguela Railway (CFB — Lobito – Benguela Suburban & Huambo – Kuito – Luau Intercity)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5361,
+          -12.3597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-de-benguela-cfb-lobito-benguela-huambo-kuito-luau-angola",
+        "nome": "Estação Central do Huambo (CFB)",
+        "linha": "CFB Lobito – Huambo – Kuito – Luau",
+        "status": "operacao",
+        "integracoes": "Oficinas Gerais do CFB no Huambo / Planalto Central de Angola",
+        "sistema_nome_pt": "Caminho de Ferro de Benguela (CFB — Suburbano Lobito – Benguela e Expresso Huambo – Kuito – Luau)",
+        "sistema_nome_en": "Benguela Railway (CFB — Lobito – Benguela Suburban & Huambo – Kuito – Luau Intercity)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7392,
+          -12.7761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-de-mocamedes-cfm-namibe-lubango-jamba-menongue-angola",
+        "nome": "Estação Central do Lubango (CFM — Huíla)",
+        "linha": "CFM Moçâmedes – Lubango – Menongue",
+        "status": "operacao",
+        "integracoes": "Sede Operacional do CFM / Serra da Leba / Aeroporto da Mukanka",
+        "sistema_nome_pt": "Caminho de Ferro de Moçâmedes (CFM — Moçâmedes / Namibe – Lubango – Matala – Menongue)",
+        "sistema_nome_en": "Moçâmedes Railway (CFM — Moçâmedes / Namibe – Lubango – Matala – Menongue Southern Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4925,
+          -14.9172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sncc-onatra-scpt-rd-congo-matadi-kinshasa-lubumbashi-kolwezi-kamina",
+        "nome": "Gare Centrale de Kinshasa Est (SCTP)",
+        "linha": "Ferrovia Matadi – Kinshasa e Urbano de Kinshasa",
+        "status": "operacao",
+        "integracoes": "Boulevard du 30 Juin / Porto Fluvial de Kinshasa no Rio Congo",
+        "sistema_nome_pt": "SCTP (Kinshasa – Matadi) e SNCC (Lubumbashi – Likasi – Kolwezi – Kamina — RD Congo)",
+        "sistema_nome_en": "SCTP (Kinshasa – Matadi) & SNCC (Lubumbashi – Likasi – Kolwezi – Kamina Railway — DR Congo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3136,
+          -4.3276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sncc-onatra-scpt-rd-congo-matadi-kinshasa-lubumbashi-kolwezi-kamina",
+        "nome": "Gare Centrale de Lubumbashi (SNCC)",
+        "linha": "Rede Sul SNCC (Lubumbashi – Likasi – Kolwezi – Kamina – Sakania)",
+        "status": "operacao",
+        "integracoes": "Sede da SNCC / Corredor Sul para Ndola e Zâmbia",
+        "sistema_nome_pt": "SCTP (Kinshasa – Matadi) e SNCC (Lubumbashi – Likasi – Kolwezi – Kamina — RD Congo)",
+        "sistema_nome_en": "SCTP (Kinshasa – Matadi) & SNCC (Lubumbashi – Likasi – Kolwezi – Kamina Railway — DR Congo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4794,
+          -11.6609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "transgabonais-setrag-owendo-libreville-ndjole-booue-lastoursville-franceville-gabao",
+        "nome": "Gare d'Owendo Virié (Libreville — SETRAG)",
+        "linha": "Transgabonais (Owendo – Franceville)",
+        "status": "operacao",
+        "integracoes": "Porto de Owendo / Grande Libreville",
+        "sistema_nome_pt": "Ferrovia Transgabonesa (SETRAG — Owendo / Libreville – Ndjolé – Booué – Moanda – Franceville)",
+        "sistema_nome_en": "Trans-Gabon Railway (SETRAG — Owendo / Libreville – Ndjolé – Booué – Moanda – Franceville)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5036,
+          0.2965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "transgabonais-setrag-owendo-libreville-ndjole-booue-lastoursville-franceville-gabao",
+        "nome": "Gare de Franceville (Haut-Ogooué — SETRAG)",
+        "linha": "Transgabonais (Owendo – Moanda – Franceville)",
+        "status": "operacao",
+        "integracoes": "Terminal Leste do Transgabonais / Polo de Moanda–Franceville",
+        "sistema_nome_pt": "Ferrovia Transgabonesa (SETRAG — Owendo / Libreville – Ndjolé – Booué – Moanda – Franceville)",
+        "sistema_nome_en": "Trans-Gabon Railway (SETRAG — Owendo / Libreville – Ndjolé – Booué – Moanda – Franceville)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5836,
+          -1.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-do-lobito-lar-angola-rd-congo-kolwezi-tenke-transgabonais-moanda-carga",
+        "nome": "Terminal Minerador de Kolwezi / Tenke (Corredor do Lobito — LAR / SNCC)",
+        "linha": "Corredor de Cobre e Cobalto Kolwezi – Dilolo – Luau – Porto do Lobito",
+        "status": "operacao",
+        "integracoes": "Minas de Kamoa-Kakula e Tenke Fungurume / Conexão Direta ao Porto Atlântico do Lobito",
+        "sistema_nome_pt": "Corredor Minerador do Lobito (LAR — Porto do Lobito – Luau – Kolwezi / Tenke) e Manganês de Moanda (SETRAG)",
+        "sistema_nome_en": "Lobito Mining Corridor (LAR — Lobito Port – Luau – Kolwezi / Tenke Copperbelt) & Moanda Manganese (SETRAG)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4667,
+          -10.7167
+        ]
+      }
     }
   ]
 }
