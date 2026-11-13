@@ -27297,6 +27297,210 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-del-pacifico-de-nicaragua-granada-masaya-managua-chinandega-nicaragua",
+        "linha": "Corredor Patrimonial do Ferrocarril del Pacífico de Nicaragua (Estação Histórica de Granada – Masaya – Manágua – Chichigalpa)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrocarril del Pacífico de Nicaragua (Corredor Patrimonial e Estações de Granada – Masaya – Manágua – León – Chinandega, Nicarágua)",
+        "sistema_nome_en": "Pacific Railway of Nicaragua (Heritage Railway Stations & Corridor of Granada – Masaya – Managua – León – Chinandega, Nicaragua)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.956,
+            11.9344
+          ],
+          [
+            -86.0942,
+            11.9745
+          ],
+          [
+            -86.2685,
+            12.1528
+          ],
+          [
+            -86.878,
+            12.435
+          ],
+          [
+            -87.0285,
+            12.5412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-industriais-ingenio-san-antonio-chichigalpa-corinto-nicaragua",
+        "linha": "Malha Ferroviária Industrial Açucareira do Ingenio San Antonio (Chichigalpa) e Pátio Portuário de Corinto (Chinandega, Nicarágua)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Industriais Açucareiras de Chichigalpa (Ingenio San Antonio / Flor de Caña) e Terminal Portuário de Corinto (Nicarágua)",
+        "sistema_nome_en": "Chichigalpa Ingenio San Antonio Sugar Mill Railway & Port of Corinto Industrial Rail Tracks (Nicaragua)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0285,
+            12.5412
+          ],
+          [
+            -87.085,
+            12.521
+          ],
+          [
+            -87.1715,
+            12.4825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "stann-creek-railway-gallon-jug-belize-estate-heritage-railways-belize",
+        "linha": "Corredor Ferroviário Patrimonial Stann Creek Railway (Píer de Commerce Bight / Dangriga – Pomona – Alta Vista – Middlesex, Belize)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Stann Creek Railway & Ferrovias Florestais Patrimoniais de Dangriga – Middlesex e Gallon Jug / Hill Bank (Belize)",
+        "sistema_nome_en": "Stann Creek Valley Railway Dangriga – Middlesex & Gallon Jug / Hill Bank Heritage Forest Railways (Belize)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2238,
+            16.9692
+          ],
+          [
+            -88.312,
+            16.995
+          ],
+          [
+            -88.395,
+            17.012
+          ],
+          [
+            -88.512,
+            17.0285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-industriais-acucareiras-tower-hill-orange-walk-port-of-big-creek-belize",
+        "linha": "Vias Férreas Industriais da Usina Açucareira de Tower Hill (Orange Walk – Rio New River) e Terminal Portuário de Big Creek (Belize)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Industriais Açucareiras de Tower Hill (Orange Walk) e Pátio Portuário de Big Creek / Belize City (Belize)",
+        "sistema_nome_en": "Tower Hill Sugar Factory Industrial Rails Orange Walk & Port of Big Creek / Belize City Logistics Tracks (Belize)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5582,
+            18.0415
+          ],
+          [
+            -88.569,
+            18.081
+          ],
+          [
+            -88.4025,
+            17.515
+          ],
+          [
+            -88.405,
+            16.5125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trinidad-government-railway-port-of-spain-arima-san-fernando-heritage-trinidad-e-tobago",
+        "linha": "Corredor Ferroviário Patrimonial Trinidad Government Railway (Port of Spain City Gate – San Juan – Tunapuna – Arima e San Fernando)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trinidad Government Railway & Bonde Histórico de Port of Spain (Corredor Patrimonial Port of Spain – Tunapuna – Arima – San Fernando, Trinidad e Tobago)",
+        "sistema_nome_en": "Trinidad Government Railway TGR Heritage Corridor Port of Spain – Tunapuna – Arima – San Fernando & Tramway (Trinidad and Tobago)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.5085,
+            10.6498
+          ],
+          [
+            -61.451,
+            10.652
+          ],
+          [
+            -61.389,
+            10.6445
+          ],
+          [
+            -61.2825,
+            10.637
+          ],
+          [
+            -61.464,
+            10.2815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-industriais-usina-ste-madeleine-point-lisas-pitch-lake-la-brea-trinidad-e-tobago",
+        "linha": "Funicular Ferroviário de Asfalto Natural de Pitch Lake (La Brea), Malha Canavieira de Ste. Madeleine e Siderurgia de Point Lisas (Trinidad e Tobago)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Industriais da Usina Ste. Madeleine (San Fernando), Siderurgia de Point Lisas e Funicular de Asfalto de Pitch Lake La Brea (Trinidad e Tobago)",
+        "sistema_nome_en": "Usine Ste. Madeleine Sugar Railway, Point Lisas Industrial Steel Tracks & La Brea Pitch Lake Asphalt Tramway (Trinidad and Tobago)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.465,
+            10.4125
+          ],
+          [
+            -61.4258,
+            10.2715
+          ],
+          [
+            -61.6245,
+            10.2355
+          ]
+        ]
+      }
     }
   ]
 }
