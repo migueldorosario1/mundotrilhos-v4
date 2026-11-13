@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-13 16:14 BRT",
+  "atualizado_em": "2026-11-13 16:46 BRT",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -510,20 +510,50 @@
       "bandeira": "🇬🇬",
       "sistemas_operacao": 1,
       "ronda": "Ronda #63 (16:14 BRT — Modalidades Operacionais)"
+    },
+    {
+      "pais": "Svalbard",
+      "bandeira": "🇸🇯",
+      "sistemas_operacao": 2,
+      "ronda": "Ronda #64 (16:46 BRT — Modalidades Operacionais)"
+    },
+    {
+      "pais": "Gibraltar",
+      "bandeira": "🇬🇮",
+      "sistemas_operacao": 2,
+      "ronda": "Ronda #64 (16:46 BRT — Modalidades Operacionais)"
+    },
+    {
+      "pais": "Groenlândia",
+      "bandeira": "🇬🇱",
+      "sistemas_operacao": 1,
+      "ronda": "Ronda #64 (16:46 BRT — Modalidades Operacionais)"
+    },
+    {
+      "pais": "Ilhas Faroé",
+      "bandeira": "🇫🇴",
+      "sistemas_operacao": 1,
+      "ronda": "Ronda #64 (16:46 BRT — Modalidades Operacionais)"
     }
   ],
   "fila_proximas_rondas": [
-    {
-      "ordem": 60,
-      "pais": "Svalbard, Gibraltar, Groenlândia e Ilhas Faroé (Ártico, Atlântico Norte e Estreito de Gibraltar — Ferrovias Mineradoras Setentrionais e Túneis Ferroviários)",
-      "bandeira": "🇸🇯🇬🇮🇬🇱🇫🇴",
-      "foco": "Ferrovia Mineradora de Carvão de Ny-Ålesund (78°55' N — a ferrovia mais setentrional do planeta) e Túnel Ferroviário de Grumantbyen–Colesbukta em Svalbard, Rede Ferroviária do Estaleiro Real e Túneis da Rocha de Gibraltar, Ferrovia de Færingehavn/Qorlortorsuaq na Groenlândia e Trilhos Portuários/Túneis das Ilhas Faroé"
-    },
     {
       "ordem": 61,
       "pais": "Nicarágua, Belize e Trinidad e Tobago (América Central e Sul do Caribe — Corredores Ferroviários Patrimoniais e Industriais)",
       "bandeira": "🇳🇮🇧🇿🇹🇹",
       "foco": "Ferrocarril del Pacífico de Nicaragua (Estações e Trilhos Patrimoniais de Granada, Masaya, Manágua e Chichigalpa), Stann Creek Railway e Vias Canavieiras de Belize, e Trinidad Government Railway / Usina Ste. Madeleine e Bonde Histórico de Port of Spain em Trinidad e Tobago"
+    },
+    {
+      "ordem": 62,
+      "pais": "Bermudas, Bahamas, Ilhas Virgens e Curaçao / Aruba (Atlântico Ocidental e Caribe Holandês — Bondes Urbanos, Trilhos Portuários e Ferrovias Mineradoras)",
+      "bandeira": "🇧🇲🇧🇸🇻🇮🇨🇼🇦🇼",
+      "foco": "Oranjestad Streetcar (Bonde Elétrico a Hidrogênio/Bateria de Aruba) e Ferrovia Industrial de Balashi, Ferrovia de Fosfato de Tafelberg e Estaleiro de Willemstad em Curaçao, Bermuda Railway Trail & Pontes Históricas, Ferrovias Florestais e Portuárias de Abaco/Nassau nas Bahamas e Ferrovia Açucareira de St. Croix nas Ilhas Virgens"
+    },
+    {
+      "ordem": 63,
+      "pais": "Jersey, Santa Helena, Ilhas Malvinas (Falklands) e Samoa / Tonga (Ilhas do Canal, Atlântico Sul e Polinésia)",
+      "bandeira": "🇯🇪🇸🇭🇫🇰🇼🇸🇹🇴",
+      "foco": "Jersey Railway & Pallot Steam Museum (Ilha de Jersey), Plano Inclinado Histórico de Jamestown Ladder Railway (Santa Helena), Camber Railway de Port Stanley (Ilhas Malvinas / Falklands), Apia Customhouse & Mulifanua Plantation Tramways (Samoa) e Ferrovia Real de Nuku'alofa (Tonga)"
     }
   ]
 }

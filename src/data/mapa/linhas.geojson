@@ -27093,6 +27093,210 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-artica-ny-alesund-kings-bay-polar-railway-spitsbergen-svalbard",
+        "linha": "Ferrovia Polar de Ny-Ålesund (Cais de Kings Bay – Estação Monumento Locomotiva Borsig nº 2 – Minas Ester e Sofie, 78°55'N)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Ártica de Ny-Ålesund e Trilhos de Longyearbyen / Pyramiden (Ferrovia Mais Setentrional do Mundo a 78°55'N, Svalbard)",
+        "sistema_nome_en": "Ny-Ålesund Arctic Railway & Longyearbyen / Pyramiden Polar Railways (World's Northernmost Railway at 78°55'N, Svalbard)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9385,
+            78.9288
+          ],
+          [
+            11.9312,
+            78.9255
+          ],
+          [
+            11.921,
+            78.9215
+          ],
+          [
+            11.908,
+            78.9165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-ferroviario-subterraneo-carvao-barentsburg-mina-7-adventdalen-svalbard",
+        "linha": "Corredor Ferroviário Carbonífero Polar de Barentsburg (Grønfjorden) e Mina 3 / Mina 7 de Longyearbyen (Isfjorden, Svalbard)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Mineradoras Subterrâneas e Portuárias de Carvão do Ártico (Barentsburg Arktikugol e Mina 7 de Adventdalen, Svalbard)",
+        "sistema_nome_en": "Barentsburg Arktikugol & Adventdalen Mine 7 Underground Polar Coal Railways (Svalbard)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2085,
+            78.0672
+          ],
+          [
+            14.2195,
+            78.0615
+          ],
+          [
+            15.495,
+            78.241
+          ],
+          [
+            15.632,
+            78.2232
+          ],
+          [
+            16.035,
+            78.151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "teleferico-funicular-rochedo-gibraltar-alameda-top-of-the-rock-gibraltar",
+        "linha": "Linha Guiada do Rochedo de Gibraltar (Alameda Gardens / Grand Parade – Apes' Den – Top of the Rock Summit 412 m)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Sistema Guiado do Rochedo de Gibraltar (Gibraltar Cable Car Alameda – Top of the Rock & Trilhos Históricos de Bateria, Gibraltar)",
+        "sistema_nome_en": "Gibraltar Rock Guided Transit System (Alameda Gardens – Apes' Den – Top of the Rock & Heritage Battery Rails, Gibraltar)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.3522,
+            36.1332
+          ],
+          [
+            -5.3492,
+            36.1318
+          ],
+          [
+            -5.3458,
+            36.1305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-portuaria-estaleiro-tuneis-rocha-admiralty-dockyard-gibraltar",
+        "linha": "Ramal Ferroviário Portuário e de Docas Secas do Estaleiro Naval de Gibraltar (North Mole – Queensway Dockyard – South Mole / Gibdock)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias do Estaleiro de Gibraltar (Gibdock / HM Dockyard) e Trilhos da Rede de Túneis do Rochedo (Gibraltar)",
+        "sistema_nome_en": "Gibraltar Dockyard Port Crane & Industrial Railway and Rock Tunnel Rail System (Gibraltar)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.3625,
+            36.1445
+          ],
+          [
+            -5.3568,
+            36.1355
+          ],
+          [
+            -5.3562,
+            36.1265
+          ],
+          [
+            -5.3545,
+            36.1205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-articas-mineracao-criolita-ivittuut-qoornoq-tasiusaq-groenlandia",
+        "linha": "Ferrovia Insular Ártica de Qoornoq (Qoornoq X-Press 600 mm) e Planos Inclinados Ferroviários do Porto de Nuuk (Godthåbsfjorden, Groenlândia)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Árticas e Navais da Groenlândia (Ferrovia Insular de Qoornoq, Trilhos de Criolita de Ivittuut e Planos Inclinados de Nuuk / Sisimiut)",
+        "sistema_nome_en": "Greenland Arctic & Marine Railways (Qoornoq Island Railway, Ivittuut Cryolite Rails & Nuuk / Sisimiut Shipyard Slipway Railways, Greenland)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.7388,
+            64.175
+          ],
+          [
+            -51.721,
+            64.1785
+          ],
+          [
+            -51.385,
+            64.351
+          ],
+          [
+            -51.092,
+            64.5325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-tuneis-hidreletricos-sev-estaleiros-torshavn-klaksvik-ilhas-faroe",
+        "linha": "Vias Férreas dos Estaleiros Navais MEST (Tórshavn – Skála – Klaksvík) e galerias hidrelétricas SEV (Streymoy / Eysturoy, Ilhas Faroé)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Navais, Hidrelétricas e Costeiras das Ilhas Faroé (Estaleiros MEST de Tórshavn/Skála, galerias SEV e Funicular de Mykines)",
+        "sistema_nome_en": "Faroe Islands Shipyard, Hydro Tunnel & Coastal Railways (Tórshavn / Skála MEST Slipway Rails, SEV Tunnel Rails & Mykines Funicular, Faroe Islands)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.7719,
+            62.0079
+          ],
+          [
+            -6.785,
+            62.115
+          ],
+          [
+            -6.748,
+            62.159
+          ],
+          [
+            -6.589,
+            62.2265
+          ]
+        ]
+      }
     }
   ]
 }
