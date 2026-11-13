@@ -19328,6 +19328,308 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-kiev-kharkiv-dnipro-ucrania",
+        "linha": "Linha M1 Sviatoshynsko-Brovarska (Akademmistechko – Vokzalna – Khreshchatyk – Arsenalna – Lisova)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Kiev (Linhas M1, M2 e M3 — Estação Arsenalna a 105,5 m), Kharkiv e Dnipro",
+        "sistema_nome_en": "Kyiv Metro (Lines M1, M2 & M3 — Arsenalna Station at 105.5 m depth), Kharkiv & Dnipro Metro",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3551,
+            50.4648
+          ],
+          [
+            30.406,
+            50.4567
+          ],
+          [
+            30.4883,
+            50.4417
+          ],
+          [
+            30.5228,
+            50.4475
+          ],
+          [
+            30.5453,
+            50.4439
+          ],
+          [
+            30.5947,
+            50.4519
+          ],
+          [
+            30.6453,
+            50.4644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-kiev-kharkiv-dnipro-ucrania",
+        "linha": "Linha M3 Syretsko-Pecherska (Syrets – Zoloti Vorota – Vydubychi – Boryspilska – Chervonyi Khutir)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Kiev (Linhas M1, M2 e M3 — Estação Arsenalna a 105,5 m), Kharkiv e Dnipro",
+        "sistema_nome_en": "Kyiv Metro (Lines M1, M2 & M3 — Arsenalna Station at 105.5 m depth), Kharkiv & Dnipro Metro",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4408,
+            50.4764
+          ],
+          [
+            30.5133,
+            50.4484
+          ],
+          [
+            30.5381,
+            50.4272
+          ],
+          [
+            30.5608,
+            50.4022
+          ],
+          [
+            30.6317,
+            50.3956
+          ],
+          [
+            30.6822,
+            50.4033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-minsk-linhas-1-2-3-belarus",
+        "linha": "Linhas 1 Maskoŭskaja (Uručča – Plošča Lenina – Malinaŭka) e 2 Aŭtazavodskaja (Kamiennaja Horka – Mahilioŭskaja)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Minsk — Linhas 1 Maskoŭskaja, 2 Aŭtazavodskaja e 3 Zialionalužskaja",
+        "sistema_nome_en": "Minsk Metro — Lines 1 Maskoŭskaja, 2 Aŭtazavodskaja & 3 Zialionalužskaja",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.4767,
+            53.8492
+          ],
+          [
+            27.5478,
+            53.8939
+          ],
+          [
+            27.5614,
+            53.9022
+          ],
+          [
+            27.595,
+            53.9194
+          ],
+          [
+            27.6878,
+            53.9453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-tbilisi-linhas-akhmeteli-varketili-saburtalo-georgia",
+        "linha": "Linha M1 Akhmeteli–Varketili (Akhmeteli Theatre – Station Square – Rustaveli – Liberty Square – Varketili)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Tbilisi — Linhas Akhmeteli–Varketili (M1) e Saburtalo (M2)",
+        "sistema_nome_en": "Tbilisi Metro — Akhmeteli–Varketili (M1) & Saburtalo (M2) Lines",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.8117,
+            41.7925
+          ],
+          [
+            44.7825,
+            41.7519
+          ],
+          [
+            44.7989,
+            41.7208
+          ],
+          [
+            44.793,
+            41.7033
+          ],
+          [
+            44.8014,
+            41.6933
+          ],
+          [
+            44.8469,
+            41.6881
+          ],
+          [
+            44.8767,
+            41.6892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-rapidos-kiev-kryvyi-rih-metrotram-lviv-ucrania",
+        "linha": "Metrotram Subterrâneo de Kryvyi Rih (Kiltseva – Budynok Rad – Maidan Pratsi – Zarichna) e Bondes de Lviv",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bondes Rápidos de Kiev (Pravoberezhna/Livoberezhna), Metrotram Subterrâneo de Kryvyi Rih e Lviv",
+        "sistema_nome_en": "Kyiv Fast Tram, Kryvyi Rih Underground Metrotram & Lviv Tramway Networks",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3917,
+            47.8939
+          ],
+          [
+            33.3958,
+            47.9083
+          ],
+          [
+            33.4319,
+            47.9497
+          ],
+          [
+            33.4892,
+            47.9994
+          ],
+          [
+            33.5042,
+            48.0261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-ukrzaliznytsia-intercity-plus-bc-belarus-georgian-railways",
+        "linha": "Corredor Expresso Intercity+ Ukrzaliznytsia (Kiev-Pasazhyrskyi – Vinnytsia – Khmelnytskyi – Ternopil – Lviv – Przemyśl)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Ukrzaliznytsia (Intercity+ Kiev–Lviv–Odessa–Kharkiv), BCh (Belarus) e Georgian Railways",
+        "sistema_nome_en": "Ukrzaliznytsia Intercity+ Expresses, Belarusian Railway (BCh) & Georgian Railways (Tbilisi–Batumi)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4883,
+            50.4403
+          ],
+          [
+            28.5106,
+            49.24
+          ],
+          [
+            27.0086,
+            49.42
+          ],
+          [
+            25.5969,
+            49.5536
+          ],
+          [
+            23.9944,
+            49.84
+          ],
+          [
+            22.7756,
+            49.7831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-minerio-graos-kryvyi-rih-odessa-caucaso-poti-batumi",
+        "linha": "Corredor Transcaspiano do Cáucaso (Gardabani – Tbilisi – Khashuri – Zestafoni – Samtredia – Portos de Poti e Batumi)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor de Carga do Cáucaso (Tbilisi–Poti/Batumi e BTK) e Eixo de Minério e Grãos Kryvyi Rih–Odessa",
+        "sistema_nome_en": "Caucasus Freight Rail Corridor (Tbilisi–Poti/Batumi & BTK) & Kryvyi Rih–Odesa Ore/Grain Corridor",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.09,
+            41.45
+          ],
+          [
+            44.7989,
+            41.7208
+          ],
+          [
+            44.1131,
+            41.9869
+          ],
+          [
+            43.5997,
+            42.0089
+          ],
+          [
+            43.0528,
+            42.11
+          ],
+          [
+            42.3389,
+            42.1778
+          ],
+          [
+            41.6719,
+            42.1461
+          ],
+          [
+            41.6414,
+            41.6486
+          ]
+        ]
+      }
     }
   ]
 }

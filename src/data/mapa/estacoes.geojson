@@ -14078,6 +14078,230 @@
           24.8415
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-kiev-kharkiv-dnipro-ucrania",
+        "nome": "Estação Arsenalna (Metrô de Kiev — 105,5 m de profundidade, uma das mais profundas do mundo)",
+        "linha": "Linha M1 Sviatoshynsko-Brovarska",
+        "status": "operacao",
+        "integracoes": [
+          "Linha M1 Vermelha",
+          "Parque Mariinskyi e Rio Dniepre"
+        ],
+        "sistema_nome_pt": "Metrô de Kiev (Linhas M1, M2 e M3 — Estação Arsenalna a 105,5 m), Kharkiv e Dnipro",
+        "sistema_nome_en": "Kyiv Metro (Lines M1, M2 & M3 — Arsenalna Station at 105.5 m depth), Kharkiv & Dnipro Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5453,
+          50.4439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-kiev-kharkiv-dnipro-ucrania",
+        "nome": "Estação Zoloti Vorota / Khreshchatyk (Coração Histórico do Metrô de Kiev)",
+        "linha": "Linhas M1, M2 e M3 do Metrô de Kiev",
+        "status": "operacao",
+        "integracoes": [
+          "Linha M1 Vermelha",
+          "Linha M2 Azul",
+          "Linha M3 Verde (Mosaicos Bizantinos de Zoloti Vorota)"
+        ],
+        "sistema_nome_pt": "Metrô de Kiev (Linhas M1, M2 e M3 — Estação Arsenalna a 105,5 m), Kharkiv e Dnipro",
+        "sistema_nome_en": "Kyiv Metro (Lines M1, M2 & M3 — Arsenalna Station at 105.5 m depth), Kharkiv & Dnipro Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5133,
+          50.4484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-minsk-linhas-1-2-3-belarus",
+        "nome": "Estação Kastrytchnitskaya / Kupalauskaya (Intercâmbio Central do Metrô de Minsk)",
+        "linha": "Linhas 1 Maskoŭskaja e 2 Aŭtazavodskaja",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1 Azul",
+          "Linha 2 Vermelha",
+          "Avenida da Independência de Minsk"
+        ],
+        "sistema_nome_pt": "Metrô de Minsk — Linhas 1 Maskoŭskaja, 2 Aŭtazavodskaja e 3 Zialionalužskaja",
+        "sistema_nome_en": "Minsk Metro — Lines 1 Maskoŭskaja, 2 Aŭtazavodskaja & 3 Zialionalužskaja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5614,
+          53.9022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-minsk-linhas-1-2-3-belarus",
+        "nome": "Estação Plošča Lenina / Minsk-Passazhyrski (Integração Metrô e Estação Central de Minsk)",
+        "linha": "Linhas 1 Maskoŭskaja e 3 Zialionalužskaja (Vokzalnaya)",
+        "status": "operacao",
+        "integracoes": [
+          "Linha 1 Maskoŭskaja",
+          "Linha 3 Verde (Portas de Plataforma PSD)",
+          "Ferrovia BCh Minsk-Passazhyrski"
+        ],
+        "sistema_nome_pt": "Metrô de Minsk — Linhas 1 Maskoŭskaja, 2 Aŭtazavodskaja e 3 Zialionalužskaja",
+        "sistema_nome_en": "Minsk Metro — Lines 1 Maskoŭskaja, 2 Aŭtazavodskaja & 3 Zialionalužskaja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5478,
+          53.8939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-tbilisi-linhas-akhmeteli-varketili-saburtalo-georgia",
+        "nome": "Estação Station Square (Sadguris Moedani — Intercâmbio M1/M2 e Tbilisi Central)",
+        "linha": "Linhas M1 Akhmeteli–Varketili e M2 Saburtalo",
+        "status": "operacao",
+        "integracoes": [
+          "Linha M1 Vermelha",
+          "Linha M2 Saburtalo",
+          "Estação Ferroviária Central de Tbilisi (Trens Stadler para Batumi)"
+        ],
+        "sistema_nome_pt": "Metrô de Tbilisi — Linhas Akhmeteli–Varketili (M1) e Saburtalo (M2)",
+        "sistema_nome_en": "Tbilisi Metro — Akhmeteli–Varketili (M1) & Saburtalo (M2) Lines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7989,
+          41.7208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-tbilisi-linhas-akhmeteli-varketili-saburtalo-georgia",
+        "nome": "Estação Rustaveli (Metrô Profundo na Avenida Rustaveli em Tbilisi)",
+        "linha": "Linha M1 Akhmeteli–Varketili",
+        "status": "operacao",
+        "integracoes": [
+          "Linha M1 do Metrô de Tbilisi",
+          "Funicular de Mtatsminda"
+        ],
+        "sistema_nome_pt": "Metrô de Tbilisi — Linhas Akhmeteli–Varketili (M1) e Saburtalo (M2)",
+        "sistema_nome_en": "Tbilisi Metro — Akhmeteli–Varketili (M1) & Saburtalo (M2) Lines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.793,
+          41.7033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-rapidos-kiev-kryvyi-rih-metrotram-lviv-ucrania",
+        "nome": "Estação Subterrânea Budynok Rad (Metrotram de Kryvyi Rih)",
+        "linha": "Metrotram Subterrâneo de Kryvyi Rih (Linhas 1M, 2M, 3M e 4M)",
+        "status": "operacao",
+        "integracoes": [
+          "VLT Subterrâneo em Padrão de Metrô Pesado"
+        ],
+        "sistema_nome_pt": "Bondes Rápidos de Kiev (Pravoberezhna/Livoberezhna), Metrotram Subterrâneo de Kryvyi Rih e Lviv",
+        "sistema_nome_en": "Kyiv Fast Tram, Kryvyi Rih Underground Metrotram & Lviv Tramway Networks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3958,
+          47.9083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-ukrzaliznytsia-intercity-plus-bc-belarus-georgian-railways",
+        "nome": "Estação Central Kyiv-Pasazhyrskyi (Hub Nacional Ukrzaliznytsia e Intercity+)",
+        "linha": "Tronco Nacional Ukrzaliznytsia e Kyiv Boryspil Express",
+        "status": "operacao",
+        "integracoes": [
+          "Expressos Intercity+ Hyundai Rotem",
+          "Metrô de Kiev (Estação Vokzalna M1)",
+          "Bonde Rápido Pravoberezhna (Starovokzalna)"
+        ],
+        "sistema_nome_pt": "Ferrovias Ukrzaliznytsia (Intercity+ Kiev–Lviv–Odessa–Kharkiv), BCh (Belarus) e Georgian Railways",
+        "sistema_nome_en": "Ukrzaliznytsia Intercity+ Expresses, Belarusian Railway (BCh) & Georgian Railways (Tbilisi–Batumi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4883,
+          50.4403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-ukrzaliznytsia-intercity-plus-bc-belarus-georgian-railways",
+        "nome": "Estação Principal de Lviv (Lviv-Holovnyi — Portal Ferroviário Europeu de Bitola Mista 1.520/1.435 mm)",
+        "linha": "Corredor Internacional Kiev – Lviv – Przemyśl / Varsóvia / Viena",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Internacionais Ukrzaliznytsia e PKP Intercity",
+          "Bondes de Lviv (Linhas 1, 4, 6 e 9)"
+        ],
+        "sistema_nome_pt": "Ferrovias Ukrzaliznytsia (Intercity+ Kiev–Lviv–Odessa–Kharkiv), BCh (Belarus) e Georgian Railways",
+        "sistema_nome_en": "Ukrzaliznytsia Intercity+ Expresses, Belarusian Railway (BCh) & Georgian Railways (Tbilisi–Batumi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9944,
+          49.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-minerio-graos-kryvyi-rih-odessa-caucaso-poti-batumi",
+        "nome": "Terminal Ferro-Portuário de Poti e Batumi (Mar Negro — Geórgia / Middle Corridor)",
+        "linha": "Corredor Transcaspiano de Carga Baku – Tbilisi – Poti / Batumi",
+        "status": "operacao",
+        "integracoes": [
+          "Ferries Ferroviários do Mar Negro",
+          "Georgian Railways Cargo"
+        ],
+        "sistema_nome_pt": "Corredor de Carga do Cáucaso (Tbilisi–Poti/Batumi e BTK) e Eixo de Minério e Grãos Kryvyi Rih–Odessa",
+        "sistema_nome_en": "Caucasus Freight Rail Corridor (Tbilisi–Poti/Batumi & BTK) & Kryvyi Rih–Odesa Ore/Grain Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.6719,
+          42.1461
+        ]
+      }
     }
   ]
 }
