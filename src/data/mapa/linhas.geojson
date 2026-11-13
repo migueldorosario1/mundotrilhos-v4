@@ -27697,6 +27697,186 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "pallot-steam-museum-railway-jersey-western-eastern-corridor-st-helier-st-aubin-corbiere-jersey",
+        "linha": "Circuito a Vapor Pallot Steam Museum (Trinity) e Corredor Ferroviário Costeiro St. Helier – St. Aubin – La Corbière (Jersey)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Pallot Steam & Heritage Railway e Corredor Ferroviário de Jersey (Trinity Steam Railway & Leito St. Helier – St. Aubin – La Corbière, Bailiado de Jersey)",
+        "sistema_nome_en": "Pallot Steam & Heritage Railway Trinity and Jersey Railway Corridor St. Helier – St. Aubin – La Corbière / Gorey (Bailiwick of Jersey)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0835,
+            49.2285
+          ],
+          [
+            -2.1085,
+            49.1845
+          ],
+          [
+            -2.1695,
+            49.188
+          ],
+          [
+            -2.2485,
+            49.1795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-portuarias-pedreiras-st-helier-la-collette-ronez-gorey-jersey",
+        "linha": "Vias Férreas Portuárias do Quebra-Mar de St. Helier / La Collette, Elizabeth Castle e Pedreira de Granito de Ronez (Jersey)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias e de Quebra-Mar de St. Helier / La Collette, Pedreira de Ronez e Castelo Elizabeth (Bailiado de Jersey)",
+        "sistema_nome_en": "St. Helier Port & La Collette Breakwater Rail Tracks, Ronez Quarry & Elizabeth Castle Causeway Rails (Jersey)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.126,
+            49.1765
+          ],
+          [
+            -2.1125,
+            49.1755
+          ],
+          [
+            -2.138,
+            49.2575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "st-helena-ladder-hill-inclined-plane-railway-jamestown-half-tree-hollow-santa-helena",
+        "linha": "Plano Inclinado de Jacob's Ladder (Estação Inferior de Jamestown Museum – Forte de Ladder Hill / Half Tree Hollow, Santa Helena)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Plano Inclinado Histórico de Jacob's Ladder (St. Helena Railway Company — Funicular de Jamestown a Ladder Hill Fort, Ilha de Santa Helena)",
+        "sistema_nome_en": "Jacob's Ladder Inclined Plane Railway Jamestown – Ladder Hill Fort (Saint Helena Island)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.7182,
+            -15.9242
+          ],
+          [
+            -5.7198,
+            -15.9268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "camber-railway-port-stanley-navy-point-wireless-ridge-ilhas-malvinas",
+        "linha": "Linha Naval Camber Railway (Píer de Navy Point – Camber Depot – Moody Brook / Wireless Ridge, Port Stanley, Ilhas Malvinas)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Camber Railway de Port Stanley (Ferrovia Naval Mais Austral do Atlântico Sul: Navy Point – Moody Brook, Ilhas Malvinas / Falklands)",
+        "sistema_nome_en": "Camber Railway Port Stanley — Navy Point to Moody Brook Naval Depot Narrow-Gauge Railway (Falkland Islands)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.835,
+            -51.682
+          ],
+          [
+            -57.854,
+            -51.6855
+          ],
+          [
+            -57.902,
+            -51.6835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-plantacoes-mulifanua-vaitele-porto-apia-upolu-samoa",
+        "linha": "Corredor Ferroviário de Plantações de Mulifanua / Vaitele e Vias Portuárias da Alfândega de Apia (Ilha de Upolu, Samoa)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Patrimoniais de Plantações de Mulifanua / Vaitele e Trilhos Portuários da Alfândega de Apia (Ilha de Upolu, Samoa)",
+        "sistema_nome_en": "Mulifanua & Vaitele Plantation Narrow-Gauge Railways and Apia Customhouse Harbour Tramway (Upolu Island, Samoa)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -171.7665,
+            -13.8315
+          ],
+          [
+            -171.805,
+            -13.824
+          ],
+          [
+            -172.035,
+            -13.831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-real-porto-nukualofa-vuna-wharf-faua-tongatapu-tonga",
+        "linha": "Via Férrea Portuária Real de Vuna Wharf – Palácio Real de Nuku'alofa – Queen Salote Wharf e Plano Inclinado de Faua (Tongatapu, Tonga)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias e Patrimoniais de Nuku'alofa (Vuna Wharf – Palácio Real – Queen Salote Wharf e Estaleiro de Faua, Tongatapu, Tonga)",
+        "sistema_nome_en": "Nuku'alofa Royal Palace & Vuna Wharf Tramway and Queen Salote Wharf / Faua Slipway Rail Tracks (Tongatapu, Tonga)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -175.2045,
+            -21.1312
+          ],
+          [
+            -175.1985,
+            -21.1325
+          ],
+          [
+            -175.182,
+            -21.1368
+          ]
+        ]
+      }
     }
   ]
 }

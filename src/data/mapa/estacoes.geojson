@@ -20452,6 +20452,226 @@
           17.7185
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "pallot-steam-museum-railway-jersey-western-eastern-corridor-st-helier-st-aubin-corbiere-jersey",
+        "nome": "Estação a Vapor do Pallot Steam, Motor & General Museum (Trinity, Jersey)",
+        "linha": "Circuito a Vapor Pallot Steam Museum",
+        "status": "operacao",
+        "integracoes": [
+          "Pallot Heritage Steam Museum",
+          "LibertyBus Rota 4 (Trinity)"
+        ],
+        "sistema_nome_pt": "Pallot Steam & Heritage Railway e Corredor Ferroviário de Jersey (Trinity Steam Railway & Leito St. Helier – St. Aubin – La Corbière, Bailiado de Jersey)",
+        "sistema_nome_en": "Pallot Steam & Heritage Railway Trinity and Jersey Railway Corridor St. Helier – St. Aubin – La Corbière / Gorey (Bailiwick of Jersey)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0835,
+          49.2285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "pallot-steam-museum-railway-jersey-western-eastern-corridor-st-helier-st-aubin-corbiere-jersey",
+        "nome": "Antiga Estação Ferroviária de St. Aubin (Parish Hall / Jersey Railway Terminus, Jersey)",
+        "linha": "Circuito a Vapor Pallot Steam Museum",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de St. Aubin",
+          "Railway Walk St. Aubin – La Corbière"
+        ],
+        "sistema_nome_pt": "Pallot Steam & Heritage Railway e Corredor Ferroviário de Jersey (Trinity Steam Railway & Leito St. Helier – St. Aubin – La Corbière, Bailiado de Jersey)",
+        "sistema_nome_en": "Pallot Steam & Heritage Railway Trinity and Jersey Railway Corridor St. Helier – St. Aubin – La Corbière / Gorey (Bailiwick of Jersey)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1695,
+          49.188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-portuarias-pedreiras-st-helier-la-collette-ronez-gorey-jersey",
+        "nome": "Pátio Ferroviário Portuário de St. Helier / Victoria Pier & La Collette (Jersey)",
+        "linha": "Vias Férreas Portuárias do Quebra-Mar de St. Helier",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal de Ferries Elizabeth Harbour",
+          "Marina de St. Helier"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias e de Quebra-Mar de St. Helier / La Collette, Pedreira de Ronez e Castelo Elizabeth (Bailiado de Jersey)",
+        "sistema_nome_en": "St. Helier Port & La Collette Breakwater Rail Tracks, Ronez Quarry & Elizabeth Castle Causeway Rails (Jersey)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1125,
+          49.1755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "st-helena-ladder-hill-inclined-plane-railway-jamestown-half-tree-hollow-santa-helena",
+        "nome": "Estação Base de Jamestown / Museum of Saint Helena (Jacob's Ladder Inclined Plane, Santa Helena)",
+        "linha": "Plano Inclinado de Jacob's Ladder",
+        "status": "operacao",
+        "integracoes": [
+          "Museum of Saint Helena",
+          "Cais de Jamestown (James Bay)"
+        ],
+        "sistema_nome_pt": "Plano Inclinado Histórico de Jacob's Ladder (St. Helena Railway Company — Funicular de Jamestown a Ladder Hill Fort, Ilha de Santa Helena)",
+        "sistema_nome_en": "Jacob's Ladder Inclined Plane Railway Jamestown – Ladder Hill Fort (Saint Helena Island)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7182,
+          -15.9242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "st-helena-ladder-hill-inclined-plane-railway-jamestown-half-tree-hollow-santa-helena",
+        "nome": "Estação Superior de Ladder Hill Fort / Half Tree Hollow (699 degraus e trilhos laterais, Santa Helena)",
+        "linha": "Plano Inclinado de Jacob's Ladder",
+        "status": "operacao",
+        "integracoes": [
+          "Forte Histórico de Ladder Hill",
+          "Mirante de James Bay (183 m)"
+        ],
+        "sistema_nome_pt": "Plano Inclinado Histórico de Jacob's Ladder (St. Helena Railway Company — Funicular de Jamestown a Ladder Hill Fort, Ilha de Santa Helena)",
+        "sistema_nome_en": "Jacob's Ladder Inclined Plane Railway Jamestown – Ladder Hill Fort (Saint Helena Island)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7198,
+          -15.9268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "camber-railway-port-stanley-navy-point-wireless-ridge-ilhas-malvinas",
+        "nome": "Pátio e Locomotivas a Vapor Kerr Stuart 'Wren' de Camber Depot (Port Stanley, Ilhas Malvinas)",
+        "linha": "Linha Naval Camber Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Historic Dockyard Museum Stanley",
+          "Península de Camber / Navy Point"
+        ],
+        "sistema_nome_pt": "Camber Railway de Port Stanley (Ferrovia Naval Mais Austral do Atlântico Sul: Navy Point – Moody Brook, Ilhas Malvinas / Falklands)",
+        "sistema_nome_en": "Camber Railway Port Stanley — Navy Point to Moody Brook Naval Depot Narrow-Gauge Railway (Falkland Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.854,
+          -51.6855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-plantacoes-mulifanua-vaitele-porto-apia-upolu-samoa",
+        "nome": "Terminal Ferroviário Histórico da Alfândega e Porto de Apia (Apia Harbour, Samoa)",
+        "linha": "Corredor Ferroviário de Plantações de Mulifanua",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Internacional de Apia",
+          "Centro Histórico de Apia"
+        ],
+        "sistema_nome_pt": "Ferrovias Patrimoniais de Plantações de Mulifanua / Vaitele e Trilhos Portuários da Alfândega de Apia (Ilha de Upolu, Samoa)",
+        "sistema_nome_en": "Mulifanua & Vaitele Plantation Narrow-Gauge Railways and Apia Customhouse Harbour Tramway (Upolu Island, Samoa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7665,
+          -13.8315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-plantacoes-mulifanua-vaitele-porto-apia-upolu-samoa",
+        "nome": "Terminal de Mulifanua Plantation & Ferry Wharf (Conexão Ilha de Savai'i, Samoa)",
+        "linha": "Corredor Ferroviário de Plantações de Mulifanua",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal de Ferries Mulifanua – Salelologa (Savai'i)",
+          "Aeroporto Internacional Faleolo"
+        ],
+        "sistema_nome_pt": "Ferrovias Patrimoniais de Plantações de Mulifanua / Vaitele e Trilhos Portuários da Alfândega de Apia (Ilha de Upolu, Samoa)",
+        "sistema_nome_en": "Mulifanua & Vaitele Plantation Narrow-Gauge Railways and Apia Customhouse Harbour Tramway (Upolu Island, Samoa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.035,
+          -13.831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-real-porto-nukualofa-vuna-wharf-faua-tongatapu-tonga",
+        "nome": "Estação e Píer Ferroviário Real de Vuna Wharf (Palácio Real de Nuku'alofa, Tonga)",
+        "linha": "Via Férrea Portuária Real de Vuna Wharf",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal de Cruzeiros Vuna Wharf",
+          "Palácio Real de Tonga"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias e Patrimoniais de Nuku'alofa (Vuna Wharf – Palácio Real – Queen Salote Wharf e Estaleiro de Faua, Tongatapu, Tonga)",
+        "sistema_nome_en": "Nuku'alofa Royal Palace & Vuna Wharf Tramway and Queen Salote Wharf / Faua Slipway Rail Tracks (Tongatapu, Tonga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2045,
+          -21.1312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-real-porto-nukualofa-vuna-wharf-faua-tongatapu-tonga",
+        "nome": "Pátio e Plano Inclinado sobre Trilhos de Queen Salote Wharf / Faua Harbour (Nuku'alofa, Tonga)",
+        "linha": "Via Férrea Portuária Real de Vuna Wharf",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Contêineres Queen Salote Wharf",
+          "Terminal Interinsular de Faua"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias e Patrimoniais de Nuku'alofa (Vuna Wharf – Palácio Real – Queen Salote Wharf e Estaleiro de Faua, Tongatapu, Tonga)",
+        "sistema_nome_en": "Nuku'alofa Royal Palace & Vuna Wharf Tramway and Queen Salote Wharf / Faua Slipway Rail Tracks (Tongatapu, Tonga)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.182,
+          -21.1368
+        ]
+      }
     }
   ]
 }
