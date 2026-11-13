@@ -24487,6 +24487,310 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jordan-hejaz-railway-jhr-amman-zarqa-al-jizah-mafraq-wadi-rum-heritage-train-jordania",
+        "linha": "Jordan Hejaz Railway (Mafraq – Zarqa – Amã Mahatta – Al-Jizah – Qatrana – Ma'an e Trem Histórico de Wadi Rum)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia do Hejaz da Jordânia (JHR — Amã Mahatta – Zarqa – Mafraq, Expresso Al-Jizah / Qatrana e Trem de Wadi Rum)",
+        "sistema_nome_en": "Jordan Hejaz Railway (JHR — Amman Mahatta – Zarqa – Mafraq, Al-Jizah / Qatrana Express & Wadi Rum Heritage Train)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2081,
+            32.3429
+          ],
+          [
+            36.0942,
+            32.0608
+          ],
+          [
+            35.9647,
+            31.9696
+          ],
+          [
+            35.9558,
+            31.6983
+          ],
+          [
+            36.0414,
+            31.2439
+          ],
+          [
+            35.7347,
+            30.1944
+          ],
+          [
+            35.42,
+            29.68
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "aqaba-railway-corporation-arc-corredor-fosfatos-shidiya-abyd-maan-porto-aqaba-jordania",
+        "linha": "Corredor de Fosfatos ARC (El-Abiad – El-Hassa – Ma'an / Esh-Shidiya – Batn El-Ghul – Wadi Yutum – Porto Industrial de Aqaba)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Aqaba Railway Corporation (ARC / JPMC — Corredor de Fosfatos El-Abiad / Esh-Shidiya – Ma'an – Porto de Aqaba)",
+        "sistema_nome_en": "Aqaba Railway Corporation (ARC / JPMC — El-Abiad / Esh-Shidiya – Ma'an – Port of Aqaba Phosphate Corridor)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              36.0,
+              30.98
+            ],
+            [
+              35.92,
+              30.82
+            ],
+            [
+              35.7347,
+              30.1944
+            ],
+            [
+              35.68,
+              29.85
+            ],
+            [
+              35.35,
+              29.62
+            ],
+            [
+              35.0078,
+              29.5267
+            ]
+          ],
+          [
+            [
+              36.12,
+              29.95
+            ],
+            [
+              35.68,
+              29.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chemins-de-fer-syriens-cfs-corredor-costeiro-tartus-baniyas-jableh-latakia-aleppo-siria",
+        "linha": "CFS Linha Costeira (Tartus – Baniyas – Jableh – Latakia) e Suburbano de Aleppo (Aleppo – Jibrin)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Chemins de Fer Syriens (CFS — Corredor Costeiro Mediterrâneo Tartus – Baniyas – Jableh – Latakia e Suburbano de Aleppo)",
+        "sistema_nome_en": "Syrian Railways (CFS — Mediterranean Coastal Line Tartus – Baniyas – Jableh – Latakia & Aleppo Commuter Rail)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              35.8867,
+              34.895
+            ],
+            [
+              35.95,
+              35.1833
+            ],
+            [
+              35.9278,
+              35.3611
+            ],
+            [
+              35.785,
+              35.5197
+            ],
+            [
+              36.32,
+              35.79
+            ],
+            [
+              37.1343,
+              36.2064
+            ]
+          ],
+          [
+            [
+              37.1343,
+              36.2064
+            ],
+            [
+              37.245,
+              36.185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chemins-de-fer-syriens-cfs-corredor-central-damasco-kadam-homs-hama-aleppo-siria",
+        "linha": "CFS Corredor Central (Damasco Kadam – Adra – Homs – Hama – Aleppo) e Ferrovia do Hejaz Damasco – Zabadani",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Chemins de Fer Syriens e Ferrovia do Hejaz Síria (Corredor Central Damasco Kadam – Homs – Hama – Aleppo e Linha de Zabadani)",
+        "sistema_nome_en": "Syrian Railways & Syrian Hejaz Railway (Central Corridor Damascus Kadam – Homs – Hama – Aleppo & Zabadani Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              36.29,
+              33.48
+            ],
+            [
+              36.515,
+              33.615
+            ],
+            [
+              36.7167,
+              34.7333
+            ],
+            [
+              36.75,
+              35.1333
+            ],
+            [
+              37.1343,
+              36.2064
+            ]
+          ],
+          [
+            [
+              36.298,
+              33.511
+            ],
+            [
+              36.1,
+              33.725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-fosfatos-khneifis-palmira-homs-porto-tartus-latakia-cfs-siria",
+        "linha": "Corredor de Carga e Fosfatos CFS (Palmira / Khneifis – Homs – Porto de Tartus – Porto de Latakia e Homs – Adra)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor de Carga e Fosfatos da Síria (CFS — Minas de Khneifis / Palmira – Homs – Portos de Tartus e Latakia – Adra)",
+        "sistema_nome_en": "Syrian Phosphate & Port Freight Corridor (CFS — Khneifis / Palmyra Mines – Homs – Tartus & Latakia Ports – Adra)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              38.28,
+              34.55
+            ],
+            [
+              37.65,
+              34.25
+            ],
+            [
+              36.7167,
+              34.7333
+            ],
+            [
+              35.8867,
+              34.895
+            ],
+            [
+              35.785,
+              35.5197
+            ]
+          ],
+          [
+            [
+              36.7167,
+              34.7333
+            ],
+            [
+              36.515,
+              33.615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cel-ferrovia-costeira-montanha-beirute-mar-mikhael-tripoli-rayak-libano",
+        "linha": "CEL / OCFTC (Beirute Mar Mikhael – Jounieh / Funicular de Harissa – Byblos – Trípoli e Linha do Monte Líbano Beirute – Rayak)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Rede Histórica e Funicular do Líbano (CEL / OCFTC — Beirute Mar Mikhael – Jounieh – Trípoli – Rayak e Teleférico/Funicular de Harissa)",
+        "sistema_nome_en": "Lebanon Heritage Rail & Harissa Cableway/Funicular (CEL / OCFTC — Beirut Mar Mikhael – Jounieh – Tripoli – Rayak)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              35.5247,
+              33.8969
+            ],
+            [
+              35.6178,
+              33.9808
+            ],
+            [
+              35.6481,
+              34.1236
+            ],
+            [
+              35.8247,
+              34.4467
+            ]
+          ],
+          [
+            [
+              35.5247,
+              33.8969
+            ],
+            [
+              35.75,
+              33.8
+            ],
+            [
+              35.9997,
+              33.8508
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
