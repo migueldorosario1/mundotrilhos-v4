@@ -14302,6 +14302,229 @@
           42.1461
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-alta-velocidade-soko-belgrado-novi-sad-subotica-servia",
+        "nome": "Estação Beograd Centar (Prokop — Terminal Central de Alta Velocidade Soko e BG Voz)",
+        "linha": "Ferrovia de Alta Velocidade Soko (Belgrado–Novi Sad–Subotica)",
+        "status": "operacao",
+        "integracoes": [
+          "Trem de Alta Velocidade Soko (Stadler Kiss 200 km/h)",
+          "Trem Suburbano BG Voz",
+          "Ferrovia Belgrado–Bar"
+        ],
+        "sistema_nome_pt": "Ferrovia de Alta Velocidade Soko — Belgrado–Novi Sad–Subotica (200 km/h)",
+        "sistema_nome_en": "Soko High-Speed Railway — Belgrade–Novi Sad–Subotica (200 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4542,
+          44.7933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-alta-velocidade-soko-belgrado-novi-sad-subotica-servia",
+        "nome": "Estação Novi Sad (Hub de Alta Velocidade da Voivodina)",
+        "linha": "Ferrovia de Alta Velocidade Soko (Belgrado–Novi Sad–Subotica)",
+        "status": "operacao",
+        "integracoes": [
+          "Trem de Alta Velocidade Soko (36 min até Belgrado)",
+          "Trens Regionais Srbijavoz"
+        ],
+        "sistema_nome_pt": "Ferrovia de Alta Velocidade Soko — Belgrado–Novi Sad–Subotica (200 km/h)",
+        "sistema_nome_en": "Soko High-Speed Railway — Belgrade–Novi Sad–Subotica (200 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8294,
+          45.2653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-sofia-linhas-m1-m2-m3-m4-bulgaria",
+        "nome": "Estação Serdika / Serdika II (Intercâmbio Arqueológico Central do Metrô de Sófia)",
+        "linha": "Linhas M1, M2 e M4 do Metrô de Sófia",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas M1 e M4",
+          "Linha M2 Azul",
+          "Sítio Arqueológico Romano de Ulpia Serdica Integrado"
+        ],
+        "sistema_nome_pt": "Metrô de Sófia — Linhas M1, M2, M3 e M4 (Serdika, Aeroporto de Sófia e Business Park)",
+        "sistema_nome_en": "Sofia Metro — Lines M1, M2, M3 & M4 (Serdika, Sofia Airport & Business Park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3219,
+          42.6977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-sofia-linhas-m1-m2-m3-m4-bulgaria",
+        "nome": "Estação NDK / Palácio Nacional da Cultura (Intercâmbio M2 e M3 de Sófia)",
+        "linha": "Linhas M2 e M3 do Metrô de Sófia",
+        "status": "operacao",
+        "integracoes": [
+          "Linha M2 Azul",
+          "Linha M3 Verde (Siemens Inspiro)",
+          "Bondes do Boulevard Vitosha"
+        ],
+        "sistema_nome_pt": "Metrô de Sófia — Linhas M1, M2, M3 e M4 (Serdika, Aeroporto de Sófia e Business Park)",
+        "sistema_nome_en": "Sofia Metro — Lines M1, M2, M3 & M4 (Serdika, Sofia Airport & Business Park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3192,
+          42.6872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-sofia-linhas-m1-m2-m3-m4-bulgaria",
+        "nome": "Estação Sofia Airport (Terminal 2 do Aeroporto Internacional de Sófia — Linha M4)",
+        "linha": "Linha M4 Amarela do Metrô de Sófia",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal 2 do Aeroporto de Sófia",
+          "Linha M4 Direta ao Centro de Sófia"
+        ],
+        "sistema_nome_pt": "Metrô de Sófia — Linhas M1, M2, M3 e M4 (Serdika, Aeroporto de Sófia e Business Park)",
+        "sistema_nome_en": "Sofia Metro — Lines M1, M2, M3 & M4 (Serdika, Sofia Airport & Business Park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4094,
+          42.6889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "redes-bondes-vlt-zagreb-zet-belgrado-gsp-sofia-balcas",
+        "nome": "Parada Trg Bana Josipa Jelačića (Coração da Rede de Bondes ZET de Zagreb)",
+        "linha": "Linhas 1, 6, 11, 12, 13, 14 e 17 do Bonde de Zagreb",
+        "status": "operacao",
+        "integracoes": [
+          "Bondes de Piso Baixo Končar TMK 2200/2400",
+          "Funicular Histórico de Zagreb"
+        ],
+        "sistema_nome_pt": "Redes de Bondes e VLT de Zagreb (ZET Končar TMK), Osijek, Belgrado (GSP) e Sófia",
+        "sistema_nome_en": "Zagreb Tramway Network (ZET Končar TMK), Osijek, Belgrade (GSP) & Sofia Tramways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9772,
+          45.8131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-srbijavoz-bg-voz-belgrado-bar-hzpp-croacia",
+        "nome": "Estação Central de Zagreb (Zagreb Glavni Kolodvor — Hub HŽPP e EuroCity)",
+        "linha": "Tronco Nacional Croata HŽPP e Trens suburbanos de Zagreb",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Suburbanos e Regionais HŽPP Končar",
+          "Bondes ZET (Linhas 2, 4, 6, 9 e 13)"
+        ],
+        "sistema_nome_pt": "Trem Suburbano BG Voz de Belgrado, Ferrovia Alpina Belgrado–Bar e Malha HŽPP da Croácia",
+        "sistema_nome_en": "Belgrade BG Voz Commuter Rail, Belgrade–Bar Scenic Railway & Croatian Railways HŽPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9789,
+          45.8047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-srbijavoz-bg-voz-belgrado-bar-hzpp-croacia",
+        "nome": "Estação Subterrânea Vukov Spomenik (Coração Profundo do BG Voz em Belgrado)",
+        "linha": "Sistema Suburbano BG Voz de Belgrado",
+        "status": "operacao",
+        "integracoes": [
+          "BG Voz (40 m de profundidade)",
+          "Bondes GSP de Belgrado (Linhas 2, 5, 6, 7, 12 e 14)"
+        ],
+        "sistema_nome_pt": "Trem Suburbano BG Voz de Belgrado, Ferrovia Alpina Belgrado–Bar e Malha HŽPP da Croácia",
+        "sistema_nome_en": "Belgrade BG Voz Commuter Rail, Belgrade–Bar Scenic Railway & Croatian Railways HŽPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4783,
+          44.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-bdz-bulgaria-sofia-plovdiv-varna-burgas",
+        "nome": "Estação Central de Plovdiv (Plovdiv Central Railway Station — Hub da Trácia Búlgara)",
+        "linha": "Corredor Sófia – Plovdiv – Burgas / Svilengrad",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Intercidades BDŽ",
+          "Corredor Internacional Sófia–Istambul"
+        ],
+        "sistema_nome_pt": "Ferrovias Nacionais BDŽ da Bulgária (Sófia–Plovdiv–Burgas/Varna e Linha Alpina dos Ródopes)",
+        "sistema_nome_en": "Bulgarian State Railways BDŽ (Sofia–Plovdiv–Burgas/Varna & Rhodope Narrow-Gauge Railway)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7417,
+          42.1344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-pan-europeu-x-porto-rijeka-zagreb-belgrado-sofia",
+        "nome": "Terminal Ferro-Portuário de Rijeka (Adriatic Gate Container Terminal — Croácia)",
+        "linha": "Corredor de Carga Pan-Europeu Vb e X (Adriático – Europa Central e Bálcãs)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Águas Profundas de Rijeka (Brajdica e Zagreb Deep Sea)",
+          "HŽ Cargo"
+        ],
+        "sistema_nome_pt": "Corredor de Carga Pan-Europeu X e Vb (Porto de Rijeka–Zagreb–Belgrado–Niš–Sófia–Kapikule)",
+        "sistema_nome_en": "Pan-European Rail Freight Corridors X & Vb (Port of Rijeka–Zagreb–Belgrade–Niš–Sofia–Kapikule)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4422,
+          45.3271
+        ]
+      }
     }
   ]
 }

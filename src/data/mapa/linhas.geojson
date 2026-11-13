@@ -19630,6 +19630,312 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-alta-velocidade-soko-belgrado-novi-sad-subotica-servia",
+        "linha": "Linha de Alta Velocidade Soko 200 km/h (Beograd Centar Prokop – Novi Beograd – Inđija – Novi Sad – Vrbas – Subotica)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia de Alta Velocidade Soko — Belgrado–Novi Sad–Subotica (200 km/h)",
+        "sistema_nome_en": "Soko High-Speed Railway — Belgrade–Novi Sad–Subotica (200 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.4542,
+            44.7933
+          ],
+          [
+            20.4167,
+            44.8075
+          ],
+          [
+            20.0806,
+            45.0483
+          ],
+          [
+            19.9367,
+            45.2058
+          ],
+          [
+            19.8294,
+            45.2653
+          ],
+          [
+            19.6542,
+            45.5714
+          ],
+          [
+            19.6653,
+            45.8022
+          ],
+          [
+            19.6697,
+            46.1011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-sofia-linhas-m1-m2-m3-m4-bulgaria",
+        "linha": "Linhas M1/M4 (Slivnitsa – Serdika – Mladost – Business Park / Aeroporto de Sófia) e M2 (Obelya – NDK – Vitosha)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Sófia — Linhas M1, M2, M3 e M4 (Serdika, Aeroporto de Sófia e Business Park)",
+        "sistema_nome_en": "Sofia Metro — Lines M1, M2, M3 & M4 (Serdika, Sofia Airport & Business Park)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.2461,
+            42.7267
+          ],
+          [
+            23.2878,
+            42.7072
+          ],
+          [
+            23.3219,
+            42.6977
+          ],
+          [
+            23.3508,
+            42.6714
+          ],
+          [
+            23.3758,
+            42.6486
+          ],
+          [
+            23.4094,
+            42.6889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-sofia-linhas-m1-m2-m3-m4-bulgaria",
+        "linha": "Linha M3 Verde Automática Siemens Inspiro (Gorna Banya – NDK II – Orlov Most – Hadzhi Dimitar)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Sófia — Linhas M1, M2, M3 e M4 (Serdika, Aeroporto de Sófia e Business Park)",
+        "sistema_nome_en": "Sofia Metro — Lines M1, M2, M3 & M4 (Serdika, Sofia Airport & Business Park)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.2417,
+            42.6778
+          ],
+          [
+            23.2939,
+            42.6844
+          ],
+          [
+            23.3192,
+            42.6872
+          ],
+          [
+            23.3358,
+            42.6908
+          ],
+          [
+            23.3589,
+            42.7078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "redes-bondes-vlt-zagreb-zet-belgrado-gsp-sofia-balcas",
+        "linha": "Tronco Central de Bondes ZET de Zagreb (Črnomerec – Praça Ban Jelačić – Glavni Kolodvor – Dubrava / Novi Zagreb)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Redes de Bondes e VLT de Zagreb (ZET Končar TMK), Osijek, Belgrado (GSP) e Sófia",
+        "sistema_nome_en": "Zagreb Tramway Network (ZET Končar TMK), Osijek, Belgrade (GSP) & Sofia Tramways",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.9328,
+            45.815
+          ],
+          [
+            15.9772,
+            45.8131
+          ],
+          [
+            15.9789,
+            45.8047
+          ],
+          [
+            16.0028,
+            45.8156
+          ],
+          [
+            16.0408,
+            45.8267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-srbijavoz-bg-voz-belgrado-bar-hzpp-croacia",
+        "linha": "Ferrovia Alpina Belgrado–Bar (Beograd Centar – Valjevo – Užice – Zlatibor – Prijepolje – Fronteira Montenegrina)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trem Suburbano BG Voz de Belgrado, Ferrovia Alpina Belgrado–Bar e Malha HŽPP da Croácia",
+        "sistema_nome_en": "Belgrade BG Voz Commuter Rail, Belgrade–Bar Scenic Railway & Croatian Railways HŽPP",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.4542,
+            44.7933
+          ],
+          [
+            20.2175,
+            44.3858
+          ],
+          [
+            19.8981,
+            44.2736
+          ],
+          [
+            19.8458,
+            43.8542
+          ],
+          [
+            19.6508,
+            43.3889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-bdz-bulgaria-sofia-plovdiv-varna-burgas",
+        "linha": "Tronco Nacional Búlgaro BDŽ (Sófia Central – Ihtiman – Plovdiv – Stara Zagora – Karnobat – Burgas / Varna)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Nacionais BDŽ da Bulgária (Sófia–Plovdiv–Burgas/Varna e Linha Alpina dos Ródopes)",
+        "sistema_nome_en": "Bulgarian State Railways BDŽ (Sofia–Plovdiv–Burgas/Varna & Rhodope Narrow-Gauge Railway)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.3211,
+            42.7122
+          ],
+          [
+            23.8167,
+            42.4333
+          ],
+          [
+            24.7417,
+            42.1344
+          ],
+          [
+            25.6344,
+            42.4167
+          ],
+          [
+            26.9833,
+            42.65
+          ],
+          [
+            27.4728,
+            42.4917
+          ],
+          [
+            27.9114,
+            43.1978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-pan-europeu-x-porto-rijeka-zagreb-belgrado-sofia",
+        "linha": "Corredor Pan-Europeu de Carga Vb e X (Porto de Rijeka – Karlovac – Zagreb – Šid – Belgrado – Niš – Dimitrovgrad – Sófia)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor de Carga Pan-Europeu X e Vb (Porto de Rijeka–Zagreb–Belgrado–Niš–Sófia–Kapikule)",
+        "sistema_nome_en": "Pan-European Rail Freight Corridors X & Vb (Port of Rijeka–Zagreb–Belgrade–Niš–Sofia–Kapikule)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4422,
+            45.3271
+          ],
+          [
+            15.5553,
+            45.4928
+          ],
+          [
+            15.9789,
+            45.8047
+          ],
+          [
+            18.0144,
+            45.1583
+          ],
+          [
+            19.2264,
+            45.1258
+          ],
+          [
+            20.4542,
+            44.7933
+          ],
+          [
+            21.8958,
+            43.3208
+          ],
+          [
+            22.7786,
+            43.0156
+          ],
+          [
+            23.3211,
+            42.7122
+          ]
+        ]
+      }
     }
   ]
 }
