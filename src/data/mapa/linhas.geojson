@@ -16914,6 +16914,296 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "arl-suvarnabhumi-160kmh-lcr-tailandia",
+        "linha": "Bangkok Airport Rail Link (160 km/h): Phaya Thai – Ratchaprarop – Makkasan (City Air Terminal) – Hua Mak – Lat Krabang – Suvarnabhumi Airport",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bangkok Airport Rail Link (ARL Phaya Thai–Makkasan–Aeroporto Suvarnabhumi, 160 km/h)",
+        "sistema_nome_en": "Bangkok Airport Rail Link (ARL Phaya Thai–Makkasan–Suvarnabhumi Airport, 160 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5338,
+            13.7569
+          ],
+          [
+            100.5614,
+            13.751
+          ],
+          [
+            100.6453,
+            13.7374
+          ],
+          [
+            100.7486,
+            13.7277
+          ],
+          [
+            100.7508,
+            13.698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bts-skytrain-mrt-blue-purple-bangkok-tailandia",
+        "linha": "BTS Skytrain Sukhumvit & Silom Lines (Khu Khot – Mo Chit – Siam – Asok – Bearing – Kheha & National Stadium – Siam – Saphan Taksin – Bang Wa)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "BTS Skytrain (Sukhumvit & Silom Lines) e Metrô MRT de Bangkok (Blue Line & Purple Line)",
+        "sistema_nome_en": "Bangkok BTS Skytrain (Sukhumvit & Silom Lines) & MRT Metro (Blue & Purple Lines)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.625,
+            13.931
+          ],
+          [
+            100.5538,
+            13.8026
+          ],
+          [
+            100.5347,
+            13.7456
+          ],
+          [
+            100.5604,
+            13.737
+          ],
+          [
+            100.601,
+            13.605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bts-skytrain-mrt-blue-purple-bangkok-tailandia",
+        "linha": "MRT Blue Line (Anel Central Subterrâneo/Elevado Bang Sue – Chatuchak – Sukhumvit – Silom – Hua Lamphong – Sanam Chai – Tha Phra – Lak Song) & Purple Line",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "BTS Skytrain (Sukhumvit & Silom Lines) e Metrô MRT de Bangkok (Blue Line & Purple Line)",
+        "sistema_nome_en": "Bangkok BTS Skytrain (Sukhumvit & Silom Lines) & MRT Metro (Blue & Purple Lines)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.405,
+            13.89
+          ],
+          [
+            100.5419,
+            13.8036
+          ],
+          [
+            100.5614,
+            13.737
+          ],
+          [
+            100.5167,
+            13.7392
+          ],
+          [
+            100.474,
+            13.729
+          ],
+          [
+            100.408,
+            13.711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilhos-yellow-pink-gold-line-bangkok-tailandia",
+        "linha": "Monotrilhos Automáticos MRT Yellow Line (Lat Phrao – Hua Mak – Samrong) & MRT Pink Line (Nonthaburi – Lak Si – Min Buri)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Monotrilhos Automáticos de Bangkok (MRT Yellow Line & Pink Line) e BTS Gold Line APM",
+        "sistema_nome_en": "Bangkok Automated Monorails (MRT Yellow Line & Pink Line) & BTS Gold Line APM",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.495,
+            13.861
+          ],
+          [
+            100.602,
+            13.875
+          ],
+          [
+            100.728,
+            13.812
+          ],
+          [
+            100.573,
+            13.806
+          ],
+          [
+            100.6453,
+            13.7374
+          ],
+          [
+            100.596,
+            13.646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "srt-red-lines-malha-nacional-krung-thep-aphiwat-tailandia",
+        "linha": "Troncos Norte e Nordeste SRT: Krung Thep Aphiwat (Bangkok) – Ayutthaya – Phitsanulok – Chiang Mai / Nakhon Ratchasima – Khon Kaen – Nong Khai – Vientiane (Laos)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "SRT Red Lines Suburbanas & Malha Nacional (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / Rio Kwai)",
+        "sistema_nome_en": "SRT Suburban Red Lines & National Network (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / River Kwai)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            99.0169,
+            18.7836
+          ],
+          [
+            100.265,
+            16.817
+          ],
+          [
+            100.585,
+            14.357
+          ],
+          [
+            100.5419,
+            13.8036
+          ],
+          [
+            102.078,
+            14.973
+          ],
+          [
+            102.827,
+            16.432
+          ],
+          [
+            102.723,
+            17.868
+          ],
+          [
+            102.662,
+            17.959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "srt-red-lines-malha-nacional-krung-thep-aphiwat-tailandia",
+        "linha": "Tronco Sul SRT & Ferrovia do Rio Kwai: Bangkok – Nakhon Pathom (Ramal Kanchanaburi/Rio Kwai) – Hua Hin – Surat Thani – Hat Yai – Padang Besar",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "SRT Red Lines Suburbanas & Malha Nacional (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / Rio Kwai)",
+        "sistema_nome_en": "SRT Suburban Red Lines & National Network (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / River Kwai)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            99.5039,
+            14.0411
+          ],
+          [
+            100.062,
+            13.82
+          ],
+          [
+            100.5419,
+            13.8036
+          ],
+          [
+            99.956,
+            12.568
+          ],
+          [
+            99.233,
+            9.14
+          ],
+          [
+            100.4681,
+            7.0042
+          ],
+          [
+            100.329,
+            6.663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-porto-laem-chabang-lat-krabang-tailandia",
+        "linha": "Corredor de Carga da Costa Leste (EEC): Porto de Map Ta Phut – Porto de Laem Chabang – Chachoengsao – Porto Seco de Lat Krabang (ICD Bangkok)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Ferroviário Portuário de Carga da Costa Leste (Porto de Laem Chabang – ICD Lat Krabang – Map Ta Phut – Nong Khai)",
+        "sistema_nome_en": "Eastern Seaboard Port Freight Corridor (Laem Chabang Port – Lat Krabang ICD – Map Ta Phut – Nong Khai)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.168,
+            12.675
+          ],
+          [
+            100.8836,
+            13.0819
+          ],
+          [
+            101.07,
+            13.69
+          ],
+          [
+            100.758,
+            13.729
+          ]
+        ]
+      }
     }
   ]
 }

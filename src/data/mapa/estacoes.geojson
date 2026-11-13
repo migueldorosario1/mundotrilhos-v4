@@ -12317,6 +12317,227 @@
           -5.475
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "arl-suvarnabhumi-160kmh-lcr-tailandia",
+        "nome": "Suvarnabhumi Airport Station (Terminal Subterrâneo ARL 160 km/h)",
+        "linha": "Bangkok Airport Rail Link",
+        "status": "operacao",
+        "integracoes": [
+          "ARL 160 km/h",
+          "Aeroporto Internacional de Suvarnabhumi"
+        ],
+        "sistema_nome_pt": "Bangkok Airport Rail Link (ARL Phaya Thai–Makkasan–Aeroporto Suvarnabhumi, 160 km/h)",
+        "sistema_nome_en": "Bangkok Airport Rail Link (ARL Phaya Thai–Makkasan–Suvarnabhumi Airport, 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7508,
+          13.698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "arl-suvarnabhumi-160kmh-lcr-tailandia",
+        "nome": "Makkasan City Air Terminal / Phetchaburi MRT",
+        "linha": "ARL / MRT Blue Line",
+        "status": "operacao",
+        "integracoes": [
+          "Airport Rail Link",
+          "MRT Blue Line Phetchaburi"
+        ],
+        "sistema_nome_pt": "Bangkok Airport Rail Link (ARL Phaya Thai–Makkasan–Aeroporto Suvarnabhumi, 160 km/h)",
+        "sistema_nome_en": "Bangkok Airport Rail Link (ARL Phaya Thai–Makkasan–Suvarnabhumi Airport, 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5614,
+          13.751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bts-skytrain-mrt-blue-purple-bangkok-tailandia",
+        "nome": "Siam Central Interchange (Coração do BTS Skytrain Sukhumvit & Silom Lines)",
+        "linha": "BTS Sukhumvit / BTS Silom",
+        "status": "operacao",
+        "integracoes": [
+          "BTS Sukhumvit Line",
+          "BTS Silom Line"
+        ],
+        "sistema_nome_pt": "BTS Skytrain (Sukhumvit & Silom Lines) e Metrô MRT de Bangkok (Blue Line & Purple Line)",
+        "sistema_nome_en": "Bangkok BTS Skytrain (Sukhumvit & Silom Lines) & MRT Metro (Blue & Purple Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5347,
+          13.7456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bts-skytrain-mrt-blue-purple-bangkok-tailandia",
+        "nome": "Asok / Sukhumvit Station (Intercâmbio BTS Skytrain + MRT Blue Line)",
+        "linha": "BTS Sukhumvit / MRT Blue Line",
+        "status": "operacao",
+        "integracoes": [
+          "BTS Skytrain",
+          "MRT Blue Line"
+        ],
+        "sistema_nome_pt": "BTS Skytrain (Sukhumvit & Silom Lines) e Metrô MRT de Bangkok (Blue Line & Purple Line)",
+        "sistema_nome_en": "Bangkok BTS Skytrain (Sukhumvit & Silom Lines) & MRT Metro (Blue & Purple Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5604,
+          13.737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bts-skytrain-mrt-blue-purple-bangkok-tailandia",
+        "nome": "Sanam Chai MRT Station (Estação Palaciana do Grande Palácio e Wat Pho)",
+        "linha": "MRT Blue Line",
+        "status": "operacao",
+        "integracoes": [
+          "MRT Blue Line",
+          "Balsas do Rio Chao Phraya"
+        ],
+        "sistema_nome_pt": "BTS Skytrain (Sukhumvit & Silom Lines) e Metrô MRT de Bangkok (Blue Line & Purple Line)",
+        "sistema_nome_en": "Bangkok BTS Skytrain (Sukhumvit & Silom Lines) & MRT Metro (Blue & Purple Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4945,
+          13.7442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilhos-yellow-pink-gold-line-bangkok-tailandia",
+        "nome": "Hua Mak Interchange (Monotrilho MRT Yellow Line + Airport Rail Link + SRT)",
+        "linha": "MRT Yellow Line / ARL / SRT",
+        "status": "operacao",
+        "integracoes": [
+          "MRT Yellow Line Monorail",
+          "Airport Rail Link",
+          "SRT Eastern Line"
+        ],
+        "sistema_nome_pt": "Monotrilhos Automáticos de Bangkok (MRT Yellow Line & Pink Line) e BTS Gold Line APM",
+        "sistema_nome_en": "Bangkok Automated Monorails (MRT Yellow Line & Pink Line) & BTS Gold Line APM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6453,
+          13.7374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "srt-red-lines-malha-nacional-krung-thep-aphiwat-tailandia",
+        "nome": "Krung Thep Aphiwat Central Terminal (Bang Sue Grand Station — Maior Estação do Sudeste Asiático)",
+        "linha": "SRT Red Lines / Expressos Nacionais / MRT Blue Line",
+        "status": "operacao",
+        "integracoes": [
+          "SRT Dark & Light Red Lines",
+          "Expressos Chiang Mai / Vientiane / Padang Besar",
+          "MRT Blue Line Bang Sue"
+        ],
+        "sistema_nome_pt": "SRT Red Lines Suburbanas & Malha Nacional (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / Rio Kwai)",
+        "sistema_nome_en": "SRT Suburban Red Lines & National Network (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / River Kwai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5419,
+          13.8036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "srt-red-lines-malha-nacional-krung-thep-aphiwat-tailandia",
+        "nome": "Bangkok Hua Lamphong Historic Station (1916)",
+        "linha": "SRT / MRT Blue Line",
+        "status": "operacao",
+        "integracoes": [
+          "SRT Trens Históricos e Turísticos",
+          "MRT Blue Line"
+        ],
+        "sistema_nome_pt": "SRT Red Lines Suburbanas & Malha Nacional (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / Rio Kwai)",
+        "sistema_nome_en": "SRT Suburban Red Lines & National Network (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / River Kwai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5167,
+          13.7392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "srt-red-lines-malha-nacional-krung-thep-aphiwat-tailandia",
+        "nome": "Chiang Mai Railway Station & Ponte sobre o Rio Kwai (Kanchanaburi)",
+        "linha": "Linha Norte SRT / Ferrovia da Morte",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Noturno SRT Bangkok–Chiang Mai"
+        ],
+        "sistema_nome_pt": "SRT Red Lines Suburbanas & Malha Nacional (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / Rio Kwai)",
+        "sistema_nome_en": "SRT Suburban Red Lines & National Network (Krung Thep Aphiwat–Chiang Mai / Nong Khai–Vientiane / Hat Yai / River Kwai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0169,
+          18.7836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-porto-laem-chabang-lat-krabang-tailandia",
+        "nome": "Terminal Ferroviário do Porto de Laem Chabang (Maior Porto da Tailândia)",
+        "linha": "Corredor de Carga EEC",
+        "status": "operacao",
+        "integracoes": [
+          "SRT Freight",
+          "Porto Marítimo de Laem Chabang"
+        ],
+        "sistema_nome_pt": "Corredor Ferroviário Portuário de Carga da Costa Leste (Porto de Laem Chabang – ICD Lat Krabang – Map Ta Phut – Nong Khai)",
+        "sistema_nome_en": "Eastern Seaboard Port Freight Corridor (Laem Chabang Port – Lat Krabang ICD – Map Ta Phut – Nong Khai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8836,
+          13.0819
+        ]
+      }
     }
   ]
 }
