@@ -15620,6 +15620,225 @@
           9.9914
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-baku-linhas-vermelha-verde-roxa-azerbaijao",
+        "nome": "Estação 28 May / Cəfər Cabbarlı (Coração do Metrô de Baku e Integração com Baku Central ADY)",
+        "linha": "Linhas Vermelha (M1) e Verde (M2) do Metrô de Baku",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Vermelha M1",
+          "Linha Verde M2",
+          "Estação Ferroviária Central de Baku (Anel de Absheron)"
+        ],
+        "sistema_nome_pt": "Metrô de Baku — Linhas Vermelha (M1), Verde (M2) e Roxa (M3 — 27 Estações)",
+        "sistema_nome_en": "Baku Metro — Red (M1), Green (M2) & Purple (M3) Lines (27 Stations, 40.7 km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8539,
+          40.3792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-baku-linhas-vermelha-verde-roxa-azerbaijao",
+        "nome": "Estação İçərişəhər (Cidade Murada Histórica de Baku — Patrimônio UNESCO)",
+        "linha": "Linha Vermelha (M1) do Metrô de Baku",
+        "status": "operacao",
+        "integracoes": [
+          "Pavilhão Piramidal de Vidro na Entrada de Icherisheher"
+        ],
+        "sistema_nome_pt": "Metrô de Baku — Linhas Vermelha (M1), Verde (M2) e Roxa (M3 — 27 Estações)",
+        "sistema_nome_en": "Baku Metro — Red (M1), Green (M2) & Purple (M3) Lines (27 Stations, 40.7 km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8317,
+          40.3661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-yerevan-karen-demirchyan-armenia",
+        "nome": "Estação Republic Square (Hanrapetutyan Hraparak — Centro Histórico de Yerevan)",
+        "linha": "Linha 1 do Metrô de Yerevan Karen Demirchyan",
+        "status": "operacao",
+        "integracoes": [
+          "Praça da República de Yerevan",
+          "Arquitetura Modernista Armênia com Fonte Subterrânea"
+        ],
+        "sistema_nome_pt": "Metrô de Yerevan Karen Demirchyan — Linha Barekamutyun–Garegin Nzhdeh Square e Ramal Charbakh",
+        "sistema_nome_en": "Karen Demirchyan Yerevan Metro — Barekamutyun–Garegin Nzhdeh Square Line & Charbakh Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5167,
+          40.1786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-yerevan-karen-demirchyan-armenia",
+        "nome": "Estação Sasuntsi David (Integração Metrô de Yerevan e Estação Ferroviária Central da Armênia)",
+        "linha": "Linha 1 do Metrô de Yerevan e Ferrovia do Cáucaso Sul",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô de Yerevan",
+          "Estação Ferroviária Central de Yerevan (Trens para Gyumri e Tbilisi/Batumi)"
+        ],
+        "sistema_nome_pt": "Metrô de Yerevan Karen Demirchyan — Linha Barekamutyun–Garegin Nzhdeh Square e Ramal Charbakh",
+        "sistema_nome_en": "Karen Demirchyan Yerevan Metro — Barekamutyun–Garegin Nzhdeh Square Line & Charbakh Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5083,
+          40.1553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ady-azerbaijan-railways-anel-absheron-baku-sumqayit-ganja-stadler",
+        "nome": "Estação de Sumqayıt e Ganja (Hubs dos Trens Elétricos de Dois Andares Stadler Kiss ADY)",
+        "linha": "Anel Suburbano de Absheron e Expresso Baku–Ganja",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Elétricos Stadler Kiss e Flirt ADY"
+        ],
+        "sistema_nome_pt": "Anel Suburbano de Absheron (Baku–Sumqayıt Stadler Kiss) e Expresso Intercidades Baku–Ganja–Gabala (ADY)",
+        "sistema_nome_en": "Absheron Circular Suburban Railway (Baku–Sumqayit Stadler Kiss) & Baku–Ganja–Gabala Express (ADY)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3606,
+          40.6828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-caucaso-sul-armenia-yerevan-gyumri-sevan-vanadzor",
+        "nome": "Estação Ferroviária de Gyumri (Principal Hub Ferroviário do Norte da Armênia)",
+        "linha": "Corredor Yerevan – Gyumri – Vanadzor – Tbilisi",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Elétrico EP2D Yerevan–Gyumri",
+          "Museu Ferroviário da Armênia"
+        ],
+        "sistema_nome_pt": "Ferrovia do Cáucaso Sul (SCR Armênia) — Yerevan–Gyumri, Lago Sevan e Corredor Yerevan–Tbilisi–Batumi",
+        "sistema_nome_en": "South Caucasus Railway (SCR Armenia) — Yerevan–Gyumri Express, Lake Sevan & Yerevan–Tbilisi–Batumi Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8475,
+          40.7894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-transmongoliana-ubtz-ulan-bator-sukhbaatar-zamyn-uud-erdenet",
+        "nome": "Estação Central de Ulan Bator (Ulaanbaatar Vokzal — Coração da Ferrovia Transmongoliana UBTZ)",
+        "linha": "Ferrovia Transmongoliana Sükhbaatar – Ulan Bator – Zamyn-Üüd",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Internacional Transmongoliano (Moscou–Ulan Bator–Pequim)",
+          "Trens Noturnos para Erdenet e Sainshand"
+        ],
+        "sistema_nome_pt": "Ferrovia Transmongoliana UBTZ — Sükhbaatar–Darkhan–Ulan Bator–Sainshand–Zamyn-Üüd e Ramal de Erdenet",
+        "sistema_nome_en": "Trans-Mongolian Railway (UBTZ) — Sükhbaatar–Darkhan–Ulaanbaatar–Sainshand–Zamyn-Üüd & Erdenet Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8839,
+          47.9086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-transmongoliana-ubtz-ulan-bator-sukhbaatar-zamyn-uud-erdenet",
+        "nome": "Estação de Darkhan e Erdenet (Entroncamento Industrial do Norte da Mongólia)",
+        "linha": "Tronco Transmongoliano e Ramal de Erdenet",
+        "status": "operacao",
+        "integracoes": [
+          "Complexo de Cobre e Molibdênio de Erdenet",
+          "Siderúrgica de Darkhan"
+        ],
+        "sistema_nome_pt": "Ferrovia Transmongoliana UBTZ — Sükhbaatar–Darkhan–Ulan Bator–Sainshand–Zamyn-Üüd e Ramal de Erdenet",
+        "sistema_nome_en": "Trans-Mongolian Railway (UBTZ) — Sükhbaatar–Darkhan–Ulaanbaatar–Sainshand–Zamyn-Üüd & Erdenet Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9528,
+          49.4689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-transmongoliana-ubtz-ulan-bator-sukhbaatar-zamyn-uud-erdenet",
+        "nome": "Estação Fronteiriça de Zamyn-Üüd (Troca de Truques Bitola Larga 1.520 mm ↔ Padrão 1.435 mm com Erlian / China)",
+        "linha": "Ferrovia Transmongoliana UBTZ",
+        "status": "operacao",
+        "integracoes": [
+          "Pátio de Troca de Bitola Internacional Mongólia–China",
+          "Zona Franca de Zamyn-Üüd"
+        ],
+        "sistema_nome_pt": "Ferrovia Transmongoliana UBTZ — Sükhbaatar–Darkhan–Ulan Bator–Sainshand–Zamyn-Üüd e Ramal de Erdenet",
+        "sistema_nome_en": "Trans-Mongolian Railway (UBTZ) — Sükhbaatar–Darkhan–Ulaanbaatar–Sainshand–Zamyn-Üüd & Erdenet Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.9056,
+          43.7169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-carvao-cobre-tavan-tolgoi-gashuunsukhait-zuunbayan-mongolia",
+        "nome": "Terminal de Carregamento Mineral de Tavan Tolgoi (Tsogttsetsii — Deserto de Gobi)",
+        "linha": "Ferrovias Tavan Tolgoi–Gashuunsukhait e Tavan Tolgoi–Zuunbayan",
+        "status": "operacao",
+        "integracoes": [
+          "Uma das Maiores Reservas de Carvão Coqueificável do Mundo",
+          "Conexão à Transmongoliana em Zuunbayan"
+        ],
+        "sistema_nome_pt": "Ferrovias Minerais de Tavan Tolgoi (Deserto de Gobi) — Tavan Tolgoi–Gashuunsukhait e Tavan Tolgoi–Zuunbayan",
+        "sistema_nome_en": "Tavan Tolgoi Heavy Haul Coal & Copper Railways — Tavan Tolgoi–Gashuunsukhait & Tavan Tolgoi–Zuunbayan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.55,
+          43.62
+        ]
+      }
     }
   ]
 }

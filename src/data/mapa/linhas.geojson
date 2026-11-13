@@ -21296,6 +21296,270 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-baku-linhas-vermelha-verde-roxa-azerbaijao",
+        "linha": "Linhas M1 Vermelha / M2 Verde (İçərişəhər / Darnəgül – 28 May – Koroğlu – Həzi Aslanov) e M3 Roxa (Avtovağzal – Memar Əcəmi – Xocəsən)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Baku — Linhas Vermelha (M1), Verde (M2) e Roxa (M3 — 27 Estações)",
+        "sistema_nome_en": "Baku Metro — Red (M1), Green (M2) & Purple (M3) Lines (27 Stations, 40.7 km)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8317,
+            40.3661
+          ],
+          [
+            49.8539,
+            40.3792
+          ],
+          [
+            49.8722,
+            40.4028
+          ],
+          [
+            49.9181,
+            40.4208
+          ],
+          [
+            49.9536,
+            40.3731
+          ],
+          [
+            49.8142,
+            40.4128
+          ],
+          [
+            49.7939,
+            40.4228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-yerevan-karen-demirchyan-armenia",
+        "linha": "Linha 1 do Metrô de Yerevan (Barekamutyun – Marshal Baghramyan – Republic Square – Sasuntsi David – Garegin Nzhdeh Square / Charbakh)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Yerevan Karen Demirchyan — Linha Barekamutyun–Garegin Nzhdeh Square e Ramal Charbakh",
+        "sistema_nome_en": "Karen Demirchyan Yerevan Metro — Barekamutyun–Garegin Nzhdeh Square Line & Charbakh Branch",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4939,
+            40.1978
+          ],
+          [
+            44.5056,
+            40.1917
+          ],
+          [
+            44.5167,
+            40.1786
+          ],
+          [
+            44.5083,
+            40.1553
+          ],
+          [
+            44.4839,
+            40.1467
+          ],
+          [
+            44.4556,
+            40.1419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ady-azerbaijan-railways-anel-absheron-baku-sumqayit-ganja-stadler",
+        "linha": "Anel Suburbano de Absheron (Baku – Biləcəri – Sumqayıt – Pirşağı – Sabunçu – Baku) e Tronco Expresso Baku – Yevlakh – Ganja – Agstafa",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Anel Suburbano de Absheron (Baku–Sumqayıt Stadler Kiss) e Expresso Intercidades Baku–Ganja–Gabala (ADY)",
+        "sistema_nome_en": "Absheron Circular Suburban Railway (Baku–Sumqayit Stadler Kiss) & Baku–Ganja–Gabala Express (ADY)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8539,
+            40.3792
+          ],
+          [
+            49.6589,
+            40.585
+          ],
+          [
+            49.8833,
+            40.55
+          ],
+          [
+            49.8539,
+            40.3792
+          ],
+          [
+            48.93,
+            40.02
+          ],
+          [
+            47.15,
+            40.66
+          ],
+          [
+            46.3606,
+            40.6828
+          ],
+          [
+            45.45,
+            41.12
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-caucaso-sul-armenia-yerevan-gyumri-sevan-vanadzor",
+        "linha": "Corredor Armênio SCR (Yerevan Sasuntsi David – Armavir – Gyumri – Vanadzor – Ayrum – Fronteira Georgiana)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia do Cáucaso Sul (SCR Armênia) — Yerevan–Gyumri, Lago Sevan e Corredor Yerevan–Tbilisi–Batumi",
+        "sistema_nome_en": "South Caucasus Railway (SCR Armenia) — Yerevan–Gyumri Express, Lake Sevan & Yerevan–Tbilisi–Batumi Line",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5083,
+            40.1553
+          ],
+          [
+            44.0381,
+            40.15
+          ],
+          [
+            43.65,
+            40.45
+          ],
+          [
+            43.8475,
+            40.7894
+          ],
+          [
+            44.4889,
+            40.8128
+          ],
+          [
+            44.8967,
+            41.1969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-transmongoliana-ubtz-ulan-bator-sukhbaatar-zamyn-uud-erdenet",
+        "linha": "Tronco Transmongoliano UBTZ (Sükhbaatar – Darkhan – Erdenet – Ulan Bator – Choir – Sainshand – Zamyn-Üüd)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Transmongoliana UBTZ — Sükhbaatar–Darkhan–Ulan Bator–Sainshand–Zamyn-Üüd e Ramal de Erdenet",
+        "sistema_nome_en": "Trans-Mongolian Railway (UBTZ) — Sükhbaatar–Darkhan–Ulaanbaatar–Sainshand–Zamyn-Üüd & Erdenet Branch",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.2078,
+            50.2314
+          ],
+          [
+            105.9528,
+            49.4689
+          ],
+          [
+            104.0539,
+            49.0278
+          ],
+          [
+            105.9528,
+            49.4689
+          ],
+          [
+            106.8839,
+            47.9086
+          ],
+          [
+            108.3611,
+            46.3606
+          ],
+          [
+            110.1328,
+            44.8925
+          ],
+          [
+            111.9056,
+            43.7169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-carvao-cobre-tavan-tolgoi-gashuunsukhait-zuunbayan-mongolia",
+        "linha": "Corredor Mineral do Gobi (Mina de Tavan Tolgoi Tsogttsetsii – Gashuunsukhait Fronteira Ganqimaodu e Tavan Tolgoi – Zuunbayan / Sainshand)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Minerais de Tavan Tolgoi (Deserto de Gobi) — Tavan Tolgoi–Gashuunsukhait e Tavan Tolgoi–Zuunbayan",
+        "sistema_nome_en": "Tavan Tolgoi Heavy Haul Coal & Copper Railways — Tavan Tolgoi–Gashuunsukhait & Tavan Tolgoi–Zuunbayan",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.0333,
+            44.5
+          ],
+          [
+            105.55,
+            43.62
+          ],
+          [
+            106.85,
+            42.5
+          ],
+          [
+            107.4167,
+            41.9333
+          ]
+        ]
+      }
     }
   ]
 }
