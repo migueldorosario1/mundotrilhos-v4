@@ -26653,6 +26653,238 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chemin-de-fer-beauport-le-pays-de-la-canne-port-louis-anse-bertrand-guadalupe",
+        "linha": "Linha Turística e Canavieira de Beauport: Gare de Beauport (Port-Louis) – Poyen – Lubeth – Anse-Bertrand (Grande-Terre, Guadalupe)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Chemin de Fer de Beauport — Le Pays de la Canne (Trem Turístico e Canavieiro de Port-Louis – Poyen – Anse-Bertrand, Guadalupe)",
+        "sistema_nome_en": "Beauport Sugar Cane Railway — Le Pays de la Canne (Port-Louis – Poyen – Anse-Bertrand Heritage Train, Guadeloupe)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.5292,
+            16.4167
+          ],
+          [
+            -61.505,
+            16.425
+          ],
+          [
+            -61.488,
+            16.45
+          ],
+          [
+            -61.5067,
+            16.4719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "reseau-ferroviaire-usines-sucrieres-gardel-le-moule-marie-galante-guadalupe",
+        "linha": "Vias Férreas Açucareiras da Usina Gardel (Le Moule) e Trilhos Históricos da Habitation Murat / Grand-Bourg (Marie-Galante, Guadalupe)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trilhos Industriais e Patrimoniais Açucareiros da Usina Gardel (Le Moule) e Habitation Murat (Marie-Galante, Guadalupe)",
+        "sistema_nome_en": "Gardel Sugar Mill (Le Moule) & Habitation Murat (Marie-Galante) Industrial & Heritage Railways (Guadeloupe)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -61.3486,
+              16.3308
+            ],
+            [
+              -61.3219,
+              16.3314
+            ]
+          ],
+          [
+            [
+              -61.3156,
+              15.8833
+            ],
+            [
+              -61.2986,
+              15.8919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "train-des-plantations-habitation-saint-james-sainte-marie-martinica",
+        "linha": "Linha Train des Plantations: Musée du Rhum Saint-James (Sainte-Marie) – Vallée du Trou au Diable – Habitation La Salle (Martinica)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Train des Plantations de Saint-James (Ferrovia Turística e Patrimonial de Sainte-Marie – Vale do Rio Trou au Diable, Martinica)",
+        "sistema_nome_en": "Saint-James Plantation Train (Sainte-Marie – Trou au Diable Valley Narrow-Gauge Heritage Railway, Martinique)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.9964,
+            14.7847
+          ],
+          [
+            -61.0086,
+            14.7889
+          ],
+          [
+            -61.0211,
+            14.7936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "voies-ferrees-industrielles-habitation-clement-galion-trinite-martinica",
+        "linha": "Vias Açucareiras da Usina do Galion (La Trinité) e Locomotivas Patrimoniais da Habitation Clément (Le François, Martinica)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Industriais e Patrimoniais Açucareiras da Usina do Galion (La Trinité) e Habitation Clément (Le François, Martinica)",
+        "sistema_nome_en": "Galion Sugar Mill (La Trinité) & Habitation Clément (Le François) Industrial & Heritage Sugar Railways (Martinique)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -60.9542,
+              14.7256
+            ],
+            [
+              -60.935,
+              14.738
+            ]
+          ],
+          [
+            [
+              -60.9069,
+              14.6022
+            ],
+            [
+              -60.895,
+              14.615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "compagnie-nationale-chemins-de-fer-haiti-port-au-prince-leogane-saint-marc-haiti",
+        "linha": "Corredor Costeiro Porto Príncipe – Arcahaie – Montrouis – Saint-Marc e Ramal Sul Carrefour – Léogâne (Haiti)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Compagnie Nationale des Chemins de Fer d'Haïti (Corredor Ferroviário Patrimonial Porto Príncipe – Arcahaie – Saint-Marc e Ramal Léogâne, Haiti)",
+        "sistema_nome_en": "National Railway Company of Haiti (Port-au-Prince – Arcahaie – Saint-Marc & Léogâne Heritage Rail Corridor, Haiti)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -72.3386,
+              18.5458
+            ],
+            [
+              -72.5106,
+              18.7694
+            ],
+            [
+              -72.6978,
+              19.1081
+            ]
+          ],
+          [
+            [
+              -72.3386,
+              18.5458
+            ],
+            [
+              -72.41,
+              18.5342
+            ],
+            [
+              -72.6333,
+              18.5108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-industriais-canavieiras-sisal-hasco-plaine-du-cul-de-sac-cap-haitien-haiti",
+        "linha": "Malha Canavieira HASCO (Chancerelles – Croix-des-Bouquets) e Ferrovia de Sisal de Phaëton – Fort-Liberté / Cap-Haïtien (Haiti)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários Canavieiros e de Sisal da Planície do Cul-de-Sac (HASCO) e Fort-Liberté / Cap-Haïtien (Haiti)",
+        "sistema_nome_en": "Cul-de-Sac Plain Sugar Cane (HASCO) & Fort-Liberté / Cap-Haïtien Sisal Industrial Rail Corridors (Haiti)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -72.345,
+              18.568
+            ],
+            [
+              -72.23,
+              18.576
+            ],
+            [
+              -72.12,
+              18.6
+            ]
+          ],
+          [
+            [
+              -72.2042,
+              19.7578
+            ],
+            [
+              -71.9333,
+              19.6833
+            ],
+            [
+              -71.8417,
+              19.6667
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
