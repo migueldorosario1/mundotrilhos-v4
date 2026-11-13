@@ -27501,6 +27501,202 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oranjestad-streetcar-bonde-eletrico-hidrogenio-bateria-porto-centro-aruba",
+        "linha": "Linha 1 — Oranjestad Streetcar (Terminal de Cruzeiros Port of Call – Plaza Museo – Caya G.F. Betico Croes – Plaza Nicky, Aruba)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bonde Elétrico de Oranjestad (Aruba Streetcar — VLT sem Catenária a Bateria/Hidrogênio do Terminal de Cruzeiros a Caya G.F. Betico Croes, Aruba)",
+        "sistema_nome_en": "Oranjestad Streetcar (Catenary-Free Battery & Hydrogen Heritage Tramway from Cruise Port to Downtown Oranjestad, Aruba)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.0412,
+            12.5228
+          ],
+          [
+            -70.0385,
+            12.5205
+          ],
+          [
+            -70.0355,
+            12.5192
+          ],
+          [
+            -70.0315,
+            12.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-industriais-fosfato-seroe-colorado-ouro-balashi-aruba",
+        "linha": "Corredor Ferroviário Minerador de Fosfato de Seroe Colorado – Porto de San Nicolas e Ramal Aurífero de Balashi (Aruba)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Mineradoras de Fosfato de Seroe Colorado / San Nicolas e Trilhos Auríferos de Balashi (Aruba)",
+        "sistema_nome_en": "Seroe Colorado / San Nicolas Phosphate Railway & Balashi Gold Mill Industrial Tracks (Aruba)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.974,
+            12.482
+          ],
+          [
+            -69.9045,
+            12.4325
+          ],
+          [
+            -69.8745,
+            12.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mineradora-fosfato-tafelberg-fuikbaai-estaleiro-damen-willemstad-curacao",
+        "linha": "Ferrovia Mineradora de Tafelberg – Newport / Fuikbaai e Vias de Doca Seca do Estaleiro Damen em Schottegat (Willemstad, Curaçao)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Mineradora de Tafelberg – Newport / Fuikbaai e Vias Férreas do Estaleiro Damen de Willemstad (Curaçao)",
+        "sistema_nome_en": "Tafelberg – Fuikbaai Mining Railway & Damen Shiprepair Curaçao Drydock Rail Tracks in Willemstad (Curaçao)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.9265,
+            12.1185
+          ],
+          [
+            -68.842,
+            12.0745
+          ],
+          [
+            -68.8285,
+            12.0595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bermuda-railway-corredor-ferroviario-patrimonial-somerset-hamilton-st-georges-bermudas",
+        "linha": "Corredor Insular Bermuda Railway (Somerset Bridge – Hamilton – Museu Ferroviário de Flatts Village – Bailey's Bay – St. George's, Bermudas)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bermuda Railway ('Old Rattle and Shake' — Corredor Ferroviário Insular, Pontes Férreas e Museu de Somerset – Hamilton – Flatts – St. George's, Bermudas)",
+        "sistema_nome_en": "Bermuda Railway Corridor, Historic Rail Bridges & Bermuda Railway Museum Somerset – Hamilton – St. George's (Bermuda)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.869,
+            32.3015
+          ],
+          [
+            -64.783,
+            32.2945
+          ],
+          [
+            -64.7385,
+            32.3214
+          ],
+          [
+            -64.712,
+            32.3485
+          ],
+          [
+            -64.678,
+            32.381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-florestais-portuarias-abaco-andros-nassau-freeport-bahamas",
+        "linha": "Vias Férreas de Guindastes do Estaleiro Grand Bahama (Freeport) e Ferrovia Florestal Histórica de Wilson City / Norman's Castle (Abaco, Bahamas)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias do Estaleiro Grand Bahama (Freeport), Salinas de Inagua e Trilhos Florestais de Abaco (Bahamas)",
+        "sistema_nome_en": "Grand Bahama Shipyard Drydock Rails Freeport, Inagua Salt Works & Abaco Heritage Logging Railways (Bahamas)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.765,
+            26.5185
+          ],
+          [
+            -78.695,
+            26.528
+          ],
+          [
+            -77.152,
+            26.351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-industriais-bethlehem-frederiksted-christiansted-st-croix-ilhas-virgens",
+        "linha": "Corredor Ferroviário Açucareiro de Estate Bethlehem – Estate Whim – Porto de Frederiksted e Krause Lagoon (St. Croix, Ilhas Virgens Americanas)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Açucareiras Patrimoniais de Estate Bethlehem e Terminal Portuário de Krause Lagoon / Frederiksted (St. Croix, Ilhas Virgens Americanas)",
+        "sistema_nome_en": "St. Croix Bethlehem Sugar Factory Railway & Krause Lagoon / Frederiksted Port Industrial Tracks (U.S. Virgin Islands)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.8835,
+            17.7125
+          ],
+          [
+            -64.859,
+            17.7015
+          ],
+          [
+            -64.792,
+            17.7185
+          ],
+          [
+            -64.752,
+            17.698
+          ]
+        ]
+      }
     }
   ]
 }

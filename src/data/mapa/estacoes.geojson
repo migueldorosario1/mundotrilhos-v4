@@ -20232,6 +20232,226 @@
           10.2355
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oranjestad-streetcar-bonde-eletrico-hidrogenio-bateria-porto-centro-aruba",
+        "nome": "Estação Welcome Plaza / Cruise Terminal (Oranjestad Streetcar, Aruba)",
+        "linha": "Linha 1 — Oranjestad Streetcar",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal de Cruzeiros do Porto de Oranjestad",
+          "Terminal Central Arubus"
+        ],
+        "sistema_nome_pt": "Bonde Elétrico de Oranjestad (Aruba Streetcar — VLT sem Catenária a Bateria/Hidrogênio do Terminal de Cruzeiros a Caya G.F. Betico Croes, Aruba)",
+        "sistema_nome_en": "Oranjestad Streetcar (Catenary-Free Battery & Hydrogen Heritage Tramway from Cruise Port to Downtown Oranjestad, Aruba)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0412,
+          12.5228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oranjestad-streetcar-bonde-eletrico-hidrogenio-bateria-porto-centro-aruba",
+        "nome": "Estação Plaza Nicky / Caya G.F. Betico Croes (Centro Histórico de Oranjestad, Aruba)",
+        "linha": "Linha 1 — Oranjestad Streetcar",
+        "status": "operacao",
+        "integracoes": [
+          "Museu Arqueológico Nacional de Aruba",
+          "Boulevard Comercial Caya Betico Croes"
+        ],
+        "sistema_nome_pt": "Bonde Elétrico de Oranjestad (Aruba Streetcar — VLT sem Catenária a Bateria/Hidrogênio do Terminal de Cruzeiros a Caya G.F. Betico Croes, Aruba)",
+        "sistema_nome_en": "Oranjestad Streetcar (Catenary-Free Battery & Hydrogen Heritage Tramway from Cruise Port to Downtown Oranjestad, Aruba)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0315,
+          12.518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-industriais-fosfato-seroe-colorado-ouro-balashi-aruba",
+        "nome": "Estação e Museu da Indústria de San Nicolas / Seroe Colorado (Ferrovia de Fosfato, Aruba)",
+        "linha": "Corredor Ferroviário Minerador de Fosfato de Seroe Colorado",
+        "status": "operacao",
+        "integracoes": [
+          "Museum of Industry San Nicolas",
+          "Minas Históricas de Fosfato de Seroe Colorado"
+        ],
+        "sistema_nome_pt": "Ferrovias Mineradoras de Fosfato de Seroe Colorado / San Nicolas e Trilhos Auríferos de Balashi (Aruba)",
+        "sistema_nome_en": "Seroe Colorado / San Nicolas Phosphate Railway & Balashi Gold Mill Industrial Tracks (Aruba)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9045,
+          12.4325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mineradora-fosfato-tafelberg-fuikbaai-estaleiro-damen-willemstad-curacao",
+        "nome": "Terminal Minerador e Ferroviário de Newport / Fuikbaai (Monte Tafelberg, Curaçao)",
+        "linha": "Ferrovia Mineradora de Tafelberg – Newport / Fuikbaai",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Minerador de Fuikbaai",
+          "Mina de Calcário e Fosfato de Tafelberg"
+        ],
+        "sistema_nome_pt": "Ferrovia Mineradora de Tafelberg – Newport / Fuikbaai e Vias Férreas do Estaleiro Damen de Willemstad (Curaçao)",
+        "sistema_nome_en": "Tafelberg – Fuikbaai Mining Railway & Damen Shiprepair Curaçao Drydock Rail Tracks in Willemstad (Curaçao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8285,
+          12.0595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mineradora-fosfato-tafelberg-fuikbaai-estaleiro-damen-willemstad-curacao",
+        "nome": "Pátio Ferroviário das Docas Secas Beatrix e Juliana (Damen Shiprepair Schottegat, Willemstad, Curaçao)",
+        "linha": "Ferrovia Mineradora de Tafelberg – Newport / Fuikbaai",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Willemstad (Schottegat)",
+          "Docas Secas e Flutuantes Damen Curaçao"
+        ],
+        "sistema_nome_pt": "Ferrovia Mineradora de Tafelberg – Newport / Fuikbaai e Vias Férreas do Estaleiro Damen de Willemstad (Curaçao)",
+        "sistema_nome_en": "Tafelberg – Fuikbaai Mining Railway & Damen Shiprepair Curaçao Drydock Rail Tracks in Willemstad (Curaçao)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9265,
+          12.1185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bermuda-railway-corredor-ferroviario-patrimonial-somerset-hamilton-st-georges-bermudas",
+        "nome": "Estação e Museu Ferroviário de Flatts Village (Bermuda Railway Museum, Bermudas)",
+        "linha": "Corredor Insular Bermuda Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Bermuda Aquarium, Museum and Zoo",
+          "Harrington Sound"
+        ],
+        "sistema_nome_pt": "Bermuda Railway ('Old Rattle and Shake' — Corredor Ferroviário Insular, Pontes Férreas e Museu de Somerset – Hamilton – Flatts – St. George's, Bermudas)",
+        "sistema_nome_en": "Bermuda Railway Corridor, Historic Rail Bridges & Bermuda Railway Museum Somerset – Hamilton – St. George's (Bermuda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7385,
+          32.3214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bermuda-railway-corredor-ferroviario-patrimonial-somerset-hamilton-st-georges-bermudas",
+        "nome": "Ponte Ferroviária de Bailey's Bay & Terminal de St. George's (Bermuda Railway Trail, Bermudas)",
+        "linha": "Corredor Insular Bermuda Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Centro Histórico UNESCO de St. George's",
+          "Passarela Ferroviária sobre Bailey's Bay"
+        ],
+        "sistema_nome_pt": "Bermuda Railway ('Old Rattle and Shake' — Corredor Ferroviário Insular, Pontes Férreas e Museu de Somerset – Hamilton – Flatts – St. George's, Bermudas)",
+        "sistema_nome_en": "Bermuda Railway Corridor, Historic Rail Bridges & Bermuda Railway Museum Somerset – Hamilton – St. George's (Bermuda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.678,
+          32.381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-florestais-portuarias-abaco-andros-nassau-freeport-bahamas",
+        "nome": "Pátio Ferroviário Portuário do Estaleiro Grand Bahama (Freeport Harbour, Bahamas)",
+        "linha": "Vias Férreas de Guindastes do Estaleiro Grand Bahama",
+        "status": "operacao",
+        "integracoes": [
+          "Freeport Container Port",
+          "Grand Bahama Shipyard Drydocks"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias do Estaleiro Grand Bahama (Freeport), Salinas de Inagua e Trilhos Florestais de Abaco (Bahamas)",
+        "sistema_nome_en": "Grand Bahama Shipyard Drydock Rails Freeport, Inagua Salt Works & Abaco Heritage Logging Railways (Bahamas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.765,
+          26.5185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-florestais-portuarias-abaco-andros-nassau-freeport-bahamas",
+        "nome": "Estação Florestal Patrimonial de Wilson City / Spencer's Point (Locomotiva a Vapor de Abaco, Bahamas)",
+        "linha": "Vias Férreas de Guindastes do Estaleiro Grand Bahama",
+        "status": "operacao",
+        "integracoes": [
+          "Abaco National Park",
+          "Reserva Histórica de Wilson City"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias do Estaleiro Grand Bahama (Freeport), Salinas de Inagua e Trilhos Florestais de Abaco (Bahamas)",
+        "sistema_nome_en": "Grand Bahama Shipyard Drydock Rails Freeport, Inagua Salt Works & Abaco Heritage Logging Railways (Bahamas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.152,
+          26.351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-industriais-bethlehem-frederiksted-christiansted-st-croix-ilhas-virgens",
+        "nome": "Complexo Ferroviário Açucareiro de Estate Bethlehem e Museu Estate Whim (St. Croix, Ilhas Virgens Americanas)",
+        "linha": "Corredor Ferroviário Açucareiro de Estate Bethlehem",
+        "status": "operacao",
+        "integracoes": [
+          "Estate Whim Plantation Museum",
+          "Píer de Cruzeiros de Frederiksted"
+        ],
+        "sistema_nome_pt": "Ferrovias Açucareiras Patrimoniais de Estate Bethlehem e Terminal Portuário de Krause Lagoon / Frederiksted (St. Croix, Ilhas Virgens Americanas)",
+        "sistema_nome_en": "St. Croix Bethlehem Sugar Factory Railway & Krause Lagoon / Frederiksted Port Industrial Tracks (U.S. Virgin Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.792,
+          17.7185
+        ]
+      }
     }
   ]
 }
