@@ -25711,6 +25711,280 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "nepal-railway-company-jayanagar-janakpur-kurtha-bhangaha-bijalpura-nepal",
+        "linha": "Linha Transfronteiriça NRCL Jayanagar (Índia) – Inarwa – Khajuri – Janakpurdham – Kurtha – Bhangaha (Bijalpura, Nepal)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Nepal Railway Company (NRCL — Ferrovia Jayanagar – Janakpur – Kurtha – Bhangaha/Bijalpura)",
+        "sistema_nome_en": "Nepal Railway Company (NRCL — Jayanagar – Janakpur – Kurtha – Bhangaha/Bijalpura Railway)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.1369,
+            26.5881
+          ],
+          [
+            86.1011,
+            26.64
+          ],
+          [
+            85.9392,
+            26.7288
+          ],
+          [
+            85.8936,
+            26.7583
+          ],
+          [
+            85.8214,
+            26.9061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-nacional-de-honduras-fnh-san-pedro-sula-choloma-la-ceiba-tela-honduras",
+        "linha": "Linha Urbana FNH San Pedro Sula – Choloma – Baracoa e Ramal Turístico La Ceiba – Cuero y Salado",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrocarril Nacional de Honduras (FNH — Trem Urbano San Pedro Sula – Choloma e Linhas Turísticas de La Ceiba / Cuero y Salado)",
+        "sistema_nome_en": "National Railway of Honduras (FNH — San Pedro Sula – Choloma Urban Train & La Ceiba / Cuero y Salado Heritage Lines)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -88.025,
+              15.5042
+            ],
+            [
+              -87.9531,
+              15.6144
+            ],
+            [
+              -87.8556,
+              15.7694
+            ]
+          ],
+          [
+            [
+              -86.7917,
+              15.7833
+            ],
+            [
+              -87.0167,
+              15.7667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "fenadesal-ferrocarriles-nacionales-de-el-salvador-san-salvador-apopa-soyapango-el-salvador",
+        "linha": "Linha Suburbana e Patrimonial FENADESAL San Salvador (Estação Central) – Ciudad Delgado – Apopa e Ramal Soyapango",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrocarriles Nacionales de El Salvador (FENADESAL — Trem Suburbano e Patrimonial San Salvador – Ciudad Delgado – Apopa)",
+        "sistema_nome_en": "National Railways of El Salvador (FENADESAL — San Salvador – Ciudad Delgado – Apopa Commuter & Heritage Train)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -89.1806,
+              13.7014
+            ],
+            [
+              -89.1706,
+              13.7267
+            ],
+            [
+              -89.1792,
+              13.8072
+            ]
+          ],
+          [
+            [
+              -89.1806,
+              13.7014
+            ],
+            [
+              -89.1397,
+              13.7103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "jamaica-railway-corporation-jrc-kingston-spanish-town-linstead-ewarton-montego-bay-jamaica",
+        "linha": "Linha JRC Kingston – Gregory Park – Spanish Town – Bog Walk – Linstead e Ramal Old Harbour",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Jamaica Railway Corporation (JRC — Linha Suburbana e Escolar Kingston – Spanish Town – Old Harbour – Linstead)",
+        "sistema_nome_en": "Jamaica Railway Corporation (JRC — Kingston – Spanish Town – Old Harbour – Linstead Commuter & School Rail Service)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -76.7975,
+              17.9686
+            ],
+            [
+              -76.88,
+              17.9911
+            ],
+            [
+              -76.9553,
+              17.9958
+            ],
+            [
+              -77.0189,
+              18.1031
+            ],
+            [
+              -77.0317,
+              18.1369
+            ]
+          ],
+          [
+            [
+              -76.9553,
+              17.9958
+            ],
+            [
+              -77.1089,
+              17.9414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-bauxita-alumina-jamaica-discovery-bay-port-esquivel-rocky-point-alpart-windalco",
+        "linha": "Corredores Mineradores de Bauxita e Alumina: Discovery Bay (Port Rhoades – Water Valley), Jamalco (St. Jago – Rocky Point) e Windalco (Ewarton – Port Esquivel)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Mineradoras de Bauxita e Alumina da Jamaica (Discovery Bay / St. Ann Bauxite, Jamalco Rocky Point e Windalco Port Esquivel)",
+        "sistema_nome_en": "Jamaican Bauxite & Alumina Mining Railways (Discovery Bay / St. Ann Bauxite, Jamalco Rocky Point & Windalco Port Esquivel)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -77.4089,
+              18.4586
+            ],
+            [
+              -77.3811,
+              18.3742
+            ],
+            [
+              -77.3197,
+              18.3056
+            ]
+          ],
+          [
+            [
+              -77.0686,
+              18.1833
+            ],
+            [
+              -76.9553,
+              17.9958
+            ],
+            [
+              -77.1089,
+              17.9414
+            ],
+            [
+              -77.1333,
+              17.8931
+            ]
+          ],
+          [
+            [
+              -77.3267,
+              18.015
+            ],
+            [
+              -77.2606,
+              17.9711
+            ],
+            [
+              -77.2608,
+              17.8181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "terminal-ferroviario-carga-birgunj-icd-sirsia-raxaul-jogbani-biratnagar-nepal",
+        "linha": "Corredores de Carga Birgunj (Sirsia ICD – Raxaul Junction) e Biratnagar (Budhnagar ICP – Jogbani)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários Internacionais de Carga do Nepal (Porto Seco de Birgunj Sirsia ICD – Raxaul e Terminal Biratnagar – Jogbani)",
+        "sistema_nome_en": "Nepal International Rail Freight Corridors (Birgunj Sirsia ICD Dry Port – Raxaul & Biratnagar – Jogbani Terminal)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              84.8475,
+              26.9792
+            ],
+            [
+              84.8511,
+              27.0056
+            ]
+          ],
+          [
+            [
+              87.28,
+              26.4028
+            ],
+            [
+              87.2917,
+              26.4525
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
