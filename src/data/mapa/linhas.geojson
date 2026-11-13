@@ -24151,6 +24151,342 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "botswana-railways-br-express-lobatse-gaborone-mahalapye-palapye-francistown-sua-pan",
+        "linha": "BR Express (Ramatlabama – Lobatse – Gaborone – Mahalapye – Palapye – Serule – Francistown e Ramal Sua Pan)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Botswana Railways (BR Express — Lobatse – Gaborone – Mahalapye – Palapye – Francistown)",
+        "sistema_nome_en": "Botswana Railways (BR Express — Lobatse – Gaborone – Mahalapye – Palapye – Francistown Mainline)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              25.68,
+              -25.18
+            ],
+            [
+              25.9087,
+              -24.6541
+            ],
+            [
+              26.8442,
+              -23.1041
+            ],
+            [
+              27.1251,
+              -22.546
+            ],
+            [
+              27.3,
+              -21.95
+            ],
+            [
+              27.5086,
+              -21.17
+            ],
+            [
+              27.64,
+              -20.55
+            ]
+          ],
+          [
+            [
+              27.5086,
+              -21.17
+            ],
+            [
+              26.2167,
+              -20.5667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "transnamib-namibia-starline-desert-express-walvis-bay-swakopmund-windhoek-tsumeb-karasburg",
+        "linha": "TransNamib (Walvis Bay – Swakopmund – Kranzberg – Windhoek – Keetmanshoop – Ariamsvlei / Lüderitz & Kranzberg – Otjiwarongo – Tsumeb – Ondangwa)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "TransNamib (Desert Express e Malha Nacional Walvis Bay – Swakopmund – Windhoek – Tsumeb – Ondangwa – Keetmanshoop)",
+        "sistema_nome_en": "TransNamib (Desert Express & National Network Walvis Bay – Swakopmund – Windhoek – Tsumeb – Ondangwa – Keetmanshoop)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              14.5053,
+              -22.9575
+            ],
+            [
+              14.5266,
+              -22.6784
+            ],
+            [
+              15.6167,
+              -21.95
+            ],
+            [
+              16.9,
+              -21.98
+            ],
+            [
+              17.0832,
+              -22.5594
+            ],
+            [
+              17.9667,
+              -24.6333
+            ],
+            [
+              18.1356,
+              -26.5786
+            ],
+            [
+              19.85,
+              -28.1167
+            ]
+          ],
+          [
+            [
+              15.6167,
+              -21.95
+            ],
+            [
+              16.6475,
+              -20.4636
+            ],
+            [
+              17.7167,
+              -19.2333
+            ],
+            [
+              15.95,
+              -17.9167
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "central-east-african-railways-cear-malaui-mchinji-lilongwe-salima-balaka-blantyre-nayuchi",
+        "linha": "CEAR Malaui (Mchinji – Lilongwe – Salima – Nkaya – Liwonde – Nayuchi & Nkaya – Limbe / Blantyre – Bangula)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Central East African Railways (CEAR — Limbe / Blantyre – Balaka – Nayuchi e Mchinji – Lilongwe – Salima, Malaui)",
+        "sistema_nome_en": "Central East African Railways (CEAR — Limbe / Blantyre – Balaka – Nayuchi & Mchinji – Lilongwe – Salima, Malawi)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              32.8881,
+              -13.7986
+            ],
+            [
+              33.7741,
+              -13.9626
+            ],
+            [
+              34.4586,
+              -13.7803
+            ],
+            [
+              34.97,
+              -15.01
+            ],
+            [
+              35.2244,
+              -15.0667
+            ],
+            [
+              35.86,
+              -14.95
+            ]
+          ],
+          [
+            [
+              34.97,
+              -15.01
+            ],
+            [
+              35.0519,
+              -15.8016
+            ],
+            [
+              35.1,
+              -16.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "eswatini-railways-esr-corredor-norte-sul-mananga-mpaka-big-bend-golela-matsapha",
+        "linha": "Eswatini Railways (Mananga – Tshaneni – Mpaka – Big Bend – Lavumisa / Golela & Matsapha – Sidvokodvo – Mpaka – Siweni / Goba)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Eswatini Railways (ESR — Corredor Norte-Sul Mananga – Mpaka – Big Bend – Lavumisa / Golela e Ramal Matsapha – Goba)",
+        "sistema_nome_en": "Eswatini Railways (ESR — North-South Corridor Mananga – Mpaka – Big Bend – Lavumisa / Golela & Matsapha – Goba Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              31.75,
+              -25.98
+            ],
+            [
+              31.7667,
+              -26.4083
+            ],
+            [
+              31.9333,
+              -26.8167
+            ],
+            [
+              31.8833,
+              -27.3167
+            ]
+          ],
+          [
+            [
+              31.3114,
+              -26.5022
+            ],
+            [
+              31.7667,
+              -26.4083
+            ],
+            [
+              32.11,
+              -26.21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carvao-soda-ash-botswana-railways-morupule-sua-pan-transnamib-walvis-bay-tsumeb",
+        "linha": "Corredor Mineraleiro TransNamib (Walvis Bay – Kranzberg – Tsumeb / Windhoek) e Botswana Railways (Sua Pan – Francistown – Morupule – Gaborone)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Mineraleiros do Kalahari e Atlântico (Botswana Railways Morupule / Sua Pan e TransNamib Walvis Bay – Tsumeb)",
+        "sistema_nome_en": "Kalahari & Atlantic Mining Freight Corridors (Botswana Railways Morupule / Sua Pan & TransNamib Walvis Bay – Tsumeb)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              14.5053,
+              -22.9575
+            ],
+            [
+              15.6167,
+              -21.95
+            ],
+            [
+              17.7167,
+              -19.2333
+            ]
+          ],
+          [
+            [
+              26.2167,
+              -20.5667
+            ],
+            [
+              27.5086,
+              -21.17
+            ],
+            [
+              27.1251,
+              -22.546
+            ],
+            [
+              25.9087,
+              -24.6541
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-eswatini-railways-mpaka-richards-bay-maputo-cear-nacala-mchinji-malaui",
+        "linha": "Corredor de Carga Eswatini Railways (Mananga – Mpaka – Lavumisa / Matsapha – Goba) e Corredor de Nacala CEAR (Mchinji – Nkaya – Nayuchi)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Pesados de Carga Eswatini Railways (Mananga – Mpaka – Golela / Goba) e CEAR Corredor de Nacala no Malaui",
+        "sistema_nome_en": "Eswatini Railways Heavy Freight Corridor (Mananga – Mpaka – Golela / Goba) & CEAR Nacala Corridor in Malawi",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              31.75,
+              -25.98
+            ],
+            [
+              31.7667,
+              -26.4083
+            ],
+            [
+              31.8833,
+              -27.3167
+            ]
+          ],
+          [
+            [
+              32.8881,
+              -13.7986
+            ],
+            [
+              33.7741,
+              -13.9626
+            ],
+            [
+              34.97,
+              -15.01
+            ],
+            [
+              35.86,
+              -14.95
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
