@@ -12538,6 +12538,229 @@
           13.0819
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "haramain-tav-meca-jeddah-medina-300kmh-arabia-saudita",
+        "nome": "Makkah Haramain High Speed Station (Meca — Terminal TAV 300 km/h)",
+        "linha": "Haramain High Speed Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Haramain TAV 300 km/h",
+          "Ônibus Expressos para a Grande Mesquita Al-Haram"
+        ],
+        "sistema_nome_pt": "Haramain High Speed Railway (Meca – Jeddah – KAEC – Medina, 300 km/h)",
+        "sistema_nome_en": "Haramain High Speed Railway (Makkah – Jeddah – KAEC – Madinah, 300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7825,
+          21.4172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "haramain-tav-meca-jeddah-medina-300kmh-arabia-saudita",
+        "nome": "Jeddah King Abdulaziz International Airport Station (KAIA — Maior Estação TAV Integrada a Aeroporto)",
+        "linha": "Haramain High Speed Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Haramain TAV 300 km/h",
+          "Terminal 1 do Aeroporto de Jeddah e APM"
+        ],
+        "sistema_nome_pt": "Haramain High Speed Railway (Meca – Jeddah – KAEC – Medina, 300 km/h)",
+        "sistema_nome_en": "Haramain High Speed Railway (Makkah – Jeddah – KAEC – Madinah, 300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1728,
+          21.6625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "haramain-tav-meca-jeddah-medina-300kmh-arabia-saudita",
+        "nome": "Madinah Haramain High Speed Station (Medina — Terminal Norte do Corredor Sagrado)",
+        "linha": "Haramain High Speed Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Haramain TAV 300 km/h",
+          "Conexão para a Mesquita do Profeta Al-Masjid an-Nabawi"
+        ],
+        "sistema_nome_pt": "Haramain High Speed Railway (Meca – Jeddah – KAEC – Medina, 300 km/h)",
+        "sistema_nome_en": "Haramain High Speed Railway (Makkah – Jeddah – KAEC – Madinah, 300 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7089,
+          24.4714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-riad-6-linhas-automaticas-arabia-saudita",
+        "nome": "KAFD Station (King Abdullah Financial District — Projetada por Zaha Hadid Architects)",
+        "linha": "Riyadh Metro Lines 1 Blue, 4 Yellow & 6 Purple",
+        "status": "operacao",
+        "integracoes": [
+          "Riyadh Metro Blue Line",
+          "Yellow Line (Aeroporto)",
+          "Purple Line",
+          "KAFD Monorail"
+        ],
+        "sistema_nome_pt": "Metrô de Riad (Riyadh Metro — Linhas 1 a 6 Automáticas GoA4)",
+        "sistema_nome_en": "Riyadh Metro (Driverless Lines 1 to 6 — Blue, Red, Orange, Yellow, Green & Purple)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6406,
+          24.7647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-riad-6-linhas-automaticas-arabia-saudita",
+        "nome": "Qasr Al Hokm Downtown Station (Coração Histórico de Riad — Snøhetta)",
+        "linha": "Riyadh Metro Line 1 Blue & Line 3 Orange",
+        "status": "operacao",
+        "integracoes": [
+          "Riyadh Metro Blue Line",
+          "Orange Line"
+        ],
+        "sistema_nome_pt": "Metrô de Riad (Riyadh Metro — Linhas 1 a 6 Automáticas GoA4)",
+        "sistema_nome_en": "Riyadh Metro (Driverless Lines 1 to 6 — Blue, Red, Orange, Yellow, Green & Purple)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7133,
+          24.6308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-dubai-red-green-lines-emirados",
+        "nome": "Burj Khalifa / Dubai Mall Metro Station (Estação Mais Movimentada do Oriente Médio)",
+        "linha": "Dubai Metro Red Line",
+        "status": "operacao",
+        "integracoes": [
+          "Dubai Metro Red Line",
+          "Passarela Climatizada Metro Link para o Burj Khalifa"
+        ],
+        "sistema_nome_pt": "Metrô de Dubai (Red Line & Green Line Automáticas GoA4 — RTA)",
+        "sistema_nome_en": "Dubai Metro (Driverless Red Line, Route 2020 & Green Line — RTA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2694,
+          25.2014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-dubai-red-green-lines-emirados",
+        "nome": "Union Underground Interchange Station (Deira — Intercâmbio Red Line + Green Line)",
+        "linha": "Dubai Metro Red Line / Green Line",
+        "status": "operacao",
+        "integracoes": [
+          "Dubai Metro Red Line",
+          "Dubai Metro Green Line"
+        ],
+        "sistema_nome_pt": "Metrô de Dubai (Red Line & Green Line Automáticas GoA4 — RTA)",
+        "sistema_nome_en": "Dubai Metro (Driverless Red Line, Route 2020 & Green Line — RTA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3133,
+          25.2664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "dubai-tram-palm-monorail-apms-arabia-emirados",
+        "nome": "Sobha Realty / Dubai Marina & Palm Gateway (Integração Metrô + Dubai Tram APS + Monotrilho de Palm Jumeirah)",
+        "linha": "Dubai Tram / Palm Monorail / Red Line",
+        "status": "operacao",
+        "integracoes": [
+          "Dubai Tram sem Catenária",
+          "Dubai Metro Red Line",
+          "Palm Jumeirah Monorail"
+        ],
+        "sistema_nome_pt": "Dubai Tram (Al Sufouh APS sem Catenária), Palm Jumeirah Monorail & APM de Riad (PNU)",
+        "sistema_nome_en": "Dubai Tram (Catenary-free Al Sufouh APS), Palm Jumeirah Monorail & Riyadh PNU APM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1386,
+          25.0778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sar-ferrovias-norte-leste-riad-dammam-al-qurayyat-arabia-saudita",
+        "nome": "Dammam SAR Railway Station & Riyadh North Terminal (Corredores Leste e Norte 200 km/h)",
+        "linha": "SAR East & North Trains",
+        "status": "operacao",
+        "integracoes": [
+          "SAR East Train Riad–Hofuf–Dammam",
+          "Porto Rei Abdulaziz de Dammam"
+        ],
+        "sistema_nome_pt": "Ferrovias SAR Norte (Riad–Qassim–Hail–Al-Jouf–Al-Qurayyat 200 km/h) e Leste (Riad–Hofuf–Dammam)",
+        "sistema_nome_en": "SAR North Train (Riyadh–Qassim–Hail–Al-Jouf–Al-Qurayyat 200 km/h) & East Train (Riyadh–Hofuf–Dammam)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1033,
+          26.4207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "etihad-rail-emirados-corredor-fosfato-bauxita-maaden-sar-arabia",
+        "nome": "Terminal Intermodal Etihad Rail do Porto de Fujairah & Porto de Khalifa (Abu Dhabi)",
+        "linha": "Etihad Rail Mainline",
+        "status": "operacao",
+        "integracoes": [
+          "Etihad Rail Freight",
+          "Porto Marítimo de Fujairah no Golfo de Omã"
+        ],
+        "sistema_nome_pt": "Etihad Rail (Rede Nacional dos Emirados: Al Ghuwaifat–Abu Dhabi–Dubai–Fujairah) & Corredor Mineral Ma'aden SAR",
+        "sistema_nome_en": "Etihad Rail (UAE National Freight Network: Al Ghuwaifat–Abu Dhabi–Dubai–Fujairah) & SAR Ma'aden Mineral Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3536,
+          25.1288
+        ]
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T21:45:00-03:00",
+  "atualizado_em": "2026-11-12T22:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -176,15 +176,16 @@
       "bandeira": "🇹🇭",
       "sistemas_operacao": 5,
       "ronda": "Ronda #28 (21:45 BRT — 5 Modalidades)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 25,
       "pais": "Arábia Saudita e Emirados Árabes Unidos",
-      "bandeira": "🇸🇦",
-      "foco": "Haramain High Speed Railway Meca–Jeddah–Medina (300 km/h), Metrô de Riad (6 linhas automáticas) + Metrô e Tram de Dubai, Ferrovias SAR Norte–Sul/Leste e Etihad Rail + Corredor de Fosfato/Bauxita Ma'aden"
-    },
+      "bandeira": "🇸🇦🇦🇪",
+      "sistemas_operacao": 6,
+      "ronda": "Ronda #29 (22:15 BRT — 5 Modalidades)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 26,
       "pais": "Colômbia e Peru (Andes)",
@@ -202,6 +203,12 @@
       "pais": "Israel e Catar",
       "bandeira": "🇮🇱",
       "foco": "Metrô Automático de Doha (Red/Green/Gold Lines) + Lusail Tram, VLTs de Jerusalém (Red Line) e Tel Aviv (Dankal Red Line), Linha Rápida Eletrificada Tel Aviv–Aeroporto Ben Gurion–Jerusalém Yitzhak Navon (160 km/h) e Corredores de Carga de Haifa/Ashdod/Negev"
+    },
+    {
+      "ordem": 29,
+      "pais": "Nova Zelândia e Vietnã",
+      "bandeira": "🇳🇿",
+      "foco": "Metrôs de Hanói e Ho Chi Minh City (Linha 1 Ben Thanh–Suoi Tien), Trens Urbanos de Auckland e Wellington + Northern Explorer/TranzAlpine, Ferrovia da Reunificação Norte–Sul do Vietnã e Corredores KiwiRail de Carga"
     }
   ]
 }

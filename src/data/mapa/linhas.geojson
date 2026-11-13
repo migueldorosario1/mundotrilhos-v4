@@ -17204,6 +17204,334 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "haramain-tav-meca-jeddah-medina-300kmh-arabia-saudita",
+        "linha": "Haramain High Speed Railway (300 km/h): Makkah (Meca) – Jeddah Sulaymaniyah – Aeroporto Rei Abdulaziz (KAIA) – King Abdullah Economic City (KAEC) – Madinah (Medina)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Haramain High Speed Railway (Meca – Jeddah – KAEC – Medina, 300 km/h)",
+        "sistema_nome_en": "Haramain High Speed Railway (Makkah – Jeddah – KAEC – Madinah, 300 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.7825,
+            21.4172
+          ],
+          [
+            39.2392,
+            21.5036
+          ],
+          [
+            39.1728,
+            21.6625
+          ],
+          [
+            39.1469,
+            22.4119
+          ],
+          [
+            39.7089,
+            24.4714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-riad-6-linhas-automaticas-arabia-saudita",
+        "linha": "Riyadh Metro Line 1 Blue (Olaya – KAFD – Qasr Al Hokm – Al Aziziyah) & Line 4 Yellow (KAFD – Aeroporto Internacional Rei Khalid)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Riad (Riyadh Metro — Linhas 1 a 6 Automáticas GoA4)",
+        "sistema_nome_en": "Riyadh Metro (Driverless Lines 1 to 6 — Blue, Red, Orange, Yellow, Green & Purple)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.6989,
+            24.9578
+          ],
+          [
+            46.6406,
+            24.7647
+          ],
+          [
+            46.6753,
+            24.7117
+          ],
+          [
+            46.7133,
+            24.6308
+          ],
+          [
+            46.742,
+            24.575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-riad-6-linhas-automaticas-arabia-saudita",
+        "linha": "Riyadh Metro Line 2 Red (King Saud University – STC – Estádio Rei Fahd) & Line 3 Orange (Jeddah Road – Qasr Al Hokm – Khashm Al Aan)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Riad (Riyadh Metro — Linhas 1 a 6 Automáticas GoA4)",
+        "sistema_nome_en": "Riyadh Metro (Driverless Lines 1 to 6 — Blue, Red, Orange, Yellow, Green & Purple)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.619,
+            24.723
+          ],
+          [
+            46.669,
+            24.742
+          ],
+          [
+            46.839,
+            24.788
+          ],
+          [
+            46.7133,
+            24.6308
+          ],
+          [
+            46.55,
+            24.58
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-dubai-red-green-lines-emirados",
+        "linha": "Dubai Metro Red Line & Route 2020 (Centrepoint – Aeroporto DXB – Union – Burj Khalifa/Dubai Mall – Mall of the Emirates – Dubai Marina – Jebel Ali – Expo City Dubai) & Green Line (Etisalat – Dubai Creek)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Dubai (Red Line & Green Line Automáticas GoA4 — RTA)",
+        "sistema_nome_en": "Dubai Metro (Driverless Red Line, Route 2020 & Green Line — RTA)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3914,
+            25.2297
+          ],
+          [
+            55.3522,
+            25.2528
+          ],
+          [
+            55.3133,
+            25.2664
+          ],
+          [
+            55.2694,
+            25.2014
+          ],
+          [
+            55.2006,
+            25.1181
+          ],
+          [
+            55.1386,
+            25.0778
+          ],
+          [
+            55.0914,
+            25.0308
+          ],
+          [
+            55.1489,
+            24.9631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "dubai-tram-palm-monorail-apms-arabia-emirados",
+        "linha": "Dubai Tram (JBR – Dubai Marina – Al Sufouh sem Catenária APS) & Palm Jumeirah Monorail (Gateway – Al Ittihad Park – Nakheel Mall – Atlantis Aquaventure)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Dubai Tram (Al Sufouh APS sem Catenária), Palm Jumeirah Monorail & APM de Riad (PNU)",
+        "sistema_nome_en": "Dubai Tram (Catenary-free Al Sufouh APS), Palm Jumeirah Monorail & Riyadh PNU APM",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.1289,
+            25.0725
+          ],
+          [
+            55.1386,
+            25.0778
+          ],
+          [
+            55.1558,
+            25.0992
+          ],
+          [
+            55.1389,
+            25.1142
+          ],
+          [
+            55.1172,
+            25.1306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sar-ferrovias-norte-leste-riad-dammam-al-qurayyat-arabia-saudita",
+        "linha": "SAR North Train (Riad – Majmaah – Qassim/Buraidah – Hail – Al-Jouf – Al-Qurayyat, 200 km/h) & SAR East Train (Riad – Hofuf/Al-Ahsa – Abqaiq – Dammam)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias SAR Norte (Riad–Qassim–Hail–Al-Jouf–Al-Qurayyat 200 km/h) e Leste (Riad–Hofuf–Dammam)",
+        "sistema_nome_en": "SAR North Train (Riyadh–Qassim–Hail–Al-Jouf–Al-Qurayyat 200 km/h) & East Train (Riyadh–Hofuf–Dammam)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3428,
+            31.3317
+          ],
+          [
+            40.1,
+            29.9697
+          ],
+          [
+            41.7208,
+            27.5114
+          ],
+          [
+            43.975,
+            26.326
+          ],
+          [
+            46.738,
+            24.812
+          ],
+          [
+            46.7367,
+            24.6486
+          ],
+          [
+            49.5833,
+            25.3833
+          ],
+          [
+            50.1033,
+            26.4207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "etihad-rail-emirados-corredor-fosfato-bauxita-maaden-sar-arabia",
+        "linha": "Etihad Rail (Rede Nacional dos Emirados: Fronteira Al Ghuwaifat – Ruwais – Shah/Habshan – Porto Khalifa Abu Dhabi – Porto Jebel Ali Dubai – Sharjah – Porto de Fujairah)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Etihad Rail (Rede Nacional dos Emirados: Al Ghuwaifat–Abu Dhabi–Dubai–Fujairah) & Corredor Mineral Ma'aden SAR",
+        "sistema_nome_en": "Etihad Rail (UAE National Freight Network: Al Ghuwaifat–Abu Dhabi–Dubai–Fujairah) & SAR Ma'aden Mineral Corridor",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.6167,
+            24.1167
+          ],
+          [
+            52.7306,
+            24.1103
+          ],
+          [
+            53.8,
+            23.0
+          ],
+          [
+            54.675,
+            24.795
+          ],
+          [
+            55.061,
+            24.9857
+          ],
+          [
+            56.3536,
+            25.1288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "etihad-rail-emirados-corredor-fosfato-bauxita-maaden-sar-arabia",
+        "linha": "Corredor Mineral Heavy-Haul SAR / Ma'aden: Minas de Fosfato de Wa'ad Al-Shamal e Al-Jalamid – Minas de Bauxita de Al-Ba'itha – Porto Industrial de Ras Al-Khair (Golfo Pérsico)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Etihad Rail (Rede Nacional dos Emirados: Al Ghuwaifat–Abu Dhabi–Dubai–Fujairah) & Corredor Mineral Ma'aden SAR",
+        "sistema_nome_en": "Etihad Rail (UAE National Freight Network: Al Ghuwaifat–Abu Dhabi–Dubai–Fujairah) & SAR Ma'aden Mineral Corridor",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.85,
+            31.65
+          ],
+          [
+            39.9,
+            31.28
+          ],
+          [
+            44.2,
+            27.45
+          ],
+          [
+            49.19,
+            27.54
+          ]
+        ]
+      }
     }
   ]
 }
