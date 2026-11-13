@@ -26429,6 +26429,230 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "fiji-sugar-corporation-railway-viti-levu-lautoka-ba-rarawai-tavua-sigatoka-fiji",
+        "linha": "Linha Tronco Canavieira de Viti Levu: Nadi – Usina de Lautoka – Usina de Rarawai (Ba) – Tavua – Rakiraki (Bitola 610 mm)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Fiji Sugar Corporation Railway — Rede Canavieira de Viti Levu (Lautoka – Ba/Rarawai – Tavua – Rakiraki e Sigatoka, Fiji)",
+        "sistema_nome_en": "Fiji Sugar Corporation Railway — Viti Levu Cane Network (Lautoka – Ba/Rarawai – Tavua – Rakiraki & Sigatoka, Fiji)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            177.4167,
+            -17.8
+          ],
+          [
+            177.4508,
+            -17.6042
+          ],
+          [
+            177.6764,
+            -17.5342
+          ],
+          [
+            177.8611,
+            -17.4417
+          ],
+          [
+            178.1556,
+            -17.3639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "fiji-sugar-corporation-labasa-railway-vanua-levu-malau-wainikoro-fiji",
+        "linha": "Linha Canavieira de Vanua Levu: Tabia – Usina Açucareira de Labasa – Porto de Malau – Vale de Wainikoro (Bitola 610 mm)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Fiji Sugar Corporation Railway — Malha Canavieira de Labasa e Porto de Malau (Ilha de Vanua Levu, Fiji)",
+        "sistema_nome_en": "Fiji Sugar Corporation Railway — Labasa Cane Network & Malau Port (Vanua Levu Island, Fiji)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              179.28,
+              -16.45
+            ],
+            [
+              179.3667,
+              -16.4333
+            ],
+            [
+              179.5333,
+              -16.3833
+            ]
+          ],
+          [
+            [
+              179.3667,
+              -16.4333
+            ],
+            [
+              179.365,
+              -16.355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "coral-coast-scenic-railway-ecotrax-sigatoka-cuvu-natadola-viti-levu-fiji",
+        "linha": "Linha Turística Costeira Coral Coast & Ecotrax: Sigatoka – Cuvu – Yanuca – Praia de Natadola (Viti Levu, Fiji)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Coral Coast Scenic Railway & Ecotrax Velo-Rail (Ferrovia Turística Costeira de Cuvu – Sigatoka – Natadola, Fiji)",
+        "sistema_nome_en": "Coral Coast Scenic Railway & Ecotrax Velo-Rail (Cuvu – Sigatoka – Natadola Coastal Heritage Line, Fiji)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            177.5089,
+            -18.1419
+          ],
+          [
+            177.4286,
+            -18.1414
+          ],
+          [
+            177.3197,
+            -18.0989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mineradora-niquel-sln-eramet-nepoui-koumac-doniambo-noumea-nova-caledonia",
+        "linha": "Vias Férreas Metalúrgicas da Usina de Níquel SLN de Doniambo (Nouméa) e Ramal Minerador de Népoui (Nova Caledônia)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Industriais e Metalúrgicas de Níquel SLN / Eramet (Fundição de Doniambo em Nouméa e Complexo de Népoui, Nova Caledônia)",
+        "sistema_nome_en": "SLN / Eramet Nickel Industrial & Metallurgical Railways (Doniambo Smelter in Nouméa & Népoui Complex, New Caledonia)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              166.425,
+              -22.263
+            ],
+            [
+              166.4322,
+              -22.2558
+            ],
+            [
+              166.441,
+              -22.248
+            ]
+          ],
+          [
+            [
+              164.9967,
+              -21.3917
+            ],
+            [
+              165.055,
+              -21.345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "petit-train-des-mines-parc-provincial-riviere-bleue-noumea-yate-nova-caledonia",
+        "linha": "Trilhos Patrimoniais da Rivière Bleue (Yaté — Pont Pérignon) e Estação Histórica do Petit Train em Païta (Nova Caledônia)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trilhos Patrimoniais Florestais e Mineradores da Rivière Bleue e Estação Histórica de Païta (Nova Caledônia)",
+        "sistema_nome_en": "Rivière Bleue Forestry & Mining Heritage Railway & Historic Païta Station (New Caledonia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              166.635,
+              -22.115
+            ],
+            [
+              166.6578,
+              -22.1008
+            ],
+            [
+              166.685,
+              -22.092
+            ]
+          ],
+          [
+            [
+              166.3606,
+              -22.1336
+            ],
+            [
+              166.378,
+              -22.152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "nauru-phosphate-corporation-railway-npc-ronphos-aiwo-buada-topside-nauru",
+        "linha": "Ferrovia de Fosfato de Nauru (RONPhos / NPC): Jazidas do Planalto Central (Topside / Buada) – Planta de Secagem e Cantiléveres Marítimos de Aiwo (Bitola 914 mm)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Nauru Phosphate Railway (RONPhos / NPC — Ferrovia Mineradora de Fosfato Aiwo – Buada – Topside, Nauru)",
+        "sistema_nome_en": "Nauru Phosphate Railway (RONPhos / NPC — Aiwo – Buada – Topside Narrow-Gauge Phosphate Railway, Nauru)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            166.9125,
+            -0.5333
+          ],
+          [
+            166.9219,
+            -0.5306
+          ],
+          [
+            166.9317,
+            -0.5256
+          ]
+        ]
+      }
     }
   ]
 }
