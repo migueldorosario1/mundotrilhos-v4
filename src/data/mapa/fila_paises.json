@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T23:15:00-03:00",
+  "atualizado_em": "2026-11-12T23:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -197,15 +197,16 @@
       "bandeira": "🇺🇿🇰🇿",
       "sistemas_operacao": 6,
       "ronda": "Ronda #31 (23:15 BRT — 5 Modalidades)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 28,
       "pais": "Israel e Catar",
-      "bandeira": "🇮🇱",
-      "foco": "Metrô Automático de Doha (Red/Green/Gold Lines) + Lusail Tram, VLTs de Jerusalém (Red Line) e Tel Aviv (Dankal Red Line), Linha Rápida Eletrificada Tel Aviv–Aeroporto Ben Gurion–Jerusalém Yitzhak Navon (160 km/h) e Corredores de Carga de Haifa/Ashdod/Negev"
-    },
+      "bandeira": "🇮🇱🇶🇦",
+      "sistemas_operacao": 6,
+      "ronda": "Ronda #32 (23:45 BRT — 5 Modalidades)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 29,
       "pais": "Nova Zelândia e Vietnã",
@@ -223,6 +224,12 @@
       "pais": "Filipinas e Paquistão",
       "bandeira": "🇵🇭",
       "foco": "Manila LRT-1/LRT-2 e MRT-3 + PNR Commuter, Lahore Orange Line Automated Metro, Malha Principal ML-1 da Pakistan Railways (Karachi–Lahore–Peshawar) e Corredores Portuários de Carga"
+    },
+    {
+      "ordem": 32,
+      "pais": "Ucrânia, Belarus e Geórgia (Leste Europeu e Cáucaso)",
+      "bandeira": "🇺🇦",
+      "foco": "Metrôs Profundos de Kiev (Arsenalna a 105,5 m — mais profunda do mundo), Kharkiv, Dnipro, Minsk e Tbilisi, Expressos Intercity+ Hyundai Rotem, Bondes Rápidos de Kiev/Lviv e Corredores de Grãos/Minério do Mar Negro"
     }
   ]
 }

@@ -13199,6 +13199,225 @@
           44.22
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-rapida-tel-aviv-ben-gurion-jerusalem-160kmh-israel",
+        "nome": "Jerusalem Yitzhak Navon Underground Station (Estação Subterrânea a 80 m de Profundidade)",
+        "linha": "Linha Rápida A1 / VLT de Jerusalém",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Rápida A1 Tel Aviv–Jerusalém",
+          "Jerusalem Light Rail Red Line"
+        ],
+        "sistema_nome_pt": "Linha Ferroviária Rápida Tel Aviv – Aeroporto Ben Gurion – Jerusalém Yitzhak Navon (Linha A1, 160 km/h)",
+        "sistema_nome_en": "Tel Aviv – Ben Gurion Airport – Jerusalem Yitzhak Navon High-Speed Line (Line A1, 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2031,
+          31.7886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-rapida-tel-aviv-ben-gurion-jerusalem-160kmh-israel",
+        "nome": "Ben Gurion International Airport Railway Station (Terminal 3)",
+        "linha": "Linha Rápida A1 / Israel Railways",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Rápida A1",
+          "Trens para Tel Aviv, Jerusalém, Haifa e Modi'in"
+        ],
+        "sistema_nome_pt": "Linha Ferroviária Rápida Tel Aviv – Aeroporto Ben Gurion – Jerusalém Yitzhak Navon (Linha A1, 160 km/h)",
+        "sistema_nome_en": "Tel Aviv – Ben Gurion Airport – Jerusalem Yitzhak Navon High-Speed Line (Line A1, 160 km/h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8886,
+          32.0006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-doha-red-green-gold-lines-catar",
+        "nome": "Msheireb Central Interchange Station (Doha — Maior Estação Subterrânea do Oriente Médio unindo Red, Green e Gold Lines)",
+        "linha": "Doha Metro Red / Green / Gold Lines",
+        "status": "operacao",
+        "integracoes": [
+          "Doha Metro Red Line",
+          "Green Line",
+          "Gold Line",
+          "Msheireb Downtown Tram"
+        ],
+        "sistema_nome_pt": "Metrô de Doha (Doha Metro — Linhas Red, Green e Gold Automáticas GoA4, 100 km/h)",
+        "sistema_nome_en": "Doha Metro (Driverless Red, Green & Gold Lines GoA4, 100 km/h — Qatar Rail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5278,
+          25.2856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-doha-red-green-gold-lines-catar",
+        "nome": "Hamad International Airport T1 Metro Station & Souq Waqif Station (Doha)",
+        "linha": "Doha Metro Red Line / Gold Line",
+        "status": "operacao",
+        "integracoes": [
+          "Doha Metro Red Line",
+          "Aeroporto Internacional Hamad"
+        ],
+        "sistema_nome_pt": "Metrô de Doha (Doha Metro — Linhas Red, Green e Gold Automáticas GoA4, 100 km/h)",
+        "sistema_nome_en": "Doha Metro (Driverless Red, Green & Gold Lines GoA4, 100 km/h — Qatar Rail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.608,
+          25.261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-doha-red-green-gold-lines-catar",
+        "nome": "Lusail QNB & Legtaifiya Interchange Station (Integração Doha Metro Red Line + Lusail Tram APS)",
+        "linha": "Doha Metro Red Line / Lusail Tram",
+        "status": "operacao",
+        "integracoes": [
+          "Doha Metro Red Line",
+          "Lusail Tram Orange Line"
+        ],
+        "sistema_nome_pt": "Metrô de Doha (Doha Metro — Linhas Red, Green e Gold Automáticas GoA4, 100 km/h)",
+        "sistema_nome_en": "Doha Metro (Driverless Red, Green & Gold Lines GoA4, 100 km/h — Qatar Rail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.519,
+          25.435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-jerusalem-red-line-tel-aviv-dankal-israel",
+        "nome": "Damascus Gate & City Hall Light Rail Station (Portão de Damasco — Cidade Velha de Jerusalém)",
+        "linha": "Jerusalem Light Rail Red Line",
+        "status": "operacao",
+        "integracoes": [
+          "Jerusalem Light Rail Red Line"
+        ],
+        "sistema_nome_pt": "VLTs de Jerusalém (Cfir Red Line) e Tel Aviv (Dankal Red Line Petah Tikva–Ramat Gan–Tel Aviv–Bat Yam)",
+        "sistema_nome_en": "Jerusalem Light Rail (Cfir Red Line) & Tel Aviv Light Rail (Dankal Red Line Petah Tikva–Tel Aviv–Bat Yam)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2303,
+          31.7817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-jerusalem-red-line-tel-aviv-dankal-israel",
+        "nome": "Allenby & Yehudit Underground Stations (Tel Aviv Dankal Light Rail Red Line)",
+        "linha": "Tel Aviv Light Rail Red Line",
+        "status": "operacao",
+        "integracoes": [
+          "Dankal Red Line"
+        ],
+        "sistema_nome_pt": "VLTs de Jerusalém (Cfir Red Line) e Tel Aviv (Dankal Red Line Petah Tikva–Ramat Gan–Tel Aviv–Bat Yam)",
+        "sistema_nome_en": "Jerusalem Light Rail (Cfir Red Line) & Tel Aviv Light Rail (Dankal Red Line Petah Tikva–Tel Aviv–Bat Yam)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.772,
+          32.0636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lusail-tram-education-city-msheireb-tram-catar",
+        "nome": "Marina Central & Energy City Stations (Lusail Tram sem Catenária APS)",
+        "linha": "Lusail Tram",
+        "status": "operacao",
+        "integracoes": [
+          "Lusail Tram Orange, Pink & Turquoise Lines"
+        ],
+        "sistema_nome_pt": "Lusail Tram (APS sem Catenária), Education City Tram & Msheireb Downtown Tram (Doha)",
+        "sistema_nome_en": "Lusail Tram (Catenary-free APS), Education City Tram & Msheireb Downtown Tram (Doha)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.519,
+          25.419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "israel-railways-tronco-costeiro-nahariya-haifa-tel-aviv-beersheba",
+        "nome": "Tel Aviv Savidor Central Station (Maior Hub Ferroviário de Israel no Corredor Ayalon)",
+        "linha": "Israel Railways / Dankal Red Line",
+        "status": "operacao",
+        "integracoes": [
+          "Israel Railways (Todas as Linhas)",
+          "Tel Aviv Light Rail Dankal Red Line"
+        ],
+        "sistema_nome_pt": "Malha Nacional da Israel Railways (Nahariya–Haifa–Tel Aviv Ayalon–Ashkelon–Beersheba & Linha do Vale de Jezreel)",
+        "sistema_nome_en": "Israel Railways National Network (Nahariya–Haifa–Tel Aviv Ayalon–Ashkelon–Beersheba & Jezreel Valley Line)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7981,
+          32.0839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-portos-haifa-ashdod-fosfato-negev-israel",
+        "nome": "Terminal Ferroviário do Porto de Ashdod & Porto da Baía de Haifa (Corredor Mineral do Negev)",
+        "linha": "Israel Railways Cargo",
+        "status": "operacao",
+        "integracoes": [
+          "Israel Railways Cargo",
+          "Porto Marítimo de Ashdod"
+        ],
+        "sistema_nome_pt": "Corredores Ferroviários de Carga dos Portos de Haifa e Ashdod & Minas de Fosfato/Potássio do Deserto de Negev (Dimona / Oron / Tzefa)",
+        "sistema_nome_en": "Haifa & Ashdod Port Freight Corridors and Negev Desert Phosphate/Potash Railways (Dimona / Oron / Tzefa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.65,
+          31.83
+        ]
+      }
     }
   ]
 }

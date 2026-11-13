@@ -18132,6 +18132,296 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-rapida-tel-aviv-ben-gurion-jerusalem-160kmh-israel",
+        "linha": "Linha Ferroviária Rápida A1 (160 km/h): Herzliya – Tel Aviv Savidor Central – Tel Aviv HaShalom – Aeroporto Internacional Ben Gurion – Jerusalém Yitzhak Navon (80 m de profundidade)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Linha Ferroviária Rápida Tel Aviv – Aeroporto Ben Gurion – Jerusalém Yitzhak Navon (Linha A1, 160 km/h)",
+        "sistema_nome_en": "Tel Aviv – Ben Gurion Airport – Jerusalem Yitzhak Navon High-Speed Line (Line A1, 160 km/h)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.819,
+            32.164
+          ],
+          [
+            34.7981,
+            32.0839
+          ],
+          [
+            34.7931,
+            32.0733
+          ],
+          [
+            34.8886,
+            32.0006
+          ],
+          [
+            35.2031,
+            31.7886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-doha-red-green-gold-lines-catar",
+        "linha": "Doha Metro Red Line (Lusail QNB – West Bay – Msheireb – Hamad International Airport / Al Wakrah), Green Line (Al Riffa Mall of Qatar – Education City – Msheireb – Al Mansoura) & Gold Line (Al Aziziyah – Souq Waqif – Msheireb – Ras Bu Abboud)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Doha (Doha Metro — Linhas Red, Green e Gold Automáticas GoA4, 100 km/h)",
+        "sistema_nome_en": "Doha Metro (Driverless Red, Green & Gold Lines GoA4, 100 km/h — Qatar Rail)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.519,
+            25.435
+          ],
+          [
+            51.531,
+            25.325
+          ],
+          [
+            51.5278,
+            25.2856
+          ],
+          [
+            51.608,
+            25.261
+          ],
+          [
+            51.595,
+            25.17
+          ],
+          [
+            51.5278,
+            25.2856
+          ],
+          [
+            51.439,
+            25.318
+          ],
+          [
+            51.348,
+            25.329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-jerusalem-red-line-tel-aviv-dankal-israel",
+        "linha": "Jerusalem Light Rail Red Line (Neve Yaakov – Portão de Damasco – Rua Jaffa – Estação Central Yitzhak Navon – Monte Herzl – Hospital Hadassah Ein Kerem)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs de Jerusalém (Cfir Red Line) e Tel Aviv (Dankal Red Line Petah Tikva–Ramat Gan–Tel Aviv–Bat Yam)",
+        "sistema_nome_en": "Jerusalem Light Rail (Cfir Red Line) & Tel Aviv Light Rail (Dankal Red Line Petah Tikva–Tel Aviv–Bat Yam)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.242,
+            31.842
+          ],
+          [
+            35.2303,
+            31.7817
+          ],
+          [
+            35.2031,
+            31.7886
+          ],
+          [
+            35.181,
+            31.774
+          ],
+          [
+            35.149,
+            31.765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-jerusalem-red-line-tel-aviv-dankal-israel",
+        "linha": "Tel Aviv Light Rail Dankal Red Line (Petah Tikva – Bnei Brak – Ramat Gan Subterrâneo – Tel Aviv Savidor / Allenby / Jaffa – Bat Yam)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLTs de Jerusalém (Cfir Red Line) e Tel Aviv (Dankal Red Line Petah Tikva–Ramat Gan–Tel Aviv–Bat Yam)",
+        "sistema_nome_en": "Jerusalem Light Rail (Cfir Red Line) & Tel Aviv Light Rail (Dankal Red Line Petah Tikva–Tel Aviv–Bat Yam)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.888,
+            32.092
+          ],
+          [
+            34.825,
+            32.088
+          ],
+          [
+            34.7981,
+            32.0839
+          ],
+          [
+            34.772,
+            32.0636
+          ],
+          [
+            34.757,
+            32.049
+          ],
+          [
+            34.745,
+            32.013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lusail-tram-education-city-msheireb-tram-catar",
+        "linha": "Lusail Tram (Legtaifiya Interchange – Marina – Energy City – Lusail Boulevard sem Catenária APS) & Education City Tram (Doha)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Lusail Tram (APS sem Catenária), Education City Tram & Msheireb Downtown Tram (Doha)",
+        "sistema_nome_en": "Lusail Tram (Catenary-free APS), Education City Tram & Msheireb Downtown Tram (Doha)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.519,
+            25.367
+          ],
+          [
+            51.526,
+            25.394
+          ],
+          [
+            51.519,
+            25.419
+          ],
+          [
+            51.519,
+            25.435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "israel-railways-tronco-costeiro-nahariya-haifa-tel-aviv-beersheba",
+        "linha": "Tronco Costeiro & Negev da Israel Railways: Nahariya – Akko – Haifa (Hof HaKarmel) – Netanya – Corredor Ayalon de Tel Aviv – Ashdod – Ashkelon – Beersheba – Dimona",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Nacional da Israel Railways (Nahariya–Haifa–Tel Aviv Ayalon–Ashkelon–Beersheba & Linha do Vale de Jezreel)",
+        "sistema_nome_en": "Israel Railways National Network (Nahariya–Haifa–Tel Aviv Ayalon–Ashkelon–Beersheba & Jezreel Valley Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.0989,
+            33.0056
+          ],
+          [
+            34.9892,
+            32.8219
+          ],
+          [
+            34.855,
+            32.321
+          ],
+          [
+            34.7981,
+            32.0839
+          ],
+          [
+            34.666,
+            31.775
+          ],
+          [
+            34.596,
+            31.669
+          ],
+          [
+            34.7983,
+            31.2431
+          ],
+          [
+            35.012,
+            31.069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-portos-haifa-ashdod-fosfato-negev-israel",
+        "linha": "Corredor Mineral de Carga do Negev: Minas de Fosfato e Potássio de Tzefa / Oron / Monte Sodom – Dimona – Beersheba – Porto de Ashdod & Porto de Haifa",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Carga dos Portos de Haifa e Ashdod & Minas de Fosfato/Potássio do Deserto de Negev (Dimona / Oron / Tzefa)",
+        "sistema_nome_en": "Haifa & Ashdod Port Freight Corridors and Negev Desert Phosphate/Potash Railways (Dimona / Oron / Tzefa)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.185,
+            31.05
+          ],
+          [
+            35.012,
+            31.069
+          ],
+          [
+            34.7983,
+            31.2431
+          ],
+          [
+            34.65,
+            31.83
+          ],
+          [
+            35.01,
+            32.815
+          ]
+        ]
+      }
     }
   ]
 }
