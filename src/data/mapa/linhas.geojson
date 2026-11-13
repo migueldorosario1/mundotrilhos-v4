@@ -26197,6 +26197,238 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tren-urbano-san-juan-bayamon-rio-piedras-hato-rey-sagrado-corazon-porto-rico",
+        "linha": "Linha 1 do Tren Urbano de San Juan: Bayamón – Deportivo – Martínez Nadal – Centro Médico – Río Piedras (Subterrânea) – Hato Rey – Sagrado Corazón",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Tren Urbano de San Juan (ATI / DTOP — Metrô Pesado Automatizado Bayamón – Río Piedras – Hato Rey – Sagrado Corazón, Porto Rico)",
+        "sistema_nome_en": "San Juan Tren Urbano (ATI / DTOP — Automated Heavy Rail Metro Bayamón – Río Piedras – Hato Rey – Sagrado Corazón, Puerto Rico)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.1558,
+            18.3997
+          ],
+          [
+            -66.1353,
+            18.3936
+          ],
+          [
+            -66.1031,
+            18.3928
+          ],
+          [
+            -66.0736,
+            18.3942
+          ],
+          [
+            -66.0522,
+            18.4006
+          ],
+          [
+            -66.0592,
+            18.4194
+          ],
+          [
+            -66.0606,
+            18.4414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "st-kitts-scenic-railway-basseterre-needsmust-sandy-point-la-vallee-sao-cristovao-e-nevis",
+        "linha": "Circuito Costeiro St. Kitts Scenic Railway: Needsmust (Basseterre) – Cayon – Dieppe Bay – Sandy Point – La Vallée (Bitola Estreita 762 mm)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "St. Kitts Scenic Railway (O \"Último Trem Canavieiro do Caribe\" — Circuito Ferroviário Costeiro de São Cristóvão e Névis)",
+        "sistema_nome_en": "St. Kitts Scenic Railway (The \"Last Railway in the West Indies\" — Coastal Narrow-Gauge Rail Tour of Saint Kitts and Nevis)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.7072,
+            17.3136
+          ],
+          [
+            -62.7314,
+            17.3561
+          ],
+          [
+            -62.785,
+            17.405
+          ],
+          [
+            -62.8147,
+            17.4144
+          ],
+          [
+            -62.8475,
+            17.3619
+          ],
+          [
+            -62.8386,
+            17.3458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "st-nicholas-abbey-heritage-railway-cherry-tree-hill-st-peter-barbados",
+        "linha": "Linha Patrimonial a Vapor St. Nicholas Abbey – Moore Hill – Mirante de Cherry Tree Hill (Saint Peter, Barbados)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "St. Nicholas Abbey Heritage Railway (Ferrovia Patrimonial a Vapor St. Nicholas Abbey – Cherry Tree Hill, Barbados)",
+        "sistema_nome_en": "St. Nicholas Abbey Heritage Railway (Narrow-Gauge Steam Railway St. Nicholas Abbey – Cherry Tree Hill, Barbados)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -59.5964,
+            13.2747
+          ],
+          [
+            -59.5897,
+            13.2764
+          ],
+          [
+            -59.5819,
+            13.2789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "fegua-museo-del-ferrocarril-tren-historico-cidade-da-guatemala-ermita-guatemala",
+        "linha": "Linha Urbana Patrimonial FEGUA Estación Central (Zona 1) – Estación Gerona – Ponte de Las Vacas – Estación La Ermita (Zona 6, Cidade da Guatemala)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "FEGUA Guatemala (Ferrocarriles de Guatemala — Expresso Patrimonial Urbano Estación Central Zona 1 – La Ermita e Corredor Atanasio Tzul)",
+        "sistema_nome_en": "FEGUA Guatemala (Guatemalan Railways — Urban Heritage Express Estación Central Zone 1 – La Ermita & Atanasio Tzul Corridor)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.5311,
+            14.5967
+          ],
+          [
+            -90.5114,
+            14.6292
+          ],
+          [
+            -90.4956,
+            14.6481
+          ],
+          [
+            -90.4858,
+            14.6564
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carga-porto-quetzal-escuintla-puerto-barrios-fegua-ferrovias-guatemala",
+        "linha": "Corredor Pacífico Escuintla – Puerto San José / Puerto Quetzal e Trecho Atlântico Puerto Barrios – Entre Ríos (Guatemala)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários Logísticos da Guatemala (Eixo Atlântico Puerto Barrios e Ramal Pacífico Escuintla – Puerto Quetzal FEGUA)",
+        "sistema_nome_en": "Guatemala Logistics Rail Corridors (Puerto Barrios Atlantic Axis & Escuintla – Puerto Quetzal Pacific Branch FEGUA)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -90.785,
+              14.305
+            ],
+            [
+              -90.8122,
+              14.085
+            ],
+            [
+              -90.7917,
+              13.9214
+            ]
+          ],
+          [
+            [
+              -88.5944,
+              15.7278
+            ],
+            [
+              -88.75,
+              15.5333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-industriais-acucar-cimento-ponce-aguirre-guayanilla-porto-rico",
+        "linha": "Ramal Técnico de Manutenção Pesada de Luchetti (Bayamón) e Ferrovia Histórica Açucareira de Central Aguirre – Arroyo (Porto Rico)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Complexo Ferroviário de Manutenção Pesada de Luchetti (Bayamón) e Trilhos Patrimoniais Açucareiros de Central Aguirre / Arroyo (Porto Rico)",
+        "sistema_nome_en": "Luchetti Heavy Rail Maintenance Complex (Bayamón) & Central Aguirre / Arroyo Sugar Heritage Railways (Puerto Rico)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -66.1558,
+              18.3997
+            ],
+            [
+              -66.165,
+              18.382
+            ]
+          ],
+          [
+            [
+              -66.2244,
+              17.9567
+            ],
+            [
+              -66.0614,
+              17.9658
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
