@@ -12761,6 +12761,227 @@
           25.1288
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-medellin-linhas-a-b-colombia",
+        "nome": "San Antonio Central Interchange (Medellín — Integração Linhas A e B do Metrô + Tranvía de Ayacucho T-A)",
+        "linha": "Metro de Medellín L-A / L-B / Tranvía T-A",
+        "status": "operacao",
+        "integracoes": [
+          "Metro Linha A",
+          "Metro Linha B",
+          "Tranvía de Ayacucho T-A"
+        ],
+        "sistema_nome_pt": "Metrô de Medellín (Linhas A e B — Vale de Aburrá)",
+        "sistema_nome_en": "Medellín Metro (Lines A & B — Aburrá Valley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5698,
+          6.2476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-medellin-linhas-a-b-colombia",
+        "nome": "Estación Acevedo & San Javier (Medellín — Integração Metrô + Teleféricos Urbanos Metrocable Linhas K, P e J)",
+        "linha": "Metro de Medellín / Metrocable",
+        "status": "operacao",
+        "integracoes": [
+          "Metro Linha A",
+          "Metrocable Linha K (Santo Domingo)",
+          "Metrocable Linha P"
+        ],
+        "sistema_nome_pt": "Metrô de Medellín (Linhas A e B — Vale de Aburrá)",
+        "sistema_nome_en": "Medellín Metro (Lines A & B — Aburrá Valley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5583,
+          6.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-lima-callao-linhas-1-2-peru",
+        "nome": "Estación La Cultura (San Borja, Lima — Junto ao Museu da Nação e Gran Teatro Nacional)",
+        "linha": "Metrô de Lima Linha 1",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô de Lima Linha 1",
+          "Corredor Rojo de Ônibus Rápidos"
+        ],
+        "sistema_nome_pt": "Metrô de Lima e Callao (Linha 1 Elevada & Linha 2 Subterrânea Automática GoA4)",
+        "sistema_nome_en": "Lima and Callao Metro (Elevated Line 1 & Driverless Underground Line 2 GoA4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0044,
+          -12.0886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-lima-callao-linhas-1-2-peru",
+        "nome": "Estación Mercado Santa Anita & Evitamiento (Lima — 1º Trecho Subterrâneo Automático GoA4 do Peru)",
+        "linha": "Metrô de Lima Linha 2",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô de Lima Linha 2 Subterrânea Automática GoA4"
+        ],
+        "sistema_nome_pt": "Metrô de Lima e Callao (Linha 1 Elevada & Linha 2 Subterrânea Automática GoA4)",
+        "sistema_nome_en": "Lima and Callao Metro (Elevated Line 1 & Driverless Underground Line 2 GoA4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.956,
+          -12.046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tranvia-ayacucho-medellin-bonde-historico-lima-barrancon",
+        "nome": "Estación Oriente (Medellín — Terminal do VLT Tranvía de Ayacucho + Metrocable Linhas H e M)",
+        "linha": "Tranvía de Ayacucho T-A",
+        "status": "operacao",
+        "integracoes": [
+          "Tranvía de Ayacucho",
+          "Metrocable Linha H"
+        ],
+        "sistema_nome_pt": "Tranvía de Ayacucho (VLT Linha T-A de Medellín) & Bonde Elétrico de Barranco (Lima)",
+        "sistema_nome_en": "Ayacucho Tramway (Medellín Line T-A Translohr LRT) & Barranco Heritage Tram (Lima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5397,
+          6.2358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-central-andino-lima-huancayo-cusco-machu-picchu-peru",
+        "nome": "Estación Desamparados (Centro Histórico de Lima, 1912) & Passo Ferroviário de Ticlio/Galera (4.781 m de Altitude)",
+        "linha": "Ferrocarril Central Andino",
+        "status": "operacao",
+        "integracoes": [
+          "Trem Turístico Lima–Huancayo",
+          "Corredor Mineral Andino"
+        ],
+        "sistema_nome_pt": "Ferrocarril Central Andino (Lima–La Oroya–Huancayo a 4.781 m) & Ferrovias de Cusco–Machu Picchu e Puno–Titicaca",
+        "sistema_nome_en": "Central Andean Railway (Lima–La Oroya–Huancayo at 4,781 m) & Cusco–Machu Picchu / Lake Titicaca Railways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0283,
+          -12.0444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-central-andino-lima-huancayo-cusco-machu-picchu-peru",
+        "nome": "Estación Machu Picchu Pueblo (Águas Calientes — Portal Ferroviário da Cidadela Inca)",
+        "linha": "Ferrocarril Sur Oriente (PeruRail / Inca Rail)",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Vistadome, Expedition e Hiram Bingham para Cusco/Ollantaytambo"
+        ],
+        "sistema_nome_pt": "Ferrocarril Central Andino (Lima–La Oroya–Huancayo a 4.781 m) & Ferrovias de Cusco–Machu Picchu e Puno–Titicaca",
+        "sistema_nome_en": "Central Andean Railway (Lima–La Oroya–Huancayo at 4,781 m) & Cusco–Machu Picchu / Lake Titicaca Railways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5253,
+          -13.1547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-central-andino-lima-huancayo-cusco-machu-picchu-peru",
+        "nome": "Estación de Ollantaytambo (Vale Sagrado dos Incas) & Estación Wanchaq / Poroy (Cusco)",
+        "linha": "Ferrocarril Sur Oriente",
+        "status": "operacao",
+        "integracoes": [
+          "PeruRail",
+          "Inca Rail",
+          "Andean Explorer Cusco–Lago Titicaca"
+        ],
+        "sistema_nome_pt": "Ferrocarril Central Andino (Lima–La Oroya–Huancayo a 4.781 m) & Ferrovias de Cusco–Machu Picchu e Puno–Titicaca",
+        "sistema_nome_en": "Central Andean Railway (Lima–La Oroya–Huancayo at 4,781 m) & Cusco–Machu Picchu / Lake Titicaca Railways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2656,
+          -13.2636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tren-de-la-sabana-bogota-zipaquira-paz-del-rio-colombia",
+        "nome": "Estación de la Sabana (Bogotá, 1917) & Estación de Zipaquirá (Catedral de Sal)",
+        "linha": "Tren de la Sabana",
+        "status": "operacao",
+        "integracoes": [
+          "Tren Turístico de la Sabana",
+          "TransMilenio"
+        ],
+        "sistema_nome_pt": "Tren de la Sabana de Bogotá (Bogotá – Usaquén – Chía – Cajicá – Zipaquirá) & Corredor Bogotá–Belencito",
+        "sistema_nome_en": "Bogotá Savannah Train (Bogotá – Usaquén – Chía – Cajicá – Zipaquirá) & Bogotá–Belencito Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0906,
+          4.6147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-carvao-cerrejon-fenoco-minerais-andes-colombia-peru",
+        "nome": "Terminal Ferroviário de Puerto Bolívar (Cerrejón, La Guajira) & Porto de Santa Marta (Fenoco)",
+        "linha": "Corredores de Carvão do Caribe Colombiano",
+        "status": "operacao",
+        "integracoes": [
+          "Ferrovia de Bitola Padrão Cerrejón",
+          "Porto Marítimo de Puerto Bolívar"
+        ],
+        "sistema_nome_pt": "Ferrovias de Carvão Cerrejón (La Guajira) & Fenoco (Chiriguaná–Santa Marta) + Corredores Minerais Andinos (Callao/Matarani)",
+        "sistema_nome_en": "Cerrejón (La Guajira) & Fenoco (Chiriguaná–Santa Marta) Coal Railways + Peruvian Andean Mineral Corridors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.956,
+          12.227
+        ]
+      }
     }
   ]
 }
