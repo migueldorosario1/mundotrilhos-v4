@@ -18082,6 +18082,196 @@
           33.8969
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfl-rede-nacional-eletrificada-gratuita-luxemburgo-troisvierges-esch-wasserbillig-arlon",
+        "nome": "Gare Centrale de Luxembourg (CFL / TGV / Luxtram)",
+        "linha": "CFL Linhas 10, 30, 50, 60, 70, TGV InOui e Luxtram T1",
+        "status": "operacao",
+        "integracoes": "Hub Central do Transporte 100% Gratuito de Luxemburgo / TGV Paris / Luxtram T1",
+        "sistema_nome_pt": "CFL — Rede Ferroviária Nacional 100% Gratuita de Luxemburgo (Linhas 10, 30, 50, 60 e 70 — Troisvierges / Esch / Wasserbillig)",
+        "sistema_nome_en": "CFL — Luxembourg 100% Free National Electrified Railway Network (Lines 10, 30, 50, 60 & 70 — Troisvierges / Esch / Wasserbillig)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1342,
+          49.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "luxtram-vlt-cidade-de-luxemburgo-aeroporto-findel-kirchberg-cloche-dor-luxemburgo",
+        "nome": "Pfaffenthal-Kirchberg (Gare CFL, Funicular e Luxtram Rout Bréck-Pafendall)",
+        "linha": "Luxtram Linha T1 e Linhas CFL 10/30",
+        "status": "operacao",
+        "integracoes": "Funicular Duplo Pfaffenthal-Kirchberg / Ponte Grã-Duquesa Charlotte / Instituições da UE",
+        "sistema_nome_pt": "Luxtram — VLT da Cidade de Luxemburgo (Linha T1 Stade de Luxembourg – Gare Centrale – Kirchberg – Aeroporto Findel & Funicular)",
+        "sistema_nome_en": "Luxtram — Luxembourg City LRT (Line T1 Stade de Luxembourg – Gare Centrale – Kirchberg – Findel Airport & Funicular)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1331,
+          49.6186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "luxtram-vlt-cidade-de-luxemburgo-aeroporto-findel-kirchberg-cloche-dor-luxemburgo",
+        "nome": "Estação Findel — Luxembourg Airport (Luxtram T1)",
+        "linha": "Luxtram Linha T1 (Stade de Luxembourg – Findel)",
+        "status": "operacao",
+        "integracoes": "Aeroporto Internacional de Luxemburgo-Findel",
+        "sistema_nome_pt": "Luxtram — VLT da Cidade de Luxemburgo (Linha T1 Stade de Luxembourg – Gare Centrale – Kirchberg – Aeroporto Findel & Funicular)",
+        "sistema_nome_en": "Luxtram — Luxembourg City LRT (Line T1 Stade de Luxembourg – Gare Centrale – Kirchberg – Findel Airport & Funicular)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2044,
+          49.6336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfl-rede-nacional-eletrificada-gratuita-luxemburgo-troisvierges-esch-wasserbillig-arlon",
+        "nome": "Gare de Belval-Université (Esch-sur-Alzette — CFL)",
+        "linha": "CFL Linha 60 (Luxemburgo – Esch-sur-Alzette – Rodange)",
+        "status": "operacao",
+        "integracoes": "Universidade de Luxemburgo / Altos-Fornos Históricos de Belval",
+        "sistema_nome_pt": "CFL — Rede Ferroviária Nacional 100% Gratuita de Luxemburgo (Linhas 10, 30, 50, 60 e 70 — Troisvierges / Esch / Wasserbillig)",
+        "sistema_nome_en": "CFL — Luxembourg 100% Free National Electrified Railway Network (Lines 10, 30, 50, 60 & 70 — Troisvierges / Esch / Wasserbillig)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9553,
+          49.5019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfl-rede-nacional-eletrificada-gratuita-luxemburgo-troisvierges-esch-wasserbillig-arlon",
+        "nome": "Gare d'Ettelbruck (Hub Norte CFL)",
+        "linha": "CFL Linha 10 (Luxemburgo – Ettelbruck – Troisvierges / Diekirch)",
+        "status": "operacao",
+        "integracoes": "Entroncamento Multimodal do Norte de Luxemburgo (Nordstad)",
+        "sistema_nome_pt": "CFL — Rede Ferroviária Nacional 100% Gratuita de Luxemburgo (Linhas 10, 30, 50, 60 e 70 — Troisvierges / Esch / Wasserbillig)",
+        "sistema_nome_en": "CFL — Luxembourg 100% Free National Electrified Railway Network (Lines 10, 30, 50, 60 & 70 — Troisvierges / Esch / Wasserbillig)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1042,
+          49.8475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "gare-souterraine-monaco-monte-carlo-ter-zou-tgv-riviera-monaco",
+        "nome": "Gare Souterraine de Monaco-Monte-Carlo (Principado de Mônaco)",
+        "linha": "Corredor TER Sud ZOU! & TGV (Nice-Ville – Monaco-Monte-Carlo – Ventimiglia)",
+        "status": "operacao",
+        "integracoes": "Galerias Subterrâneas para La Condamine, Port Hercule e Monte-Carlo",
+        "sistema_nome_pt": "Ferrovia Subterrânea de Mônaco (Gare de Monaco-Monte-Carlo — Corredor TER Sud ZOU! & TGV Nice – Mônaco – Ventimiglia)",
+        "sistema_nome_en": "Monaco Underground Railway (Gare de Monaco-Monte-Carlo — TER Sud ZOU! & TGV Nice – Monaco – Ventimiglia Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4192,
+          43.7386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-feldkirch-buchs-obb-schaan-vaduz-forst-hilti-nendeln-liechtenstein",
+        "nome": "Bahnhof Schaan-Vaduz (Liechtenstein — ÖBB)",
+        "linha": "Linha Buchs SG – Schaan-Vaduz – Feldkirch",
+        "status": "operacao",
+        "integracoes": "Terminal Central de Ônibus LIEmobil para Vaduz e todo o Principado de Liechtenstein",
+        "sistema_nome_pt": "Ferrovia de Liechtenstein (Linha ÖBB Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Feldkirch)",
+        "sistema_nome_en": "Liechtenstein Railway (ÖBB Line Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Feldkirch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5089,
+          47.1683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-feldkirch-buchs-obb-schaan-vaduz-forst-hilti-nendeln-liechtenstein",
+        "nome": "Haltestelle Forst Hilti (Schaan, Liechtenstein — ÖBB)",
+        "linha": "Linha Buchs SG – Schaan-Vaduz – Feldkirch",
+        "status": "operacao",
+        "integracoes": "Sede Mundial da Hilti AG em Schaan",
+        "sistema_nome_pt": "Ferrovia de Liechtenstein (Linha ÖBB Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Feldkirch)",
+        "sistema_nome_en": "Liechtenstein Railway (ÖBB Line Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Feldkirch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5244,
+          47.1775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-feldkirch-buchs-obb-schaan-vaduz-forst-hilti-nendeln-liechtenstein",
+        "nome": "Bahnhof Nendeln (Eschen, Liechtenstein — ÖBB)",
+        "linha": "Linha Buchs SG – Schaan-Vaduz – Feldkirch",
+        "status": "operacao",
+        "integracoes": "Única Estação com Bilheteria e Pátio de Cruzamento da ÖBB em Liechtenstein",
+        "sistema_nome_pt": "Ferrovia de Liechtenstein (Linha ÖBB Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Feldkirch)",
+        "sistema_nome_en": "Liechtenstein Railway (ÖBB Line Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Feldkirch)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5419,
+          47.1992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfl-cargo-terminal-intermodal-bettembourg-dudelange-eurohub-sud-luxemburgo",
+        "nome": "Terminal Intermodal Eurohub Sud — Bettembourg-Dudelange (CFL Multimodal)",
+        "linha": "Autopista Ferroviária Europeia (Bettembourg – Le Boulou / Sète / Trieste / Portos do Mar do Norte)",
+        "status": "operacao",
+        "integracoes": "Plataforma Dupla Lohr Railway System (700m) / Eurohub Sud Logistics Park",
+        "sistema_nome_pt": "CFL Cargo & CFL Multimodal (Eurohub Sud Bettembourg-Dudelange — Autopista Ferroviária Europeia e Siderúrgicas Belval)",
+        "sistema_nome_en": "CFL Cargo & CFL Multimodal (Eurohub Sud Bettembourg-Dudelange — European Rail Motorway & Belval Steelworks)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.095,
+          49.5008
+        ]
+      }
     }
   ]
 }

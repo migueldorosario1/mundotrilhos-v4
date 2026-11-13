@@ -24791,6 +24791,258 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "luxtram-vlt-cidade-de-luxemburgo-aeroporto-findel-kirchberg-cloche-dor-luxemburgo",
+        "linha": "Luxtram Linha T1 (Stade de Luxembourg / Cloche d'Or – Gare Centrale – Hamilius – Kirchberg – Aeroporto Findel)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Luxtram — VLT da Cidade de Luxemburgo (Linha T1 Stade de Luxembourg – Gare Centrale – Kirchberg – Aeroporto Findel & Funicular)",
+        "sistema_nome_en": "Luxtram — Luxembourg City LRT (Line T1 Stade de Luxembourg – Gare Centrale – Kirchberg – Findel Airport & Funicular)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1158,
+            49.5772
+          ],
+          [
+            6.1342,
+            49.6
+          ],
+          [
+            6.1264,
+            49.6111
+          ],
+          [
+            6.1331,
+            49.6186
+          ],
+          [
+            6.1669,
+            49.635
+          ],
+          [
+            6.2044,
+            49.6336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tgv-inoui-cfl-luxemburgo-bettembourg-metz-paris-est-alta-velocidade-luxemburgo",
+        "linha": "TGV InOui (Luxemburgo Gare Centrale – Bettembourg – Thionville – Metz-Ville – LGV Est)",
+        "cor": "#ff1744",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "TGV InOui Luxemburgo–França (Luxemburgo Gare Centrale – Bettembourg – Thionville – Metz – LGV Est / Paris)",
+        "sistema_nome_en": "TGV InOui Luxembourg–France (Luxembourg Central – Bettembourg – Thionville – Metz – LGV Est / Paris)",
+        "tipo": "alta_velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1342,
+            49.6
+          ],
+          [
+            6.1028,
+            49.5167
+          ],
+          [
+            6.1686,
+            49.3542
+          ],
+          [
+            6.1772,
+            49.1094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfl-rede-nacional-eletrificada-gratuita-luxemburgo-troisvierges-esch-wasserbillig-arlon",
+        "linha": "CFL Rede Nacional Gratuita (Troisvierges – Ettelbruck – Luxemburgo – Esch-sur-Alzette – Rodange & Kleinbettingen – Luxemburgo – Wasserbillig)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CFL — Rede Ferroviária Nacional 100% Gratuita de Luxemburgo (Linhas 10, 30, 50, 60 e 70 — Troisvierges / Esch / Wasserbillig)",
+        "sistema_nome_en": "CFL — Luxembourg 100% Free National Electrified Railway Network (Lines 10, 30, 50, 60 & 70 — Troisvierges / Esch / Wasserbillig)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              6.0003,
+              50.1194
+            ],
+            [
+              6.0917,
+              49.9611
+            ],
+            [
+              6.1042,
+              49.8475
+            ],
+            [
+              6.1342,
+              49.6
+            ],
+            [
+              6.1028,
+              49.5167
+            ],
+            [
+              5.9819,
+              49.4942
+            ],
+            [
+              5.8436,
+              49.5519
+            ]
+          ],
+          [
+            [
+              5.9158,
+              49.6436
+            ],
+            [
+              6.1342,
+              49.6
+            ],
+            [
+              6.4986,
+              49.7144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "gare-souterraine-monaco-monte-carlo-ter-zou-tgv-riviera-monaco",
+        "linha": "Travessia Ferroviária Subterrânea de Mônaco (Cap-d'Ail – Gare Souterraine de Monaco-Monte-Carlo – Roquebrune-Cap-Martin / Menton)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Subterrânea de Mônaco (Gare de Monaco-Monte-Carlo — Corredor TER Sud ZOU! & TGV Nice – Mônaco – Ventimiglia)",
+        "sistema_nome_en": "Monaco Underground Railway (Gare de Monaco-Monte-Carlo — TER Sud ZOU! & TGV Nice – Monaco – Ventimiglia Corridor)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.3928,
+            43.7208
+          ],
+          [
+            7.4192,
+            43.7386
+          ],
+          [
+            7.4425,
+            43.7519
+          ],
+          [
+            7.4928,
+            43.7744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-feldkirch-buchs-obb-schaan-vaduz-forst-hilti-nendeln-liechtenstein",
+        "linha": "Linha ÖBB de Liechtenstein (Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Schaanwald – Feldkirch)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia de Liechtenstein (Linha ÖBB Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Feldkirch)",
+        "sistema_nome_en": "Liechtenstein Railway (ÖBB Line Buchs SG – Schaan-Vaduz – Forst Hilti – Nendeln – Feldkirch)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4792,
+            47.1683
+          ],
+          [
+            9.5089,
+            47.1683
+          ],
+          [
+            9.5244,
+            47.1775
+          ],
+          [
+            9.5419,
+            47.1992
+          ],
+          [
+            9.5617,
+            47.2139
+          ],
+          [
+            9.5983,
+            47.2411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cfl-cargo-terminal-intermodal-bettembourg-dudelange-eurohub-sud-luxemburgo",
+        "linha": "Corredor CFL Cargo & Autopista Ferroviária (Eurohub Sud Bettembourg-Dudelange – Siderúrgicas Belval / Differdange – Porto Fluvial de Mertert)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "CFL Cargo & CFL Multimodal (Eurohub Sud Bettembourg-Dudelange — Autopista Ferroviária Europeia e Siderúrgicas Belval)",
+        "sistema_nome_en": "CFL Cargo & CFL Multimodal (Eurohub Sud Bettembourg-Dudelange — European Rail Motorway & Belval Steelworks)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8914,
+            49.5244
+          ],
+          [
+            5.9553,
+            49.5019
+          ],
+          [
+            6.095,
+            49.5008
+          ],
+          [
+            6.1342,
+            49.6
+          ],
+          [
+            6.48,
+            49.7025
+          ]
+        ]
+      }
     }
   ]
 }
