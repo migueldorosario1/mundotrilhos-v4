@@ -16721,6 +16721,227 @@
           27.1333
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-bratislava-kosice-ferrovia-eletrica-altos-tatras-tez-eslovaquia",
+        "nome": "Bratislava Hlavná Stanica e Ponte Starý Most sobre o Danúbio (Rede de Bondes DPB e Expressos ZSSK)",
+        "linha": "Bondes de Bratislava Linhas 1, 3, 4 e 9 e Corredor ZSSK",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Internacionais para Viena, Budapeste e Praga",
+          "VLT de Petržalka sobre a Ponte Starý Most"
+        ],
+        "sistema_nome_pt": "Redes de Bondes (VLT) de Bratislava e Košice e Ferrovia Elétrica Alpina dos Altos Tatras (TEŽ — Eslováquia)",
+        "sistema_nome_en": "Bratislava & Košice Tramway Networks & Tatra Electric Railway (TEŽ High Tatras — Slovakia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1067,
+          48.1586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-bratislava-kosice-ferrovia-eletrica-altos-tatras-tez-eslovaquia",
+        "nome": "Estação Alpina de Štrbské Pleso e Poprad-Tatry (Ferrovia Elétrica e Cremalheira dos Altos Tatras TEŽ/OŽ a 1.350 m)",
+        "linha": "Ferrovia Elétrica dos Altos Tatras (TEŽ)",
+        "status": "operacao",
+        "integracoes": [
+          "Ferrovia de Cremalheira Štrba–Štrbské Pleso",
+          "Trens Stadler GTW 2/6 dos Altos Tatras"
+        ],
+        "sistema_nome_pt": "Redes de Bondes (VLT) de Bratislava e Košice e Ferrovia Elétrica Alpina dos Altos Tatras (TEŽ — Eslováquia)",
+        "sistema_nome_en": "Bratislava & Košice Tramway Networks & Tatra Electric Railway (TEŽ High Tatras — Slovakia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0636,
+          49.1194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-riga-liepaja-tallinn-vlt-balticos-letonia-estonia",
+        "nome": "Rīgas Pasažieru Stacija (Estação Central de Riga — Hub de Bondes Rīgas Satiksme e Trens Elétricos Vivi)",
+        "linha": "Redes de Bondes de Riga e Trens Suburbanos Vivi",
+        "status": "operacao",
+        "integracoes": [
+          "Bondes Škoda 15T ForCity de Riga",
+          "Trens Elétricos Škoda 16Ev para Jūrmala e Sigulda",
+          "Futura Estação Central Rail Baltica"
+        ],
+        "sistema_nome_pt": "Redes de Bondes (VLT) de Riga e Liepāja (Letônia) e Rede de Bondes de Tallinn — Porto Vanasadam e Aeroporto (Estônia)",
+        "sistema_nome_en": "Riga & Liepāja Tram Networks (Latvia) & Tallinn Tramway — Old City Harbor & Airport Lines (Estonia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1217,
+          56.9461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "elron-estonia-vivi-letonia-trens-eletricos-stadler-flirt-skoda-balticos",
+        "nome": "Tallinn Balti Jaam (Estação Báltica de Tallinn — Hub Nacional dos Trens Stadler FLIRT Elron e Bondes TLT)",
+        "linha": "Redes Elron Estônia (Tallinn–Tartu–Narva–Viljandi) e Bondes de Tallinn",
+        "status": "operacao",
+        "integracoes": [
+          "Cidade Velha Medieval de Tallinn (Patrimônio UNESCO)",
+          "Nova Linha de Bonde do Porto de Vanasadam"
+        ],
+        "sistema_nome_pt": "Trens Regionais e Suburbanos Elron (Stadler FLIRT Tallinn–Tartu–Narva na Estônia) e Vivi (Škoda 16Ev Riga–Jūrmala na Letônia)",
+        "sistema_nome_en": "Elron Regional & Suburban Rail (Stadler FLIRT Tallinn–Tartu–Narva in Estonia) & Vivi Electric Rail (Riga–Jūrmala in Latvia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7372,
+          59.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "elron-estonia-vivi-letonia-trens-eletricos-stadler-flirt-skoda-balticos",
+        "nome": "Estação Ferroviária de Tartu e Valga (Eixo Universitário e Integração Fronteiriça Estônia–Letônia)",
+        "linha": "Corredor Tallinn–Tartu–Valga–Riga",
+        "status": "operacao",
+        "integracoes": [
+          "Expresso Elron Tallinn–Tartu",
+          "Conexão Internacional Elron + Vivi Tartu–Valga–Riga"
+        ],
+        "sistema_nome_pt": "Trens Regionais e Suburbanos Elron (Stadler FLIRT Tallinn–Tartu–Narva na Estônia) e Vivi (Škoda 16Ev Riga–Jūrmala na Letônia)",
+        "sistema_nome_en": "Elron Regional & Suburban Rail (Stadler FLIRT Tallinn–Tartu–Narva in Estonia) & Vivi Electric Rail (Riga–Jūrmala in Latvia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7067,
+          58.3739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ltg-link-lituania-vilnius-kaunas-klaipeda-expresso-baltico-riga-varsovia",
+        "nome": "Vilniaus Geležinkelio Stotis (Estação Central de Vilnius e Museu Ferroviário Báltico)",
+        "linha": "Corredores LTG Link Vilnius–Kaunas, Vilnius–Klaipėda e Vilnius–Riga/Varsóvia",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Elétricos de Dois Andares Škoda EJ 575 Vilnius–Kaunas",
+          "Expresso Internacional para Riga e Varsóvia"
+        ],
+        "sistema_nome_pt": "Ferrovias da Lituânia (LTG Link) — Corredor Eletrificado Vilnius–Kaunas, Expresso Vilnius–Klaipėda e Internacional Vilnius–Riga–Varsóvia",
+        "sistema_nome_en": "Lithuanian Railways (LTG Link) — Electrified Vilnius–Kaunas Line, Vilnius–Klaipėda Express & Vilnius–Riga–Warsaw International Rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2844,
+          54.6706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ltg-link-lituania-vilnius-kaunas-klaipeda-expresso-baltico-riga-varsovia",
+        "nome": "Estação Ferroviária de Kaunas e Túnel Histórico de Kaunas (Interconexão Bitola Europeia 1.435 mm e Larga 1.520 mm)",
+        "linha": "Corredor Eletrificado Vilnius–Kaunas e Linha Europeia Kaunas–Mockava–Polônia",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Intermodal de Kaunas (Bitola Europeia Rail Baltica)",
+          "Túnel Ferroviário de Kaunas de 1861"
+        ],
+        "sistema_nome_pt": "Ferrovias da Lituânia (LTG Link) — Corredor Eletrificado Vilnius–Kaunas, Expresso Vilnius–Klaipėda e Internacional Vilnius–Riga–Varsóvia",
+        "sistema_nome_en": "Lithuanian Railways (LTG Link) — Electrified Vilnius–Kaunas Line, Vilnius–Klaipėda Express & Vilnius–Riga–Warsaw International Rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9278,
+          54.8886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zssk-eslovaquia-intercity-bratislava-zilina-kosice-sz-eslovenia-ljubljana-maribor-koper",
+        "nome": "Železniška Postaja Ljubljana (Estação Central de Ljubljana — Coração da Malha Slovenske železnice SŽ)",
+        "linha": "Corredores SŽ Ljubljana–Maribor, Ljubljana–Koper e Ljubljana–Jesenice/Alpes",
+        "status": "operacao",
+        "integracoes": [
+          "Novos Trens de Dois Andares Stadler KISS e FLIRT SŽ",
+          "EuroCity Emona para Viena, Trieste e Zagreb"
+        ],
+        "sistema_nome_pt": "Ferrovias da Eslovênia (SŽ Stadler KISS/FLIRT Ljubljana–Maribor–Koper) e Expresso Nacional ZSSK Bratislava–Žilina–Košice (Eslováquia)",
+        "sistema_nome_en": "Slovenian Railways (SŽ Stadler KISS/FLIRT Ljubljana–Maribor–Koper) & ZSSK InterCity Bratislava–Žilina–Košice (Slovakia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5117,
+          46.0581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zssk-eslovaquia-intercity-bratislava-zilina-kosice-sz-eslovenia-ljubljana-maribor-koper",
+        "nome": "Estação Ferroviária de Košice e Žilina (Eixo Principal Carpático da ZSSK na Eslováquia)",
+        "linha": "Tronco Nacional Eletrificado Bratislava–Žilina–Poprad–Košice",
+        "status": "operacao",
+        "integracoes": [
+          "Rede de Bondes de Košice DPMK",
+          "Expresso InterCity ZSSK e EuroNight para Praga"
+        ],
+        "sistema_nome_pt": "Ferrovias da Eslovênia (SŽ Stadler KISS/FLIRT Ljubljana–Maribor–Koper) e Expresso Nacional ZSSK Bratislava–Žilina–Košice (Eslováquia)",
+        "sistema_nome_en": "Slovenian Railways (SŽ Stadler KISS/FLIRT Ljubljana–Maribor–Koper) & ZSSK InterCity Bratislava–Žilina–Košice (Slovakia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2681,
+          48.7225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-porto-koper-eslovenia-uzkorozchodna-kosice-klaipeda-balticos",
+        "nome": "Terminal Ferroviário do Porto de Koper (Luka Koper — Principal Porta Marítima Ferroviária do Adriático Norte para a Europa Central)",
+        "linha": "Corredor de Carga Koper–Divača–Ljubljana–Maribor (SŽ Tovorni promet)",
+        "status": "operacao",
+        "integracoes": [
+          "Mais de 20.000 Trens de Carga por Ano no Porto de Koper",
+          "Novo 2º Trilho em Túnel Koper–Divača (Drugi Tir)"
+        ],
+        "sistema_nome_pt": "Corredor de Carga do Porto de Koper–Ljubljana–Maribor (SŽ Tovorni Promet), Linha de Bitola Larga de Košice (ZSSK Cargo) e Porto de Klaipėda (LTG Cargo)",
+        "sistema_nome_en": "Port of Koper–Ljubljana–Maribor Freight Corridor (SŽ), Košice Broad-Gauge Ore Line (ZSSK Cargo) & Klaipėda Port Rail (LTG Cargo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.745,
+          45.555
+        ]
+      }
     }
   ]
 }

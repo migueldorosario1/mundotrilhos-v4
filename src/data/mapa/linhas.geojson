@@ -22652,6 +22652,266 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-bratislava-kosice-ferrovia-eletrica-altos-tatras-tez-eslovaquia",
+        "linha": "Rede de Bondes de Bratislava DPB (Dúbravka – Centro – Ponte Stary Most – Petržalka / Zlaté Piesky) e Ferrovia Elétrica dos Altos Tatras TEŽ (Poprad – Starý Smokovec – Štrbské Pleso)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Redes de Bondes (VLT) de Bratislava e Košice e Ferrovia Elétrica Alpina dos Altos Tatras (TEŽ — Eslováquia)",
+        "sistema_nome_en": "Bratislava & Košice Tramway Networks & Tatra Electric Railway (TEŽ High Tatras — Slovakia)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.0369,
+            48.1917
+          ],
+          [
+            17.1077,
+            48.1486
+          ],
+          [
+            17.1128,
+            48.1381
+          ],
+          [
+            17.1156,
+            48.1056
+          ],
+          [
+            17.1077,
+            48.1486
+          ],
+          [
+            17.1819,
+            48.1878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-riga-liepaja-tallinn-vlt-balticos-letonia-estonia",
+        "linha": "Bondes de Riga Rīgas Satiksme (Jugla – Estação Central de Riga – Rio Daugava – Imanta) e Bondes de Tallinn TLT (Kopli – Viru – Porto Vanasadam – Aeroporto de Tallinn)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Redes de Bondes (VLT) de Riga e Liepāja (Letônia) e Rede de Bondes de Tallinn — Porto Vanasadam e Aeroporto (Estônia)",
+        "sistema_nome_en": "Riga & Liepāja Tram Networks (Latvia) & Tallinn Tramway — Old City Harbor & Airport Lines (Estonia)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.0128,
+            56.9569
+          ],
+          [
+            24.1052,
+            56.9496
+          ],
+          [
+            24.1139,
+            56.9461
+          ],
+          [
+            24.2442,
+            56.9881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "elron-estonia-vivi-letonia-trens-eletricos-stadler-flirt-skoda-balticos",
+        "linha": "Corredor Elron Stadler FLIRT Estônia (Tallinn Balti Jaam – Tapa – Tartu – Valga) e Conexão Vivi Letônia (Valga – Cēsis – Sigulda – Riga Central – Jūrmala)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trens Regionais e Suburbanos Elron (Stadler FLIRT Tallinn–Tartu–Narva na Estônia) e Vivi (Škoda 16Ev Riga–Jūrmala na Letônia)",
+        "sistema_nome_en": "Elron Regional & Suburban Rail (Stadler FLIRT Tallinn–Tartu–Narva in Estonia) & Vivi Electric Rail (Riga–Jūrmala in Latvia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7372,
+            59.44
+          ],
+          [
+            25.9575,
+            59.2656
+          ],
+          [
+            26.7067,
+            58.3739
+          ],
+          [
+            26.0506,
+            57.7769
+          ],
+          [
+            25.2764,
+            57.3139
+          ],
+          [
+            24.8539,
+            57.1528
+          ],
+          [
+            24.1217,
+            56.9461
+          ],
+          [
+            23.7994,
+            56.9722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ltg-link-lituania-vilnius-kaunas-klaipeda-expresso-baltico-riga-varsovia",
+        "linha": "Eixo Nacional LTG Link Lituânia (Vilnius Central – Kaišiadorys – Kaunas – Šiauliai – Kretinga – Klaipėda no Mar Báltico e Ramal Internacional para Riga)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias da Lituânia (LTG Link) — Corredor Eletrificado Vilnius–Kaunas, Expresso Vilnius–Klaipėda e Internacional Vilnius–Riga–Varsóvia",
+        "sistema_nome_en": "Lithuanian Railways (LTG Link) — Electrified Vilnius–Kaunas Line, Vilnius–Klaipėda Express & Vilnius–Riga–Warsaw International Rail",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.2844,
+            54.6706
+          ],
+          [
+            24.4533,
+            54.8617
+          ],
+          [
+            23.9278,
+            54.8886
+          ],
+          [
+            24.4533,
+            54.8617
+          ],
+          [
+            23.9722,
+            55.2975
+          ],
+          [
+            23.3144,
+            55.9275
+          ],
+          [
+            21.1419,
+            55.7208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "zssk-eslovaquia-intercity-bratislava-zilina-kosice-sz-eslovenia-ljubljana-maribor-koper",
+        "linha": "Corredor Nacional Esloveno SŽ (Jesenice / Bled – Ljubljana – Zidani Most – Celje – Maribor e Ljubljana – Postojna – Divača – Koper) e Tronco Eslovaco ZSSK Bratislava–Žilina–Košice",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias da Eslovênia (SŽ Stadler KISS/FLIRT Ljubljana–Maribor–Koper) e Expresso Nacional ZSSK Bratislava–Žilina–Košice (Eslováquia)",
+        "sistema_nome_en": "Slovenian Railways (SŽ Stadler KISS/FLIRT Ljubljana–Maribor–Koper) & ZSSK InterCity Bratislava–Žilina–Košice (Slovakia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0589,
+            46.4339
+          ],
+          [
+            14.5117,
+            46.0581
+          ],
+          [
+            15.1714,
+            46.0861
+          ],
+          [
+            15.6578,
+            46.5619
+          ],
+          [
+            14.5117,
+            46.0581
+          ],
+          [
+            14.2133,
+            45.7689
+          ],
+          [
+            13.9617,
+            45.6819
+          ],
+          [
+            13.7389,
+            45.5489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-porto-koper-eslovenia-uzkorozchodna-kosice-klaipeda-balticos",
+        "linha": "Corredor Adriático–Centro-Europeu de Carga SŽ (Porto Marítimo de Koper – Divača – Ljubljana – Zidani Most – Maribor / Hodoš)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor de Carga do Porto de Koper–Ljubljana–Maribor (SŽ Tovorni Promet), Linha de Bitola Larga de Košice (ZSSK Cargo) e Porto de Klaipėda (LTG Cargo)",
+        "sistema_nome_en": "Port of Koper–Ljubljana–Maribor Freight Corridor (SŽ), Košice Broad-Gauge Ore Line (ZSSK Cargo) & Klaipėda Port Rail (LTG Cargo)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.745,
+            45.555
+          ],
+          [
+            13.9617,
+            45.6819
+          ],
+          [
+            14.5117,
+            46.0581
+          ],
+          [
+            15.6578,
+            46.5619
+          ],
+          [
+            16.3342,
+            46.8236
+          ]
+        ]
+      }
     }
   ]
 }
