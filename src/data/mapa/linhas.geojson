@@ -18422,6 +18422,312 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-hanoi-cat-linh-nhon-ho-chi-minh-linha-1-vietna",
+        "linha": "Metrô de Hanói: Linha 2A (Cát Linh – Láng – Yên Nghĩa) & Linha 3 (Nhổn – Cầu Giấy)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs de Hanói (Linhas 2A Cát Linh–Hà Đông & 3 Nhổn–Cầu Giấy) e Cidade de Ho Chi Minh (Linha 1 Bến Thành–Suối Tiên)",
+        "sistema_nome_en": "Hanoi Metro (Lines 2A Cát Linh–Hà Đông & 3 Nhổn–Cầu Giấy) and Ho Chi Minh City Metro (Line 1 Bến Thành–Suối Tiên)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.736,
+            21.053
+          ],
+          [
+            105.798,
+            21.03
+          ],
+          [
+            105.8272,
+            21.0283
+          ],
+          [
+            105.801,
+            21.002
+          ],
+          [
+            105.7478,
+            20.9508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metros-hanoi-cat-linh-nhon-ho-chi-minh-linha-1-vietna",
+        "linha": "Metrô da Cidade de Ho Chi Minh Linha 1: Bến Thành – Ópera de Saigon – Ba Son – Thảo Điền – Thủ Đức – Suối Tiên Terminal",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrôs de Hanói (Linhas 2A Cát Linh–Hà Đông & 3 Nhổn–Cầu Giấy) e Cidade de Ho Chi Minh (Linha 1 Bến Thành–Suối Tiên)",
+        "sistema_nome_en": "Hanoi Metro (Lines 2A Cát Linh–Hà Đông & 3 Nhổn–Cầu Giấy) and Ho Chi Minh City Metro (Line 1 Bến Thành–Suối Tiên)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.698,
+            10.7725
+          ],
+          [
+            106.7033,
+            10.7769
+          ],
+          [
+            106.733,
+            10.803
+          ],
+          [
+            106.772,
+            10.848
+          ],
+          [
+            106.8139,
+            10.8764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trens-metropolitanos-auckland-at-metro-wellington-metlink-nova-zelandia",
+        "linha": "AT Metro Auckland (Waitematā/Britomart – Newmarket – Papakura – Pukekohe & Western Line Swanson) & Metlink Wellington (Wellington Station – Porirua – Waikanae & Upper Hutt)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Redes Metropolitanas Eletrificadas de Auckland (AT Metro) e Wellington (Metlink)",
+        "sistema_nome_en": "Auckland (AT Metro) & Wellington (Metlink) Electrified Suburban Rail Networks",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.598,
+            -36.865
+          ],
+          [
+            174.7681,
+            -36.8442
+          ],
+          [
+            174.7775,
+            -36.8694
+          ],
+          [
+            174.945,
+            -37.065
+          ],
+          [
+            174.901,
+            -37.203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-historicos-christchurch-auckland-cable-car-wellington-nova-zelandia",
+        "linha": "Christchurch City Tramway Loop (Cathedral Junction – New Regent Street – Avon River – Canterbury Museum) & Wellington Cable Car (Lambton Quay – Kelburn)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Christchurch Tramway (Anel Central), Wellington Cable Car & Bondes de Auckland",
+        "sistema_nome_en": "Christchurch City Tramway, Wellington Cable Car & Auckland Heritage Trams",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6285,
+            -43.5318
+          ],
+          [
+            172.6366,
+            -43.5311
+          ],
+          [
+            172.6395,
+            -43.5295
+          ],
+          [
+            172.6366,
+            -43.5335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-reunificacao-norte-sul-hanoi-hue-da-nang-saigon-vietna",
+        "linha": "Ferrovia da Reunificação Norte–Sul (1.726 km): Hanói – Ninh Bình – Vinh – Đồng Hới – Huế – Passo de Hải Vân – Đà Nẵng – Quy Nhơn – Nha Trang – Saigon (Ho Chi Minh City) & Ramal Hanói–Haiphong/Lào Cai",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia da Reunificação Norte–Sul (Reunification Express Hanói–Huế–Đà Nẵng–Nha Trang–Saigon, 1.726 km) & Linhas de Haiphong/Lào Cai",
+        "sistema_nome_en": "North–South Reunification Railway (Hanoi–Huế–Da Nang–Nha Trang–Saigon, 1,726 km) & Haiphong/Lào Cai Lines",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.975,
+            22.48
+          ],
+          [
+            105.8411,
+            21.0242
+          ],
+          [
+            106.683,
+            20.856
+          ],
+          [
+            105.8411,
+            21.0242
+          ],
+          [
+            105.67,
+            18.679
+          ],
+          [
+            107.579,
+            16.457
+          ],
+          [
+            108.13,
+            16.2
+          ],
+          [
+            108.21,
+            16.0717
+          ],
+          [
+            109.19,
+            12.248
+          ],
+          [
+            106.6772,
+            10.7825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "kiwirail-scenic-trains-northern-explorer-coastal-pacific-tranzalpine-nova-zelandia",
+        "linha": "Northern Explorer (Ilha Norte: Auckland Waitematā – Hamilton – National Park/Tongariro – Palmerston North – Wellington) & Coastal Pacific + TranzAlpine (Ilha Sul: Picton – Kaikōura – Christchurch – Arthur's Pass – Greymouth)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trens Intercidades e Cênicos da KiwiRail (Northern Explorer Auckland–Wellington, Coastal Pacific & TranzAlpine nos Alpes do Sul)",
+        "sistema_nome_en": "KiwiRail Intercity & Great Journeys (Northern Explorer Auckland–Wellington, Coastal Pacific & TranzAlpine)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7681,
+            -36.8442
+          ],
+          [
+            175.271,
+            -37.788
+          ],
+          [
+            175.399,
+            -39.176
+          ],
+          [
+            175.602,
+            -40.352
+          ],
+          [
+            174.7803,
+            -41.2789
+          ],
+          [
+            174.005,
+            -41.29
+          ],
+          [
+            173.681,
+            -42.401
+          ],
+          [
+            172.608,
+            -43.541
+          ],
+          [
+            171.5619,
+            -42.9489
+          ],
+          [
+            171.2081,
+            -42.4503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-carga-kiwirail-nimt-mnl-corredor-haiphong-vietna-nova-zelandia",
+        "linha": "Eixo de Exportação KiwiRail (East Coast Main Trunk Hamilton – Túnel de Kaimai – Porto de Tauranga & Tronco da Ilha Sul Christchurch – Porto de Lyttelton – Timaru – Dunedin Port Chalmers – Invercargill)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha de Carga da KiwiRail (Tauranga Port / NIMT / Midland Coal Line) & Corredor Internacional Haiphong–Hanói–China (Vietnã)",
+        "sistema_nome_en": "KiwiRail National Freight Network (Port of Tauranga / NIMT / Midland Line) & Haiphong–Hanoi–China Freight Corridor (Vietnam)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            176.185,
+            -37.655
+          ],
+          [
+            175.271,
+            -37.788
+          ],
+          [
+            172.72,
+            -43.604
+          ],
+          [
+            171.254,
+            -44.397
+          ],
+          [
+            170.508,
+            -45.875
+          ],
+          [
+            168.347,
+            -46.413
+          ]
+        ]
+      }
     }
   ]
 }

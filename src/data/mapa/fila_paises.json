@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T23:45:00-03:00",
+  "atualizado_em": "2026-11-13T00:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -204,15 +204,16 @@
       "bandeira": "🇮🇱🇶🇦",
       "sistemas_operacao": 6,
       "ronda": "Ronda #32 (23:45 BRT — 5 Modalidades)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 29,
       "pais": "Nova Zelândia e Vietnã",
-      "bandeira": "🇳🇿",
-      "foco": "Metrôs de Hanói e Ho Chi Minh City (Linha 1 Ben Thanh–Suoi Tien), Trens Urbanos de Auckland e Wellington + Northern Explorer/TranzAlpine, Ferrovia da Reunificação Norte–Sul do Vietnã e Corredores KiwiRail de Carga"
-    },
+      "bandeira": "🇳🇿🇻🇳",
+      "sistemas_operacao": 6,
+      "ronda": "Ronda #33 (00:15 BRT — Modalidades Operacionais)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 30,
       "pais": "Argélia, Tunísia e Nigéria",
@@ -230,6 +231,12 @@
       "pais": "Ucrânia, Belarus e Geórgia (Leste Europeu e Cáucaso)",
       "bandeira": "🇺🇦",
       "foco": "Metrôs Profundos de Kiev (Arsenalna a 105,5 m — mais profunda do mundo), Kharkiv, Dnipro, Minsk e Tbilisi, Expressos Intercity+ Hyundai Rotem, Bondes Rápidos de Kiev/Lviv e Corredores de Grãos/Minério do Mar Negro"
+    },
+    {
+      "ordem": 33,
+      "pais": "Sérvia, Bulgária e Croácia (Bálcãs)",
+      "bandeira": "🇷🇸",
+      "foco": "Ferrovia de Alta Velocidade Soko Belgrado–Novi Sad–Subotica (200 km/h), Metrô de Sófia (Linhas M1–M4), Redes de Bondes de Belgrado, Sófia e Zagreb, Ferrovia Montanhosa Belgrado–Bar e Corredores Pan-Europeus de Carga"
     }
   ]
 }
