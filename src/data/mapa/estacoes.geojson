@@ -18842,6 +18842,196 @@
           17.8931
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-espacial-kourou-csg-ariane-6-vega-c-transferencia-lancadores-guiana-francesa",
+        "nome": "Complexo de Lançamento ELA-4 e Pórtico Móvel sobre Trilhos do Ariane 6 (CSG Kourou, Guiana Francesa)",
+        "linha": "Via Férrea Dupla de Transferência BAL – Zona de Lançamento ELA-4 (Ariane 6)",
+        "status": "operacao",
+        "integracoes": "Porto Espacial Europeu de Kourou / Mesa Móvel de Lançamento e Pórtico de 90 m sobre Trilhos",
+        "sistema_nome_pt": "Ferrovia Espacial de Kourou (CSG — Via Férrea Dupla de Transferência de Foguetes Ariane 6, Ariane 5 e Vega-C no Centro Espacial Guianês)",
+        "sistema_nome_en": "Kourou Spaceport Railway (CSG — Heavy Dual-Track Launcher Transfer Railway for Ariane 6, Ariane 5 & Vega-C at Guiana Space Centre)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7897,
+          5.2689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-espacial-kourou-csg-ariane-6-vega-c-transferencia-lancadores-guiana-francesa",
+        "nome": "Edifício de Montagem Final BAF e Via Férrea ELA-3 (Centro Espacial Guianês — Kourou)",
+        "linha": "Via Férrea Dupla BIL – BAF – Zona de Lançamento ELA-3",
+        "status": "operacao",
+        "integracoes": "Usina de Propulsores Sólidos UPK / Complexo Técnico do CSG",
+        "sistema_nome_pt": "Ferrovia Espacial de Kourou (CSG — Via Férrea Dupla de Transferência de Foguetes Ariane 6, Ariane 5 e Vega-C no Centro Espacial Guianês)",
+        "sistema_nome_en": "Kourou Spaceport Railway (CSG — Heavy Dual-Track Launcher Transfer Railway for Ariane 6, Ariane 5 & Vega-C at Guiana Space Centre)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7686,
+          5.236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-historica-penal-saint-laurent-du-maroni-saint-jean-bagne-iles-du-salut-guiana-francesa",
+        "nome": "Estação Patrimonial do Camp de la Transportation (Saint-Laurent-du-Maroni, Guiana Francesa)",
+        "linha": "Ferrovia Patrimonial Decauville Saint-Laurent-du-Maroni – Saint-Jean",
+        "status": "operacao",
+        "integracoes": "Centro de Interpretação da Arquitetura e do Patrimônio (CIAP) / Porto Fluvial do Rio Maroni",
+        "sistema_nome_pt": "Trilhos Patrimoniais de Saint-Laurent-du-Maroni e Via Decauville das Îles du Salut (Guiana Francesa)",
+        "sistema_nome_en": "Saint-Laurent-du-Maroni Heritage Railway & Îles du Salut Decauville Track (French Guiana)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0319,
+          5.5039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-bauxita-linden-mackenzie-ituni-kwakwani-demerara-berbice-guiana",
+        "nome": "Terminal Ferroviário e Planta de Calcinação de Bauxita de Mackenzie / Linden (Rio Demerara, Guiana)",
+        "linha": "Ferrovia Mineradora de Bauxita Mackenzie – Montgomery – Ituni",
+        "status": "operacao",
+        "integracoes": "Porto Fluvial de Mackenzie no Rio Demerara / Ponte Mackenzie–Wismar",
+        "sistema_nome_pt": "Ferrovias Mineradoras de Bauxita de Linden – Mackenzie – Ituni e Kwakwani (Bacia do Demerara e Berbice, Guiana)",
+        "sistema_nome_en": "Linden – Mackenzie – Ituni & Kwakwani Bauxite Mining Railways (Demerara & Berbice Basin, Guyana)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3056,
+          6.0028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-bauxita-linden-mackenzie-ituni-kwakwani-demerara-berbice-guiana",
+        "nome": "Terminal de Carregamento de Bauxita de Ituni (Upper Demerara-Berbice, Guiana)",
+        "linha": "Ferrovia Mineradora de Bauxita Linden – Ituni",
+        "status": "operacao",
+        "integracoes": "Minas de Bauxita de Ituni e conexão com Kwakwani (Rio Berbice)",
+        "sistema_nome_pt": "Ferrovias Mineradoras de Bauxita de Linden – Mackenzie – Ituni e Kwakwani (Bacia do Demerara e Berbice, Guiana)",
+        "sistema_nome_en": "Linden – Mackenzie – Ituni & Kwakwani Bauxite Mining Railways (Demerara & Berbice Basin, Guyana)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2494,
+          5.5333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-manganes-matthews-ridge-port-kaituma-barima-waini-guiana",
+        "nome": "Terminal Ferroviário de Manganês de Matthews Ridge (Barima-Waini, Guiana)",
+        "linha": "Ferrovia de Manganês Matthews Ridge – Port Kaituma",
+        "status": "operacao",
+        "integracoes": "Complexo de Mineração de Manganês de Matthews Ridge / Aeródromo de Matthews Ridge",
+        "sistema_nome_pt": "Ferrovia de Manganês e Logística de Matthews Ridge – Port Kaituma (Barima-Waini, Noroeste da Guiana)",
+        "sistema_nome_en": "Matthews Ridge – Port Kaituma Manganese & Logistics Railway (Barima-Waini, Northwest Guyana)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1558,
+          7.5036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-manganes-matthews-ridge-port-kaituma-barima-waini-guiana",
+        "nome": "Terminal Portuário e Ferroviário de Port Kaituma (Canal de Kaituma, Guiana)",
+        "linha": "Ferrovia de Manganês Matthews Ridge – Port Kaituma",
+        "status": "operacao",
+        "integracoes": "Porto Fluvial de Exportação de Manganês no Canal de Kaituma",
+        "sistema_nome_pt": "Ferrovia de Manganês e Logística de Matthews Ridge – Port Kaituma (Barima-Waini, Noroeste da Guiana)",
+        "sistema_nome_en": "Matthews Ridge – Port Kaituma Manganese & Logistics Railway (Barima-Waini, Northwest Guyana)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.8736,
+          7.7289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "landspoorweg-suriname-ferrovia-lava-ouro-onverwacht-republick-zanderij-brownsweg-suriname",
+        "nome": "Estação Patrimonial de Onverwacht e Locomotiva Histórica Kwakoe (Distrito de Para, Suriname)",
+        "linha": "Linha Landspoorweg Onverwacht – Republiek – Zanderij – Brownsweg",
+        "status": "operacao",
+        "integracoes": "Capital Distrital de Para (Onverwacht) / Acervo Ferroviário Histórico Landspoorweg",
+        "sistema_nome_pt": "Landspoorweg Suriname (Ferrovia Turística e Patrimonial de Onverwacht – Republiek – Zanderij – Brownsweg)",
+        "sistema_nome_en": "Suriname Government Railway (Landspoorweg Heritage & Tourist Line Onverwacht – Republiek – Zanderij – Brownsweg)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1936,
+          5.5892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "landspoorweg-suriname-ferrovia-lava-ouro-onverwacht-republick-zanderij-brownsweg-suriname",
+        "nome": "Estação Ferroviária de Zanderij (Aeroporto Internacional Johan Adolf Pengel, Suriname)",
+        "linha": "Linha Landspoorweg Onverwacht – Republiek – Zanderij – Brownsweg",
+        "status": "operacao",
+        "integracoes": "Proximidade do Aeroporto Internacional de Zanderij / Corredor Sul para Brokopondo",
+        "sistema_nome_pt": "Landspoorweg Suriname (Ferrovia Turística e Patrimonial de Onverwacht – Republiek – Zanderij – Brownsweg)",
+        "sistema_nome_en": "Suriname Government Railway (Landspoorweg Heritage & Tourist Line Onverwacht – Republiek – Zanderij – Brownsweg)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2061,
+          5.4528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-bauxita-suriname-suralco-paranam-moengo-bakhuis-apoera-suriname",
+        "nome": "Terminal Ferroviário e Porto Fluvial de Apoera (Ferrovia Bakhuis–Apoera no Rio Corantijn, Suriname)",
+        "linha": "Ferrovia Pesada de Bauxita Montanhas Bakhuis – Apoera",
+        "status": "operacao",
+        "integracoes": "Porto Fluvial de Apoera no Rio Corantijn (Fronteira Suriname–Guiana)",
+        "sistema_nome_pt": "Corredores Ferroviários de Bauxita do Suriname (Ferrovia Pesada Bakhuis – Apoera no Rio Corantijn e Complexo Paranam / Lelydorp)",
+        "sistema_nome_en": "Suriname Bauxite Rail Corridors (Bakhuis – Apoera Heavy-Haul Railway on the Courantyne River & Paranam / Lelydorp Complex)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1636,
+          5.1603
+        ]
+      }
     }
   ]
 }

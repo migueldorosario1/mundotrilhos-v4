@@ -25985,6 +25985,218 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-espacial-kourou-csg-ariane-6-vega-c-transferencia-lancadores-guiana-francesa",
+        "linha": "Vias Férreas Duplas de Transferência de Lançadores Espaciais (BAL – Zona de Lançamento ELA-4 Ariane 6 e BAF – ELA-3 em Kourou)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Espacial de Kourou (CSG — Via Férrea Dupla de Transferência de Foguetes Ariane 6, Ariane 5 e Vega-C no Centro Espacial Guianês)",
+        "sistema_nome_en": "Kourou Spaceport Railway (CSG — Heavy Dual-Track Launcher Transfer Railway for Ariane 6, Ariane 5 & Vega-C at Guiana Space Centre)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -52.7603,
+              5.2131
+            ],
+            [
+              -52.7686,
+              5.236
+            ],
+            [
+              -52.7758,
+              5.2597
+            ]
+          ],
+          [
+            [
+              -52.7758,
+              5.2597
+            ],
+            [
+              -52.7897,
+              5.2689
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-historica-penal-saint-laurent-du-maroni-saint-jean-bagne-iles-du-salut-guiana-francesa",
+        "linha": "Ferrovia Patrimonial Decauville Saint-Laurent-du-Maroni – Saint-Jean-du-Maroni e Via Histórica da Île Royale",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trilhos Patrimoniais de Saint-Laurent-du-Maroni e Via Decauville das Îles du Salut (Guiana Francesa)",
+        "sistema_nome_en": "Saint-Laurent-du-Maroni Heritage Railway & Îles du Salut Decauville Track (French Guiana)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.0319,
+            5.5039
+          ],
+          [
+            -54.0411,
+            5.4522
+          ],
+          [
+            -54.0736,
+            5.4019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-bauxita-linden-mackenzie-ituni-kwakwani-demerara-berbice-guiana",
+        "linha": "Ferrovia Mineradora de Bauxita de Linden (Mackenzie – Montgomery – East Kara Kara – Ituni)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Mineradoras de Bauxita de Linden – Mackenzie – Ituni e Kwakwani (Bacia do Demerara e Berbice, Guiana)",
+        "sistema_nome_en": "Linden – Mackenzie – Ituni & Kwakwani Bauxite Mining Railways (Demerara & Berbice Basin, Guyana)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3056,
+            6.0028
+          ],
+          [
+            -58.2681,
+            5.975
+          ],
+          [
+            -58.2486,
+            5.7533
+          ],
+          [
+            -58.2494,
+            5.5333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-manganes-matthews-ridge-port-kaituma-barima-waini-guiana",
+        "linha": "Ferrovia de Manganês Matthews Ridge – Arakaka – Port Kaituma (Barima-Waini, Guiana)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia de Manganês e Logística de Matthews Ridge – Port Kaituma (Barima-Waini, Noroeste da Guiana)",
+        "sistema_nome_en": "Matthews Ridge – Port Kaituma Manganese & Logistics Railway (Barima-Waini, Northwest Guyana)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.1558,
+            7.5036
+          ],
+          [
+            -59.985,
+            7.6114
+          ],
+          [
+            -59.8736,
+            7.7289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "landspoorweg-suriname-ferrovia-lava-ouro-onverwacht-republick-zanderij-brownsweg-suriname",
+        "linha": "Linha Patrimonial Landspoorweg Onverwacht – Republiek – Zanderij – Brownsweg (Lago Brokopondo, Suriname)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Landspoorweg Suriname (Ferrovia Turística e Patrimonial de Onverwacht – Republiek – Zanderij – Brownsweg)",
+        "sistema_nome_en": "Suriname Government Railway (Landspoorweg Heritage & Tourist Line Onverwacht – Republiek – Zanderij – Brownsweg)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.1936,
+            5.5892
+          ],
+          [
+            -55.2044,
+            5.4981
+          ],
+          [
+            -55.2061,
+            5.4528
+          ],
+          [
+            -55.1667,
+            5.0167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-bauxita-suriname-suralco-paranam-moengo-bakhuis-apoera-suriname",
+        "linha": "Ferrovia Pesada de Bauxita Apoera (Rio Corantijn) – Montanhas Bakhuis e Ramal Industrial de Paranam (Suriname)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Ferroviários de Bauxita do Suriname (Ferrovia Pesada Bakhuis – Apoera no Rio Corantijn e Complexo Paranam / Lelydorp)",
+        "sistema_nome_en": "Suriname Bauxite Rail Corridors (Bakhuis – Apoera Heavy-Haul Railway on the Courantyne River & Paranam / Lelydorp Complex)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -57.1636,
+              5.1603
+            ],
+            [
+              -57.0319,
+              4.9125
+            ],
+            [
+              -56.9167,
+              4.65
+            ]
+          ],
+          [
+            [
+              -55.0858,
+              5.6056
+            ],
+            [
+              -55.1614,
+              5.6306
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
