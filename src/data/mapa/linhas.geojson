@@ -23518,6 +23518,340 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-eletrificada-djibuti-adis-abeba-sdjr-edr-nagad-holhol-ali-sabieh-djibuti",
+        "linha": "EDR / SDJR (Porto de Doraleh – Gare de Nagad – Holhol – Ali Sabieh – Guelile / Fronteira Dewele)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Eletrificada Djibuti–Adis Abeba (SDJR / EDR — Porto de Doraleh – Gare de Nagad – Holhol – Ali Sabieh)",
+        "sistema_nome_en": "Ethio-Djibouti Electrified Standard Gauge Railway (SDJR / EDR — Doraleh Port – Nagad – Holhol – Ali Sabieh)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.0805,
+            11.5947
+          ],
+          [
+            43.1286,
+            11.5358
+          ],
+          [
+            42.9294,
+            11.3103
+          ],
+          [
+            42.7125,
+            11.1558
+          ],
+          [
+            42.635,
+            11.036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-eritrea-massawa-ghinda-nefasi-asmara-bitola-950mm-eritrea",
+        "linha": "Ferrovia da Eritreia (Massawa – Mai Atal – Ghinda – Embatkalla – Nefasit – Arbaroba – Asmara)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia da Eritreia (Massawa – Ghinda – Nefasit – Asmara — Linha Alpina de Bitola 950 mm)",
+        "sistema_nome_en": "Eritrean Railway (Massawa – Ghinda – Nefasit – Asmara — 950 mm Mountain Narrow-Gauge Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.4653,
+            15.6081
+          ],
+          [
+            39.25,
+            15.53
+          ],
+          [
+            39.0989,
+            15.4436
+          ],
+          [
+            39.0108,
+            15.3333
+          ],
+          [
+            38.9461,
+            15.3389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sudan-railways-corporation-src-nile-valley-express-port-sudan-atbara-khartoum-wadi-halfa",
+        "linha": "SRC (Wadi Halfa – Abu Hamad – Atbara – Shendi – Cartum – Wad Madani – Sennar – Kosti & Port Sudan – Haiya – Atbara)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Sudan Railways Corporation (SRC — Expresso do Nilo Cartum – Atbara – Wadi Halfa e Linha Port Sudan – Atbara – Kosti)",
+        "sistema_nome_en": "Sudan Railways Corporation (SRC — Nile Valley Express Khartoum – Atbara – Wadi Halfa & Port Sudan – Atbara – Kosti Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              31.3653,
+              21.7972
+            ],
+            [
+              33.3333,
+              19.5333
+            ],
+            [
+              33.9864,
+              17.7022
+            ],
+            [
+              33.4342,
+              16.6914
+            ],
+            [
+              32.5342,
+              15.6031
+            ],
+            [
+              33.5197,
+              14.4011
+            ],
+            [
+              33.5667,
+              13.55
+            ],
+            [
+              32.6667,
+              13.1667
+            ]
+          ],
+          [
+            [
+              37.2164,
+              19.6158
+            ],
+            [
+              35.8833,
+              18.3333
+            ],
+            [
+              33.9864,
+              17.7022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "uganda-railways-corporation-urc-kampala-namanve-mukono-port-bell-suburbano-uganda",
+        "linha": "URC Suburbano (Kampala Central – Namuwongo – Kireka – Bweyogerere – Namanve – Mukono e Ramal Port Bell)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trem Suburbano da Grande Kampala (URC — Kampala Central – Namuwongo – Namanve – Mukono e Ramal Port Bell)",
+        "sistema_nome_en": "Greater Kampala Commuter Rail (URC — Kampala Central – Namuwongo – Namanve – Mukono & Port Bell Branch)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              32.5881,
+              0.3136
+            ],
+            [
+              32.615,
+              0.318
+            ],
+            [
+              32.648,
+              0.342
+            ],
+            [
+              32.695,
+              0.351
+            ],
+            [
+              32.7553,
+              0.3533
+            ]
+          ],
+          [
+            [
+              32.615,
+              0.318
+            ],
+            [
+              32.6531,
+              0.2889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-ferroviario-norte-uganda-tororo-gulu-pakwach-malaba-kampala-urc",
+        "linha": "URC Linha Leste (Kampala – Mukono – Jinja – Iganga – Tororo – Malaba) e Linha Norte (Tororo – Mbale – Soroti – Lira – Gulu)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Malha Nacional de Uganda (URC — Linha Principal Malaba – Tororo – Jinja – Kampala e Linha Norte Tororo – Mbale – Soroti – Gulu)",
+        "sistema_nome_en": "Uganda National Railway Network (URC — Malaba – Tororo – Jinja – Kampala Mainline & Tororo – Mbale – Soroti – Gulu Northern Line)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              32.5881,
+              0.3136
+            ],
+            [
+              32.7553,
+              0.3533
+            ],
+            [
+              33.2042,
+              0.439
+            ],
+            [
+              33.4686,
+              0.6092
+            ],
+            [
+              34.1808,
+              0.6928
+            ],
+            [
+              34.2681,
+              0.6389
+            ]
+          ],
+          [
+            [
+              34.1808,
+              0.6928
+            ],
+            [
+              34.175,
+              1.082
+            ],
+            [
+              33.6111,
+              1.7147
+            ],
+            [
+              32.8997,
+              2.2497
+            ],
+            [
+              32.299,
+              2.7746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-porto-doraleh-djibuti-port-sudan-atbara-malaba-kampala-urc-edr",
+        "linha": "Corredores de Carga Doraleh – Nagad – Guelile (EDR), Port Sudan – Atbara – Cartum (SRC) e Malaba – Mukono – Kampala / Gulu (URC)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredores Portuários de Carga Doraleh–Adis Abeba (EDR Djibuti), Port Sudan–Atbara (SRC) e Malaba–Kampala–Gulu (URC)",
+        "sistema_nome_en": "Doraleh–Addis Ababa (EDR Djibouti), Port Sudan–Atbara (SRC) & Malaba–Kampala–Gulu (URC) Freight Corridors",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              43.0805,
+              11.5947
+            ],
+            [
+              43.1286,
+              11.5358
+            ],
+            [
+              42.7125,
+              11.1558
+            ],
+            [
+              42.635,
+              11.036
+            ]
+          ],
+          [
+            [
+              37.2164,
+              19.6158
+            ],
+            [
+              35.8833,
+              18.3333
+            ],
+            [
+              33.9864,
+              17.7022
+            ],
+            [
+              32.5342,
+              15.6031
+            ]
+          ],
+          [
+            [
+              34.2681,
+              0.6389
+            ],
+            [
+              34.1808,
+              0.6928
+            ],
+            [
+              33.2042,
+              0.439
+            ],
+            [
+              32.7553,
+              0.3533
+            ],
+            [
+              32.5881,
+              0.3136
+            ]
+          ]
+        ]
+      }
     }
   ]
 }

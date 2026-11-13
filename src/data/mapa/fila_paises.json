@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-13T08:45:00-03:00",
+  "atualizado_em": "2026-11-13T09:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -330,15 +330,16 @@
       "bandeira": "🇲🇺🇲🇬🇨🇲",
       "sistemas_operacao": 6,
       "ronda": "Ronda #50 (08:45 BRT — Modalidades Operacionais)"
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 47,
       "pais": "Sudão, Eritreia, Djibuti e Uganda (Chifre da África e Grandes Lagos)",
       "bandeira": "🇸🇩🇪🇷🇩🇯🇺🇬",
-      "foco": "Ferrovia Eletrificada Adis Abeba–Djibuti (EDR/SDJR no Djibuti), Ferrovia Histórica de Bitola Estreita Massawa–Asmara na Eritreia, Sudan Railways Corporation (Port Sudan–Atbara–Cartum) e Uganda Railways Corporation (Kampala–Namanve–Mukono e Corredor Tororo–Malaba)"
-    },
+      "sistemas_operacao": 6,
+      "ronda": "Ronda #51 (09:15 BRT — Modalidades Operacionais)"
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 48,
       "pais": "Guiné, Mali, Burkina Faso, Benim e Togo (África Ocidental — Corredores Atlânticos e Bauxita)",
@@ -356,6 +357,24 @@
       "pais": "Jordânia, Líbano e Síria (Levante e Ferrovia do Hejaz)",
       "bandeira": "🇯🇴🇱🇧🇸🇾",
       "foco": "Jordan Hejaz Railway (Amã–Zarka / Mafraq e Expresso Turístico de Wadi Rum) e Aqaba Railway Corporation (Corredor de Fosfatos de Aqaba na Jordânia), e Rede Ferroviária Síria CFS (Damasco–Homs–Aleppo e Corredor Costeiro Tartus–Latakia)"
+    },
+    {
+      "ordem": 51,
+      "pais": "Luxemburgo, Mônaco e Liechtenstein (Microestados e Hubs Ferroviários Europeus)",
+      "bandeira": "🇱🇺🇲🇨🇱🇮",
+      "foco": "Luxtram (VLT da Cidade de Luxemburgo), Rede Nacional CFL de Luxemburgo (100% transporte público gratuito e corredores para Paris/Bruxelas/Trier), Gare Souterraine de Monaco-Monte-Carlo (TER Provence-Alpes-Côte d'Azur / TGV) e Linha Feldkirch–Schaan-Vaduz–Buchs (ÖBB em Liechtenstein)"
+    },
+    {
+      "ordem": 52,
+      "pais": "Bósnia e Herzegovina, Montenegro, Macedônia do Norte e Albânia (Bálcãs Ocidentais)",
+      "bandeira": "🇧🇦🇲🇪🇲🇰🇦🇱",
+      "foco": "Bondes de Sarajevo, Trens Talgo ŽFBH Sarajevo–Mostar–Čapljina e ŽRS Doboj–Banja Luka na Bósnia, Ferrovia Alpina Belgrado–Bar (ŽPCG/Montecargo) em Montenegro, Makedonski Železnici (Skopje–Veles–Gevgelija / Bitola) na Macedônia do Norte e HSH (Durrës–Elbasan / Shkodër) na Albânia"
+    },
+    {
+      "ordem": 53,
+      "pais": "Moldávia, Quirguistão, Tadjiquistão e Turcomenistão (Europa Oriental e Ásia Central)",
+      "bandeira": "🇲🇩🇰🇬🇹🇯🇹🇲",
+      "foco": "Calea Ferată din Moldova (CFM Chișinău–Iași Socola / Ungheni / Bender), Kyrgyz Temir Jolu (KTJ Bishkek–Balykchy no Lago Issyk-Kul), Rohi Ohani Tojikiston (Dushanbe–Pakhtaabad / Khujand) e Türkmendemirýollary (Ashgabat–Türkmenbaşy–Mary–Serhetabat e Corredor Norte-Sul Cazaque–Turcomeno–Iraniano)"
     }
   ]
 }
