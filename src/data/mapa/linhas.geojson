@@ -37665,6 +37665,301 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-rio-solimoes-manaus-coari-tefe-tabatinga-am",
+        "sistema_id": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+        "nome": "Tronco Hidroviário do Rio Solimões: Porto de Manaus – Manacapuru – Coari – Tefé – Fonte Boa – Benjamin Constant – Tabatinga (AM)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Lanchas Expresso / Ajato & Navios Regionais do Solimões"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.0255,
+            -3.1385
+          ],
+          [
+            -60.6205,
+            -3.3015
+          ],
+          [
+            -62.0585,
+            -3.8385
+          ],
+          [
+            -63.1415,
+            -4.0845
+          ],
+          [
+            -64.7125,
+            -3.3515
+          ],
+          [
+            -66.0945,
+            -2.5145
+          ],
+          [
+            -67.9425,
+            -2.7485
+          ],
+          [
+            -68.9525,
+            -3.4645
+          ],
+          [
+            -69.9415,
+            -4.2315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-rio-negro-manaus-barcelos-sao-gabriel-da-cachoeira-am",
+        "sistema_id": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+        "nome": "Tronco Hidroviário do Rio Negro: Porto de Manaus – Novo Airão – Barcelos – Santa Isabel do Rio Negro – São Gabriel da Cachoeira (AM)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Lanchas Rápidas e Navios Regionais do Alto Rio Negro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.0255,
+            -3.1385
+          ],
+          [
+            -60.9435,
+            -2.6215
+          ],
+          [
+            -61.8845,
+            -1.3945
+          ],
+          [
+            -62.9265,
+            -0.9745
+          ],
+          [
+            -65.0185,
+            -0.4145
+          ],
+          [
+            -67.0895,
+            -0.1305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-rio-madeira-porto-velho-humaita-manicore-manaus",
+        "sistema_id": "hidrovia-rio-madeira-manaus-borba-manicore-humaita-porto-velho-am-ro",
+        "nome": "Hidrovia do Rio Madeira: Porto Cai N'Água (Porto Velho, RO) – Humaitá – Manicoré – Novo Aripuanã – Borba – Itacoatiara / Manaus (AM)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Navegação do Rio Madeira (DNIT AHIMOC / SOPH RO)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.9085,
+            -8.7615
+          ],
+          [
+            -63.0215,
+            -7.5065
+          ],
+          [
+            -61.2985,
+            -5.8095
+          ],
+          [
+            -60.3795,
+            -5.1245
+          ],
+          [
+            -59.5915,
+            -4.3885
+          ],
+          [
+            -58.7745,
+            -3.3745
+          ],
+          [
+            -60.0255,
+            -3.1385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-rio-tapajos-santarem-alter-do-chao-itaituba-pa",
+        "sistema_id": "hidrovia-rio-tapajos-baixo-amazonas-santarem-itaituba-obidos-parintins-pa-am",
+        "nome": "Hidrovia do Rio Tapajós: Terminal Hidroviário de Santarém – Alter do Chão – Aveiro – Itaituba / Miritituba (PA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Lanchas Expresso Tapajós & Ferries Rodofluviais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7085,
+            -2.4415
+          ],
+          [
+            -54.9525,
+            -2.5015
+          ],
+          [
+            -55.3315,
+            -3.5885
+          ],
+          [
+            -55.9835,
+            -4.2765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-baixo-amazonas-monte-alegre-santarem-obidos-parintins",
+        "sistema_id": "hidrovia-rio-tapajos-baixo-amazonas-santarem-itaituba-obidos-parintins-pa-am",
+        "nome": "Eixo Baixo Amazonas / Calha Norte: Monte Alegre – Santarém – Óbidos – Oriximiná – Juruti (PA) – Parintins (AM)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Navegação de Passageiros do Baixo Amazonas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.0815,
+            -2.0085
+          ],
+          [
+            -54.7085,
+            -2.4415
+          ],
+          [
+            -55.5185,
+            -1.9185
+          ],
+          [
+            -55.8645,
+            -1.7685
+          ],
+          [
+            -56.0915,
+            -2.1525
+          ],
+          [
+            -56.7365,
+            -2.6285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-estuario-amazonico-santana-macapa-afua-breves-belem",
+        "sistema_id": "hidrovia-estuario-amazonico-macapa-santana-afua-gurupa-breves-belem-ap-pa",
+        "nome": "Hidrovia do Estuário Amazônico e Furos de Breves: Porto de Santana / Macapá (AP) – Afuá – Gurupá – Breves – Curralinho – Belém (PA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Navios-Motor e Catamarãs Expresso do Estuário Amazônico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.1785,
+            -0.0585
+          ],
+          [
+            -50.3885,
+            -0.1565
+          ],
+          [
+            -51.6415,
+            -1.4045
+          ],
+          [
+            -50.4805,
+            -1.6825
+          ],
+          [
+            -49.7945,
+            -1.8145
+          ],
+          [
+            -48.4965,
+            -1.4485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-rio-tocantins-belem-abaetetuba-cameta-tucurui-pa",
+        "sistema_id": "hidrovia-rio-tocantins-belem-abaetetuba-cameta-baiao-tucurui-pa",
+        "nome": "Hidrovia do Rio Tocantins: Belém – Barcarena – Abaetetuba – Igarapé-Miri – Cametá – Mocajuba – Baião – Eclusas de Tucuruí (PA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Lanchas Expresso e Ferry-Boats do Baixo Tocantins"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.4965,
+            -1.4485
+          ],
+          [
+            -48.6985,
+            -1.5125
+          ],
+          [
+            -48.8825,
+            -1.7215
+          ],
+          [
+            -49.4965,
+            -2.2425
+          ],
+          [
+            -49.6685,
+            -2.7915
+          ],
+          [
+            -49.6725,
+            -3.7665
+          ]
+        ]
+      }
     }
   ]
 }
