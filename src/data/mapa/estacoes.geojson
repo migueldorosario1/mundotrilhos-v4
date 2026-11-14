@@ -27723,6 +27723,226 @@
           47.0018
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-automatizado-de-copenhague-m1-m4-cityringen-s-tog-e-oresundsbanen-ilha-de-zelandia-sjaelland-e-amager-dinamarca",
+        "nome": "Kongens Nytorv & København H Metro Station (Hub Central das Linhas M1, M2, M3 Cityringen, M4 e S-tog na Ilha de Sjælland, Copenhague)",
+        "linha": "Metrô de Copenhague M1–M4 (Vanløse – Kongens Nytorv – Cityringen – Aeroporto de Kastrup / Vestamager) & S-tog nas Ilhas de Sjælland e Amager",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas M1, M2, M3 (Cityringen) e M4 do Metrô de Copenhague",
+          "Estação Central København H (S-tog, DSB InterCityLyn e Øresundståg)"
+        ],
+        "sistema_nome_pt": "Metrô Automatizado 24/7 de Copenhague (Linhas M1, M2, M3 Cityringen e M4 Nordhavn/Sydhavn), Rede S-tog e Øresundsbanen (Ilha de Zelândia / Sjælland e Amager)",
+        "sistema_nome_en": "Copenhagen 24/7 Automated Metro (Lines M1, M2, M3 Cityringen & M4 Nordhavn/Sydhavn), S-tog Network & Øresundsbanen (Zealand / Sjælland & Amager Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5858,
+          55.6795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-automatizado-de-copenhague-m1-m4-cityringen-s-tog-e-oresundsbanen-ilha-de-zelandia-sjaelland-e-amager-dinamarca",
+        "nome": "Københavns Lufthavn (Copenhagen Airport Kastrup) & Ørestad Station (Metrô M1/M2 e Ferrovia de Øresund na Ilha de Amager, Dinamarca)",
+        "linha": "Metrô de Copenhague M1–M4 (Vanløse – Kongens Nytorv – Cityringen – Aeroporto de Kastrup / Vestamager) & S-tog nas Ilhas de Sjælland e Amager",
+        "status": "operacao",
+        "integracoes": [
+          "Aeroporto Internacional de Copenhague Kastrup (Terminal 3)",
+          "Ponte-Túnel de Øresund para Malmö (Suécia) e Linha M1 em Ørestad"
+        ],
+        "sistema_nome_pt": "Metrô Automatizado 24/7 de Copenhague (Linhas M1, M2, M3 Cityringen e M4 Nordhavn/Sydhavn), Rede S-tog e Øresundsbanen (Ilha de Zelândia / Sjælland e Amager)",
+        "sistema_nome_en": "Copenhagen 24/7 Automated Metro (Lines M1, M2, M3 Cityringen & M4 Nordhavn/Sydhavn), S-tog Network & Øresundsbanen (Zealand / Sjælland & Amager Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6492,
+          55.6295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bondes-de-hisingen-goteborgs-sparvagar-ponte-hisingsbron-wieselgrensplatsen-lansmansgarden-ilha-de-hisingen-gotemburgo-suecia",
+        "nome": "Hjalmar Brantingsplatsen (Hub Central de Bondes e VLT da Ilha de Hisingen após a Ponte Hisingsbron, Gotemburgo)",
+        "linha": "Bondes da Ilha de Hisingen (Ponte Hisingsbron – Hjalmar Brantingsplatsen – Wieselgrensplatsen – Eketrägatan – Länsmansgården)",
+        "status": "operacao",
+        "integracoes": [
+          "Linhas 5, 6, 10 e 13 do Bonde de Gotemburgo (Göteborgs Spårvägar)",
+          "Terminal Rodoviário Metropolitano de Hisingen (Västtrafik)"
+        ],
+        "sistema_nome_pt": "Rede de Bondes da Ilha de Hisingen — Göteborgs Spårvägar (Linhas 5, 6, 10 e 13 via Ponte Hisingsbron até Hjalmar Brantingsplatsen e Länsmansgården)",
+        "sistema_nome_en": "Hisingen Island Tram Network — Göteborgs Spårvägar (Lines 5, 6, 10 & 13 via Hisingsbron Bridge to Hjalmar Brantingsplatsen & Länsmansgården)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9542,
+          57.7192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-portuaria-hamnbanan-skandiahamnen-volvo-torslanda-bohusbanan-ilha-de-hisingen-gotemburgo-suecia",
+        "nome": "Skandiahamnen Rail Terminal & Volvo Torslanda Yard (Terminal Intermodal do Porto de Gotemburgo na Ilha de Hisingen, Suécia)",
+        "linha": "Ferrovia Portuária Hamnbanan (Marieholm – Túnel Pölsebo – Skandiahamnen / Arendal – Fábrica Volvo Torslanda na Ilha de Hisingen)",
+        "status": "operacao",
+        "integracoes": [
+          "APM Terminals Gothenburg (Rail Shuttle System para 25 portos secos nórdicos)",
+          "Fábrica Automotiva Volvo Cars Torslanda e Terminal Ro-Ro de Arendal"
+        ],
+        "sistema_nome_pt": "Ferrovia Portuária Hamnbanan em Dupla Via Eletrificada (Marieholm – Pölsebo – Porto de Gotemburgo Skandiahamnen e Fábrica Volvo Torslanda) na Ilha de Hisingen",
+        "sistema_nome_en": "Hamnbanan Double-Track Electrified Port Railway (Marieholm – Pölsebo – Port of Gothenburg Skandiahamnen & Volvo Torslanda Plant) on Hisingen Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8545,
+          57.6925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-insular-kotka-hovinsaari-kantasatama-porto-de-mussalo-e-corredor-arquipelago-de-turku-naantali-parainen-finlandia",
+        "nome": "Kotka Satama & Mussalo Deepwater Rail Yard (Estação Insular de Kotka e Maior Pátio Ferroviário Portuário da Finlândia na Ilha de Mussalo)",
+        "linha": "Ferrovia Insular de Kotka (Hovinsaari – Kotka Satama – Porto de Mussalo) & Terminais Ferroviários do Arquipélago de Turku / Naantali",
+        "status": "operacao",
+        "integracoes": [
+          "Trens Regionais VR O-train (Kouvola–Kotka Satama)",
+          "Terminal de Contêineres e Celulose de Mussalo (Port of HaminaKotka)"
+        ],
+        "sistema_nome_pt": "Ferrovia Insular de Kotka e Pátio Portuário de Mussalo (Kouvola – Hovinsaari – Kotka Satama / Mussalo) e Corredores Ferroviários do Arquipélago de Turku e Naantali",
+        "sistema_nome_en": "Kotka Island Railway & Mussalo Port Yard (Kouvola – Hovinsaari – Kotka Satama / Mussalo) & Turku Archipelago / Naantali Rail Corridors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8895,
+          60.4368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-insular-kotka-hovinsaari-kantasatama-porto-de-mussalo-e-corredor-arquipelago-de-turku-naantali-parainen-finlandia",
+        "nome": "Turku Satama (Turun satama) & Naantali Ferry Rail Terminal (Terminais Ferroviários do Arquipélago de Turku, Finlândia)",
+        "linha": "Ferrovia Insular de Kotka (Hovinsaari – Kotka Satama – Porto de Mussalo) & Terminais Ferroviários do Arquipélago de Turku / Naantali",
+        "status": "operacao",
+        "integracoes": [
+          "Trens VR Pendolino e InterCity para Helsinque e Tampere",
+          "Ferries Viking Line e Tallink Silja pelo Arquipélago de Turku e Åland até Estocolmo"
+        ],
+        "sistema_nome_pt": "Ferrovia Insular de Kotka e Pátio Portuário de Mussalo (Kouvola – Hovinsaari – Kotka Satama / Mussalo) e Corredores Ferroviários do Arquipélago de Turku e Naantali",
+        "sistema_nome_en": "Kotka Island Railway & Mussalo Port Yard (Kouvola – Hovinsaari – Kotka Satama / Mussalo) & Turku Archipelago / Naantali Rail Corridors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2285,
+          60.4352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-historicas-portuarias-kuressaare-roomassaare-kingissepa-saaremaa-e-tahkuna-lehtma-hiiumaa-estonia",
+        "nome": "Roomassaare Harbour & Kuressaare Castle Station (Terminal da Ferrovia Insular de Saaremaa, Estônia)",
+        "linha": "Ferrovia de Kuressaare – Porto de Roomassaare (Ilha de Saaremaa) e Linha Costeira de Tahkuna – Porto de Lehtma (Ilha de Hiiumaa)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Roomassaare (Saarte Liinid)",
+          "Castelo Episcopal de Kuressaare"
+        ],
+        "sistema_nome_pt": "Ferrovia Insular de Kuressaare – Porto de Roomassaare (Ilha de Saaremaa) e Trilhos Costeiros de Tahkuna – Porto de Lehtma – Kärdla (Ilha de Hiiumaa, Estônia)",
+        "sistema_nome_en": "Kuressaare – Roomassaare Port Island Railway (Saaremaa Island) & Tahkuna – Lehtma Port – Kärdla Coastal Narrow-Gauge Railway (Hiiumaa Island, Estonia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5055,
+          58.2142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-historicas-portuarias-kuressaare-roomassaare-kingissepa-saaremaa-e-tahkuna-lehtma-hiiumaa-estonia",
+        "nome": "Tahkuna Peninsula & Lehtma Port Railway Station (Ferrovia Costeira e Museu Militar da Ilha de Hiiumaa, Estônia)",
+        "linha": "Ferrovia de Kuressaare – Porto de Roomassaare (Ilha de Saaremaa) e Linha Costeira de Tahkuna – Porto de Lehtma (Ilha de Hiiumaa)",
+        "status": "operacao",
+        "integracoes": [
+          "Museu Militar de Hiiumaa em Tahkuna (Locomotiva e Vagões de Bitola 750 mm)",
+          "Porto de Lehtma e Farol de Tahkuna"
+        ],
+        "sistema_nome_pt": "Ferrovia Insular de Kuressaare – Porto de Roomassaare (Ilha de Saaremaa) e Trilhos Costeiros de Tahkuna – Porto de Lehtma – Kärdla (Ilha de Hiiumaa, Estônia)",
+        "sistema_nome_en": "Kuressaare – Roomassaare Port Island Railway (Saaremaa Island) & Tahkuna – Lehtma Port – Kärdla Coastal Narrow-Gauge Railway (Hiiumaa Island, Estonia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5895,
+          59.0912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-articas-breivika-tromsoya-andoya-spaceport-sortland-svolvaer-ilhas-lofoten-vesteralen-noruega",
+        "nome": "Tromsøya — Porto de Breivika & Estaleiro Naval de Tromsø (Vias Férreas Portuárias Árticas a 69°40'N, Noruega)",
+        "linha": "Trilhos Portuários e Espaciais Árticos: Tromsøya (Breivika), Andøya Spaceport / Sortland (Vesterålen) e Svolvær (Ilhas Lofoten)",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Ártico do Hurtigruten e Havila Kystruten em Tromsø",
+          "Porto de Contêineres de Breivika na Ilha de Tromsøya"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias, Navais e Aeroespaciais do Ártico Norueguês: Porto de Breivika em Tromsøya (Tromsø), Andøya Spaceport / Sortland (Vesterålen) e Svolvær (Lofoten)",
+        "sistema_nome_en": "Norwegian Arctic Port, Shipyard & Spaceport Rail Tracks: Breivika Port on Tromsøya (Tromsø), Andøya Spaceport / Sortland (Vesterålen) & Svolvær (Lofoten Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9752,
+          69.6785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-articas-breivika-tromsoya-andoya-spaceport-sortland-svolvaer-ilhas-lofoten-vesteralen-noruega",
+        "nome": "Andøya Spaceport & Svolvær Harbour Rail Slipways (Base Espacial de Vesterålen e Porto Capital de Lofoten — Estação Nº 1.310 e Ronda #100 do Atlas!)",
+        "linha": "Trilhos Portuários e Espaciais Árticos: Tromsøya (Breivika), Andøya Spaceport / Sortland (Vesterålen) e Svolvær (Ilhas Lofoten)",
+        "status": "operacao",
+        "integracoes": [
+          "Andøya Spaceport (Nordmela / Oksebåsen)",
+          "Porto do Hurtigruten em Svolvær (Ilha de Austvågøya, Lofoten) e Sortland"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias, Navais e Aeroespaciais do Ártico Norueguês: Porto de Breivika em Tromsøya (Tromsø), Andøya Spaceport / Sortland (Vesterålen) e Svolvær (Lofoten)",
+        "sistema_nome_en": "Norwegian Arctic Port, Shipyard & Spaceport Rail Tracks: Breivika Port on Tromsøya (Tromsø), Andøya Spaceport / Sortland (Vesterålen) & Svolvær (Lofoten Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5682,
+          68.2345
+        ]
+      }
     }
   ]
 }
