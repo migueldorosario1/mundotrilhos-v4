@@ -10,13 +10,13 @@
   "pageDescription": "Mapa interativo e geodinâmico dos sistemas sobre trilhos do Brasil e do mundo: metrôs, trens de alta velocidade (TAV), trens urbanos, VLTs, monotrilhos e grandes corredores ferroviários.",
   "heroKicker": "ATLAS FERROVIÁRIO INTERATIVO · LINHAS EM OPERAÇÃO NO BRASIL & MUNDO",
   "heroTitle": "Mapa dos Trilhos",
-  "heroSubtitle": "Explore as redes ferroviárias em operação no Brasil e no mundo separadas em 5 modalidades: Trem de alta velocidade, Metrô, VLT, Trem convencional e Trem de frete (cargas). Filtre por país ou modalidade, passe o mouse nas estações para ver os nomes ou clique num sistema para destacá-lo.",
-  "searchPlaceholder": "Buscar por país, cidade ou sistema em operação (ex.: São Paulo, Pequim, Xangai, TAV, VLT, Carajás)...",
+  "heroSubtitle": "Explore as redes sobre trilhos e hidroviárias em operação no Brasil e no mundo separadas em 6 modalidades: Trem de alta velocidade, Metrô, VLT, Trem convencional, Trem de frete (cargas) e Transporte por barco (barcas e ferries). Filtre por país ou modalidade, passe o mouse nas estações/terminais para ver os nomes ou clique num sistema para destacá-lo.",
+  "searchPlaceholder": "Buscar por país, cidade ou sistema em operação (ex.: São Paulo, Pequim, Barcas, VLT, Carajás)...",
   "filterPaisLabel": "País",
   "filterTipoLabel": "Modalidade",
   "filterStatusLabel": "Status",
   "filterAll": "Todas",
-  "toggleCargaLabel": "Mostrar todas as 5 modalidades em operação",
+  "toggleCargaLabel": "Mostrar todas as 6 modalidades em operação",
   "projectionGlobe": "🌍 Globo 3D",
   "projectionFlat": "🗺️ Mapa-múndi Plano",
   "worldViewBtn": "🌎 Visão Planetária",
@@ -28,7 +28,8 @@
     "metro": "Metrô",
     "vlt": "VLT",
     "trem_convencional": "Trem convencional",
-    "ferrovia_carga": "Trem de frete (cargas)"
+    "ferrovia_carga": "Trem de frete (cargas)",
+    "barco": "Transporte por barco (barcas e ferries)"
   },
   "status": {
     "operacao": "Em operação",

@@ -4,6 +4,7 @@ export type SistemaTipo =
 	| 'vlt'
 	| 'trem_convencional'
 	| 'ferrovia_carga'
+	| 'barco'
 	| 'trem_urbano'
 	| 'monotrilho'
 	| 'aeromovel'
