@@ -38697,6 +38697,514 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-vaporetti-actv-canal-grande-lido-murano-burano-veneza",
+        "sistema_id": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+        "nome": "Rede Metropolitana de Vaporetti ACTV de Veneza (Linhas 1, 2, 4.1, 5.1 e 12): Piazzale Roma / Ferrovia Santa Lucia – Canal Grande (Rialto / San Marco) – Lido di Venezia – Murano – Burano (Itália)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "ACTV / Gruppo AVM Venezia (Itália)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3185,
+            45.438
+          ],
+          [
+            12.3215,
+            45.441
+          ],
+          [
+            12.3358,
+            45.438
+          ],
+          [
+            12.3385,
+            45.4332
+          ],
+          [
+            12.3695,
+            45.4175
+          ],
+          [
+            12.3525,
+            45.4545
+          ],
+          [
+            12.4165,
+            45.4855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-navigazione-laghi-como-bellagio-gardone-stresa-italia",
+        "sistema_id": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+        "nome": "Navigazione Laghi (Lago de Como, Lago de Garda e Lago Maggiore): Como – Tremezzo – Bellagio – Varenna – Colico & Desenzano – Sirmione – Limone – Riva del Garda (Itália)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Gestione Governativa Navigazione Laghi (Itália)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0815,
+            45.8125
+          ],
+          [
+            9.2315,
+            45.9615
+          ],
+          [
+            9.2585,
+            45.9875
+          ],
+          [
+            9.2825,
+            46.0115
+          ],
+          [
+            9.3715,
+            46.1355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-golfo-de-napoles-molo-beverello-capri-ischia-procida-sorrento-amalfi",
+        "sistema_id": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+        "nome": "Aliscafi e Ferries do Golfo de Nápoles e Costa Amalfitana: Nápoles (Molo Beverello / Porta di Massa) – Procida – Ischia – Capri – Sorrento – Positano – Amalfi – Salerno (Itália)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Caremar, SNAV, Alilauro & NLG (Golfo de Nápoles, Itália)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.9285,
+            40.7425
+          ],
+          [
+            14.0265,
+            40.7655
+          ],
+          [
+            14.2565,
+            40.8375
+          ],
+          [
+            14.3725,
+            40.6285
+          ],
+          [
+            14.2425,
+            40.5555
+          ],
+          [
+            14.4845,
+            40.6265
+          ],
+          [
+            14.6025,
+            40.6335
+          ],
+          [
+            14.7595,
+            40.6755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-mar-egeu-pireu-syros-mykonos-paros-naxos-santorini-heraklion-creta",
+        "sistema_id": "rede-ferries-mar-egeu-pireu-ciclades-santorini-creta-rodes-grecia",
+        "nome": "Corredor Central do Mar Egeu (Cíclades e Creta): Porto do Pireu (Atenas) – Syros – Mykonos – Paros – Naxos – Ios – Santorini (Porto de Athinios) – Heraklion (Creta, Grécia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Blue Star Ferries, SeaJets & Minoan Lines (Mar Egeu, Grécia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.6415,
+            37.9445
+          ],
+          [
+            24.9455,
+            37.4425
+          ],
+          [
+            25.3255,
+            37.4615
+          ],
+          [
+            25.1485,
+            37.0855
+          ],
+          [
+            25.3725,
+            37.1065
+          ],
+          [
+            25.4315,
+            36.3865
+          ],
+          [
+            25.1465,
+            35.3445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-golfo-saronico-dodecaneso-pireu-egina-hidra-kos-rodes-grecia",
+        "sistema_id": "rede-ferries-mar-egeu-pireu-ciclades-santorini-creta-rodes-grecia",
+        "nome": "Eixo Golfo Sarônico e Dodecaneso: Porto do Pireu – Egina – Poros – Hidra – Spetses & Pireu – Patmos – Kos – Rodes (Grécia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Hellenic Seaways (Aero Highspeed) & Blue Star Ferries (Grécia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.1585,
+            37.2655
+          ],
+          [
+            23.4655,
+            37.3515
+          ],
+          [
+            23.4285,
+            37.7475
+          ],
+          [
+            23.6415,
+            37.9445
+          ],
+          [
+            26.5485,
+            37.3225
+          ],
+          [
+            27.2915,
+            36.8955
+          ],
+          [
+            28.2285,
+            36.4455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-sehir-hatlari-transcontinental-eminonu-karakoy-besiktas-uskudar-kadikoy",
+        "sistema_id": "rede-barcas-sehir-hatlari-ido-bosforo-corno-de-ouro-istambul-turquia",
+        "nome": "Travessias Transcontinentais Europa–Ásia e Linha do Bósforo (Şehir Hatları): Eminönü / Karaköy / Kabataş / Beşiktaş – Üsküdar / Kadıköy – Ortaköy – Bebek – Emirgan – Sarıyer (Istambul, Turquia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Şehir Hatları A.Ş. (Município Metropolitano de Istambul, Turquia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9735,
+            41.0185
+          ],
+          [
+            29.0215,
+            40.9925
+          ],
+          [
+            29.0135,
+            41.0265
+          ],
+          [
+            29.0065,
+            41.0415
+          ],
+          [
+            29.0275,
+            41.0475
+          ],
+          [
+            29.0445,
+            41.0765
+          ],
+          [
+            29.0555,
+            41.1065
+          ],
+          [
+            29.0575,
+            41.1685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-corno-de-ouro-halic-hatti-uskudar-karakoy-fener-balat-eyupsultan",
+        "sistema_id": "rede-barcas-sehir-hatlari-ido-bosforo-corno-de-ouro-istambul-turquia",
+        "nome": "Linha do Corno de Ouro (Haliç Hattı) e Ilhas dos Príncipes (Adalar): Üsküdar – Karaköy – Fener – Balat – Eyüpsultan & Kabataş – Kadıköy – Heybeliada – Büyükada (Istambul, Turquia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Şehir Hatları A.Ş. (Haliç & Adalar Hatları, Istambul)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9385,
+            41.0475
+          ],
+          [
+            28.9495,
+            41.0325
+          ],
+          [
+            28.9735,
+            41.0185
+          ],
+          [
+            29.0215,
+            40.9925
+          ],
+          [
+            29.0915,
+            40.8765
+          ],
+          [
+            29.1245,
+            40.8745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-ido-mar-de-marmara-yenikapi-bostanci-yalova-mudanya-bursa-bandirma",
+        "sistema_id": "rede-barcas-sehir-hatlari-ido-bosforo-corno-de-ouro-istambul-turquia",
+        "nome": "Catamarãs Rápidos do Mar de Mármara (İDO e BUDO): Yenikapı / Eminönü / Bostancı (Istambul) – Yalova – Mudanya (Bursa) – Bandırma (Turquia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "İDO İstanbul Deniz Otobüsleri & BUDO (Mar de Mármara, Turquia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9555,
+            41.0015
+          ],
+          [
+            29.2715,
+            40.6585
+          ],
+          [
+            28.8855,
+            40.3765
+          ],
+          [
+            27.9715,
+            40.3545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-transtejo-soflusa-terreiro-do-paco-cais-do-sodre-belem-cacilhas-barreiro-seixal-montijo",
+        "sistema_id": "rede-fluvial-transtejo-soflusa-rio-tejo-lisboa-setubal-troia-portugal",
+        "nome": "Rede Fluvial Metropolitana do Rio Tejo (Transtejo / Soflusa): Terreiro do Paço – Barreiro & Cais do Sodré – Cacilhas (Almada) / Seixal / Montijo & Belém – Porto Brandão – Trafaria (Lisboa, Portugal)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "TTSL — Transtejo Soflusa (Área Metropolitana de Lisboa, Portugal)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.2015,
+            38.6945
+          ],
+          [
+            -9.2315,
+            38.6745
+          ],
+          [
+            -9.1445,
+            38.7055
+          ],
+          [
+            -9.1475,
+            38.6885
+          ],
+          [
+            -9.1015,
+            38.6455
+          ],
+          [
+            -9.1325,
+            38.7065
+          ],
+          [
+            -9.0785,
+            38.6525
+          ],
+          [
+            -9.0025,
+            38.6965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-atlantic-ferries-estuario-do-sado-setubal-peninsula-de-troia",
+        "sistema_id": "rede-fluvial-transtejo-soflusa-rio-tejo-lisboa-setubal-troia-portugal",
+        "nome": "Travessia Fluvial do Estuário do Rio Sado (Atlantic Ferries): Doca do Comércio / Cais 3 (Setúbal) – Ponta do Adoxe / Marina de Tróia (Portugal)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Atlantic Ferries (Setúbal–Tróia, Portugal)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8895,
+            38.5205
+          ],
+          [
+            -8.8985,
+            38.4945
+          ],
+          [
+            -8.8825,
+            38.4815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-balearia-mediterraneo-barcelona-valencia-denia-ibiza-maiorca-menorca",
+        "sistema_id": "rede-ferries-balearia-mediterraneo-gibraltar-algeciras-cadiz-vigo-espanha",
+        "nome": "Corredor Mediterrâneo Baleària (Continente – Ilhas Baleares): Barcelona / Valência / Dénia – Ibiza – Formentera – Palma de Maiorca – Alcúdia – Ciutadella de Menorca (Espanha)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Baleària & Trasmed (Mar Balear, Espanha)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3185,
+            39.4425
+          ],
+          [
+            0.1185,
+            38.8425
+          ],
+          [
+            1.4385,
+            38.9125
+          ],
+          [
+            2.6325,
+            39.5585
+          ],
+          [
+            2.1765,
+            41.3685
+          ],
+          [
+            3.1285,
+            39.8355
+          ],
+          [
+            3.8245,
+            40.0015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-estreito-de-gibraltar-baia-de-cadiz-algeciras-tarifa-ceuta-tanger-vigo",
+        "sistema_id": "rede-ferries-balearia-mediterraneo-gibraltar-algeciras-cadiz-vigo-espanha",
+        "nome": "Travessias do Estreito de Gibraltar e Catamarãs Metropolitanos da Baía de Cádiz e Ria de Vigo: Algeciras / Tarifa – Ceuta / Tânger & Cádiz – El Puerto de Santa María – Rota (Espanha)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Baleària, FRS Iberia & Consorcio de Transportes de la Bahía de Cádiz (Espanha)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.3585,
+            36.6185
+          ],
+          [
+            -6.2885,
+            36.5335
+          ],
+          [
+            -5.6055,
+            36.0115
+          ],
+          [
+            -5.8025,
+            35.7865
+          ],
+          [
+            -5.4415,
+            36.1285
+          ],
+          [
+            -5.3125,
+            35.8915
+          ]
+        ]
+      }
     }
   ]
 }
