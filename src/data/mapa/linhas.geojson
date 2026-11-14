@@ -32345,6 +32345,194 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "island-line-ryde-pier-head-shanklin-isle-of-wight-steam-railway-ilha-de-wight",
+        "linha": "Island Line (Ryde Pier Head – Smallbrook Junction – Sandown – Shanklin) & Isle of Wight Steam Railway (Smallbrook – Havenstreet – Wootton)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Island Line (Trem Elétrico Ryde Pier Head – Sandown – Shanklin) e Isle of Wight Steam Railway (Smallbrook Junction – Havenstreet – Wootton, Ilha de Wight, Reino Unido)",
+        "sistema_nome_en": "Island Line (Electric Railway Ryde Pier Head – Sandown – Shanklin) & Isle of Wight Steam Railway (Smallbrook Junction – Havenstreet – Wootton, Isle of Wight, UK)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.1602,
+            50.7395
+          ],
+          [
+            -1.1485,
+            50.7105
+          ],
+          [
+            -1.1595,
+            50.6545
+          ],
+          [
+            -1.1795,
+            50.6315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-ferroviario-anglesey-llanfairpwllgwyngyll-holyhead-scapa-flow-orcades",
+        "linha": "Corredor Ferroviário Insular de Anglesey (Britannia Bridge – Llanfairpwllgwyngyll – Bodorgan – Valley – Porto de Holyhead, País de Gales)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Corredor Ferroviário da Ilha de Anglesey (Ponte Britannia – Llanfairpwllgwyngyll – Porto de Holyhead, País de Gales) e Trilhos Navais de Scapa Flow (Ilhas Órcades, Escócia)",
+        "sistema_nome_en": "Anglesey Island Railway Corridor (Britannia Bridge – Llanfairpwllgwyngyll – Holyhead Port, Wales) & Scapa Flow Naval Rail Tracks (Orkney Islands, Scotland)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.1855,
+            53.2155
+          ],
+          [
+            -4.2072,
+            53.2218
+          ],
+          [
+            -4.6335,
+            53.3085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "le-ptit-train-de-saint-trojan-gatseau-maumusson-ilha-de-oleron-e-re",
+        "linha": "Le P'tit Train de Saint-Trojan (Gare de Saint-Trojan-les-Bains – Les Genêts – Plage de Gatseau – Pertuis de Maumusson, Ilha de Oléron)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Le P'tit Train de Saint-Trojan (Ferrovia Florestal e Costeira Decauville 600 mm Saint-Trojan-les-Bains – Gatseau – Maumusson, Ilha de Oléron e Ilha de Ré, França)",
+        "sistema_nome_en": "Le P'tit Train de Saint-Trojan (600 mm Decauville Forest & Coastal Railway Saint-Trojan-les-Bains – Gatseau – Maumusson, Oléron and Ré Islands, France)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.2095,
+            45.8415
+          ],
+          [
+            -1.2245,
+            45.8265
+          ],
+          [
+            -1.2425,
+            45.8155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-costeiras-rijkswaterstaat-vlieland-texel-bonde-schiermonnikoog-ilhas-frisias",
+        "linha": "Vias Costeiras de Proteção de Dunas de Vlieland e Texel (Rijkswaterstaat) & Corredor Patrimonial de Schiermonnikoog (Ilhas Frísias Holandesas)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Férreas Costeiras e de Diques de Vlieland e Texel (Rijkswaterstaat) e Patrimônio Ferroviário de Schiermonnikoog e Ameland (Ilhas Frísias Holandesas)",
+        "sistema_nome_en": "Vlieland and Texel Coastal Dike Railways (Rijkswaterstaat) & Schiermonnikoog and Ameland Island Rail Heritage (Dutch Frisian Islands, Netherlands)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8565,
+            53.1825
+          ],
+          [
+            5.0685,
+            53.2965
+          ],
+          [
+            6.1625,
+            53.4785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "odense-letbane-vlt-tarup-banegard-sdu-hjallese-ilha-de-fionia-dinamarca",
+        "linha": "Odense Letbane (Tarup Center – Odense Banegård Center – Albani Torv – SDU Syddansk Universitet – Nyt OUH – Hjallese Station, Ilha de Fiónia)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Odense Letbane — VLT da Ilha de Fiónia (Tarup Center – Odense Banegård Center – Universidade SDU – Novo Hospital Universitário – Hjallese, Dinamarca)",
+        "sistema_nome_en": "Odense Letbane — Funen Island Light Rail (Tarup Center – Odense Central Station – SDU University – New University Hospital – Hjallese, Denmark)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3345,
+            55.4125
+          ],
+          [
+            10.3865,
+            55.4018
+          ],
+          [
+            10.4285,
+            55.3685
+          ],
+          [
+            10.3885,
+            55.3495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-ferroviario-grande-belt-nyborg-odense-middelfart-museumsbanen-maribo-bandholm-lolland",
+        "linha": "Tronco da Ilha de Fiónia (Ponte do Grande Belt Nyborg – Odense – Middelfart) & Lollandsbanen / Museumsbanen Maribo – Bandholm (Ilha de Lolland)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Tronco Ferroviário da Ilha de Fiónia (Ponte do Grande Belt Nyborg – Odense – Middelfart) e Museumsbanen Maribo – Bandholm (Ilha de Lolland, Dinamarca — Estação Nº 1.230 do Atlas!)",
+        "sistema_nome_en": "Funen Island Mainline Railway (Great Belt Fixed Link Nyborg – Odense – Middelfart) & Museumsbanen Maribo – Bandholm (Lolland Island, Denmark — Station #1,230!)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7895,
+            55.3125
+          ],
+          [
+            10.3865,
+            55.4018
+          ],
+          [
+            9.7315,
+            55.5055
+          ]
+        ]
+      }
     }
   ]
 }
