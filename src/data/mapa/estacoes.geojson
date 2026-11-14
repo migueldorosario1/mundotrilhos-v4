@@ -21552,6 +21552,226 @@
           13.4515
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-snim-zouerate-fderik-choum-nouadhibou-trem-do-deserto-mauritania",
+        "nome": "Terminal Mineral de Cansado / Porto de Nouadhibou (SNIM, Mauritânia)",
+        "linha": "Superferrovia Heavy-Haul SNIM",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Mineral de Point Central / Cansado",
+          "Oficinas Locomotivas EMD SD70ACS SNIM"
+        ],
+        "sistema_nome_pt": "Ferrovia da Mauritânia — 'Train du Désert' SNIM (Superferrovia Heavy-Haul de Minério de Ferro Zouérat / F'dérik – Choum – Porto de Nouadhibou, Mauritânia)",
+        "sistema_nome_en": "Mauritania Railway 'Train du Désert' SNIM Heavy-Haul Iron Ore Line (Zouérat / F'dérik – Choum – Port of Nouadhibou, Mauritania)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.0465,
+          20.8925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-snim-zouerate-fderik-choum-nouadhibou-trem-do-deserto-mauritania",
+        "nome": "Complexo Ferroviário das Minas de Ferro de Zouérat / Guelb El Rhein e F'dérik (Tiris Zemmour, Mauritânia)",
+        "linha": "Superferrovia Heavy-Haul SNIM",
+        "status": "operacao",
+        "integracoes": [
+          "Minas de Kédia d'Idjil e Guelb El Rhein",
+          "Estação Ferroviária de Zouérat"
+        ],
+        "sistema_nome_pt": "Ferrovia da Mauritânia — 'Train du Désert' SNIM (Superferrovia Heavy-Haul de Minério de Ferro Zouérat / F'dérik – Choum – Porto de Nouadhibou, Mauritânia)",
+        "sistema_nome_en": "Mauritania Railway 'Train du Désert' SNIM Heavy-Haul Iron Ore Line (Zouérat / F'dérik – Choum – Port of Nouadhibou, Mauritania)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.4725,
+          22.7345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trem-passageiros-deserto-choum-atar-zouerate-nouadhibou-snim-mauritania",
+        "nome": "Estação Ferroviária de Choum (Conexão para Atar e Oásis de Adrar, Mauritânia)",
+        "linha": "Serviço de Passageiros do Trem do Deserto",
+        "status": "operacao",
+        "integracoes": [
+          "Portal Rodoviário para Atar e Chinguetti (UNESCO)",
+          "Antigo Túnel Ferroviário de Choum"
+        ],
+        "sistema_nome_pt": "Serviço de Passageiros do 'Trem do Deserto' SNIM (Nouadhibou – Boulenouar – Choum / Atar – Zouérat, Mauritânia)",
+        "sistema_nome_en": "SNIM Sahara Passenger Train Service (Nouadhibou – Boulenouar – Choum / Atar – Zouérat, Mauritania)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0615,
+          21.2985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-logistico-mineral-fosfato-bou-craa-porto-el-aaiun-phosboucraa-saara-ocidental",
+        "nome": "Píer e Terminal Ferroviário-Portuário de Fosfato de El Aaiún / Laâyoune Plage (Saara Ocidental)",
+        "linha": "Corredor Mineral de Fosfato de Bou Craa – Píer e Porto Mineral de El Aaiún",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de El Aaiún / Laâyoune",
+          "Píer Atlântico Phosboucraa de 3,2 km"
+        ],
+        "sistema_nome_pt": "Corredor Mineral Guiado de Fosfato de Bou Craa – Porto Mineral de El Aaiún / Laâyoune e Vias Portuárias do Píer de Fosfato (Saara Ocidental)",
+        "sistema_nome_en": "Bou Craa – El Aaiún (Laâyoune) Phosphate Guided Transport Corridor & Phosphate Wharf Rail Tracks (Western Sahara)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.4185,
+          27.0485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-logistico-mineral-fosfato-bou-craa-porto-el-aaiun-phosboucraa-saara-ocidental",
+        "nome": "Complexo Minerador de Fosfato de Bou Craa (Saara Ocidental)",
+        "linha": "Corredor Mineral de Fosfato de Bou Craa – Píer e Porto Mineral de El Aaiún",
+        "status": "operacao",
+        "integracoes": [
+          "Mina de Fosfato de Bou Craa (OCP Phosboucraa)",
+          "Terminal de Carregamento do Saara"
+        ],
+        "sistema_nome_pt": "Corredor Mineral Guiado de Fosfato de Bou Craa – Porto Mineral de El Aaiún / Laâyoune e Vias Portuárias do Píer de Fosfato (Saara Ocidental)",
+        "sistema_nome_en": "Bou Craa – El Aaiún (Laâyoune) Phosphate Guided Transport Corridor & Phosphate Wharf Rail Tracks (Western Sahara)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.8485,
+          26.3215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-niamey-dosso-blueline-terminais-uranio-arlit-niger",
+        "nome": "Gare Ferroviaire Terminus de Niamey Hippodrome (1ª Estação Ferroviária da Capital do Níger)",
+        "linha": "Ferrovia Niamey Hippodrome – Kollo – Margou – Dosso",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Urbano de Niamey Hippodrome",
+          "Pátio Ferroviário de Niamey"
+        ],
+        "sistema_nome_pt": "Ferrovia Niamey – Dosso (Trecho Nigerino do Anel Ferroviário Cotonou–Niamey — Estação Terminus de Niamey Hippodrome a Dosso, Níger)",
+        "sistema_nome_en": "Niamey – Dosso Railway (Nigerien Section of the Cotonou–Niamey Rail Loop: Niamey Hippodrome Terminus to Dosso, Niger)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1365,
+          13.5085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-niamey-dosso-blueline-terminais-uranio-arlit-niger",
+        "nome": "Estação Ferroviária e Pátio de Cruzamento de Dosso (Níger)",
+        "linha": "Ferrovia Niamey Hippodrome – Kollo – Margou – Dosso",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Seco de Dosso",
+          "Entroncamento Internacional Benim–Níger"
+        ],
+        "sistema_nome_pt": "Ferrovia Niamey – Dosso (Trecho Nigerino do Anel Ferroviário Cotonou–Niamey — Estação Terminus de Niamey Hippodrome a Dosso, Níger)",
+        "sistema_nome_en": "Niamey – Dosso Railway (Nigerien Section of the Cotonou–Niamey Rail Loop: Niamey Hippodrome Terminus to Dosso, Niger)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1945,
+          13.0485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "terminal-ferroviario-intermodal-ndjamena-corredor-camrail-ngaoundere-chade",
+        "nome": "Porto Seco e Terminal Ferroviário-Logístico de Nguéli / N'Djamena (Chade)",
+        "linha": "Terminal Intermodal e Pátio Logístico Ferroviário-Rodoviário de Nguéli / N'Djamena",
+        "status": "operacao",
+        "integracoes": [
+          "Ponte Internacional de Nguéli (Fronteira Chade–Camarões)",
+          "Corredor Intermodal Camrail Ngaoundéré–N'Djamena"
+        ],
+        "sistema_nome_pt": "Terminal Intermodal Ferroviário-Rodoviário de N'Djamena / Nguéli e Corredor Logístico Chadiano via Ngaoundéré / Camrail (Chade)",
+        "sistema_nome_en": "N'Djamena / Nguéli Rail-Road Dry Port & Chad-Cameroon Intermodal Rail Gateway (Chad)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0525,
+          12.0745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fluvial-transbordo-zinga-mongo-lobaye-rio-oubangui-republica-centro-africana",
+        "nome": "Estação e Oficinas Ferroviárias Históricas de Zinga no Rio Oubangui (Lobaye, República Centro-Africana)",
+        "linha": "Ferrovia de Transbordo Fluvial de Zinga – Mongo",
+        "status": "operacao",
+        "integracoes": [
+          "Sítio Patrimonial UNESCO de Zinga",
+          "Cais Fluvial de Zinga no Rio Oubangui"
+        ],
+        "sistema_nome_pt": "Ferrovia de Transbordo Fluvial de Zinga – Mongo (Compagnie Générale de Transport en Afrique — Contorno das Corredeiras do Rio Oubangui em Lobaye, República Centro-Africana)",
+        "sistema_nome_en": "Zinga – Mongo River Portage Railway along the Oubangui Rapids (Lobaye, Central African Republic — UNESCO Tentative Heritage)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5985,
+          3.7085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fluvial-transbordo-zinga-mongo-lobaye-rio-oubangui-republica-centro-africana",
+        "nome": "Terminal Ferroviário Fluvial de Mongo a Montante das Corredeiras de Zinga (República Centro-Africana)",
+        "linha": "Ferrovia de Transbordo Fluvial de Zinga – Mongo",
+        "status": "operacao",
+        "integracoes": [
+          "Hidrovia Bangui – Zinga – Brazzaville",
+          "Porto Fluvial de Mongo"
+        ],
+        "sistema_nome_pt": "Ferrovia de Transbordo Fluvial de Zinga – Mongo (Compagnie Générale de Transport en Afrique — Contorno das Corredeiras do Rio Oubangui em Lobaye, República Centro-Africana)",
+        "sistema_nome_en": "Zinga – Mongo River Portage Railway along the Oubangui Rapids (Lobaye, Central African Republic — UNESCO Tentative Heritage)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6115,
+          3.7585
+        ]
+      }
     }
   ]
 }
