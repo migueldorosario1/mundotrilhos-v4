@@ -24473,5 +24473,384 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "ferry-boat-itajai-navegantes-babitonga-laguna-sc",
+    "slug": "ferry-boat-itajai-navegantes-babitonga-laguna-sc",
+    "nome_pt": "Travessias Hidroviárias de Santa Catarina — Ferry-Boat Itajaí–Navegantes, Baía da Babitonga (São Francisco do Sul–Vila da Glória–Joinville) e Laguna (SC)",
+    "nome_en": "Santa Catarina Coastal & Estuarine Ferries — Itajaí–Navegantes Ferry-Boat, Babitonga Bay (São Francisco do Sul–Vila da Glória–Joinville) & Laguna (SC, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Itajaí, Navegantes, São Francisco do Sul, Joinville e Laguna",
+    "uf": "SC",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "NGI Sul (Itajaí–Navegantes), F. Andreis / Lancha Laranjeiras (Baía da Babitonga) & Laguna Navegação (Laguna)",
+    "inauguracao": "1957 (Ferry-Boat Itajaí–Navegantes pelo Rio Itajaí-Açu)",
+    "extensao_km": 30.0,
+    "bitola": "Estuário do Rio Itajaí-Açu, Baía da Babitonga e Canal da Barra da Lagoa de Santo Antônio em Laguna",
+    "eletrificacao": "Ferry-boats rodofluviais (veículos, ciclistas e pedestres) e lanchas de passageiros",
+    "n_linhas": 3,
+    "n_estacoes": 3,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 95 milhões (modernização dos atracadouros do Rio Itajaí-Açu, Baía da Babitonga e implantação do projeto de mobilidade elétrica aquaviária Itajaí–Navegantes)",
+      "moeda": "BRL",
+      "fonte_id": "sie-sc-ferry-boat-travessias"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação das barcas 100% elétricas para transporte rápido de passageiros e ciclistas no sistema integrado Itajaí–Navegantes (PROMOBIS / Banco Mundial).",
+      "en": "Deployment of 100% electric passenger and cyclist ferries across the Itajaí–Navegantes metropolitan estuary."
+    },
+    "resumo_pt": "O litoral de Santa Catarina conta com três grandes sistemas estaduais de travessia por ferry-boat e lanchas regulados pela SIE-SC/ARESC: a tradicional travessia urbana entre Itajaí e Navegantes sobre a foz do Rio Itajaí-Açu (operada pela NGI Sul em dois pontos — Centro/Pontal e Barra do Rio, transportando milhões de passageiros, ciclistas e veículos por ano entre os dois municípios portuários); as travessias da Baía da Babitonga no norte catarinense (conectando São Francisco do Sul/Laranjeiras à Vila da Glória e Vigorelli em Joinville); e a travessia do Canal da Barra em Laguna rumo à região do Farol de Santa Marta no sul do estado.",
+    "resumo_en": "Santa Catarina's coastline features three strategic state-regulated ferry systems: the high-frequency urban ferry-boat across the Itajaí-Açu River mouth linking the twin port cities of Itajaí and Navegantes (NGI Sul); the Babitonga Bay ferries connecting historic São Francisco do Sul Island to Vila da Glória and Joinville; and the Laguna Barra Channel ferry serving the Santa Marta Lighthouse peninsula.",
+    "lat": -26.9015,
+    "lon": -48.6535,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "sie-sc-ferry-boat-travessias",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "itajaí",
+      "navegantes",
+      "ferry-boat",
+      "baía da babitonga",
+      "são francisco do sul",
+      "joinville",
+      "laguna",
+      "santa catarina",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ferry_boat_Itaja%C3%AD-Navegantes.jpg/800px-Ferry_boat_Itaja%C3%AD-Navegantes.jpg",
+      "credito": "Wikimedia Commons — Ferry-Boat na travessia do Rio Itajaí-Açu entre Itajaí e Navegantes (SC)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Itaja%C3%AD"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-ferry-boat-itajai-navegantes-rio-itajai-acu-sc",
+        "nome": "Ferry-Boat Itajaí–Navegantes: Travessia do Centro (Av. Pref. Paulo Bauer – Pontal de Navegantes) & Travessia da Barra do Rio (Rio Itajaí-Açu, SC)",
+        "status": "operacao",
+        "extensao_km": 3.5,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-baia-da-babitonga-sao-francisco-do-sul-vila-da-gloria-joinville-sc",
+        "nome": "Travessias da Baía da Babitonga: São Francisco do Sul (Centro Histórico / Laranjeiras) – Vila da Glória (Distrito do Saí) – Vigorelli / Joinville (SC)",
+        "status": "operacao",
+        "extensao_km": 24.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-canal-da-barra-laguna-farol-de-santa-marta-sc",
+        "nome": "Travessia do Canal da Barra de Laguna: Balsa Laguna (Molhes da Barra) – Passagem da Barra / Farol de Santa Marta (SC)",
+        "status": "operacao",
+        "extensao_km": 2.5,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferry-boat-baia-de-guaratuba-caioba-travessias-rio-parana-pr",
+    "slug": "ferry-boat-baia-de-guaratuba-caioba-travessias-rio-parana-pr",
+    "nome_pt": "Ferry-Boat da Baía de Guaratuba (Guaratuba–Caiobá / Matinhos) e Travessias Hidroviárias do Rio Paraná — Porto Rico e Querência do Norte (PR)",
+    "nome_en": "Guaratuba Bay Ferry-Boat (Guaratuba–Caiobá / Matinhos) & Upper Paraná River Crossings — Porto Rico & Querência do Norte (PR, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Guaratuba, Matinhos (Caiobá), Porto Rico e Querência do Norte",
+    "uf": "PR",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Internacional Marítima / DER-PR (Baía de Guaratuba) & Operadores Fluviais de Porto Rico / Rio Paraná",
+    "inauguracao": "1960 (Travessia regular de Ferry-Boat da Baía de Guaratuba na rodovia PR-412)",
+    "extensao_km": 51.2,
+    "bitola": "Baía de Guaratuba (Litoral do Paraná) e Calha Principal do Alto Rio Paraná (Noroeste do Paraná)",
+    "eletrificacao": "Ferry-boats rodofluviais de duplo sentido, rebocadores com balsas e lanchas de passageiros",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 14000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 72 milhões (concessão da travessia da Baía de Guaratuba pelo DER-PR e requalificação das rampas fluviais de Porto Rico e São Pedro do Paraná)",
+      "moeda": "BRL",
+      "fonte_id": "der-pr-ferry-boat-guaratuba"
+    },
+    "proximas_entregas": {
+      "pt": "Reconversão dos píeres de Guaratuba e Caiobá para terminais turísticos e de transporte aquaviário de passageiros na Baía de Guaratuba.",
+      "en": "Conversion of the Guaratuba and Caiobá ferry piers into dedicated passenger and tourist waterbus terminals."
+    },
+    "resumo_pt": "Complementando a rede de barcas da Baía de Paranaguá/Ilha do Mel, o Paraná opera duas importantes frentes hidroviárias: no litoral sul, o histórico Ferry-Boat da Baía de Guaratuba conecta ininterruptamente 24h por dia a Ponta da Passagem (Guaratuba) à Prainha de Caiobá (Matinhos) na rodovia PR-412; já no extremo noroeste paranaense, ao longo do arquipélago fluvial de Ilha Grande e das águas cristalinas do Alto Rio Paraná, balsas e lanchas de passageiros interligam Porto Rico, Porto São José (São Pedro do Paraná) e Porto Felício (Querência do Norte) às ilhas fluviais e à margem sul-mato-grossense.",
+    "resumo_en": "In addition to the Paranaguá Bay / Ilha do Mel boat network, Paraná operates two key waterway corridors: on the southern coast, the 24-hour Guaratuba Bay Ferry-Boat links Guaratuba and Caiobá (Matinhos) along highway PR-412; in northwestern Paraná along the Upper Paraná River, passenger launches and ferries link Porto Rico, Porto São José and Querência do Norte to river islands and Mato Grosso do Sul.",
+    "lat": -25.8605,
+    "lon": -48.5635,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "der-pr-ferry-boat-guaratuba",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "guaratuba",
+      "caiobá",
+      "matinhos",
+      "baía de guaratuba",
+      "porto rico",
+      "rio paraná",
+      "ferry-boat",
+      "paraná",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ferry-boat_Guaratuba.jpg/800px-Ferry-boat_Guaratuba.jpg",
+      "credito": "Wikimedia Commons — Travessia de Ferry-Boat na Baía de Guaratuba entre Guaratuba e Caiobá / Matinhos (PR)",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Guaratuba"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-ferry-boat-baia-de-guaratuba-caioba-matinhos-pr",
+        "nome": "Ferry-Boat da Baía de Guaratuba (PR-412): Terminal Ponta da Passagem (Guaratuba) – Terminal Prainha de Caiobá (Matinhos, PR)",
+        "status": "operacao",
+        "extensao_km": 3.2,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-rio-parana-porto-rico-porto-sao-jose-querencia-do-norte-pr-ms",
+        "nome": "Travessias do Alto Rio Paraná: Porto São José – Porto Rico – Ilha Porto Rico – Porto Felício / Querência do Norte (PR/MS)",
+        "status": "operacao",
+        "extensao_km": 48.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessia-rio-grande-sao-jose-do-norte-hidrovia-lagoa-dos-patos-jacui-rs",
+    "slug": "travessia-rio-grande-sao-jose-do-norte-hidrovia-lagoa-dos-patos-jacui-rs",
+    "nome_pt": "Travessia Hidroviária Rio Grande–São José do Norte e Hidrovia Gaúcha da Lagoa dos Patos / Rio Jacuí–Taquari (RS)",
+    "nome_en": "Rio Grande–São José do Norte Estuarine Ferry & Patos Lagoon / Jacuí–Taquari Waterway Network (RS, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Rio Grande, São José do Norte, Pelotas, Rio Pardo e Estrela",
+    "uf": "RS",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Transnorte / Transporte Marítimo São José do Norte (Lanchas e Balsas) & Navegação Aliança / Portos RS (Hidrovia Gaúcha)",
+    "inauguracao": "1835 (Travessia histórica do Canal do Norte entre Rio Grande e São José do Norte)",
+    "extensao_km": 526.5,
+    "bitola": "Estuário da Lagoa dos Patos (Canal do Norte), Lagoa dos Patos, Canal São Gonçalo e Rios Jacuí / Taquari (Calado 5,1 m)",
+    "eletrificacao": "Lanchas de passageiros, balsas rodofluviais e navios fluviais / comboios graneleiros e de celulose",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 6500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 310 milhões (dragagem dos canais da Lagoa dos Patos e Rio Jacuí pela Portos RS e modernização dos terminais hidroviários de Rio Grande, São José do Norte e Pelotas)",
+      "moeda": "BRL",
+      "fonte_id": "portos-rs-metroplan-hidrovias"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação da navegação noturna balizada na Lagoa dos Patos e modernização das eclusas de Bom Retiro do Sul (Rio Taquari) e Dom Marco / Amarópolis (Rio Jacuí).",
+      "en": "Expansion of night-time buoyed navigation across Patos Lagoon and modernization of locks along the Jacuí and Taquari rivers."
+    },
+    "resumo_pt": "No sul do Rio Grande do Sul, a travessia hidroviária entre o Cais Histórico de Rio Grande e São José do Norte cruza o estuário da Lagoa dos Patos (Canal do Norte), constituindo o principal elo diário de transporte de passageiros e veículos entre as duas cidades históricas na boca da barra gaúcha. Conectada a esse estuário estende-se a Hidrovia Gaúcha (Lagoa dos Patos – Canal São Gonçalo – Guaíba – Rios Jacuí e Taquari), por onde navegam continuamente barcaças de celulose (entre Guaíba, Pelotas e o Superporto de Rio Grande), grãos, fertilizantes e travessias fluviais interiores até Rio Pardo, Cachoeira do Sul e Estrela.",
+    "resumo_en": "In southern Rio Grande do Sul, passenger launches and car ferries cross the Patos Lagoon estuary daily between historic Rio Grande and São José do Norte. Extending inland from the estuary, the 520 km Gaúcha Waterway connects Rio Grande and Pelotas across Patos Lagoon and the Guaíba to the Jacuí and Taquari rivers, carrying wood pulp, grain barges and regional ferries.",
+    "lat": -32.0255,
+    "lon": -52.0685,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "portos-rs-metroplan-hidrovias",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "rio grande",
+      "são josé do norte",
+      "pelotas",
+      "lagoa dos patos",
+      "rio jacuí",
+      "hidrovia gaúcha",
+      "rio grande do sul",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lancha_Rio_Grande_S%C3%A3o_Jos%C3%A9_do_Norte.jpg/800px-Lancha_Rio_Grande_S%C3%A3o_Jos%C3%A9_do_Norte.jpg",
+      "credito": "Wikimedia Commons — Embarcações na travessia hidroviária entre Rio Grande e São José do Norte na Lagoa dos Patos (RS)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Rio_Grande_(Rio_Grande_do_Sul)"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-travessia-estuario-rio-grande-sao-jose-do-norte-rs",
+        "nome": "Travessia Hidroviária do Estuário da Lagoa dos Patos: Terminal Hidroviário de Rio Grande – Terminal Hidroviário de São José do Norte (Lanchas e Balsas, RS)",
+        "status": "operacao",
+        "extensao_km": 6.5,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-hidrovia-lagoa-dos-patos-porto-alegre-pelotas-rio-grande-jacui-rs",
+        "nome": "Hidrovia Gaúcha (Lagoa dos Patos – Guaíba – Rio Jacuí): Cachoeira do Sul / Rio Pardo – Triunfo – Porto Alegre / Guaíba – Pelotas – Porto de Rio Grande (RS)",
+        "status": "operacao",
+        "extensao_km": 520.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-tiete-parana-barra-bonita-ilha-solteira-tres-lagoas-itaipu-sp-ms-pr",
+    "slug": "hidrovia-tiete-parana-barra-bonita-ilha-solteira-tres-lagoas-itaipu-sp-ms-pr",
+    "nome_pt": "Hidrovia Tietê–Paraná — Barra Bonita, Pederneiras, Araçatuba, Ilha Solteira, Três Lagoas, São Simão, Guaíra e Itaipu (SP / MS / PR / GO)",
+    "nome_en": "Tietê–Paraná Waterway — Barra Bonita, Pederneiras, Araçatuba, Ilha Solteira, Três Lagoas, São Simão, Guaíra & Itaipu (SP / MS / PR / GO, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Barra Bonita, Pederneiras, Araçatuba, Presidente Epitácio, Três Lagoas e São Simão",
+    "uf": "SP/MS/PR/GO",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "DNIT (AHRANA) / DH-SP, Navios Turísticos da Eclusa de Barra Bonita, Balsas do Rio Paraná & Comboios Hidroviários Intermodais",
+    "inauguracao": "1973 (Inauguração da Eclusa de Barra Bonita — primeira da América do Sul aberta à navegação turística e comercial)",
+    "extensao_km": 1700.0,
+    "bitola": "Sistema de Eclusas do Rio Tietê (Barra Bonita, Bariri, Ibitinga, Promissão, Nova Avanhandava e Três Irmãos), Canal de Pereira Barreto e Eclusas de Jupiá e Porto Primavera no Rio Paraná",
+    "eletrificacao": "Navios turísticos de passageiros (eclusagem em Barra Bonita e Igaraçu do Tietê), balsas de travessia e comboios empurradores Tietê–Paraná",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 4500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 680 milhões (derrocamento do Pedral de Nova Avanhandava, aprofundamento do Canal de Pereira Barreto e modernização das 10 eclusas da Hidrovia Tietê–Paraná)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-antaq-hidrovia-tiete-parana-paraguai"
+    },
+    "proximas_entregas": {
+      "pt": "Conclusão das obras de ampliação do calado no Pedral de Nova Avanhandava e expansão dos terminais intermodais rodo-ferro-hidroviários de Pederneiras e Panorama.",
+      "en": "Completion of channel deepening works at Nova Avanhandava and expansion of the Pederneiras and Panorama rail-waterway intermodal hubs."
+    },
+    "resumo_pt": "Com 2.400 km de vias navegáveis (sendo 1.700 km nos troncos principais dos rios Tietê, Paraná e Paranaíba), a Hidrovia Tietê–Paraná é uma das maiores obras de engenharia hidráulica do mundo. Graças a um sistema de 10 eclusas e ao Canal Artificial de Pereira Barreto (que interliga os reservatórios de Três Irmãos no Tietê e Ilha Solteira no Paraná), a hidrovia conecta o coração do estado de São Paulo (Conchas, Barra Bonita e o polo intermodal hidro-ferroviário de Pederneiras) a Goiás (São Simão), Mato Grosso do Sul (Três Lagoas e Bataguassu) e Paraná (Porto Rico, Guaíra e Lago de Itaipu). Em Barra Bonita e Igaraçu do Tietê, navios turísticos realizam diariamente a famosa eclusagem de passageiros com desnível de 26 metros.",
+    "resumo_en": "Spanning 1,700 km along its main trunks across São Paulo, Goiás, Mato Grosso do Sul and Paraná, the Tietê–Paraná Waterway features 10 navigation locks and the Pereira Barreto Canal linking the Tietê and Paraná basins. It combines heavy intermodal barge transport (linking São Simão and Três Lagoas to the Pederneiras rail-port hub) with iconic passenger cruise boats transiting the 26-meter Barra Bonita Lock daily.",
+    "lat": -21.6515,
+    "lon": -50.5515,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "dnit-antaq-hidrovia-tiete-parana-paraguai",
+      "dh-sp-bertioga-cananeia-iguape",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hidrovia tietê-paraná",
+      "rio tietê",
+      "rio paraná",
+      "barra bonita",
+      "pederneiras",
+      "ilha solteira",
+      "três lagoas",
+      "presidente epitácio",
+      "são simão",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eclusa_de_Barra_Bonita_SP.jpg/800px-Eclusa_de_Barra_Bonita_SP.jpg",
+      "credito": "Wikimedia Commons — Eclusa de Barra Bonita e navegação turística e intermodal na Hidrovia Tietê–Paraná (SP)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Tiet%C3%AA-Paran%C3%A1_Waterway"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-hidrovia-rio-tiete-piracicaba-barra-bonita-aracatuba-itapura-sp",
+        "nome": "Hidrovia do Rio Tietê: Anhembi / Barra Bonita (Eclusa Turística) – Pederneiras (Polo Intermodal) – Ibitinga – Promissão – Araçatuba – Canal de Pereira Barreto – Itapura (SP)",
+        "status": "operacao",
+        "extensao_km": 610.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-hidrovia-rio-parana-paranaiba-sao-simao-ilha-solteira-tres-lagoas-guaira-itaipu",
+        "nome": "Hidrovia do Rio Paraná–Paranaíba: São Simão (GO) – Ilha Solteira / Três Lagoas (SP/MS) – Panorama – Presidente Epitácio – Porto Primavera – Guaíra – Foz do Iguaçu / Itaipu (PR)",
+        "status": "operacao",
+        "extensao_km": 1090.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-paraguai-pantanal-caceres-corumba-ladario-porto-murtinho-mt-ms",
+    "slug": "hidrovia-rio-paraguai-pantanal-caceres-corumba-ladario-porto-murtinho-mt-ms",
+    "nome_pt": "Hidrovia do Rio Paraguai e Navegação do Pantanal — Cáceres, Taiamã, Serra do Amolar, Corumbá / Ladário, Forte Coimbra e Porto Murtinho (MT / MS)",
+    "nome_en": "Paraguay River & Pantanal Waterway — Cáceres, Taiamã, Serra do Amolar, Corumbá / Ladário, Forte Coimbra & Porto Murtinho (MT / MS, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Cáceres, Corumbá, Ladário e Porto Murtinho",
+    "uf": "MT/MS",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "DNIT (AHIPAR), Barcos-Hotel e Embarcações Regionais do Pantanal (Corumbá e Cáceres), Lider Marine / Hidrovias do Brasil & Marinha do Brasil (Navio de Assistência Hospitalar no Pantanal)",
+    "inauguracao": "1856 (Abertura internacional da navegação a vapor no Rio Paraguai até Corumbá e Cáceres)",
+    "extensao_km": 1270.0,
+    "bitola": "Calha Natural Livre de Barragens do Rio Paraguai no Pantanal Mato-Grossense (Cáceres a Foz do Rio Apa / Porto Murtinho)",
+    "eletrificacao": "Barcos-hotel pantaneiros, lanchas ribeirinhas, navios de passageiros/assistência e comboios fluviais internacionais",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 3200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 420 milhões (manutenção da sinalização náutica do Rio Paraguai pelo DNIT/AHIPAR, requalificação do Porto Geral de Corumbá e expansão dos terminais de Ladário e Porto Murtinho)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-antaq-hidrovia-tiete-parana-paraguai"
+    },
+    "proximas_entregas": {
+      "pt": "Integração intermodal do Porto de Porto Murtinho (MS) com a Ponte Internacional da Rota Bioceânica e modernização do Cais Fluvial de Cáceres (MT).",
+      "en": "Intermodal integration of Porto Murtinho River Port (MS) with the Bioceanic Corridor Bridge and modernization of the Cáceres riverfront pier (MT)."
+    },
+    "resumo_pt": "Artéria vital do Pantanal (Patrimônio Natural da Humanidade pela UNESCO) e tramo norte da Hidrovia Internacional Paraguai–Paraná (que se estende por 3.442 km de Cáceres até Nueva Palmira e Buenos Aires no Rio da Prata), o Rio Paraguai corre livre de barragens por 1.270 km em território brasileiro entre Mato Grosso e Mato Grosso do Sul. A partir do Cais de Cáceres (MT) e do histórico Porto Geral de Corumbá / Ladário (MS), operam tanto os famosos barcos-hotel pantaneiros e lanchas de transporte para comunidades ribeirinhas isoladas (Barra do São Lourenço, Serra do Amolar, Porto Esperança e Forte Coimbra) quanto os grandes comboios fluviais que escoam minério de ferro de Urucum e grãos por Ladário e Porto Murtinho rumo ao Atlântico Sul.",
+    "resumo_en": "Flowing dam-free for 1,270 km through the UNESCO-listed Pantanal wetlands in Mato Grosso and Mato Grosso do Sul, the Brazilian stretch of the Paraguay–Paraná International Waterway connects Cáceres (MT), the Serra do Amolar, the historic riverfront of Corumbá/Ladário (MS), Forte Coimbra and Porto Murtinho. It supports iconic Pantanal riverboats, lifeline passenger launches for remote riverine communities, and major iron ore and grain barge convoys bound for the Río de la Plata.",
+    "lat": -18.9995,
+    "lon": -57.6515,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "dnit-antaq-hidrovia-tiete-parana-paraguai",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "rio paraguai",
+      "pantanal",
+      "corumbá",
+      "ladário",
+      "cáceres",
+      "porto murtinho",
+      "forte coimbra",
+      "serra do amolar",
+      "hidrovia paraguai-paraná",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Porto_Geral_de_Corumb%C3%A1_MS.jpg/800px-Porto_Geral_de_Corumb%C3%A1_MS.jpg",
+      "credito": "Wikimedia Commons — Embarcações no Porto Geral de Corumbá sobre o Rio Paraguai no Pantanal (MS)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Corumb%C3%A1"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-hidrovia-pantanal-norte-caceres-taiama-serra-do-amolar-corumba-mt-ms",
+        "nome": "Hidrovia do Pantanal Norte (Rio Paraguai): Cais de Cáceres (MT) – Estação Ecológica de Taiamã – Barra do São Lourenço – Serra do Amolar – Porto Geral de Corumbá (MS)",
+        "status": "operacao",
+        "extensao_km": 680.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-hidrovia-paraguai-parana-corumba-ladario-forte-coimbra-porto-murtinho-ms",
+        "nome": "Hidrovia Internacional Paraguai–Paraná (Tramo Pantanal Sul): Porto Geral de Corumbá – Ladário – Porto Esperança – Forte Coimbra – Porto Murtinho (MS)",
+        "status": "operacao",
+        "extensao_km": 590.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

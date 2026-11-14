@@ -31499,6 +31499,294 @@
           -22.7525
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferry-boat-itajai-navegantes-sc",
+        "nome": "Terminal Ferry-Boat Itajaí–Navegantes (Rio Itajaí-Açu, SC)",
+        "sistema_id": "ferry-boat-itajai-navegantes-babitonga-laguna-sc",
+        "linha": "Ferry-Boat Itajaí–Navegantes",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6535,
+          -26.9015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferry-boat-baia-babitonga-sao-francisco-do-sul-sc",
+        "nome": "Terminal Hidroviário de São Francisco do Sul & Baía da Babitonga (SC)",
+        "sistema_id": "ferry-boat-itajai-navegantes-babitonga-laguna-sc",
+        "linha": "Travessias da Baía da Babitonga",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6385,
+          -26.2425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsa-canal-da-barra-laguna-sc",
+        "nome": "Terminal de Balsas do Canal da Barra de Laguna (SC)",
+        "sistema_id": "ferry-boat-itajai-navegantes-babitonga-laguna-sc",
+        "linha": "Travessia do Canal da Barra de Laguna",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7755,
+          -28.4945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferry-boat-guaratuba-pr",
+        "nome": "Terminal Ferry-Boat de Guaratuba (Ponta da Passagem, PR)",
+        "sistema_id": "ferry-boat-baia-de-guaratuba-caioba-travessias-rio-parana-pr",
+        "linha": "Ferry-Boat da Baía de Guaratuba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5695,
+          -25.8655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferry-boat-caioba-matinhos-pr",
+        "nome": "Terminal Ferry-Boat de Caiobá / Matinhos (Baía de Guaratuba, PR)",
+        "sistema_id": "ferry-boat-baia-de-guaratuba-caioba-travessias-rio-parana-pr",
+        "linha": "Ferry-Boat da Baía de Guaratuba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5565,
+          -25.8545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-fluvial-porto-rico-rio-parana-pr",
+        "nome": "Cais Fluvial de Porto Rico (Alto Rio Paraná, PR)",
+        "sistema_id": "ferry-boat-baia-de-guaratuba-caioba-travessias-rio-parana-pr",
+        "linha": "Travessias do Alto Rio Paraná",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2665,
+          -22.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-rio-grande-lagoa-dos-patos-rs",
+        "nome": "Terminal Hidroviário de Rio Grande (Cais Histórico / Lagoa dos Patos, RS)",
+        "sistema_id": "travessia-rio-grande-sao-jose-do-norte-hidrovia-lagoa-dos-patos-jacui-rs",
+        "linha": "Travessia Rio Grande–São José do Norte",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0945,
+          -32.0315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-sao-jose-do-norte-rs",
+        "nome": "Terminal Hidroviário de São José do Norte (Estuário da Lagoa dos Patos, RS)",
+        "sistema_id": "travessia-rio-grande-sao-jose-do-norte-hidrovia-lagoa-dos-patos-jacui-rs",
+        "linha": "Travessia Rio Grande–São José do Norte",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0435,
+          -32.0145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-pelotas-hidrovia-lagoa-dos-patos-rs",
+        "nome": "Porto de Pelotas (Canal São Gonçalo / Hidrovia da Lagoa dos Patos, RS)",
+        "sistema_id": "travessia-rio-grande-sao-jose-do-norte-hidrovia-lagoa-dos-patos-jacui-rs",
+        "linha": "Hidrovia Gaúcha Lagoa dos Patos–Jacuí",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3325,
+          -31.7795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-eclusa-terminal-turistico-barra-bonita-rio-tiete-sp",
+        "nome": "Eclusa e Terminal Turístico de Barra Bonita (Hidrovia do Rio Tietê, SP)",
+        "sistema_id": "hidrovia-tiete-parana-barra-bonita-ilha-solteira-tres-lagoas-itaipu-sp-ms-pr",
+        "linha": "Hidrovia do Rio Tietê",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5585,
+          -22.4965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-intermodal-pederneiras-hidrovia-tiete-sp",
+        "nome": "Porto Intermodal Hidro-Ferroviário de Pederneiras (Hidrovia Tietê–Paraná, SP)",
+        "sistema_id": "hidrovia-tiete-parana-barra-bonita-ilha-solteira-tres-lagoas-itaipu-sp-ms-pr",
+        "linha": "Hidrovia do Rio Tietê",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7755,
+          -22.3165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-eclusa-jupia-tres-lagoas-ilha-solteira-ms-sp",
+        "nome": "Eclusa de Jupiá & Terminal Fluvial de Três Lagoas / Ilha Solteira (MS/SP)",
+        "sistema_id": "hidrovia-tiete-parana-barra-bonita-ilha-solteira-tres-lagoas-itaipu-sp-ms-pr",
+        "linha": "Hidrovia do Rio Paraná–Paranaíba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6285,
+          -20.7785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-presidente-epitacio-panorama-rio-parana-sp",
+        "nome": "Porto Fluvial de Presidente Epitácio / Panorama (Rio Paraná, SP/MS)",
+        "sistema_id": "hidrovia-tiete-parana-barra-bonita-ilha-solteira-tres-lagoas-itaipu-sp-ms-pr",
+        "linha": "Hidrovia do Rio Paraná–Paranaíba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1165,
+          -21.7585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-fluvial-caceres-pantanal-rio-paraguai-mt",
+        "nome": "Cais Fluvial de Cáceres (Pantanal Norte / Rio Paraguai, MT)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-caceres-corumba-ladario-porto-murtinho-mt-ms",
+        "linha": "Hidrovia do Pantanal Norte (Rio Paraguai)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6865,
+          -16.0715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-geral-de-corumba-ladario-pantanal-ms",
+        "nome": "Porto Geral de Corumbá & Terminal Fluvial de Ladário (Pantanal / Rio Paraguai, MS)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-caceres-corumba-ladario-porto-murtinho-mt-ms",
+        "linha": "Hidrovia Internacional Paraguai–Paraná",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6515,
+          -18.9995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-fluvial-porto-murtinho-rio-paraguai-ms",
+        "nome": "Terminal Hidroviário Internacional de Porto Murtinho (Rio Paraguai / Rota Bioceânica, MS)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-caceres-corumba-ladario-porto-murtinho-mt-ms",
+        "linha": "Hidrovia Internacional Paraguai–Paraná",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8865,
+          -21.6965
+        ]
+      }
     }
   ]
 }
