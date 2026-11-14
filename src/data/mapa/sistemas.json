@@ -21494,5 +21494,387 @@
         "cor": "#ff8f00"
       }
     ]
+  },
+  {
+    "id": "trilhos-portuarios-cravo-chake-chake-wesha-ilha-de-pemba-mafia-tanzania",
+    "slug": "trilhos-portuarios-cravo-chake-chake-wesha-ilha-de-pemba-mafia-tanzania",
+    "nome_pt": "Ilha de Pemba & Arquipélago de Mafia — Trilhos Portuários do Cravo-da-Índia de Chake-Chake / Porto de Wesha, Mkoani e Kilindoni (Tanzânia)",
+    "nome_en": "Pemba Island & Mafia Archipelago — Clove Port Tramways of Chake-Chake / Wesha Harbor, Mkoani & Kilindoni (Zanzibar Archipelago, Tanzania)",
+    "pais": "Ilha de Pemba e Arquipélago de Mafia (Tanzânia)",
+    "cidade": "Chake-Chake / Wesha / Mkoani (Ilha de Pemba) & Kilindoni (Ilha de Mafia)",
+    "uf": "Arquipélago de Zanzibar / Pwani (Oceano Índico Tanzaniano)",
+    "tipo": "trem_convencional",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Zanzibar Ports Corporation (ZPC — Wesha & Mkoani Ports, Pemba) & Tanzania Ports Authority (Kilindoni, Mafia Island)",
+    "inauguracao": "1912 / 1928 (Vias férreas portuárias do cravo-da-índia entre Chake-Chake e o Porto de Wesha na Ilha de Pemba)",
+    "extensao_km": 7.5,
+    "bitola": "600 mm / 1000 mm (Vias portuárias e de vagonetas nos píeres de Wesha, Mkoani e Kilindoni)",
+    "eletrificacao": "Guinchos portuários e tração diesel leve de cais",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": 1100,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 35 milhões (modernização dos terminais portuários insulares de Wesha e Mkoani na Ilha de Pemba)",
+      "moeda": "USD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Requalificação do píer ferroviário-marítimo de Wesha e Mkoani para integração com os ferries rápidos Zanzibar–Pemba–Tanga.",
+      "en": "Upgrade of the Wesha and Mkoani rail-maritime piers for high-speed ferry integration across the Pemba Channel."
+    },
+    "resumo_pt": "Sistema histórico de trilhos portuários e carreiras navais da Ilha de Pemba ('Al-Khuthera', a Ilha Verde do Arquipélago de Zanzibar, maior produtora mundial de cravo-da-índia) e da Ilha de Mafia no Oceano Índico tanzaniano, conectando o entreposto comercial de Chake-Chake ao Porto de Wesha e ao Píer de Mkoani.",
+    "resumo_en": "Historic port rail and maritime slipway system on Pemba Island (the 'Green Island' of the Zanzibar Archipelago, world center of clove production) and Mafia Island in the Tanzanian Indian Ocean, linking Chake-Chake to Wesha Harbor and Mkoani Pier.",
+    "lat": -5.2415,
+    "lon": 39.7325,
+    "zoom_inicial": 11.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de pemba",
+      "ilha de mafia",
+      "zanzibar",
+      "tanzânia",
+      "chake-chake",
+      "wesha",
+      "oceano índico"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pemba_Island_Tanzania.jpg/800px-Pemba_Island_Tanzania.jpg",
+      "credito": "Wikimedia Commons — Porto de Wesha / Chake-Chake na Ilha de Pemba (Arquipélago de Zanzibar, Tanzânia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Pemba_Island"
+    },
+    "linhas": [
+      {
+        "id": "lin-trilhos-portuarios-cravo-chake-chake-wesha-ilha-de-pemba-mafia-tanzania",
+        "nome": "Corredor Portuário do Cravo Chake-Chake – Porto de Wesha – Mkoani (Ilha de Pemba, Tanzânia)",
+        "status": "operacao",
+        "extensao_km": 7.5,
+        "cor": "#ff8f00"
+      }
+    ]
+  },
+  {
+    "id": "corredor-ferroviario-insular-mombasa-island-makupa-causeway-quenia",
+    "slug": "corredor-ferroviario-insular-mombasa-island-makupa-causeway-quenia",
+    "nome_pt": "Ilha de Mombaça & Arquipélago de Lamu — Trem Urbano Insular de Mombaça (Estação Central de Mombaça – Ponte Ferroviária de Makupa – Terminal SGR Miritini, Quênia)",
+    "nome_en": "Mombasa Island & Lamu Archipelago — Mombasa Island Commuter Rail Link (Mombasa Central Station – Makupa Rail Bridge – Miritini SGR Terminal, Kenya)",
+    "pais": "Arquipélago de Lamu e Ilha de Mombaça (Quênia)",
+    "cidade": "Mombaça (Ilha de Mombaça) / Lamu (Arquipélago de Lamu)",
+    "uf": "Condados de Mombasa e Lamu (Costa do Oceano Índico Queniano)",
+    "tipo": "trem_convencional",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Kenya Railways Corporation (Mombasa Commuter Rail Service — MGR / SGR Link)",
+    "inauguracao": "1896 (Uganda Railway em Mombasa Island) / 2022 (Nova Ponte Ferroviária de Makupa e Ligação Direta Mombasa CBD – Miritini SGR)",
+    "extensao_km": 16.5,
+    "bitola": "1000 mm (Bitola métrica reabilitada integrada à bitola padrão 1435 mm em Miritini)",
+    "eletrificacao": "Não eletrificada (DMUs e composições diesel-elétricas urbanas da Kenya Railways)",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": 8500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 85 milhões (reabilitação do corredor Mombasa CBD – Miritini e nova Ponte Ferroviária de Makupa sobre o Oceano Índico)",
+      "moeda": "USD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação de frequências dos trens urbanos insulares de Mombaça sincronizados com todos os trens Madaraka Express (Nairóbi–Mombaça).",
+      "en": "Increased frequency of Mombasa Island commuter trains synchronized with all Madaraka Express SGR arrivals and departures."
+    },
+    "resumo_pt": "Corredor ferroviário metropolitano de passageiros em operação na Ilha de Mombaça (Quênia): inaugurado originalmente em 1896 como marco zero da lendária Uganda Railway e modernizado em 2022 com a construção da nova Ponte Ferroviária de Makupa sobre o estreito marítimo, permite que os passageiros viagem diretamente do coração da Ilha de Mombaça (Mombasa Central Station) até a estação terminal do trem de bitola padrão (Madaraka Express SGR) em Miritini.",
+    "resumo_en": "Operational commuter railway corridor on Mombasa Island (Kenya), linking the historic 1896 Mombasa Central Station in the island's CBD across the new Makupa Ocean Railway Bridge directly to the Miritini Standard Gauge Railway (Madaraka Express) terminal.",
+    "lat": -4.0525,
+    "lon": 39.6625,
+    "zoom_inicial": 12.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de mombaça",
+      "mombasa island",
+      "makupa bridge",
+      "lamu",
+      "quênia",
+      "kenya railways",
+      "trem convencional"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mombasa_Island_Kenya.jpg/800px-Mombasa_Island_Kenya.jpg",
+      "credito": "Wikimedia Commons — Ilha de Mombaça, Travessia de Makupa e Porto de Kilindini (Quênia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Mombasa"
+    },
+    "linhas": [
+      {
+        "id": "lin-corredor-ferroviario-insular-mombasa-island-makupa-causeway-quenia",
+        "nome": "Linha Urbana Insular Mombasa Central Station (Ilha de Mombaça) – Ponte de Makupa – Changamwe – Terminal SGR Miritini",
+        "status": "operacao",
+        "extensao_km": 16.5,
+        "cor": "#ff8f00"
+      }
+    ]
+  },
+  {
+    "id": "ramal-portuario-kilindini-kipevu-ilha-de-mombasa-lamu-lapsse-quenia",
+    "slug": "ramal-portuario-kilindini-kipevu-ilha-de-mombasa-lamu-lapsse-quenia",
+    "nome_pt": "Ilha de Mombaça & Arquipélago de Lamu — Complexo Ferroviário-Portuário de Kilindini Harbour / Kipevu (Mombaça SGR/MGR) e Pórticos do Porto de Lamu (Quênia)",
+    "nome_en": "Mombasa Island & Lamu Archipelago — Kilindini Harbour / Kipevu Intermodal Rail Yards (SGR/MGR) & Lamu Port Crane Rails (Kenya)",
+    "pais": "Arquipélago de Lamu e Ilha de Mombaça (Quênia)",
+    "cidade": "Ilha de Mombaça (Kilindini Harbour) & Ilha de Lamu / Manda Bay",
+    "uf": "Condados de Mombasa e Lamu (Quênia)",
+    "tipo": "ferrovia_carga",
+    "status": "operacao",
+    "camada": "carga",
+    "operador": "Kenya Railways Corporation (SGR Freight / MGR) & Kenya Ports Authority (KPA — Port of Mombasa & Port of Lamu)",
+    "inauguracao": "1896 (Kilindini Harbour Rail) / 2017 (Terminal Intermodal SGR de Port Reitz / Kipevu) / 2021 (Porto de Águas Profundas de Lamu)",
+    "extensao_km": 14.2,
+    "bitola": "1435 mm (Bitola padrão SGR nos pátios de Port Reitz/Kipevu) e 1000 mm (Bitola métrica nos berços da Ilha de Mombaça)",
+    "eletrificacao": "Pórticos elétricos RMG/STS sobre trilhos e tração diesel-elétrica pesada DF8B/DF11",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": null,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 380 milhões (pátios ferroviários de contêineres de Kilindini/Kipevu na Ilha de Mombaça e berços do Porto de Lamu)",
+      "moeda": "USD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão dos pátios ferroviários de transbordo do Segundo Terminal de Contêineres de Mombaça (CT2) e Corredor LAPSSET em Lamu.",
+      "en": "Expansion of rail transshipment yards at Mombasa Container Terminal 2 (CT2) and the LAPSSET corridor at Lamu Port."
+    },
+    "resumo_pt": "Principal complexo ferroviário-portuário da África Oriental: articula os ramais de bitola métrica (1000 mm) e bitola padrão (1435 mm SGR) que penetram nos berços de águas profundas de Kilindini Harbour e Kipevu na Ilha de Mombaça (movimentando mais de 35 milhões de toneladas anuais para o Quênia, Uganda, Ruanda e República Democrática do Congo), somado às vias de guindastes STS do novo Porto de Lamu em Manda Bay, junto à histórica Ilha de Lamu (Patrimônio Mundial da UNESCO).",
+    "resumo_en": "East Africa's premier island rail-port complex, combining the Standard Gauge (1435 mm) and Meter Gauge (1000 mm) freight rail spurs serving Kilindini Harbour and Kipevu on Mombasa Island with the rail-mounted gantry infrastructure at Lamu Deepwater Port facing UNESCO-listed Lamu Island.",
+    "lat": -4.0485,
+    "lon": 39.6345,
+    "zoom_inicial": 12.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "kilindini harbour",
+      "ilha de mombaça",
+      "arquipélago de lamu",
+      "quênia",
+      "sgr",
+      "ferrovia de carga"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Port_of_Mombasa_Kilindini.jpg/800px-Port_of_Mombasa_Kilindini.jpg",
+      "credito": "Wikimedia Commons — Pátios Ferroviários e Berços de Contêineres de Kilindini Harbour na Ilha de Mombaça (Quênia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Port_of_Mombasa"
+    },
+    "linhas": [
+      {
+        "id": "lin-ramal-portuario-kilindini-kipevu-ilha-de-mombasa-lamu-lapsse-quenia",
+        "nome": "Tronco Ferroviário Portuário Berços de Kilindini Harbour (Ilha de Mombaça) – Kipevu – Pátio Intermodal SGR Port Reitz",
+        "status": "operacao",
+        "extensao_km": 14.2,
+        "cor": "#aa00ff"
+      }
+    ]
+  },
+  {
+    "id": "trilhos-portuarios-salineiros-houmt-souk-el-kantara-ilha-de-djerba-kerkennah-tunisia",
+    "slug": "trilhos-portuarios-salineiros-houmt-souk-el-kantara-ilha-de-djerba-kerkennah-tunisia",
+    "nome_pt": "Ilha de Djerba & Ilhas Kerkennah — Trilhos Portuários e Carreiras Navais de Houmt Souk, Calçada Romana de El Kantara e Sidi Youssef (Tunísia)",
+    "nome_en": "Djerba Island & Kerkennah Islands — Port Rails & Maritime Slipways of Houmt Souk, El Kantara Roman Causeway & Sidi Youssef (Tunisia)",
+    "pais": "Ilha de Djerba e Ilhas Kerkennah (Tunísia)",
+    "cidade": "Houmt Souk / El Kantara / Ajim (Ilha de Djerba) & Sidi Youssef (Kerkennah)",
+    "uf": "Províncias de Médenine e Sfax (Golfo de Gabès, Tunísia)",
+    "tipo": "trem_convencional",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Office de la Marine Marchande et des Ports (OMMP — Port de Houmt Souk / Djerba) & SONOTRAK (Kerkennah)",
+    "inauguracao": "1915 / 1953 (Vias Décauville da travessia de El Kantara e carreiras navais do Porto de Houmt Souk em Djerba)",
+    "extensao_km": 6.4,
+    "bitola": "600 mm / 1000 mm (Vias Décauville portuárias e carreiras de estaleiros do Golfo de Gabès)",
+    "eletrificacao": "Guinchos elétricos navais e vagonetas portuárias",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": 1600,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 28 milhões (modernização do Porto de Houmt Souk em Djerba e terminais marítimos de Sidi Youssef nas Ilhas Kerkennah)",
+      "moeda": "USD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Estudo de ligação ferroviária da rede nacional SNCFT de Gabès/Médenine até Zarzis e a entrada da Calçada de El Kantara em Djerba.",
+      "en": "SNCFT southern rail extension project from Gabès/Médenine toward Zarzis and the El Kantara causeway gateway to Djerba Island."
+    },
+    "resumo_pt": "Conjunto de trilhos portuários, carreiras de construção naval mediterrânea e históricas vias Décauville na Ilha de Djerba (maior ilha do Norte da África, inscrita como Patrimônio Mundial da UNESCO em 2023) e no Arquipélago de Kerkennah no Golfo de Gabès (Tunísia), abrangendo o Porto de Houmt Souk, a travessia histórica da Calçada Romana de El Kantara (7 km ligando Djerba ao continente) e o terminal de Sidi Youssef.",
+    "resumo_en": "Port rail tracks, Mediterranean shipyard slipways, and historic Décauville causeway rails on UNESCO-listed Djerba Island (North Africa's largest island) and the Kerkennah Archipelago in Tunisia's Gulf of Gabès, spanning Houmt Souk Harbor and the historic El Kantara Roman Causeway.",
+    "lat": 33.8815,
+    "lon": 10.8585,
+    "zoom_inicial": 11.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de djerba",
+      "kerkennah",
+      "houmt souk",
+      "el kantara",
+      "tunísia",
+      "mediterrâneo",
+      "unesco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Houmt_Souk_Port_Djerba_Tunisia.jpg/800px-Houmt_Souk_Port_Djerba_Tunisia.jpg",
+      "credito": "Wikimedia Commons — Porto e Marina de Houmt Souk na Ilha de Djerba (Tunísia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Djerba"
+    },
+    "linhas": [
+      {
+        "id": "lin-trilhos-portuarios-salineiros-houmt-souk-el-kantara-ilha-de-djerba-kerkennah-tunisia",
+        "nome": "Eixo Portuário e Naval Porto de Houmt Souk – Mellita – Ajim / El Kantara (Ilha de Djerba, Tunísia)",
+        "status": "operacao",
+        "extensao_km": 6.4,
+        "cor": "#ff8f00"
+      }
+    ]
+  },
+  {
+    "id": "ferrovia-historica-cacau-malabo-banapa-luba-ilha-de-bioko-guine-equatorial",
+    "slug": "ferrovia-historica-cacau-malabo-banapa-luba-ilha-de-bioko-guine-equatorial",
+    "nome_pt": "Ilha de Bioko (Malabo e Luba) — Ferrovia Histórica do Cacau de Santa Isabel (Malabo) – Banapá – Sampaka e Trilhos Portuários de Punta Europa / Luba (Guiné Equatorial)",
+    "nome_en": "Bioko Island (Malabo & Luba) — Historic Cocoa Railway of Santa Isabel (Malabo) – Banapá – Sampaka & Punta Europa / Luba Port Rails (Equatorial Guinea)",
+    "pais": "Ilha de Bioko — Malabo e Luba (Guiné Equatorial)",
+    "cidade": "Malabo / Sampaka / Banapá / Luba (Ilha de Bioko)",
+    "uf": "Províncias de Bioko Norte e Bioko Sul (Golfo da Guiné)",
+    "tipo": "ferrovia_carga",
+    "status": "operacao",
+    "camada": "carga",
+    "operador": "Autoridad Portuaria de Guinea Ecuatorial (Porto de Malabo & Porto de Luba) & Patrimônio Cacaueiro de Sampaka / Banapá",
+    "inauguracao": "1913 / 1929 (Ferrocarril de Fernando Poo: Santa Isabel / Malabo – Banapá – Basupú – Luba)",
+    "extensao_km": 18.0,
+    "bitola": "600 mm / 1000 mm (Bitola estreita das fazendas de cacau de Bioko e trilhos de guindastes do Porto de Malabo)",
+    "eletrificacao": "Guindastes elétricos portuários sobre trilhos e tração diesel industrial",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": null,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 120 milhões (ampliação dos berços e vias de pórticos do Porto de Águas Profundas de Malabo e Porto Franco de Luba na Ilha de Bioko)",
+      "moeda": "USD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Preservação do patrimônio ferroviário do cacau nas fazendas históricas de Finca Sampaka e Banapá nos arredores de Malabo.",
+      "en": "Heritage preservation of the historic cocoa plantation railway artifacts at Finca Sampaka and Banapá near Malabo."
+    },
+    "resumo_pt": "Rede ferroviária histórica e portuária da Ilha de Bioko (antiga Fernando Pó, no Golfo da Guiné, onde se situa a capital da Guiné Equatorial, Malabo): inaugurado a partir de 1913 como 'Ferrocarril de Fernando Poo' para escoar a produção das ricas fazendas vulcânicas de cacau de Banapá, Finca Sampaka e Basupú até os píeres da Baía de Santa Isabel (Malabo) e da Baía de Luba (San Carlos), hoje convive com as vias férreas de pórticos do moderno Porto de Malabo e Punta Europa.",
+    "resumo_en": "Historic cocoa railway and modern port rail infrastructure on Bioko Island (formerly Fernando Pó, in the Gulf of Guinea, home to Equatorial Guinea's capital Malabo), linking the historic Sampaka and Banapá cocoa estates to the Port of Malabo and Punta Europa.",
+    "lat": 3.7525,
+    "lon": 8.7745,
+    "zoom_inicial": 12.0,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de bioko",
+      "malabo",
+      "luba",
+      "guiné equatorial",
+      "sampaka",
+      "golfo da guiné",
+      "ferrovia de carga"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Malabo_Port_Bioko_Equatorial_Guinea.jpg/800px-Malabo_Port_Bioko_Equatorial_Guinea.jpg",
+      "credito": "Wikimedia Commons — Porto de Malabo e Baía de Santa Isabel na Ilha de Bioko (Guiné Equatorial)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Malabo"
+    },
+    "linhas": [
+      {
+        "id": "lin-ferrovia-historica-cacau-malabo-banapa-luba-ilha-de-bioko-guine-equatorial",
+        "nome": "Corredor Ferroviário e Portuário Porto de Malabo (Santa Isabel) – Banapá – Finca Sampaka – Punta Europa (Ilha de Bioko)",
+        "status": "operacao",
+        "extensao_km": 18.0,
+        "cor": "#aa00ff"
+      }
+    ]
+  },
+  {
+    "id": "trilhos-portuarios-historicos-ilha-de-bolama-bubaque-bijagos-guine-bissau",
+    "slug": "trilhos-portuarios-historicos-ilha-de-bolama-bubaque-bijagos-guine-bissau",
+    "nome_pt": "Arquipélago dos Bijagós & Ilha de Bolama — Trilhos Portuários Décauville da Antiga Capital Insular de Bolama e Píer de Bubaque (Guiné-Bissau)",
+    "nome_en": "Bijagós Archipelago & Bolama Island — Historic Décauville Port Tramways of Bolama Old Capital & Bubaque Pier (UNESCO Biosphere, Guinea-Bissau)",
+    "pais": "Arquipélago dos Bijagós e Ilha de Bolama (Guiné-Bissau)",
+    "cidade": "Bolama (Ilha de Bolama) & Bubaque (Arquipélago dos Bijagós)",
+    "uf": "Região de Bolama / Bijagós (Atlântico Equatorial, Guiné-Bissau)",
+    "tipo": "trem_convencional",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Administração dos Portos da Guiné-Bissau (APGB — Pontes-Cais de Bolama e Bubaque)",
+    "inauguracao": "1910 / 1931 (Vias Décauville da Ponte-Cais da Ilha de Bolama, antiga capital e base transatlântica de hidroaviões, e de Bubaque)",
+    "extensao_km": 4.8,
+    "bitola": "600 mm (Vias Décauville portuárias nas pontes-cais de Bolama e Bubaque)",
+    "eletrificacao": "Tração manual/mecânica e vagonetas de ponte-cais",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": 850,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 18 milhões (reabilitação das pontes-cais insulares de Bolama e Bubaque no Arquipélago dos Bijagós)",
+      "moeda": "USD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Restauro patrimonial do Centro Histórico Neoclássico e da Ponte-Cais da Ilha de Bolama para candidatura a Patrimônio Mundial da UNESCO.",
+      "en": "Heritage restoration of the Neoclassical Historic Center and Pier of Bolama Island alongside the UNESCO Bijagós Biosphere Reserve."
+    },
+    "resumo_pt": "Sistemas históricos de trilhos portuários Décauville (bitola 600 mm) sobre as pontes-cais da Ilha de Bolama (capital colonial da Guiné até 1941 e célebre escala de hidroaviões transatlânticos na década de 1930) e da Ilha de Bubaque, centro administrativo do Arquipélago dos Bijagós (88 ilhas e ilhéus classificados como Reserva da Biosfera da UNESCO na Guiné-Bissau).",
+    "resumo_en": "Historic 600 mm Décauville port rail tracks along the maritime causeway piers of Bolama Island (former capital of Portuguese Guinea until 1941 and famed 1930s transatlantic seaplane base) and Bubaque Island in the UNESCO-listed Bijagós Archipelago (Guinea-Bissau).",
+    "lat": 11.5785,
+    "lon": -15.4745,
+    "zoom_inicial": 11.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "arquipélago dos bijagós",
+      "ilha de bolama",
+      "bubaque",
+      "guiné-bissau",
+      "unesco",
+      "décauville"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bolama_Guinea_Bissau.jpg/800px-Bolama_Guinea_Bissau.jpg",
+      "credito": "Wikimedia Commons — Ponte-Cais e Centro Histórico da Ilha de Bolama e Arquipélago dos Bijagós (Guiné-Bissau)",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Bolama"
+    },
+    "linhas": [
+      {
+        "id": "lin-trilhos-portuarios-historicos-ilha-de-bolama-bubaque-bijagos-guine-bissau",
+        "nome": "Corredor Portuário Insular Ponte-Cais de Bolama – Centro Histórico / Ponte-Cais de Bubaque (Bijagós, Guiné-Bissau)",
+        "status": "operacao",
+        "extensao_km": 4.8,
+        "cor": "#ff8f00"
+      }
+    ]
   }
 ]

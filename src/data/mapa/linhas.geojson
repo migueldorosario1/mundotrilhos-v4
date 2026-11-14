@@ -36145,6 +36145,210 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-trilhos-portuarios-cravo-chake-chake-wesha-ilha-de-pemba-mafia-tanzania",
+        "sistema_id": "trilhos-portuarios-cravo-chake-chake-wesha-ilha-de-pemba-mafia-tanzania",
+        "sistema_nome_pt": "Ilha de Pemba & Arquipélago de Mafia — Trilhos Portuários do Cravo-da-Índia de Chake-Chake / Porto de Wesha, Mkoani e Kilindoni (Tanzânia)",
+        "sistema_nome_en": "Pemba Island & Mafia Archipelago — Clove Port Tramways of Chake-Chake / Wesha Harbor, Mkoani & Kilindoni (Zanzibar Archipelago, Tanzania)",
+        "linha": "Corredor Portuário do Cravo Chake-Chake – Porto de Wesha – Mkoani (Ilha de Pemba, Tanzânia)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "camada": "passageiros",
+        "cor": "#ff8f00",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.7715,
+            -5.2455
+          ],
+          [
+            39.7325,
+            -5.2415
+          ],
+          [
+            39.6485,
+            -5.3585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-corredor-ferroviario-insular-mombasa-island-makupa-causeway-quenia",
+        "sistema_id": "corredor-ferroviario-insular-mombasa-island-makupa-causeway-quenia",
+        "sistema_nome_pt": "Ilha de Mombaça & Arquipélago de Lamu — Trem Urbano Insular de Mombaça (Estação Central de Mombaça – Ponte Ferroviária de Makupa – Terminal SGR Miritini, Quênia)",
+        "sistema_nome_en": "Mombasa Island & Lamu Archipelago — Mombasa Island Commuter Rail Link (Mombasa Central Station – Makupa Rail Bridge – Miritini SGR Terminal, Kenya)",
+        "linha": "Linha Urbana Insular Mombasa Central Station (Ilha de Mombaça) – Ponte de Makupa – Changamwe – Terminal SGR Miritini",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "camada": "passageiros",
+        "cor": "#ff8f00",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.6645,
+            -4.0615
+          ],
+          [
+            39.6485,
+            -4.0385
+          ],
+          [
+            39.6185,
+            -4.0225
+          ],
+          [
+            39.5745,
+            -3.9925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-ramal-portuario-kilindini-kipevu-ilha-de-mombasa-lamu-lapsse-quenia",
+        "sistema_id": "ramal-portuario-kilindini-kipevu-ilha-de-mombasa-lamu-lapsse-quenia",
+        "sistema_nome_pt": "Ilha de Mombaça & Arquipélago de Lamu — Complexo Ferroviário-Portuário de Kilindini Harbour / Kipevu (Mombaça SGR/MGR) e Pórticos do Porto de Lamu (Quênia)",
+        "sistema_nome_en": "Mombasa Island & Lamu Archipelago — Kilindini Harbour / Kipevu Intermodal Rail Yards (SGR/MGR) & Lamu Port Crane Rails (Kenya)",
+        "linha": "Tronco Ferroviário Portuário Berços de Kilindini Harbour (Ilha de Mombaça) – Kipevu – Pátio Intermodal SGR Port Reitz",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "camada": "carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.6525,
+            -4.0695
+          ],
+          [
+            39.6345,
+            -4.0485
+          ],
+          [
+            39.6125,
+            -4.0425
+          ],
+          [
+            39.5915,
+            -4.0345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-trilhos-portuarios-salineiros-houmt-souk-el-kantara-ilha-de-djerba-kerkennah-tunisia",
+        "sistema_id": "trilhos-portuarios-salineiros-houmt-souk-el-kantara-ilha-de-djerba-kerkennah-tunisia",
+        "sistema_nome_pt": "Ilha de Djerba & Ilhas Kerkennah — Trilhos Portuários e Carreiras Navais de Houmt Souk, Calçada Romana de El Kantara e Sidi Youssef (Tunísia)",
+        "sistema_nome_en": "Djerba Island & Kerkennah Islands — Port Rails & Maritime Slipways of Houmt Souk, El Kantara Roman Causeway & Sidi Youssef (Tunisia)",
+        "linha": "Eixo Portuário e Naval Porto de Houmt Souk – Mellita – Ajim / El Kantara (Ilha de Djerba, Tunísia)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "camada": "passageiros",
+        "cor": "#ff8f00",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.8585,
+            33.8865
+          ],
+          [
+            10.8525,
+            33.8745
+          ],
+          [
+            10.9245,
+            33.6825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-ferrovia-historica-cacau-malabo-banapa-luba-ilha-de-bioko-guine-equatorial",
+        "sistema_id": "ferrovia-historica-cacau-malabo-banapa-luba-ilha-de-bioko-guine-equatorial",
+        "sistema_nome_pt": "Ilha de Bioko (Malabo e Luba) — Ferrovia Histórica do Cacau de Santa Isabel (Malabo) – Banapá – Sampaka e Trilhos Portuários de Punta Europa / Luba (Guiné Equatorial)",
+        "sistema_nome_en": "Bioko Island (Malabo & Luba) — Historic Cocoa Railway of Santa Isabel (Malabo) – Banapá – Sampaka & Punta Europa / Luba Port Rails (Equatorial Guinea)",
+        "linha": "Corredor Ferroviário e Portuário Porto de Malabo (Santa Isabel) – Banapá – Finca Sampaka – Punta Europa (Ilha de Bioko)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "camada": "carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7815,
+            3.7565
+          ],
+          [
+            8.7625,
+            3.7485
+          ],
+          [
+            8.7325,
+            3.7585
+          ],
+          [
+            8.5545,
+            3.4585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-trilhos-portuarios-historicos-ilha-de-bolama-bubaque-bijagos-guine-bissau",
+        "sistema_id": "trilhos-portuarios-historicos-ilha-de-bolama-bubaque-bijagos-guine-bissau",
+        "sistema_nome_pt": "Arquipélago dos Bijagós & Ilha de Bolama — Trilhos Portuários Décauville da Antiga Capital Insular de Bolama e Píer de Bubaque (Guiné-Bissau)",
+        "sistema_nome_en": "Bijagós Archipelago & Bolama Island — Historic Décauville Port Tramways of Bolama Old Capital & Bubaque Pier (UNESCO Biosphere, Guinea-Bissau)",
+        "linha": "Corredor Portuário Insular Ponte-Cais de Bolama – Centro Histórico / Ponte-Cais de Bubaque (Bijagós, Guiné-Bissau)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "camada": "passageiros",
+        "cor": "#ff8f00",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.4715,
+            11.5795
+          ],
+          [
+            -15.4825,
+            11.5765
+          ],
+          [
+            -15.8325,
+            11.2985
+          ]
+        ]
+      }
     }
   ]
 }
