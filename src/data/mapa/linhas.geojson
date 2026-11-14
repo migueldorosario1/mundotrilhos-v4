@@ -29985,6 +29985,178 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "antigua-sugar-factory-railway-gunthropes-st-johns-bettys-hope-antigua-e-barbuda",
+        "linha": "Antigua Sugar Factory Railway (St. John's – Gunthropes – Parham – Betty's Hope, Antígua e Barbuda)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Antigua Sugar Factory Railway (Gunthropes – St. John's – Parham – Betty's Hope) e Trilhos Históricos de Codrington em Barbuda (Antígua e Barbuda)",
+        "sistema_nome_en": "Antigua Sugar Factory Railway (Gunthropes – St. John's – Betty's Hope) & Barbuda Codrington Tramway Heritage (Antigua and Barbuda)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8445,
+            17.1215
+          ],
+          [
+            -61.8125,
+            17.1185
+          ],
+          [
+            -61.7485,
+            17.0825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-deep-water-harbour-nelson-dockyard-st-johns-antigua-e-barbuda",
+        "linha": "Vias Férreas Portuárias de Deep Water Harbour (St. John's) e Nelson's Dockyard (Antígua e Barbuda)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Deep Water Harbour (St. John's) e Trilhos Navais Históricos de Nelson's Dockyard (English Harbour, Antígua e Barbuda)",
+        "sistema_nome_en": "St. John's Deep Water Harbour Container Port Tracks & Nelson's Dockyard Historic Naval Slipway Rails (Antigua and Barbuda)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8565,
+            17.1295
+          ],
+          [
+            -61.8525,
+            17.1285
+          ],
+          [
+            -61.7645,
+            17.0085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-portuarias-cul-de-sac-roseau-vieux-fort-castries-santa-lucia",
+        "linha": "Corredor Ferroviário e Portuário de Castries – Cul de Sac – Roseau e Porto de Vieux Fort (Santa Lúcia)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Patrimoniais dos Vales de Cul de Sac, Roseau e Mabouya e Vias Portuárias de Castries e Vieux Fort (Santa Lúcia)",
+        "sistema_nome_en": "Cul de Sac, Roseau & Mabouya Valley Sugar Railways & Castries / Vieux Fort Container Port Rail Systems (Saint Lucia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.9925,
+            14.0105
+          ],
+          [
+            -61.0085,
+            13.9885
+          ],
+          [
+            -60.9525,
+            13.7185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-florestal-melville-hall-portsmouth-porto-woodbridge-bay-roseau-dominica",
+        "linha": "Vias Portuárias de Woodbridge Bay (Roseau) e Ferrovia Florestal Histórica de Indian River / Portsmouth (Dominica)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Florestal Histórica de Indian River / Portsmouth – Melville Hall e Vias Portuárias de Woodbridge Bay em Roseau (Dominica)",
+        "sistema_nome_en": "Indian River / Portsmouth – Melville Hall Timber Railway Heritage & Woodbridge Bay Deepwater Port Tracks in Roseau (Dominica)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.3885,
+            15.3095
+          ],
+          [
+            -61.4565,
+            15.5685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-campden-park-kingstown-usina-mount-bentinck-georgetown-sao-vicente-e-granadinas",
+        "linha": "Vias Férreas Portuárias de Kingstown / Campden Park e Trilhos de Mount Bentinck em Georgetown (São Vicente e Granadinas)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Kingstown e Campden Park e Trilhos Açucareiros de Mount Bentinck em Georgetown (São Vicente e Granadinas)",
+        "sistema_nome_en": "Kingstown & Campden Park Container Port Rail Tracks & Mount Bentinck Sugar Estate Tramway in Georgetown (Saint Vincent and the Grenadinas)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.2485,
+            13.1725
+          ],
+          [
+            -61.2285,
+            13.1585
+          ],
+          [
+            -61.1225,
+            13.2845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-destilaria-river-antoine-porto-st-georges-grenville-granada",
+        "linha": "Trilhos Históricos da Destilaria River Antoine (1785) e Vias Portuárias de St. George's Carenage (Granada)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trilhos Históricos da Destilaria River Antoine (1785, St. Patrick) e Vias Férreas Portuárias de Carenage em St. George's (Granada — Estação Nº 1.100!)",
+        "sistema_nome_en": "River Antoine Estate Waterwheel Distillery Rail System (1785, St. Patrick) & St. George's Carenage Port Tracks (Grenada)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7525,
+            12.0525
+          ],
+          [
+            -61.6125,
+            12.1865
+          ]
+        ]
+      }
     }
   ]
 }

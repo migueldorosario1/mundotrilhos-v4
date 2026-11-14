@@ -23092,6 +23092,226 @@
           18.4325
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "antigua-sugar-factory-railway-gunthropes-st-johns-bettys-hope-antigua-e-barbuda",
+        "nome": "Oficinas Centrais e Locomotivas Históricas de Gunthropes & Museu de St. John's (Ilha de Antígua, Antígua e Barbuda)",
+        "linha": "Antigua Sugar Factory Railway (St. John's – Gunthropes – Betty's Hope)",
+        "status": "operacao",
+        "integracoes": [
+          "Museum of Antigua and Barbuda (St. John's)",
+          "Antiga Usina Central de Gunthropes"
+        ],
+        "sistema_nome_pt": "Antigua Sugar Factory Railway (Gunthropes – St. John's – Parham – Betty's Hope) e Trilhos Históricos de Codrington em Barbuda (Antígua e Barbuda)",
+        "sistema_nome_en": "Antigua Sugar Factory Railway (Gunthropes – St. John's – Betty's Hope) & Barbuda Codrington Tramway Heritage (Antigua and Barbuda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8125,
+          17.1185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "antigua-sugar-factory-railway-gunthropes-st-johns-bettys-hope-antigua-e-barbuda",
+        "nome": "Estação e Moinhos Patrimoniais de Betty's Hope & Codrington Wharf (Antígua e Barbuda)",
+        "linha": "Antigua Sugar Factory Railway (St. John's – Gunthropes – Betty's Hope)",
+        "status": "operacao",
+        "integracoes": [
+          "Sítio Histórico de Betty's Hope (1650)",
+          "Trilhos de Codrington – River Wharf (Barbuda)"
+        ],
+        "sistema_nome_pt": "Antigua Sugar Factory Railway (Gunthropes – St. John's – Parham – Betty's Hope) e Trilhos Históricos de Codrington em Barbuda (Antígua e Barbuda)",
+        "sistema_nome_en": "Antigua Sugar Factory Railway (Gunthropes – St. John's – Betty's Hope) & Barbuda Codrington Tramway Heritage (Antigua and Barbuda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7485,
+          17.0825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-deep-water-harbour-nelson-dockyard-st-johns-antigua-e-barbuda",
+        "nome": "Terminal Portuário de Deep Water Harbour (St. John's) e Nelson's Dockyard (Antígua e Barbuda)",
+        "linha": "Vias Férreas Portuárias de Deep Water Harbour (St. John's) e Nelson's Dockyard",
+        "status": "operacao",
+        "integracoes": [
+          "St. John's Deep Water Harbour Container Terminal",
+          "Nelson's Dockyard UNESCO World Heritage (English Harbour)"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de Deep Water Harbour (St. John's) e Trilhos Navais Históricos de Nelson's Dockyard (English Harbour, Antígua e Barbuda)",
+        "sistema_nome_en": "St. John's Deep Water Harbour Container Port Tracks & Nelson's Dockyard Historic Naval Slipway Rails (Antigua and Barbuda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8525,
+          17.1285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-portuarias-cul-de-sac-roseau-vieux-fort-castries-santa-lucia",
+        "nome": "Porto de Castries e Vale Ferroviário Histórico de Cul de Sac / Roseau (Castries, Santa Lúcia)",
+        "linha": "Corredor Ferroviário e Portuário de Castries – Cul de Sac – Roseau e Porto de Vieux Fort",
+        "status": "operacao",
+        "integracoes": [
+          "Port of Castries (SLASPA)",
+          "Baía e Vale de Cul de Sac"
+        ],
+        "sistema_nome_pt": "Ferrovias Patrimoniais dos Vales de Cul de Sac, Roseau e Mabouya e Vias Portuárias de Castries e Vieux Fort (Santa Lúcia)",
+        "sistema_nome_en": "Cul de Sac, Roseau & Mabouya Valley Sugar Railways & Castries / Vieux Fort Container Port Rail Systems (Saint Lucia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0085,
+          13.9885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-portuarias-cul-de-sac-roseau-vieux-fort-castries-santa-lucia",
+        "nome": "Terminal de Contêineres de Vieux Fort (Sul de Santa Lúcia)",
+        "linha": "Corredor Ferroviário e Portuário de Castries – Cul de Sac – Roseau e Porto de Vieux Fort",
+        "status": "operacao",
+        "integracoes": [
+          "Port of Vieux Fort (SLASPA)",
+          "Aeroporto Internacional Hewanorra"
+        ],
+        "sistema_nome_pt": "Ferrovias Patrimoniais dos Vales de Cul de Sac, Roseau e Mabouya e Vias Portuárias de Castries e Vieux Fort (Santa Lúcia)",
+        "sistema_nome_en": "Cul de Sac, Roseau & Mabouya Valley Sugar Railways & Castries / Vieux Fort Container Port Rail Systems (Saint Lucia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9525,
+          13.7185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-florestal-melville-hall-portsmouth-porto-woodbridge-bay-roseau-dominica",
+        "nome": "Terminal Portuário de Águas Profundas de Woodbridge Bay (Roseau, Dominica)",
+        "linha": "Vias Portuárias de Woodbridge Bay (Roseau) e Ferrovia Florestal Histórica de Indian River / Portsmouth",
+        "status": "operacao",
+        "integracoes": [
+          "Woodbridge Bay Port (DASPA Roseau)",
+          "Cais de Cruzeiros de Roseau"
+        ],
+        "sistema_nome_pt": "Ferrovia Florestal Histórica de Indian River / Portsmouth – Melville Hall e Vias Portuárias de Woodbridge Bay em Roseau (Dominica)",
+        "sistema_nome_en": "Indian River / Portsmouth – Melville Hall Timber Railway Heritage & Woodbridge Bay Deepwater Port Tracks in Roseau (Dominica)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3885,
+          15.3095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-florestal-melville-hall-portsmouth-porto-woodbridge-bay-roseau-dominica",
+        "nome": "Sítio Ferroviário Florestal de Indian River e Baía de Prince Rupert (Portsmouth, Dominica)",
+        "linha": "Vias Portuárias de Woodbridge Bay (Roseau) e Ferrovia Florestal Histórica de Indian River / Portsmouth",
+        "status": "operacao",
+        "integracoes": [
+          "Indian River & Portsmouth",
+          "Cabrits National Park (Fort Shirley)"
+        ],
+        "sistema_nome_pt": "Ferrovia Florestal Histórica de Indian River / Portsmouth – Melville Hall e Vias Portuárias de Woodbridge Bay em Roseau (Dominica)",
+        "sistema_nome_en": "Indian River / Portsmouth – Melville Hall Timber Railway Heritage & Woodbridge Bay Deepwater Port Tracks in Roseau (Dominica)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4565,
+          15.5685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-campden-park-kingstown-usina-mount-bentinck-georgetown-sao-vicente-e-granadinas",
+        "nome": "Terminal Portuário de Kingstown e Campden Park & Usina Histórica de Mount Bentinck (São Vicente e Granadinas)",
+        "linha": "Vias Férreas Portuárias de Kingstown / Campden Park e Trilhos de Mount Bentinck em Georgetown",
+        "status": "operacao",
+        "integracoes": [
+          "Kingstown Deepwater & Modern Port (SVGPA)",
+          "Campden Park Container Port & Georgetown"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de Kingstown e Campden Park e Trilhos Açucareiros de Mount Bentinck em Georgetown (São Vicente e Granadinas)",
+        "sistema_nome_en": "Kingstown & Campden Park Container Port Rail Tracks & Mount Bentinck Sugar Estate Tramway in Georgetown (Saint Vincent and the Grenadinas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2285,
+          13.1585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-destilaria-river-antoine-porto-st-georges-grenville-granada",
+        "nome": "Terminal Portuário de Carenage e Melville Street (St. George's, Granada)",
+        "linha": "Trilhos Históricos da Destilaria River Antoine (1785) e Vias Portuárias de St. George's Carenage",
+        "status": "operacao",
+        "integracoes": [
+          "Port of St. George's (Grenada Ports Authority)",
+          "Carenage Harbour & Melville Street Terminal"
+        ],
+        "sistema_nome_pt": "Trilhos Históricos da Destilaria River Antoine (1785, St. Patrick) e Vias Férreas Portuárias de Carenage em St. George's (Granada — Estação Nº 1.100!)",
+        "sistema_nome_en": "River Antoine Estate Waterwheel Distillery Rail System (1785, St. Patrick) & St. George's Carenage Port Tracks (Grenada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7525,
+          12.0525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-destilaria-river-antoine-porto-st-georges-grenville-granada",
+        "nome": "Pátio Ferroviário de Vagonetas e Roda d'Água de River Antoine Estate (1785, St. Patrick, Granada — Estação Nº 1.100 do Atlas Mundial!)",
+        "linha": "Trilhos Históricos da Destilaria River Antoine (1785) e Vias Portuárias de St. George's Carenage",
+        "status": "operacao",
+        "integracoes": [
+          "River Antoine Rum Distillery (Em operação desde 1785)",
+          "Lago Antoine & Tivoli (St. Patrick)"
+        ],
+        "sistema_nome_pt": "Trilhos Históricos da Destilaria River Antoine (1785, St. Patrick) e Vias Férreas Portuárias de Carenage em St. George's (Granada — Estação Nº 1.100!)",
+        "sistema_nome_en": "River Antoine Estate Waterwheel Distillery Rail System (1785, St. Patrick) & St. George's Carenage Port Tracks (Grenada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6125,
+          12.1865
+        ]
+      }
     }
   ]
 }
