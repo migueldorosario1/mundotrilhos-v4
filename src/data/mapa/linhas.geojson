@@ -39205,6 +39205,412 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-expresso-costeiro-hurtigruten-havila-bergen-trondheim-bodo-tromso-kirkenes",
+        "sistema_id": "hurtigruten-ferries-eletricos-fiordes-oslo-bergen-stavanger-noruega",
+        "nome": "Expresso Costeiro da Noruega (Kystruten — Hurtigruten & Havila): Bergen – Ålesund – Trondheim – Bodø – Svolvær (Lofoten) – Tromsø – Honningsvåg (Cabo Norte) – Kirkenes (Noruega)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Hurtigruten & Havila Kystruten (Noruega)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3185,
+            60.3945
+          ],
+          [
+            6.1515,
+            62.4725
+          ],
+          [
+            10.4025,
+            63.4385
+          ],
+          [
+            14.3755,
+            67.2845
+          ],
+          [
+            14.5685,
+            68.2325
+          ],
+          [
+            18.9585,
+            69.6485
+          ],
+          [
+            25.9755,
+            70.9815
+          ],
+          [
+            30.0485,
+            69.7285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-ferries-eletricos-fiorde-de-oslo-ruter-aker-brygge-nesoddtangen-bergen-stavanger",
+        "sistema_id": "hurtigruten-ferries-eletricos-fiordes-oslo-bergen-stavanger-noruega",
+        "nome": "Ferries Urbanos 100% Elétricos do Fiorde de Oslo (Ruter B10/B11/B20) e Expressos de Bergen/Sognefjord: Aker Brygge (Oslo) – Nesoddtangen – Ilhas do Fiorde & Bergen – Flåm (Noruega)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Ruter As (Oslo) & Skyss / Norled (Bergen e Fiordes, Noruega)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7285,
+            59.9105
+          ],
+          [
+            10.6555,
+            59.8695
+          ],
+          [
+            10.5215,
+            59.6625
+          ],
+          [
+            5.3185,
+            60.3945
+          ],
+          [
+            7.1145,
+            60.8635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-sl-pendelbat-waxholmsbolaget-nybroplan-slussen-djurgarden-waxholm-estocolmo",
+        "sistema_id": "sl-pendelbat-waxholmsbolaget-estocolmo-styrsobolaget-gotemburgo-suecia",
+        "nome": "Barcas Metropolitanas SL Pendelbåt (Linhas 80, 82, 83 e 89 Candela P-12) e Arquipélago (Waxholmsbolaget): Ekerö – Stadshuskajen – Slussen / Strömkajen / Nybroplan – Djurgården – Nacka – Lidingö – Vaxholm – Sandhamn (Estocolmo, Suécia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SL Pendelbåt & Waxholmsbolaget (Estocolmo, Suécia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8125,
+            59.2885
+          ],
+          [
+            18.0555,
+            59.3265
+          ],
+          [
+            18.0755,
+            59.3285
+          ],
+          [
+            18.0955,
+            59.3235
+          ],
+          [
+            18.1625,
+            59.3185
+          ],
+          [
+            18.3515,
+            59.4015
+          ],
+          [
+            18.9145,
+            59.2895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-vasttrafik-styrsobolaget-alvsnabben-gotemburgo-arquipelago-sul-suecia",
+        "sistema_id": "sl-pendelbat-waxholmsbolaget-estocolmo-styrsobolaget-gotemburgo-suecia",
+        "nome": "Rede Fluvial Älvsnabben (Linhas 285/286) e Arquipélago Sul de Gotemburgo (Västtrafik / Styrsöbolaget): Klippan – Lindholmen – Stenpiren – Lilla Bommen & Saltholmen – Styrsö – Donsö – Vrångö (Gotemburgo, Suécia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Västtrafik / Styrsöbolaget (Gotemburgo, Suécia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9645,
+            57.7115
+          ],
+          [
+            11.9585,
+            57.7055
+          ],
+          [
+            11.9085,
+            57.6895
+          ],
+          [
+            11.8415,
+            57.6605
+          ],
+          [
+            11.7895,
+            57.6145
+          ],
+          [
+            11.7865,
+            57.5745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-ponte-maritima-helsinque-tallinn-hsl-suomenlinna-golfo-da-finlandia",
+        "sistema_id": "megafarries-baltico-helsinque-tallinn-suomenlinna-finferries-turku-finlandia-estonia",
+        "nome": "Ponte Marítima Rápida Helsinque–Tallinn (Tallink MyStar/Megastar, Viking Line e Eckerö) & Barca Municipal HSL de Suomenlinna: Kauppatori / Länsisatama (Helsinque) – Suomenlinna – Porto de Tallinn (Estônia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "HSL Suomenlinna, Tallink Silja, Viking Line & Eckerö Line (Finlândia/Estônia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.9545,
+            60.1675
+          ],
+          [
+            24.9845,
+            60.1485
+          ],
+          [
+            24.9205,
+            60.1545
+          ],
+          [
+            24.7645,
+            59.4445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-baltico-finferries-turku-parainen-nauvo-mariehamn-aland-estocolmo",
+        "sistema_id": "megafarries-baltico-helsinque-tallinn-suomenlinna-finferries-turku-finlandia-estonia",
+        "nome": "Corredor do Arquipélago de Turku (Finferries Elektra/Altera) e Travessia Turku–Ilhas Åland–Estocolmo: Porto de Turku – Parainen – Nauvo – Mariehamn (Åland) – Kapellskär / Estocolmo (Finlândia/Suécia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Finferries, Viking Line & Tallink Silja (Turku–Åland–Estocolmo)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2285,
+            60.4355
+          ],
+          [
+            22.1265,
+            60.2245
+          ],
+          [
+            21.9125,
+            60.1925
+          ],
+          [
+            19.9275,
+            60.0945
+          ],
+          [
+            18.0755,
+            59.3285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hadag-hvv-porto-de-hamburgo-landungsbrucken-elbphilharmonie-finkenwerder-blankenese",
+        "sistema_id": "hadag-porto-de-hamburgo-gvb-ferries-amsterda-waterbus-roterda-alemanha-paises-baixos",
+        "nome": "Rede Metropolitana HADAG / HVV do Rio Elba (Linhas 61, 62, 64, 72 e 73): Elbphilharmonie – St. Pauli-Landungsbrücken – Altona (Fischmarkt) – Dockland – Övelgönne – Finkenwerder – Blankenese (Hamburgo, Alemanha)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "HADAG Seetouristik und Fährdienst AG / HVV (Hamburgo, Alemanha)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9845,
+            53.5415
+          ],
+          [
+            9.9695,
+            53.5455
+          ],
+          [
+            9.9515,
+            53.5445
+          ],
+          [
+            9.9145,
+            53.5435
+          ],
+          [
+            9.8585,
+            53.5355
+          ],
+          [
+            9.7985,
+            53.5555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-gvb-ij-ferries-amsterda-centraal-ndsm-waterbus-roterda-kinderdijk-dordrecht",
+        "sistema_id": "hadag-porto-de-hamburgo-gvb-ferries-amsterda-waterbus-roterda-alemanha-paises-baixos",
+        "nome": "Ferries Gratuitos GVB do Rio IJ em Amsterdã (Amsterdam Centraal – Buiksloterweg – NDSM) & Rede Waterbus Roterdã–Dordrecht (Erasmusbrug – Ridderkerk – Kinderdijk – Dordrecht, Países Baixos)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "GVB Veren (Amsterdã) & Waterbus (Roterdã–Dordrecht, Países Baixos)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8885,
+            52.3995
+          ],
+          [
+            4.9015,
+            52.3805
+          ],
+          [
+            4.4835,
+            51.9095
+          ],
+          [
+            4.6325,
+            51.8885
+          ],
+          [
+            4.6685,
+            51.8185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-mouettes-genevoises-cgn-lago-leman-genebra-nyon-lausanne-ouchy-montreux-evian",
+        "sistema_id": "mouettes-genevoises-cgn-lago-leman-lagos-lucerna-zurique-suica",
+        "nome": "Mouettes Genevoises (M1–M4) & Rede CGN do Lago Léman: Genebra (Molard / Pâquis / Eaux-Vives) – Nyon / Yvoire – Lausanne-Ouchy (Integração Metrô M2) – Évian-les-Bains – Vevey – Montreux / Chillon (Suíça/França)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Mouettes Genevoises (TPG) & CGN Lac Léman (Suíça/França)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1495,
+            46.2055
+          ],
+          [
+            6.2415,
+            46.3815
+          ],
+          [
+            6.3285,
+            46.3715
+          ],
+          [
+            6.6265,
+            46.5065
+          ],
+          [
+            6.5885,
+            46.4025
+          ],
+          [
+            6.8425,
+            46.4585
+          ],
+          [
+            6.9105,
+            46.4315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-sgv-lago-de-lucerna-zsg-lago-de-zurique-lucerna-weggis-vitznau-fluelen-suica",
+        "sistema_id": "mouettes-genevoises-cgn-lago-leman-lagos-lucerna-zurique-suica",
+        "nome": "Navegação do Lago de Lucerna (SGV) e Lago de Zurique (ZSG): Lucerna Bahnhofquai – Weggis – Vitznau (Trem do Rigi) – Bürgenstock – Flüelen & Zurique Bürkliplatz – Meilen – Rapperswil (Suíça)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SGV Luzern & ZSG Zürich (Swiss Travel System, Suíça)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.3115,
+            47.0505
+          ],
+          [
+            8.4315,
+            47.0315
+          ],
+          [
+            8.4835,
+            47.0085
+          ],
+          [
+            8.6225,
+            46.9025
+          ],
+          [
+            8.5415,
+            47.3665
+          ],
+          [
+            8.8155,
+            47.2245
+          ]
+        ]
+      }
     }
   ]
 }
