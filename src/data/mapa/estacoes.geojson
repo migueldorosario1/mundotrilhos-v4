@@ -29171,6 +29171,234 @@
           -1.4485
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-forte-san-fernando-bocachica-tierra-bomba",
+        "nome": "Estação Forte de San Fernando de Bocachica (Tierra Bomba)",
+        "sistema_id": "trilhos-fortes-bocachica-tierra-bomba-porto-san-andres-colombia",
+        "sistema_nome_pt": "Ilha de Tierra Bomba & San Andrés — Trilhos Históricos dos Fortes de Bocachica (Cartagena UNESCO) e Muelle de San Andrés (Colômbia)",
+        "sistema_nome_en": "Tierra Bomba & San Andrés Islands — Bocachica Forts Historic Rails (Cartagena UNESCO) & San Andrés Pier (Colombia)",
+        "linha": "Corredor Patrimonial de Tierra Bomba",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5885,
+          10.3165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-punta-arena-tierra-bomba-cartagena",
+        "nome": "Terminal Píer de Bocachica / Punta Arena",
+        "sistema_id": "trilhos-fortes-bocachica-tierra-bomba-porto-san-andres-colombia",
+        "sistema_nome_pt": "Ilha de Tierra Bomba & San Andrés — Trilhos Históricos dos Fortes de Bocachica (Cartagena UNESCO) e Muelle de San Andrés (Colômbia)",
+        "sistema_nome_en": "Tierra Bomba & San Andrés Islands — Bocachica Forts Historic Rails (Cartagena UNESCO) & San Andrés Pier (Colombia)",
+        "linha": "Corredor Patrimonial de Tierra Bomba",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5745,
+          10.3285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-internacional-el-guamache-margarita",
+        "nome": "Terminal Portuário Internacional de El Guamache (Margarita)",
+        "sistema_id": "trilhos-salineiros-pampatar-coche-porto-el-guamache-ilha-margarita-venezuela",
+        "sistema_nome_pt": "Ilha de Margarita, Coche & Cubagua — Trilhos Salineiros de Pampatar/Coche e Terminal Portuário de El Guamache (Nueva Esparta, Venezuela)",
+        "sistema_nome_en": "Margarita, Coche & Cubagua Islands — Pampatar/Coche Salt Rails & El Guamache Port Terminal (Nueva Esparta, Venezuela)",
+        "linha": "Ramal Insular de Margarita",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0615,
+          10.8885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-salinas-de-pampatar-castelo-san-carlos-margarita",
+        "nome": "Pátio Salineiro de Pampatar / San Carlos de Borromeo",
+        "sistema_id": "trilhos-salineiros-pampatar-coche-porto-el-guamache-ilha-margarita-venezuela",
+        "sistema_nome_pt": "Ilha de Margarita, Coche & Cubagua — Trilhos Salineiros de Pampatar/Coche e Terminal Portuário de El Guamache (Nueva Esparta, Venezuela)",
+        "sistema_nome_en": "Margarita, Coche & Cubagua Islands — Pampatar/Coche Salt Rails & El Guamache Port Terminal (Nueva Esparta, Venezuela)",
+        "linha": "Ramal Insular de Margarita",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7925,
+          10.9985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-biomuseo-entrada-amador-canal-panama",
+        "nome": "Estação Biomuseo / Entrada da Calzada de Amador",
+        "sistema_id": "ferrovia-quebra-mar-amador-ilhas-naos-perico-flamenco-canal-panama",
+        "sistema_nome_pt": "Ilhas de Naos, Perico, Culebra e Flamenco (Causeway de Amador) — Corredor Ferroviário Histórico do Quebra-Mar do Canal do Panamá",
+        "sistema_nome_en": "Naos, Perico, Culebra & Flamenco Islands (Amador Causeway) — Panama Canal Breakwater Historic Rail Corridor",
+        "linha": "Corredor Insular de Amador",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5445,
+          8.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-cruzeiros-ilhas-perico-flamenco-panama",
+        "nome": "Terminal Insular Ilhas Perico & Flamenco (Fort Grant)",
+        "sistema_id": "ferrovia-quebra-mar-amador-ilhas-naos-perico-flamenco-canal-panama",
+        "sistema_nome_pt": "Ilhas de Naos, Perico, Culebra e Flamenco (Causeway de Amador) — Corredor Ferroviário Histórico do Quebra-Mar do Canal do Panamá",
+        "sistema_nome_en": "Naos, Perico, Culebra & Flamenco Islands (Amador Causeway) — Panama Canal Breakwater Historic Rail Corridor",
+        "linha": "Corredor Insular de Amador",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5215,
+          8.9095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ponte-ferroviaria-changuinola-bocas-del-toro",
+        "nome": "Estação Ponte Ferroviária de Changuinola (1908)",
+        "sistema_id": "ferrocarril-bananero-changuinola-almirante-bocas-del-toro-panama",
+        "sistema_nome_pt": "Arquipélago de Bocas del Toro — Ferrocarril Bananero e Ponte Ferroviária sobre o Rio Changuinola – Porto de Almirante / Isla Colón (Panamá)",
+        "sistema_nome_en": "Bocas del Toro Archipelago — Changuinola Railway Bridge & Almirante Banana Port Rail Network / Isla Colón (Panama)",
+        "linha": "Tronco Changuinola–Almirante",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5125,
+          9.4365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-bananero-porto-almirante-isla-colon",
+        "nome": "Terminal Ferro-Portuário de Almirante (Conexão Isla Colón)",
+        "sistema_id": "ferrocarril-bananero-changuinola-almirante-bocas-del-toro-panama",
+        "sistema_nome_pt": "Arquipélago de Bocas del Toro — Ferrocarril Bananero e Ponte Ferroviária sobre o Rio Changuinola – Porto de Almirante / Isla Colón (Panamá)",
+        "sistema_nome_en": "Bocas del Toro Archipelago — Changuinola Railway Bridge & Almirante Banana Port Rail Network / Isla Colón (Panama)",
+        "linha": "Tronco Changuinola–Almirante",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4015,
+          9.2985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-coxen-hole-roatan-ilhas-da-baia",
+        "nome": "Terminal Portuário de Coxen Hole (Ilha de Roatán)",
+        "sistema_id": "trilhos-portuarios-roatan-ilhas-da-baia-ilha-el-tigre-amapala-honduras",
+        "sistema_nome_pt": "Ilhas da Baía (Roatán, Utila e Guanaja) & Ilha de El Tigre (Amapala) — Trilhos Portuários de Coxen Hole e Amapala (Honduras)",
+        "sistema_nome_en": "Bay Islands (Roatán, Utila & Guanaja) & El Tigre Island (Amapala) — Coxen Hole & Amapala Port Rails (Honduras)",
+        "linha": "Corredor Portuário de Roatán",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5485,
+          16.3125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-estaleiro-french-harbour-mahogany-bay-roatan",
+        "nome": "Pátio Naval de French Harbour / Mahogany Bay (Roatán)",
+        "sistema_id": "trilhos-portuarios-roatan-ilhas-da-baia-ilha-el-tigre-amapala-honduras",
+        "sistema_nome_pt": "Ilhas da Baía (Roatán, Utila e Guanaja) & Ilha de El Tigre (Amapala) — Trilhos Portuários de Coxen Hole e Amapala (Honduras)",
+        "sistema_nome_en": "Bay Islands (Roatán, Utila & Guanaja) & El Tigre Island (Amapala) — Coxen Hole & Amapala Port Rails (Honduras)",
+        "linha": "Corredor Portuário de Roatán",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4685,
+          16.3525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-lacustre-moyogalpa-ilha-ometepe",
+        "nome": "Terminal Portuário de Moyogalpa — Ilha de Ometepe",
+        "sistema_id": "trilhos-portuarios-moyogalpa-ilha-ometepe-lago-cocibolca-corn-islands-nicaragua",
+        "sistema_nome_pt": "Ilha de Ometepe, Isletas de Granada & Corn Islands — Trilhos Portuários de Moyogalpa / San Jorge (Lago Cocibolca) e Corn Island (Nicarágua)",
+        "sistema_nome_en": "Ometepe Island, Granada Islets & Corn Islands — Moyogalpa / San Jorge Lake Port Rails & Corn Island Pier (Nicaragua)",
+        "linha": "Corredor Lacustre de Ometepe",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7025,
+          11.5405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-altagracia-puerto-gracia-ometepe",
+        "nome": "Estação Lacustre de Altagracia / Puerto Gracia (Ometepe)",
+        "sistema_id": "trilhos-portuarios-moyogalpa-ilha-ometepe-lago-cocibolca-corn-islands-nicaragua",
+        "sistema_nome_pt": "Ilha de Ometepe, Isletas de Granada & Corn Islands — Trilhos Portuários de Moyogalpa / San Jorge (Lago Cocibolca) e Corn Island (Nicarágua)",
+        "sistema_nome_en": "Ometepe Island, Granada Islets & Corn Islands — Moyogalpa / San Jorge Lake Port Rails & Corn Island Pier (Nicaragua)",
+        "linha": "Corredor Lacustre de Ometepe",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5785,
+          11.5685
+        ]
+      }
     }
   ]
 }
