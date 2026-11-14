@@ -35933,6 +35933,218 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-trilhos-portuarios-serrarias-breves-soure-salvaterra-ilha-de-marajo-pa",
+        "sistema_id": "trilhos-portuarios-serrarias-breves-soure-salvaterra-ilha-de-marajo-pa",
+        "sistema_nome_pt": "Ilha de Marajó — Trilhos Portuários, Estaleiros Fluviais e Vagonetas Históricas de Soure, Salvaterra (Camará) e Estreito de Breves (Pará)",
+        "sistema_nome_en": "Marajó Island — Port Rails, River Shipyards & Historic Sawmill Tramways of Soure, Salvaterra (Camará) & Breves Strait (Pará, Brazil)",
+        "linha": "Corredor Portuário e Naval Soure – Rio Paracauari – Salvaterra – Porto de Camará (Ilha de Marajó, PA)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "camada": "passageiros",
+        "cor": "#ff8f00",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.5145,
+            -0.7285
+          ],
+          [
+            -48.5185,
+            -0.7525
+          ],
+          [
+            -48.5565,
+            -0.8245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-vlt-sao-luis-centro-historico-joao-paulo-tirirical-ilha-upaon-acu-ma",
+        "sistema_id": "vlt-sao-luis-centro-historico-joao-paulo-tirirical-ilha-upaon-acu-ma",
+        "sistema_nome_pt": "Ilha de São Luís (Upaon-Açu) — VLT de São Luís (Centro Histórico / Praia Grande – João Paulo – Tirirical, Maranhão)",
+        "sistema_nome_en": "São Luís Island (Upaon-Açu) — São Luís Light Rail / VLT (Historic Center / Praia Grande – João Paulo – Tirirical, Maranhão)",
+        "linha": "Linha 1 do VLT Insular de São Luís (Terminal Praia Grande / Centro Histórico – João Paulo – Tirirical)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "camada": "passageiros",
+        "cor": "#00c853",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.3065,
+            -2.5295
+          ],
+          [
+            -44.2945,
+            -2.5365
+          ],
+          [
+            -44.2765,
+            -2.5425
+          ],
+          [
+            -44.2525,
+            -2.5685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-complexo-ferroviario-portuario-ponta-da-madeira-itaqui-estreito-dos-mosquitos-sao-luis-ma",
+        "sistema_id": "complexo-ferroviario-portuario-ponta-da-madeira-itaqui-estreito-dos-mosquitos-sao-luis-ma",
+        "sistema_nome_pt": "Ilha de São Luís (Upaon-Açu) — Complexo Ferroviário-Portuário de Ponta da Madeira, Porto do Itaqui e Pontes do Estreito dos Mosquitos (EFC / FTL, Maranhão)",
+        "sistema_nome_en": "São Luís Island (Upaon-Açu) — Ponta da Madeira Terminal, Itaqui Port & Mosquitos Strait Rail Bridges Complex (EFC / FTL, Maranhão)",
+        "linha": "Tronco Insular Pontes do Estreito dos Mosquitos – Pátio Maracanã – Estação Anjo da Guarda – Porto do Itaqui – Ponta da Madeira (MA)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "camada": "carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.3245,
+            -2.7285
+          ],
+          [
+            -44.3385,
+            -2.6425
+          ],
+          [
+            -44.3585,
+            -2.5785
+          ],
+          [
+            -44.3695,
+            -2.5645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-trilhos-historicos-estaleiro-arantins-ponte-hercilio-luz-ilha-santa-catarina-florianopolis-sc",
+        "sistema_id": "trilhos-historicos-estaleiro-arantins-ponte-hercilio-luz-ilha-santa-catarina-florianopolis-sc",
+        "sistema_nome_pt": "Ilha de Santa Catarina (Florianópolis) — Eixo Patrimonial de Bondes da Ponte Hercílio Luz, Centro Histórico e Carreiras Navais Insulares (Santa Catarina)",
+        "sistema_nome_en": "Santa Catarina Island (Florianópolis) — Hercílio Luz Bridge Heritage Tramway Axis, Historic Center & Island Shipyard Slipways (Santa Catarina, Brazil)",
+        "linha": "Corredor Patrimonial Ponte Hercílio Luz – Parque da Luz – Rita Maria – Praça XV de Novembro (Ilha de Santa Catarina, SC)",
+        "status": "operacao",
+        "tipo": "vlt",
+        "camada": "passageiros",
+        "cor": "#00c853",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.5695,
+            -27.5938
+          ],
+          [
+            -48.5615,
+            -27.5935
+          ],
+          [
+            -48.5545,
+            -27.5955
+          ],
+          [
+            -48.5492,
+            -27.5975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-ramal-ferroviario-insular-porto-sao-francisco-do-sul-babitonga-sc",
+        "sistema_id": "ramal-ferroviario-insular-porto-sao-francisco-do-sul-babitonga-sc",
+        "sistema_nome_pt": "Ilha de São Francisco do Sul — Corredor Ferroviário Insular do Canal do Linguado ao Porto de São Francisco do Sul (Rumo Malha Sul / EF Dona Francisca, SC)",
+        "sistema_nome_en": "São Francisco do Sul Island — Island Freight Rail Corridor from Linguado Channel to São Francisco do Sul Port (Rumo Malha Sul, Santa Catarina)",
+        "linha": "Tronco Insular Canal do Linguado – Pátio de Paraguaçu – Iperoba – Porto de São Francisco do Sul (Ilha de São Francisco do Sul, SC)",
+        "status": "operacao",
+        "tipo": "ferrovia_carga",
+        "camada": "carga",
+        "cor": "#aa00ff",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.6625,
+            -26.3785
+          ],
+          [
+            -48.6485,
+            -26.3125
+          ],
+          [
+            -48.6385,
+            -26.2685
+          ],
+          [
+            -48.6325,
+            -26.2415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lin-trilhos-portuarios-ponte-florentino-avidos-porto-de-vitoria-ilha-de-vitoria-es",
+        "sistema_id": "trilhos-portuarios-ponte-florentino-avidos-porto-de-vitoria-ilha-de-vitoria-es",
+        "sistema_nome_pt": "Ilha de Vitória — Corredor Ferroviário e Portuário da Ponte Florentino Ávidos (Cinco Pontes), Cais Comercial de Vitória e Estação Pedro Nolasco (Espírito Santo)",
+        "sistema_nome_en": "Vitória Island — Florentino Ávidos Bridge (Five Bridges), Vitória Commercial Quay & Historic Island Rail Corridor (Espírito Santo, Brazil)",
+        "linha": "Eixo Ferroviário-Portuário Ponte Florentino Ávidos (Cinco Pontes) – Ilha do Príncipe – Cais Comercial da Ilha de Vitória (ES)",
+        "status": "operacao",
+        "tipo": "trem_convencional",
+        "camada": "passageiros",
+        "cor": "#ff8f00",
+        "geometria_aproximada": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.3525,
+            -20.3265
+          ],
+          [
+            -40.3475,
+            -20.3225
+          ],
+          [
+            -40.3395,
+            -20.3212
+          ],
+          [
+            -40.3295,
+            -20.3198
+          ]
+        ]
+      }
     }
   ]
 }
