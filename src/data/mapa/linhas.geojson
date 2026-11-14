@@ -31417,6 +31417,186 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "estacao-ferroviaria-restaurada-ceuta-tetuan-porto-almina-ceuta",
+        "linha": "Corredor Patrimonial e Portuário Estación del Ferrocarril Ceuta–Tetuán – Puerto de Ceuta (Ceuta, Estreito de Gibraltar)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Estação Ferroviária Histórica Restaurada de Ceuta – Tetuán (Locomotiva n.º 1 Ceuta) e Vias Portuárias de Poniente (Ceuta, Espanha)",
+        "sistema_nome_en": "Restored Ceuta – Tetuán Historic Railway Station (Locomotive No. 1 Ceuta) & Poniente Port Rail Tracks (Ceuta, Spain)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.332,
+            35.8855
+          ],
+          [
+            -5.3245,
+            35.8895
+          ],
+          [
+            -5.3165,
+            35.894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-portuarias-mineradoras-cargadero-mineral-cemr-melilla",
+        "linha": "Corredor do Cargadero de Mineral de Melilla (Compañía Española de Minas del Rif) – Estación de Hipódromo (Melilla)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Corredor Ferroviário Patrimonial do Cargadero de Mineral de Melilla (Compañía Española de Minas del Rif) e Porto de Melilla (Espanha)",
+        "sistema_nome_en": "Melilla Ore Loading Pier Heritage Railway Corridor (Compañía Española de Minas del Rif) & Port of Melilla (Spain)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.934,
+            35.2905
+          ],
+          [
+            -2.9385,
+            35.2865
+          ],
+          [
+            -2.9425,
+            35.282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "plano-inclinado-trilhos-historicos-porto-santo-antonio-forte-remedios-fernando-de-noronha",
+        "linha": "Trilhos Históricos e Portuários do Porto de Santo Antônio – Vila dos Remédios / Forte de Nossa Senhora dos Remédios (Fernando de Noronha, Brasil)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trilhos Históricos e Portuários do Porto de Santo Antônio – Vila dos Remédios e Forte dos Remédios (Arquipélago de Fernando de Noronha, Brasil)",
+        "sistema_nome_en": "Porto de Santo Antônio – Vila dos Remédios & Forte dos Remédios Historic and Port Rail Tracks (Fernando de Noronha Archipelago, Brazil)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32.4015,
+            -3.835
+          ],
+          [
+            -32.406,
+            -3.84
+          ],
+          [
+            -32.4105,
+            -3.8445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "de-bornholmske-jernbaner-dbj-ronne-allinge-nexo-bornholm",
+        "linha": "De Bornholmske Jernbaner (DBJ) Heritage Corridor Rønne Havn – Aakirkeby – Nexø (Ilha de Bornholm, Mar Báltico)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "De Bornholmske Jernbaner (DBJ — Ferrovia Patrimonial e Corredor Rønne Havn – Aakirkeby – Nexø, Ilha de Bornholm, Dinamarca)",
+        "sistema_nome_en": "De Bornholmske Jernbaner (DBJ — Rønne Havn – Aakirkeby – Nexø Heritage Railway Corridor, Bornholm Island, Baltic Sea, Denmark)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.7015,
+            55.0985
+          ],
+          [
+            14.9185,
+            55.071
+          ],
+          [
+            15.1305,
+            55.0605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-portuarias-pedreiras-granito-ronne-vang-hammeren-bornholm",
+        "linha": "Ferrovia Industrial das Pedreiras de Granito de Hammeren / Moseløkken – Porto de Hammerhavn e Vang (Ilha de Bornholm)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovia Industrial das Pedreiras de Granito de Moseløkken / Hammeren e Porto de Hammerhavn e Vang (Ilha de Bornholm, Dinamarca)",
+        "sistema_nome_en": "Moseløkken / Hammeren Granite Quarries Industrial Railway & Hammerhavn and Vang Port Tracks (Bornholm Island, Denmark)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.7565,
+            55.2715
+          ],
+          [
+            14.764,
+            55.276
+          ],
+          [
+            14.7535,
+            55.247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-portuarias-cala-gadir-scauri-porto-pantelleria-lampedusa",
+        "linha": "Vias Portuárias e de Estaleiro do Porto di Pantelleria / Cala Gadir e Cala Pisana em Lampedusa (Canal da Sicília, Itália)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Portuárias e de Estaleiro do Porto di Pantelleria / Cala Gadir e Cala Pisana em Lampedusa (Canal da Sicília, Itália)",
+        "sistema_nome_en": "Porto di Pantelleria / Cala Gadir & Cala Pisana in Lampedusa Port and Shipyard Rail Tracks (Strait of Sicily, Italy)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9445,
+            36.8325
+          ],
+          [
+            11.985,
+            36.826
+          ],
+          [
+            12.0125,
+            36.8095
+          ]
+        ]
+      }
     }
   ]
 }
