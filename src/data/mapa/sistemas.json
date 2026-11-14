@@ -23754,5 +23754,354 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+    "slug": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+    "nome_pt": "Hidrovia do Rio Solimões e Rio Negro — Manaus, Coari, Tefé, Tabatinga e São Gabriel da Cachoeira (AM)",
+    "nome_en": "Solimões & Negro Rivers Waterway — Manaus, Coari, Tefé, Tabatinga & São Gabriel da Cachoeira (Amazonas, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Manaus, Coari, Tefé, Tabatinga e São Gabriel da Cachoeira",
+    "uf": "AM",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Operadores de Lanchas Rápidas (Ajato) e Navios Regionais de Passageiros ( fiscalização ARSEPAM / ANTAQ / DNIT AHIMOC )",
+    "inauguracao": "1853 (Companhia de Navegação e Comércio do Amazonas fundada por Mauá) / Operação contínua modernizada com terminais IP4 do DNIT",
+    "extensao_km": 2480.0,
+    "bitola": "Hidrovia Fluvial de Grande Calado (Solimões até 12 m na cheia; Rio Negro até 4,5 m)",
+    "eletrificacao": "Lanchas Expresso / Ajato de alta velocidade e navios-motor fluviais de múltiplos conveses",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 8200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 310 milhões (implantação e manutenção das Instalações Portuárias Públicas de Pequeno Porte — IP4 do DNIT no Solimões e Rio Negro)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-dnit-ahimoc-solimoes-negro-madeira"
+    },
+    "proximas_entregas": {
+      "pt": "Requalificação do Porto da Manaus Moderna e novas estruturas flutuantes IP4 em Coari, Fonte Boa, Santo Antônio do Içá e Barcelos.",
+      "en": "Modernization of Manaus Moderna River Port and new floating IP4 passenger terminals at Coari, Fonte Boa, Santo Antônio do Içá and Barcelos."
+    },
+    "resumo_pt": "Espinha dorsal do transporte de passageiros e abastecimento do estado do Amazonas na Amazônia Ocidental: o tronco do Rio Solimões conecta o Porto de Manaus (Roadway / Manaus Moderna) a Manacapuru, Codajás, Coari, Tefé, Fonte Boa, Tonantins, São Paulo de Olivença, Benjamin Constant e Tabatinga (fronteira com Leticia, na Colômbia, e Santa Rosa de Yavarí, no Peru, ao longo de 1.630 km), enquanto o eixo do Rio Negro sobe 850 km passando por Novo Airão, Barcelos e Santa Isabel do Rio Negro até São Gabriel da Cachoeira.",
+    "resumo_en": "Primary passenger and supply waterway network of Western Amazonia: the Solimões River trunk connects Manaus Port to Coari, Tefé and Tabatinga (at the Brazil–Colombia–Peru tri-border, 1,630 km), while the Negro River line extends 850 km upstream through Barcelos to São Gabriel da Cachoeira.",
+    "lat": -3.3515,
+    "lon": -64.7125,
+    "zoom_inicial": 5.8,
+    "fontes": [
+      "antaq-dnit-ahimoc-solimoes-negro-madeira",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hidrovia do solimões",
+      "rio negro",
+      "manaus",
+      "tefé",
+      "coari",
+      "tabatinga",
+      "são gabriel da cachoeira",
+      "amazonas",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Porto_de_Manaus_Amazonas.jpg/800px-Porto_de_Manaus_Amazonas.jpg",
+      "credito": "Wikimedia Commons — Embarcações regionais e lanchas rápidas no Porto de Manaus (Rios Negro e Solimões, AM)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Port_of_Manaus"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-rio-solimoes-manaus-coari-tefe-tabatinga-am",
+        "nome": "Tronco Hidroviário do Rio Solimões: Porto de Manaus – Manacapuru – Coari – Tefé – Fonte Boa – Benjamin Constant – Tabatinga (AM)",
+        "status": "operacao",
+        "extensao_km": 1630.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-rio-negro-manaus-barcelos-sao-gabriel-da-cachoeira-am",
+        "nome": "Tronco Hidroviário do Rio Negro: Porto de Manaus – Novo Airão – Barcelos – Santa Isabel do Rio Negro – São Gabriel da Cachoeira (AM)",
+        "status": "operacao",
+        "extensao_km": 850.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-madeira-manaus-borba-manicore-humaita-porto-velho-am-ro",
+    "slug": "hidrovia-rio-madeira-manaus-borba-manicore-humaita-porto-velho-am-ro",
+    "nome_pt": "Hidrovia do Rio Madeira — Porto Velho, Humaitá, Manicoré, Borba, Itacoatiara e Manaus (RO / AM)",
+    "nome_en": "Madeira River Waterway — Porto Velho, Humaitá, Manicoré, Borba, Itacoatiara & Manaus (Rondônia / Amazonas, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Porto Velho (RO), Humaitá, Manicoré, Borba e Itacoatiara (AM)",
+    "uf": "RO",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Operadores de Navegação de Passageiros do Madeira & Comboios Hidroviários (DNIT AHIMOC / ANTAQ / SOPH Porto Velho)",
+    "inauguracao": "1874 (Navegação a vapor até Santo Antônio do Madeira / Porto Velho) / Balizamento noturno moderno em 1997",
+    "extensao_km": 1086.0,
+    "bitola": "Hidrovia Fluvial Troncal de Grande Porte (comboios de até 36 mil toneladas e barcos de passageiros de 3 conveses)",
+    "eletrificacao": "Navios-motor de passageiros, lanchas rápidas e empurradores fluviais",
+    "n_linhas": 1,
+    "n_estacoes": 3,
+    "passageiros_dia": 3400,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 265 milhões (dragagem de manutenção, sinalização náutica eletrônica e terminais IP4 em Humaitá, Manicoré, Borba e Cai N'Água em Porto Velho)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-dnit-ahimoc-solimoes-negro-madeira"
+    },
+    "proximas_entregas": {
+      "pt": "Concessão da Hidrovia do Rio Madeira com garantia de calado operacional o ano inteiro e modernização dos terminais públicos de passageiros (IP4).",
+      "en": "Madeira River Waterway concession guaranteeing year-round draft and upgraded IP4 public passenger terminals."
+    },
+    "resumo_pt": "Uma das mais importantes artérias hidroviárias do Brasil (1.086 km entre Porto Velho, em Rondônia, e a foz no Rio Amazonas perto de Itacoatiara e Manaus, no Amazonas), a Hidrovia do Rio Madeira transporta tanto milhões de toneladas de grãos do Centro-Oeste quanto milhares de passageiros em barcos regionais e lanchas expressas que atendem Porto Velho (Porto Cai N'Água), Calama, Humaitá, Manicoré, Novo Aripuanã, Borba e Nova Olinda do Norte.",
+    "resumo_en": "One of Brazil's premier inland waterways (1,086 km from Porto Velho in Rondônia to Itacoatiara and Manaus on the Amazon River), serving both regional passenger boats and major grain barge convoys across Humaitá, Manicoré and Borba.",
+    "lat": -5.8095,
+    "lon": -61.2985,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "antaq-dnit-ahimoc-solimoes-negro-madeira",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hidrovia do rio madeira",
+      "rio madeira",
+      "porto velho",
+      "humaitá",
+      "manicoré",
+      "borba",
+      "rondônia",
+      "amazonas",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rio_Madeira_Porto_Velho.jpg/800px-Rio_Madeira_Porto_Velho.jpg",
+      "credito": "Wikimedia Commons — Navegação de passageiros e cargas na Hidrovia do Rio Madeira em Porto Velho (RO) e Humaitá/Manicoré (AM)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Madeira_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-hidrovia-rio-madeira-porto-velho-humaita-manicore-manaus",
+        "nome": "Hidrovia do Rio Madeira: Porto Cai N'Água (Porto Velho, RO) – Humaitá – Manicoré – Novo Aripuanã – Borba – Itacoatiara / Manaus (AM)",
+        "status": "operacao",
+        "extensao_km": 1086.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-tapajos-baixo-amazonas-santarem-itaituba-obidos-parintins-pa-am",
+    "slug": "hidrovia-rio-tapajos-baixo-amazonas-santarem-itaituba-obidos-parintins-pa-am",
+    "nome_pt": "Hidrovia do Rio Tapajós e Baixo Amazonas — Santarém, Alter do Chão, Itaituba, Óbidos e Parintins (PA / AM)",
+    "nome_en": "Tapajós River & Lower Amazon Waterway — Santarém, Alter do Chão, Itaituba, Óbidos & Parintins (Pará / Amazonas, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Santarém, Itaituba, Óbidos, Oriximiná (PA) e Parintins (AM)",
+    "uf": "PA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Lanchas Expresso Tapajós / Navegação do Baixo Amazonas (CDP Santarém / DNIT AHIMOR / ANTAQ)",
+    "inauguracao": "1867 (Abertura do Rio Amazonas e Tapajós à navegação mercante e linhas regulares de Santarém, Óbidos e Itaituba)",
+    "extensao_km": 690.0,
+    "bitola": "Hidrovia Fluvial de Águas Profundas (Baixo Amazonas até 15 m e Rio Tapajós de Santarém a Itaituba/Miritituba)",
+    "eletrificacao": "Catamarãs e lanchas rápidas intermunicipais, navios-motor e ferry-boats rodofluviais",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 6800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 195 milhões (Terminal Hidroviário de Passageiros de Santarém, terminais IP4 em Itaituba, Óbidos, Juruti e Parintins)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-dnit-ahimor-tapajos-tocantins-estuario"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação dos terminais hidroviários de passageiros e cargas de Santarém, Miritituba (Itaituba), Oriximiná e Ilha Tupinambarana (Parintins).",
+      "en": "Expansion of the river passenger and cargo terminals at Santarém, Miritituba (Itaituba), Oriximiná and Parintins Island."
+    },
+    "resumo_pt": "Centrada no moderno Terminal Hidroviário de Santarém — no encontro das águas cristalinas do Rio Tapajós com o Rio Amazonas —, esta rede conecta por lanchas rápidas e ferries o vale do Rio Tapajós (Santarém – Alter do Chão – Fordlândia – Aveiro – Itaituba / Miritituba, 280 km) e as cidades históricas da Calha Norte e do Baixo Amazonas (Monte Alegre, Alenquer, Óbidos, Oriximiná, Terra Santa, Juruti e a ilha de Parintins, 410 km).",
+    "resumo_en": "Centered on the modern Santarém River Passenger Terminal at the confluence of the Tapajós and Amazon rivers, this waterway network links Santarém, Alter do Chão and Itaituba/Miritituba along the Tapajós River (280 km) as well as Óbidos, Oriximiná, Juruti and Parintins along the Lower Amazon (410 km).",
+    "lat": -2.4415,
+    "lon": -54.7085,
+    "zoom_inicial": 6.8,
+    "fontes": [
+      "antaq-dnit-ahimor-tapajos-tocantins-estuario",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hidrovia do tapajós",
+      "rio tapajós",
+      "santarém",
+      "itaituba",
+      "alter do chão",
+      "óbidos",
+      "parintins",
+      "pará",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Encontro_das_aguas_Santarem.jpg/800px-Encontro_das_aguas_Santarem.jpg",
+      "credito": "Wikimedia Commons — Orla e Porto Hidroviário de Santarém no encontro dos rios Tapajós e Amazonas (PA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Santar%C3%A9m_(Par%C3%A1)"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-hidrovia-rio-tapajos-santarem-alter-do-chao-itaituba-pa",
+        "nome": "Hidrovia do Rio Tapajós: Terminal Hidroviário de Santarém – Alter do Chão – Aveiro – Itaituba / Miritituba (PA)",
+        "status": "operacao",
+        "extensao_km": 280.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-baixo-amazonas-monte-alegre-santarem-obidos-parintins",
+        "nome": "Eixo Baixo Amazonas / Calha Norte: Monte Alegre – Santarém – Óbidos – Oriximiná – Juruti (PA) – Parintins (AM)",
+        "status": "operacao",
+        "extensao_km": 410.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-estuario-amazonico-macapa-santana-afua-gurupa-breves-belem-ap-pa",
+    "slug": "hidrovia-estuario-amazonico-macapa-santana-afua-gurupa-breves-belem-ap-pa",
+    "nome_pt": "Hidrovia do Estuário Amazônico e Furos de Breves — Macapá/Santana (AP), Afuá, Gurupá, Breves e Belém (PA)",
+    "nome_en": "Amazon Estuary & Breves Narrows Waterway — Macapá/Santana (Amapá), Afuá, Gurupá, Breves & Belém (Pará, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Santana / Macapá (AP), Afuá, Gurupá, Breves e Belém (PA)",
+    "uf": "AP",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Navios-Motor, Catamarãs Expresso e Ferry-Boats do Estuário Amazônico (Docas de Santana / CPH Pará / ANTAQ)",
+    "inauguracao": "1854 (Linha fluvial regular Belém – Breves – Gurupá – Macapá) / Catamarãs expressos modernos",
+    "extensao_km": 540.0,
+    "bitola": "Canal do Norte, Estreito de Breves e Baía do Guajará (navegação flúvio-marítima de grande porte)",
+    "eletrificacao": "Catamarãs expressos, navios-motor de passageiros e balsas rodofluviais",
+    "n_linhas": 1,
+    "n_estacoes": 3,
+    "passageiros_dia": 7400,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 160 milhões (modernização do Terminal Hidroviário de Santana no Amapá, trapiches de Afuá/Gurupá/Breves e Terminal Hidroviário de Belém)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-dnit-ahimor-tapajos-tocantins-estuario"
+    },
+    "proximas_entregas": {
+      "pt": "Novo terminal hidroviário de passageiros de Santana (AP) e ampliação das linhas de catamarãs rápidos entre Macapá/Santana, Afuá, Breves e Belém.",
+      "en": "New passenger river terminal at Santana (Amapá) and expanded express catamaran services linking Santana/Macapá, Afuá, Breves and Belém."
+    },
+    "resumo_pt": "Principal ligação de passageiros e cargas entre o estado do Amapá (que não possui conexão rodoviária com o restante do Brasil), o arquipélago do Marajó Ocidental e a capital paraense Belém: ao longo de 540 km pelos labirintos de furos e paranás do Estreito de Breves, navios-motor, ferry-boats e catamarãs conectam o Porto de Santana / Macapá (AP), a pitoresca cidade palafítica de Afuá (a 'Veneza Marajoara', onde veículos motorizados são proibidos), Gurupá, Melgaço, Breves, Curralinho e Belém.",
+    "resumo_en": "Primary passenger and cargo lifeline linking the state of Amapá (which has no road connection to the rest of Brazil), western Marajó Island and Belém: spanning 540 km through the scenic Breves Narrows, ferries and express catamarans connect Santana/Macapá (AP), car-free Afuá, Gurupá, Breves and Belém (PA).",
+    "lat": -0.0585,
+    "lon": -51.1785,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "antaq-dnit-ahimor-tapajos-tocantins-estuario",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "estuário amazônico",
+      "macapá",
+      "santana",
+      "afuá",
+      "estreito de breves",
+      "belém",
+      "amapá",
+      "pará",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Porto_de_Santana_Amapa.jpg/800px-Porto_de_Santana_Amapa.jpg",
+      "credito": "Wikimedia Commons — Porto e Terminal Hidroviário de Santana / Macapá (AP) e navegação pelo Estreito de Breves até Belém (PA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Santana_(Amap%C3%A1)"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-estuario-amazonico-santana-macapa-afua-breves-belem",
+        "nome": "Hidrovia do Estuário Amazônico e Furos de Breves: Porto de Santana / Macapá (AP) – Afuá – Gurupá – Breves – Curralinho – Belém (PA)",
+        "status": "operacao",
+        "extensao_km": 540.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-tocantins-belem-abaetetuba-cameta-baiao-tucurui-pa",
+    "slug": "hidrovia-rio-tocantins-belem-abaetetuba-cameta-baiao-tucurui-pa",
+    "nome_pt": "Hidrovia do Baixo Tocantins — Belém, Barcarena, Abaetetuba, Cametá, Baião e Eclusas de Tucuruí (PA)",
+    "nome_en": "Lower Tocantins River Waterway — Belém, Barcarena, Abaetetuba, Cametá, Baião & Tucuruí Locks (Pará, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Belém, Barcarena, Abaetetuba, Cametá e Tucuruí",
+    "uf": "PA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Lanchas Expresso e Ferry-Boats do Baixo Tocantins (CPH Pará / DNIT AHITAR — Eclusas de Tucuruí)",
+    "inauguracao": "1864 (Navegação a vapor do Baixo Tocantins Belém–Cametá) / 2010 (Inauguração das Eclusas de Tucuruí)",
+    "extensao_km": 395.0,
+    "bitola": "Hidrovia Fluvial com Sistema de Transposição de Nível (Eclusas de Tucuruí: 210 m × 33 m, vencendo 72 m de desnível)",
+    "eletrificacao": "Lanchas rápidas intermunicipais, ferry-boats ro-ro e comboios fluviais",
+    "n_linhas": 1,
+    "n_estacoes": 3,
+    "passageiros_dia": 11500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 1,8 bilhão (conclusão do Complexo de Eclusas de Tucuruí, novos terminais hidroviários da CPH em Abaetetuba, Cametá e Barcarena, e derrocamento do Pedral do Lourenço)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-dnit-ahimor-tapajos-tocantins-estuario"
+    },
+    "proximas_entregas": {
+      "pt": "Derrocamento do Pedral do Lourenço para navegação contínua de grande calado entre Marabá, as Eclusas de Tucuruí, Cametá e Vila do Conde / Belém.",
+      "en": "Rock clearing at Pedral do Lourenço to enable continuous deep-draft navigation between Marabá, Tucuruí Locks, Cametá and Vila do Conde / Belém."
+    },
+    "resumo_pt": "Uma das hidrovias de passageiros mais movimentadas da Amazônia Oriental (395 km entre Belém e Tucuruí): dezenas de lanchas rápidas e ferry-boats diários partem do Terminal Hidroviário de Belém e dos portos da Estrada Nova rumo a Barcarena (São Francisco / Cafézal), Abaetetuba (capital das ilhas do Baixo Tocantins), Igarapé-Miri, Limoeiro do Ajuru, Cametá, Mocajuba, Baião e Tucuruí, onde operam as monumentais Eclusas de Tucuruí (que vencem 72 metros de desnível da hidrelétrica).",
+    "resumo_en": "One of Eastern Amazonia's busiest passenger waterways (395 km between Belém and Tucuruí): high-frequency express boats and ferries connect Belém River Terminal to Barcarena, Abaetetuba, Igarapé-Miri, Cametá, Mocajuba, Baião and the monumental Tucuruí Navigation Locks (overcoming a 72 m dam drop).",
+    "lat": -2.2425,
+    "lon": -49.4965,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "antaq-dnit-ahimor-tapajos-tocantins-estuario",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hidrovia do tocantins",
+      "baixo tocantins",
+      "belém",
+      "abaetetuba",
+      "barcarena",
+      "cametá",
+      "eclusas de tucuruí",
+      "pará",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cameta_Rio_Tocantins.jpg/800px-Cameta_Rio_Tocantins.jpg",
+      "credito": "Wikimedia Commons — Navegação no Rio Tocantins entre Belém, Abaetetuba, Cametá e as Eclusas de Tucuruí (PA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Tocantins_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-hidrovia-rio-tocantins-belem-abaetetuba-cameta-tucurui-pa",
+        "nome": "Hidrovia do Rio Tocantins: Belém – Barcarena – Abaetetuba – Igarapé-Miri – Cametá – Mocajuba – Baião – Eclusas de Tucuruí (PA)",
+        "status": "operacao",
+        "extensao_km": 395.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

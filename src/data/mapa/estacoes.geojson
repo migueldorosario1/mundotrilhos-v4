@@ -30923,6 +30923,294 @@
           10.3285
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-coari-rio-solimoes-am",
+        "nome": "Terminal Hidroviário IP4 de Coari (Rio Solimões, AM)",
+        "sistema_id": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+        "linha": "Tronco Hidroviário do Rio Solimões",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1415,
+          -4.0845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-tefe-rio-solimoes-am",
+        "nome": "Terminal Hidroviário de Tefé (Lago de Tefé / Rio Solimões, AM)",
+        "sistema_id": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+        "linha": "Tronco Hidroviário do Rio Solimões",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7125,
+          -3.3515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-tabatinga-triplice-fronteira-solimoes-am",
+        "nome": "Porto Fluvial de Tabatinga — Tríplice Fronteira Brasil / Colômbia / Peru (Alto Solimões, AM)",
+        "sistema_id": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+        "linha": "Tronco Hidroviário do Rio Solimões",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9415,
+          -4.2315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-barcelos-rio-negro-am",
+        "nome": "Terminal Hidroviário IP4 de Barcelos (Médio Rio Negro, AM)",
+        "sistema_id": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+        "linha": "Tronco Hidroviário do Rio Negro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.9265,
+          -0.9745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-camanaus-sao-gabriel-da-cachoeira-rio-negro-am",
+        "nome": "Porto de Camanaus — São Gabriel da Cachoeira (Alto Rio Negro, AM)",
+        "sistema_id": "hidrovia-rio-solimoes-rio-negro-manaus-tefe-tabatinga-sao-gabriel-am",
+        "linha": "Tronco Hidroviário do Rio Negro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0895,
+          -0.1305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-cai-nagua-porto-velho-rio-madeira-ro",
+        "nome": "Porto Cai N'Água e Terminal Hidroviário de Porto Velho (Rio Madeira, RO)",
+        "sistema_id": "hidrovia-rio-madeira-manaus-borba-manicore-humaita-porto-velho-am-ro",
+        "linha": "Hidrovia do Rio Madeira: Porto Velho – Humaitá – Manicoré – Manaus",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9085,
+          -8.7615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-humaita-rio-madeira-am",
+        "nome": "Terminal Hidroviário IP4 de Humaitá (Rio Madeira, AM)",
+        "sistema_id": "hidrovia-rio-madeira-manaus-borba-manicore-humaita-porto-velho-am-ro",
+        "linha": "Hidrovia do Rio Madeira: Porto Velho – Humaitá – Manicoré – Manaus",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0215,
+          -7.5065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-manicore-borba-rio-madeira-am",
+        "nome": "Terminal Hidroviário IP4 de Manicoré (Rio Madeira, AM)",
+        "sistema_id": "hidrovia-rio-madeira-manaus-borba-manicore-humaita-porto-velho-am-ro",
+        "linha": "Hidrovia do Rio Madeira: Porto Velho – Humaitá – Manicoré – Manaus",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2985,
+          -5.8095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-itaituba-miritituba-tapajos-pa",
+        "nome": "Terminal Hidroviário de Itaituba / Miritituba (Rio Tapajós, PA)",
+        "sistema_id": "hidrovia-rio-tapajos-baixo-amazonas-santarem-itaituba-obidos-parintins-pa-am",
+        "linha": "Hidrovia do Rio Tapajós: Santarém – Alter do Chão – Itaituba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9835,
+          -4.2765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-obidos-garganta-amazonas-pa",
+        "nome": "Terminal Hidroviário de Óbidos — Garganta do Rio Amazonas (PA)",
+        "sistema_id": "hidrovia-rio-tapajos-baixo-amazonas-santarem-itaituba-obidos-parintins-pa-am",
+        "linha": "Eixo Baixo Amazonas / Calha Norte",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5185,
+          -1.9185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-parintins-ilha-tupinambarana-am",
+        "nome": "Terminal Hidroviário de Parintins — Ilha Tupinambarana (Baixo Amazonas, AM)",
+        "sistema_id": "hidrovia-rio-tapajos-baixo-amazonas-santarem-itaituba-obidos-parintins-pa-am",
+        "linha": "Eixo Baixo Amazonas / Calha Norte",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.7365,
+          -2.6285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-hidroviario-santana-macapa-ap",
+        "nome": "Terminal Hidroviário do Porto de Santana / Macapá (Canal do Norte do Amazonas, AP)",
+        "sistema_id": "hidrovia-estuario-amazonico-macapa-santana-afua-gurupa-breves-belem-ap-pa",
+        "linha": "Hidrovia do Estuário Amazônico: Santana/Macapá – Afuá – Breves – Belém",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1785,
+          -0.0585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-trapiche-municipal-afua-veneza-marajoara-pa",
+        "nome": "Trapiche Hidroviário de Afuá — 'Veneza Marajoara' (Ilha de Marajó Ocidental, PA)",
+        "sistema_id": "hidrovia-estuario-amazonico-macapa-santana-afua-gurupa-breves-belem-ap-pa",
+        "linha": "Hidrovia do Estuário Amazônico: Santana/Macapá – Afuá – Breves – Belém",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3885,
+          -0.1565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-abaetetuba-baixo-tocantins-pa",
+        "nome": "Terminal Hidroviário de Abaetetuba (Baixo Tocantins, PA)",
+        "sistema_id": "hidrovia-rio-tocantins-belem-abaetetuba-cameta-baiao-tucurui-pa",
+        "linha": "Hidrovia do Rio Tocantins: Belém – Abaetetuba – Cametá – Tucuruí",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8825,
+          -1.7215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-cameta-rio-tocantins-pa",
+        "nome": "Terminal Hidroviário de Cametá (Rio Tocantins, PA)",
+        "sistema_id": "hidrovia-rio-tocantins-belem-abaetetuba-cameta-baiao-tucurui-pa",
+        "linha": "Hidrovia do Rio Tocantins: Belém – Abaetetuba – Cametá – Tucuruí",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4965,
+          -2.2425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-eclusas-de-tucurui-porto-hidroviario-pa",
+        "nome": "Complexo de Eclusas e Terminal Hidroviário de Tucuruí (Rio Tocantins, PA)",
+        "sistema_id": "hidrovia-rio-tocantins-belem-abaetetuba-cameta-baiao-tucurui-pa",
+        "linha": "Hidrovia do Rio Tocantins: Belém – Abaetetuba – Cametá – Tucuruí",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6725,
+          -3.7665
+        ]
+      }
     }
   ]
 }
