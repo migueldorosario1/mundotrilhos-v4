@@ -33189,6 +33189,222 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lrt-sumatra-do-sul-palembang-aeroporto-sultan-mahmud-badaruddin-ii-ampera-jakabaring-ilha-de-sumatra",
+        "linha": "Linha LRT Sumatera Selatan (Aeroporto SMB II – Ampera / Rio Musi – Jakabaring – DJKA — Palembang, Sumatra)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "VLT / LRT de Palembang — LRT Sumatera Selatan (Aeroporto Sultan Mahmud Badaruddin II – Ampera / Rio Musi – Jakabaring – DJKA, Ilha de Sumatra, Indonésia)",
+        "sistema_nome_en": "Palembang LRT — South Sumatra Light Rail Transit (Sultan Mahmud Badaruddin II Airport – Ampera / Musi River – Jakabaring – DJKA, Sumatra Island, Indonesia)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.7042,
+            -2.8948
+          ],
+          [
+            104.7385,
+            -2.9525
+          ],
+          [
+            104.7615,
+            -2.9905
+          ],
+          [
+            104.7895,
+            -3.0185
+          ],
+          [
+            104.7985,
+            -3.0355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-regionais-sumatra-kai-medan-kualanamu-padang-sawahlunto-ombilin-unesco-palembang-lampung",
+        "linha": "Redes KAI de Sumatra (Medan–Kualanamu, Ferrovia de Cremalheira de Ombilin Padang–Sawahlunto UNESCO e Corredor Palembang–Tanjungkarang)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Redes Ferroviárias da Ilha de Sumatra — KAI (Expresso Aeroporto Medan–Kualanamu, Ferrovia Carvoeira de Ombilin Padang–Sawahlunto UNESCO e Corredor Palembang–Tanjungkarang / Babaranjang)",
+        "sistema_nome_en": "Sumatra Island Railway Networks — KAI (Medan–Kualanamu Airport Rail Link, Ombilin Coal Heritage Railway Padang–Sawahlunto UNESCO & Palembang–Lampung / Babaranjang Corridor)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            98.6785,
+            3.5912
+          ],
+          [
+            99.825,
+            2.9815
+          ],
+          [
+            100.3655,
+            -0.9475
+          ],
+          [
+            100.7785,
+            -0.6815
+          ],
+          [
+            104.745,
+            -3.005
+          ],
+          [
+            105.2585,
+            -5.4095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-trans-sulawesi-makassar-mandai-maros-pangkep-barru-garongkong-parepare-ilha-de-sulawesi",
+        "linha": "Ferrovia Trans-Sulawesi (Mandai / Makassar – Maros – Rammang-Rammang – Pangkep – Barru – Garongkong — Bitola Padrão 1435 mm)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Trans-Sulawesi — Kereta Api Trans-Sulawesi (Mandai / Makassar – Maros – Pangkep – Rammang-Rammang – Barru – Porto de Garongkong, Ilha de Sulawesi / Celebes, Indonésia)",
+        "sistema_nome_en": "Trans-Sulawesi Railway — Kereta Api Trans-Sulawesi (Mandai / Makassar – Maros – Pangkep – Rammang-Rammang – Barru – Garongkong, Sulawesi Island, Indonesia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.5415,
+            -5.0685
+          ],
+          [
+            119.5745,
+            -4.9965
+          ],
+          [
+            119.561,
+            -4.8325
+          ],
+          [
+            119.6185,
+            -4.4125
+          ],
+          [
+            119.6295,
+            -4.3785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-florestais-mineradoras-kalimantan-balikpapan-tarakan-salinas-kalianget-ilha-de-madura",
+        "linha": "Ferrovia das Salinas PT Garam em Kalianget (Kamal–Pamekasan–Kalianget, Ilha de Madura) e Vias de Balikpapan / Kalimantan",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Industriais e Florestais de Kalimantan (Balikpapan / Banjarmasin / Sangkulirang, Ilha de Bornéu) e Ferrovia das Salinas e Açúcar de Kalianget / Pamekasan (Ilha de Madura, Indonésia)",
+        "sistema_nome_en": "Kalimantan Industrial & Logging Railways (Balikpapan / Banjarmasin / Sangkulirang, Borneo Island) & Kalianget Salt/Sugar Railways (Madura Island, Indonesia)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.7215,
+            -7.1685
+          ],
+          [
+            113.4825,
+            -7.1595
+          ],
+          [
+            113.9415,
+            -7.0515
+          ],
+          [
+            116.8315,
+            -1.2675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-ilha-de-negros-hawaiian-philippine-victorias-panay-railways-iloilo-cebu-visayas",
+        "linha": "Corredores Canavieiros de Silay / Victorias (Ilha de Negros), Panay Railways (Iloilo) e Cebu (Visayas, Filipinas)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Açucareiras Patrimoniais da Ilha de Negros (Hawaiian-Philippine Co. em Silay e Victorias Milling Co. — 'Iron Dinosaurs') e Corredor Panay Railways (Iloilo – Roxas e Danao – Argao em Cebu, Filipinas)",
+        "sistema_nome_en": "Negros Island Heritage Sugar Railways (Hawaiian-Philippine Co. in Silay & Victorias Milling Co. — 'Iron Dinosaurs') & Panay / Cebu Railway Corridors (Visayas, Philippines)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.5645,
+            10.6925
+          ],
+          [
+            122.9765,
+            10.8015
+          ],
+          [
+            123.0785,
+            10.9015
+          ],
+          [
+            123.9055,
+            10.3155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "funicular-penang-hill-bukit-bendera-railway-air-itam-george-town-ilha-de-penang-langkawi-malasia",
+        "linha": "Funicular de Penang Hill — Keretapi Bukit Bendera (Air Itam – Viaduto – Túnel de Granito – Topo 731 m — Ilha de Penang)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Funicular de Penang Hill — Bukit Bendera Railway (Estação Inferior Air Itam – Viaduto de 50 Arcos – Túnel Mais Íngreme da Ásia – Estação Topo 731 m, George Town, Ilha de Penang e Langkawi, Malásia)",
+        "sistema_nome_en": "Penang Hill Funicular Railway — Keretapi Bukit Bendera (Air Itam Lower Station – 50-Arch Viaduct – Steepest Tunnel Track in Asia – Upper Station 731 m, Penang & Langkawi Islands, Malaysia)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.2772,
+            5.4082
+          ],
+          [
+            100.2735,
+            5.4165
+          ],
+          [
+            100.2692,
+            5.4245
+          ]
+        ]
+      }
     }
   ]
 }

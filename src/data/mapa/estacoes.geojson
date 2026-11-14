@@ -26843,6 +26843,226 @@
           34.228
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lrt-sumatra-do-sul-palembang-aeroporto-sultan-mahmud-badaruddin-ii-ampera-jakabaring-ilha-de-sumatra",
+        "nome": "Estação Ampera / Rio Musi (LRT Sumatera Selatan — Centro Histórico de Palembang, Ilha de Sumatra)",
+        "linha": "Linha LRT Sumatera Selatan (Aeroporto SMB II – Ampera / Rio Musi – Jakabaring – DJKA — Palembang, Sumatra)",
+        "status": "operacao",
+        "integracoes": [
+          "Ponte Ampera / Rio Musi",
+          "Trans Musi BRT Palembang"
+        ],
+        "sistema_nome_pt": "VLT / LRT de Palembang — LRT Sumatera Selatan (Aeroporto Sultan Mahmud Badaruddin II – Ampera / Rio Musi – Jakabaring – DJKA, Ilha de Sumatra, Indonésia)",
+        "sistema_nome_en": "Palembang LRT — South Sumatra Light Rail Transit (Sultan Mahmud Badaruddin II Airport – Ampera / Musi River – Jakabaring – DJKA, Sumatra Island, Indonesia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7615,
+          -2.9905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lrt-sumatra-do-sul-palembang-aeroporto-sultan-mahmud-badaruddin-ii-ampera-jakabaring-ilha-de-sumatra",
+        "nome": "Estação Aeroporto Internacional Sultan Mahmud Badaruddin II & Jakabaring (LRT Palembang — Ilha de Sumatra)",
+        "linha": "Linha LRT Sumatera Selatan (Aeroporto SMB II – Ampera / Rio Musi – Jakabaring – DJKA — Palembang, Sumatra)",
+        "status": "operacao",
+        "integracoes": [
+          "Aeroporto Internacional SMB II",
+          "Jakabaring Sport City"
+        ],
+        "sistema_nome_pt": "VLT / LRT de Palembang — LRT Sumatera Selatan (Aeroporto Sultan Mahmud Badaruddin II – Ampera / Rio Musi – Jakabaring – DJKA, Ilha de Sumatra, Indonésia)",
+        "sistema_nome_en": "Palembang LRT — South Sumatra Light Rail Transit (Sultan Mahmud Badaruddin II Airport – Ampera / Musi River – Jakabaring – DJKA, Sumatra Island, Indonesia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7042,
+          -2.8948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-regionais-sumatra-kai-medan-kualanamu-padang-sawahlunto-ombilin-unesco-palembang-lampung",
+        "nome": "Estação e Museu Ferroviário de Sawahlunto 'Mak Itam' (Ferrovia de Ombilin Patrimônio Mundial UNESCO — Sumatra Ocidental)",
+        "linha": "Redes KAI de Sumatra (Medan–Kualanamu, Ferrovia de Cremalheira de Ombilin Padang–Sawahlunto UNESCO e Corredor Palembang–Tanjungkarang)",
+        "status": "operacao",
+        "integracoes": [
+          "Ombilin Coal Mining Heritage UNESCO",
+          "Locomotiva de Cremalheira E1060 Mak Itam"
+        ],
+        "sistema_nome_pt": "Redes Ferroviárias da Ilha de Sumatra — KAI (Expresso Aeroporto Medan–Kualanamu, Ferrovia Carvoeira de Ombilin Padang–Sawahlunto UNESCO e Corredor Palembang–Tanjungkarang / Babaranjang)",
+        "sistema_nome_en": "Sumatra Island Railway Networks — KAI (Medan–Kualanamu Airport Rail Link, Ombilin Coal Heritage Railway Padang–Sawahlunto UNESCO & Palembang–Lampung / Babaranjang Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7785,
+          -0.6815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-regionais-sumatra-kai-medan-kualanamu-padang-sawahlunto-ombilin-unesco-palembang-lampung",
+        "nome": "Estação Central de Medan (City Railway Station / Kualanamu Airport Rail Link) e Kertapati / Tanjungkarang (Ilha de Sumatra)",
+        "linha": "Redes KAI de Sumatra (Medan–Kualanamu, Ferrovia de Cremalheira de Ombilin Padang–Sawahlunto UNESCO e Corredor Palembang–Tanjungkarang)",
+        "status": "operacao",
+        "integracoes": [
+          "Railink Aeroporto de Kualanamu",
+          "Trans Mebidang Medan"
+        ],
+        "sistema_nome_pt": "Redes Ferroviárias da Ilha de Sumatra — KAI (Expresso Aeroporto Medan–Kualanamu, Ferrovia Carvoeira de Ombilin Padang–Sawahlunto UNESCO e Corredor Palembang–Tanjungkarang / Babaranjang)",
+        "sistema_nome_en": "Sumatra Island Railway Networks — KAI (Medan–Kualanamu Airport Rail Link, Ombilin Coal Heritage Railway Padang–Sawahlunto UNESCO & Palembang–Lampung / Babaranjang Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6785,
+          3.5912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-trans-sulawesi-makassar-mandai-maros-pangkep-barru-garongkong-parepare-ilha-de-sulawesi",
+        "nome": "Estação Central de Maros / Mandai & Rammang-Rammang UNESCO Geopark (Ferrovia Trans-Sulawesi — Ilha de Sulawesi, Indonésia)",
+        "linha": "Ferrovia Trans-Sulawesi (Mandai / Makassar – Maros – Rammang-Rammang – Pangkep – Barru – Garongkong — Bitola Padrão 1435 mm)",
+        "status": "operacao",
+        "integracoes": [
+          "Maros-Pangkep UNESCO Global Geopark",
+          "Trans Mamminasata Makassar"
+        ],
+        "sistema_nome_pt": "Ferrovia Trans-Sulawesi — Kereta Api Trans-Sulawesi (Mandai / Makassar – Maros – Pangkep – Rammang-Rammang – Barru – Porto de Garongkong, Ilha de Sulawesi / Celebes, Indonésia)",
+        "sistema_nome_en": "Trans-Sulawesi Railway — Kereta Api Trans-Sulawesi (Mandai / Makassar – Maros – Pangkep – Rammang-Rammang – Barru – Garongkong, Sulawesi Island, Indonesia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5745,
+          -4.9965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-trans-sulawesi-makassar-mandai-maros-pangkep-barru-garongkong-parepare-ilha-de-sulawesi",
+        "nome": "Estação de Garongkong / Barru (Terminal Portuário Norte da Ferrovia Trans-Sulawesi — Ilha de Sulawesi, Indonésia)",
+        "linha": "Ferrovia Trans-Sulawesi (Mandai / Makassar – Maros – Rammang-Rammang – Pangkep – Barru – Garongkong — Bitola Padrão 1435 mm)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Marítimo de Garongkong",
+          "Terminal de Barru"
+        ],
+        "sistema_nome_pt": "Ferrovia Trans-Sulawesi — Kereta Api Trans-Sulawesi (Mandai / Makassar – Maros – Pangkep – Rammang-Rammang – Barru – Porto de Garongkong, Ilha de Sulawesi / Celebes, Indonésia)",
+        "sistema_nome_en": "Trans-Sulawesi Railway — Kereta Api Trans-Sulawesi (Mandai / Makassar – Maros – Pangkep – Rammang-Rammang – Barru – Garongkong, Sulawesi Island, Indonesia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6295,
+          -4.3785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-florestais-mineradoras-kalimantan-balikpapan-tarakan-salinas-kalianget-ilha-de-madura",
+        "nome": "Pátio Ferroviário das Salinas da PT Garam em Kalianget (Ilha de Madura) e Memorial Ferroviário de Balikpapan / Kalimantan (Bornéu)",
+        "linha": "Ferrovia das Salinas PT Garam em Kalianget (Kamal–Pamekasan–Kalianget, Ilha de Madura) e Vias de Balikpapan / Kalimantan",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Kalianget (Sumenep)",
+          "Salinas Históricas de Madura"
+        ],
+        "sistema_nome_pt": "Vias Férreas Industriais e Florestais de Kalimantan (Balikpapan / Banjarmasin / Sangkulirang, Ilha de Bornéu) e Ferrovia das Salinas e Açúcar de Kalianget / Pamekasan (Ilha de Madura, Indonésia)",
+        "sistema_nome_en": "Kalimantan Industrial & Logging Railways (Balikpapan / Banjarmasin / Sangkulirang, Borneo Island) & Kalianget Salt/Sugar Railways (Madura Island, Indonesia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9415,
+          -7.0515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-ilha-de-negros-hawaiian-philippine-victorias-panay-railways-iloilo-cebu-visayas",
+        "nome": "Pátio e Rotunda da Hawaiian-Philippine Co. em Silay & Victorias Milling ('Iron Dinosaurs' — Ilha de Negros, Visayas, Filipinas)",
+        "linha": "Corredores Canavieiros de Silay / Victorias (Ilha de Negros), Panay Railways (Iloilo) e Cebu (Visayas, Filipinas)",
+        "status": "operacao",
+        "integracoes": [
+          "Silay Heritage Zone",
+          "Victorias Milling Steam Locomotives"
+        ],
+        "sistema_nome_pt": "Ferrovias Açucareiras Patrimoniais da Ilha de Negros (Hawaiian-Philippine Co. em Silay e Victorias Milling Co. — 'Iron Dinosaurs') e Corredor Panay Railways (Iloilo – Roxas e Danao – Argao em Cebu, Filipinas)",
+        "sistema_nome_en": "Negros Island Heritage Sugar Railways (Hawaiian-Philippine Co. in Silay & Victorias Milling Co. — 'Iron Dinosaurs') & Panay / Cebu Railway Corridors (Visayas, Philippines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9765,
+          10.8015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-acucareiras-ilha-de-negros-hawaiian-philippine-victorias-panay-railways-iloilo-cebu-visayas",
+        "nome": "Terminal Histórico de La Paz / Iloilo (Panay Railways — Ilha de Panay) e Estação de Carcar / Cebu (Ilhas Visayas, Filipinas)",
+        "linha": "Corredores Canavieiros de Silay / Victorias (Ilha de Negros), Panay Railways (Iloilo) e Cebu (Visayas, Filipinas)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Iloilo",
+          "Museu de Carcar / Cebu"
+        ],
+        "sistema_nome_pt": "Ferrovias Açucareiras Patrimoniais da Ilha de Negros (Hawaiian-Philippine Co. em Silay e Victorias Milling Co. — 'Iron Dinosaurs') e Corredor Panay Railways (Iloilo – Roxas e Danao – Argao em Cebu, Filipinas)",
+        "sistema_nome_en": "Negros Island Heritage Sugar Railways (Hawaiian-Philippine Co. in Silay & Victorias Milling Co. — 'Iron Dinosaurs') & Panay / Cebu Railway Corridors (Visayas, Philippines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5645,
+          10.6925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "funicular-penang-hill-bukit-bendera-railway-air-itam-george-town-ilha-de-penang-langkawi-malasia",
+        "nome": "Estação Inferior de Air Itam & Estação Topo de Bukit Bendera (Funicular de Penang Hill — Ilha de Penang, Malásia — Estação Nº 1.270 do Atlas!)",
+        "linha": "Funicular de Penang Hill — Keretapi Bukit Bendera (Air Itam – Viaduto – Túnel de Granito – Topo 731 m — Ilha de Penang)",
+        "status": "operacao",
+        "integracoes": [
+          "Penang Hill UNESCO Biosphere Reserve",
+          "Rapid Penang Bus 204 George Town"
+        ],
+        "sistema_nome_pt": "Funicular de Penang Hill — Bukit Bendera Railway (Estação Inferior Air Itam – Viaduto de 50 Arcos – Túnel Mais Íngreme da Ásia – Estação Topo 731 m, George Town, Ilha de Penang e Langkawi, Malásia)",
+        "sistema_nome_en": "Penang Hill Funicular Railway — Keretapi Bukit Bendera (Air Itam Lower Station – 50-Arch Viaduct – Steepest Tunnel Track in Asia – Upper Station 731 m, Penang & Langkawi Islands, Malaysia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2735,
+          5.4165
+        ]
+      }
     }
   ]
 }
