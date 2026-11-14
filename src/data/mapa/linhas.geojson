@@ -30337,6 +30337,186 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "pago-pago-harbor-marine-railway-tramway-naval-utulei-fagatogo-samoa-americana",
+        "linha": "Corredor Naval e Estaleiro Sobre Trilhos Satala Marine Railway – Fagatogo – Utulei (Baía de Pago Pago)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Pago Pago Harbor Marine Railway (Satala) e Trilhos Navais de Fagatogo – Utulei (Tutuila, Samoa Americana)",
+        "sistema_nome_en": "Pago Pago Harbor Marine Railway (Satala) & Fagatogo – Utulei Naval Tramway (Tutuila, American Samoa)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -170.6815,
+            -14.2695
+          ],
+          [
+            -170.6905,
+            -14.2775
+          ],
+          [
+            -170.6805,
+            -14.2835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-pago-pago-terminal-atunero-atua-samoa-americana",
+        "linha": "Vias Portuárias Fagatogo Container Terminal – Atu'u Cannery Pier (Pago Pago)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Férreas Portuárias do Terminal de Contêineres de Pago Pago e Píer Industrial Atuneiro de Atu'u (Samoa Americana)",
+        "sistema_nome_en": "Pago Pago Container Terminal Port Rail Tracks & Atu'u Tuna Cannery Industrial Pier Tracks (American Samoa)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -170.6915,
+            -14.278
+          ],
+          [
+            -170.6865,
+            -14.2715
+          ],
+          [
+            -170.683,
+            -14.2685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "plano-inclinado-guiado-bounty-bay-hill-of-difficulty-adamstown-ilhas-pitcairn",
+        "linha": "Plano Inclinado de Desembarque Bounty Bay Landing – Hill of Difficulty – Adamstown (Pitcairn)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Plano Inclinado Guiado e Sistema de Cabo de Bounty Bay – Hill of Difficulty – Adamstown (Ilha Pitcairn, Território Britânico do Pacífico Sul)",
+        "sistema_nome_en": "Bounty Bay – Hill of Difficulty – Adamstown Guided Inclined Plane & Cableway System (Pitcairn Island, South Pacific)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.0955,
+            -25.0685
+          ],
+          [
+            -130.0985,
+            -25.067
+          ],
+          [
+            -130.1015,
+            -25.066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-mata-utu-uvea-leava-sigave-wallis-e-futuna",
+        "linha": "Vias Portuárias do Cais de Mata-Utu – Halalo (Ilha de Wallis / Uvéa)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Férreas Portuárias do Cais de Mata-Utu (Ilha de Uvéa / Wallis) e Píer de Leava em Sigave (Ilha de Futuna, Wallis e Futuna)",
+        "sistema_nome_en": "Mata-Utu Wharf Port Rail Tracks (Uvéa / Wallis Island) & Leava Pier Tracks in Sigave (Futuna Island, Wallis and Futuna)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -176.1715,
+            -13.2815
+          ],
+          [
+            -176.1765,
+            -13.2985
+          ],
+          [
+            -176.2045,
+            -13.3385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-portuarios-desembarque-fakaofo-nukunonu-atafu-tokelau",
+        "linha": "Vias de Desembarque e Rampas Portuárias de Fale – Fenua Fala (Atol de Fakaofo, Tokelau)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trilhos Portuários de Desembarque e Rampas de Carga dos Atóis de Fakaofo (Fale), Nukunonu e Atafu (Tokelau)",
+        "sistema_nome_en": "Fakaofo (Fale), Nukunonu & Atafu Atolls Landing Ramp and Port Rail Tracks (Tokelau)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -171.2495,
+            -9.3815
+          ],
+          [
+            -171.2465,
+            -9.3785
+          ],
+          [
+            -171.2625,
+            -9.3665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-logisticas-wake-island-midway-sand-eastern-island-ilhas-menores-distantes-dos-eua",
+        "linha": "Ferrovia Logística do Atol de Wake (Wilkes Island – Marina Lagoon – Wake Island Airfield)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovias Logísticas de Bitola Estreita do Atol de Wake (Wilkes – Wake Island) e do Atol de Midway — Sand & Eastern Island (Ilhas Menores Distantes dos EUA)",
+        "sistema_nome_en": "Wake Atoll (Wilkes – Wake Island) & Midway Atoll (Sand & Eastern Island) Narrow-Gauge Logistics Railways (U.S. Minor Outlying Islands)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            166.612,
+            19.291
+          ],
+          [
+            166.635,
+            19.279
+          ],
+          [
+            166.652,
+            19.288
+          ]
+        ]
+      }
     }
   ]
 }
