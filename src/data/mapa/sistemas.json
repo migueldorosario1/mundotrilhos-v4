@@ -23078,27 +23078,69 @@
     "nome_pt": "Corredor Ferroviário-Portuário e Bondes Históricos da Ilha do Recife Antigo, Ilha de Santo Antônio e Itamaracá (PE)",
     "nome_en": "Historic Tramway & Port Rail Corridor of Recife Island, Santo Antônio Island & Itamaracá (Pernambuco, Brazil)",
     "pais": "Ilha de Itamaracá e Ilha do Recife / Santo Antônio (Pernambuco)",
-    "codigo_pais": "BR",
-    "bandeira": "🇧🇷",
-    "cidade_regiao": "Ilha do Recife (Recife Antigo), Ilha de Santo Antônio / São José e Ilha de Itamaracá (Forte Orange / Vila Velha, PE)",
+    "cidade": "Recife (Ilha do Recife / Ilha de Santo Antônio) e Ilha de Itamaracá",
+    "uf": "PE",
     "tipo": "vlt",
     "status": "operacao",
-    "cor_hex": "#00c853",
-    "extensao_km": 11.4,
-    "estacoes_count": 3,
-    "bitola": "1.000 mm (métrica — Porto do Recife e Maxambomba / Bondes do Recife Antigo) / 600 mm (vagonetas históricas de Itamaracá)",
-    "eletrificacao": "600 V CC / Tração a bateria e diesel-hidráulica portuária",
-    "velocidade_max_kmh": 40,
+    "camada": "passageiros",
     "operador": "Porto do Recife S.A. / Prefeitura do Recife (Recife Antigo) / Patrimônio Histórico de Itamaracá",
-    "ano_inauguracao": 1867,
-    "passageiros_ano": 680000,
+    "inauguracao": "1867 (Maxambomba do Recife — primeira ferrovia urbana a vapor da América do Sul — e ramais do Porto do Recife)",
+    "extensao_km": 11.4,
+    "bitola": "1000 mm (métrica — Porto do Recife e Bondes do Recife Antigo) / 600 mm (vagonetas históricas de Itamaracá)",
+    "eletrificacao": "600 V CC / Tração a bateria e diesel-hidráulica portuária",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 1900,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 85 milhões (requalificação dos armazéns, trilhos históricos do Cais do Sertão / Marco Zero e entorno do Forte Orange)",
+      "moeda": "BRL",
+      "fonte_id": "porto-recife-cbtu-itamaraca-pe"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão do circuito de VLT/bonde turístico pelo Bairro do Recife (Ilha do Recife) e Ilha de Santo Antônio até o Forte das Cinco Pontas.",
+      "en": "Expansion of the heritage tramway/VLT loop across Recife Island (Recife Antigo) and Santo Antônio Island to Cinco Pontas Fort."
+    },
     "resumo_pt": "O centro histórico da capital pernambucana é formado por um arquipélago flúvio-marinho (Ilha do Recife / Bairro do Recife e Ilha de Antônio Vaz / Santo Antônio e São José), pioneiro na América do Sul com a histórica Maxambomba (1867, primeira locomotiva urbana a vapor do continente) e os trilhos portuários do Cais do Apolo, Marco Zero e Armazéns do Porto do Recife, além das vagonetas históricas das salinas e do Forte Orange na vizinha Ilha de Itamaracá.",
     "resumo_en": "Historic insular rail and tramway heritage across Recife Island (Recife Antigo / Marco Zero port quays), Santo Antônio Island (Cinco Pontas / Cais José Estelita) and Orange Fort on Itamaracá Island in Pernambuco.",
     "lat": -8.0631,
     "lon": -34.8711,
     "zoom_inicial": 11.2,
     "fontes": [
-      "porto-recife-cbtu-itamaraca-pe"
+      "porto-recife-cbtu-itamaraca-pe",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha do recife",
+      "recife antigo",
+      "ilha de santo antônio",
+      "ilha de itamaracá",
+      "forte orange",
+      "pernambuco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Marco_Zero_Recife.jpg/800px-Marco_Zero_Recife.jpg",
+      "credito": "Wikimedia Commons — Ilha do Recife Antigo (Marco Zero / Porto do Recife) e Forte Orange na Ilha de Itamaracá (PE)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Recife_Antigo"
+    },
+    "linhas": [
+      {
+        "id": "linha-bondes-trilhos-portuarios-ilha-do-recife-santo-antonio-pe",
+        "nome": "Eixo Ferroviário-Portuário e Bondes da Ilha do Recife Antigo (Brum – Marco Zero) – Ilha de Santo Antônio (Forte das Cinco Pontas)",
+        "status": "operacao",
+        "extensao_km": 6.8,
+        "cor": "#00c853"
+      },
+      {
+        "id": "linha-trilhos-historicos-forte-orange-vila-velha-ilha-itamaraca-pe",
+        "nome": "Eixo Insular da Ilha de Itamaracá (Pilar – Jaguaribe – Forte Orange / Vila Velha, PE)",
+        "status": "operacao",
+        "extensao_km": 4.6,
+        "cor": "#ff8f00"
+      }
     ]
   },
   {
@@ -23107,27 +23149,61 @@
     "nome_pt": "Trilhos Portuários e Aeroespaciais de Alcântara, Ilha do Cajual e Baía de São Marcos (MA)",
     "nome_en": "Port & Aerospace Launch Rail Tracks of Alcântara, Cajual Island & São Marcos Bay (Maranhão, Brazil)",
     "pais": "Ilha de Alcântara e Baía de São Marcos (Maranhão)",
-    "codigo_pais": "BR",
-    "bandeira": "🇧🇷",
-    "cidade_regiao": "Alcântara (Centro Histórico e CLA), Terminal do Cujupe e Ilha do Cajual / Baía de São Marcos (MA)",
+    "cidade": "Alcântara (CLA / Cujupe / Baía de São Marcos)",
+    "uf": "MA",
     "tipo": "trem_convencional",
     "status": "operacao",
-    "cor_hex": "#ff8f00",
-    "extensao_km": 5.8,
-    "estacoes_count": 3,
-    "bitola": "1.600 mm / 1.000 mm (trilhos de pórticos e torre móvel de integração do CLA e rampas portuárias da Baía de São Marcos)",
-    "eletrificacao": "Elétrica industrial trifásica (Torre Móvel de Integração CLA) / Tração portuária",
-    "velocidade_max_kmh": 25,
+    "camada": "misto",
     "operador": "Centro de Lançamento de Alcântara (CLA / AEB / FAB) & EMAP (Terminais de Alcântara e Cujupe)",
-    "ano_inauguracao": 1983,
-    "passageiros_ano": 420000,
+    "inauguracao": "1983 (Implantação da Torre Móvel de Integração sobre trilhos do CLA e terminais da Baía de São Marcos)",
+    "extensao_km": 5.8,
+    "bitola": "1600 mm / 1000 mm (trilhos de pórticos e torre móvel de integração do CLA e rampas portuárias da Baía de São Marcos)",
+    "eletrificacao": "Elétrica industrial trifásica (Torre Móvel de Integração CLA) / Tração portuária",
+    "n_linhas": 1,
+    "n_estacoes": 3,
+    "passageiros_dia": 1150,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 140 milhões (modernização das plataformas e trilhos do CLA e ampliação do Terminal do Cujupe / Alcântara)",
+      "moeda": "BRL",
+      "fonte_id": "cla-emap-alcantara-baia-sao-marcos-ma"
+    },
+    "proximas_entregas": {
+      "pt": "Novos berços e rampas rodoferroviárias e hidroviárias no Terminal do Cujupe e expansão das plataformas comerciais do Centro Espacial de Alcântara.",
+      "en": "New ferry and port slipway berths at Cujupe Terminal and expansion of commercial launch pads at Alcântara Space Center."
+    },
     "resumo_pt": "Sistema especializado que reúne os trilhos pesados da Torre Móvel de Integração (TMI) e das plataformas de lançamento espacial do Centro de Lançamento de Alcântara (CLA), sobre as falésias equatoriais da Baía de São Marcos, além dos trilhos de rampas navais e cais históricos de Alcântara (Cais da Ladeira do Jacaré / Ilha do Livramento) e do Terminal Hidroviário de Cujupe, diretamente integrados aos ferry-boats da Baía de São Marcos.",
     "resumo_en": "Heavy aerospace rail gantry tracks of the Mobile Integration Tower (TMI) at the Alcântara Launch Center (CLA) and historic port slipway rails at Alcântara and Cujupe on São Marcos Bay, Maranhão.",
     "lat": -2.4085,
     "lon": -44.4145,
     "zoom_inicial": 11.5,
     "fontes": [
-      "cla-emap-alcantara-baia-sao-marcos-ma"
+      "cla-emap-alcantara-baia-sao-marcos-ma",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "alcântara",
+      "centro de lançamento de alcântara",
+      "cujupe",
+      "baía de são marcos",
+      "maranhão"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Alcantara_Maranhao_Brasil.jpg/800px-Alcantara_Maranhao_Brasil.jpg",
+      "credito": "Wikimedia Commons — Centro Histórico e Espacial de Alcântara e Baía de São Marcos (MA)",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Alc%C3%A2ntara"
+    },
+    "linhas": [
+      {
+        "id": "linha-trilhos-aeroespaciais-portuarios-alcantara-cujupe-ma",
+        "nome": "Corredor de Trilhos da Torre Móvel do CLA – Porto Histórico de Alcântara – Terminal de Cujupe (MA)",
+        "status": "operacao",
+        "extensao_km": 5.8,
+        "cor": "#ff8f00"
+      }
     ]
   },
   {
@@ -23136,27 +23212,61 @@
     "nome_pt": "Trilhos Históricos Portuários e Militares da Baía de Santo Antônio — Arquipélago de Fernando de Noronha (PE — UNESCO)",
     "nome_en": "Historic Port & Military Railway of Santo Antônio Bay — Fernando de Noronha Archipelago (PE, Brazil — UNESCO)",
     "pais": "Ilha de Fernando de Noronha (Pernambuco)",
-    "codigo_pais": "BR",
-    "bandeira": "🇧🇷",
-    "cidade_regiao": "Porto de Santo Antônio, Vila dos Remédios e Air France — Ilha de Fernando de Noronha (PE)",
+    "cidade": "Fernando de Noronha (Porto de Santo Antônio / Vila dos Remédios)",
+    "uf": "PE",
     "tipo": "trem_convencional",
     "status": "operacao",
-    "cor_hex": "#ff8f00",
+    "camada": "passageiros",
+    "operador": "Administração do Distrito Estadual de Fernando de Noronha (ATDEFN) / IPHAN / ICMBio",
+    "inauguracao": "1942 (Ferrovia militar e portuária Décauville construída durante a Segunda Guerra Mundial na Baía de Santo Antônio)",
     "extensao_km": 3.4,
-    "estacoes_count": 3,
     "bitola": "600 mm / 762 mm (bitola Décauville militar e carreiras navais do Porto de Santo Antônio)",
     "eletrificacao": "Tração mecânica / guincho naval e preservação histórica aberta à visitação",
-    "velocidade_max_kmh": 20,
-    "operador": "Administração do Distrito Estadual de Fernando de Noronha (ATDEFN) / IPHAN / ICMBio",
-    "ano_inauguracao": 1942,
-    "passageiros_ano": 140000,
+    "n_linhas": 1,
+    "n_estacoes": 3,
+    "passageiros_dia": 450,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 32 milhões (restauro da Fortaleza de Nossa Senhora dos Remédios e requalificação do Porto de Santo Antônio)",
+      "moeda": "BRL",
+      "fonte_id": "noronha-icmbio-iphan-pe"
+    },
+    "proximas_entregas": {
+      "pt": "Sinalização interpretativa do circuito ferroviário militar da Segunda Guerra Mundial entre o Porto de Santo Antônio, Air France e Vila dos Remédios.",
+      "en": "Interpretive heritage trail signage along the WWII military railway corridor between Santo Antônio Port, Air France Point and Vila dos Remédios."
+    },
     "resumo_pt": "Implantada durante a Segunda Guerra Mundial (1942) pelo Destacamento Misto de Fernando de Noronha e pela Marinha/US Navy para transportar munições, suprimentos e hidroaviões/embarcações entre o Porto de Santo Antônio, a Ponta de Santo Antônio (Espaço Cultural Air France) e os paióis da Fortaleza de Nossa Senhora dos Remédios, a linha Décauville insular e as carreiras navais de Santo Antônio preservam a memória ferroviária atlântica a 545 km da costa do Recife.",
     "resumo_en": "Historic WWII military Décauville railway and active naval slipways connecting Santo Antônio Port, Air France Point and Nossa Senhora dos Remédios Fortress on Fernando de Noronha Island (UNESCO World Heritage).",
     "lat": -3.8395,
     "lon": -32.4045,
     "zoom_inicial": 13.5,
     "fontes": [
-      "noronha-icmbio-iphan-pe"
+      "noronha-icmbio-iphan-pe",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "fernando de noronha",
+      "porto de santo antônio",
+      "fortaleza dos remédios",
+      "unesco",
+      "pernambuco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fernando_de_Noronha_-_Pernambuco_-_Brasil.jpg/800px-Fernando_de_Noronha_-_Pernambuco_-_Brasil.jpg",
+      "credito": "Wikimedia Commons — Arquipélago de Fernando de Noronha, Porto de Santo Antônio e Vila dos Remédios (PE)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Fernando_de_Noronha"
+    },
+    "linhas": [
+      {
+        "id": "linha-ferrovia-militar-porto-santo-antonio-remedios-fernando-noronha-pe",
+        "nome": "Linha Histórica Militar e Portuária: Ponta Air France – Porto de Santo Antônio – Fortaleza dos Remédios (Fernando de Noronha, PE)",
+        "status": "operacao",
+        "extensao_km": 3.4,
+        "cor": "#ff8f00"
+      }
     ]
   },
   {
@@ -23165,27 +23275,69 @@
     "nome_pt": "Trilhos Históricos da Fortaleza de Tapirandu e Travessias Insulares de Tinharé / Morro de São Paulo e Boipeba (BA)",
     "nome_en": "Tapirandu Fortress Historic Tracks & Insular Waterways of Tinharé / Morro de São Paulo & Boipeba (Bahia, Brazil)",
     "pais": "Ilha de Tinharé / Morro de São Paulo e Boipeba (Bahia)",
-    "codigo_pais": "BR",
-    "bandeira": "🇧🇷",
-    "cidade_regiao": "Morro de São Paulo, Gamboa do Morro (Ilha de Tinharé) e Velha Boipeba (Ilha de Boipeba — Arquipélago de Cairu, BA)",
+    "cidade": "Cairu (Morro de São Paulo / Ilha de Tinharé e Ilha de Boipeba)",
+    "uf": "BA",
     "tipo": "trem_convencional",
     "status": "operacao",
-    "cor_hex": "#ff8f00",
+    "camada": "passageiros",
+    "operador": "Prefeitura-Arquipélago de Cairu / AGERBA / Operadores Hidroviários de Tinharé e Boipeba",
+    "inauguracao": "1630 / 1855 (Fortaleza de Tapirandu, Farol do Morro de São Paulo e terminais insulares de Tinharé e Boipeba)",
     "extensao_km": 18.6,
-    "estacoes_count": 3,
     "bitola": "600 mm (vagonetas históricas da Fortaleza do Tapirandu e cais de Morro de São Paulo) + Hidrovias Insulares de Cairu",
     "eletrificacao": "Tração mecânica / portuária e lanchas/catamarãs insulares",
-    "velocidade_max_kmh": 35,
-    "operador": "Prefeitura-Arquipélago de Cairu / AGERBA / Operadores Hidroviários de Tinharé e Boipeba",
-    "ano_inauguracao": 1630,
-    "passageiros_ano": 750000,
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 2100,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 48 milhões (requalificação dos terminais hidroviários de Morro de São Paulo, Gamboa e Boca da Barra em Boipeba e restauro da Fortaleza de Tapirandu)",
+      "moeda": "BRL",
+      "fonte_id": "agerba-cairu-tinhare-boipeba-ba"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização dos atracadouros marítimos de Morro de São Paulo, Gamboa do Morro e Velha Boipeba no Arquipélago de Cairu.",
+      "en": "Modernization of the maritime piers at Morro de São Paulo, Gamboa do Morro and Velha Boipeba in the Cairu Archipelago."
+    },
     "resumo_pt": "No único município-arquipélago do Brasil (Cairu, formado por 26 ilhas onde automóveis comuns são proibidos em Morro de São Paulo e Boipeba), a logística insular combina os trilhos históricos de pedra e vagonetas do cais da Fortaleza de Tapirandu (1630) e do Farol do Morro de São Paulo com a malha hidroviária diária de lanchas rápidas e barcos que conectam Valença (Atracadouro Bom Jardim), Gamboa do Morro, Morro de São Paulo e Velha Boipeba.",
     "resumo_en": "Historic port tracks at Tapirandu Fortress (1630) in Morro de São Paulo combined with the car-free insular waterway network linking Tinharé Island, Gamboa, Valença and Boipeba Island in Cairu Archipelago, Bahia.",
     "lat": -13.3775,
     "lon": -38.9145,
     "zoom_inicial": 11.5,
     "fontes": [
-      "agerba-cairu-tinhare-boipeba-ba"
+      "agerba-cairu-tinhare-boipeba-ba",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de tinharé",
+      "morro de são paulo",
+      "ilha de boipeba",
+      "fortaleza de tapirandu",
+      "cairu",
+      "bahia"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fortaleza_de_Tapirandu_-_Morro_de_S%C3%A3o_Paulo.jpg/800px-Fortaleza_de_Tapirandu_-_Morro_de_S%C3%A3o_Paulo.jpg",
+      "credito": "Wikimedia Commons — Fortaleza de Tapirandu e Cais de Morro de São Paulo na Ilha de Tinharé (Cairu, BA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Morro_de_S%C3%A3o_Paulo"
+    },
+    "linhas": [
+      {
+        "id": "linha-trilhos-fortaleza-tapirandu-farol-morro-sao-paulo-ba",
+        "nome": "Trilhos do Cais da Fortaleza de Tapirandu – Portaló – Vila de Morro de São Paulo (Ilha de Tinharé, BA)",
+        "status": "operacao",
+        "extensao_km": 2.4,
+        "cor": "#ff8f00"
+      },
+      {
+        "id": "linha-barco-valenca-gamboa-morro-sao-paulo-boipeba-ba",
+        "nome": "Hidrovia Insular de Cairu: Atracadouro Bom Jardim (Valença) – Gamboa – Morro de São Paulo – Velha Boipeba (BA)",
+        "status": "operacao",
+        "extensao_km": 16.2,
+        "cor": "#00b8d4"
+      }
     ]
   },
   {
@@ -23194,27 +23346,64 @@
     "nome_pt": "Carreiras Navais e Travessia Hidroviária da Ilha do Bananal — Rio Araguaia e Rio Javaés (TO / MT)",
     "nome_en": "Naval Slipways & Araguaia Waterway Crossings of Bananal Island — World's Largest Fluvial Island (TO / MT, Brazil)",
     "pais": "Ilha do Bananal — Santa Isabel do Morro e São Félix do Araguaia (Tocantins / Mato Grosso)",
-    "codigo_pais": "BR",
-    "bandeira": "🇧🇷",
-    "cidade_regiao": "Santa Isabel do Morro (Iny / Hawalora, Ilha do Bananal — TO), São Félix do Araguaia (MT) e Formoso do Araguaia / Barreira da Cruz (TO)",
+    "cidade": "Santa Isabel do Morro / Lagoa da Confusão (TO) e São Félix do Araguaia (MT)",
+    "uf": "TO",
     "tipo": "barco",
     "status": "operacao",
-    "cor_hex": "#00b8d4",
-    "extensao_km": 94.0,
-    "estacoes_count": 3,
-    "bitola": "Hidrovia Fluvial (Rio Araguaia e Rio Javaés — calado 1,5 m a 3,5 m) + Trilhos de Estaleiros Fluviais (1.000 mm)",
-    "eletrificacao": "Embarcações fluviais, balsas rodofluviais e lanchas de passageiros do Araguaia",
-    "velocidade_max_kmh": 40,
+    "camada": "misto",
     "operador": "Operadores Fluviais da Hidrovia do Araguaia (DNIT AHITAR) / Travessias São Félix do Araguaia e Santa Isabel do Morro",
-    "ano_inauguracao": 1958,
-    "passageiros_ano": 310000,
+    "inauguracao": "1958 (Inauguração de Santa Isabel do Morro na Ilha do Bananal durante a Expedição JK ao Brasil Central)",
+    "extensao_km": 94.0,
+    "bitola": "Hidrovia Fluvial (Rio Araguaia e Rio Javaés — calado 1,5 m a 3,5 m) + Trilhos de Estaleiros Fluviais (1000 mm)",
+    "eletrificacao": "Embarcações fluviais, balsas rodofluviais e lanchas de passageiros do Araguaia",
+    "n_linhas": 1,
+    "n_estacoes": 3,
+    "passageiros_dia": 850,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 62 milhões (balizamento hidroviário do Rio Araguaia / Javaés e rampas portuárias de São Félix do Araguaia e Ilha do Bananal)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-araguaia-ilha-do-bananal-to-mt"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização das rampas fluviais de São Félix do Araguaia (MT), Santa Isabel do Morro e Barreira da Cruz (TO) na Ilha do Bananal.",
+      "en": "Modernization of the river ferry ramps at São Félix do Araguaia (MT), Santa Isabel do Morro and Barreira da Cruz (TO) on Bananal Island."
+    },
     "resumo_pt": "Na Ilha do Bananal — a maior ilha fluvial do planeta (20.000 km², cercada pelos rios Araguaia e Braço Menor / Javaés, entre o Tocantins e o Mato Grosso) —, o transporte hidroviário de barcos, voadeiras e balsas e as carreiras navais sobre trilhos de Santa Isabel do Morro (fundada durante a expedição JK ao Brasil Central), São Félix do Araguaia e Barreira da Cruz / Formoso do Araguaia garantem a ligação vital das aldeias Karajá (Iny) e Javaé e do Parque Nacional do Araguaia.",
     "resumo_en": "Waterway ferry, boat and slipway network serving Bananal Island — the world's largest river island (20,000 km²) between the Araguaia and Javaés rivers — connecting Santa Isabel do Morro (TO), São Félix do Araguaia (MT) and Barreira da Cruz.",
     "lat": -11.5845,
     "lon": -50.6685,
     "zoom_inicial": 8.5,
     "fontes": [
-      "dnit-araguaia-ilha-do-bananal-to-mt"
+      "dnit-araguaia-ilha-do-bananal-to-mt",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha do bananal",
+      "rio araguaia",
+      "rio javaés",
+      "santa isabel do morro",
+      "são félix do araguaia",
+      "tocantins",
+      "mato grosso",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rio_Araguaia_Ilha_do_Bananal.jpg/800px-Rio_Araguaia_Ilha_do_Bananal.jpg",
+      "credito": "Wikimedia Commons — Rio Araguaia e Ilha do Bananal entre Tocantins e Mato Grosso",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Bananal_Island"
+    },
+    "linhas": [
+      {
+        "id": "linha-hidrovia-rio-araguaia-ilha-do-bananal-santa-isabel-sao-felix-to-mt",
+        "nome": "Hidrovia do Rio Araguaia e Javaés: São Félix do Araguaia (MT) – Santa Isabel do Morro (Ilha do Bananal, TO) – Barreira da Cruz / Formoso do Araguaia",
+        "status": "operacao",
+        "extensao_km": 94.0,
+        "cor": "#00b8d4"
+      }
     ]
   }
 ]
