@@ -24103,5 +24103,375 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "hidrovia-travessias-rio-sao-francisco-pirapora-juazeiro-petrolina-penedo-neopolis",
+    "slug": "hidrovia-travessias-rio-sao-francisco-pirapora-juazeiro-petrolina-penedo-neopolis",
+    "nome_pt": "Hidrovia e Travessias do Rio São Francisco — Pirapora (MG), Barra, Juazeiro/Petrolina (BA/PE) e Penedo/Neópolis (AL/SE)",
+    "nome_en": "São Francisco River Waterway & Ferry Crossings — Pirapora (MG), Juazeiro/Petrolina (BA/PE) & Penedo/Neópolis (AL/SE, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Petrolina (PE) / Juazeiro (BA), Penedo (AL) / Neópolis (SE) e Pirapora (MG)",
+    "uf": "BA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Barquinhas Petrolina–Juazeiro / Balsas Penedo–Neópolis / DNIT AHSFRN (Eclusa de Sobradinho e Vapor Benjamim Guimarães)",
+    "inauguracao": "1871 (Navegação a vapor do Médio São Francisco) / 1913 (Vapor Benjamim Guimarães) / 1979 (Eclusa de Sobradinho)",
+    "extensao_km": 1415.0,
+    "bitola": "Hidrovia do Médio São Francisco (1.371 km Pirapora–Juazeiro com Eclusa de Sobradinho 120×17 m) + Baixo São Francisco (44 km)",
+    "eletrificacao": "Barquinhas urbanas de passageiros, balsas rodofluviais, catamarãs e vapor histórico a roda de popa",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 14200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 125 milhões (restauro completo do Vapor Benjamim Guimarães em Pirapora, manutenção da Eclusa de Sobradinho e terminais do Baixo São Francisco)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-ahsfrn-sao-francisco-parnaiba"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização dos atracadouros das Barquinhas entre Petrolina (PE) e Juazeiro (BA) e das rampas de balsas entre Penedo (AL) e Neópolis (SE).",
+      "en": "Modernization of the urban riverboat piers between Petrolina (PE) and Juazeiro (BA) and ferry ramps between Penedo (AL) and Neópolis (SE)."
+    },
+    "resumo_pt": "O 'Velho Chico' articula duas grandes frentes hidroviárias: no Médio São Francisco (1.371 km navegáveis entre Pirapora, em Minas Gerais, passando por São Francisco, Januária, Bom Jesus da Lapa, Ibotirama, Barra, Xique-Xique e a Eclusa de Sobradinho até Juazeiro/BA e Petrolina/PE), destaca-se a intensa travessia urbana das 'Barquinhas' entre Petrolina e Juazeiro e o histórico Vapor Benjamim Guimarães (1913, único vapor a roda de popa remanescente no mundo em condição operacional); já no Baixo São Francisco, balsas e lanchas conectam Penedo (AL) a Neópolis (SE) e Piaçabuçu a Brejo Grande rumo à foz no Atlântico.",
+    "resumo_en": "The São Francisco River ('Velho Chico') spans two active waterway fronts: the 1,371 km Middle São Francisco corridor from Pirapora (MG) through Sobradinho Lock to Juazeiro (BA) and Petrolina (PE) — featuring high-frequency urban passenger boats ('Barquinhas') and the historic 1913 sternwheeler Benjamim Guimarães — and the Lower São Francisco ferry crossings linking Penedo (AL), Neópolis (SE) and Piaçabuçu.",
+    "lat": -9.4065,
+    "lon": -40.5025,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "dnit-ahsfrn-sao-francisco-parnaiba",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "rio são francisco",
+      "velho chico",
+      "petrolina",
+      "juazeiro",
+      "penedo",
+      "neópolis",
+      "pirapora",
+      "barquinha",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rio_Sao_Francisco_Petrolina_Juazeiro.jpg/800px-Rio_Sao_Francisco_Petrolina_Juazeiro.jpg",
+      "credito": "Wikimedia Commons — Travessia hidroviária entre Petrolina (PE) e Juazeiro (BA) e navegação no Rio São Francisco",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:S%C3%A3o_Francisco_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-hidrovia-medio-sao-francisco-pirapora-barra-sobradinho-petrolina-juazeiro",
+        "nome": "Hidrovia do Médio São Francisco e Barquinha Petrolina–Juazeiro: Pirapora (MG) – Bom Jesus da Lapa – Ibotirama – Barra – Eclusa de Sobradinho – Juazeiro (BA) / Petrolina (PE)",
+        "status": "operacao",
+        "extensao_km": 1371.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-baixo-sao-francisco-penedo-neopolis-piacabucu-foz-al-se",
+        "nome": "Travessia Hidroviária do Baixo São Francisco: Penedo (AL) – Neópolis / Santana do São Francisco (SE) – Piaçabuçu – Foz do São Francisco",
+        "status": "operacao",
+        "extensao_km": 44.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-hidroviarias-camocim-delta-do-parnaiba-porto-dos-tatus-tutoia-ce-pi-ma",
+    "slug": "travessias-hidroviarias-camocim-delta-do-parnaiba-porto-dos-tatus-tutoia-ce-pi-ma",
+    "nome_pt": "Travessias Hidroviárias de Camocim (CE) e Rede Hidroviária do Delta do Rio Parnaíba — Porto dos Tatus e Tutóia (PI / MA)",
+    "nome_en": "Camocim Ferry Crossing (Ceará) & Parnaíba River Delta Waterway Network — Porto dos Tatus & Tutóia (Piauí / Maranhão, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Parnaíba / Ilha Grande (PI), Tutóia / Araioses (MA) e Camocim (CE)",
+    "uf": "PI",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Operadores Hidroviários do Porto dos Tatus (Delta do Parnaíba PI/MA) & Balsas do Rio Coreaú (Camocim, CE)",
+    "inauguracao": "1858 (Companhia de Navegação do Rio Parnaíba) / Terminais turísticos e comunitários do Porto dos Tatus e Camocim",
+    "extensao_km": 86.0,
+    "bitola": "Canais e Igarapés do Delta do Rio Parnaíba (PI/MA) e Estuário do Rio Coreaú (Camocim, CE)",
+    "eletrificacao": "Lanchas rápidas, embarcações regionais de madeira (barcos de passeio e linha) e balsas de travessia",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 3100,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 42 milhões (requalificação do Porto dos Tatus em Ilha Grande/PI, cais de Tutóia/MA e rampa hidroviária de Camocim/CE)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-ahsfrn-sao-francisco-parnaiba"
+    },
+    "proximas_entregas": {
+      "pt": "Sinalização náutica dos igarapés do Delta do Parnaíba e ampliação do terminal hidroviário do Porto dos Tatus (PI) e Tutóia (MA).",
+      "en": "Nautical channel signaling across the Parnaíba Delta and expansion of the Porto dos Tatus (PI) and Tutóia (MA) passenger piers."
+    },
+    "resumo_pt": "Na Rota das Emoções (entre o Ceará, o Piauí e o Maranhão), o transporte hidroviário é essencial: no Delta do Rio Parnaíba — o único delta em mar aberto das Américas, formado por mais de 70 ilhas entre o Piauí e o Maranhão —, lanchas e barcos partem diariamente do Porto dos Tatus (Ilha Grande / Parnaíba, PI) rumo à Ilha das Canárias, Ilha do Caju, Araioses e Porto de Tutóia (MA); já no Ceará, a tradicional travessia de balsas e barcos de Camocim cruza o estuário do Rio Coreaú até a Ilha do Amor / Testa Branca.",
+    "resumo_en": "Along Northeast Brazil's Route of Emotions (CE/PI/MA), daily boats and fast launches depart Porto dos Tatus (Parnaíba, Piauí) across the Parnaíba River Delta — the only open-sea delta in the Americas, with over 70 islands — to Canárias Island and Tutóia (Maranhão), alongside the Coreaú River ferry crossing at Camocim (Ceará).",
+    "lat": -2.8425,
+    "lon": -41.8185,
+    "zoom_inicial": 8.8,
+    "fontes": [
+      "dnit-ahsfrn-sao-francisco-parnaiba",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "delta do parnaíba",
+      "porto dos tatus",
+      "parnaíba",
+      "tutóia",
+      "camocim",
+      "ilha das canárias",
+      "piauí",
+      "maranhão",
+      "ceará",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Delta_do_Parnaiba_Piaui.jpg/800px-Delta_do_Parnaiba_Piaui.jpg",
+      "credito": "Wikimedia Commons — Embarcações no Porto dos Tatus e canais do Delta do Rio Parnaíba (PI/MA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Parna%C3%ADba_Delta"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-delta-do-parnaiba-porto-dos-tatus-canarias-tutoia-pi-ma",
+        "nome": "Hidrovia do Delta do Parnaíba: Porto dos Tatus (Ilha Grande / Parnaíba, PI) – Ilha das Canárias – Ilha do Caju – Porto de Tutóia (MA)",
+        "status": "operacao",
+        "extensao_km": 74.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-travessia-rio-coreau-camocim-ilha-do-amor-ce",
+        "nome": "Travessia Hidroviária do Rio Coreaú: Cais de Camocim – Ilha do Amor / Testa Branca (Camocim, CE)",
+        "status": "operacao",
+        "extensao_km": 12.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferry-boat-catamaras-camamu-barra-grande-porto-seguro-arraial-dajuda-ba",
+    "slug": "ferry-boat-catamaras-camamu-barra-grande-porto-seguro-arraial-dajuda-ba",
+    "nome_pt": "Travessias de Balsas e Lanchas da Costa do Dendê (Camamu – Barra Grande) e Costa do Descobrimento (Porto Seguro – Arraial d'Ajuda, BA)",
+    "nome_en": "Ferry & Fast Launch Crossings of the Dendê Coast (Camamu – Barra Grande) & Discovery Coast (Porto Seguro – Arraial d'Ajuda, Bahia)",
+    "pais": "Brasil",
+    "cidade": "Camamu / Maraú (Barra Grande), Porto Seguro (Arraial d'Ajuda) e Santa Cruz Cabrália",
+    "uf": "BA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Balsas do Rio Buranhém (Porto Seguro–Arraial d'Ajuda) / Rio João de Tiba (Cabrália–Santo André) & Lanchas da Baía de Camamu (AGERBA)",
+    "inauguracao": "1978 (Travessia regular de balsas do Rio Buranhém em Porto Seguro e linhas hidroviárias da Baía de Camamu)",
+    "extensao_km": 32.0,
+    "bitola": "Baía de Camamu (3ª maior baía do Brasil) e Estuários dos Rios Buranhém e João de Tiba (BA)",
+    "eletrificacao": "Ferry-boats ro-ro de travessia contínua 24h, lanchas rápidas e escunas de linha",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 16500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 55 milhões (requalificação dos terminais hidroviários de Camamu e Barra Grande na Península de Maraú e atracadouros de Porto Seguro / Arraial d'Ajuda)",
+      "moeda": "BRL",
+      "fonte_id": "agerba-cairu-tinhare-boipeba-ba"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação da capacidade das balsas entre Porto Seguro e Arraial d'Ajuda e modernização do píer de Barra Grande (Península de Maraú).",
+      "en": "Capacity expansion for the Porto Seguro–Arraial d'Ajuda vehicle/passenger ferries and pier upgrades at Barra Grande (Maraú Peninsula)."
+    },
+    "resumo_pt": "Duas das redes de travessias hidroviárias mais movimentadas do litoral sul da Bahia: na Costa do Dendê, lanchas rápidas e barcos cruzam a Baía de Camamu (terceira maior baía do Brasil em volume d'água) ligando o Porto de Camamu à Península de Maraú (Barra Grande, Taipu de Fora e Campinho) e à Ilha Grande; já na Costa do Descobrimento, o sistema de balsas do Rio Buranhém opera 24 horas por dia entre o Centro de Porto Seguro e Arraial d'Ajuda (transportando mais de 5 milhões de passageiros por ano), complementado pela travessia Santa Cruz Cabrália – Santo André.",
+    "resumo_en": "Two of southern Bahia's busiest coastal ferry systems: on the Dendê Coast, fast launches and boats cross Camamu Bay linking Camamu Port to Barra Grande on the Maraú Peninsula; on the Discovery Coast, 24-hour ferries cross the Buranhém River between downtown Porto Seguro and Arraial d'Ajuda, alongside the Santa Cruz Cabrália–Santo André crossing.",
+    "lat": -16.4512,
+    "lon": -39.0645,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "agerba-cairu-tinhare-boipeba-ba",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "porto seguro",
+      "arraial d'ajuda",
+      "baía de camamu",
+      "barra grande",
+      "península de maraú",
+      "santa cruz cabrália",
+      "bahia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Balsa_Porto_Seguro_Arraial_d_Ajuda.jpg/800px-Balsa_Porto_Seguro_Arraial_d_Ajuda.jpg",
+      "credito": "Wikimedia Commons — Travessia de balsas no Rio Buranhém entre Porto Seguro e Arraial d'Ajuda e lanchas da Baía de Camamu (BA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Porto_Seguro"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-baia-de-camamu-barra-grande-ilha-grande-marau-ba",
+        "nome": "Hidrovia da Baía de Camamu: Terminal Hidroviário de Camamu – Ilha Grande – Campinho – Píer de Barra Grande (Península de Maraú, BA)",
+        "status": "operacao",
+        "extensao_km": 26.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-balsa-porto-seguro-arraial-dajuda-cabralia-ba",
+        "nome": "Travessia de Balsas da Costa do Descobrimento: Porto Seguro (Centro) – Arraial d'Ajuda (Rio Buranhém) & Santa Cruz Cabrália – Santo André (BA)",
+        "status": "operacao",
+        "extensao_km": 6.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-hidroviarias-bertioga-iguape-jureia-cananeia-ariri-sp",
+    "slug": "travessias-hidroviarias-bertioga-iguape-jureia-cananeia-ariri-sp",
+    "nome_pt": "Travessias Hidroviárias Estaduais de Bertioga–Guarujá, Iguape–Jureia e Cananeia–Ilha Comprida–Ariri (DH-SP)",
+    "nome_en": "São Paulo State Coastal Ferries — Bertioga–Guarujá, Iguape–Jureia & Cananeia–Ilha Comprida–Ariri (DH-SP, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Bertioga / Guarujá, Iguape e Cananeia / Ilha Comprida",
+    "uf": "SP",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Departamento Hidroviário do Estado de São Paulo (DH / SEMIL-SP)",
+    "inauguracao": "1958 (Oficialização das travessias estaduais de balsas de Bertioga e do Litoral Sul / Lagamar Paulista)",
+    "extensao_km": 62.0,
+    "bitola": "Canais Estuarinos de Bertioga e do Lagamar Paulista (Mar Pequeno e Baía de Trapandé)",
+    "eletrificacao": "Ferry-boats rodofluviais (balsas FB) e lanchas de passageiros da frota DH-SP",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 9400,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 145 milhões (reforma dos flutuantes e gavetas de atracação de Bertioga, Cananeia, Ilha Comprida e Iguape/Jureia pelo DH-SP)",
+      "moeda": "BRL",
+      "fonte_id": "dh-sp-bertioga-cananeia-iguape"
+    },
+    "proximas_entregas": {
+      "pt": "Novas embarcações híbridas/modernizadas para as travessias Bertioga–Guarujá e Cananeia–Continente/Ilha Comprida.",
+      "en": "Upgraded ferry vessels and floating docks for the Bertioga–Guarujá and Cananeia–Ilha Comprida crossings."
+    },
+    "resumo_pt": "Complementando os grandes eixos Santos–Guarujá e São Sebastião–Ilhabela, o Departamento Hidroviário de São Paulo (DH-SP) opera quatro travessias litorâneas estratégicas: no Litoral Central, a balsa Bertioga – Guarujá (Rabo do Dragão / Serra do Guararu) cruza o Canal de Bertioga; já no Litoral Sul (Complexo Estuarino-Lagunar de Iguape, Ilha Comprida e Cananeia — Patrimônio Natural da Humanidade pela UNESCO), operam as balsas Iguape – Jureia (Barra do Ribeira), Cananeia – Ilha Comprida e a linha de barcos de passageiros Cananeia – Ilha do Cardoso / Ariri.",
+    "resumo_en": "Operated by the São Paulo State Waterway Department (DH-SP), these coastal ferries link Bertioga to Guarujá (Rabo do Dragão) across the Bertioga Channel, and serve the UNESCO-listed Lagamar Estuary in southern São Paulo with ferries between Iguape and Jureia, Cananeia and Ilha Comprida, and passenger boats to Cardoso Island and Ariri.",
+    "lat": -25.0145,
+    "lon": -47.9265,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "dh-sp-bertioga-cananeia-iguape",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "travessia bertioga guarujá",
+      "travessia cananeia",
+      "ilha comprida",
+      "iguape",
+      "jureia",
+      "ariri",
+      "departamento hidroviário sp",
+      "são paulo",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Balsa_Cananeia_Ilha_Comprida.jpg/800px-Balsa_Cananeia_Ilha_Comprida.jpg",
+      "credito": "Wikimedia Commons — Balsas e lanchas do Departamento Hidroviário (DH-SP) em Bertioga–Guarujá e Cananeia–Ilha Comprida (SP)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Canan%C3%A9ia"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-balsa-bertioga-guaruja-rabo-do-dragao-dh-sp",
+        "nome": "Travessia Hidroviária Bertioga – Guarujá (Rabo do Dragão / Canal de Bertioga — DH-SP)",
+        "status": "operacao",
+        "extensao_km": 2.5,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-lagamar-iguape-jureia-cananeia-ilha-comprida-ariri-sp",
+        "nome": "Rede Hidroviária do Lagamar Paulista: Iguape–Jureia, Cananeia–Ilha Comprida e Linha Cananeia–Ilha do Cardoso–Ariri (DH-SP)",
+        "status": "operacao",
+        "extensao_km": 59.5,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "aquaviarios-travessias-cabo-frio-buzios-arraial-do-cabo-paraty-mamangua-rj",
+    "slug": "aquaviarios-travessias-cabo-frio-buzios-arraial-do-cabo-paraty-mamangua-rj",
+    "nome_pt": "Aquaviários e Barcos-Táxi da Região dos Lagos (Cabo Frio, Búzios e Arraial do Cabo) e Baía de Paraty / Saco do Mamanguá (RJ)",
+    "nome_en": "Water Taxis & Coastal Passenger Boats of the Lakes Region (Cabo Frio, Búzios & Arraial do Cabo) & Paraty Bay / Mamanguá Fjord (RJ, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Cabo Frio, Armação dos Búzios, Arraial do Cabo e Paraty",
+    "uf": "RJ",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Cooperativas de Barcos-Táxi de Cabo Frio (Canal do Itajuru), Búzios e Arraial do Cabo & Barcos Costeiros de Paraty",
+    "inauguracao": "1960 (Linhas de barcos costeiros de Paraty e travessias do Canal do Itajuru em Cabo Frio)",
+    "extensao_km": 54.0,
+    "bitola": "Canais Costeiros e Baías Abrigadas (Canal do Itajuru, Península de Búzios e Baía da Ilha Grande / Paraty)",
+    "eletrificacao": "Barcos-táxi (Aqua Táxi), baleeiras costeiras e escunas de transporte de passageiros",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 6500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 38 milhões (requalificação do Cais de Turismo de Paraty, Píer do Centro em Búzios, Marina dos Anjos em Arraial do Cabo e Boulevard Canal em Cabo Frio)",
+      "moeda": "BRL",
+      "fonte_id": "osm-odbl"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação de linhas de aquaviário urbano regular na Lagoa de Araruama (Cabo Frio – São Pedro da Aldeia – Iguaba Grande – Araruama).",
+      "en": "Deployment of scheduled urban commuter waterbus lines across Araruama Lagoon (Cabo Frio – São Pedro da Aldeia – Araruama)."
+    },
+    "resumo_pt": "No litoral fluminense, além das grandes linhas da Baía de Guanabara e de Angra/Ilha Grande, destacam-se dois polos aquaviários: na Região dos Lagos, os barcos-táxi cruzam continuamente o Canal do Itajuru em Cabo Frio (Boulevard Canal – Ilha do Japonês), contornam a península de Armação dos Búzios (Píer do Centro / Rua das Pedras – Praia dos Ossos – Azeda – João Fernandes) e conectam a Marina dos Anjos à Ilha do Farol em Arraial do Cabo; já no sul fluminense (Patrimônio Mundial da UNESCO em Paraty e Ilha Grande), as baleeiras e barcos de linha partem do Cais Histórico de Paraty para atender comunidades caiçaras sem acesso por estrada, como Praia do Sono, Pouso da Cajaíba e o Saco do Mamanguá (único fiorde tropical da costa brasileira).",
+    "resumo_en": "Along Rio de Janeiro's coast, two additional waterway clusters operate year-round: in the Lakes Region (Região dos Lagos), water taxis cross the Itajuru Channel in Cabo Frio (to Japonês Island), link the beaches of Búzios Peninsula (Centro Pier – Ossos – Azeda – João Fernandes) and connect Arraial do Cabo to Farol Island; in UNESCO-listed Paraty on the Green Coast, coastal boats link Paraty Historic Pier to roadless communities at Pouso da Cajaíba and the Mamanguá Tropical Fjord.",
+    "lat": -23.2215,
+    "lon": -44.7115,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "paraty",
+      "saco do mamanguá",
+      "cabo frio",
+      "ilha do japonês",
+      "búzios",
+      "arraial do cabo",
+      "região dos lagos",
+      "costa verde",
+      "rio de janeiro",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cais_de_Paraty_RJ.jpg/800px-Cais_de_Paraty_RJ.jpg",
+      "credito": "Wikimedia Commons — Embarcações de passageiros no Cais Histórico de Paraty (Costa Verde) e Canal do Itajuru em Cabo Frio (RJ)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Paraty"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-costa-verde-cais-de-paraty-cajaiba-saco-do-mamangua-rj",
+        "nome": "Hidrovia Costeira de Paraty: Cais Histórico de Paraty – Paraty-Mirim – Saco do Mamanguá – Pouso da Cajaíba (Costa Verde, RJ)",
+        "status": "operacao",
+        "extensao_km": 36.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-regiao-dos-lagos-cabo-frio-buzios-arraial-do-cabo-rj",
+        "nome": "Aquaviários e Barcos-Táxi da Região dos Lagos: Arraial do Cabo (Praia dos Anjos) – Cabo Frio (Canal do Itajuru / Ilha do Japonês) – Armação dos Búzios (Píer do Centro – Ossos – João Fernandes, RJ)",
+        "status": "operacao",
+        "extensao_km": 18.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
