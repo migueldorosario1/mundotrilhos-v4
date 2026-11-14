@@ -29209,6 +29209,190 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-internacional-hairatan-mazar-i-sharif-aqina-torghundi-afeganistao",
+        "linha": "Ferrovia Hairatan (Ponte da Amizade no Amu Dária) – Mazar-i-Sharif e Ramal Aqina–Andkhoy (Afeganistão)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Internacional do Norte do Afeganistão (Hairatan – Mazar-i-Sharif e Terminais Fronteiriços de Aqina–Andkhoy e Torghundi, Afeganistão)",
+        "sistema_nome_en": "Northern Afghanistan International Railways (Hairatan – Mazar-i-Sharif Line & Aqina–Andkhoy / Torghundi Cross-Border Rail Terminals, Afghanistan)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            67.4225,
+            37.2185
+          ],
+          [
+            67.2845,
+            36.8925
+          ],
+          [
+            67.2185,
+            36.7125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-internacional-khaf-rozanak-herat-afeganistao",
+        "linha": "Ferrovia Transfronteiriça Shamtiq – Ghoryan – Estação de Rozanak / Herat (Afeganistão)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Transfronteiriça Khaf – Shamtiq – Rozanak / Herat (Corredor Ferroviário Ocidental Irã–Afeganistão, Afeganistão)",
+        "sistema_nome_en": "Khaf – Shamtiq – Rozanak / Herat Cross-Border Standard-Gauge Railway (Western Afghanistan Rail Corridor)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.9225,
+            34.4125
+          ],
+          [
+            61.4825,
+            34.3645
+          ],
+          [
+            61.8245,
+            34.3485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trem-eletrico-caverna-al-hoota-jebel-akhdar-vias-portuarias-sohar-duqm-oma",
+        "linha": "Trem Elétrico da Caverna de Al Hoota (Jebel Shams / Nizwa) e Vias Portuárias de Sohar (Omã)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trem Elétrico da Caverna de Al Hoota (Jebel Akhdar / Nizwa) e Sistemas Ferroviários Portuários de Sohar, Salalah e Duqm (Omã)",
+        "sistema_nome_en": "Al Hoota Cave Electric Railway (Jebel Akhdar / Nizwa) & Sohar / Salalah / Duqm Port Rail Systems (Sultanate of Oman)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            57.3485,
+            23.0785
+          ],
+          [
+            57.3525,
+            23.0815
+          ],
+          [
+            57.3565,
+            23.0845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-industriais-alba-porto-khalifa-bin-salman-estaleiro-asry-bahrein",
+        "linha": "Vias Férreas Portuárias e Industriais de Khalifa Bin Salman Port (Hidd), ASRY e Alba (Bahrein)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Industriais e Portuárias do Porto Khalifa Bin Salman (KBSP), Estaleiro ASRY e Complexo de Alumínio Alba (Bahrein)",
+        "sistema_nome_en": "Khalifa Bin Salman Port (KBSP), ASRY Shipyard & Aluminium Bahrain (Alba) Industrial Rail System (Kingdom of Bahrain)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.6785,
+            26.1925
+          ],
+          [
+            50.6925,
+            26.1745
+          ],
+          [
+            50.6125,
+            26.0885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-shuwaikh-shuaiba-trem-historico-scientific-center-kuwait",
+        "linha": "Vias Férreas Portuárias de Shuwaikh e Shuaiba e Trilhos Patrimoniais de Al Ahmadi (Kuwait)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias e Industriais dos Portos de Shuwaikh e Shuaiba e Ferrovia Patrimonial de KOC Ahmadi (Kuwait)",
+        "sistema_nome_en": "Shuwaikh & Shuaiba Container Ports Rail Tracks & KOC Ahmadi Heritage Railway (State of Kuwait)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.9265,
+            29.3525
+          ],
+          [
+            48.0725,
+            29.0785
+          ],
+          [
+            48.1625,
+            29.0425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-historica-aden-sheikh-othman-al-hawtah-lahej-porto-maalla-iemen",
+        "linha": "Corredor Ferroviário de Áden (Porto de Ma'alla / Tawahi – Khormaksar – Sheikh Othman – Al-Hawtah / Lahej, Iêmen)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia de Áden – Lahej (Aden Railway Tawahi / Ma'alla – Sheikh Othman – Al-Hawtah e Vias Férreas Portuárias de Áden e Hodeidah, Iêmen)",
+        "sistema_nome_en": "Aden – Lahej Railway (Tawahi / Ma'alla – Sheikh Othman – Al-Hawtah Corridor & Port of Aden Container Terminal Rail Tracks, Yemen)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.9925,
+            12.7885
+          ],
+          [
+            45.0185,
+            12.8225
+          ],
+          [
+            44.9965,
+            12.8825
+          ],
+          [
+            44.8825,
+            13.0565
+          ]
+        ]
+      }
     }
   ]
 }

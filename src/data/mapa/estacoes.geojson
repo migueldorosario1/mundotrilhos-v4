@@ -22212,6 +22212,226 @@
           -8.5635
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-internacional-hairatan-mazar-i-sharif-aqina-torghundi-afeganistao",
+        "nome": "Terminal Ferroviário e Ponte da Amizade de Hairatan (Fronteira Afeganistão–Uzbequistão, Balkh)",
+        "linha": "Ferrovia Hairatan – Mazar-i-Sharif",
+        "status": "operacao",
+        "integracoes": [
+          "Ponte Rodoferroviária Termez–Hairatan sobre o Rio Amu Dária",
+          "Porto Fluvial e Alfândega de Hairatan"
+        ],
+        "sistema_nome_pt": "Ferrovia Internacional do Norte do Afeganistão (Hairatan – Mazar-i-Sharif e Terminais Fronteiriços de Aqina–Andkhoy e Torghundi, Afeganistão)",
+        "sistema_nome_en": "Northern Afghanistan International Railways (Hairatan – Mazar-i-Sharif Line & Aqina–Andkhoy / Torghundi Cross-Border Rail Terminals, Afghanistan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.4225,
+          37.2185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-internacional-hairatan-mazar-i-sharif-aqina-torghundi-afeganistao",
+        "nome": "Estação Ferroviária e Terminal Logístico do Aeroporto de Mazar-i-Sharif (Naibabad, Afeganistão)",
+        "linha": "Ferrovia Hairatan – Mazar-i-Sharif e Ramal Aqina–Andkhoy",
+        "status": "operacao",
+        "integracoes": [
+          "Aeroporto Internacional Mawlana Jalaluddin Muhammad Balkhi (Mazar-i-Sharif)",
+          "Terminal Logístico de Naibabad"
+        ],
+        "sistema_nome_pt": "Ferrovia Internacional do Norte do Afeganistão (Hairatan – Mazar-i-Sharif e Terminais Fronteiriços de Aqina–Andkhoy e Torghundi, Afeganistão)",
+        "sistema_nome_en": "Northern Afghanistan International Railways (Hairatan – Mazar-i-Sharif Line & Aqina–Andkhoy / Torghundi Cross-Border Rail Terminals, Afghanistan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.2185,
+          36.7125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-internacional-khaf-rozanak-herat-afeganistao",
+        "nome": "Estação Ferroviária de Rozanak / Ghoryan (Corredor Ferroviário de Herat, Afeganistão)",
+        "linha": "Ferrovia Transfronteiriça Shamtiq – Ghoryan – Estação de Rozanak / Herat",
+        "status": "operacao",
+        "integracoes": [
+          "Estação de Passageiros e Carga de Rozanak",
+          "Distrito de Ghoryan / Herat"
+        ],
+        "sistema_nome_pt": "Ferrovia Transfronteiriça Khaf – Shamtiq – Rozanak / Herat (Corredor Ferroviário Ocidental Irã–Afeganistão, Afeganistão)",
+        "sistema_nome_en": "Khaf – Shamtiq – Rozanak / Herat Cross-Border Standard-Gauge Railway (Western Afghanistan Rail Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4825,
+          34.3645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-internacional-khaf-rozanak-herat-afeganistao",
+        "nome": "Terminal Ferroviário Industrial de Robat Paryan / Herat (Província de Herat, Afeganistão)",
+        "linha": "Ferrovia Transfronteiriça Shamtiq – Ghoryan – Estação de Rozanak / Herat",
+        "status": "operacao",
+        "integracoes": [
+          "Polo Industrial de Herat",
+          "Fronteira Ferroviária de Shamtiq"
+        ],
+        "sistema_nome_pt": "Ferrovia Transfronteiriça Khaf – Shamtiq – Rozanak / Herat (Corredor Ferroviário Ocidental Irã–Afeganistão, Afeganistão)",
+        "sistema_nome_en": "Khaf – Shamtiq – Rozanak / Herat Cross-Border Standard-Gauge Railway (Western Afghanistan Rail Corridor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8245,
+          34.3485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trem-eletrico-caverna-al-hoota-jebel-akhdar-vias-portuarias-sohar-duqm-oma",
+        "nome": "Estação do Centro Geológico e Entrada da Caverna de Al Hoota (Al Hamra / Nizwa, Omã)",
+        "linha": "Trem Elétrico da Caverna de Al Hoota e Vias Portuárias de Sohar",
+        "status": "operacao",
+        "integracoes": [
+          "Al Hoota Cave Visitor Centre & Geological Museum",
+          "Sopé do Jebel Shams / Montanhas Hajar"
+        ],
+        "sistema_nome_pt": "Trem Elétrico da Caverna de Al Hoota (Jebel Akhdar / Nizwa) e Sistemas Ferroviários Portuários de Sohar, Salalah e Duqm (Omã)",
+        "sistema_nome_en": "Al Hoota Cave Electric Railway (Jebel Akhdar / Nizwa) & Sohar / Salalah / Duqm Port Rail Systems (Sultanate of Oman)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3525,
+          23.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trem-eletrico-caverna-al-hoota-jebel-akhdar-vias-portuarias-sohar-duqm-oma",
+        "nome": "Terminal Ferroviário-Portuário de Sohar (Polo Siderúrgico e de Pelotização de Sohar, Omã)",
+        "linha": "Trem Elétrico da Caverna de Al Hoota e Vias Portuárias de Sohar",
+        "status": "operacao",
+        "integracoes": [
+          "Porto e Zona Franca de Sohar",
+          "Terminal futuro Hafeet Rail Sohar–Abu Dhabi"
+        ],
+        "sistema_nome_pt": "Trem Elétrico da Caverna de Al Hoota (Jebel Akhdar / Nizwa) e Sistemas Ferroviários Portuários de Sohar, Salalah e Duqm (Omã)",
+        "sistema_nome_en": "Al Hoota Cave Electric Railway (Jebel Akhdar / Nizwa) & Sohar / Salalah / Duqm Port Rail Systems (Sultanate of Oman)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.6285,
+          24.5025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-industriais-alba-porto-khalifa-bin-salman-estaleiro-asry-bahrein",
+        "nome": "Terminal Ferroviário-Portuário Khalifa Bin Salman (KBSP Hidd) e Estaleiro ASRY (Manama / Hidd, Bahrein)",
+        "linha": "Vias Férreas Portuárias e Industriais de Khalifa Bin Salman Port (Hidd), ASRY e Alba",
+        "status": "operacao",
+        "integracoes": [
+          "Khalifa Bin Salman Port (APM Terminals)",
+          "Arab Shipbuilding and Repair Yard (ASRY) & Alba"
+        ],
+        "sistema_nome_pt": "Vias Férreas Industriais e Portuárias do Porto Khalifa Bin Salman (KBSP), Estaleiro ASRY e Complexo de Alumínio Alba (Bahrein)",
+        "sistema_nome_en": "Khalifa Bin Salman Port (KBSP), ASRY Shipyard & Aluminium Bahrain (Alba) Industrial Rail System (Kingdom of Bahrain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6785,
+          26.1925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-shuwaikh-shuaiba-trem-historico-scientific-center-kuwait",
+        "nome": "Terminal Portuário sobre Trilhos de Shuwaikh e Exposição Ferroviária KOC Ahmadi (Cidade do Kuwait, Kuwait)",
+        "linha": "Vias Férreas Portuárias de Shuwaikh e Shuaiba e Trilhos Patrimoniais de Al Ahmadi",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Shuwaikh (Baía do Kuwait)",
+          "Porto Industrial de Shuaiba e KOC Ahmadi"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias e Industriais dos Portos de Shuwaikh e Shuaiba e Ferrovia Patrimonial de KOC Ahmadi (Kuwait)",
+        "sistema_nome_en": "Shuwaikh & Shuaiba Container Ports Rail Tracks & KOC Ahmadi Heritage Railway (State of Kuwait)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9265,
+          29.3525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-historica-aden-sheikh-othman-al-hawtah-lahej-porto-maalla-iemen",
+        "nome": "Terminal de Contêineres e Estação Portuária Histórica de Ma'alla / Tawahi (Porto de Áden, Iêmen)",
+        "linha": "Corredor Ferroviário de Áden (Porto de Ma'alla / Tawahi – Sheikh Othman – Al-Hawtah / Lahej)",
+        "status": "operacao",
+        "integracoes": [
+          "Aden Container Terminal (Caltex / Ma'alla Wharf)",
+          "Tawahi Steamer Point"
+        ],
+        "sistema_nome_pt": "Ferrovia de Áden – Lahej (Aden Railway Tawahi / Ma'alla – Sheikh Othman – Al-Hawtah e Vias Férreas Portuárias de Áden e Hodeidah, Iêmen)",
+        "sistema_nome_en": "Aden – Lahej Railway (Tawahi / Ma'alla – Sheikh Othman – Al-Hawtah Corridor & Port of Aden Container Terminal Rail Tracks, Yemen)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0185,
+          12.8225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-historica-aden-sheikh-othman-al-hawtah-lahej-porto-maalla-iemen",
+        "nome": "Estação Histórica de Sheikh Othman – Al-Hawtah (Lahej, Iêmen)",
+        "linha": "Corredor Ferroviário de Áden (Porto de Ma'alla / Tawahi – Sheikh Othman – Al-Hawtah / Lahej)",
+        "status": "operacao",
+        "integracoes": [
+          "Distrito de Sheikh Othman (Áden)",
+          "Oásis de Al-Hawtah (Governadoria de Lahij)"
+        ],
+        "sistema_nome_pt": "Ferrovia de Áden – Lahej (Aden Railway Tawahi / Ma'alla – Sheikh Othman – Al-Hawtah e Vias Férreas Portuárias de Áden e Hodeidah, Iêmen)",
+        "sistema_nome_en": "Aden – Lahej Railway (Tawahi / Ma'alla – Sheikh Othman – Al-Hawtah Corridor & Port of Aden Container Terminal Rail Tracks, Yemen)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8825,
+          13.0565
+        ]
+      }
     }
   ]
 }
