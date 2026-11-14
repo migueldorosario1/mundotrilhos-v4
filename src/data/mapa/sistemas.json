@@ -21876,5 +21876,814 @@
         "cor": "#ff8f00"
       }
     ]
+  },
+  {
+    "id": "barcas-rio-niteroi-paqueta-cocota-ilha-grande-rj",
+    "slug": "barcas-rio-niteroi-paqueta-cocota-ilha-grande-rj",
+    "nome_pt": "Barcas do Rio de Janeiro — Baía de Guanabara (Praça XV – Niterói / Araribóia, Charitas, Ilha de Paquetá e Ilha do Governador / Cocotá) e Ilha Grande (Mangaratiba / Angra – Abraão, RJ)",
+    "nome_en": "Rio de Janeiro Ferry System — Guanabara Bay (Praça XV – Niterói / Araribóia, Charitas, Paquetá & Cocotá) & Ilha Grande Line (Mangaratiba / Angra – Abraão, RJ)",
+    "pais": "Brasil",
+    "cidade": "Rio de Janeiro / Niterói / Paquetá / Angra dos Reis / Mangaratiba",
+    "uf": "RJ",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Secretaria de Estado de Transporte e Mobilidade Urbana (SETRAM-RJ / Sistema Aquaviário Estadual Barcas Rio)",
+    "inauguracao": "1835 (Companhia de Navegação de Niterói — primeiro serviço regular de barcas a vapor do hemisfério sul)",
+    "extensao_km": 68.5,
+    "bitola": "Hidrovia / Catamarãs de alta capacidade (até 2.000 passageiros por embarcação) e barcas convencionais",
+    "eletrificacao": "Propulsão diesel-marítima e catamarãs de duplo casco de alta eficiência",
+    "n_linhas": 6,
+    "n_estacoes": 8,
+    "passageiros_dia": 55000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 620 milhões (renovação contratual, modernização das estações Praça XV e Araribóia e frota de catamarãs na Baía de Guanabara)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação de novas barcas híbridas/elétricas na ligação Praça XV – Araribóia e expansão das linhas hidroviárias na Baía de Guanabara e Lagoas da Barra.",
+      "en": "Deployment of hybrid/electric ferries on the Praça XV – Araribóia route and expansion of Guanabara Bay and Barra Lagoon waterborne lines."
+    },
+    "resumo_pt": "Mais tradicional e emblemático sistema metropolitano de transporte por barco do Brasil, operando ininterruptamente desde 1835 na Baía de Guanabara e na Baía da Ilha Grande (RJ). Conecta a Estação Praça XV (Centro do Rio de Janeiro, integrada ao VLT Carioca) às estações Araribóia e Charitas (Niterói), à histórica Ilha de Paquetá e a Cocotá (Ilha do Governador), além da Divisão Sul que liga Mangaratiba e Angra dos Reis à Vila do Abraão na Ilha Grande.",
+    "resumo_en": "Brazil's most iconic metropolitan passenger ferry system, operating continuously since 1835 across Guanabara Bay and Ilha Grande Bay (Rio de Janeiro), connecting Praça XV Station in Downtown Rio to Niterói (Araribóia and Charitas), Paquetá Island, Governador Island (Cocotá), and Ilha Grande (Vila do Abraão).",
+    "lat": -22.9012,
+    "lon": -43.1625,
+    "zoom_inicial": 11.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barcas",
+      "transporte por barco",
+      "rio de janeiro",
+      "niterói",
+      "paquetá",
+      "ilha grande",
+      "baía de guanabara",
+      "hidroviário"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Estacao_das_Barcas_Praca_XV_Rio_de_Janeiro.jpg/800px-Estacao_das_Barcas_Praca_XV_Rio_de_Janeiro.jpg",
+      "credito": "Wikimedia Commons — Estação Hidroviária da Praça XV e Catamarãs na Baía de Guanabara (Rio de Janeiro)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Barcas_S/A"
+    },
+    "linhas": [
+      {
+        "id": "lin-barcas-praca-xv-arariboia-charitas-niteroi-rj",
+        "nome": "Linha Hidroviária Praça XV (Rio) – Araribóia / Charitas (Niterói) — Baía de Guanabara",
+        "status": "operacao",
+        "extensao_km": 12.5,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "lin-barcas-praca-xv-paqueta-cocota-guanabara-rj",
+        "nome": "Linha Hidroviária Praça XV (Rio) – Cocotá (Ilha do Governador) – Ilha de Paquetá",
+        "status": "operacao",
+        "extensao_km": 21.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "lin-barcas-mangaratiba-angra-abraao-ilha-grande-rj",
+        "nome": "Linha Hidroviária Divisão Sul: Mangaratiba / Angra dos Reis – Vila do Abraão (Ilha Grande)",
+        "status": "operacao",
+        "extensao_km": 35.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferry-boat-salvador-itaparica-mar-grande-morro-sao-paulo-ba",
+    "slug": "ferry-boat-salvador-itaparica-mar-grande-morro-sao-paulo-ba",
+    "nome_pt": "Sistema Ferry-Boat, Lanchas e Catamarãs da Baía de Todos-os-Santos — Salvador (São Joaquim / Comércio) – Ilha de Itaparica (Bom Despacho / Mar Grande) e Morro de São Paulo (Bahia)",
+    "nome_en": "All Saints Bay Ferry-Boat & Catamaran System — Salvador (São Joaquim / Comércio) – Itaparica Island (Bom Despacho / Mar Grande) & Morro de São Paulo (Bahia, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Salvador / Itaparica / Vera Cruz / Cairu (Morro de São Paulo)",
+    "uf": "BA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Internacional Travessias Salvador (ITS / AGERBA — Ferry-Boat) & Operadoras Hidroviárias do Terminal Náutico da Bahia",
+    "inauguracao": "1970 (Inauguração do Sistema Ferry-Boat São Joaquim – Bom Despacho na Baía de Todos-os-Santos)",
+    "extensao_km": 84.0,
+    "bitola": "Hidrovia marítima / Ferry-boats Ro-Pax (passageiros e veículos), lanchas e catamarãs oceânicos",
+    "eletrificacao": "Propulsão diesel-marítima de duplo sentido (double-ended ferries) e catamarãs rápidos",
+    "n_linhas": 3,
+    "n_estacoes": 4,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 310 milhões (aquisição de novos ferry-boats e requalificação dos terminais de São Joaquim e Bom Despacho)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação da frota de ferry-boats na travessia São Joaquim – Bom Despacho e integração intermodal com o VLT de Salvador na Calçada/São Joaquim.",
+      "en": "Expansion of the São Joaquim – Bom Despacho ferry fleet and intermodal integration with the Salvador Light Rail (VLT) at Calçada/São Joaquim."
+    },
+    "resumo_pt": "Principal eixo hidroviário de passageiros e veículos do Nordeste brasileiro, cruzando a Baía de Todos-os-Santos (segunda maior baía costeira do mundo) entre o Terminal de São Joaquim (Salvador) e o Terminal de Bom Despacho (Ilha de Itaparica,13 km), complementado pelas lanchas Salvador (Comércio) – Mar Grande (Vera Cruz) e pela linha de catamarãs oceânicos Salvador – Morro de São Paulo (Ilha de Tinharé).",
+    "resumo_en": "Northeast Brazil's premier passenger and vehicle ferry network across All Saints Bay (Baía de Todos-os-Santos), linking São Joaquim Terminal in Salvador to Bom Despacho on Itaparica Island, alongside the Comércio – Mar Grande passenger launches and the Salvador – Morro de São Paulo ocean catamarans.",
+    "lat": -12.9525,
+    "lon": -38.5525,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ferry-boat",
+      "transporte por barco",
+      "salvador",
+      "itaparica",
+      "morro de são paulo",
+      "baía de todos-os-santos",
+      "bahia"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ferry_Boat_Salvador_Itaparica_Bahia.jpg/800px-Ferry_Boat_Salvador_Itaparica_Bahia.jpg",
+      "credito": "Wikimedia Commons — Ferry-Boat na Travessia Salvador – Ilha de Itaparica (Baía de Todos-os-Santos, BA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferry-Boat_(Salvador)"
+    },
+    "linhas": [
+      {
+        "id": "lin-ferry-boat-sao-joaquim-bom-despacho-itaparica-ba",
+        "nome": "Travessia Ferry-Boat Salvador (São Joaquim) – Ilha de Itaparica (Bom Despacho) e Lanchas Comércio – Mar Grande",
+        "status": "operacao",
+        "extensao_km": 14.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "lin-catamara-salvador-morro-de-sao-paulo-tinhare-ba",
+        "nome": "Linha Hidroviária de Catamarãs Terminal Náutico (Salvador) – Morro de São Paulo (Ilha de Tinharé, BA)",
+        "status": "operacao",
+        "extensao_km": 70.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-hidroviarias-santos-guaruja-ilhabela-sp",
+    "slug": "travessias-hidroviarias-santos-guaruja-ilhabela-sp",
+    "nome_pt": "Travessias Hidroviárias Litorâneas de São Paulo — Balsas e Barcas Santos–Guarujá, Santos–Vicente de Carvalho, Bertioga–Guarujá e São Sebastião–Ilhabela (DH Hidrovias SP)",
+    "nome_en": "São Paulo Coastal Ferry Network — Santos–Guarujá, Vicente de Carvalho, Bertioga & São Sebastião–Ilhabela Passenger & Vehicle Ferries (SP, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Santos / Guarujá / Bertioga / São Sebastião / Ilhabela",
+    "uf": "SP",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Departamento Hidroviário do Estado de São Paulo (DH / SEMIL-SP)",
+    "inauguracao": "1915 (Início das travessias regulares de lanchas e balsas no Estuário de Santos–Guarujá)",
+    "extensao_km": 18.5,
+    "bitola": "Hidrovia estuarina e costeira / Lanchas de passageiros, catamarãs e balsas ferry-boat",
+    "eletrificacao": "Propulsão diesel-marítima e modernização para embarcações híbridas",
+    "n_linhas": 4,
+    "n_estacoes": 4,
+    "passageiros_dia": 68000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 420 milhões (reforma dos atracadouros de Santos/Guarujá, São Sebastião/Ilhabela e modernização da frota de lanchas e balsas)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Novos terminais climatizados para ciclistas e pedestres em Vicente de Carvalho (integrado à futura expansão do VLT da Baixada Santista) e Ponta da Praia.",
+      "en": "New climate-controlled passenger and cyclist ferry terminals at Vicente de Carvalho and Ponta da Praia in Santos."
+    },
+    "resumo_pt": "Sistema de travessias hidroviárias mais movimentado do mundo em volume de veículos e um dos maiores em passageiros e ciclistas no Brasil: operado pelo Departamento Hidroviário de São Paulo (DH), conecta a Ilha de São Vicente (Santos — Paquetá/Centro e Ponta da Praia) à Ilha de Santo Amaro (Guarujá e Vicente de Carvalho, com mais de 22 mil ciclistas e pedestres/dia nas barcas de Vicente de Carvalho), além da travessia São Sebastião – Ilhabela no Litoral Norte.",
+    "resumo_en": "One of the world's busiest coastal ferry systems, operated by the São Paulo State Waterway Department (DH), connecting Santos (Ponta da Praia and Downtown/Paquetá) to Guarujá and Vicente de Carvalho across the Santos Estuary, as well as the São Sebastião – Ilhabela channel crossing.",
+    "lat": -23.9885,
+    "lon": -46.2985,
+    "zoom_inicial": 12.0,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "balsas",
+      "barcas",
+      "transporte por barco",
+      "santos",
+      "guarujá",
+      "ilhabela",
+      "são sebastião",
+      "são paulo"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Travessia_Santos_Guaruja_Balsa.jpg/800px-Travessia_Santos_Guaruja_Balsa.jpg",
+      "credito": "Wikimedia Commons — Travessia Hidroviária de Balsas e Barcas entre Santos e Guarujá (SP)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Santos%E2%80%93Guaruj%C3%A1_ferry"
+    },
+    "linhas": [
+      {
+        "id": "lin-barcas-balsas-santos-guaruja-vicente-de-carvalho-sp",
+        "nome": "Travessias Hidroviárias do Estuário de Santos: Ponta da Praia – Guarujá e Santos (Centro) – Vicente de Carvalho",
+        "status": "operacao",
+        "extensao_km": 9.5,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "lin-travessia-balsas-sao-sebastiao-ilhabela-sp",
+        "nome": "Travessia Hidroviária do Canal de São Sebastião: São Sebastião – Ilhabela (Barra Velha)",
+        "status": "operacao",
+        "extensao_km": 9.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "sistema-aquaviario-grande-vitoria-prainha-porto-de-santana-es",
+    "slug": "sistema-aquaviario-grande-vitoria-prainha-porto-de-santana-es",
+    "nome_pt": "Sistema Aquaviário da Grande Vitória — Praça do Papa (Vitória) – Prainha (Vila Velha) – Porto de Santana (Cariacica, ES)",
+    "nome_en": "Greater Vitória Water Transit System (Aquaviário GVBus) — Praça do Papa (Vitória) – Prainha (Vila Velha) – Porto de Santana (Cariacica, ES)",
+    "pais": "Brasil",
+    "cidade": "Vitória / Vila Velha / Cariacica",
+    "uf": "ES",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "CETURB-ES / Sistema Transcol-Aquaviário GVBus (Governo do Estado do Espírito Santo)",
+    "inauguracao": "2023 (Reativação do Sistema Aquaviário Metropolitano integrado com bilhete único CartãoGV na Baía de Vitória)",
+    "extensao_km": 14.5,
+    "bitola": "Hidrovia metropolitana / Lanchas climatizadas com Wi-Fi e bicicletário integradas ao Sistema Transcol",
+    "eletrificacao": "Propulsão diesel-marítima de baixa emissão",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 3500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 55 milhões (construção das estações hidroviárias Praça do Papa, Prainha e Porto de Santana e frota climatizada)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Novas estações do Aquaviário no Centro Histórico de Vitória, Ilha das Caieiras e Aeroporto/Camburi.",
+      "en": "New Aquaviário waterbus terminals in Historic Downtown Vitória, Ilha das Caieiras, and Camburi."
+    },
+    "resumo_pt": "Moderno sistema metropolitano de transporte público por barco na Baía de Vitória (Espírito Santo), totalmente integrado com tarifa única ao Sistema Transcol (CartãoGV): conecta em minutos as estações Praça do Papa (Enseada do Suá, na Ilha de Vitória), Prainha (Centro Histórico de Vila Velha) e Porto de Santana (Cariacica) com embarcações climatizadas e acessíveis.",
+    "resumo_en": "Modern fare-integrated metropolitan waterbus system on Vitória Bay (Espírito Santo, Brazil), linking Praça do Papa (Vitória Island), Prainha (Vila Velha), and Porto de Santana (Cariacica) under the unified GVBus/Transcol smartcard.",
+    "lat": -20.3225,
+    "lon": -40.3125,
+    "zoom_inicial": 12.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "aquaviário",
+      "transporte por barco",
+      "vitória",
+      "vila velha",
+      "cariacica",
+      "espírito santo",
+      "baía de vitória"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Porto_de_Vitoria_ES_Brasil.jpg/800px-Porto_de_Vitoria_ES_Brasil.jpg",
+      "credito": "Wikimedia Commons — Baía de Vitória e Sistema Aquaviário entre Vitória, Vila Velha e Cariacica (ES)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Vit%C3%B3ria_(Esp%C3%ADrito_Santo)"
+    },
+    "linhas": [
+      {
+        "id": "lin-aquaviario-vitoria-prainha-porto-de-santana-es",
+        "nome": "Linhas 401/402 do Aquaviário GVBus: Praça do Papa (Vitória) – Prainha (Vila Velha) – Porto de Santana (Cariacica)",
+        "status": "operacao",
+        "extensao_km": 14.5,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-amazonia-belem-marajo-cotijuba-santarem-manaus-pa-am",
+    "slug": "hidrovia-amazonia-belem-marajo-cotijuba-santarem-manaus-pa-am",
+    "nome_pt": "Rede Hidroviária de Passageiros da Amazônia e Baía do Marajó — Belém (Terminal Hidroviário / Icoaraci) – Ilha de Cotijuba – Ilha de Marajó (Camará / Soure / Breves) – Santarém – Manaus (PA / AM)",
+    "nome_en": "Amazon & Marajó Bay Passenger Waterway Network — Belém – Cotijuba Island – Marajó Island (Camará / Soure / Breves) – Santarém – Manaus (Pará / Amazonas, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Belém / Soure / Salvaterra / Breves / Santarém / Manaus",
+    "uf": "PA / AM",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Companhia de Portos e Hidrovias do Pará (CPH), DNIT (IP4 Amazônia) & Frotas de Navios-Motor e Lanchas Expressas da Bacia Amazônica",
+    "inauguracao": "1853 (Companhia de Navegação e Comércio do Amazonas fundada pelo Barão de Mauá)",
+    "extensao_km": 1640.0,
+    "bitola": "Hidrovia interior / Catamarãs expressos, lanchas a jato, ferry-boats e navios regionais de passageiros e cargas",
+    "eletrificacao": "Propulsão diesel-fluvial",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 42000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 890 milhões (modernização do Terminal Hidroviário de Belém, mais de 30 terminais hidroviários CPH no Pará e rede de portos IP4 do DNIT no Amazonas)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Novos terminais hidroviários flutuantes na Região Metropolitana de Belém (COP-30 Legado) e embarcações rápidas híbridas nas travessias da Baía do Guajará e Marajó.",
+      "en": "New floating passenger ferry terminals across Greater Belém and hybrid fast ferries on Guajará and Marajó Bays."
+    },
+    "resumo_pt": "A maior rede regular de transporte de passageiros por barco do planeta em águas interiores: articula as linhas diárias metropolitanas da Baía do Guajará e Baía do Marajó (Terminal Hidroviário de Belém e Trapiche de Icoaraci para a Ilha de Cotijuba, Ilha do Combu, Barcarena e Porto de Camará/Soure na Ilha de Marajó) com a monumental Hidrovia do Rio Amazonas–Solimões, que conecta Belém, Breves, Almeirim, Monte Alegre, Santarém, Óbidos, Parintins, Itacoatiara e o Porto de Manaus (Roadway).",
+    "resumo_en": "The world's largest inland passenger water transport network, combining daily commuter ferry crossings on Guajará and Marajó Bays (Belém – Cotijuba Island – Camará/Soure on Marajó Island) with the 1,600 km Amazon River passenger trunk route linking Belém, Breves, Santarém, Parintins, and Manaus.",
+    "lat": -1.4425,
+    "lon": -48.4965,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hidrovia",
+      "transporte por barco",
+      "belém",
+      "manaus",
+      "santarém",
+      "marajó",
+      "rio amazonas",
+      "amazônia"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Soure_Marajo_Para_Brasil.jpg/800px-Soure_Marajo_Para_Brasil.jpg",
+      "credito": "Wikimedia Commons — Navegação de Passageiros na Baía do Guajará, Marajó e Rio Amazonas (PA/AM)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Brazil"
+    },
+    "linhas": [
+      {
+        "id": "lin-barcos-belem-icoaraci-cotijuba-camara-marajo-pa",
+        "nome": "Linhas Metropolitanas da Baía do Guajará e Marajó: Belém (THB / Icoaraci) – Ilha de Cotijuba – Porto de Camará / Soure (Marajó)",
+        "status": "operacao",
+        "extensao_km": 90.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "lin-hidrovia-rio-amazonas-belem-breves-santarem-manaus",
+        "nome": "Tronco Hidroviário de Passageiros do Rio Amazonas: Belém – Estreito de Breves – Santarém – Parintins – Manaus (Porto de Manaus)",
+        "status": "operacao",
+        "extensao_km": 1550.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "catamara-travessia-guaiba-porto-alegre-rs",
+    "slug": "catamara-travessia-guaiba-porto-alegre-rs",
+    "nome_pt": "Catamarã Hidroviário do Lago Guaíba — Porto Alegre (Cais Mauá / Píer BarraShoppingSul) – Guaíba (RS)",
+    "nome_en": "Lake Guaíba Catamaran Waterbus — Porto Alegre (Mauá Quay / BarraShoppingSul Pier) – Guaíba (Rio Grande do Sul, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Porto Alegre / Guaíba",
+    "uf": "RS",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Catsul / Metroplan-RS (Travessia Hidroviária Porto Alegre – Guaíba)",
+    "inauguracao": "2011 (Inauguração da travessia regular por catamarãs rápidos no Lago Guaíba)",
+    "extensao_km": 14.8,
+    "bitola": "Hidrovia lacustre / Catamarãs de alumínio climatizados para 120 a 200 passageiros",
+    "eletrificacao": "Propulsão diesel-marítima rápida (travessia em 20 minutos)",
+    "n_linhas": 1,
+    "n_estacoes": 3,
+    "passageiros_dia": 3200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 32 milhões (terminais hidroviários do Cais Mauá, Zona Sul / Cristal e Estação Hidroviária de Guaíba)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Estudos de expansão hidroviária metropolitana para a Ilha da Pintada, Belém Novo e Barra do Ribeiro.",
+      "en": "Expansion studies for metropolitan catamaran service to Ilha da Pintada and Belém Novo."
+    },
+    "resumo_pt": "Ligação hidroviária metropolitana rápida por catamarãs no Lago Guaíba (Rio Grande do Sul), conectando em apenas 20 minutos o Terminal Hidroviário do Cais Mauá (Centro Histórico de Porto Alegre, ao lado da Estação Mercado da Trensurb) e o Píer da Zona Sul (Cristal) ao Terminal Hidroviário de Guaíba.",
+    "resumo_en": "High-speed metropolitan catamaran ferry crossing on Lake Guaíba (Rio Grande do Sul, Brazil), linking Downtown Porto Alegre (Mauá Quay, adjacent to Trensurb's Mercado Metro Station) and Zona Sul Pier to the city of Guaíba in 20 minutes.",
+    "lat": -30.0685,
+    "lon": -51.2685,
+    "zoom_inicial": 12.0,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "catamarã",
+      "transporte por barco",
+      "porto alegre",
+      "guaíba",
+      "lago guaíba",
+      "rio grande do sul"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Catamara_Porto_Alegre_Guaiba_RS.jpg/800px-Catamara_Porto_Alegre_Guaiba_RS.jpg",
+      "credito": "Wikimedia Commons — Catamarã da Travessia Hidroviária Porto Alegre – Guaíba no Lago Guaíba (RS)",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Rio_Grande_do_Sul"
+    },
+    "linhas": [
+      {
+        "id": "lin-catamara-porto-alegre-cais-maua-zona-sul-guaiba-rs",
+        "nome": "Linha Hidroviária Catamarã Porto Alegre (Cais Mauá) – Píer Zona Sul – Terminal de Guaíba (RS)",
+        "status": "operacao",
+        "extensao_km": 14.8,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferry-boat-baia-sao-marcos-ponta-da-espera-cujupe-alcantara-ma",
+    "slug": "ferry-boat-baia-sao-marcos-ponta-da-espera-cujupe-alcantara-ma",
+    "nome_pt": "Travessia Hidroviária da Baía de São Marcos — São Luís (Ponta da Espera / Praia Grande) – Cujupe e Alcântara (MOB-MA, Maranhão)",
+    "nome_en": "São Marcos Bay Ferry & Catamaran Crossing — São Luís (Ponta da Espera / Praia Grande) – Cujupe & Alcântara (Maranhão, Brazil)",
+    "pais": "Brasil",
+    "cidade": "São Luís / Alcântara",
+    "uf": "MA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Agência Estadual de Mobilidade Urbana e Serviços Públicos (MOB-MA)",
+    "inauguracao": "1982 (Inauguração do Terminal Hidroviário da Ponta da Espera na Baía de São Marcos)",
+    "extensao_km": 22.0,
+    "bitola": "Hidrovia marítima / Ferry-boats Ro-Pax e catamarãs de passageiros na Baía de São Marcos",
+    "eletrificacao": "Propulsão diesel-marítima",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": 6500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 95 milhões (modernização dos terminais hidroviários da Ponta da Espera, Cujupe e Rampa Campos Melo)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Novos diques flutuantes de atracação para amplitude de maré de até 7 metros na Baía de São Marcos.",
+      "en": "New floating berthing pontoons engineered for São Marcos Bay's 7-meter tidal range."
+    },
+    "resumo_pt": "Eixo hidroviário estratégico do Maranhão, cruzando a Baía de São Marcos (uma das maiores amplitudes de maré do planeta) entre o Terminal da Ponta da Espera e o Terminal da Praia Grande (Ilha de São Luís) até o Terminal do Cujupe e a cidade histórica de Alcântara, encurtando em mais de 350 km a ligação entre a capital maranhense, a Baixada Maranhense e o estado do Pará.",
+    "resumo_en": "Strategic ferry and catamaran corridor across São Marcos Bay in Maranhão (Brazil), connecting Ponta da Espera and Praia Grande on São Luís Island to the historic city of Alcântara and the Cujupe mainland terminal.",
+    "lat": -2.4825,
+    "lon": -44.4125,
+    "zoom_inicial": 11.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ferry-boat",
+      "transporte por barco",
+      "são luís",
+      "alcântara",
+      "cujupe",
+      "baía de são marcos",
+      "maranhão"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Centro_Historico_de_Sao_Luis_Maranhao.jpg/800px-Centro_Historico_de_Sao_Luis_Maranhao.jpg",
+      "credito": "Wikimedia Commons — Travessia de Ferry-Boat e Catamarãs na Baía de São Marcos entre São Luís e Alcântara (MA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:S%C3%A3o_Lu%C3%ADs_(Maranh%C3%A3o)"
+    },
+    "linhas": [
+      {
+        "id": "lin-ferry-ponta-da-espera-alcantara-cujupe-ma",
+        "nome": "Travessia Hidroviária da Baía de São Marcos: Ponta da Espera / Praia Grande (São Luís) – Alcântara – Cujupe (MA)",
+        "status": "operacao",
+        "extensao_km": 22.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-barcos-lagoa-da-conceicao-florianopolis-ilha-do-mel-sc-pr",
+    "slug": "travessias-barcos-lagoa-da-conceicao-florianopolis-ilha-do-mel-sc-pr",
+    "nome_pt": "Transporte Hidroviário da Lagoa da Conceição (Florianópolis — Centrinho – Costa da Lagoa – Rio Vermelho, SC) e Travessia da Ilha do Mel (Pontal do Sul / Paranaguá, PR)",
+    "nome_en": "Lagoa da Conceição Water Transit (Florianópolis — Centrinho – Costa da Lagoa, SC) & Ilha do Mel Ferry Crossing (Paranaguá Bay, PR)",
+    "pais": "Brasil",
+    "cidade": "Florianópolis (SC) / Pontal do Paraná & Paranaguá (PR)",
+    "uf": "SC / PR",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Cooperbarco (Sistema Integrado de Transporte de Florianópolis — Consórcio Fênix / PMF) & ABALINE (Travessia Ilha do Mel, PR)",
+    "inauguracao": "1986 (Regulamentação do transporte hidroviário público regular da Costa da Lagoa em Florianópolis)",
+    "extensao_km": 24.5,
+    "bitola": "Hidrovia lagunar e baía costeira / Barcos de passageiros integrados ao transporte coletivo municipal",
+    "eletrificacao": "Propulsão diesel-marítima",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 4800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 28 milhões (requalificação dos trapiches da Lagoa da Conceição / Costa da Lagoa em Florianópolis e terminais de Pontal do Sul / Encantadas)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Estudos para linhas de barcos elétricos na Baía Norte e Baía Sul entre Florianópolis, São José e Palhoça.",
+      "en": "Feasibility studies for electric commuter ferries on North and South Bays linking Florianópolis, São José, and Palhoça."
+    },
+    "resumo_pt": "Linhas regulares de transporte público hidroviário do Sul do Brasil: na Ilha de Santa Catarina (Florianópolis, SC), as linhas 9901 e 9902 da Cooperbarco são integradas ao cartão municipal de ônibus e constituem o único acesso motorizado às comunidades históricas da Costa da Lagoa (Trapiches 1 a 23); no Paraná, as barcas de Pontal do Sul e Paranaguá garantem a ligação diária com Encantadas e Nova Brasília na Ilha do Mel (onde não circulam automóveis).",
+    "resumo_en": "Public waterbus and island ferry networks in Southern Brazil: in Florianópolis (Santa Catarina Island), fare-integrated boats serve the car-free lakeside villages of Costa da Lagoa across Lagoa da Conceição; in Paraná, passenger boats link Pontal do Sul and Paranaguá to car-free Ilha do Mel.",
+    "lat": -27.5745,
+    "lon": -48.4615,
+    "zoom_inicial": 12.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "transporte por barco",
+      "lagoa da conceição",
+      "costa da lagoa",
+      "florianópolis",
+      "ilha do mel",
+      "santa catarina",
+      "paraná"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ponte_Hercilio_Luz_Florianopolis_SC.jpg/800px-Ponte_Hercilio_Luz_Florianopolis_SC.jpg",
+      "credito": "Wikimedia Commons — Transporte Hidroviário na Ilha de Santa Catarina (Florianópolis, SC) e Baía de Paranaguá (PR)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Lagoa_da_Concei%C3%A7%C3%A3o"
+    },
+    "linhas": [
+      {
+        "id": "lin-barcos-lagoa-da-conceicao-costa-da-lagoa-florianopolis-sc",
+        "nome": "Linha Hidroviária Municipal 9901: Centrinho da Lagoa da Conceição – Costa da Lagoa – Parque Estadual do Rio Vermelho (Florianópolis, SC)",
+        "status": "operacao",
+        "extensao_km": 12.5,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "lin-barcos-pontal-do-sul-paranagua-ilha-do-mel-pr",
+        "nome": "Travessia Hidroviária Pontal do Sul / Paranaguá – Nova Brasília / Encantadas (Ilha do Mel, PR)",
+        "status": "operacao",
+        "extensao_km": 12.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "staten-island-ferry-nyc-ferry-nova-york-eua",
+    "slug": "staten-island-ferry-nyc-ferry-nova-york-eua",
+    "nome_pt": "Staten Island Ferry & NYC Ferry — Rede Metropolitana de Barcas de Nova York (Manhattan – Staten Island – Brooklyn – Queens – Bronx, EUA)",
+    "nome_en": "Staten Island Ferry & NYC Ferry — New York City Metropolitan Ferry Network (Manhattan – Staten Island – Brooklyn – Queens – Bronx, USA)",
+    "pais": "Estados Unidos",
+    "cidade": "Nova York (Manhattan / Staten Island / Brooklyn / Queens / Bronx)",
+    "uf": "NY",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "NYC Department of Transportation (Staten Island Ferry) & NYCEDC / Hornblower (NYC Ferry)",
+    "inauguracao": "1817 / 1905 (Staten Island Ferry municipal) / 2017 (Inauguração da malha metropolitana NYC Ferry no East River)",
+    "extensao_km": 115.0,
+    "bitola": "Hidrovia metropolitana / Mega-ferries de até 4.400 passageiros (Staten Island) e catamarãs urbanos (NYC Ferry)",
+    "eletrificacao": "Propulsão diesel-marítima e gás natural liquefeito (GNL / híbrido)",
+    "n_linhas": 7,
+    "n_estacoes": 4,
+    "passageiros_dia": 88000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 650 milhões (nova frota classe Ollis do Staten Island Ferry e expansão dos píeres do NYC Ferry nos 5 distritos)",
+      "moeda": "USD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Novos catamarãs de maior capacidade na linha East River e integração tarifária ampliada em Nova York.",
+      "en": "Higher-capacity catamarans on the East River route and expanded commuter ferry terminals across New York Harbor."
+    },
+    "resumo_pt": "Um dos maiores e mais famosos sistemas urbanos de transporte por barco do planeta: combina o lendário Staten Island Ferry (gratuito, operando 24 horas por dia entre Whitehall Terminal no sul de Manhattan e St. George Terminal em Staten Island diante da Estátua da Liberdade) com as 6 linhas metropolitanas do NYC Ferry ao longo do East River, Hudson River, Astoria, Soundview e Rockaway.",
+    "resumo_en": "One of the world's largest urban passenger ferry networks, combining the iconic 24/7 fare-free Staten Island Ferry across Upper New York Bay with the 6-route NYC Ferry catamaran network along the East River, Astoria, Soundview, South Brooklyn, and Rockaway.",
+    "lat": 40.6725,
+    "lon": -74.0415,
+    "zoom_inicial": 11.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "staten island ferry",
+      "nyc ferry",
+      "transporte por barco",
+      "nova york",
+      "estados unidos",
+      "barcas"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Staten_Island_Ferry_New_York_Harbor.jpg/800px-Staten_Island_Ferry_New_York_Harbor.jpg",
+      "credito": "Wikimedia Commons — Staten Island Ferry e NYC Ferry na Baía de Nova York (EUA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Staten_Island_Ferry"
+    },
+    "linhas": [
+      {
+        "id": "lin-staten-island-ferry-whitehall-st-george-nyc",
+        "nome": "Staten Island Ferry & NYC Ferry East River: St. George (Staten Island) – Whitehall / Wall St. (Manhattan) – DUMBO / Williamsburg – Hunters Point / E 34th St.",
+        "status": "operacao",
+        "extensao_km": 24.5,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "thames-clippers-river-bus-londres-reino-unido",
+    "slug": "thames-clippers-river-bus-londres-reino-unido",
+    "nome_pt": "Thames Clippers (River Bus TfL) & Woolwich Ferry — Rede Hidroviária Metropolitana do Rio Tâmisa em Londres (Reino Unido)",
+    "nome_en": "Uber Boat by Thames Clippers (TfL River Bus) & Woolwich Ferry — River Thames Metropolitan Waterbus Network in London (UK)",
+    "pais": "Reino Unido",
+    "cidade": "Londres (Putney / Westminster / London Bridge / Canary Wharf / Greenwich / Barking)",
+    "uf": "Grande Londres (Inglaterra)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Thames Clippers / Transport for London (TfL River Services — RB1, RB2, RB4, RB6 & Woolwich Ferry)",
+    "inauguracao": "1889 (Woolwich Free Ferry) / 1999 (Inauguração dos catamarãs rápidos Thames Clippers integrados à TfL)",
+    "extensao_km": 42.0,
+    "bitola": "Hidrovia fluvial / Catamarãs rápidos híbridos de baixa emissão (classe Earth Clipper) integrados ao Oyster Card",
+    "eletrificacao": "Catamarãs híbridos diesel-elétricos e balsas híbridas no Rio Tâmisa",
+    "n_linhas": 4,
+    "n_estacoes": 4,
+    "passageiros_dia": 16000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "£ 95 milhões (frota de catamarãs híbridos Earth/Celestial/Mars Clipper e primeira balsa 100% elétrica Orbit Clipper em Canary Wharf)",
+      "moeda": "GBP",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Eletrificação progressiva dos píeres do Rio Tâmisa e extensão da linha RB1 até Tilbury / Gravesend.",
+      "en": "Progressive pier electrification along the River Thames and eastern River Bus extension toward Tilbury and Gravesend."
+    },
+    "resumo_pt": "Sistema metropolitano de transporte por barco no Rio Tâmisa, em Londres, integrado tarifariamente ao cartão Oyster e Contactless da Transport for London (TfL): opera 24 píeres ao longo de 42 km desde Putney e Battersea Power Station, passando por Westminster, Embankment, London Bridge City, Tower, Canary Wharf, Greenwich e North Greenwich (O2) até Barking Riverside e Woolwich.",
+    "resumo_en": "London's Oyster-integrated metropolitan river bus network along 42 km of the River Thames, serving 24 piers from Putney and Battersea Power Station through Westminster, London Bridge, Canary Wharf, and Greenwich to Barking Riverside, including the historic hybrid-electric Woolwich Ferry.",
+    "lat": 51.5045,
+    "lon": -0.0215,
+    "zoom_inicial": 11.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "thames clippers",
+      "rio tâmisa",
+      "transporte por barco",
+      "londres",
+      "reino unido",
+      "river bus"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Thames_Clippers_London.jpg/800px-Thames_Clippers_London.jpg",
+      "credito": "Wikimedia Commons — Catamarã Híbrido Thames Clippers no Rio Tâmisa em Londres (Reino Unido)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Thames_Clippers"
+    },
+    "linhas": [
+      {
+        "id": "lin-thames-clippers-rb1-westminster-canary-wharf-greenwich-barking",
+        "nome": "Linha River Bus RB1/RB6 (Rio Tâmisa): Battersea / Westminster – London Bridge – Canary Wharf – Greenwich – Barking Riverside",
+        "status": "operacao",
+        "extensao_km": 42.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "sydney-ferries-circular-quay-manly-parramatta-australia",
+    "slug": "sydney-ferries-circular-quay-manly-parramatta-australia",
+    "nome_pt": "Sydney Ferries — Rede Metropolitana de Barcas da Baía de Sydney e Rio Parramatta (Circular Quay – Manly – Taronga Zoo – Parramatta, Austrália)",
+    "nome_en": "Sydney Ferries — Sydney Harbour & Parramatta River Metropolitan Ferry Network (Circular Quay – Manly – Taronga Zoo – Parramatta, Australia)",
+    "pais": "Austrália",
+    "cidade": "Sydney / Manly / Parramatta (Nova Gales do Sul)",
+    "uf": "NSW",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Transdev Sydney Ferries / Transport for NSW (Linhas F1 a F9 — Opal Card Network)",
+    "inauguracao": "1878 (North Shore Steam Ferry Company e Manly Ferries em Circular Quay)",
+    "extensao_km": 68.0,
+    "bitola": "Hidrovia marítima e fluvial / Ferries classe Freshwater/Emerald e catamarãs River Class",
+    "eletrificacao": "Propulsão diesel-marítima e novos catamarãs classe Parramatta prontos para conversão híbrida/elétrica",
+    "n_linhas": 9,
+    "n_estacoes": 4,
+    "passageiros_dia": 45000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "A$ 480 milhões (nova frota de catamarãs classe Parramatta construída na Tasmânia e modernização dos píeres da Baía de Sydney)",
+      "moeda": "AUD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação de toda a nova frota australiana classe Parramatta na linha F3 entre Circular Quay e Parramatta.",
+      "en": "Full deployment of the Australian-built Parramatta-class catamaran fleet on the F3 Parramatta River route."
+    },
+    "resumo_pt": "A icônica rede verde-e-ouro de barcas metropolitanas da Baía de Sydney (Port Jackson) e do Rio Parramatta, na Austrália: centrada no terminal intermodal de Circular Quay (ao lado da Sydney Opera House e da Harbour Bridge, com conexão direta aos trens urbanos e VLT de Sydney), opera 9 linhas regulares (F1 Manly a F9 Watsons Bay) atendendo 39 píeres com o cartão único Opal.",
+    "resumo_en": "Sydney's iconic green-and-gold metropolitan ferry network across Sydney Harbour and the Parramatta River, radiating from the Circular Quay intermodal hub near the Sydney Opera House across 9 Opal-integrated routes (F1 Manly to F9 Watsons Bay).",
+    "lat": -33.8612,
+    "lon": 151.2108,
+    "zoom_inicial": 11.8,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "sydney ferries",
+      "circular quay",
+      "manly ferry",
+      "transporte por barco",
+      "sydney",
+      "austrália"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sydney_Ferry_Circular_Quay.jpg/800px-Sydney_Ferry_Circular_Quay.jpg",
+      "credito": "Wikimedia Commons — Barca do Sydney Ferries em Circular Quay diante da Harbour Bridge (Sydney, Austrália)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Sydney_Ferries"
+    },
+    "linhas": [
+      {
+        "id": "lin-sydney-ferries-f1-manly-f3-parramatta",
+        "nome": "Eixo Sydney Ferries F1 Manly & F3 Parramatta River: Manly Wharf – Circular Quay – Barangaroo – Sydney Olympic Park – Parramatta",
+        "status": "operacao",
+        "extensao_km": 38.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "star-ferry-victoria-harbour-outlying-islands-hong-kong",
+    "slug": "star-ferry-victoria-harbour-outlying-islands-hong-kong",
+    "nome_pt": "Star Ferry de Victoria Harbour & Ferries das Ilhas Exteriores de Hong Kong (Tsim Sha Tsui – Central / Wan Chai – Lantau / Cheung Chau / Lamma, China)",
+    "nome_en": "Star Ferry (Victoria Harbour) & Hong Kong Outlying Islands Ferries (Tsim Sha Tsui – Central / Wan Chai – Lantau / Cheung Chau / Lamma, Hong Kong / China)",
+    "pais": "China",
+    "cidade": "Hong Kong (Kowloon / Central / Wan Chai / Lantau / Cheung Chau)",
+    "uf": "RAE de Hong Kong (China)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "The 'Star' Ferry Company Limited (desde 1888) & Sun Ferry / Hong Kong & Kowloon Ferry (Octopus Card Network)",
+    "inauguracao": "1888 (Kowloon Ferry Company / Star Ferry no Victoria Harbour)",
+    "extensao_km": 52.0,
+    "bitola": "Hidrovia marítima / Ferries históricos de dois conveses (Star Ferry) e catamarãs rápidos insulares",
+    "eletrificacao": "Conversão progressiva para propulsão diesel-elétrica híbrida de baixa fumaça",
+    "n_linhas": 6,
+    "n_estacoes": 4,
+    "passageiros_dia": 92000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 210 milhões (programa governamental de renovação da frota de 22 novos ferries híbridos/elétricos para as ilhas e Victoria Harbour)",
+      "moeda": "USD",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação de novos ferries híbridos e elétricos nas linhas Central – Cheung Chau, Mui Wo (Lantau) e Lamma Island.",
+      "en": "Deployment of new government-subsidized hybrid and electric ferries on the Central – Cheung Chau, Mui Wo (Lantau), and Lamma routes."
+    },
+    "resumo_pt": "Um dos maiores símbolos mundiais do transporte público sobre as águas: o lendário Star Ferry cruza desde 1888 o Victoria Harbour entre Tsim Sha Tsui (Kowloon) e os píeres de Central e Wan Chai (Ilha de Hong Kong), operando em perfeita integração com os grandes ferries dos Píeres Centrais 4, 5 e 6 que ligam Hong Kong às ilhas sem carros de Cheung Chau, Lamma, Peng Chau e Mui Wo (Ilha de Lantau).",
+    "resumo_en": "One of the world's most celebrated water transit networks: the historic 1888 Star Ferry crosses Victoria Harbour between Tsim Sha Tsui (Kowloon) and Central/Wan Chai (Hong Kong Island), integrated at the Central Ferry Piers with high-capacity ferries serving Lantau (Mui Wo), Cheung Chau, and Lamma Islands.",
+    "lat": 22.2885,
+    "lon": 114.1625,
+    "zoom_inicial": 12.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "star ferry",
+      "victoria harbour",
+      "hong kong",
+      "china",
+      "transporte por barco",
+      "lantau",
+      "cheung chau"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Star_Ferry_Victoria_Harbour_Hong_Kong.jpg/800px-Star_Ferry_Victoria_Harbour_Hong_Kong.jpg",
+      "credito": "Wikimedia Commons — Barca do Star Ferry cruzando o Victoria Harbour em Hong Kong (China)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Star_Ferry"
+    },
+    "linhas": [
+      {
+        "id": "lin-star-ferry-tsim-sha-tsui-central-wan-chai-cheung-chau-hk",
+        "nome": "Eixo Hidroviário Star Ferry & Ilhas: Tsim Sha Tsui (Kowloon) – Central Piers (Hong Kong) – Mui Wo (Lantau) – Cheung Chau",
+        "status": "operacao",
+        "extensao_km": 26.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

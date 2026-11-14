@@ -10,13 +10,13 @@
   "pageDescription": "Interactive geodynamic map of rail systems across Brazil and the world: subways, high-speed rail (HSR), commuter trains, light rail (VLT), monorails and strategic freight corridors.",
   "heroKicker": "INTERACTIVE RAIL ATLAS · OPERATIONAL LINES IN BRAZIL & WORLDWIDE",
   "heroTitle": "Rail Map",
-  "heroSubtitle": "Explore operational rail networks across Brazil and the world separated into 5 modalities: High-speed rail, Metro / Subway, Light rail (VLT), Conventional rail and Freight rail. Filter by country or modality, hover over stations to see their names, or click any system to highlight it.",
-  "searchPlaceholder": "Search operational systems by country, city or name (e.g., São Paulo, Beijing, Shanghai, HSR, VLT)...",
+  "heroSubtitle": "Explore operational rail and waterborne networks across Brazil and the world separated into 6 modalities: High-speed rail, Metro / Subway, Light rail (VLT), Conventional rail, Freight rail and Water transport (ferries & boats). Filter by country or modality, hover over stations/terminals to see their names, or click any system to highlight it.",
+  "searchPlaceholder": "Search operational systems by country, city or name (e.g., São Paulo, Beijing, Ferry, HSR, VLT)...",
   "filterPaisLabel": "Country",
   "filterTipoLabel": "Modality",
   "filterStatusLabel": "Status",
   "filterAll": "All",
-  "toggleCargaLabel": "Show all 5 operational modalities",
+  "toggleCargaLabel": "Show all 6 operational modalities",
   "projectionGlobe": "🌍 3D Globe",
   "projectionFlat": "🗺️ Flat World Map",
   "worldViewBtn": "🌎 World View",
@@ -28,7 +28,8 @@
     "metro": "Metro / Subway",
     "vlt": "Light rail (VLT)",
     "trem_convencional": "Conventional rail",
-    "ferrovia_carga": "Freight rail"
+    "ferrovia_carga": "Freight rail",
+    "barco": "Water transport (ferries & boats)"
   },
   "status": {
     "operacao": "In operation",

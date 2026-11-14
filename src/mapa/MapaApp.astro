@@ -43,6 +43,7 @@ const MODALITY_COLORS: Record<string, string> = {
 	vlt: '#00c853',
 	trem_convencional: '#ff8f00',
 	ferrovia_carga: '#aa00ff',
+	barco: '#00b8d4',
 };
 
 const MODALITY_ORDER = [
@@ -51,6 +52,7 @@ const MODALITY_ORDER = [
 	'vlt',
 	'trem_convencional',
 	'ferrovia_carga',
+	'barco',
 ] as const;
 
 const COUNTRY_META: Record<
@@ -398,6 +400,7 @@ const modalityCounts: Record<string, number> = {
 	vlt: 0,
 	trem_convencional: 0,
 	ferrovia_carga: 0,
+	barco: 0,
 };
 for (const s of sistemasOperacionais) {
 	const p = s.pais || 'Brasil';
@@ -481,7 +484,7 @@ const payloadClient = JSON.stringify({
 				<label class="control-field">
 					<span>{t.filterTipoLabel}</span>
 					<select id="mapa-filter-tipo">
-						<option value="all">{t.filterAll} (5)</option>
+						<option value="all">{t.filterAll} (6)</option>
 						{MODALITY_ORDER.map((key) => (
 							<option value={key}>
 								{t.tipos[key]} ({modalityCounts[key] || 0})
@@ -515,10 +518,10 @@ const payloadClient = JSON.stringify({
 				</div>
 			</div>
 
-			<div class="modality-pills-bar" role="group" aria-label={isEn ? 'Filter by 5 rail modalities' : 'Filtrar pelas 5 modalidades ferroviárias'}>
-				<span class="country-pills-label">{isEn ? '5 Modalities (in operation):' : '5 Modalidades (em operação):'}</span>
+			<div class="modality-pills-bar" role="group" aria-label={isEn ? 'Filter by 6 modalities' : 'Filtrar pelas 6 modalidades'}>
+				<span class="country-pills-label">{isEn ? '6 Modalities (in operation):' : '6 Modalidades (em operação):'}</span>
 				<button type="button" class="modality-pill-btn is-active" data-modality-jump="all">
-					<span>✨ {isEn ? 'All 5 Modalities' : 'Todas as 5 modalidades'}</span>
+					<span>✨ {isEn ? 'All 6 Modalities' : 'Todas as 6 modalidades'}</span>
 					<strong>{sistemasOperacionais.length}</strong>
 				</button>
 				{MODALITY_ORDER.map((modKey) => (
@@ -563,13 +566,13 @@ const payloadClient = JSON.stringify({
 			<div class="mapa-legend" aria-label="Legenda do mapa por modalidade">
 				<div class="legend-row">
 					<span class="legend-kicker">
-						🟢 {isEn ? 'In operation — 5 Modalities:' : 'Em operação — 5 Modalidades:'}
+						🟢 {isEn ? 'In operation — 6 Modalities:' : 'Em operação — 6 Modalidades:'}
 					</span>
 					<button
 						type="button"
 						class="legend-item legend-modality-btn is-active"
 						data-modality-jump="all"
-						title={isEn ? 'Show all 5 modalities' : 'Mostrar todas as 5 modalidades'}
+						title={isEn ? 'Show all 6 modalities' : 'Mostrar todas as 6 modalidades'}
 					>
 						✨ {isEn ? 'All' : 'Todas'}
 					</button>
@@ -612,7 +615,7 @@ const payloadClient = JSON.stringify({
 	{isHome ? (
 		<details class="mapa-home-accordion">
 			<summary class="mapa-home-summary">
-				<span>📋 {t.directory.title} ({sistemasOperacionais.length} sistemas em operação · {activeCountries.length} países · 5 modalidades) e metodologia</span>
+				<span>📋 {t.directory.title} ({sistemasOperacionais.length} sistemas em operação · {activeCountries.length} países · 6 modalidades) e metodologia</span>
 				<a href="/mapa" class="mapa-home-full-link">Abrir página dedicada do Mapa →</a>
 			</summary>
 			<section class="mapa-directory" aria-labelledby="dir-heading">
@@ -828,6 +831,7 @@ const payloadClient = JSON.stringify({
 				vlt: '#00c853',
 				trem_convencional: '#ff8f00',
 				ferrovia_carga: '#aa00ff',
+				barco: '#00b8d4',
 			},
 			COUNTRY_META = {},
 		} = data;
@@ -1479,6 +1483,7 @@ const payloadClient = JSON.stringify({
 				vlt: 0,
 				trem_convencional: 0,
 				ferrovia_carga: 0,
+				barco: 0,
 			};
 			for (const s of baseList) {
 				const mods = modalitiesBySystemId[s.id] || new Set([s.tipo]);
@@ -1547,6 +1552,8 @@ const payloadClient = JSON.stringify({
 			MODALITY_COLORS.trem_convencional,
 			'ferrovia_carga',
 			MODALITY_COLORS.ferrovia_carga,
+			'barco',
+			MODALITY_COLORS.barco,
 			'#00b0ff',
 		];
 
@@ -1741,12 +1748,13 @@ const payloadClient = JSON.stringify({
 				const modKey = props.tipo || sysObj?.tipo || 'metro';
 				const modLabel = t.tipos[modKey] || modKey;
 				const modColor = props.color || MODALITY_COLORS[modKey] || '#0055ff';
+				const stIcon = modKey === 'barco' ? '⚓' : '🚉';
 
 				hoverPopup
 					.setLngLat(coords)
 					.setHTML(
 						`<div class="hover-card">
-							<div class="hover-title">🚉 ${escapeHtml(props.nome)}</div>
+							<div class="hover-title">${stIcon} ${escapeHtml(props.nome)}</div>
 							${props.linha ? `<div class="hover-sub">${escapeHtml(props.linha)}</div>` : ''}
 							<div class="hover-meta">
 								<span class="hover-dot" style="background:${modColor}"></span>
@@ -1852,12 +1860,13 @@ const payloadClient = JSON.stringify({
 				const modKey = props.tipo || sysObj?.tipo || 'metro';
 				const modLabel = t.tipos[modKey] || modKey;
 				const modColor = MODALITY_COLORS[modKey] || '#00b0ff';
+				const lineIcon = modKey === 'barco' ? '⛴️' : '🚆';
 
 				hoverPopup
 					.setLngLat(e.lngLat)
 					.setHTML(
 						`<div class="hover-card">
-							<div class="hover-title">🚆 ${escapeHtml(props.linha || sysNome)}</div>
+							<div class="hover-title">${lineIcon} ${escapeHtml(props.linha || sysNome)}</div>
 							<div class="hover-meta">
 								<span class="hover-dot" style="background:${modColor}"></span>
 								<span>${escapeHtml(sysNome)} · ${escapeHtml(modLabel)}</span>

@@ -29855,6 +29855,306 @@
           11.2985
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-barcas-praca-xv-rio-rj",
+        "nome": "Estação Hidroviária Praça XV (Centro do Rio de Janeiro, RJ)",
+        "sistema_id": "barcas-rio-niteroi-paqueta-cocota-ilha-grande-rj",
+        "sistema_nome_pt": "Barcas do Rio de Janeiro — Baía de Guanabara (Praça XV – Niterói / Araribóia, Charitas, Ilha de Paquetá e Ilha do Governador / Cocotá) e Ilha Grande (Mangaratiba / Angra – Abraão, RJ)",
+        "sistema_nome_en": "Rio de Janeiro Ferry System — Guanabara Bay (Praça XV – Niterói / Araribóia, Charitas, Paquetá & Cocotá) & Ilha Grande Line (Mangaratiba / Angra – Abraão, RJ)",
+        "linha": "Barcas Baía de Guanabara",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1725,
+          -22.9022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-barcas-arariboia-niteroi-rj",
+        "nome": "Estação Hidroviária Praça Araribóia (Centro de Niterói, RJ)",
+        "sistema_id": "barcas-rio-niteroi-paqueta-cocota-ilha-grande-rj",
+        "sistema_nome_pt": "Barcas do Rio de Janeiro — Baía de Guanabara (Praça XV – Niterói / Araribóia, Charitas, Ilha de Paquetá e Ilha do Governador / Cocotá) e Ilha Grande (Mangaratiba / Angra – Abraão, RJ)",
+        "sistema_nome_en": "Rio de Janeiro Ferry System — Guanabara Bay (Praça XV – Niterói / Araribóia, Charitas, Paquetá & Cocotá) & Ilha Grande Line (Mangaratiba / Angra – Abraão, RJ)",
+        "linha": "Barcas Baía de Guanabara",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1245,
+          -22.8935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ferry-boat-sao-joaquim-salvador-ba",
+        "nome": "Terminal Hidroviário Ferry-Boat de São Joaquim (Salvador, BA)",
+        "sistema_id": "ferry-boat-salvador-itaparica-mar-grande-morro-sao-paulo-ba",
+        "sistema_nome_pt": "Sistema Ferry-Boat, Lanchas e Catamarãs da Baía de Todos-os-Santos — Salvador (São Joaquim / Comércio) – Ilha de Itaparica (Bom Despacho / Mar Grande) e Morro de São Paulo (Bahia)",
+        "sistema_nome_en": "All Saints Bay Ferry-Boat & Catamaran System — Salvador (São Joaquim / Comércio) – Itaparica Island (Bom Despacho / Mar Grande) & Morro de São Paulo (Bahia, Brazil)",
+        "linha": "Travessia Ferry-Boat Baía de Todos-os-Santos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5045,
+          -12.9545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ferry-boat-bom-despacho-itaparica-ba",
+        "nome": "Terminal Hidroviário de Bom Despacho (Ilha de Itaparica, BA)",
+        "sistema_id": "ferry-boat-salvador-itaparica-mar-grande-morro-sao-paulo-ba",
+        "sistema_nome_pt": "Sistema Ferry-Boat, Lanchas e Catamarãs da Baía de Todos-os-Santos — Salvador (São Joaquim / Comércio) – Ilha de Itaparica (Bom Despacho / Mar Grande) e Morro de São Paulo (Bahia)",
+        "sistema_nome_en": "All Saints Bay Ferry-Boat & Catamaran System — Salvador (São Joaquim / Comércio) – Itaparica Island (Bom Despacho / Mar Grande) & Morro de São Paulo (Bahia, Brazil)",
+        "linha": "Travessia Ferry-Boat Baía de Todos-os-Santos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6185,
+          -12.9485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-ponta-da-praia-santos-guaruja-sp",
+        "nome": "Terminal Hidroviário Ponta da Praia / Guarujá (Estuário de Santos, SP)",
+        "sistema_id": "travessias-hidroviarias-santos-guaruja-ilhabela-sp",
+        "sistema_nome_pt": "Travessias Hidroviárias Litorâneas de São Paulo — Balsas e Barcas Santos–Guarujá, Santos–Vicente de Carvalho, Bertioga–Guarujá e São Sebastião–Ilhabela (DH Hidrovias SP)",
+        "sistema_nome_en": "São Paulo Coastal Ferry Network — Santos–Guarujá, Vicente de Carvalho, Bertioga & São Sebastião–Ilhabela Passenger & Vehicle Ferries (SP, Brazil)",
+        "linha": "Travessias Hidroviárias de Santos–Guarujá",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2985,
+          -23.9885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-aquaviario-praca-do-papa-prainha-vitoria-es",
+        "nome": "Estação Aquaviária Praça do Papa / Prainha (Baía de Vitória, ES)",
+        "sistema_id": "sistema-aquaviario-grande-vitoria-prainha-porto-de-santana-es",
+        "sistema_nome_pt": "Sistema Aquaviário da Grande Vitória — Praça do Papa (Vitória) – Prainha (Vila Velha) – Porto de Santana (Cariacica, ES)",
+        "sistema_nome_en": "Greater Vitória Water Transit System (Aquaviário GVBus) — Praça do Papa (Vitória) – Prainha (Vila Velha) – Porto de Santana (Cariacica, ES)",
+        "linha": "Aquaviário da Grande Vitória",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2925,
+          -20.3185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-belem-pa",
+        "nome": "Terminal Hidroviário de Belém / Baía do Guajará (Belém, PA)",
+        "sistema_id": "hidrovia-amazonia-belem-marajo-cotijuba-santarem-manaus-pa-am",
+        "sistema_nome_pt": "Rede Hidroviária de Passageiros da Amazônia e Baía do Marajó — Belém (Terminal Hidroviário / Icoaraci) – Ilha de Cotijuba – Ilha de Marajó (Camará / Soure / Breves) – Santarém – Manaus (PA / AM)",
+        "sistema_nome_en": "Amazon & Marajó Bay Passenger Waterway Network — Belém – Cotijuba Island – Marajó Island (Camará / Soure / Breves) – Santarém – Manaus (Pará / Amazonas, Brazil)",
+        "linha": "Hidrovia da Amazônia e Baía do Marajó",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4965,
+          -1.4425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-hidroviario-manaus-roadway-am",
+        "nome": "Porto Hidroviário de Manaus / Roadway (Rio Negro — Manaus, AM)",
+        "sistema_id": "hidrovia-amazonia-belem-marajo-cotijuba-santarem-manaus-pa-am",
+        "sistema_nome_pt": "Rede Hidroviária de Passageiros da Amazônia e Baía do Marajó — Belém (Terminal Hidroviário / Icoaraci) – Ilha de Cotijuba – Ilha de Marajó (Camará / Soure / Breves) – Santarém – Manaus (PA / AM)",
+        "sistema_nome_en": "Amazon & Marajó Bay Passenger Waterway Network — Belém – Cotijuba Island – Marajó Island (Camará / Soure / Breves) – Santarém – Manaus (Pará / Amazonas, Brazil)",
+        "linha": "Hidrovia da Amazônia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0255,
+          -3.1385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-catamara-cais-maua-porto-alegre-rs",
+        "nome": "Terminal Hidroviário Catamarã Cais Mauá (Centro de Porto Alegre, RS)",
+        "sistema_id": "catamara-travessia-guaiba-porto-alegre-rs",
+        "sistema_nome_pt": "Catamarã Hidroviário do Lago Guaíba — Porto Alegre (Cais Mauá / Píer BarraShoppingSul) – Guaíba (RS)",
+        "sistema_nome_en": "Lake Guaíba Catamaran Waterbus — Porto Alegre (Mauá Quay / BarraShoppingSul Pier) – Guaíba (Rio Grande do Sul, Brazil)",
+        "linha": "Travessia Hidroviária do Lago Guaíba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2345,
+          -30.0285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ponta-da-espera-sao-luis-ma",
+        "nome": "Terminal Hidroviário Ferry-Boat da Ponta da Espera (São Luís, MA)",
+        "sistema_id": "ferry-boat-baia-sao-marcos-ponta-da-espera-cujupe-alcantara-ma",
+        "sistema_nome_pt": "Travessia Hidroviária da Baía de São Marcos — São Luís (Ponta da Espera / Praia Grande) – Cujupe e Alcântara (MOB-MA, Maranhão)",
+        "sistema_nome_en": "São Marcos Bay Ferry & Catamaran Crossing — São Luís (Ponta da Espera / Praia Grande) – Cujupe & Alcântara (Maranhão, Brazil)",
+        "linha": "Travessia da Baía de São Marcos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3645,
+          -2.5625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-trapiche-lagoa-da-conceicao-florianopolis-sc",
+        "nome": "Terminal Lacustre da Lagoa da Conceição (Cooperbarco — Florianópolis, SC)",
+        "sistema_id": "travessias-barcos-lagoa-da-conceicao-florianopolis-ilha-do-mel-sc-pr",
+        "sistema_nome_pt": "Transporte Hidroviário da Lagoa da Conceição (Florianópolis — Centrinho – Costa da Lagoa – Rio Vermelho, SC) e Travessia da Ilha do Mel (Pontal do Sul / Paranaguá, PR)",
+        "sistema_nome_en": "Lagoa da Conceição Water Transit (Florianópolis — Centrinho – Costa da Lagoa, SC) & Ilha do Mel Ferry Crossing (Paranaguá Bay, PR)",
+        "linha": "Linha Hidroviária da Lagoa da Conceição",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4615,
+          -27.6045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-whitehall-ferry-terminal-manhattan-nyc",
+        "nome": "Whitehall Ferry Terminal (Staten Island Ferry — Lower Manhattan, Nova York)",
+        "sistema_id": "staten-island-ferry-nyc-ferry-nova-york-eua",
+        "sistema_nome_pt": "Staten Island Ferry & NYC Ferry — Rede Metropolitana de Barcas de Nova York (Manhattan – Staten Island – Brooklyn – Queens – Bronx, EUA)",
+        "sistema_nome_en": "Staten Island Ferry & NYC Ferry — New York City Metropolitan Ferry Network (Manhattan – Staten Island – Brooklyn – Queens – Bronx, USA)",
+        "linha": "Staten Island Ferry & NYC Ferry",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0135,
+          40.7015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-westminster-pier-thames-clippers-london",
+        "nome": "Westminster Pier & Canary Wharf Pier (Thames Clippers — Rio Tâmisa, Londres)",
+        "sistema_id": "thames-clippers-river-bus-londres-reino-unido",
+        "sistema_nome_pt": "Thames Clippers (River Bus TfL) & Woolwich Ferry — Rede Hidroviária Metropolitana do Rio Tâmisa em Londres (Reino Unido)",
+        "sistema_nome_en": "Uber Boat by Thames Clippers (TfL River Bus) & Woolwich Ferry — River Thames Metropolitan Waterbus Network in London (UK)",
+        "linha": "Thames Clippers River Bus",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1235,
+          51.5015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-circular-quay-wharf-sydney-ferries-au",
+        "nome": "Circular Quay Ferry Wharves (Sydney Ferries — Baía de Sydney, Austrália)",
+        "sistema_id": "sydney-ferries-circular-quay-manly-parramatta-australia",
+        "sistema_nome_pt": "Sydney Ferries — Rede Metropolitana de Barcas da Baía de Sydney e Rio Parramatta (Circular Quay – Manly – Taronga Zoo – Parramatta, Austrália)",
+        "sistema_nome_en": "Sydney Ferries — Sydney Harbour & Parramatta River Metropolitan Ferry Network (Circular Quay – Manly – Taronga Zoo – Parramatta, Australia)",
+        "linha": "Sydney Ferries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2108,
+          -33.8612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tsim-sha-tsui-star-ferry-pier-hk",
+        "nome": "Tsim Sha Tsui & Central Star Ferry Piers (Victoria Harbour, Hong Kong)",
+        "sistema_id": "star-ferry-victoria-harbour-outlying-islands-hong-kong",
+        "sistema_nome_pt": "Star Ferry de Victoria Harbour & Ferries das Ilhas Exteriores de Hong Kong (Tsim Sha Tsui – Central / Wan Chai – Lantau / Cheung Chau / Lamma, China)",
+        "sistema_nome_en": "Star Ferry (Victoria Harbour) & Hong Kong Outlying Islands Ferries (Tsim Sha Tsui – Central / Wan Chai – Lantau / Cheung Chau / Lamma, Hong Kong / China)",
+        "linha": "Star Ferry Victoria Harbour",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1685,
+          22.2935
+        ]
+      }
     }
   ]
 }
