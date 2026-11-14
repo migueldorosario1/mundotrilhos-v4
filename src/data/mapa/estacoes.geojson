@@ -32651,6 +32651,366 @@
           -15.8365
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-hiroshima-ujina",
+        "nome": "Porto de Hiroshima (Ujina Port Terminal)",
+        "sistema_id": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+        "linha_id": "linha-seto-hiroshima-kure-matsuyama-miyajima",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4633,
+          34.3526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-miyajima-jr",
+        "nome": "Terminal de Ferry de Miyajima (JR West / Matsudai)",
+        "sistema_id": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+        "linha_id": "linha-seto-hiroshima-kure-matsuyama-miyajima",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.3196,
+          34.2998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-matsuyama-kanko",
+        "nome": "Porto de Matsuyama Kanko (Ehime)",
+        "sistema_id": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+        "linha_id": "linha-seto-hiroshima-kure-matsuyama-miyajima",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7072,
+          33.8617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-asakusa-sumida",
+        "nome": "Píer de Asakusa (Tokyo Cruise Rio Sumida)",
+        "sistema_id": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+        "linha_id": "linha-tokyo-cruise-sumida-asakusa-odaiba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7985,
+          35.711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hk-macau-ferry-sheung-wan",
+        "nome": "Hong Kong–Macau Ferry Terminal (Sheung Wan)",
+        "sistema_id": "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+        "linha_id": "linha-turbojet-cotai-hong-kong-macau-shekou",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1518,
+          22.2881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-macau-outer-harbour-ferry",
+        "nome": "Terminal Marítimo do Porto Exterior de Macau",
+        "sistema_id": "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+        "linha_id": "linha-turbojet-cotai-hong-kong-macau-shekou",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5588,
+          22.1969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-star-ferry-tsim-sha-tsui",
+        "nome": "Star Ferry Pier Tsim Sha Tsui (Victoria Harbour)",
+        "sistema_id": "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+        "linha_id": "linha-turbojet-cotai-hong-kong-macau-shekou",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1688,
+          22.2936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-xangai-jinling-bund-ferry",
+        "nome": "Terminal de Barcas Jinling East Road (Bund, Xangai)",
+        "sistema_id": "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+        "linha_id": "linha-xangai-huangpu-ferry-bund-lujiazui",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4926,
+          31.2335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bangkok-sathorn-central-pier",
+        "nome": "Sathorn Central Pier (Conexão BTS Saphan Taksin, Bangkok)",
+        "sistema_id": "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+        "linha_id": "linha-chao-phraya-express-sathorn-nonthaburi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.513,
+          13.7188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bangkok-nonthaburi-pier",
+        "nome": "Terminal Hidroviário de Nonthaburi (N30, Bangkok)",
+        "sistema_id": "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+        "linha_id": "linha-chao-phraya-express-sathorn-nonthaburi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4939,
+          13.8414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-merak-java",
+        "nome": "Terminal de Ferries de Merak (Banten, Java)",
+        "sistema_id": "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+        "linha_id": "linha-asdp-estreito-de-sunda-merak-bakauheni",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9958,
+          -5.9317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-bakauheni-sumatra",
+        "nome": "Terminal de Ferries de Bakauheni (Lampung, Sumatra)",
+        "sistema_id": "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+        "linha_id": "linha-asdp-estreito-de-sunda-merak-bakauheni",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7533,
+          -5.8711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dar-es-salaam-azam-ferry",
+        "nome": "Terminal Marítimo de Dar es Salaam (Azam Marine)",
+        "sistema_id": "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+        "linha_id": "linha-azam-marine-dar-es-salaam-zanzibar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2903,
+          -6.819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-zanzibar-malindi-ferry",
+        "nome": "Terminal de Ferry de Malindi / Stone Town (Zanzibar)",
+        "sistema_id": "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+        "linha_id": "linha-azam-marine-dar-es-salaam-zanzibar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1887,
+          -6.156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-abidjan-plateau-lagunaire",
+        "nome": "Gare Lagunaire du Plateau (Bateau-Bus SOTRA, Abidjan)",
+        "sistema_id": "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+        "linha_id": "linha-bateau-bus-laguna-ebrie-abidjan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0172,
+          5.3186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-abidjan-treichville-lagunaire",
+        "nome": "Gare Lagunaire de Treichville (Abidjan)",
+        "sistema_id": "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+        "linha_id": "linha-bateau-bus-laguna-ebrie-abidjan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0128,
+          5.3082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-auckland-downtown-ferry-terminal",
+        "nome": "Downtown Ferry Terminal (Britomart, Auckland)",
+        "sistema_id": "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia",
+        "linha_id": "linha-auckland-ferry-downtown-devonport-waiheke",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7669,
+          -36.8422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-waiheke-matiatia-ferry",
+        "nome": "Terminal de Ferry de Matiatia (Ilha Waiheke, Auckland)",
+        "sistema_id": "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia",
+        "linha_id": "linha-auckland-ferry-downtown-devonport-waiheke",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9969,
+          -36.7825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-wellington-interislander-terminal",
+        "nome": "Terminal Interislander / Bluebridge de Wellington",
+        "sistema_id": "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia",
+        "linha_id": "linha-cook-strait-interislander-wellington-picton",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7875,
+          -41.2647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-picton-ferry-terminal",
+        "nome": "Terminal de Ferry de Picton (Ilha Sul, Nova Zelândia)",
+        "sistema_id": "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia",
+        "linha_id": "linha-cook-strait-interislander-wellington-picton",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.0069,
+          -41.2872
+        ]
+      }
     }
   ]
 }

@@ -26039,5 +26039,390 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+    "slug": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+    "nome_pt": "Ferries do Mar Interior de Seto (Hiroshima–Kure–Matsuyama e Takamatsu–Naoshima–Uno), JR West Miyajima Ferry e Tokyo Cruise Rio Sumida (Japão)",
+    "nome_en": "Seto Inland Sea Ferries (Hiroshima–Kure–Matsuyama & Takamatsu–Naoshima–Uno), JR West Miyajima Ferry & Tokyo Cruise Sumida River (Japan)",
+    "pais": "Japão",
+    "cidade": "Hiroshima, Miyajima, Kure, Matsuyama, Takamatsu, Naoshima, Uno e Tóquio",
+    "uf": "Hiroshima / Ehime / Kagawa / Okayama / Tóquio",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "JR West Miyajima Ferry, Setonaikai Kisen (Super Jet), Shikoku Ferry / Naoshima Line & Tokyo Cruise Ship Co.",
+    "inauguracao": "1897 (Travessia Miyajima e navegação regular a vapor no Mar Interior de Seto e Rio Sumida)",
+    "extensao_km": 215.0,
+    "bitola": "Hidrovia marítima do Mar Interior de Seto (Setouchi) e hidrovia fluvial/baía metropolitana do Rio Sumida em Tóquio",
+    "eletrificacao": "Catamarãs de alta velocidade Super Jet, ferries ro-pax híbridos diesel-elétricos e barcos panorâmicos (Hotaluna/Himiko) no Rio Sumida",
+    "n_linhas": 3,
+    "n_estacoes": 4,
+    "passageiros_dia": 95000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 240 milhões (renovação com embarcações híbridas e elétricas no Mar Interior de Seto e modernização do Terminal Portuário de Hiroshima Ujina)",
+      "moeda": "USD",
+      "fonte_id": "mlit-jr-west-setonaikai-tokyo-cruise"
+    },
+    "proximas_entregas": {
+      "pt": "Integração tarifária completa com cartões IC (Suica, ICOCA e PASMO) e novos barcos híbridos nas rotas de Setouchi e Baía de Tóquio.",
+      "en": "Full IC smartcard integration (Suica, ICOCA and PASMO) and new hybrid vessels across Setouchi and Tokyo Bay routes."
+    },
+    "resumo_pt": "O Japão possui uma das redes hidroviárias de passageiros mais integradas ao transporte sobre trilhos do mundo. No Mar Interior de Seto (Setouchi), os catamarãs de alta velocidade Super Jet e os ferries da Setonaikai Kisen conectam o Porto de Hiroshima (integrado aos bondes da Hiroden) à base naval de Kure e ao Porto de Matsuyama Kanko (Ilha de Shikoku), enquanto a tradicional linha JR West Miyajima Ferry liga Miyajimaguchi (conectada à Linha JR Sanyo) à ilha sagrada de Itsukushima (Miyajima). Mais a leste no Mar de Seto, os ferries de Takamatsu e Uno atendem as ilhas de Shodoshima e Naoshima. Já na capital japonesa, a Tokyo Cruise Ship e a Tokyo Mizube Line operam os famosos 'Suijo Bus' (ônibus aquáticos) pelo Rio Sumida e Baía de Tóquio, conectando Asakusa, Hamarikyu, Hinode Pier e Odaiba.",
+    "resumo_en": "Japan operates one of the world's most rail-integrated passenger ferry networks. Across the Seto Inland Sea (Setouchi), Setonaikai Kisen's high-speed Super Jet hydrofoils and cruise ferries connect Hiroshima Port (linked with Hiroden trams) to Kure and Matsuyama on Shikoku Island, while the JR West Miyajima Ferry links Miyajimaguchi Station to Itsukushima (Miyajima) Island, and Shikoku/Naoshima ferries link Takamatsu, Naoshima and Uno. In the capital, Tokyo Cruise Ship operates the iconic Sumida River and Tokyo Bay water buses linking Asakusa, Hinode Pier and Odaiba.",
+    "lat": 34.3526,
+    "lon": 132.4633,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "mlit-jr-west-setonaikai-tokyo-cruise",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "mar interior de seto",
+      "hiroshima",
+      "miyajima",
+      "matsuyama",
+      "takamatsu",
+      "naoshima",
+      "rio sumida",
+      "tóquio",
+      "japão",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/JR_West_Miyajima_Ferry_Misen_Maru.jpg/800px-JR_West_Miyajima_Ferry_Misen_Maru.jpg",
+      "credito": "Wikimedia Commons — JR West Miyajima Ferry no Mar Interior de Seto e barcos urbanos do Rio Sumida (Japão)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Japan"
+    },
+    "linhas": [
+      {
+        "id": "linha-seto-hiroshima-kure-matsuyama-miyajima",
+        "nome": "Hidrovia Mar Interior de Seto (Miyajima – Hiroshima – Kure – Matsuyama)",
+        "status": "operacao",
+        "extensao_km": 88.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-seto-takamatsu-shodoshima-naoshima-uno",
+        "nome": "Ferries Setouchi (Takamatsu – Naoshima – Uno/Okayama)",
+        "status": "operacao",
+        "extensao_km": 92.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-tokyo-cruise-sumida-asakusa-odaiba",
+        "nome": "Tokyo Water Bus Rio Sumida (Asakusa – Hinode – Odaiba)",
+        "status": "operacao",
+        "extensao_km": 35.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+    "slug": "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+    "nome_pt": "TurboJET / Cotai Water Jet (Hong Kong–Macau–Shenzhen), Star Ferry (Victoria Harbour) e Barcas Urbanas do Rio Huangpu em Xangai (China)",
+    "nome_en": "TurboJET / Cotai Water Jet (Hong Kong–Macau–Shenzhen), Star Ferry (Victoria Harbour) & Shanghai Huangpu River Urban Ferries (China)",
+    "pais": "China",
+    "cidade": "Hong Kong, Macau, Shenzhen, Zhuhai e Xangai",
+    "uf": "Hong Kong / Macau / Guangdong / Xangai",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Shun Tak-China Travel (TurboJET), Cotai Water Jet, The 'Star' Ferry Co., Sun Ferry & Shanghai Ferry Company",
+    "inauguracao": "1888 (Star Ferry no Victoria Harbour em Hong Kong e travessias fluviais históricas do Rio Huangpu em Xangai)",
+    "extensao_km": 195.0,
+    "bitola": "Estuário do Rio das Pérolas (Victoria Harbour / Mar do Sul da China) e calha metropolitana do Rio Huangpu no estuário do Yangtze",
+    "eletrificacao": "Catamarãs e jetfoils de alta velocidade (até 45 nós / 83 km/h), barcas híbridas diesel-elétricas da Star Ferry e barcas elétricas no Rio Huangpu",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 180000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 310 milhões (eletrificação das frotas urbanas de Hong Kong e Xangai e modernização dos terminais marítimos de Sheung Wan, Taipa e Shekou)",
+      "moeda": "USD",
+      "fonte_id": "hk-marine-dept-turbojet-shanghai-ferry"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação de novas barcas 100% elétricas nas travessias de Victoria Harbour (Hong Kong) e do Rio Huangpu (Xangai).",
+      "en": "Deployment of new 100% electric ferries on Victoria Harbour (Hong Kong) and Huangpu River (Shanghai) crossings."
+    },
+    "resumo_pt": "A China abriga dois dos sistemas hidroviários urbanos e regionais mais emblemáticos da Ásia. No Delta do Rio das Pérolas (Grande Baía Guangdong–Hong Kong–Macau), as frotas de catamarãs de alta velocidade da TurboJET e da Cotai Water Jet conectam o Hong Kong–Macau Ferry Terminal (Sheung Wan) ao Porto Exterior e ao Terminal da Taipa em Macau, além do porto de Shekou em Shenzhen, enquanto a lendária Star Ferry (desde 1888) e as barcas para as Ilhas Exteriores (Cheung Chau, Lamma e Lantau/Mui Wo) cruzam diariamente o Victoria Harbour entre Tsim Sha Tsui, Central e Wan Chai. Já em Xangai, a Shanghai Ferry Company opera 17 linhas de barcas urbanas de alta capacidade ao longo do Rio Huangpu (como a famosa linha Jinling East Road no Bund – Dongchang Road em Lujiazui), transportando dezenas de milhares de passageiros e ciclistas por dia com integração direta ao Metrô de Xangai.",
+    "resumo_en": "China hosts two of Asia's most iconic urban and regional water transit systems. In the Pearl River Delta (Greater Bay Area), TurboJET and Cotai Water Jet high-speed catamarans link Hong Kong's Sheung Wan Terminal with Macau (Outer Harbour and Taipa) and Shenzhen (Shekou), while the historic Star Ferry (operating since 1888) and outlying island ferries cross Victoria Harbour between Tsim Sha Tsui, Central and Wan Chai. In Shanghai, the Shanghai Ferry Company runs 17 urban commuter ferry lines across the Huangpu River linking the Bund (Puxi) and Lujiazui (Pudong).",
+    "lat": 22.2881,
+    "lon": 114.1518,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "hk-marine-dept-turbojet-shanghai-ferry",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hong kong",
+      "macau",
+      "star ferry",
+      "turbojet",
+      "cotai water jet",
+      "shenzhen",
+      "xangai",
+      "rio huangpu",
+      "china",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Star_Ferry_Morning_Star_in_Victoria_Harbour.jpg/800px-Star_Ferry_Morning_Star_in_Victoria_Harbour.jpg",
+      "credito": "Wikimedia Commons — Barcas Star Ferry e catamarãs rápidos TurboJET em Hong Kong, Macau e Xangai (China)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Star_Ferry"
+    },
+    "linhas": [
+      {
+        "id": "linha-turbojet-cotai-hong-kong-macau-shekou",
+        "nome": "Corredor de Alta Velocidade Delta do Rio das Pérolas (Macau – Hong Kong Central – Shenzhen Shekou)",
+        "status": "operacao",
+        "extensao_km": 125.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-xangai-huangpu-ferry-bund-lujiazui",
+        "nome": "Barcas Urbanas do Rio Huangpu em Xangai (Bund Jinling East Road – Dongchang Road Pudong)",
+        "status": "operacao",
+        "extensao_km": 70.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+    "slug": "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+    "nome_pt": "Chao Phraya Express Boat / MINE Smart Ferry em Bangkok (Tailândia) e Ponte Marítima de Ferries ASDP nos Estreitos de Sunda e Bali (Indonésia)",
+    "nome_en": "Chao Phraya Express Boat / MINE Smart Ferry in Bangkok (Thailand) & ASDP Sunda and Bali Strait Ferry Bridge (Indonesia)",
+    "pais": "Tailândia",
+    "cidade": "Bangkok e Nonthaburi (Tailândia); Merak, Bakauheni, Ketapang e Gilimanuk (Indonésia)",
+    "uf": "Bangkok / Banten / Lampung / Java Oriental / Bali",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Chao Phraya Express Boat Co., Thai Smile Boat (MINE Smart Ferry), Khlong Saen Saep Boat Service & PT ASDP Indonesia Ferry (Persero)",
+    "inauguracao": "1971 (Chao Phraya Express Boat em Bangkok e linhas estatais de ferries ro-ro da ASDP na Indonésia)",
+    "extensao_km": 115.0,
+    "bitola": "Hidrovia fluvial metropolitana do Rio Chao Phraya e canais (khlongs) em Bangkok e travessia oceânica do Estreito de Sunda (Java–Sumatra)",
+    "eletrificacao": "Catamarãs 100% elétricos MINE Smart Ferry (Thai Smile Boat) no Rio Chao Phraya e grandes ferries ro-pax na travessia Merak–Bakauheni",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 210000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 280 milhões (frota de catamarãs elétricos Thai Smile Boat integrada ao BTS/MRT em Bangkok e terminais executivos Eksekutif da ASDP em Merak e Bakauheni)",
+      "moeda": "USD",
+      "fonte_id": "mot-thailand-cpx-asdp-indonesia"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização de píeres inteligentes no Rio Chao Phraya em Bangkok e ampliação dos berços de atracação rápida da ASDP no Estreito de Sunda.",
+      "en": "Smart pier upgrades along the Chao Phraya River in Bangkok and expanded rapid-berthing slips for ASDP across the Sunda Strait."
+    },
+    "resumo_pt": "No Sudeste Asiático, a hidrovia urbana e a navegação inter-ilhas formam corredores vitais de mobilidade de massa. Na Tailândia, o Rio Chao Phraya é a avenida líquida de Bangkok: os barcos da Chao Phraya Express Boat (linhas Bandeira Laranja, Amarela, Verde e Vermelha) e a moderna frota de catamarãs 100% elétricos da MINE Smart Ferry (Thai Smile Boat) percorrem 35 píeres entre Nonthaburi, o Grande Palácio, Wat Arun, ICONSIAM e o Sathorn Central Pier (conexão direta com a estação Saphan Taksin do BTS Skytrain), complementados pelos barcos expressos do canal Khlong Saen Saep. Já na Indonésia, maior país arquipélago do mundo, a estatal PT ASDP Indonesia Ferry opera a monumental ponte marítima 24 horas no Estreito de Sunda entre Merak (Ilha de Java, terminal ferroviário da KAI Commuter) e Bakauheni (Ilha de Sumatra), além da travessia Ketapang–Gilimanuk entre Java e Bali.",
+    "resumo_en": "Across Southeast Asia, urban riverboats and inter-island ferries form vital mass-transit arteries. In Thailand, the Chao Phraya Express Boat fleet and Thai Smile Boat's 100% electric MINE Smart Ferry catamarans link 35 piers from Nonthaburi through central Bangkok (Grand Palace, Wat Arun, ICONSIAM) to Sathorn Central Pier (direct interchange with BTS Saphan Taksin Station), complemented by Khlong Saen Saep canal boats. In Indonesia, state operator PT ASDP Indonesia Ferry runs the massive 24-hour maritime bridge across the Sunda Strait linking Merak (Java) and Bakauheni (Sumatra), as well as the Ketapang–Gilimanuk crossing to Bali.",
+    "lat": 13.7188,
+    "lon": 100.513,
+    "zoom_inicial": 5.5,
+    "fontes": [
+      "mot-thailand-cpx-asdp-indonesia",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "bangkok",
+      "rio chao phraya",
+      "mine smart ferry",
+      "tailândia",
+      "estreito de sunda",
+      "merak",
+      "bakauheni",
+      "asdp",
+      "indonésia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chao_Phraya_Express_Boat_in_Bangkok.jpg/800px-Chao_Phraya_Express_Boat_in_Bangkok.jpg",
+      "credito": "Wikimedia Commons — Barcos expressos e catamarãs elétricos no Rio Chao Phraya em Bangkok (Tailândia) e ferries da ASDP (Indonésia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Chao_Phraya_Express_Boat"
+    },
+    "linhas": [
+      {
+        "id": "linha-chao-phraya-express-sathorn-nonthaburi",
+        "nome": "Hidrovia Metropolitana Rio Chao Phraya (Sathorn Central Pier – Grand Palace – Nonthaburi)",
+        "status": "operacao",
+        "extensao_km": 42.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-asdp-estreito-de-sunda-merak-bakauheni",
+        "nome": "Ponte Marítima ASDP Estreito de Sunda (Merak, Java – Bakauheni, Sumatra)",
+        "status": "operacao",
+        "extensao_km": 73.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+    "slug": "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+    "nome_pt": "Bateau-Bus SOTRA / STL na Laguna Ébrié em Abidjan (Costa do Marfim) e Catamarãs Rápidos Azam Marine Dar es Salaam–Zanzibar (Tanzânia)",
+    "nome_en": "SOTRA / STL Ébrié Lagoon Bateau-Bus in Abidjan (Ivory Coast) & Azam Marine Dar es Salaam–Zanzibar Fast Ferries (Tanzania)",
+    "pais": "Tanzânia",
+    "cidade": "Dar es Salaam e Zanzibar (Tanzânia); Abidjan (Costa do Marfim)",
+    "uf": "Dar es Salaam / Unguja (Zanzibar) / Lagunes (Abidjan)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Azam Marine / Kilimanjaro Fast Ferries (Tanzânia) & SOTRA Bateau-Bus / STL — Société de Transport Lagunaire (Costa do Marfim)",
+    "inauguracao": "1980 (Inauguração das gares lagunares do Bateau-Bus da SOTRA em Abidjan e catamarãs rápidos Kilimanjaro no Canal de Zanzibar)",
+    "extensao_km": 118.0,
+    "bitola": "Canal de Zanzibar no Oceano Índico (África Oriental) e Laguna Ébrié na Região Metropolitana de Abidjan (África Ocidental)",
+    "eletrificacao": "Catamarãs australianos de alta velocidade Kilimanjaro I a VIII (até 38 nós) e barcas urbanas Bateau-Bus na Laguna Ébrié",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 85000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 145 milhões (novos catamarãs Kilimanjaro VIII, ampliação do terminal de Malindi em Zanzibar e reforma das Gares Lagunaires de Abidjan)",
+      "moeda": "USD",
+      "fonte_id": "tasac-azam-marine-sotra-abidjan"
+    },
+    "proximas_entregas": {
+      "pt": "Integração física e tarifária das Gares Lagunaires de Plateau e Treichville com a futura Linha 1 do Metrô de Abidjan.",
+      "en": "Physical and fare integration of the Plateau and Treichville lagoon terminals with Abidjan Metro Line 1."
+    },
+    "resumo_pt": "No continente africano, duas redes aquaviárias destacam-se pela eficiência e alto volume de passageiros. Na África Oriental (Tanzânia), a frota de catamarãs de alta velocidade Kilimanjaro I a VIII da Azam Marine opera a principal ponte marítima do Oceano Índico africano, conectando o Terminal de Ferries de Dar es Salaam (próximo à estação central da ferrovia SGR da TRC) ao Porto de Malindi em Stone Town, na Ilha de Zanzibar (Unguja), em apenas 90 minutos, além de conexões para a Ilha de Pemba e o ferry urbano de Kigamboni. Já na África Ocidental (Costa do Marfim), a metrópole de Abidjan desenvolveu-se ao redor da Laguna Ébrié, onde as barcas urbanas ('Bateau-Bus') da estatal SOTRA, da STL e da Aqualines operam a partir das grandes Gares Lagunaires de Plateau, Treichville, Abobo-Doumé (Yopougon) e Blockhauss (Cocody), oferecendo travessias rápidas livres do trânsito rodoviário das pontes urbanas.",
+    "resumo_en": "In Africa, two flagship water transit systems stand out for high passenger ridership. In East Africa (Tanzania), Azam Marine's Kilimanjaro I–VIII high-speed catamarans connect Dar es Salaam Ferry Terminal (near the TRC Standard Gauge Railway hub) across the Zanzibar Channel to Stone Town on Unguja Island (Zanzibar) in 90 minutes. In West Africa (Ivory Coast), Abidjan's urban Bateau-Bus network operated by SOTRA and STL crosses the Ébrié Lagoon linking the major lagoon terminals of Plateau, Treichville, Abobo-Doumé and Cocody.",
+    "lat": -6.819,
+    "lon": 39.2903,
+    "zoom_inicial": 5.5,
+    "fontes": [
+      "tasac-azam-marine-sotra-abidjan",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "dar es salaam",
+      "zanzibar",
+      "azam marine",
+      "kilimanjaro ferry",
+      "tanzânia",
+      "abidjan",
+      "laguna ébrié",
+      "bateau-bus",
+      "sotra",
+      "costa do marfim",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kilimanjaro_Fast_Ferry_Zanzibar.jpg/800px-Kilimanjaro_Fast_Ferry_Zanzibar.jpg",
+      "credito": "Wikimedia Commons — Catamarãs rápidos Kilimanjaro no Canal de Zanzibar (Tanzânia) e Bateau-Bus na Laguna Ébrié em Abidjan (Costa do Marfim)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Tanzania"
+    },
+    "linhas": [
+      {
+        "id": "linha-azam-marine-dar-es-salaam-zanzibar",
+        "nome": "Expresso Marítimo Canal de Zanzibar (Dar es Salaam Ferry Terminal – Zanzibar Stone Town)",
+        "status": "operacao",
+        "extensao_km": 78.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-bateau-bus-laguna-ebrie-abidjan",
+        "nome": "Bateau-Bus Laguna Ébrié (Plateau – Treichville – Abobo-Doumé, Abidjan)",
+        "status": "operacao",
+        "extensao_km": 40.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia",
+    "slug": "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia",
+    "nome_pt": "Ferries Urbanos da Auckland Transport / Fullers360 no Golfo de Hauraki e Travessia Inter-Ilhas Interislander / Bluebridge no Estreito de Cook (Nova Zelândia)",
+    "nome_en": "Auckland Transport / Fullers360 Hauraki Gulf Urban Ferries & Interislander / Bluebridge Cook Strait Inter-Island Crossing (New Zealand)",
+    "pais": "Nova Zelândia",
+    "cidade": "Auckland, Devonport, Ilha Waiheke, Wellington e Picton",
+    "uf": "Auckland / Wellington / Marlborough",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Auckland Transport (Fullers360 / Explore Group) & KiwiRail Interislander / StraitNZ Bluebridge",
+    "inauguracao": "1881 (Devonport Steam Ferry Co. em Auckland e inauguração do ferry ferroviário Aramoana da Interislander em 1962 no Estreito de Cook)",
+    "extensao_km": 175.0,
+    "bitola": "Baía de Waitematā / Golfo de Hauraki (Auckland) e Estreito de Cook / Marlborough Sounds entre as Ilhas Norte e Sul",
+    "eletrificacao": "Catamarãs rápidos urbanos e novos ferries elétricos/híbridos da Auckland Transport, além de navios ro-pax ferroviários e rodoviários no Estreito de Cook",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 32000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 290 milhões (programa Low Emission Ferry da Auckland Transport com catamarãs elétricos EV Maritime e modernização portuária de Wellington e Picton)",
+      "moeda": "USD",
+      "fonte_id": "at-fullers360-kiwirail-interislander-nz"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em serviço comercial dos primeiros ferries rápidos 100% elétricos de 200 lugares e híbridos de 300 lugares nas rotas de Half Moon Bay e Devonport em Auckland.",
+      "en": "Entry into commercial service of New Zealand's first 200-seat all-electric and 300-seat hybrid fast ferries on Auckland's Half Moon Bay and Devonport routes."
+    },
+    "resumo_pt": "Na Oceania, a Nova Zelândia combina uma rede exemplar de ferries suburbanos integrados ao transporte sobre trilhos com uma das travessias marítimas inter-ilhas mais famosas do mundo. Na maior cidade do país, a Auckland Transport (operada pela Fullers360 e parceiras) comanda 10 rotas de ferries urbanos que partem do Downtown Ferry Terminal — exatamente em frente à estação ferroviária central de Waitematā (Britomart) —, cruzando o Porto de Waitematā e o Golfo de Hauraki até o bairro histórico de Devonport, Bayswater, Birkenhead, Half Moon Bay, Hobsonville Point e a Ilha Waiheke (Matiatia), com pagamento integrado pelo cartão AT HOP. Mais ao sul, os grandes navios ro-pax da estatal ferroviária KiwiRail (Interislander) e da Bluebridge realizam a travessia essencial de 92 km pelo Estreito de Cook e pelos fiordes de Marlborough Sounds, unindo Wellington (Ilha Norte) a Picton (Ilha Sul, onde se conectam ao trem panorâmico Coastal Pacific).",
+    "resumo_en": "In Oceania, New Zealand combines an exemplary rail-integrated suburban ferry network with one of the world's most iconic inter-island crossings. In Auckland, Auckland Transport (operated by Fullers360) runs 10 urban ferry routes from the Downtown Ferry Terminal right outside Waitematā (Britomart) rail station across Waitematā Harbour and the Hauraki Gulf to Devonport, Half Moon Bay, Hobsonville Point and Waiheke Island using the integrated AT HOP smartcard. Further south, KiwiRail's Interislander and StraitNZ Bluebridge ro-pax vessels link Wellington (North Island) and Picton (South Island, connecting with the Coastal Pacific train) across Cook Strait and the Marlborough Sounds.",
+    "lat": -36.8422,
+    "lon": 174.7669,
+    "zoom_inicial": 5.5,
+    "fontes": [
+      "at-fullers360-kiwirail-interislander-nz",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "auckland",
+      "devonport",
+      "ilha waiheke",
+      "golfo de hauraki",
+      "fullers360",
+      "estreito de cook",
+      "interislander",
+      "bluebridge",
+      "wellington",
+      "picton",
+      "nova zelândia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Interislander_Kaitaki_in_Queen_Charlotte_Sound.jpg/800px-Interislander_Kaitaki_in_Queen_Charlotte_Sound.jpg",
+      "credito": "Wikimedia Commons — Ferry Interislander nos Marlborough Sounds / Estreito de Cook e ferries urbanos de Auckland (Nova Zelândia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_New_Zealand"
+    },
+    "linhas": [
+      {
+        "id": "linha-auckland-ferry-downtown-devonport-waiheke",
+        "nome": "Auckland Harbour & Hauraki Gulf Ferries (Downtown Britomart – Devonport – Ilha Waiheke)",
+        "status": "operacao",
+        "extensao_km": 55.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-cook-strait-interislander-wellington-picton",
+        "nome": "Ferry Inter-Ilhas Estreito de Cook (Wellington – Marlborough Sounds – Picton)",
+        "status": "operacao",
+        "extensao_km": 120.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
