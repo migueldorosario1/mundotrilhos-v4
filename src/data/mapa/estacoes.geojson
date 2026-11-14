@@ -27283,6 +27283,226 @@
           49.9175
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "long-island-rail-road-lirr-penn-station-grand-central-madison-jamaica-babylon-montauk-long-island-nova-york",
+        "nome": "Estação Central de Jamaica (Hub de 10 Trilhos da MTA Long Island Rail Road LIRR & AirTrain JFK — Queens, Long Island, Nova York)",
+        "linha": "Rede MTA Long Island Rail Road LIRR (Penn Station / Grand Central Madison – Jamaica Hub – Hicksville – Ronkonkoma – Babylon – Montauk + AirTrain JFK)",
+        "status": "operacao",
+        "integracoes": [
+          "AirTrain JFK Airport",
+          "NYC Subway Linhas E, J e Z (Sutphin Blvd)"
+        ],
+        "sistema_nome_pt": "Long Island Rail Road — MTA LIRR (Penn Station / Grand Central Madison / Atlantic Terminal – Hub de Jamaica – Ronkonkoma – Babylon – Port Jefferson – Montauk + AirTrain JFK, Long Island, Nova York, EUA)",
+        "sistema_nome_en": "Long Island Rail Road — MTA LIRR (Penn Station / Grand Central Madison / Atlantic Terminal – Jamaica Hub – Ronkonkoma – Babylon – Port Jefferson – Montauk + AirTrain JFK, Long Island, New York, USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8075,
+          40.7001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "long-island-rail-road-lirr-penn-station-grand-central-madison-jamaica-babylon-montauk-long-island-nova-york",
+        "nome": "Estações de Hicksville, Ronkonkoma (MacArthur Airport) & Montauk Terminus (MTA Long Island Rail Road — Long Island, Nova York)",
+        "linha": "Rede MTA Long Island Rail Road LIRR (Penn Station / Grand Central Madison – Jamaica Hub – Hicksville – Ronkonkoma – Babylon – Montauk + AirTrain JFK)",
+        "status": "operacao",
+        "integracoes": [
+          "Long Island MacArthur Airport",
+          "NICE Bus & Suffolk County Transit"
+        ],
+        "sistema_nome_pt": "Long Island Rail Road — MTA LIRR (Penn Station / Grand Central Madison / Atlantic Terminal – Hub de Jamaica – Ronkonkoma – Babylon – Port Jefferson – Montauk + AirTrain JFK, Long Island, Nova York, EUA)",
+        "sistema_nome_en": "Long Island Rail Road — MTA LIRR (Penn Station / Grand Central Madison / Atlantic Terminal – Jamaica Hub – Ronkonkoma – Babylon – Port Jefferson – Montauk + AirTrain JFK, Long Island, New York, USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1165,
+          40.8075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "new-york-and-atlantic-railway-nya-fresh-pond-pine-aire-bay-ridge-brooklyn-queens-long-island-nova-york",
+        "nome": "Pátio Ferroviário de Fresh Pond Junction (Glendale, Queens) & Terminal Carfloat de 65th Street em Bay Ridge (Brooklyn — NYA, Long Island)",
+        "linha": "Corredor de Carga New York & Atlantic Railway (Terminal Carfloat 65th St Bay Ridge Brooklyn – Fresh Pond Junction Queens – Pine Aire / Brentwood)",
+        "status": "operacao",
+        "integracoes": [
+          "CSX / P&W Hell Gate Line",
+          "New York New Jersey Rail Carfloat Barge"
+        ],
+        "sistema_nome_pt": "New York & Atlantic Railway — NYA (Pátio de Fresh Pond Junction no Queens – Bay Ridge / Ferry Ferroviário do Brooklyn – Hicksville – Pine Aire – Riverhead, Long Island, Nova York, EUA)",
+        "sistema_nome_en": "New York & Atlantic Railway — NYA (Fresh Pond Junction Yard in Queens – Bay Ridge Carfloat in Brooklyn – Hicksville – Pine Aire – Riverhead, Long Island, New York, USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8965,
+          40.7085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "staten-island-railway-sir-st-george-ferry-terminal-great-kills-tottenville-arthur-kill-staten-island-nova-york",
+        "nome": "Estação Terminal de St. George (Staten Island Ferry & MTA Staten Island Railway SIR — Staten Island, Nova York)",
+        "linha": "Linha MTA Staten Island Railway SIR (St. George Ferry Terminal – Great Kills – Arthur Kill – Tottenville) e Ramal Howland Hook",
+        "status": "operacao",
+        "integracoes": [
+          "Staten Island Ferry para Whitehall Terminal (Manhattan)",
+          "NYC Express & Local Buses"
+        ],
+        "sistema_nome_pt": "Staten Island Railway — MTA SIR (Terminal de Barcas de St. George – Great Kills – Arthur Kill – Tottenville) e Ramal de Carga Arthur Kill Lift Bridge / Howland Hook (Staten Island, Nova York, EUA)",
+        "sistema_nome_en": "Staten Island Railway — MTA SIR (St. George Ferry Terminal – Great Kills – Arthur Kill – Tottenville) & Arthur Kill Lift Bridge / Howland Hook Freight Branch (Staten Island, New York, USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0736,
+          40.6437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "staten-island-railway-sir-st-george-ferry-terminal-great-kills-tottenville-arthur-kill-staten-island-nova-york",
+        "nome": "Estação Terminal de Tottenville & Arthur Kill (Extremo Sul da MTA Staten Island Railway — Staten Island, Nova York)",
+        "linha": "Linha MTA Staten Island Railway SIR (St. George Ferry Terminal – Great Kills – Arthur Kill – Tottenville) e Ramal Howland Hook",
+        "status": "operacao",
+        "integracoes": [
+          "Arthur Kill Station Park & Ride",
+          "Perth Amboy Ferry Slip Histórico"
+        ],
+        "sistema_nome_pt": "Staten Island Railway — MTA SIR (Terminal de Barcas de St. George – Great Kills – Arthur Kill – Tottenville) e Ramal de Carga Arthur Kill Lift Bridge / Howland Hook (Staten Island, Nova York, EUA)",
+        "sistema_nome_en": "Staten Island Railway — MTA SIR (St. George Ferry Terminal – Great Kills – Arthur Kill – Tottenville) & Arthur Kill Lift Bridge / Howland Hook Freight Branch (Staten Island, New York, USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2515,
+          40.5125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-montreal-stm-sobre-pneus-rem-reseau-express-metropolitain-exo-ilha-de-montreal-e-laval-canada",
+        "nome": "Estações de Berri-UQAM & Gare Centrale / Bonaventure (Metrô de Montreal STM sobre Pneus, Metrô Leve Automatizado REM e Exo — Ilha de Montreal)",
+        "linha": "Metrô de Montreal STM (Linhas Verde, Laranja até Montmorency / Laval, Amarela e Azul) e REM Automatizado (Gare Centrale – Brossard)",
+        "status": "operacao",
+        "integracoes": [
+          "REM Réseau Express Métropolitain",
+          "VIA Rail & Amtrak Adirondack (Gare Centrale)"
+        ],
+        "sistema_nome_pt": "Metrô de Montreal STM sobre Pneus (Linhas 1 Verde, 2 Laranja até Laval, 4 Amarela e 5 Azul), Metrô Leve Automatizado REM (Gare Centrale – Brossard) e Trens Suburbanos Exo (Ilha de Montreal e Île Jésus / Laval, Quebec, Canadá)",
+        "sistema_nome_en": "Montreal Rubber-Tired Metro STM (Green, Orange to Laval, Yellow & Blue Lines), Automated REM Light Metro (Gare Centrale – Brossard) & Exo Commuter Rail (Island of Montreal & Île Jésus / Laval, Quebec, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5673,
+          45.5017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-montreal-stm-sobre-pneus-rem-reseau-express-metropolitain-exo-ilha-de-montreal-e-laval-canada",
+        "nome": "Estação Terminal de Montmorency & De la Concorde (Linha 2 Laranja do Metrô STM e Exo Saint-Jérôme — Île Jésus / Laval, Quebec)",
+        "linha": "Metrô de Montreal STM (Linhas Verde, Laranja até Montmorency / Laval, Amarela e Azul) e REM Automatizado (Gare Centrale – Brossard)",
+        "status": "operacao",
+        "integracoes": [
+          "Société de transport de Laval (STL)",
+          "Exo Linha 12 Saint-Jérôme"
+        ],
+        "sistema_nome_pt": "Metrô de Montreal STM sobre Pneus (Linhas 1 Verde, 2 Laranja até Laval, 4 Amarela e 5 Azul), Metrô Leve Automatizado REM (Gare Centrale – Brossard) e Trens Suburbanos Exo (Ilha de Montreal e Île Jésus / Laval, Quebec, Canadá)",
+        "sistema_nome_en": "Montreal Rubber-Tired Metro STM (Green, Orange to Laval, Yellow & Blue Lines), Automated REM Light Metro (Gare Centrale – Brossard) & Exo Commuter Rail (Island of Montreal & Île Jésus / Laval, Quebec, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7195,
+          45.5585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cape-breton-and-central-nova-scotia-railway-canso-causeway-port-hawkesbury-sydney-louisbourg-ilha-cape-breton-canada",
+        "nome": "Estação e Museu Ferroviário de Sydney & Louisbourg e Pátio de North Sydney (Ilha Cape Breton — Nova Escócia, Canadá)",
+        "linha": "Corredor Cape Breton & Central Nova Scotia Railway (Canso Causeway – Port Hawkesbury – Orangedale – Grand Narrows – Sydney – Louisbourg)",
+        "status": "operacao",
+        "integracoes": [
+          "Marine Atlantic Ferry para Terra Nova",
+          "Sydney & Louisbourg Railway Museum"
+        ],
+        "sistema_nome_pt": "Cape Breton & Central Nova Scotia Railway — CBNS (Dique de Canso – Port Hawkesbury – Orangedale – Ponte de Grand Narrows – North Sydney – Sydney) e Museu Ferroviário de Sydney & Louisbourg (Ilha Cape Breton, Nova Escócia, Canadá)",
+        "sistema_nome_en": "Cape Breton & Central Nova Scotia Railway — CBNS (Canso Causeway – Port Hawkesbury – Orangedale – Grand Narrows Bridge – North Sydney – Sydney) & Sydney & Louisbourg Railway Museum (Cape Breton Island, Nova Scotia, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1942,
+          46.1368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cape-breton-and-central-nova-scotia-railway-canso-causeway-port-hawkesbury-sydney-louisbourg-ilha-cape-breton-canada",
+        "nome": "Estação Vitoriana de Orangedale (1886) & Ponte Giratória de Grand Narrows (Lago Bras d'Or — Ilha Cape Breton, Canadá)",
+        "linha": "Corredor Cape Breton & Central Nova Scotia Railway (Canso Causeway – Port Hawkesbury – Orangedale – Grand Narrows – Sydney – Louisbourg)",
+        "status": "operacao",
+        "integracoes": [
+          "Orangedale Railway Station Museum",
+          "Reserva da Biosfera UNESCO de Bras d'Or Lake"
+        ],
+        "sistema_nome_pt": "Cape Breton & Central Nova Scotia Railway — CBNS (Dique de Canso – Port Hawkesbury – Orangedale – Ponte de Grand Narrows – North Sydney – Sydney) e Museu Ferroviário de Sydney & Louisbourg (Ilha Cape Breton, Nova Escócia, Canadá)",
+        "sistema_nome_en": "Cape Breton & Central Nova Scotia Railway — CBNS (Canso Causeway – Port Hawkesbury – Orangedale – Grand Narrows Bridge – North Sydney – Sydney) & Sydney & Louisbourg Railway Museum (Cape Breton Island, Nova Scotia, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0785,
+          45.9015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "galveston-island-trolley-strand-seawall-galveston-railroad-museum-santa-fe-union-depot-ilha-de-galveston-texas",
+        "nome": "Estação Santa Fe Union Depot (Galveston Railroad Museum) & Terminal do Galveston Island Trolley em The Strand (Ilha de Galveston, Texas — Estação Nº 1.290 do Atlas!)",
+        "linha": "Galveston Island Trolley (The Strand Historic District – Santa Fe Union Depot Museum – Moody Mansion – Seawall Blvd, Ilha de Galveston, Texas)",
+        "status": "operacao",
+        "integracoes": [
+          "Galveston Railroad Museum (Santa Fe Depot 1932)",
+          "Porto de Cruzeiros de Galveston"
+        ],
+        "sistema_nome_pt": "Bonde Histórico de Galveston — Galveston Island Trolley (The Strand Historic District – Seawall Boulevard – Moody Mansion), Museu Ferroviário de Galveston (Santa Fe Union Depot) e Ferrovia Portuária GVSR (Ilha de Galveston e Padre Island, Texas, EUA)",
+        "sistema_nome_en": "Galveston Island Trolley (The Strand Historic District – Seawall Boulevard – Moody Mansion), Galveston Railroad Museum (Santa Fe Union Depot) & Galveston Railroad GVSR (Galveston & Padre Islands, Texas, USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7955,
+          29.3065
+        ]
+      }
     }
   ]
 }

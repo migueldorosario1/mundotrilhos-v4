@@ -33605,6 +33605,234 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "long-island-rail-road-lirr-penn-station-grand-central-madison-jamaica-babylon-montauk-long-island-nova-york",
+        "linha": "Rede MTA Long Island Rail Road LIRR (Penn Station / Grand Central Madison – Jamaica Hub – Hicksville – Ronkonkoma – Babylon – Montauk + AirTrain JFK)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Long Island Rail Road — MTA LIRR (Penn Station / Grand Central Madison / Atlantic Terminal – Hub de Jamaica – Ronkonkoma – Babylon – Port Jefferson – Montauk + AirTrain JFK, Long Island, Nova York, EUA)",
+        "sistema_nome_en": "Long Island Rail Road — MTA LIRR (Penn Station / Grand Central Madison / Atlantic Terminal – Jamaica Hub – Ronkonkoma – Babylon – Port Jefferson – Montauk + AirTrain JFK, Long Island, New York, USA)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9935,
+            40.7501
+          ],
+          [
+            -73.8075,
+            40.7001
+          ],
+          [
+            -73.5255,
+            40.7675
+          ],
+          [
+            -73.1165,
+            40.8075
+          ],
+          [
+            -72.6515,
+            40.9185
+          ],
+          [
+            -71.9535,
+            41.0465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "new-york-and-atlantic-railway-nya-fresh-pond-pine-aire-bay-ridge-brooklyn-queens-long-island-nova-york",
+        "linha": "Corredor de Carga New York & Atlantic Railway (Terminal Carfloat 65th St Bay Ridge Brooklyn – Fresh Pond Junction Queens – Pine Aire / Brentwood)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "New York & Atlantic Railway — NYA (Pátio de Fresh Pond Junction no Queens – Bay Ridge / Ferry Ferroviário do Brooklyn – Hicksville – Pine Aire – Riverhead, Long Island, Nova York, EUA)",
+        "sistema_nome_en": "New York & Atlantic Railway — NYA (Fresh Pond Junction Yard in Queens – Bay Ridge Carfloat in Brooklyn – Hicksville – Pine Aire – Riverhead, Long Island, New York, USA)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0325,
+            40.6425
+          ],
+          [
+            -73.8965,
+            40.7085
+          ],
+          [
+            -73.5255,
+            40.7675
+          ],
+          [
+            -73.2685,
+            40.7795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "staten-island-railway-sir-st-george-ferry-terminal-great-kills-tottenville-arthur-kill-staten-island-nova-york",
+        "linha": "Linha MTA Staten Island Railway SIR (St. George Ferry Terminal – Great Kills – Arthur Kill – Tottenville) e Ramal Howland Hook",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Staten Island Railway — MTA SIR (Terminal de Barcas de St. George – Great Kills – Arthur Kill – Tottenville) e Ramal de Carga Arthur Kill Lift Bridge / Howland Hook (Staten Island, Nova York, EUA)",
+        "sistema_nome_en": "Staten Island Railway — MTA SIR (St. George Ferry Terminal – Great Kills – Arthur Kill – Tottenville) & Arthur Kill Lift Bridge / Howland Hook Freight Branch (Staten Island, New York, USA)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0736,
+            40.6437
+          ],
+          [
+            -74.0855,
+            40.5965
+          ],
+          [
+            -74.1515,
+            40.5515
+          ],
+          [
+            -74.2415,
+            40.5165
+          ],
+          [
+            -74.2515,
+            40.5125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-montreal-stm-sobre-pneus-rem-reseau-express-metropolitain-exo-ilha-de-montreal-e-laval-canada",
+        "linha": "Metrô de Montreal STM (Linhas Verde, Laranja até Montmorency / Laval, Amarela e Azul) e REM Automatizado (Gare Centrale – Brossard)",
+        "cor": "#00b0ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Metrô de Montreal STM sobre Pneus (Linhas 1 Verde, 2 Laranja até Laval, 4 Amarela e 5 Azul), Metrô Leve Automatizado REM (Gare Centrale – Brossard) e Trens Suburbanos Exo (Ilha de Montreal e Île Jésus / Laval, Quebec, Canadá)",
+        "sistema_nome_en": "Montreal Rubber-Tired Metro STM (Green, Orange to Laval, Yellow & Blue Lines), Automated REM Light Metro (Gare Centrale – Brossard) & Exo Commuter Rail (Island of Montreal & Île Jésus / Laval, Quebec, Canada)",
+        "tipo": "metro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.7195,
+            45.5585
+          ],
+          [
+            -73.6195,
+            45.5355
+          ],
+          [
+            -73.5673,
+            45.5017
+          ],
+          [
+            -73.5325,
+            45.5125
+          ],
+          [
+            -73.4425,
+            45.4485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cape-breton-and-central-nova-scotia-railway-canso-causeway-port-hawkesbury-sydney-louisbourg-ilha-cape-breton-canada",
+        "linha": "Corredor Cape Breton & Central Nova Scotia Railway (Canso Causeway – Port Hawkesbury – Orangedale – Grand Narrows – Sydney – Louisbourg)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Cape Breton & Central Nova Scotia Railway — CBNS (Dique de Canso – Port Hawkesbury – Orangedale – Ponte de Grand Narrows – North Sydney – Sydney) e Museu Ferroviário de Sydney & Louisbourg (Ilha Cape Breton, Nova Escócia, Canadá)",
+        "sistema_nome_en": "Cape Breton & Central Nova Scotia Railway — CBNS (Canso Causeway – Port Hawkesbury – Orangedale – Grand Narrows Bridge – North Sydney – Sydney) & Sydney & Louisbourg Railway Museum (Cape Breton Island, Nova Scotia, Canada)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.3625,
+            45.6165
+          ],
+          [
+            -61.0785,
+            45.9015
+          ],
+          [
+            -60.7935,
+            45.9565
+          ],
+          [
+            -60.2515,
+            46.2085
+          ],
+          [
+            -60.1942,
+            46.1368
+          ],
+          [
+            -59.9625,
+            45.9215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "galveston-island-trolley-strand-seawall-galveston-railroad-museum-santa-fe-union-depot-ilha-de-galveston-texas",
+        "linha": "Galveston Island Trolley (The Strand Historic District – Santa Fe Union Depot Museum – Moody Mansion – Seawall Blvd, Ilha de Galveston, Texas)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Bonde Histórico de Galveston — Galveston Island Trolley (The Strand Historic District – Seawall Boulevard – Moody Mansion), Museu Ferroviário de Galveston (Santa Fe Union Depot) e Ferrovia Portuária GVSR (Ilha de Galveston e Padre Island, Texas, EUA)",
+        "sistema_nome_en": "Galveston Island Trolley (The Strand Historic District – Seawall Boulevard – Moody Mansion), Galveston Railroad Museum (Santa Fe Union Depot) & Galveston Railroad GVSR (Galveston & Padre Islands, Texas, USA)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -94.7955,
+            29.3065
+          ],
+          [
+            -94.7895,
+            29.3075
+          ],
+          [
+            -94.7945,
+            29.2985
+          ],
+          [
+            -94.7885,
+            29.2865
+          ]
+        ]
+      }
     }
   ]
 }
