@@ -33833,6 +33833,222 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "funicular-de-capri-funicolare-marina-grande-piazzetta-trilhos-portuarios-ischia-procida-italia",
+        "linha": "Funicolare di Capri (Marina Grande – Piazzetta Umberto I) & Vias Portuárias de Ischia Porto e Procida",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Funicular de Capri — Funicolare di Capri (Marina Grande – Piazzetta Umberto I) e Vias Férreas Portuárias e Termais de Ischia e Procida",
+        "sistema_nome_en": "Capri Funicular Railway — Funicolare di Capri (Marina Grande – Piazzetta Umberto I) & Ischia and Procida Port/Thermal Rail Tracks",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2403,
+            40.5555
+          ],
+          [
+            14.2415,
+            40.5532
+          ],
+          [
+            14.2426,
+            40.5507
+          ],
+          [
+            13.9272,
+            40.7432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-salineiras-ses-salines-de-ibiza-la-canal-e-estany-pudent-la-savina-formentera-ilhas-pitiusas-espanha",
+        "linha": "Ferrovias Salineiras de Ses Salines d'Eivissa (Es Cavallet – La Canal) e Formentera (Estany Pudent – La Savina)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Salineiras de Ses Salines d'Eivissa i Formentera (UNESCO): Comboios de Sal de Ibiza (Es Cavallet – La Canal) e Formentera (Estany Pudent – La Savina)",
+        "sistema_nome_en": "Ses Salines d'Eivissa i Formentera Salt Railways (UNESCO): Ibiza (Es Cavallet – La Canal) & Formentera (Estany Pudent – La Savina) Salt Trains",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.3985,
+            38.856
+          ],
+          [
+            1.3945,
+            38.8435
+          ],
+          [
+            1.3878,
+            38.8368
+          ],
+          [
+            1.4342,
+            38.7285
+          ],
+          [
+            1.4172,
+            38.7335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "isle-of-mull-railway-craignure-torosay-castle-trilhos-portuarios-brodick-ilha-de-arran-escocia",
+        "linha": "Isle of Mull Railway (Craignure – Torosay Castle) e Trilhos Portuários e de Barita de Brodick / Glen Sannox (Ilha de Arran)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Ferroviário Insular da Ilha de Mull (Craignure Pier – Torosay Castle) e Trilhos Portuários e Mineradores de Brodick, Corrie e Glen Sannox na Ilha de Arran",
+        "sistema_nome_en": "Isle of Mull Railway Corridor (Craignure Pier – Torosay Castle) & Isle of Arran Port and Barytes Mine Railways (Brodick, Corrie & Glen Sannox)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.7082,
+            56.4712
+          ],
+          [
+            -5.6995,
+            56.4628
+          ],
+          [
+            -5.6892,
+            56.4548
+          ],
+          [
+            -5.1385,
+            55.5768
+          ],
+          [
+            -5.1542,
+            55.6645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-mineradoras-diatomita-lealt-valley-loch-cuithir-marmore-strath-suardal-kyleakin-ilha-de-skye-escocia",
+        "linha": "Lealt Valley Diatomite Railway (Loch Cuithir – Invertote), Ferrovia de Mármore de Broadford e Vias Portuárias de Kyleakin (Ilha de Skye)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Mineradoras da Ilha de Skye: Ferrovia de Diatomita de Lealt Valley (Loch Cuithir – Invertote), Mármore de Strath Suardal – Broadford e Vias de Kyleakin",
+        "sistema_nome_en": "Isle of Skye Mining Railways: Lealt Valley Diatomite Railway (Loch Cuithir – Invertote), Strath Suardal – Broadford Marble Railway & Kyleakin Port Tracks",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.2315,
+            57.5685
+          ],
+          [
+            -6.1612,
+            57.5582
+          ],
+          [
+            -5.9085,
+            57.2415
+          ],
+          [
+            -5.7312,
+            57.2725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "achill-island-railway-sound-station-valentia-slate-quarry-railway-knightstown-inishmore-ilhas-de-aran-irlanda",
+        "linha": "Achill Island Railway (Achill Sound – Keel), Valentia Slate Quarry Railway (Knightstown) e Vias de Kilronan em Inishmore (Ilhas de Aran)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Ferroviário de Achill Island (Achill Sound – Dooagh), Ferrovia da Pedreira de Ardósia de Valentia Island (Knightstown) e Vias Portuárias de Inishmore (Ilhas de Aran)",
+        "sistema_nome_en": "Achill Island Railway Corridor (Achill Sound – Dooagh), Valentia Island Slate Quarry Railway (Knightstown) & Inishmore Port Tracks (Aran Islands)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.9195,
+            53.9288
+          ],
+          [
+            -10.0725,
+            53.9745
+          ],
+          [
+            -9.6652,
+            53.1185
+          ],
+          [
+            -10.3285,
+            51.9242
+          ],
+          [
+            -10.2855,
+            51.9238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-salineiros-portuarios-lherbaudiere-noirmoutier-en-lile-passage-du-gois-port-joinville-ile-dyeu-franca",
+        "linha": "Trilhos Salineiros de Mullembourg / L'Herbaudière (Ilha de Noirmoutier), Passagem du Gois e Estaleiros Navais de Port-Joinville (Île d'Yeu)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Salineiras e Portuárias de Noirmoutier-en-l'Île (Salinas de Mullembourg, L'Herbaudière e Fromentine / Passage du Gois) e Estaleiros de Port-Joinville na Île d'Yeu",
+        "sistema_nome_en": "Noirmoutier-en-l'Île Salt & Port Railways (Mullembourg Salt Pans, L'Herbaudière & Fromentine / Passage du Gois) and Port-Joinville Shipyards on Île d'Yeu",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2995,
+            47.0225
+          ],
+          [
+            -2.2442,
+            47.0018
+          ],
+          [
+            -2.1425,
+            46.9255
+          ],
+          [
+            -2.3485,
+            46.7252
+          ]
+        ]
+      }
     }
   ]
 }
