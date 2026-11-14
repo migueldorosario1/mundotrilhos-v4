@@ -26403,6 +26403,226 @@
           55.3485
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-austral-fueguino-trem-do-fim-do-mundo-ushuaia-parque-nacional-terra-do-fogo",
+        "nome": "Estação Fim do Mundo / Estación del Fin del Mundo (Ferrocarril Austral Fueguino — Ushuaia, Terra do Fogo — Estação Mais ao Sul da Terra!)",
+        "linha": "Ferrocarril Austral Fueguino — Trem do Fim do Mundo (Ushuaia – Cascata La Macarena – Parque Nacional Tierra del Fuego — Bitola 500 mm)",
+        "status": "operacao",
+        "integracoes": [
+          "Oficinas Ferroviárias Beyer-Garratt Ushuaia",
+          "Vale do Rio Pipo"
+        ],
+        "sistema_nome_pt": "Trem do Fim do Mundo — Ferrocarril Austral Fueguino (Estação Fim do Mundo – Cascata La Macarena – Parque Nacional Tierra del Fuego, Ushuaia — A Ferrovia Mais Austral do Planeta)",
+        "sistema_nome_en": "End of the World Train — Ferrocarril Austral Fueguino (Fin del Mundo Station – La Macarena Waterfall – Tierra del Fuego National Park, Ushuaia — World's Southernmost Operational Railway)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4235,
+          -54.8325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-austral-fueguino-trem-do-fim-do-mundo-ushuaia-parque-nacional-terra-do-fogo",
+        "nome": "Estação Parque Nacional Tierra del Fuego & Cascata La Macarena (Vale do Rio Pipo — Ushuaia, Terra do Fogo)",
+        "linha": "Ferrocarril Austral Fueguino — Trem do Fim do Mundo (Ushuaia – Cascata La Macarena – Parque Nacional Tierra del Fuego — Bitola 500 mm)",
+        "status": "operacao",
+        "integracoes": [
+          "Parque Nacional Tierra del Fuego",
+          "Ruta Nacional 3 Fim do Mundo"
+        ],
+        "sistema_nome_pt": "Trem do Fim do Mundo — Ferrocarril Austral Fueguino (Estação Fim do Mundo – Cascata La Macarena – Parque Nacional Tierra del Fuego, Ushuaia — A Ferrovia Mais Austral do Planeta)",
+        "sistema_nome_en": "End of the World Train — Ferrocarril Austral Fueguino (Fin del Mundo Station – La Macarena Waterfall – Tierra del Fuego National Park, Ushuaia — World's Southernmost Operational Railway)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4775,
+          -54.8435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "west-coast-wilderness-railway-queenstown-strahan-ida-bay-don-river-tasmania",
+        "nome": "Estação Queenstown & Desfiladeiro de Dubbil Barril (West Coast Wilderness Railway Cremalheira Abt — Tasmânia, Austrália)",
+        "linha": "West Coast Wilderness Railway (Cremalheira Abt Queenstown – Dubbil Barril – Regatta Point Strahan) e Ida Bay / Don River (Tasmânia)",
+        "status": "operacao",
+        "integracoes": [
+          "Oficinas Históricas Mount Lyell Queenstown",
+          "Virador Manual de Dubbil Barril"
+        ],
+        "sistema_nome_pt": "West Coast Wilderness Railway (Cremalheira Abt Queenstown – Dubbil Barril – Strahan), Don River Railway (Devonport) e Ida Bay Railway (Tasmânia, Austrália)",
+        "sistema_nome_en": "West Coast Wilderness Railway (Abt Rack Railway Queenstown – Dubbil Barril – Strahan), Don River Railway (Devonport) & Ida Bay Railway (Tasmania, Australia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5535,
+          -42.0835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "west-coast-wilderness-railway-queenstown-strahan-ida-bay-don-river-tasmania",
+        "nome": "Estação Regatta Point Strahan & Ida Bay Railway (Porto de Macquarie Harbour — Tasmânia, Austrália)",
+        "linha": "West Coast Wilderness Railway (Cremalheira Abt Queenstown – Dubbil Barril – Regatta Point Strahan) e Ida Bay / Don River (Tasmânia)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Strahan / Macquarie Harbour",
+          "Gordon River Cruises"
+        ],
+        "sistema_nome_pt": "West Coast Wilderness Railway (Cremalheira Abt Queenstown – Dubbil Barril – Strahan), Don River Railway (Devonport) e Ida Bay Railway (Tasmânia, Austrália)",
+        "sistema_nome_en": "West Coast Wilderness Railway (Abt Rack Railway Queenstown – Dubbil Barril – Strahan), Don River Railway (Devonport) & Ida Bay Railway (Tasmania, Australia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3355,
+          -42.1565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rede-ferroviaria-estadual-carga-tasrail-hobart-brighton-launceston-bell-bay-burnie-tasmania",
+        "nome": "Terminal Intermodal de Brighton / Hobart & Pátio East Tamar de Launceston (TasRail — Tasmânia, Austrália)",
+        "linha": "Malha Tronco TasRail (Brighton Hub / Hobart – East Tamar Launceston – Bell Bay – Devonport – Burnie)",
+        "status": "operacao",
+        "integracoes": [
+          "Brighton Transport Hub Hobart",
+          "Porto de Bell Bay"
+        ],
+        "sistema_nome_pt": "Rede Ferroviária Estadual de Cargas da Tasmânia — TasRail (Brighton Hub / Hobart – Launceston – Porto de Bell Bay – Devonport – Burnie – Rosebery, Tasmânia)",
+        "sistema_nome_en": "Tasmanian Freight Rail Network — TasRail (Brighton Hub / Hobart – Launceston – Bell Bay Port – Devonport – Burnie – Rosebery, Tasmania)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1441,
+          -41.4332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rede-ferroviaria-estadual-carga-tasrail-hobart-brighton-launceston-bell-bay-burnie-tasmania",
+        "nome": "Terminal Portuário e Mineral de Burnie & Cimento de Railton/Devonport (TasRail Melba & Western Line — Tasmânia, Austrália)",
+        "linha": "Malha Tronco TasRail (Brighton Hub / Hobart – East Tamar Launceston – Bell Bay – Devonport – Burnie)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Burnie",
+          "Porto de Devonport / Spirit of Tasmania"
+        ],
+        "sistema_nome_pt": "Rede Ferroviária Estadual de Cargas da Tasmânia — TasRail (Brighton Hub / Hobart – Launceston – Porto de Bell Bay – Devonport – Burnie – Rosebery, Tasmânia)",
+        "sistema_nome_en": "Tasmanian Freight Rail Network — TasRail (Brighton Hub / Hobart – Launceston – Bell Bay Port – Devonport – Burnie – Rosebery, Tasmania)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9065,
+          -41.0525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "oliver-hill-railway-settlement-kingstown-rottnest-island-phillip-island-australia",
+        "nome": "Estação Settlement (Thomson Bay) e Bateria Subterrânea de Oliver Hill (Oliver Hill Railway — Ilha Rottnest, Austrália)",
+        "linha": "Oliver Hill Railway (Settlement / Thomson Bay – Kingstown Barracks – Bateria de Oliver Hill — Ilha Rottnest)",
+        "status": "operacao",
+        "integracoes": [
+          "Rottnest Island Ferry Jetty",
+          "Oliver Hill 9.2-inch Gun Tunnels"
+        ],
+        "sistema_nome_pt": "Oliver Hill Railway — 'Captain Hussey Train' (Settlement – Kingstown Barracks – Bateria de Oliver Hill, Ilha Rottnest, Austrália Ocidental) e Trilhos Insulares da Ilha Phillip",
+        "sistema_nome_en": "Oliver Hill Railway — 'Captain Hussey Train' (Settlement – Kingstown Barracks – Oliver Hill Battery, Rottnest Island, Western Australia) & Phillip Island Tracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5315,
+          -32.0065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-bateria-stony-batter-waiheke-ferrovias-florestais-maori-beach-halfmoon-bay-ilha-stewart-rakiura",
+        "nome": "Sítio Ferroviário Florestal de Maori Beach / Oban (Ilha Stewart / Rakiura) e Túneis de Stony Batter (Ilha Waiheke, Nova Zelândia)",
+        "linha": "Vias Florestais Patrimoniais de Oban – Maori Beach (Ilha Stewart / Rakiura) e Stony Batter (Ilha Waiheke)",
+        "status": "operacao",
+        "integracoes": [
+          "Rakiura National Park Halfmoon Bay",
+          "Stony Batter Historic Reserve Waiheke"
+        ],
+        "sistema_nome_pt": "Trilhos Subterrâneos de Stony Batter (Ilha Waiheke — Golfo de Hauraki) e Ferrovias Florestais Patrimoniais de Maori Beach e Oban (Ilha Stewart / Rakiura, Nova Zelândia)",
+        "sistema_nome_en": "Stony Batter Underground Gun Emplacement Tramway (Waiheke Island — Hauraki Gulf) & Maori Beach Heritage Bush Tramways (Stewart Island / Rakiura, New Zealand)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.1285,
+          -46.8985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-de-chiloe-ancud-lechagua-butalcura-dalcahue-castro-ilha-grande-de-chiloe-chile",
+        "nome": "Estação e Praça Ferroviária de Castro (Locomotiva a Vapor Henschel Nº 5057 — Monumento Histórico Nacional na Ilha Grande de Chiloé, Chile)",
+        "linha": "Corredor Patrimonial Ferrocarril de Chiloé (Ancud / Lechagua – Puntra – Ponte de Butalcura – Castro — Linha Nº 802 do Banco!)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Castro",
+          "Igrejas Patrimônio Mundial UNESCO de Chiloé"
+        ],
+        "sistema_nome_pt": "Ferrocarril de Chiloé — 'El Tren Chilote' (Corredor Patrimonial Ancud – Lechagua – Puntra – Butalcura – Castro e Muelle de las Almas / Piruquina, Ilha Grande de Chiloé, Chile)",
+        "sistema_nome_en": "Chiloé Railway — 'El Tren Chilote' (Ancud – Lechagua – Puntra – Butalcura – Castro Heritage Corridor & Piruquina / Tantauco Timber Tramways, Chiloé Island, Chile)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7625,
+          -42.4805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-de-chiloe-ancud-lechagua-butalcura-dalcahue-castro-ilha-grande-de-chiloe-chile",
+        "nome": "Estação Costeira de Ancud / Lechagua & Ponte Ferroviária de Butalcura (Ferrocarril de Chiloé — Estação Nº 1.250 do Atlas!)",
+        "linha": "Corredor Patrimonial Ferrocarril de Chiloé (Ancud / Lechagua – Puntra – Ponte de Butalcura – Castro — Linha Nº 802 do Banco!)",
+        "status": "operacao",
+        "integracoes": [
+          "Canal de Chacao / Ancud",
+          "Ponte Histórica de Butalcura"
+        ],
+        "sistema_nome_pt": "Ferrocarril de Chiloé — 'El Tren Chilote' (Corredor Patrimonial Ancud – Lechagua – Puntra – Butalcura – Castro e Muelle de las Almas / Piruquina, Ilha Grande de Chiloé, Chile)",
+        "sistema_nome_en": "Chiloé Railway — 'El Tren Chilote' (Ancud – Lechagua – Puntra – Butalcura – Castro Heritage Corridor & Piruquina / Tantauco Timber Tramways, Chiloé Island, Chile)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8265,
+          -41.8685
+        ]
+      }
     }
   ]
 }
