@@ -31787,6 +31787,294 @@
           -21.6965
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-vaporetti-actv-ferrovia-san-marco-veneza",
+        "nome": "Terminais Vaporetti ACTV Ferrovia Santa Lucia, Rialto & San Marco (Veneza, Itália)",
+        "sistema_id": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+        "linha": "Rede Metropolitana de Vaporetti ACTV de Veneza",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3215,
+          45.441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-vaporetti-lido-di-venezia-santa-maria-elisabetta",
+        "nome": "Terminal Vaporetti Lido di Venezia — Santa Maria Elisabetta (Veneza, Itália)",
+        "sistema_id": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+        "linha": "Rede Metropolitana de Vaporetti ACTV de Veneza",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3695,
+          45.4175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-navigazione-lago-di-como-bellagio-italia",
+        "nome": "Píer Central de Bellagio & Navigazione Lago di Como (Lombardia, Itália)",
+        "sistema_id": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+        "linha": "Navigazione Laghi (Como, Garda e Maggiore)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2585,
+          45.9875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-molo-beverello-napoles-capri-ischia-italia",
+        "nome": "Terminal de Hidrofólios e Ferries Molo Beverello / Porta di Massa (Nápoles, Itália)",
+        "sistema_id": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+        "linha": "Aliscafi e Ferries do Golfo de Nápoles",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2565,
+          40.8375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-do-pireu-terminal-ferries-egeu-atenas-grecia",
+        "nome": "Porto do Pireu — Terminais E1–E12 de Ferries do Mar Egeu (Integração Metrô Linhas 1 e 3, Atenas, Grécia)",
+        "sistema_id": "rede-ferries-mar-egeu-pireu-ciclades-santorini-creta-rodes-grecia",
+        "linha": "Corredor Central do Mar Egeu",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6415,
+          37.9445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-athinios-santorini-ciclades-grecia",
+        "nome": "Porto de Athinios — Santorini / Thira (Cíclades, Grécia)",
+        "sistema_id": "rede-ferries-mar-egeu-pireu-ciclades-santorini-creta-rodes-grecia",
+        "linha": "Corredor Central do Mar Egeu",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4315,
+          36.3865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-heraklion-creta-ferries-egeu-grecia",
+        "nome": "Terminal Marítimo de Passageiros de Heraklion (Ilha de Creta, Grécia)",
+        "sistema_id": "rede-ferries-mar-egeu-pireu-ciclades-santorini-creta-rodes-grecia",
+        "linha": "Corredor Central do Mar Egeu",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1465,
+          35.3445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-barcas-eminonu-karakoy-sehir-hatlari-istambul",
+        "nome": "Terminais Históricos de Barcas de Eminönü & Karaköy (Lado Europeu / Şehir Hatları, Istambul)",
+        "sistema_id": "rede-barcas-sehir-hatlari-ido-bosforo-corno-de-ouro-istambul-turquia",
+        "linha": "Travessias Transcontinentais do Bósforo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9735,
+          41.0185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-barcas-kadikoy-uskudar-lado-asiatico-istambul",
+        "nome": "Terminais de Barcas de Kadıköy & Üsküdar (Lado Asiático / Şehir Hatları, Istambul)",
+        "sistema_id": "rede-barcas-sehir-hatlari-ido-bosforo-corno-de-ouro-istambul-turquia",
+        "linha": "Travessias Transcontinentais do Bósforo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0215,
+          40.9925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferries-rapidos-ido-yenikapi-istambul",
+        "nome": "Terminal de Catamarãs Rápidos İDO de Yenikapı (Mar de Mármara, Istambul)",
+        "sistema_id": "rede-barcas-sehir-hatlari-ido-bosforo-corno-de-ouro-istambul-turquia",
+        "linha": "Catamarãs Rápidos do Mar de Mármara (İDO)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9555,
+          41.0015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-fluvial-cais-do-sodre-terreiro-do-paco-lisboa",
+        "nome": "Terminais Fluviais do Cais do Sodré & Terreiro do Paço (Transtejo / Soflusa, Lisboa, Portugal)",
+        "sistema_id": "rede-fluvial-transtejo-soflusa-rio-tejo-lisboa-setubal-troia-portugal",
+        "linha": "Rede Fluvial Metropolitana do Rio Tejo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1445,
+          38.7055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-fluvial-cacilhas-almada-barreiro-margem-sul-tejo",
+        "nome": "Terminais Fluviais de Cacilhas (Almada) & Barreiro (Margem Sul do Tejo, Portugal)",
+        "sistema_id": "rede-fluvial-transtejo-soflusa-rio-tejo-lisboa-setubal-troia-portugal",
+        "linha": "Rede Fluvial Metropolitana do Rio Tejo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1475,
+          38.6885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-fluvial-setubal-troia-estuario-do-sado-portugal",
+        "nome": "Terminal Fluvial de Setúbal (Doca do Comércio / Cais 3) — Travessia Setúbal–Tróia (Portugal)",
+        "sistema_id": "rede-fluvial-transtejo-soflusa-rio-tejo-lisboa-setubal-troia-portugal",
+        "linha": "Travessia Fluvial do Estuário do Rio Sado",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8895,
+          38.5205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferries-balearia-port-de-barcelona-denia-espanha",
+        "nome": "Terminal de Fast-Ferries Baleària no Porto de Barcelona & Dénia (Mediterrâneo, Espanha)",
+        "sistema_id": "rede-ferries-balearia-mediterraneo-gibraltar-algeciras-cadiz-vigo-espanha",
+        "linha": "Corredor Mediterrâneo Baleària",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1765,
+          41.3685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-de-algeciras-tarifa-estreito-de-gibraltar-espanha",
+        "nome": "Porto de Algeciras & Tarifa — Travessias do Estreito de Gibraltar (Andaluzia, Espanha)",
+        "sistema_id": "rede-ferries-balearia-mediterraneo-gibraltar-algeciras-cadiz-vigo-espanha",
+        "linha": "Travessias do Estreito de Gibraltar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4415,
+          36.1285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-maritima-baia-de-cadiz-ria-de-vigo-espanha",
+        "nome": "Terminal Marítimo Metropolitano da Baía de Cádiz (Cádiz – El Puerto – Rota, Espanha)",
+        "sistema_id": "rede-ferries-balearia-mediterraneo-gibraltar-algeciras-cadiz-vigo-espanha",
+        "linha": "Catamarãs Metropolitanos da Baía de Cádiz",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2885,
+          36.5335
+        ]
+      }
     }
   ]
 }

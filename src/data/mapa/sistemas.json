@@ -24852,5 +24852,409 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+    "slug": "vaporetti-actv-veneza-lagos-como-garda-golfo-de-napoles-italia",
+    "nome_pt": "Vaporetti ACTV da Lagoa de Veneza, Navegação dos Lagos (Como, Garda e Maggiore) e Ferries do Golfo de Nápoles–Capri–Ischia (Itália)",
+    "nome_en": "ACTV Venice Lagoon Vaporetti, Italian Lakes Navigation (Como, Garda & Maggiore) & Bay of Naples–Capri–Ischia Ferries (Italy)",
+    "pais": "Itália",
+    "cidade": "Veneza, Como, Bellagio, Desenzano del Garda, Nápoles, Capri, Ischia e Sorrento",
+    "uf": "Veneto / Lombardia / Campania",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "ACTV / Gruppo AVM (Veneza), Gestione Governativa Navigazione Laghi (Lagos Como, Garda e Maggiore) & Caremar / SNAV / Alilauro (Golfo de Nápoles)",
+    "inauguracao": "1881 (Inauguração do primeiro Vaporetto Regina Margherita no Canal Grande de Veneza)",
+    "extensao_km": 255.0,
+    "bitola": "Canais Urbanos e Lagoa de Veneza, Lagos Pré-Alpinos (Como, Garda e Maggiore) e Golfo de Nápoles / Costa Amalfitana",
+    "eletrificacao": "Vaporetti urbanos híbridos diesel-elétricos e 100% elétricos (Veneza), aliscafi (hidrofólios de alta velocidade), catamarãs e ferries ro-pax",
+    "n_linhas": 3,
+    "n_estacoes": 4,
+    "passageiros_dia": 340000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 420 milhões (renovação da frota de Vaporetti híbridos/elétricos da ACTV em Veneza e novos barcos híbridos da Navigazione Laghi nos Lagos de Como e Garda)",
+      "moeda": "EUR",
+      "fonte_id": "actv-avm-venezia-navigazione-laghi"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão da frota de Vaporetti elétricos de emissão zero no Canal Grande de Veneza e novos hidrofólios híbridos no Golfo de Nápoles e Lago de Como.",
+      "en": "Expansion of zero-emission electric Vaporetti along Venice's Grand Canal and new hybrid hydrofoils in the Bay of Naples and Lake Como."
+    },
+    "resumo_pt": "A Itália possui três das mais célebres redes de transporte público aquaviário do mundo: em Veneza, os icônicos Vaporetti da ACTV operam como um verdadeiro metrô sobre as águas em mais de 25 linhas diurnas e noturnas pelo Canal Grande (Piazzale Roma / Estação Ferroviária Venezia Santa Lucia – Rialto – San Marco), Canal da Giudecca e ilhas da Lagoa (Lido di Venezia, Murano, Burano e Torcello); no norte alpino, a estatal Navigazione Laghi conecta dezenas de cidades ao redor dos lagos de Como (Como – Bellagio – Varenna), Garda (Desenzano – Sirmione – Riva del Garda) e Maggiore (Stresa – Ilhas Borromeu – Locarno); e no sul, a densa malha de aliscafi (hidrofólios) e ferries do Golfo de Nápoles interliga Molo Beverello e Porta di Massa a Capri, Ischia, Procida, Sorrento, Positano e Amalfi.",
+    "resumo_en": "Italy operates three world-renowned passenger water transport networks: in Venice, ACTV's iconic Vaporetti waterbuses serve over 25 urban and lagoon lines along the Grand Canal (Santa Lucia Rail Station – Rialto – San Marco) and to Lido, Murano and Burano; in northern Italy, Navigazione Laghi operates year-round ferries and hydrofoils across Lakes Como, Garda and Maggiore; and in southern Italy, high-speed hydrofoils (aliscafi) and ferries connect Naples (Molo Beverello) to Capri, Ischia, Procida, Sorrento and the Amalfi Coast.",
+    "lat": 45.4375,
+    "lon": 12.3325,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "actv-avm-venezia-navigazione-laghi",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "veneza",
+      "vaporetto",
+      "actv",
+      "canal grande",
+      "murano",
+      "burano",
+      "lago de como",
+      "lago de garda",
+      "nápoles",
+      "capri",
+      "ischia",
+      "itália",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vaporetto_in_Venice.jpg/800px-Vaporetto_in_Venice.jpg",
+      "credito": "Wikimedia Commons — Vaporetto da ACTV navegando no Canal Grande de Veneza (Itália)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Vaporetti_in_Venice"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-vaporetti-actv-canal-grande-lido-murano-burano-veneza",
+        "nome": "Rede Metropolitana de Vaporetti ACTV de Veneza (Linhas 1, 2, 4.1, 5.1 e 12): Piazzale Roma / Ferrovia Santa Lucia – Canal Grande (Rialto / San Marco) – Lido di Venezia – Murano – Burano (Itália)",
+        "status": "operacao",
+        "extensao_km": 42.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-navigazione-laghi-como-bellagio-gardone-stresa-italia",
+        "nome": "Navigazione Laghi (Lago de Como, Lago de Garda e Lago Maggiore): Como – Tremezzo – Bellagio – Varenna – Colico & Desenzano – Sirmione – Limone – Riva del Garda (Itália)",
+        "status": "operacao",
+        "extensao_km": 98.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-golfo-de-napoles-molo-beverello-capri-ischia-procida-sorrento-amalfi",
+        "nome": "Aliscafi e Ferries do Golfo de Nápoles e Costa Amalfitana: Nápoles (Molo Beverello / Porta di Massa) – Procida – Ischia – Capri – Sorrento – Positano – Amalfi – Salerno (Itália)",
+        "status": "operacao",
+        "extensao_km": 115.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "rede-ferries-mar-egeu-pireu-ciclades-santorini-creta-rodes-grecia",
+    "slug": "rede-ferries-mar-egeu-pireu-ciclades-santorini-creta-rodes-grecia",
+    "nome_pt": "Rede Hidroviária do Mar Egeu e Golfo Sarônico — Porto do Pireu, Egina, Hidra, Cíclades (Mykonos, Paros, Naxos, Santorini), Creta e Rodes (Grécia)",
+    "nome_en": "Aegean Sea & Saronic Gulf Ferry Network — Port of Piraeus, Aegina, Hydra, Cyclades (Mykonos, Paros, Naxos, Santorini), Crete & Rhodes (Greece)",
+    "pais": "Grécia",
+    "cidade": "Pireu (Atenas), Mykonos, Paros, Naxos, Santorini (Thira), Heraklion (Creta) e Rodes",
+    "uf": "Ática / Egeu Meridional / Creta",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Blue Star Ferries / Hellenic Seaways / Superfast (Attica Group), SeaJets, Minoan Lines & ANEK Lines",
+    "inauguracao": "1920 (Linhas modernas de navios de passageiros a partir do Porto do Pireu integradas à Estação do Metrô de Atenas)",
+    "extensao_km": 845.0,
+    "bitola": "Rotas Marítimas Regulares de Alta Capacidade do Mar Egeu, Golfo Sarônico, Mar de Creta e Dodecaneso",
+    "eletrificacao": "Catamarãs de alta velocidade (Highspeed / SeaJets a 40 nós), hidrofólios Flying Dolphins e megafarries convencionais",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 85000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 550 milhões (novos ferries Aero Highspeed Catamarans no Golfo Sarônico, modernização dos terminais E1–E12 do Porto do Pireu integrados às Linhas 1 e 3 do Metrô de Atenas e navios GNL da Attica Group)",
+      "moeda": "EUR",
+      "fonte_id": "attica-blue-star-seajets-piraeus"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação de novos ferries movidos a GNL/híbridos nas rotas Pireu–Cíclades–Creta e eletrificação dos cais (cold ironing) no Porto do Pireu.",
+      "en": "Deployment of new dual-fuel LNG/hybrid ferries on the Piraeus–Cyclades–Crete trunk routes and shore-power electrification at the Port of Piraeus."
+    },
+    "resumo_pt": "O Porto do Pireu, na Região Metropolitana de Atenas (diretamente integrado às Linhas 1 Verde e 3 Azul do Metrô de Atenas e ao Trem Suburbano Proastiakos), é o maior porto de passageiros da Europa e um dos maiores do mundo, movimentando quase 20 milhões de passageiros por ano. A partir dos portões E1 a E12 do Pireu (além dos portos atenienses de Rafina e Lavrio), uma malha diária de catamarãs de alta velocidade (SeaJets e Hellenic Seaways Aero) e grandes navios Blue Star Ferries e Minoan Lines funciona como o sistema de transporte público vital que conecta o continente grego às ilhas do Golfo Sarônico (Egina, Poros, Hidra e Spetses), às Cíclades (Syros, Tinos, Mykonos, Paros, Naxos, Ios e Santorini/Thira), a Creta (Heraklion e Chania) e ao Dodecaneso (Patmos, Kos e Rodes).",
+    "resumo_en": "Directly integrated with Athens Metro Lines 1 and 3 and the Suburban Railway, the Port of Piraeus is Europe's largest passenger ferry hub, handling nearly 20 million passengers annually. High-speed catamarans (SeaJets, Aero Highspeed) and large conventional Ro-Pax ferries (Blue Star Ferries, Minoan Lines) form Greece's maritime highway linking Piraeus to the Saronic Gulf islands (Aegina, Hydra, Spetses), the Cyclades (Syros, Mykonos, Paros, Naxos, Santorini), Crete (Heraklion, Chania) and the Dodecanese (Kos, Rhodes).",
+    "lat": 37.9445,
+    "lon": 23.6415,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "attica-blue-star-seajets-piraeus",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "pireu",
+      "atenas",
+      "mar egeu",
+      "cíclades",
+      "santorini",
+      "mykonos",
+      "paros",
+      "naxos",
+      "creta",
+      "heraklion",
+      "rodes",
+      "grécia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Blue_Star_Delos_Piraeus.jpg/800px-Blue_Star_Delos_Piraeus.jpg",
+      "credito": "Wikimedia Commons — Navio Blue Star Ferries e catamarãs de alta velocidade no Porto do Pireu (Atenas, Grécia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Port_of_Piraeus"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-mar-egeu-pireu-syros-mykonos-paros-naxos-santorini-heraklion-creta",
+        "nome": "Corredor Central do Mar Egeu (Cíclades e Creta): Porto do Pireu (Atenas) – Syros – Mykonos – Paros – Naxos – Ios – Santorini (Porto de Athinios) – Heraklion (Creta, Grécia)",
+        "status": "operacao",
+        "extensao_km": 385.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-golfo-saronico-dodecaneso-pireu-egina-hidra-kos-rodes-grecia",
+        "nome": "Eixo Golfo Sarônico e Dodecaneso: Porto do Pireu – Egina – Poros – Hidra – Spetses & Pireu – Patmos – Kos – Rodes (Grécia)",
+        "status": "operacao",
+        "extensao_km": 460.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "rede-barcas-sehir-hatlari-ido-bosforo-corno-de-ouro-istambul-turquia",
+    "slug": "rede-barcas-sehir-hatlari-ido-bosforo-corno-de-ouro-istambul-turquia",
+    "nome_pt": "Rede Metropolitana de Barcas Şehir Hatları, Turyol e İDO — Estreito do Bósforo, Corno de Ouro, Ilhas dos Príncipes e Mar de Mármara em Istambul (Turquia)",
+    "nome_en": "Şehir Hatları, Turyol & İDO Metropolitan Ferry Network — Bosphorus Strait, Golden Horn, Princes' Islands & Sea of Marmara in Istanbul (Turkey)",
+    "pais": "Turquia",
+    "cidade": "Istambul, Yalova, Mudanya (Bursa) e Bandırma",
+    "uf": "Mármara",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Şehir Hatları A.Ş. (Município Metropolitano de Istambul — İBB), İDO (İstanbul Deniz Otobüsleri), Turyol & BUDO",
+    "inauguracao": "1851 (Fundação da Şirket-i Hayriye — primeira companhia regular de barcas a vapor do Estreito do Bósforo em Istambul)",
+    "extensao_km": 217.0,
+    "bitola": "Estreito do Bósforo (Europa–Ásia), Estuário do Corno de Ouro (Haliç) e Mar de Mármara",
+    "eletrificacao": "Clássicos Vapurlar urbanos de dois conveses da Şehir Hatları, Deniz Taksi (táxis aquáticos) e catamarãs de alta velocidade İDO",
+    "n_linhas": 3,
+    "n_estacoes": 3,
+    "passageiros_dia": 420000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 280 milhões (modernização dos píeres históricos do Bósforo, expansão da frota de Deniz Taksi elétricos/híbridos no Estaleiro Histórico Haliç Tersanesi e integração tarifária Istanbulkart Metro–Tram–Vapur)",
+      "moeda": "USD",
+      "fonte_id": "sehir-hatlari-ido-istanbul"
+    },
+    "proximas_entregas": {
+      "pt": "Novas linhas transversais de barcas no Bósforo integradas às estações costeiras do Metrô de Istambul e conversão híbrida de embarcações no estaleiro Haliç.",
+      "en": "New cross-Bosphorus commuter ferry lines integrated with coastal Istanbul Metro stations and hybrid vessel conversions at the Haliç Shipyard."
+    },
+    "resumo_pt": "Em Istambul, única metrópole transcontinental do planeta dividida pelo Estreito do Bósforo entre a Europa e a Ásia, as tradicionais barcas brancas e amarelas da companhia municipal Şehir Hatları (os famosos 'Vapurlar', operando desde 1851 e construídos/mantidos no estaleiro de Haliç, o mais antigo estaleiro em operação contínua do mundo desde 1455) formam a alma do transporte público. Totalmente integradas ao bilhete único Istanbulkart, ao túnel ferroviário Marmaray, ao Metrô e aos bondes T1/T4/T5, as barcas cruzam o Bósforo a cada poucos minutos entre Eminönü, Karaköy, Kabataş e Beşiktaş (lado europeu) e Üsküdar, Kadıköy e Bostancı (lado asiático), além de percorrerem o Corno de Ouro (Haliç Hattı até Eyüpsultan), as Ilhas dos Príncipes (Büyükada e Heybeliada, onde veículos a motor são proibidos) e o Mar de Mármara pelos catamarãs rápidos da İDO e BUDO até Yalova, Bursa (Mudanya) e Bandırma.",
+    "resumo_en": "In transcontinental Istanbul, the municipal Şehir Hatları ferries ('Vapurlar', operating since 1851) and İDO high-speed catamarans form a core pillar of the public transit network, fully integrated with Istanbulkart, Marmaray and the Metro/Tram system. Ferries cross the Bosphorus continuously between European piers (Eminönü, Karaköy, Kabataş, Beşiktaş) and Asian terminals (Üsküdar, Kadıköy, Bostancı), navigate the Golden Horn to Eyüpsultan, serve the car-free Princes' Islands (Adalar) and cross the Sea of Marmara to Yalova, Bursa and Bandırma.",
+    "lat": 41.0185,
+    "lon": 28.9955,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "sehir-hatlari-ido-istanbul",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "istambul",
+      "bósforo",
+      "corno de ouro",
+      "sehir hatlari",
+      "vapur",
+      "ido",
+      "eminönü",
+      "kadıköy",
+      "üsküdar",
+      "ilhas dos príncipes",
+      "turquia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Istanbul_ferry_Bosphorus.jpg/800px-Istanbul_ferry_Bosphorus.jpg",
+      "credito": "Wikimedia Commons — Barca tradicional (Vapur) da Şehir Hatları cruzando o Estreito do Bósforo entre a Europa e a Ásia em Istambul (Turquia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:%C5%9Eehir_Hatlar%C4%B1"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-sehir-hatlari-transcontinental-eminonu-karakoy-besiktas-uskudar-kadikoy",
+        "nome": "Travessias Transcontinentais Europa–Ásia e Linha do Bósforo (Şehir Hatları): Eminönü / Karaköy / Kabataş / Beşiktaş – Üsküdar / Kadıköy – Ortaköy – Bebek – Emirgan – Sarıyer (Istambul, Turquia)",
+        "status": "operacao",
+        "extensao_km": 38.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-corno-de-ouro-halic-hatti-uskudar-karakoy-fener-balat-eyupsultan",
+        "nome": "Linha do Corno de Ouro (Haliç Hattı) e Ilhas dos Príncipes (Adalar): Üsküdar – Karaköy – Fener – Balat – Eyüpsultan & Kabataş – Kadıköy – Heybeliada – Büyükada (Istambul, Turquia)",
+        "status": "operacao",
+        "extensao_km": 34.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-ido-mar-de-marmara-yenikapi-bostanci-yalova-mudanya-bursa-bandirma",
+        "nome": "Catamarãs Rápidos do Mar de Mármara (İDO e BUDO): Yenikapı / Eminönü / Bostancı (Istambul) – Yalova – Mudanya (Bursa) – Bandırma (Turquia)",
+        "status": "operacao",
+        "extensao_km": 145.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "rede-fluvial-transtejo-soflusa-rio-tejo-lisboa-setubal-troia-portugal",
+    "slug": "rede-fluvial-transtejo-soflusa-rio-tejo-lisboa-setubal-troia-portugal",
+    "nome_pt": "Rede Fluvial Metropolitana Transtejo / Soflusa do Rio Tejo (Lisboa–Almada–Seixal–Barreiro–Montijo) e Ferries do Rio Sado Setúbal–Tróia (Portugal)",
+    "nome_en": "Transtejo / Soflusa Tagus River Metropolitan Ferry Network (Lisbon–Almada–Seixal–Barreiro–Montijo) & Setúbal–Tróia Sado River Ferries (Portugal)",
+    "pais": "Portugal",
+    "cidade": "Lisboa, Almada (Cacilhas), Barreiro, Seixal, Montijo e Setúbal",
+    "uf": "Área Metropolitana de Lisboa",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "TTSL — Transtejo Soflusa (Rio Tejo) & Atlantic Ferries (Estuário do Rio Sado — Setúbal / Tróia)",
+    "inauguracao": "1957 (Inauguração oficial dos Cacilheiros modernos e da ligação ferro-fluvial Terreiro do Paço–Barreiro pela CP/Soflusa)",
+    "extensao_km": 51.5,
+    "bitola": "Estuário do Rio Tejo (Mar da Palha) e Estuário do Rio Sado",
+    "eletrificacao": "Nova frota de 10 navios 100% elétricos da Transtejo ('Cegonhas Brancas' Astilleros Gondán), catamarãs rápidos Soflusa e ferries ro-pax Atlantic Ferries",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 82000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 115 milhões (aquisição da nova frota de 10 navios 100% elétricos da Transtejo e postos de carregamento ultrarrápido nos terminais do Cais do Sodré, Cacilhas, Seixal e Montijo)",
+      "moeda": "EUR",
+      "fonte_id": "ttsl-transtejo-soflusa-atlantic-ferries"
+    },
+    "proximas_entregas": {
+      "pt": "Operação 100% elétrica com carregamento rápido nas três ligações da Transtejo (Cacilhas, Seixal e Montijo) e modernização do Terminal Fluvial de Belém.",
+      "en": "Full 100% battery-electric operation with fast-charging docks across Transtejo's Cacilhas, Seixal and Montijo routes."
+    },
+    "resumo_pt": "Na Área Metropolitana de Lisboa, os famosos 'Cacilheiros' e catamarãs da Transtejo Soflusa (TTSL) cruzam o amplo estuário do Rio Tejo (Mar da Palha) em cinco ligações fluviais regulares totalmente integradas ao passe Navegante, ao Metropolitano de Lisboa (Estações Terreiro do Paço na Linha Azul e Cais do Sodré na Linha Verde), aos comboios da CP (Linha de Cascais no Cais do Sodré e Linha do Alentejo/Sado no Terminal Rodo-Ferro-Fluvial do Barreiro) e ao Metro Sul do Tejo (MST em Cacilhas). Com a entrada em serviço da nova frota de 10 catamarãs 100% elétricos batizados com nomes de aves do estuário ('Cegonha-Branca', 'Flamingo', 'Garça-Vermelha'), Lisboa consolidou uma das redes fluviais mais modernas da Europa, complementada ao sul pelos catamarãs e ferries da Atlantic Ferries que cruzam o estuário do Rio Sado entre Setúbal e a Península de Tróia.",
+    "resumo_en": "In the Lisbon Metropolitan Area, Transtejo Soflusa (TTSL) operates five commuter ferry routes across the Tagus River estuary, seamlessly connecting Lisbon's Terreiro do Paço, Cais do Sodré and Belém terminals (integrated with the Lisbon Metro and Cascais Line) to Cacilhas (Almada / Metro Sul do Tejo light rail), Seixal, Montijo, Porto Brandão/Trafaria and the Barreiro rail-ferry hub. Powered by a new fleet of 10 zero-emission 100% electric ferries, the network is complemented to the south by Atlantic Ferries linking Setúbal to the Tróia Peninsula across the Sado River estuary.",
+    "lat": 38.6965,
+    "lon": -9.1385,
+    "zoom_inicial": 10.2,
+    "fontes": [
+      "ttsl-transtejo-soflusa-atlantic-ferries",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "lisboa",
+      "rio tejo",
+      "transtejo",
+      "soflusa",
+      "cacilheiro",
+      "cacilhas",
+      "almada",
+      "barreiro",
+      "seixal",
+      "setúbal",
+      "tróia",
+      "portugal",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Transtejo_Cais_do_Sodre.jpg/800px-Transtejo_Cais_do_Sodre.jpg",
+      "credito": "Wikimedia Commons — Catamarã fluvial da Transtejo / Soflusa na travessia do Rio Tejo entre Lisboa e a Margem Sul (Portugal)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Transtejo_Soflusa"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-transtejo-soflusa-terreiro-do-paco-cais-do-sodre-belem-cacilhas-barreiro-seixal-montijo",
+        "nome": "Rede Fluvial Metropolitana do Rio Tejo (Transtejo / Soflusa): Terreiro do Paço – Barreiro & Cais do Sodré – Cacilhas (Almada) / Seixal / Montijo & Belém – Porto Brandão – Trafaria (Lisboa, Portugal)",
+        "status": "operacao",
+        "extensao_km": 42.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-atlantic-ferries-estuario-do-sado-setubal-peninsula-de-troia",
+        "nome": "Travessia Fluvial do Estuário do Rio Sado (Atlantic Ferries): Doca do Comércio / Cais 3 (Setúbal) – Ponta do Adoxe / Marina de Tróia (Portugal)",
+        "status": "operacao",
+        "extensao_km": 9.5,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "rede-ferries-balearia-mediterraneo-gibraltar-algeciras-cadiz-vigo-espanha",
+    "slug": "rede-ferries-balearia-mediterraneo-gibraltar-algeciras-cadiz-vigo-espanha",
+    "nome_pt": "Rede de Fast-Ferries Baleària do Mediterrâneo (Barcelona / Valência / Dénia – Ilhas Baleares), Estreito de Gibraltar (Algeciras/Tarifa–Ceuta/Tânger) e Catamarãs da Baía de Cádiz e Ria de Vigo (Espanha)",
+    "nome_en": "Baleària Mediterranean Fast-Ferry Network (Barcelona / Valencia / Dénia – Balearic Islands), Strait of Gibraltar (Algeciras/Tarifa–Ceuta/Tangier) & Bay of Cádiz / Vigo Ría Catamarans (Spain)",
+    "pais": "Espanha",
+    "cidade": "Barcelona, Valência, Dénia, Palma de Maiorca, Ibiza, Algeciras, Tarifa, Ceuta, Cádiz e Vigo",
+    "uf": "Catalunha / C. Valenciana / Baleares / Andaluzia / Galícia",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Baleària / Trasmed (Mediterrâneo e Estreito de Gibraltar), Consorcio de Transportes de la Bahía de Cádiz & Mar de Ons / Nabia (Ria de Vigo)",
+    "inauguracao": "1998 (Fundação da Baleària em Dénia e implantação dos catamarãs de alta velocidade nas Ilhas Baleares e Estreito de Gibraltar)",
+    "extensao_km": 600.0,
+    "bitola": "Corredores Marítimos do Mar Balear, Estreito de Gibraltar e Baías Atlânticas de Cádiz e Vigo",
+    "eletrificacao": "Fast-ferries de alta velocidade movidos a GNL (Eleanor Roosevelt / Margarita Salas), ferries 100% elétricos (Cap de Barbaria Ibiza–Formentera) e catamarãs metropolitanos",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 65000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 380 milhões (construção dos fast-ferries catamarãs a GNL Eleanor Roosevelt e Margarita Salas nos estaleiros Armon Gijón e do ferry 100% elétrico Cap de Barbaria da Baleària)",
+      "moeda": "EUR",
+      "fonte_id": "balearia-trasmed-consorcio-cadiz-vigo"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação do corredor verde 100% elétrico com dois fast-ferries de emissão zero entre Tarifa e Tânger no Estreito de Gibraltar.",
+      "en": "Deployment of the 100% electric green maritime corridor with two zero-emission fast ferries between Tarifa and Tangier across the Strait of Gibraltar."
+    },
+    "resumo_pt": "A Espanha abriga três importantes sistemas de transporte aquaviário de passageiros: no Mediterrâneo Ocidental, os megacatamarãs de alta velocidade a GNL da Baleària ('Eleanor Roosevelt' e 'Margarita Salas') e o ferry 100% elétrico 'Cap de Barbaria' conectam diariamente os portos continentais de Barcelona, Valência e Dénia ao arquipélago das Ilhas Baleares (Ibiza, Formentera, Palma de Maiorca e Menorca); no Estreito de Gibraltar — uma das passagens marítimas mais movimentadas do mundo —, fast-ferries cruzam em apenas 35 a 60 minutos entre Algeciras e Tarifa (Andaluzia) e a cidade autônoma espanhola de Ceuta e Tânger (Marrocos); e na costa atlântica operam duas redes metropolitanas de catamarãs urbanos integradas aos consórcios de transporte: os catamarãs da Baía de Cádiz (Cádiz – El Puerto de Santa María – Rota, integrados ao Trambahía e Cercanías) e a travessia regular da Ria de Vigo na Galícia (Vigo – Cangas – Moaña e Ilhas Cíes).",
+    "resumo_en": "Spain operates three major passenger ferry and waterbus networks: in the Western Mediterranean, Baleària's high-speed LNG catamarans ('Eleanor Roosevelt', 'Margarita Salas') and the electric ferry 'Cap de Barbaria' link Barcelona, Valencia and Dénia to the Balearic Islands (Ibiza, Formentera, Mallorca, Menorca); across the Strait of Gibraltar, high-frequency fast ferries connect Algeciras and Tarifa to Ceuta and Tangier; and on the Atlantic coast, metropolitan commuter catamarans cross the Bay of Cádiz (Cádiz – El Puerto de Santa María – Rota) and the Ría de Vigo in Galicia (Vigo – Cangas – Moaña).",
+    "lat": 38.8415,
+    "lon": 0.1125,
+    "zoom_inicial": 5.8,
+    "fontes": [
+      "balearia-trasmed-consorcio-cadiz-vigo",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "baleària",
+      "barcelona",
+      "valência",
+      "dénia",
+      "ibiza",
+      "maiorca",
+      "algeciras",
+      "tarifa",
+      "ceuta",
+      "estreito de gibraltar",
+      "baía de cádiz",
+      "ria de vigo",
+      "espanha",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Balearia_Eleanor_Roosevelt.jpg/800px-Balearia_Eleanor_Roosevelt.jpg",
+      "credito": "Wikimedia Commons — Fast-ferry de alta velocidade da Baleària na ligação entre a costa espanhola e as Ilhas Baleares (Espanha)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Bale%C3%A0ria"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-balearia-mediterraneo-barcelona-valencia-denia-ibiza-maiorca-menorca",
+        "nome": "Corredor Mediterrâneo Baleària (Continente – Ilhas Baleares): Barcelona / Valência / Dénia – Ibiza – Formentera – Palma de Maiorca – Alcúdia – Ciutadella de Menorca (Espanha)",
+        "status": "operacao",
+        "extensao_km": 480.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-estreito-de-gibraltar-baia-de-cadiz-algeciras-tarifa-ceuta-tanger-vigo",
+        "nome": "Travessias do Estreito de Gibraltar e Catamarãs Metropolitanos da Baía de Cádiz e Ria de Vigo: Algeciras / Tarifa – Ceuta / Tânger & Cádiz – El Puerto de Santa María – Rota (Espanha)",
+        "status": "operacao",
+        "extensao_km": 120.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
