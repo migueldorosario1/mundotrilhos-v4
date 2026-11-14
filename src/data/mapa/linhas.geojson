@@ -30157,6 +30157,186 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-salineira-portuaria-pekelmeer-cargill-kralendijk-bonaire",
+        "linha": "Corredor Salineiro e Portuário Pekelmeer / Salt Pier – Kralendijk (Bonaire)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovia Salineira de Pekelmeer / Cargill e Vias Portuárias de Kralendijk e St. Eustatius (Bonaire e Santo Eustáquio, Países Baixos Caribenhos)",
+        "sistema_nome_en": "Pekelmeer / Cargill Salt Railway & Kralendijk and St. Eustatius Port Rail Tracks (Bonaire & Sint Eustatius, Caribbean Netherlands)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.276,
+            12.148
+          ],
+          [
+            -68.281,
+            12.081
+          ],
+          [
+            -68.258,
+            12.036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-historicas-salinas-goto-meer-rincon-kralendijk-bonaire",
+        "linha": "Eixo Patrimonial Slagbaai – Goto Meer – Rincon (Bonaire)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trilhos Patrimoniais das Salinas de Slagbaai / Goto Meer, Rincon e Obeliscos de Sal do Sul de Bonaire (Países Baixos Caribenhos)",
+        "sistema_nome_en": "Slagbaai / Goto Meer Salt Works, Rincon & Southern Salt Obelisks Heritage Rail Tracks (Bonaire, Caribbean Netherlands)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.412,
+            12.268
+          ],
+          [
+            -68.375,
+            12.238
+          ],
+          [
+            -68.332,
+            12.238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-pointe-blanche-salinas-great-bay-philipsburg-sint-maarten",
+        "linha": "Vias Portuárias Pointe-Blanche – Great Bay Salt Pond (Philipsburg, Sint Maarten)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Pointe-Blanche (Port St. Maarten) e Trilhos Salineiros de Great Bay Salt Pond em Philipsburg (Sint Maarten)",
+        "sistema_nome_en": "Pointe-Blanche Port Rail Tracks (Port St. Maarten) & Great Bay Salt Pond Heritage Tracks in Philipsburg (Sint Maarten)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.0415,
+            18.0065
+          ],
+          [
+            -63.0455,
+            18.0235
+          ],
+          [
+            -63.051,
+            18.0285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-salineira-grand-case-vias-portuarias-galisbay-marigot-sao-martinho",
+        "linha": "Corredor Portuário e Salineiro Galisbay (Marigot) – Grand Case – Orient Bay (Saint-Martin)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trilhos Patrimoniais das Salinas de Grand Case / Orient Bay e Vias Portuárias de Galisbay em Marigot (Coletividade de São Martinho)",
+        "sistema_nome_en": "Grand Case / Orient Bay Salt Works Heritage Tracks & Galisbay Port Rail Tracks in Marigot (Collectivity of Saint-Martin)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.086,
+            18.077
+          ],
+          [
+            -63.056,
+            18.101
+          ],
+          [
+            -63.021,
+            18.086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-public-harbour-trilhos-salinas-saint-jean-gustavia-sao-bartolomeu",
+        "linha": "Vias Portuárias de Public Harbour (Gustavia) – Grande Saline (Saint-Barthélemy)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Public Harbour em Gustavia e Trilhos Patrimoniais das Salinas de Grande Saline e Saint-Jean (São Bartolomeu)",
+        "sistema_nome_en": "Gustavia Public Harbour Port Rail Tracks & Grande Saline and Saint-Jean Salt Works Heritage Tracks (Saint Barthélemy)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.8535,
+            17.9035
+          ],
+          [
+            -62.8485,
+            17.8965
+          ],
+          [
+            -62.8235,
+            17.8925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-portuarios-secagem-bacalhau-saint-pierre-ile-aux-marins-miquelao-sao-pedro-e-miquelao",
+        "linha": "Vias Decauville de L'Île-aux-Marins (Graves de Bacalhau) e Porto de Saint-Pierre (Saint-Pierre-et-Miquelon)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trilhos Patrimoniais das Graves de Secagem de Bacalhau de L'Île-aux-Marins (Archipélago) e Vias Portuárias de Saint-Pierre e Miquelon (São Pedro e Miquelão)",
+        "sistema_nome_en": "L'Île-aux-Marins Cod-Drying Graves Heritage Rail Tracks & Saint-Pierre and Miquelon Port Rail Tracks (Saint Pierre and Miquelon)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.1765,
+            46.779
+          ],
+          [
+            -56.1585,
+            46.7835
+          ],
+          [
+            -56.148,
+            46.7895
+          ]
+        ]
+      }
     }
   ]
 }

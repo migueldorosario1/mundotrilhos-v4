@@ -23312,6 +23312,226 @@
           12.1865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-salineira-portuaria-pekelmeer-cargill-kralendijk-bonaire",
+        "nome": "Terminal Salineiro de Pekelmeer & Salt Pier (Cargill Bonaire)",
+        "linha": "Corredor Salineiro e Portuário Pekelmeer / Salt Pier – Kralendijk (Bonaire)",
+        "status": "operacao",
+        "integracoes": [
+          "Píer Oceânico de Exportação de Sal (Salt Pier)",
+          "Santuário de Flamingos de Pekelmeer"
+        ],
+        "sistema_nome_pt": "Ferrovia Salineira de Pekelmeer / Cargill e Vias Portuárias de Kralendijk e St. Eustatius (Bonaire e Santo Eustáquio, Países Baixos Caribenhos)",
+        "sistema_nome_en": "Pekelmeer / Cargill Salt Railway & Kralendijk and St. Eustatius Port Rail Tracks (Bonaire & Sint Eustatius, Caribbean Netherlands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.281,
+          12.081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-salineira-portuaria-pekelmeer-cargill-kralendijk-bonaire",
+        "nome": "Terminal Portuário de Kralendijk (Zuidpier / Noordpier, Bonaire)",
+        "linha": "Corredor Salineiro e Portuário Pekelmeer / Salt Pier – Kralendijk (Bonaire)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Cruzeiros e Carga de Kralendijk",
+          "Aeroporto Internacional Flamingo"
+        ],
+        "sistema_nome_pt": "Ferrovia Salineira de Pekelmeer / Cargill e Vias Portuárias de Kralendijk e St. Eustatius (Bonaire e Santo Eustáquio, Países Baixos Caribenhos)",
+        "sistema_nome_en": "Pekelmeer / Cargill Salt Railway & Kralendijk and St. Eustatius Port Rail Tracks (Bonaire & Sint Eustatius, Caribbean Netherlands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.276,
+          12.148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-historicas-salinas-goto-meer-rincon-kralendijk-bonaire",
+        "nome": "Estação Patrimonial das Salinas de Slagbaai (Washington Slagbaai National Park)",
+        "linha": "Eixo Patrimonial Slagbaai – Goto Meer – Rincon (Bonaire)",
+        "status": "operacao",
+        "integracoes": [
+          "Museu Histórico de Slagbaai",
+          "Baía de Slagbaai"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais das Salinas de Slagbaai / Goto Meer, Rincon e Obeliscos de Sal do Sul de Bonaire (Países Baixos Caribenhos)",
+        "sistema_nome_en": "Slagbaai / Goto Meer Salt Works, Rincon & Southern Salt Obelisks Heritage Rail Tracks (Bonaire, Caribbean Netherlands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.412,
+          12.268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-historicas-salinas-goto-meer-rincon-kralendijk-bonaire",
+        "nome": "Parada Histórica de Goto Meer / Rincon (Bonaire)",
+        "linha": "Eixo Patrimonial Slagbaai – Goto Meer – Rincon (Bonaire)",
+        "status": "operacao",
+        "integracoes": [
+          "Lagoa Salgada de Goto Meer",
+          "Vila Histórica de Rincon"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais das Salinas de Slagbaai / Goto Meer, Rincon e Obeliscos de Sal do Sul de Bonaire (Países Baixos Caribenhos)",
+        "sistema_nome_en": "Slagbaai / Goto Meer Salt Works, Rincon & Southern Salt Obelisks Heritage Rail Tracks (Bonaire, Caribbean Netherlands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.332,
+          12.238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-pointe-blanche-salinas-great-bay-philipsburg-sint-maarten",
+        "nome": "Terminal Intermodal Portuário de Pointe-Blanche (Port St. Maarten)",
+        "linha": "Vias Portuárias Pointe-Blanche – Great Bay Salt Pond (Philipsburg, Sint Maarten)",
+        "status": "operacao",
+        "integracoes": [
+          "Pátio de Contêineres de Pointe-Blanche",
+          "Terminal Internacional de Cruzeiros Dr. A.C. Wathey"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de Pointe-Blanche (Port St. Maarten) e Trilhos Salineiros de Great Bay Salt Pond em Philipsburg (Sint Maarten)",
+        "sistema_nome_en": "Pointe-Blanche Port Rail Tracks (Port St. Maarten) & Great Bay Salt Pond Heritage Tracks in Philipsburg (Sint Maarten)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0415,
+          18.0065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-pointe-blanche-salinas-great-bay-philipsburg-sint-maarten",
+        "nome": "Estação Patrimonial das Salinas de Great Bay Salt Pond (Philipsburg, Sint Maarten)",
+        "linha": "Vias Portuárias Pointe-Blanche – Great Bay Salt Pond (Philipsburg, Sint Maarten)",
+        "status": "operacao",
+        "integracoes": [
+          "Centro Histórico de Philipsburg",
+          "Great Bay Boardwalk"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de Pointe-Blanche (Port St. Maarten) e Trilhos Salineiros de Great Bay Salt Pond em Philipsburg (Sint Maarten)",
+        "sistema_nome_en": "Pointe-Blanche Port Rail Tracks (Port St. Maarten) & Great Bay Salt Pond Heritage Tracks in Philipsburg (Sint Maarten)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0455,
+          18.0235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-salineira-grand-case-vias-portuarias-galisbay-marigot-sao-martinho",
+        "nome": "Terminal Portuário de Galisbay (Marigot) & Salinas Históricas de Grand Case (Saint-Martin)",
+        "linha": "Corredor Portuário e Salineiro Galisbay (Marigot) – Grand Case – Orient Bay (Saint-Martin)",
+        "status": "operacao",
+        "integracoes": [
+          "Port de Commerce de Galisbay (Marigot)",
+          "Aeroporto de Grand Case L'Espérance"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais das Salinas de Grand Case / Orient Bay e Vias Portuárias de Galisbay em Marigot (Coletividade de São Martinho)",
+        "sistema_nome_en": "Grand Case / Orient Bay Salt Works Heritage Tracks & Galisbay Port Rail Tracks in Marigot (Collectivity of Saint-Martin)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.086,
+          18.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-public-harbour-trilhos-salinas-saint-jean-gustavia-sao-bartolomeu",
+        "nome": "Terminal Portuário de Public Harbour (Gustavia, Saint-Barthélemy)",
+        "linha": "Vias Portuárias de Public Harbour (Gustavia) – Grande Saline (Saint-Barthélemy)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Gustavia",
+          "Salinas Históricas de Grande Saline"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de Public Harbour em Gustavia e Trilhos Patrimoniais das Salinas de Grande Saline e Saint-Jean (São Bartolomeu)",
+        "sistema_nome_en": "Gustavia Public Harbour Port Rail Tracks & Grande Saline and Saint-Jean Salt Works Heritage Tracks (Saint Barthélemy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8535,
+          17.9035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-portuarios-secagem-bacalhau-saint-pierre-ile-aux-marins-miquelao-sao-pedro-e-miquelao",
+        "nome": "Estação Patrimonial do Museu Archipélago e Graves de Secagem de Bacalhau (L'Île-aux-Marins)",
+        "linha": "Vias Decauville de L'Île-aux-Marins (Graves de Bacalhau) e Porto de Saint-Pierre (Saint-Pierre-et-Miquelon)",
+        "status": "operacao",
+        "integracoes": [
+          "Píer de Travessia Marítima de L'Île-aux-Marins",
+          "Museu Archipélago (Trilhos Decauville)"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais das Graves de Secagem de Bacalhau de L'Île-aux-Marins (Archipélago) e Vias Portuárias de Saint-Pierre e Miquelon (São Pedro e Miquelão)",
+        "sistema_nome_en": "L'Île-aux-Marins Cod-Drying Graves Heritage Rail Tracks & Saint-Pierre and Miquelon Port Rail Tracks (Saint Pierre and Miquelon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1585,
+          46.7835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-portuarios-secagem-bacalhau-saint-pierre-ile-aux-marins-miquelao-sao-pedro-e-miquelao",
+        "nome": "Terminal Portuário de Saint-Pierre (Quai de la République — Estação Nº 1.110 do Atlas!)",
+        "linha": "Vias Decauville de L'Île-aux-Marins (Graves de Bacalhau) e Porto de Saint-Pierre (Saint-Pierre-et-Miquelon)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Internacional de Saint-Pierre",
+          "Terminal de Ferries para Fortune (Terra Nova) e Miquelon"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais das Graves de Secagem de Bacalhau de L'Île-aux-Marins (Archipélago) e Vias Portuárias de Saint-Pierre e Miquelon (São Pedro e Miquelão)",
+        "sistema_nome_en": "L'Île-aux-Marins Cod-Drying Graves Heritage Rail Tracks & Saint-Pierre and Miquelon Port Rail Tracks (Saint Pierre and Miquelon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1765,
+          46.779
+        ]
+      }
     }
   ]
 }
