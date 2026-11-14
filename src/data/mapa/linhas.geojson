@@ -39611,6 +39611,417 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-wsf-puget-sound-seattle-bainbridge-bremerton-edmonds-kingston-anacortes",
+        "sistema_id": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+        "nome": "Washington State Ferries & Kitsap Fast Ferries (Puget Sound): Seattle Colman Dock (Pier 50/52) – Bainbridge Island / Bremerton & Edmonds – Kingston & Anacortes – San Juan Islands (WA, EUA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Washington State Ferries (WSDOT) & Kitsap Transit (WA, EUA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.6265,
+            47.5615
+          ],
+          [
+            -122.5115,
+            47.6225
+          ],
+          [
+            -122.3385,
+            47.6025
+          ],
+          [
+            -122.3855,
+            47.8135
+          ],
+          [
+            -122.4955,
+            47.7965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-san-francisco-bay-ferry-golden-gate-ferry-larkspur-sausalito-vallejo-oakland",
+        "sistema_id": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+        "nome": "San Francisco Bay Ferry & Golden Gate Ferry: San Francisco Ferry Building – Sausalito / Tiburon / Larkspur (Trem SMART) – Oakland (Jack London Square) – Alameda – Vallejo (CA, EUA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "San Francisco Bay Ferry (WETA) & Golden Gate Ferry (CA, EUA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2795,
+            37.7955
+          ],
+          [
+            -122.3935,
+            37.7955
+          ],
+          [
+            -122.4785,
+            37.8565
+          ],
+          [
+            -122.5095,
+            37.9455
+          ],
+          [
+            -122.2625,
+            38.1015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-alaska-marine-highway-inside-passage-bellingham-ketchikan-juneau-haines-skagway",
+        "sistema_id": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+        "nome": "Alaska Marine Highway System (Inside Passage): Bellingham (WA) – Ketchikan – Wrangell – Petersburg – Sitka – Juneau (Auke Bay) – Haines – Skagway (AK, EUA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Alaska Marine Highway System (AMHS, Alasca, EUA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.5125,
+            48.7205
+          ],
+          [
+            -131.6745,
+            55.3525
+          ],
+          [
+            -132.9565,
+            56.8125
+          ],
+          [
+            -135.3385,
+            57.0525
+          ],
+          [
+            -134.6545,
+            58.3805
+          ],
+          [
+            -135.4425,
+            59.2355
+          ],
+          [
+            -135.3225,
+            59.4515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-bc-ferries-translink-seabus-vancouver-tsawassen-swartz-bay-victoria-nanaimo",
+        "sistema_id": "bc-ferries-seabus-vancouver-stq-quebec-levis-toronto-island-canada",
+        "nome": "TransLink SeaBus (Waterfront – Lonsdale Quay) & Rede Costeira BC Ferries: Vancouver (Waterfront / Horseshoe Bay / Tsawwassen) – North Vancouver – Nanaimo – Swartz Bay / Victoria (BC, Canadá)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "TransLink SeaBus & BC Ferries (Colúmbia Britânica, Canadá)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0825,
+            49.3105
+          ],
+          [
+            -123.1115,
+            49.2855
+          ],
+          [
+            -123.2725,
+            49.3745
+          ],
+          [
+            -123.9555,
+            49.1935
+          ],
+          [
+            -123.1315,
+            49.0065
+          ],
+          [
+            -123.4105,
+            48.6885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-stq-quebec-levis-tadoussac-matane-toronto-island-ferries-canada",
+        "sistema_id": "bc-ferries-seabus-vancouver-stq-quebec-levis-toronto-island-canada",
+        "nome": "Traversiers du Québec (Québec–Lévis e Tadoussac no Rio São Lourenço) & Toronto Island Ferries (Jack Layton Terminal – Centre Island / Ward's Island, ON/QC, Canadá)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Société des traversiers du Québec (STQ) & City of Toronto (Canadá)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.2015,
+            46.8125
+          ],
+          [
+            -71.1865,
+            46.8085
+          ],
+          [
+            -69.7215,
+            48.1415
+          ],
+          [
+            -69.7085,
+            48.1315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-rio-da-prata-buquebus-colonia-express-buenos-aires-colonia-montevideu",
+        "sistema_id": "buquebus-colonia-express-rio-da-prata-lanchas-colectivas-delta-do-tigre-argentina-uruguai",
+        "nome": "Ponte Hidroviária Internacional do Rio da Prata (Buquebus & Colonia Express): Puerto Madero / Dársena Sur (Buenos Aires, Argentina) – Porto de Colônia do Sacramento – Porto de Montevidéu (Uruguai)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Buquebus & Colonia Express (Argentina/Uruguai)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3665,
+            -34.5985
+          ],
+          [
+            -57.8485,
+            -34.4725
+          ],
+          [
+            -56.2125,
+            -34.9045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-lanchas-colectivas-delta-do-parana-estacion-fluvial-de-tigre-argentina",
+        "sistema_id": "buquebus-colonia-express-rio-da-prata-lanchas-colectivas-delta-do-tigre-argentina-uruguai",
+        "nome": "Rede de Lanchas Colectivas do Delta do Paraná (Cartão SUBE): Estación Fluvial de Tigre (Integração Tren de la Costa / Línea Mitre) – Río Luján – Río Sarmiento – Río Capitán – Río Paraná de las Palmas (Argentina)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Líneas Delta Argentino, Interisleña & Jilguero (Tigre, Argentina)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.5795,
+            -34.4225
+          ],
+          [
+            -58.5625,
+            -34.3915
+          ],
+          [
+            -58.5985,
+            -34.3425
+          ],
+          [
+            -58.6515,
+            -34.2885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-canal-de-chacao-carretera-austral-pargua-chacao-hornopiren-caleta-gonzalo-chaiten",
+        "sistema_id": "transbordadores-chacao-chiloe-carretera-austral-estreito-de-magalhaes-chile",
+        "nome": "Travessia 24h do Canal de Chacao (Pargua – Chacao / Ilha de Chiloé) e Rota Bimodal da Carretera Austral (Hornopirén – Caleta Gonzalo – Chaitén – Quellón, Região de Los Lagos, Chile)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Transmarchilay, Cruz del Sur, Somarco & Naviera Austral (Chile)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.6195,
+            -41.7945
+          ],
+          [
+            -73.5285,
+            -41.8295
+          ],
+          [
+            -72.4315,
+            -41.9645
+          ],
+          [
+            -72.5925,
+            -42.5515
+          ],
+          [
+            -72.7125,
+            -42.9185
+          ],
+          [
+            -73.6155,
+            -43.1185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-estreito-de-magalhaes-terra-do-fogo-punta-arenas-porvenir-puerto-natales-chile",
+        "sistema_id": "transbordadores-chacao-chiloe-carretera-austral-estreito-de-magalhaes-chile",
+        "nome": "Travessias do Estreito de Magalhães e Terra do Fogo (TABSA): Tres Puentes (Punta Arenas) – Bahía Chilota (Porvenir) & Punta Delgada – Bahía Azul (Primera Angostura, Chile)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "TABSA — Transbordadora Austral Broom (Magalhães, Chile)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.8825,
+            -53.1285
+          ],
+          [
+            -70.4225,
+            -53.2985
+          ],
+          [
+            -69.6225,
+            -52.4585
+          ],
+          [
+            -69.5185,
+            -52.4985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-amazonica-peruana-yurimaguas-nauta-iquitos-caballococha-santa-rosa-peru",
+        "sistema_id": "hidrovias-amazonia-peruana-iquitos-yurimaguas-pucallpa-lago-titicaca-peru-bolivia",
+        "nome": "Hidrovia Amazônica Peruana (Rios Huallaga, Marañón e Amazonas): Terminal Portuário de Yurimaguas – Lagunas – Nauta – Porto de Iquitos – Pebas – Caballococha – Ilha Santa Rosa (Tríplice Fronteira, Peru)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Consorcio Fluvial del Amazonas (Ferry Amazonas I) & Lanchas de Loreto (Peru)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.1015,
+            -5.8965
+          ],
+          [
+            -75.6755,
+            -5.2285
+          ],
+          [
+            -73.5755,
+            -4.5085
+          ],
+          [
+            -73.2385,
+            -3.7385
+          ],
+          [
+            -71.8615,
+            -3.3195
+          ],
+          [
+            -70.5155,
+            -3.9085
+          ],
+          [
+            -69.9545,
+            -4.2225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-lago-titicaca-puno-ilhas-uros-taquile-copacabana-estreito-de-tiquina-peru-bolivia",
+        "sistema_id": "hidrovias-amazonia-peruana-iquitos-yurimaguas-pucallpa-lago-titicaca-peru-bolivia",
+        "nome": "Navegação de Altitude do Lago Titicaca (3.812 m): Porto de Puno – Ilhas dos Uros – Taquile (Peru) & Estreito de Tiquina – Copacabana – Ilha do Sol (Bolívia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Cooperativas Lacustres de Puno (Peru) & Sindicato de Lancheros de Tiquina / Copacabana (Bolívia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.0155,
+            -15.8365
+          ],
+          [
+            -69.9685,
+            -15.8185
+          ],
+          [
+            -69.6845,
+            -15.7645
+          ],
+          [
+            -69.0865,
+            -16.1655
+          ],
+          [
+            -68.8585,
+            -16.2215
+          ]
+        ]
+      }
     }
   ]
 }
