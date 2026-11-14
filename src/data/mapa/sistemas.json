@@ -22685,5 +22685,391 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "corredor-ferroviario-margem-esquerda-porto-de-santos-guaruja-santo-amaro-sp",
+    "slug": "corredor-ferroviario-margem-esquerda-porto-de-santos-guaruja-santo-amaro-sp",
+    "nome_pt": "Ilha de Santo Amaro (Guarujá e Vicente de Carvalho) — Corredor Ferroviário da Margem Esquerda do Porto de Santos (Conceiçãozinha) e Eixo Histórico do Tramway do Guarujá (SP)",
+    "nome_en": "Santo Amaro Island (Guarujá & Vicente de Carvalho) — Port of Santos Left Bank Freight Rail Corridor (Conceiçãozinha) & Historic Guarujá Tramway Axis (SP, Brazil)",
+    "pais": "Ilha de Guarujá / Santo Amaro e Vicente de Carvalho (São Paulo)",
+    "cidade": "Guarujá / Vicente de Carvalho (Ilha de Santo Amaro)",
+    "uf": "SP",
+    "tipo": "ferrovia_carga",
+    "status": "operacao",
+    "camada": "carga",
+    "operador": "FIPS (Ferrovia Interna do Porto de Santos) / Rumo / MRS / VLI (Pátios de Conceiçãozinha e Vicente de Carvalho, Guarujá)",
+    "inauguracao": "1893 (Tramway do Guarujá: Itapema – Pitangueiras) / 1978 (Ramal Ferroviário da Margem Esquerda em Conceiçãozinha)",
+    "extensao_km": 18.5,
+    "bitola": "1600 mm (Bitola larga) e 1000 mm (Bitola mista nos pátios portuários de Conceiçãozinha e Vicente de Carvalho)",
+    "eletrificacao": "Não eletrificada (tração diesel-elétrica pesada AC44i e pórticos ferroviários portuários)",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": null,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 1,9 bilhão (ampliação da pera ferroviária da FIPS na Margem Esquerda / Conceiçãozinha e viadutos ferroviários no Guarujá)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Duplicação dos acessos ferroviários da FIPS à Margem Esquerda no Guarujá e integração futura do VLT em Vicente de Carvalho.",
+      "en": "Duplication of FIPS rail access to the Left Bank terminals in Guarujá and future Light Rail (VLT) extension to Vicente de Carvalho."
+    },
+    "resumo_pt": "Poderoso complexo ferroviário insular na Ilha de Santo Amaro (município do Guarujá e distrito de Vicente de Carvalho, SP): a malha da Ferrovia Interna do Porto de Santos (FIPS, operada em conjunto por Rumo, MRS e VLI) penetra na Ilha de Santo Amaro atravessando o Canal de Bertioga até os pátios de Vicente de Carvalho, Terminal Integrador Portuário Luiz Antonio Mesquita (TIPLAM), Santos Brasil e a pera ferroviária de Conceiçãozinha, além de preservar a memória do lendário Tramway do Guarujá (1893–1956).",
+    "resumo_en": "High-capacity island freight railway complex on Santo Amaro Island (Guarujá and Vicente de Carvalho, São Paulo), serving the Port of Santos Left Bank bulk and container terminals at Conceiçãozinha and TIPLAM, alongside the historic 1893 Guarujá Tramway corridor.",
+    "lat": -23.9485,
+    "lon": -46.2785,
+    "zoom_inicial": 12.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de santo amaro",
+      "guarujá",
+      "vicente de carvalho",
+      "conceiçãozinha",
+      "porto de santos",
+      "fips",
+      "são paulo",
+      "ferrovia de carga"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Travessia_Santos_Guaruja_Balsa.jpg/800px-Travessia_Santos_Guaruja_Balsa.jpg",
+      "credito": "Wikimedia Commons — Terminais Portuários e Ferroviários da Margem Esquerda na Ilha de Santo Amaro (Guarujá, SP)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Guaruj%C3%A1"
+    },
+    "linhas": [
+      {
+        "id": "lin-corredor-ferroviario-margem-esquerda-porto-de-santos-guaruja-santo-amaro-sp",
+        "nome": "Tronco Insular da Margem Esquerda: Canal de Bertioga / TIPLAM – Pátio Vicente de Carvalho – Pera Ferroviária de Conceiçãozinha (Guarujá, SP)",
+        "status": "operacao",
+        "extensao_km": 18.5,
+        "cor": "#aa00ff"
+      }
+    ]
+  },
+  {
+    "id": "bonde-turistico-centro-historico-santos-funicular-monte-serrat-ilha-sao-vicente-sp",
+    "slug": "bonde-turistico-centro-historico-santos-funicular-monte-serrat-ilha-sao-vicente-sp",
+    "nome_pt": "Ilha de São Vicente (Santos e São Vicente) — Linha Turística do Bonde do Centro Histórico de Santos e Sistema Funicular do Monte Serrat (SP)",
+    "nome_en": "São Vicente Island (Santos & São Vicente) — Santos Historic Downtown Heritage Tramway & Monte Serrat Funicular Railway (SP, Brazil)",
+    "pais": "Ilha de São Vicente e Santos (São Paulo)",
+    "cidade": "Santos / São Vicente (Ilha de São Vicente)",
+    "uf": "SP",
+    "tipo": "vlt",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "CET-Santos (Companhia de Engenharia de Tráfego — Bonde Turístico de Santos) & Caminho Aéreo do Monte Serrat Ltda.",
+    "inauguracao": "1871 (Primeiros bondes de Santos / 2000 Linha Turística do Bonde) e 1927 (Inauguração do Funicular do Monte Serrat)",
+    "extensao_km": 6.2,
+    "bitola": "1350 mm (Bitola histórica dos bondes de Santos) e 1000 mm (Funicular do Monte Serrat com desvio Abt)",
+    "eletrificacao": "Rede aérea 600 V CC (Bondes do Centro Histórico) e tração funicular elétrica a cabo (Monte Serrat)",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 2600,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 42 milhões (expansão do circuito do Bonde Turístico pelo Valongo / Mercado Municipal e modernização do Funicular do Monte Serrat)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Integração da Linha Turística do Bonde com a nova fase do VLT da Baixada Santista no Valongo e Paquetá.",
+      "en": "Direct integration of the Santos Heritage Tramway with the new Downtown Santos Light Rail (VLT) loop at Valongo and Paquetá."
+    },
+    "resumo_pt": "Dois marcos históricos em plena operação na Ilha de São Vicente (litoral de São Paulo): a Linha Turística do Bonde do Centro Histórico de Santos (verdadeiro museu vivo de 5 km circulando pela Estação do Valongo de 1867, Bolsa Oficial do Café, Praça Mauá e Outeiro de Santa Catarina com bondes originais escoceses, portugueses, italianos e japoneses) e o clássico Funicular do Monte Serrat (inaugurado em 1927, vencendo 147 metros de altitude sobre 14 viadutos até o santuário e mirante de 360° da ilha).",
+    "resumo_en": "Two operational heritage rail icons on São Vicente Island (Santos, São Paulo): the 5 km Santos Historic Downtown Tramway (operating vintage Scottish, Portuguese, Italian, and Japanese streetcars past the 1867 Valongo Station and Coffee Exchange) and the 1927 Monte Serrat Funicular Railway climbing 147 meters over 14 viaducts.",
+    "lat": -23.9335,
+    "lon": -46.3285,
+    "zoom_inicial": 13.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "bonde de santos",
+      "monte serrat",
+      "funicular",
+      "ilha de são vicente",
+      "santos",
+      "vlt",
+      "são paulo"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bonde_Turistico_de_Santos_SP.jpg/800px-Bonde_Turistico_de_Santos_SP.jpg",
+      "credito": "Wikimedia Commons — Bonde Histórico no Centro de Santos e Funicular do Monte Serrat na Ilha de São Vicente (SP)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Trams_in_Santos"
+    },
+    "linhas": [
+      {
+        "id": "lin-bonde-turistico-centro-historico-santos-funicular-monte-serrat-sp",
+        "nome": "Circuito do Bonde Histórico (Estação Valongo – Praça Mauá – Outeiro) & Funicular do Monte Serrat (Ilha de São Vicente, SP)",
+        "status": "operacao",
+        "extensao_km": 6.2,
+        "cor": "#00c853"
+      }
+    ]
+  },
+  {
+    "id": "ferradura-ferroviaria-valongo-macuco-ponta-da-praia-ilha-sao-vicente-santos-sp",
+    "slug": "ferradura-ferroviaria-valongo-macuco-ponta-da-praia-ilha-sao-vicente-santos-sp",
+    "nome_pt": "Ilha de São Vicente (Santos) — Corredor Ferroviário da Margem Direita do Porto de Santos (Ponte do Casqueiro / Barreiros – Valongo – Macuco – Ponta da Praia, FIPS / Rumo / MRS, SP)",
+    "nome_en": "São Vicente Island (Santos) — Port of Santos Right Bank Freight Rail Corridor (Casqueiro / Barreiros Bridges – Valongo – Macuco – Ponta da Praia, SP, Brazil)",
+    "pais": "Ilha de São Vicente e Santos (São Paulo)",
+    "cidade": "Santos / São Vicente (Ilha de São Vicente)",
+    "uf": "SP",
+    "tipo": "ferrovia_carga",
+    "status": "operacao",
+    "camada": "carga",
+    "operador": "FIPS (Ferrovia Interna do Porto de Santos) / Rumo Malha Paulista / MRS Logística",
+    "inauguracao": "1867 (São Paulo Railway — chegada do primeiro trem ao Valongo na Ilha de São Vicente)",
+    "extensao_km": 16.0,
+    "bitola": "1600 mm (Bitola larga) e 1000 mm (Bitola mista ao longo de todos os berços da Margem Direita)",
+    "eletrificacao": "Não eletrificada (tração diesel-elétrica de alta capacidade)",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": null,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 2,1 bilhões (duplicação e remodelação das peras ferroviárias do Valongo, Outeirinhos, Macuco e Ponta da Praia pela FIPS)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Nova pera ferroviária de Outeirinhos e segregação rodoferroviária completa na Avenida Perimetral da Margem Direita em Santos.",
+      "en": "New Outeirinhos rail loop and complete grade separation along the Right Bank Port Avenue in Santos."
+    },
+    "resumo_pt": "Coração logístico ferroviário da Ilha de São Vicente (Santos, SP) desde 1867: recebe os trens que descem a Serra do Mar pela Cremalheira de Paranapiacaba (MRS) e pela linha Mairinque–Santos (Rumo), ingressando na ilha pelo Canal do Casqueiro e Ponte dos Barreiros para percorrer 16 km de pátios e peras ferroviárias (Alemoa, Saboó, Valongo, Paquetá, Outeirinhos, Macuco e Corredor de Exportação da Ponta da Praia) no maior complexo portuário da América Latina.",
+    "resumo_en": "The historic freight rail backbone of São Vicente Island (Santos, São Paulo) since 1867, channeling trains from the Serra do Mar rack-and-adhesion and Mairinque lines across the Casqueiro Channel through 16 km of port rail yards from Valongo to the Ponta da Praia Export Corridor.",
+    "lat": -23.9585,
+    "lon": -46.3085,
+    "zoom_inicial": 12.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de são vicente",
+      "santos",
+      "porto de santos",
+      "margem direita",
+      "valongo",
+      "ponta da praia",
+      "fips",
+      "ferrovia de carga"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Porto_de_Santos_SP_Brasil.jpg/800px-Porto_de_Santos_SP_Brasil.jpg",
+      "credito": "Wikimedia Commons — Corredor Ferroviário da Margem Direita do Porto de Santos na Ilha de São Vicente (SP)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Port_of_Santos"
+    },
+    "linhas": [
+      {
+        "id": "lin-ferradura-ferroviaria-valongo-macuco-ponta-da-praia-ilha-sao-vicente-santos-sp",
+        "nome": "Tronco Insular da Margem Direita: Alemoa / Saboó – Valongo – Outeirinhos – Macuco – Corredor de Exportação da Ponta da Praia (Santos, SP)",
+        "status": "operacao",
+        "extensao_km": 16.0,
+        "cor": "#aa00ff"
+      }
+    ]
+  },
+  {
+    "id": "trilhos-portuarios-valo-grande-iguape-cananeia-ilha-comprida-sp",
+    "slug": "trilhos-portuarios-valo-grande-iguape-cananeia-ilha-comprida-sp",
+    "nome_pt": "Ilha Comprida, Iguape & Ilha de Cananeia — Trilhos Portuários Históricos do Porto Grande de Iguape, Valo Grande e Carreiras Navais de Cananeia (Lagamar UNESCO, SP)",
+    "nome_en": "Ilha Comprida, Iguape & Cananeia Island — Historic Port Rails of Iguape, Valo Grande & Cananeia Shipyard Slipways (Lagamar UNESCO, SP, Brazil)",
+    "pais": "Ilha Comprida e Iguape / Cananeia (São Paulo)",
+    "cidade": "Ilha Comprida / Iguape / Cananeia (Vale do Ribeira / Lagamar)",
+    "uf": "SP",
+    "tipo": "trem_convencional",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Patrimônio Histórico e Portuário de Iguape / Cananeia & Estaleiros Navais do Mar Pequeno (Lagamar Paulista)",
+    "inauguracao": "1895 / 1914 (Vias portuárias dos engenhos de arroz do Porto Grande de Iguape e carreiras navais de Cananeia)",
+    "extensao_km": 5.2,
+    "bitola": "600 mm / 1000 mm (Vias Décauville portuárias e carreiras de estaleiros do Mar Pequeno)",
+    "eletrificacao": "Guinchos elétricos navais e vagonetas históricas",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": 900,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 24 milhões (revitalização da orla portuária histórica de Iguape, Valo Grande, Boqueirão de Ilha Comprida e Centro Histórico de Cananeia)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Circuito histórico-cultural integrando os antigos casarões e engenhos do Porto Grande de Iguape, Ilha Comprida e Cananeia.",
+      "en": "Heritage circuit linking the historic rice-mill port warehouses of Iguape, Ilha Comprida, and Cananeia Island."
+    },
+    "resumo_pt": "Conjunto de trilhos portuários históricos e carreiras de construção naval pesqueira no complexo estuarino-lagunar de Ilha Comprida (74 km de extensão), Iguape e Ilha de Cananeia, no litoral sul do Estado de São Paulo (reconhecido como Patrimônio Mundial Natural da Humanidade pela UNESCO), articulando o cais histórico do Porto Grande de Iguape / Valo Grande e os estaleiros do Mar de Cananeia.",
+    "resumo_en": "Historic port rail tracks and maritime shipyard slipways across the UNESCO-listed Lagamar estuary of Ilha Comprida, Iguape, and Cananeia Island on the southern coast of São Paulo (Brazil).",
+    "lat": -24.7125,
+    "lon": -47.5525,
+    "zoom_inicial": 11.2,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha comprida",
+      "iguape",
+      "cananeia",
+      "lagamar",
+      "valo grande",
+      "são paulo",
+      "unesco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Iguape_e_Ilha_Comprida_SP.jpg/800px-Iguape_e_Ilha_Comprida_SP.jpg",
+      "credito": "Wikimedia Commons — Mar Pequeno entre Iguape, Ilha Comprida e Cananeia no Litoral Sul de São Paulo",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ilha_Comprida"
+    },
+    "linhas": [
+      {
+        "id": "lin-trilhos-portuarios-valo-grande-iguape-cananeia-ilha-comprida-sp",
+        "nome": "Eixo Portuário e Naval Porto Grande de Iguape – Valo Grande – Boqueirão Norte (Ilha Comprida) / Mar de Cananeia (SP)",
+        "status": "operacao",
+        "extensao_km": 5.2,
+        "cor": "#ff8f00"
+      }
+    ]
+  },
+  {
+    "id": "trilhos-historicos-bondes-ilha-do-governador-cocota-ribeira-galeao-rj",
+    "slug": "trilhos-historicos-bondes-ilha-do-governador-cocota-ribeira-galeao-rj",
+    "nome_pt": "Ilha do Governador — Eixo Patrimonial de Bondes da Ribeira – Cocotá – Freguesia e Trilhos Navais / Aeronáuticos da Ponta do Galeão (Baía de Guanabara, RJ)",
+    "nome_en": "Governador Island — Ribeira – Cocotá – Freguesia Heritage Tramway Axis & Galeão Naval/Aviation Rail Slipways (Guanabara Bay, Rio de Janeiro)",
+    "pais": "Ilha do Governador (Rio de Janeiro)",
+    "cidade": "Rio de Janeiro (Ilha do Governador — Ribeira / Cocotá / Freguesia / Galeão)",
+    "uf": "RJ",
+    "tipo": "vlt",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Patrimônio Histórico da Ilha do Governador (Bonde Histórico da Ribeira) & Estaleiros / Base Aérea do Galeão (Baía de Guanabara)",
+    "inauguracao": "1922 (Inauguração da rede de bondes elétricos da Light na Ilha do Governador: Ribeira – Cocotá – Bananal)",
+    "extensao_km": 8.4,
+    "bitola": "1435 mm (Bitola padrão histórica dos bondes da Ilha do Governador e carreiras navais da Guanabara)",
+    "eletrificacao": "Patrimônio ferroviário-urbano e guinchos elétricos de carreira naval",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": 3100,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 65 milhões (requalificação da Estação Hidroviária de Cocotá, preservação do Bonde da Ribeira e estudos de conexão VLT/BRT no Galeão)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Projeto de ligação sobre trilhos (VLT / People Mover) conectando os Terminais 1 e 2 do Aeroporto Internacional do Galeão na Ilha do Governador.",
+      "en": "Planned light rail / people-mover connection linking Terminals 1 and 2 of Galeão International Airport on Governador Island."
+    },
+    "resumo_pt": "Memória viva e infraestrutura sobre trilhos da Ilha do Governador (maior ilha da Baía de Guanabara, com 42 km² e mais de 215 mil habitantes na Zona Norte do Rio de Janeiro): destaca o histórico corredor de bondes elétricos inaugurado em 1922 entre a Praça Iaiá Garcia (Estação das Barcas da Ribeira, onde permanece preservado o icônico Bonde da Ilha), a Estação Hidroviária de Cocotá, o Zumbi e a Freguesia, além das carreiras navais sobre trilhos dos estaleiros da Ilha do Governador e Ponta do Galeão.",
+    "resumo_en": "Heritage tramway corridor and maritime rail infrastructure on Governador Island (the largest island in Rio de Janeiro's Guanabara Bay, home to Galeão International Airport), spanning the historic 1922 Ribeira – Cocotá – Freguesia electric streetcar route and island shipyard slipways.",
+    "lat": -22.8085,
+    "lon": -43.1765,
+    "zoom_inicial": 12.8,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha do governador",
+      "ribeira",
+      "cocotá",
+      "galeão",
+      "bonde da ilha",
+      "rio de janeiro",
+      "baía de guanabara",
+      "vlt"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Estacao_das_Barcas_Praca_XV_Rio_de_Janeiro.jpg/800px-Estacao_das_Barcas_Praca_XV_Rio_de_Janeiro.jpg",
+      "credito": "Wikimedia Commons — Bonde Histórico da Ribeira e Estação de Cocotá na Ilha do Governador (Baía de Guanabara, RJ)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ilha_do_Governador"
+    },
+    "linhas": [
+      {
+        "id": "lin-trilhos-historicos-bondes-ilha-do-governador-cocota-ribeira-galeao-rj",
+        "nome": "Corredor Insular da Ilha do Governador: Praça Iaiá Garcia (Ribeira) – Zumbi – Estação das Barcas de Cocotá – Freguesia (RJ)",
+        "status": "operacao",
+        "extensao_km": 8.4,
+        "cor": "#00c853"
+      }
+    ]
+  },
+  {
+    "id": "trilhos-arsenal-de-marinha-ilha-das-cobras-ilha-fiscal-paqueta-guanabara-rj",
+    "slug": "trilhos-arsenal-de-marinha-ilha-das-cobras-ilha-fiscal-paqueta-guanabara-rj",
+    "nome_pt": "Ilha das Cobras, Ilha Fiscal & Ilha de Paquetá — Rede Ferroviária de Guindastes e Diques Secos do Arsenal de Marinha (AMRJ) e Trilhos Históricos de Paquetá (Baía de Guanabara, RJ)",
+    "nome_en": "Cobras Island, Fiscal Island & Paquetá Island — Navy Arsenal Drydock Crane Railway Network (AMRJ) & Paquetá Historic Rail Tracks (Guanabara Bay, RJ)",
+    "pais": "Ilha de Paquetá e Ilha Fiscal / Ilha das Cobras (Rio de Janeiro)",
+    "cidade": "Rio de Janeiro (Ilha das Cobras / Ilha Fiscal / Ilha de Paquetá)",
+    "uf": "RJ",
+    "tipo": "trem_convencional",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Marinha do Brasil (Arsenal de Marinha do Rio de Janeiro — AMRJ / Espaço Cultural da Marinha na Ilha Fiscal) & Patrimônio de Paquetá",
+    "inauguracao": "1763 / 1928 (Construção dos grandes diques secos e rede ferroviária naval da Ilha das Cobras e molhe da Ilha Fiscal)",
+    "extensao_km": 5.8,
+    "bitola": "1000 mm / 1435 mm (Bitola mista e bitola larga de pórticos nos Diques Almirante Jardim, Santa Cruz e Guanabara)",
+    "eletrificacao": "Guindastes elétricos pesados sobre trilhos e locomotivas/tratores de manobra naval",
+    "n_linhas": 1,
+    "n_estacoes": 2,
+    "passageiros_dia": 1800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 110 milhões (modernização das vias férreas de guindastes dos Diques Almirante Jardim e Santa Cruz na Ilha das Cobras e restauro da Ilha Fiscal)",
+      "moeda": "BRL",
+      "fonte_id": "wiki-cc"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação do circuito museológico naval entre o Espaço Cultural da Marinha (Boulevard Olímpico), a Ilha das Cobras e a Ilha Fiscal.",
+      "en": "Expansion of the naval heritage circuit connecting the Navy Cultural Center, Cobras Island, and Fiscal Island."
+    },
+    "resumo_pt": "Complexo ferroviário-naval insular na Baía de Guanabara (Rio de Janeiro): na histórica Ilha das Cobras, o Arsenal de Marinha do Rio de Janeiro (AMRJ, fundado em 1763) opera uma extensa malha de trilhos pesados ao redor dos monumentais diques secos escavados na rocha (Dique Almirante Jardim de 253 m, Dique Santa Cruz e Dique Guanabara) e ao longo do molhe que conecta a Ilha das Cobras à célebre Ilha Fiscal (palco do Último Baile do Império em 1889), complementado pelos trilhos de estaleiro e patrimônio da bucólica Ilha de Paquetá (onde é proibida a circulação de carros particulares).",
+    "resumo_en": "Island naval railway and heritage complex in Rio de Janeiro's Guanabara Bay: on Cobras Island, the Brazilian Navy Arsenal (AMRJ, founded in 1763) operates heavy crane and service railway tracks around the rock-carved Almirante Jardim and Santa Cruz drydocks and along the causeway to historic Fiscal Island, alongside the car-free heritage island of Paquetá.",
+    "lat": -22.8965,
+    "lon": -43.1695,
+    "zoom_inicial": 13.5,
+    "fontes": [
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha das cobras",
+      "ilha fiscal",
+      "ilha de paquetá",
+      "arsenal de marinha",
+      "baía de guanabara",
+      "rio de janeiro"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ilha_Fiscal_Rio_de_Janeiro.jpg/800px-Ilha_Fiscal_Rio_de_Janeiro.jpg",
+      "credito": "Wikimedia Commons — Ilha Fiscal, Ilha das Cobras (Arsenal de Marinha) e Ilha de Paquetá na Baía de Guanabara (RJ)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ilha_Fiscal"
+    },
+    "linhas": [
+      {
+        "id": "lin-trilhos-arsenal-de-marinha-ilha-das-cobras-ilha-fiscal-paqueta-guanabara-rj",
+        "nome": "Malha Ferroviária Naval Dique Almirante Jardim – Dique Santa Cruz (Ilha das Cobras) – Molhe da Ilha Fiscal (Baía de Guanabara, RJ)",
+        "status": "operacao",
+        "extensao_km": 5.8,
+        "cor": "#ff8f00"
+      }
+    ]
   }
 ]
