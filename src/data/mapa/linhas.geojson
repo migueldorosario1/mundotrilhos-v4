@@ -37960,6 +37960,332 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-medio-sao-francisco-pirapora-barra-sobradinho-petrolina-juazeiro",
+        "sistema_id": "hidrovia-travessias-rio-sao-francisco-pirapora-juazeiro-petrolina-penedo-neopolis",
+        "nome": "Hidrovia do Médio São Francisco e Barquinha Petrolina–Juazeiro: Pirapora (MG) – Bom Jesus da Lapa – Ibotirama – Barra – Eclusa de Sobradinho – Juazeiro (BA) / Petrolina (PE)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Barquinhas Petrolina–Juazeiro & Navegação do São Francisco (DNIT AHSFRN)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.9415,
+            -17.3445
+          ],
+          [
+            -44.2015,
+            -15.4885
+          ],
+          [
+            -43.4215,
+            -13.2545
+          ],
+          [
+            -43.2145,
+            -12.1815
+          ],
+          [
+            -43.0885,
+            -11.0885
+          ],
+          [
+            -40.8245,
+            -9.4315
+          ],
+          [
+            -40.5025,
+            -9.4065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-baixo-sao-francisco-penedo-neopolis-piacabucu-foz-al-se",
+        "sistema_id": "hidrovia-travessias-rio-sao-francisco-pirapora-juazeiro-petrolina-penedo-neopolis",
+        "nome": "Travessia Hidroviária do Baixo São Francisco: Penedo (AL) – Neópolis / Santana do São Francisco (SE) – Piaçabuçu – Foz do São Francisco",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Balsas e Lanchas Penedo–Neópolis & Piaçabuçu–Brejo Grande"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -36.5845,
+            -10.2915
+          ],
+          [
+            -36.5785,
+            -10.3185
+          ],
+          [
+            -36.4325,
+            -10.4065
+          ],
+          [
+            -36.3885,
+            -10.5025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-delta-do-parnaiba-porto-dos-tatus-canarias-tutoia-pi-ma",
+        "sistema_id": "travessias-hidroviarias-camocim-delta-do-parnaiba-porto-dos-tatus-tutoia-ce-pi-ma",
+        "nome": "Hidrovia do Delta do Parnaíba: Porto dos Tatus (Ilha Grande / Parnaíba, PI) – Ilha das Canárias – Ilha do Caju – Porto de Tutóia (MA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Lanchas e Embarcações do Delta do Parnaíba (PI/MA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -41.8185,
+            -2.8425
+          ],
+          [
+            -41.8545,
+            -2.7585
+          ],
+          [
+            -42.0245,
+            -2.7425
+          ],
+          [
+            -42.2715,
+            -2.7615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-travessia-rio-coreau-camocim-ilha-do-amor-ce",
+        "sistema_id": "travessias-hidroviarias-camocim-delta-do-parnaiba-porto-dos-tatus-tutoia-ce-pi-ma",
+        "nome": "Travessia Hidroviária do Rio Coreaú: Cais de Camocim – Ilha do Amor / Testa Branca (Camocim, CE)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Balsas e Barcos de Travessia de Camocim (CE)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.8415,
+            -2.9015
+          ],
+          [
+            -40.8365,
+            -2.8925
+          ],
+          [
+            -40.8245,
+            -2.8785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-baia-de-camamu-barra-grande-ilha-grande-marau-ba",
+        "sistema_id": "ferry-boat-catamaras-camamu-barra-grande-porto-seguro-arraial-dajuda-ba",
+        "nome": "Hidrovia da Baía de Camamu: Terminal Hidroviário de Camamu – Ilha Grande – Campinho – Píer de Barra Grande (Península de Maraú, BA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Lanchas Rápidas e Barcos da Baía de Camamu (BA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.1035,
+            -13.9445
+          ],
+          [
+            -39.0285,
+            -13.9245
+          ],
+          [
+            -38.9485,
+            -13.8885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-balsa-porto-seguro-arraial-dajuda-cabralia-ba",
+        "sistema_id": "ferry-boat-catamaras-camamu-barra-grande-porto-seguro-arraial-dajuda-ba",
+        "nome": "Travessia de Balsas da Costa do Descobrimento: Porto Seguro (Centro) – Arraial d'Ajuda (Rio Buranhém) & Santa Cruz Cabrália – Santo André (BA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Balsas Rio Buranhém & Rio João de Tiba (Porto Seguro / Cabrália)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0125,
+            -16.2785
+          ],
+          [
+            -39.0245,
+            -16.3485
+          ],
+          [
+            -39.0645,
+            -16.4512
+          ],
+          [
+            -39.0665,
+            -16.4625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-balsa-bertioga-guaruja-rabo-do-dragao-dh-sp",
+        "sistema_id": "travessias-hidroviarias-bertioga-iguape-jureia-cananeia-ariri-sp",
+        "nome": "Travessia Hidroviária Bertioga – Guarujá (Rabo do Dragão / Canal de Bertioga — DH-SP)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Departamento Hidroviário de São Paulo (DH-SP)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.1385,
+            -23.8545
+          ],
+          [
+            -46.1355,
+            -23.8615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-lagamar-iguape-jureia-cananeia-ilha-comprida-ariri-sp",
+        "sistema_id": "travessias-hidroviarias-bertioga-iguape-jureia-cananeia-ariri-sp",
+        "nome": "Rede Hidroviária do Lagamar Paulista: Iguape–Jureia, Cananeia–Ilha Comprida e Linha Cananeia–Ilha do Cardoso–Ariri (DH-SP)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Departamento Hidroviário de São Paulo (DH-SP)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.5545,
+            -24.7085
+          ],
+          [
+            -47.9265,
+            -25.0145
+          ],
+          [
+            -47.9165,
+            -25.0215
+          ],
+          [
+            -48.0345,
+            -25.1885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-costa-verde-cais-de-paraty-cajaiba-saco-do-mamangua-rj",
+        "sistema_id": "aquaviarios-travessias-cabo-frio-buzios-arraial-do-cabo-paraty-mamangua-rj",
+        "nome": "Hidrovia Costeira de Paraty: Cais Histórico de Paraty – Paraty-Mirim – Saco do Mamanguá – Pouso da Cajaíba (Costa Verde, RJ)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Barcos Costeiros e Baleeiras de Paraty (RJ)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.7115,
+            -23.2215
+          ],
+          [
+            -44.6385,
+            -23.2425
+          ],
+          [
+            -44.6025,
+            -23.2685
+          ],
+          [
+            -44.5425,
+            -23.2845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-regiao-dos-lagos-cabo-frio-buzios-arraial-do-cabo-rj",
+        "sistema_id": "aquaviarios-travessias-cabo-frio-buzios-arraial-do-cabo-paraty-mamangua-rj",
+        "nome": "Aquaviários e Barcos-Táxi da Região dos Lagos: Arraial do Cabo (Praia dos Anjos) – Cabo Frio (Canal do Itajuru / Ilha do Japonês) – Armação dos Búzios (Píer do Centro – Ossos – João Fernandes, RJ)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Aqua Táxi Cabo Frio, Búzios & Arraial do Cabo (RJ)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.0185,
+            -22.9715
+          ],
+          [
+            -42.0125,
+            -22.8785
+          ],
+          [
+            -41.8865,
+            -22.7525
+          ],
+          [
+            -41.8745,
+            -22.7425
+          ]
+        ]
+      }
     }
   ]
 }

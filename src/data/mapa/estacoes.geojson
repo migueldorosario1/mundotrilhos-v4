@@ -31211,6 +31211,294 @@
           -3.7665
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-vapor-benjamim-guimaraes-pirapora-mg",
+        "nome": "Porto Fluvial de Pirapora e Cais do Vapor Benjamim Guimarães (Rio São Francisco, MG)",
+        "sistema_id": "hidrovia-travessias-rio-sao-francisco-pirapora-juazeiro-petrolina-penedo-neopolis",
+        "linha": "Hidrovia do Médio São Francisco",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9415,
+          -17.3445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-eclusa-de-sobradinho-rio-sao-francisco-ba",
+        "nome": "Eclusa de Sobradinho (Lago de Sobradinho — Rio São Francisco, BA)",
+        "sistema_id": "hidrovia-travessias-rio-sao-francisco-pirapora-juazeiro-petrolina-penedo-neopolis",
+        "linha": "Hidrovia do Médio São Francisco",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8245,
+          -9.4315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-atracadouro-barquinha-petrolina-juazeiro-pe-ba",
+        "nome": "Terminal das Barquinhas Petrolina (PE) – Juazeiro (BA) (Orla do Rio São Francisco)",
+        "sistema_id": "hidrovia-travessias-rio-sao-francisco-pirapora-juazeiro-petrolina-penedo-neopolis",
+        "linha": "Travessia Urbana Petrolina–Juazeiro e Hidrovia do São Francisco",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5025,
+          -9.4065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsas-penedo-neopolis-baixo-sao-francisco-al-se",
+        "nome": "Terminal de Balsas e Lanchas Penedo (AL) – Neópolis (SE) (Baixo São Francisco)",
+        "sistema_id": "hidrovia-travessias-rio-sao-francisco-pirapora-juazeiro-petrolina-penedo-neopolis",
+        "linha": "Travessia Hidroviária do Baixo São Francisco",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5845,
+          -10.2915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-dos-tatus-delta-do-parnaiba-pi",
+        "nome": "Terminal Hidroviário do Porto dos Tatus — Delta do Parnaíba (Ilha Grande / Parnaíba, PI)",
+        "sistema_id": "travessias-hidroviarias-camocim-delta-do-parnaiba-porto-dos-tatus-tutoia-ce-pi-ma",
+        "linha": "Hidrovia do Delta do Parnaíba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8185,
+          -2.8425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-hidroviario-tutoia-delta-parnaiba-ma",
+        "nome": "Porto Hidroviário de Tutóia — Baía de Tutóia / Delta do Parnaíba (MA)",
+        "sistema_id": "travessias-hidroviarias-camocim-delta-do-parnaiba-porto-dos-tatus-tutoia-ce-pi-ma",
+        "linha": "Hidrovia do Delta do Parnaíba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2715,
+          -2.7615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-travessia-camocim-ilha-do-amor-ce",
+        "nome": "Cais de Travessia Hidroviária de Camocim – Ilha do Amor (Rio Coreaú, CE)",
+        "sistema_id": "travessias-hidroviarias-camocim-delta-do-parnaiba-porto-dos-tatus-tutoia-ce-pi-ma",
+        "linha": "Travessia Hidroviária do Rio Coreaú",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8415,
+          -2.9015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-camamu-costa-do-dende-ba",
+        "nome": "Terminal Hidroviário de Camamu (Baía de Camamu, BA)",
+        "sistema_id": "ferry-boat-catamaras-camamu-barra-grande-porto-seguro-arraial-dajuda-ba",
+        "linha": "Hidrovia da Baía de Camamu: Camamu – Barra Grande",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1035,
+          -13.9445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-barra-grande-peninsula-de-marau-ba",
+        "nome": "Píer Hidroviário de Barra Grande (Península de Maraú, BA)",
+        "sistema_id": "ferry-boat-catamaras-camamu-barra-grande-porto-seguro-arraial-dajuda-ba",
+        "linha": "Hidrovia da Baía de Camamu: Camamu – Barra Grande",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9485,
+          -13.8885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsas-porto-seguro-arraial-dajuda-ba",
+        "nome": "Terminal de Balsas do Rio Buranhém — Porto Seguro – Arraial d'Ajuda (BA)",
+        "sistema_id": "ferry-boat-catamaras-camamu-barra-grande-porto-seguro-arraial-dajuda-ba",
+        "linha": "Travessia de Balsas Porto Seguro – Arraial d'Ajuda",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0645,
+          -16.4512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsa-bertioga-guaruja-dh-sp",
+        "nome": "Terminal Hidroviário de Balsas Bertioga – Guarujá / Rabo do Dragão (DH-SP)",
+        "sistema_id": "travessias-hidroviarias-bertioga-iguape-jureia-cananeia-ariri-sp",
+        "linha": "Travessia Hidroviária Bertioga – Guarujá",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1385,
+          -23.8545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsa-cananeia-ilha-comprida-dh-sp",
+        "nome": "Terminal Hidroviário de Cananeia – Ilha Comprida / Ilha do Cardoso (DH-SP)",
+        "sistema_id": "travessias-hidroviarias-bertioga-iguape-jureia-cananeia-ariri-sp",
+        "linha": "Rede Hidroviária do Lagamar Paulista",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9265,
+          -25.0145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsa-iguape-jureia-barra-do-ribeira-sp",
+        "nome": "Terminal de Balsas Iguape – Jureia / Barra do Ribeira (DH-SP)",
+        "sistema_id": "travessias-hidroviarias-bertioga-iguape-jureia-cananeia-ariri-sp",
+        "linha": "Rede Hidroviária do Lagamar Paulista",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5545,
+          -24.7085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-historico-de-paraty-costa-verde-rj",
+        "nome": "Cais Histórico de Passageiros de Paraty — Baía de Paraty / Mamanguá (RJ — UNESCO)",
+        "sistema_id": "aquaviarios-travessias-cabo-frio-buzios-arraial-do-cabo-paraty-mamangua-rj",
+        "linha": "Hidrovia Costeira de Paraty: Cais de Paraty – Saco do Mamanguá – Cajaíba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.7115,
+          -23.2215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-boulevard-canal-ilha-do-japones-cabo-frio-rj",
+        "nome": "Terminal de Barcos-Táxi do Canal do Itajuru / Ilha do Japonês (Cabo Frio, RJ)",
+        "sistema_id": "aquaviarios-travessias-cabo-frio-buzios-arraial-do-cabo-paraty-mamangua-rj",
+        "linha": "Aquaviários e Barcos-Táxi da Região dos Lagos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0125,
+          -22.8785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-do-centro-rua-das-pedras-buzios-rj",
+        "nome": "Píer do Centro (Rua das Pedras) & Barcos-Táxi de Armação dos Búzios (RJ)",
+        "sistema_id": "aquaviarios-travessias-cabo-frio-buzios-arraial-do-cabo-paraty-mamangua-rj",
+        "linha": "Aquaviários e Barcos-Táxi da Região dos Lagos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8865,
+          -22.7525
+        ]
+      }
     }
   ]
 }
