@@ -31597,6 +31597,186 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-patrimonial-fazenda-vaitea-hanga-piko-ilha-de-pascoa-rapa-nui",
+        "linha": "Ferrovia Patrimonial da Companhia Williamson-Balfour Hanga Piko – Hanga Roa – Vaitea (Ilha de Páscoa / Rapa Nui)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovia Patrimonial da Fazenda de Vaitea – Hanga Roa – Porto de Hanga Piko (Ilha de Páscoa / Rapa Nui, Pacífico Sudeste, Chile)",
+        "sistema_nome_en": "Vaitea Ranch – Hanga Roa – Hanga Piko Port Heritage Railway (Easter Island / Rapa Nui, Southeastern Pacific, Chile)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -109.4385,
+            -27.1525
+          ],
+          [
+            -109.405,
+            -27.139
+          ],
+          [
+            -109.365,
+            -27.121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-florestal-pesqueira-cumberland-bay-robinson-crusoe-juan-fernandez",
+        "linha": "Vias Portuárias e Florestais de San Juan Bautista – Caleta El Palillo (Bahía Cumberland, Ilha Robinson Crusoe)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Portuárias, Florestais e Pesqueiras de Bahía Cumberland – San Juan Bautista – Caleta El Palillo (Ilha Robinson Crusoe, Arquipélago de Juan Fernández, Chile)",
+        "sistema_nome_en": "Cumberland Bay – San Juan Bautista – Caleta El Palillo Port, Forestry & Lobster Fishery Rail Tracks (Robinson Crusoe Island, Juan Fernández Archipelago, Chile)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8315,
+            -33.6365
+          ],
+          [
+            -78.829,
+            -33.635
+          ],
+          [
+            -78.8265,
+            -33.6335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-acucareira-el-progreso-puerto-baquerizo-moreno-san-cristobal-galapagos",
+        "linha": "Ferrovia Patrimonial Hacienda El Progreso – Puerto Baquerizo Moreno (Ilha San Cristóbal, Galápagos)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovia Patrimonial Açucareira de Hacienda El Progreso – Puerto Baquerizo Moreno (Ilha San Cristóbal, Arquipélago de Galápagos, Equador)",
+        "sistema_nome_en": "Hacienda El Progreso – Puerto Baquerizo Moreno Heritage Sugar Railway (San Cristóbal Island, Galápagos Archipelago, Ecuador)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6095,
+            -0.9025
+          ],
+          [
+            -89.5825,
+            -0.9045
+          ],
+          [
+            -89.5565,
+            -0.9065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-salineira-mineradora-puerto-villamil-santiago-isabela-galapagos",
+        "linha": "Vias Patrimoniais da Mina de Sal de Puerto Egas (Ilha Santiago) e Porto de Baltra / Santa Cruz (Ilhas Galápagos)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Patrimoniais da Mina de Sal de Puerto Egas (Ilha Santiago) e Trilhos Portuários do Canal de Itabaca / Baltra (Ilhas Galápagos, Equador)",
+        "sistema_nome_en": "Puerto Egas Salt Mine Heritage Rail Tracks (Santiago Island) & Itabaca Channel / Baltra Port Tracks (Galápagos Islands, Ecuador)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.8435,
+            -0.2565
+          ],
+          [
+            -90.8405,
+            -0.2585
+          ],
+          [
+            -90.8365,
+            -0.261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-logisticos-cais-wafer-bay-chatham-bay-ilha-do-coco",
+        "linha": "Vias de Abastecimento e Guardaparques de Wafer Bay – Genio River Station (Parque Nacional da Ilha do Coco, Pacífico Oriental)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias de Abastecimento e Guardaparques de Wafer Bay – Rio Genio e Chatham Bay (Parque Nacional da Ilha do Coco, Costa Rica)",
+        "sistema_nome_en": "Wafer Bay – Genio River & Chatham Bay Ranger Station Supply Rail Tracks (Cocos Island National Park, Costa Rica)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0605,
+            5.5445
+          ],
+          [
+            -87.052,
+            5.547
+          ],
+          [
+            -87.0435,
+            5.5495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-portuarias-salineiras-hawlaf-hadiboh-qalansiyah-arquipelago-de-socotra",
+        "linha": "Vias Portuárias de Hawlaf Port – Hadiboh e Salinas de Qalansiyah (Patrimônio Mundial UNESCO de Socotra, Oceano Índico)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Portuárias de Hawlaf – Hadiboh e Trilhos Salineiros de Qalansiyah (Arquipélago de Socotra, Patrimônio Mundial da UNESCO, Oceano Índico)",
+        "sistema_nome_en": "Hawlaf – Hadiboh Port Rail Tracks & Qalansiyah Saltworks Tramway (Socotra Archipelago UNESCO World Heritage Site, Indian Ocean)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0825,
+            12.6845
+          ],
+          [
+            54.0485,
+            12.668
+          ],
+          [
+            54.0185,
+            12.652
+          ]
+        ]
+      }
     }
   ]
 }
