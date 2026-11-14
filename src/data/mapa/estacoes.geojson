@@ -30383,6 +30383,276 @@
           -22.8969
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-marco-zero-porto-do-recife-ilha-do-recife-pe",
+        "nome": "Estação Portuária do Marco Zero / Cais do Sertão (Ilha do Recife Antigo, PE)",
+        "sistema_id": "trilhos-portuarios-bondes-historicos-ilha-do-recife-santo-antonio-itamaraca-pe",
+        "linha": "Eixo Ferroviário-Portuário e Bondes da Ilha do Recife Antigo",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8711,
+          -8.0631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-forte-cinco-pontas-ilha-santo-antonio-recife-pe",
+        "nome": "Estação Forte das Cinco Pontas / Cais José Estelita (Ilha de Santo Antônio, Recife, PE)",
+        "sistema_id": "trilhos-portuarios-bondes-historicos-ilha-do-recife-santo-antonio-itamaraca-pe",
+        "linha": "Eixo Ferroviário-Portuário e Bondes da Ilha do Recife Antigo",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8812,
+          -8.0715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-forte-orange-vila-velha-ilha-itamaraca-pe",
+        "nome": "Forte de Santa Cruz de Itamaracá (Forte Orange — Ilha de Itamaracá, PE)",
+        "sistema_id": "trilhos-portuarios-bondes-historicos-ilha-do-recife-santo-antonio-itamaraca-pe",
+        "linha": "Eixo Insular da Ilha de Itamaracá",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8392,
+          -7.8085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-torre-movel-integracao-cla-alcantara-ma",
+        "nome": "Plataforma Ferroviária da Torre Móvel de Integração (Centro de Lançamento de Alcântara — CLA, MA)",
+        "sistema_id": "trilhos-portuarios-espaciais-alcantara-cujupe-baia-sao-marcos-ma",
+        "linha": "Corredor de Trilhos da Torre Móvel do CLA – Porto Histórico de Alcântara – Cujupe",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3965,
+          -2.3185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-historico-alcantara-ladeira-jacare-ma",
+        "nome": "Cais Histórico de Alcântara / Ladeira do Jacaré (Fronteira à Ilha do Livramento, MA)",
+        "sistema_id": "trilhos-portuarios-espaciais-alcantara-cujupe-baia-sao-marcos-ma",
+        "linha": "Corredor de Trilhos da Torre Móvel do CLA – Porto Histórico de Alcântara – Cujupe",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4145,
+          -2.4085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-cujupe-baia-sao-marcos-alcantara-ma",
+        "nome": "Terminal Portuário e Hidroviário do Cujupe (Alcântara / Baía de São Marcos, MA)",
+        "sistema_id": "trilhos-portuarios-espaciais-alcantara-cujupe-baia-sao-marcos-ma",
+        "linha": "Corredor de Trilhos da Torre Móvel do CLA – Porto Histórico de Alcântara – Cujupe",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4825,
+          -2.4015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-santo-antonio-fernando-de-noronha-pe",
+        "nome": "Porto de Santo Antônio (Carreiras e Trilhos Portuários — Fernando de Noronha, PE)",
+        "sistema_id": "estrada-de-ferro-militar-portuaria-baia-santo-antonio-fernando-de-noronha-pe",
+        "linha": "Linha Histórica Militar e Portuária de Fernando de Noronha",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.4045,
+          -3.8395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ponta-air-france-fernando-de-noronha-pe",
+        "nome": "Ponta de Santo Antônio / Espaço Cultural Air France (Fernando de Noronha, PE)",
+        "sistema_id": "estrada-de-ferro-militar-portuaria-baia-santo-antonio-fernando-de-noronha-pe",
+        "linha": "Linha Histórica Militar e Portuária de Fernando de Noronha",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.4012,
+          -3.8342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-fortaleza-remedios-vila-dos-remedios-noronha-pe",
+        "nome": "Fortaleza de Nossa Senhora dos Remédios / Vila dos Remédios (Fernando de Noronha, PE — UNESCO)",
+        "sistema_id": "estrada-de-ferro-militar-portuaria-baia-santo-antonio-fernando-de-noronha-pe",
+        "linha": "Linha Histórica Militar e Portuária de Fernando de Noronha",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.4108,
+          -3.8445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-fortaleza-tapirandu-morro-sao-paulo-ba",
+        "nome": "Cais e Fortaleza de Tapirandu — Morro de São Paulo (Ilha de Tinharé, BA)",
+        "sistema_id": "trilhos-historicos-fortaleza-tapirandu-morro-de-sao-paulo-boipeba-tinhare-ba",
+        "linha": "Trilhos do Cais da Fortaleza de Tapirandu e Hidrovia Insular de Cairu",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9145,
+          -13.3775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-gamboa-do-morro-ilha-tinhare-ba",
+        "nome": "Terminal Hidroviário de Gamboa do Morro (Ilha de Tinharé, Cairu, BA)",
+        "sistema_id": "trilhos-historicos-fortaleza-tapirandu-morro-de-sao-paulo-boipeba-tinhare-ba",
+        "linha": "Hidrovia Insular de Cairu: Valença – Gamboa – Morro de São Paulo – Boipeba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9365,
+          -13.3945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-boca-da-barra-velha-boipeba-ba",
+        "nome": "Terminal Hidroviário da Boca da Barra — Velha Boipeba (Ilha de Boipeba, BA)",
+        "sistema_id": "trilhos-historicos-fortaleza-tapirandu-morro-de-sao-paulo-boipeba-tinhare-ba",
+        "linha": "Hidrovia Insular de Cairu: Valença – Gamboa – Morro de São Paulo – Boipeba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9155,
+          -13.5785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-santa-isabel-do-morro-ilha-do-bananal-to",
+        "nome": "Porto e Carreira Naval de Santa Isabel do Morro / Aldeia Hawalora (Ilha do Bananal, TO)",
+        "sistema_id": "trilhos-fluviais-carreiras-ilha-do-bananal-santa-isabel-do-morro-araguaia-to-mt",
+        "linha": "Hidrovia do Rio Araguaia e Javaés — Ilha do Bananal",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.6685,
+          -11.5845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-sao-felix-do-araguaia-mt",
+        "nome": "Terminal Hidroviário de São Félix do Araguaia (Margem Esquerda do Rio Araguaia, MT)",
+        "sistema_id": "trilhos-fluviais-carreiras-ilha-do-bananal-santa-isabel-do-morro-araguaia-to-mt",
+        "linha": "Hidrovia do Rio Araguaia e Javaés — Ilha do Bananal",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.6685,
+          -11.6165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-barreira-da-cruz-rio-javaes-bananal-to",
+        "nome": "Porto Fluvial da Barreira da Cruz / Rio Javaés (Acesso Leste à Ilha do Bananal, TO)",
+        "sistema_id": "trilhos-fluviais-carreiras-ilha-do-bananal-santa-isabel-do-morro-araguaia-to-mt",
+        "linha": "Hidrovia do Rio Araguaia e Javaés — Ilha do Bananal",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9685,
+          -11.7845
+        ]
+      }
     }
   ]
 }

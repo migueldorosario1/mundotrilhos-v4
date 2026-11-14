@@ -37173,6 +37173,233 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bondes-trilhos-portuarios-ilha-do-recife-santo-antonio-pe",
+        "sistema_id": "trilhos-portuarios-bondes-historicos-ilha-do-recife-santo-antonio-itamaraca-pe",
+        "nome": "Eixo Ferroviário-Portuário e Bondes da Ilha do Recife Antigo (Brum – Marco Zero) – Ilha de Santo Antônio (Forte das Cinco Pontas)",
+        "tipo": "vlt",
+        "status": "operacao",
+        "cor": "#00c853",
+        "operador": "Porto do Recife S.A. / Prefeitura do Recife"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -34.8672,
+            -8.0518
+          ],
+          [
+            -34.8695,
+            -8.0585
+          ],
+          [
+            -34.8711,
+            -8.0631
+          ],
+          [
+            -34.8768,
+            -8.0665
+          ],
+          [
+            -34.8812,
+            -8.0715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-trilhos-historicos-forte-orange-vila-velha-ilha-itamaraca-pe",
+        "sistema_id": "trilhos-portuarios-bondes-historicos-ilha-do-recife-santo-antonio-itamaraca-pe",
+        "nome": "Eixo Insular da Ilha de Itamaracá (Pilar – Jaguaribe – Forte Orange / Vila Velha, PE)",
+        "tipo": "trem_convencional",
+        "status": "operacao",
+        "cor": "#ff8f00",
+        "operador": "Patrimônio Histórico da Ilha de Itamaracá"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -34.8245,
+            -7.7485
+          ],
+          [
+            -34.8315,
+            -7.7785
+          ],
+          [
+            -34.8392,
+            -7.8085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-trilhos-aeroespaciais-portuarios-alcantara-cujupe-ma",
+        "sistema_id": "trilhos-portuarios-espaciais-alcantara-cujupe-baia-sao-marcos-ma",
+        "nome": "Corredor de Trilhos da Torre Móvel do CLA – Porto Histórico de Alcântara – Terminal de Cujupe (MA)",
+        "tipo": "trem_convencional",
+        "status": "operacao",
+        "cor": "#ff8f00",
+        "operador": "CLA (AEB/FAB) & EMAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.3965,
+            -2.3185
+          ],
+          [
+            -44.4055,
+            -2.3725
+          ],
+          [
+            -44.4145,
+            -2.4085
+          ],
+          [
+            -44.4825,
+            -2.4015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ferrovia-militar-porto-santo-antonio-remedios-fernando-noronha-pe",
+        "sistema_id": "estrada-de-ferro-militar-portuaria-baia-santo-antonio-fernando-de-noronha-pe",
+        "nome": "Linha Histórica Militar e Portuária: Ponta Air France – Porto de Santo Antônio – Fortaleza dos Remédios (Fernando de Noronha, PE)",
+        "tipo": "trem_convencional",
+        "status": "operacao",
+        "cor": "#ff8f00",
+        "operador": "ATDEFN / IPHAN / ICMBio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32.4012,
+            -3.8342
+          ],
+          [
+            -32.4045,
+            -3.8395
+          ],
+          [
+            -32.4108,
+            -3.8445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-trilhos-fortaleza-tapirandu-farol-morro-sao-paulo-ba",
+        "sistema_id": "trilhos-historicos-fortaleza-tapirandu-morro-de-sao-paulo-boipeba-tinhare-ba",
+        "nome": "Trilhos do Cais da Fortaleza de Tapirandu – Portaló – Vila de Morro de São Paulo (Ilha de Tinharé, BA)",
+        "tipo": "trem_convencional",
+        "status": "operacao",
+        "cor": "#ff8f00",
+        "operador": "Prefeitura-Arquipélago de Cairu / IPHAN"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.9165,
+            -13.3745
+          ],
+          [
+            -38.9145,
+            -13.3775
+          ],
+          [
+            -38.9112,
+            -13.3825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-valenca-gamboa-morro-sao-paulo-boipeba-ba",
+        "sistema_id": "trilhos-historicos-fortaleza-tapirandu-morro-de-sao-paulo-boipeba-tinhare-ba",
+        "nome": "Hidrovia Insular de Cairu: Atracadouro Bom Jardim (Valença) – Gamboa – Morro de São Paulo – Velha Boipeba (BA)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "AGERBA / Lanchas e Barcos de Tinharé e Boipeba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0125,
+            -13.3545
+          ],
+          [
+            -38.9365,
+            -13.3945
+          ],
+          [
+            -38.9145,
+            -13.3775
+          ],
+          [
+            -38.9045,
+            -13.4825
+          ],
+          [
+            -38.9155,
+            -13.5785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-araguaia-ilha-do-bananal-santa-isabel-sao-felix-to-mt",
+        "sistema_id": "trilhos-fluviais-carreiras-ilha-do-bananal-santa-isabel-do-morro-araguaia-to-mt",
+        "nome": "Hidrovia do Rio Araguaia e Javaés: São Félix do Araguaia (MT) – Santa Isabel do Morro (Ilha do Bananal, TO) – Barreira da Cruz / Formoso do Araguaia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Travessias e Navegação do Rio Araguaia (TO/MT)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.6685,
+            -11.6165
+          ],
+          [
+            -50.6685,
+            -11.5845
+          ],
+          [
+            -50.4525,
+            -11.3845
+          ],
+          [
+            -49.9685,
+            -11.7845
+          ]
+        ]
+      }
     }
   ]
 }
