@@ -25256,5 +25256,392 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "hurtigruten-ferries-eletricos-fiordes-oslo-bergen-stavanger-noruega",
+    "slug": "hurtigruten-ferries-eletricos-fiordes-oslo-bergen-stavanger-noruega",
+    "nome_pt": "Expresso Costeiro Hurtigruten / Havila (Bergen–Tromsø–Kirkenes) e Ferries Elétricos dos Fiordes de Oslo (Ruter), Bergen e Stavanger (Noruega)",
+    "nome_en": "Hurtigruten / Havila Coastal Express (Bergen–Tromsø–Kirkenes) & Electric Fjord Ferries of Oslo (Ruter), Bergen & Stavanger (Norway)",
+    "pais": "Noruega",
+    "cidade": "Oslo, Bergen, Stavanger, Ålesund, Trondheim, Bodø, Tromsø e Kirkenes",
+    "uf": "Østlandet / Vestland / Nord-Norge",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Hurtigruten & Havila Kystruten (Rota Costeira Nacional), Ruter / Boreal (Fiorde de Oslo), Skyss / Norled (Bergen e Sognefjord) & Kolumbus (Stavanger)",
+    "inauguracao": "1893 (Viagem inaugural do vapor DS Vesteraalen de Richard With na rota costeira Hurtigruten)",
+    "extensao_km": 2610.0,
+    "bitola": "Rota Costeira Nacional Norueguesa (34 portos de Bergen a Kirkenes no Ártico) e Fiordes de Oslo, Sognefjord e Boknafjorden",
+    "eletrificacao": "Primeira frota mundial de ferries urbanos 100% elétricos a bateria (Oslo Ruter, MF Ampere no Sognefjord e Medstraum em Stavanger) e navios híbridos GNL/bateria",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 95000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "NOK 14,5 bilhões (eletrificação completa das barcas urbanas da Ruter em Oslo, catamarã rápido 100% elétrico MS Medstraum em Stavanger e navios híbridos da Kystruten)",
+      "moeda": "NOK",
+      "fonte_id": "hurtigruten-ruter-norled-noruega"
+    },
+    "proximas_entregas": {
+      "pt": "Lançamento do projeto 'Sea Zero' da Hurtigruten para navios costeiros de emissão zero com baterias de 60 MWh e velas retráteis solares.",
+      "en": "Rollout of Hurtigruten's zero-emission 'Sea Zero' coastal vessels equipped with 60 MWh battery packs and retractable solar sails."
+    },
+    "resumo_pt": "Pioneira mundial na eletrificação do transporte aquaviário, a Noruega combina a lendária rota costeira Kystruten (operada pela Hurtigruten desde 1893 e pela Havila Voyages ao longo de 2.400 km e 34 portos entre Bergen, o Círculo Polar Ártico em Bodø/Lofoten, Tromsø, o Cabo Norte e Kirkenes na fronteira russa) com as redes urbanas e regionais de ferries 100% elétricos nos fiordes. Em Oslo, as barcas silenciosas a bateria da Ruter partem de Aker Brygge para a península de Nesoddtangen (integrada aos ônibus) e para as ilhas do Fiorde de Oslo (Hovedøya, Lindøya e Gressholmen); já na costa oeste, a Norled opera o 'MF Ampere' (primeiro ferry rodofluvial 100% elétrico do mundo, no Sognefjord), os catamarãs expressos Bergen–Flåm (conectados à ferrovia Flåmsbana) e o 'MS Medstraum' em Stavanger (primeiro catamarã rápido 100% elétrico do planeta).",
+    "resumo_en": "Norway is the global pioneer in battery-electric water transport, combining the legendary 2,400 km Coastal Express (Hurtigruten & Havila Voyages serving 34 ports from Bergen across the Arctic Circle to Tromsø and Kirkenes) with zero-emission urban fjord ferries. In Oslo, Ruter's 100% electric commuter ferries link Aker Brygge to Nesoddtangen and the Oslofjord islands, while western Norway features the world's first electric car ferry ('MF Ampere' on the Sognefjord), Bergen–Flåm express boats (connecting to the Flåm Railway) and Stavanger's 'MS Medstraum' (world's first 100% electric high-speed catamaran).",
+    "lat": 60.3945,
+    "lon": 5.3185,
+    "zoom_inicial": 4.8,
+    "fontes": [
+      "hurtigruten-ruter-norled-noruega",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "noruega",
+      "hurtigruten",
+      "oslo",
+      "bergen",
+      "tromsø",
+      "stavanger",
+      "fiordes",
+      "ruter",
+      "ferry elétrico",
+      "sognefjord",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/MF_Ampere_2015.jpg/800px-MF_Ampere_2015.jpg",
+      "credito": "Wikimedia Commons — MF Ampere e ferries 100% elétricos nos fiordes da Noruega",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Norway"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-expresso-costeiro-hurtigruten-havila-bergen-trondheim-bodo-tromso-kirkenes",
+        "nome": "Expresso Costeiro da Noruega (Kystruten — Hurtigruten & Havila): Bergen – Ålesund – Trondheim – Bodø – Svolvær (Lofoten) – Tromsø – Honningsvåg (Cabo Norte) – Kirkenes (Noruega)",
+        "status": "operacao",
+        "extensao_km": 2400.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-ferries-eletricos-fiorde-de-oslo-ruter-aker-brygge-nesoddtangen-bergen-stavanger",
+        "nome": "Ferries Urbanos 100% Elétricos do Fiorde de Oslo (Ruter B10/B11/B20) e Expressos de Bergen/Sognefjord: Aker Brygge (Oslo) – Nesoddtangen – Ilhas do Fiorde & Bergen – Flåm (Noruega)",
+        "status": "operacao",
+        "extensao_km": 210.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "sl-pendelbat-waxholmsbolaget-estocolmo-styrsobolaget-gotemburgo-suecia",
+    "slug": "sl-pendelbat-waxholmsbolaget-estocolmo-styrsobolaget-gotemburgo-suecia",
+    "nome_pt": "Barcas Metropolitanas SL Pendelbåt (Linhas 80, 82, 83, 89) e Waxholmsbolaget do Arquipélago de Estocolmo & Styrsöbolaget de Gotemburgo (Suécia)",
+    "nome_en": "Stockholm SL Commuter Ferries (Pendelbåt Lines 80–89) & Waxholmsbolaget Archipelago Fleet & Gothenburg Styrsöbolaget / Älvsnabben (Sweden)",
+    "pais": "Suécia",
+    "cidade": "Estocolmo, Vaxholm, Nacka, Lidingö, Ekerö e Gotemburgo",
+    "uf": "Estocolmo / Västra Götaland",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Storstockholms Lokaltrafik (SL Pendelbåt), Waxholmsbolaget (Região de Estocolmo) & Västtrafik / Styrsöbolaget (Gotemburgo)",
+    "inauguracao": "1849 (Fundação da Waxholms Ångfartygs AB no Arquipélago de Estocolmo)",
+    "extensao_km": 133.0,
+    "bitola": "Lago Mälaren, Saltsjön, Arquipélago de Estocolmo (30.000 ilhas) e Estuário do Rio Göta älv / Arquipélago de Gotemburgo",
+    "eletrificacao": "Barcas híbridas/elétricas SL, primeiro hidrofólio 100% elétrico voador do mundo (Candela P-12 'Nova' na Linha 89 em Estocolmo) e barcas elétricas Älvsnabben em Gotemburgo",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 68000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "SEK 2,8 bilhões (expansão das linhas SL Pendelbåt 80–89, introdução do hidrofólio elétrico Candela P-12 entre Ekerö e Stadshuskajen e eletrificação da frota Älvsnabben em Gotemburgo)",
+      "moeda": "SEK",
+      "fonte_id": "sl-waxholmsbolaget-vasttrafik-suecia"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação da frota de hidrofólios elétricos Candela P-12 no transporte público de Estocolmo e novos navios híbridos quebra-gelo da Waxholmsbolaget.",
+      "en": "Expansion of Candela P-12 electric hydrofoil shuttle ferries in Stockholm's public transit network and new hybrid ice-class archipelago vessels."
+    },
+    "resumo_pt": "Construída sobre 14 ilhas onde o Lago Mälaren encontra o Mar Báltico, Estocolmo possui uma rede exemplar de barcas urbanas (SL Pendelbåt — Linhas 80 Nybroplan–Nacka–Lidingö–Ropsten, 82 Slussen–Djurgården, 83 Strömkajen–Vaxholm e 89 Klara Mälarstrand–Ekerö, onde entrou em operação comercial o revolucionário hidrofólio 100% elétrico 'Candela P-12 Nova', que voa sobre a água a 25 nós sem gerar ondas), complementada pela frota branca da Waxholmsbolaget que atende mais de 300 píeres no Arquipélago de Estocolmo o ano inteiro (inclusive quebrando o gelo no inverno). Na costa oeste sueca, Gotemburgo opera as barcas fluviais 'Älvsnabben' (Linha 285) e 'Älvsnabvare' (Linha 286 gratuita) cruzando o Rio Göta älv, além dos ferries da Styrsöbolaget/Västtrafik que ligam o terminal de bondes de Saltholmen às ilhas sem carros do arquipélago sul (Styrsö, Donsö e Vrångö).",
+    "resumo_en": "Built across 14 islands between Lake Mälaren and the Baltic Sea, Stockholm integrates its SL commuter ferries (Pendelbåt Lines 80, 82, 83 and 89 — featuring the world's first flying electric hydrofoil ferry, the Candela P-12 'Nova') with the historic Waxholmsbolaget fleet serving 300+ piers across the Stockholm Archipelago year-round. On Sweden's west coast, Gothenburg's Västtrafik/Styrsöbolaget operates the Älvsnabben river ferries across the Göta älv and links the Saltholmen tram hub to the car-free southern archipelago islands.",
+    "lat": 59.3285,
+    "lon": 18.0755,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "sl-waxholmsbolaget-vasttrafik-suecia",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "estocolmo",
+      "suécia",
+      "sl pendelbåt",
+      "waxholmsbolaget",
+      "candela p-12",
+      "djurgården",
+      "vaxholm",
+      "gotemburgo",
+      "styrsobolaget",
+      "älvsnabben",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Djurgardsfarjan_Stockholm.jpg/800px-Djurgardsfarjan_Stockholm.jpg",
+      "credito": "Wikimedia Commons — Barca urbana SL Pendelbåt (Djurgårdsfärjan) e navios da Waxholmsbolaget em Estocolmo (Suécia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Stockholm"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-sl-pendelbat-waxholmsbolaget-nybroplan-slussen-djurgarden-waxholm-estocolmo",
+        "nome": "Barcas Metropolitanas SL Pendelbåt (Linhas 80, 82, 83 e 89 Candela P-12) e Arquipélago (Waxholmsbolaget): Ekerö – Stadshuskajen – Slussen / Strömkajen / Nybroplan – Djurgården – Nacka – Lidingö – Vaxholm – Sandhamn (Estocolmo, Suécia)",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-vasttrafik-styrsobolaget-alvsnabben-gotemburgo-arquipelago-sul-suecia",
+        "nome": "Rede Fluvial Älvsnabben (Linhas 285/286) e Arquipélago Sul de Gotemburgo (Västtrafik / Styrsöbolaget): Klippan – Lindholmen – Stenpiren – Lilla Bommen & Saltholmen – Styrsö – Donsö – Vrångö (Gotemburgo, Suécia)",
+        "status": "operacao",
+        "extensao_km": 38.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "megafarries-baltico-helsinque-tallinn-suomenlinna-finferries-turku-finlandia-estonia",
+    "slug": "megafarries-baltico-helsinque-tallinn-suomenlinna-finferries-turku-finlandia-estonia",
+    "nome_pt": "Ponte Marítima Helsinque–Tallinn (Tallink Silja / Viking Line), Barcas HSL de Suomenlinna e Finferries do Arquipélago de Turku / Åland (Finlândia e Estônia)",
+    "nome_en": "Helsinki–Tallinn Baltic Sea Shuttle (Tallink Silja / Viking Line), HSL Suomenlinna Ferry & Finferries Turku / Åland Archipelago Network (Finland & Estonia)",
+    "pais": "Finlândia",
+    "cidade": "Helsinque, Tallinn (Estônia), Turku, Parainen, Nauvo e Mariehamn (Ilhas Åland)",
+    "uf": "Uusimaa / Varsinais-Suomi / Åland / Harjumaa",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "HSL / Suomenlinnan Liikenne (Helsinque), Finferries (Arquipélago de Turku), Tallink Silja Line, Viking Line & Eckerö Line (Mar Báltico)",
+    "inauguracao": "1965 (Abertura da linha moderna regular de passageiros Helsinque–Tallinn e criação da rede de balsas do Arquipélago de Turku)",
+    "extensao_km": 398.0,
+    "bitola": "Golfo da Finlândia (Corredor Helsinque–Tallinn de 82 km) e Mar do Arquipélago de Turku / Ilhas Åland (Comportando navegação no gelo no inverno)",
+    "eletrificacao": "Megafarries rápidos movidos a GNL/híbridos (Tallink MyStar / Megastar e Viking Glory / Grace), ferries 100% elétricos Finferries (Elektra e Altera) e barcas híbridas HSL Suomenlinna II",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 48000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 620 milhões (construção dos navios híbridos GNL Tallink MyStar e Viking Glory, ferries elétricos Elektra/Altera da Finferries e automação de atracação rápida Helsinque–Tallinn)",
+      "moeda": "EUR",
+      "fonte_id": "tallink-viking-finferries-hsl"
+    },
+    "proximas_entregas": {
+      "pt": "Novas barcas urbanas 100% elétricas quebra-gelo para a rota Kruunuvuorenranta–Kauppatori e Suomenlinna em Helsinque.",
+      "en": "New 100% electric ice-breaking urban ferries for the Suomenlinna and Kruunuvuorenranta routes in Helsinki."
+    },
+    "resumo_pt": "No norte do Mar Báltico, duas capitais europeias separadas por apenas 82 km de mar — Helsinque (Finlândia) e Tallinn (Estônia) — formam uma verdadeira metrópole gêmea graças à ponte marítima de alta frequência operada pelos megafarries rápidos movidos a GNL da Tallink ('MyStar' e 'Megastar', em apenas 2 horas de travessia), Viking Line e Eckerö Line, integrados aos bondes de Helsinque (Terminais de Länsisatama e Katajanokka) e ao bonde do Porto de Tallinn (Vanasadam). Dentro de Helsinque, a barca municipal quebradora de gelo da HSL conecta 365 dias por ano a Praça do Mercado (Kauppatori) à fortaleza insular habitada de Suomenlinna (Patrimônio Mundial da UNESCO). Já no sudoeste finlandês, a estatal Finferries opera os ferries 100% elétricos 'Elektra' e 'Altera' na Rota do Arquipélago de Turku (Parainen–Nauvo), ao lado dos grandes navios híbridos 'Viking Glory' e 'Viking Grace' que conectam Turku às Ilhas Åland (Mariehamn) e a Estocolmo.",
+    "resumo_en": "Across the Gulf of Finland, the twin capitals of Helsinki (Finland) and Tallinn (Estonia) are linked every 1–2 hours by a 2-hour high-speed LNG shuttle ferry corridor (Tallink 'MyStar'/'Megastar', Viking Line, Eckerö Line) directly connected to both cities' tram networks. In Helsinki Harbor, HSL's year-round ice-class municipal ferry links Market Square (Kauppatori) to the inhabited UNESCO island fortress of Suomenlinna, while in southwestern Finland, Finferries operates the 100% electric ferries 'Elektra' and 'Altera' in the Turku Archipelago alongside the LNG-hybrid megafarries linking Turku and the Åland Islands (Mariehamn) to Stockholm.",
+    "lat": 60.1675,
+    "lon": 24.9545,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "tallink-viking-finferries-hsl",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "helsinque",
+      "tallinn",
+      "suomenlinna",
+      "turku",
+      "ilhas åland",
+      "mariehamn",
+      "finferries",
+      "tallink",
+      "viking line",
+      "mar báltico",
+      "finlândia",
+      "estônia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suomenlinna_II_ferry_Helsinki.jpg/800px-Suomenlinna_II_ferry_Helsinki.jpg",
+      "credito": "Wikimedia Commons — Barca municipal HSL Suomenlinna II e ferries do Mar Báltico no Porto de Helsinque (Finlândia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Suomenlinna_ferry"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-ponte-maritima-helsinque-tallinn-hsl-suomenlinna-golfo-da-finlandia",
+        "nome": "Ponte Marítima Rápida Helsinque–Tallinn (Tallink MyStar/Megastar, Viking Line e Eckerö) & Barca Municipal HSL de Suomenlinna: Kauppatori / Länsisatama (Helsinque) – Suomenlinna – Porto de Tallinn (Estônia)",
+        "status": "operacao",
+        "extensao_km": 88.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-baltico-finferries-turku-parainen-nauvo-mariehamn-aland-estocolmo",
+        "nome": "Corredor do Arquipélago de Turku (Finferries Elektra/Altera) e Travessia Turku–Ilhas Åland–Estocolmo: Porto de Turku – Parainen – Nauvo – Mariehamn (Åland) – Kapellskär / Estocolmo (Finlândia/Suécia)",
+        "status": "operacao",
+        "extensao_km": 310.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hadag-porto-de-hamburgo-gvb-ferries-amsterda-waterbus-roterda-alemanha-paises-baixos",
+    "slug": "hadag-porto-de-hamburgo-gvb-ferries-amsterda-waterbus-roterda-alemanha-paises-baixos",
+    "nome_pt": "Barcas Urbanas HADAG do Porto de Hamburgo (Alemanha), Ferries Gratuitos GVB do Rio IJ em Amsterdã e Rede Waterbus de Roterdã–Dordrecht (Países Baixos)",
+    "nome_en": "HADAG Hamburg Harbor Ferries (Germany), Free GVB IJ River Ferries in Amsterdam & Rotterdam–Dordrecht Waterbus Network (Netherlands)",
+    "pais": "Alemanha",
+    "cidade": "Hamburgo (Alemanha), Amsterdã, Roterdã e Dordrecht (Países Baixos)",
+    "uf": "Hamburgo / Holanda do Norte / Holanda do Sul",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "HADAG Seetouristik und Fährdienst AG (Consórcio HVV Hamburgo), GVB Veren (Amsterdã) & Blue Amigo / Waterbus (Roterdã–Dordrecht)",
+    "inauguracao": "1888 (Fundação da Hafen-Dampfschiffahrts-Actien-Gesellschaft — HADAG no Porto de Hamburgo) / 1897 (Gemeenteveren Amsterdam)",
+    "extensao_km": 80.0,
+    "bitola": "Estuário do Rio Elba em Hamburgo, Canal do Rio IJ em Amsterdã e Rios Nieuwe Maas / Noord / Beneden-Merwede em Roterdã–Dordrecht",
+    "eletrificacao": "Nova geração de barcas híbridas plug-in da HADAG (Tipo 2030 em Hamburgo), ferries 100% elétricos da GVB para pedestres e ciclistas em Amsterdã e catamarãs Waterbus",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 135000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 210 milhões (novas barcas híbridas plug-in Tipo 2030 da HADAG em Hamburgo e conversão 100% elétrica da frota de ferries GVB do Rio IJ e Canal do Mar do Norte em Amsterdã)",
+      "moeda": "EUR",
+      "fonte_id": "hadag-hamburg-gvb-amsterdam-waterbus"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação de novos ferries 100% elétricos de alta capacidade para ciclistas no eixo Amsterdam Centraal – IJplein / Buiksloterweg e expansão das linhas HADAG em Hamburgo.",
+      "en": "Deployment of high-capacity 100% electric cyclist ferries at Amsterdam Centraal and expansion of HADAG plug-in hybrid harbor lines in Hamburg."
+    },
+    "resumo_pt": "Na costa do Mar do Norte da Alemanha e dos Países Baixos operam três sistemas exemplares de transporte público hidroviário urbano: em Hamburgo, as famosas barcas verdes e brancas da HADAG (Linhas 61, 62, 64, 68, 72, 73 e 75, totalmente integradas à tarifa de metrô U-Bahn e S-Bahn do consórcio HVV) partem da estação intermodal St. Pauli-Landungsbrücken passando pela Elbphilharmonie, Fischmarkt, Dockland, Övelgönne, polo aeronáutico da Airbus em Finkenwerder e Blankenese; em Amsterdã, os ferries azuis e brancos da GVB (Linhas F1 a F9) cruzam gratuitamente 24 horas por dia o Rio IJ atrás da Estação Amsterdam Centraal, transportando dezenas de milhares de ciclistas e pedestres a cada hora para Amsterdam-Noord (Buiksloterweg, IJplein e NDSM-werf); e na região metropolitana de Roterdã–Dordrecht, os catamarãs rápidos do sistema Waterbus (integrados ao cartão OV-chipkaart e permitindo embarque gratuito de bicicletas) percorrem o rio Nieuwe Maas desde a Ponte Erasmus (Roterdã) até os moinhos de Kinderdijk e o centro histórico de Dordrecht.",
+    "resumo_en": "Along the North Sea estuaries of Germany and the Netherlands operate three benchmark urban waterbus systems: in Hamburg, HADAG's harbor ferries (Lines 61–75, fully integrated with HVV U-Bahn and S-Bahn tickets) link St. Pauli-Landungsbrücken with the Elbphilharmonie, Altona Fischmarkt, Övelgönne, the Airbus plant at Finkenwerder and Blankenese; in Amsterdam, GVB's free 24/7 electric ferries carry tens of thousands of cyclists and pedestrians daily across the IJ behind Amsterdam Centraal Station to Amsterdam-Noord and NDSM; and in Rotterdam, the high-speed Waterbus catamarans connect Erasmus Bridge to UNESCO-listed Kinderdijk and Dordrecht.",
+    "lat": 53.5455,
+    "lon": 9.9695,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "hadag-hamburg-gvb-amsterdam-waterbus",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hamburgo",
+      "hadag",
+      "rio elba",
+      "landungsbrücken",
+      "elbphilharmonie",
+      "amsterdã",
+      "gvb",
+      "rio ij",
+      "roterdã",
+      "waterbus",
+      "dordrecht",
+      "kinderdijk",
+      "alemanha",
+      "países baixos",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HADAG_F%C3%A4hre_Hamburg.jpg/800px-HADAG_F%C3%A4hre_Hamburg.jpg",
+      "credito": "Wikimedia Commons — Barca urbana da HADAG em St. Pauli-Landungsbrücken no Porto de Hamburgo (Alemanha)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:HADAG"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-hadag-hvv-porto-de-hamburgo-landungsbrucken-elbphilharmonie-finkenwerder-blankenese",
+        "nome": "Rede Metropolitana HADAG / HVV do Rio Elba (Linhas 61, 62, 64, 72 e 73): Elbphilharmonie – St. Pauli-Landungsbrücken – Altona (Fischmarkt) – Dockland – Övelgönne – Finkenwerder – Blankenese (Hamburgo, Alemanha)",
+        "status": "operacao",
+        "extensao_km": 32.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-gvb-ij-ferries-amsterda-centraal-ndsm-waterbus-roterda-kinderdijk-dordrecht",
+        "nome": "Ferries Gratuitos GVB do Rio IJ em Amsterdã (Amsterdam Centraal – Buiksloterweg – NDSM) & Rede Waterbus Roterdã–Dordrecht (Erasmusbrug – Ridderkerk – Kinderdijk – Dordrecht, Países Baixos)",
+        "status": "operacao",
+        "extensao_km": 48.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "mouettes-genevoises-cgn-lago-leman-lagos-lucerna-zurique-suica",
+    "slug": "mouettes-genevoises-cgn-lago-leman-lagos-lucerna-zurique-suica",
+    "nome_pt": "Mouettes Genevoises e Navegação CGN do Lago Léman (Genebra–Lausanne–Montreux–Évian) & Barcas dos Lagos de Lucerna (SGV) e Zurique (ZSG, Suíça)",
+    "nome_en": "Geneva Mouettes Genevoises & CGN Lake Geneva Fleet (Geneva–Lausanne–Montreux–Évian) & Lake Lucerne (SGV) and Lake Zurich (ZSG) Passenger Boats (Switzerland)",
+    "pais": "Suíça",
+    "cidade": "Genebra, Nyon, Lausanne, Vevey, Montreux, Lucerna e Zurique",
+    "uf": "Genebra / Vaud / Lucerna / Zurique",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Société des Mouettes Genevoises Navigation (SMGN / TPG), Compagnie Générale de Navigation sur le Lac Léman (CGN), Schifffahrtsgesellschaft des Vierwaldstättersees (SGV Luzern) & Zürichsee-Schifffahrtsgesellschaft (ZSG)",
+    "inauguracao": "1873 (Fundação da CGN no Lago Léman) / 1897 (Inauguração das Mouettes Genevoises na Rade de Genebra)",
+    "extensao_km": 177.0,
+    "bitola": "Lago Léman (Genebra–Lausanne–Montreux–Évian), Lago dos Quatro Cantões (Lucerna–Flüelen) e Lago de Zurique / Rio Limmat",
+    "eletrificacao": "Barcas urbanas amarelas das Mouettes Genevoises (Linhas M1–M4), catamarãs rápidos híbridos CGN ('Léman' / 'Evian'), históricos vapores de rodas Belle Époque e navios modernos SGV/ZSG",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 52000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "CHF 185 milhões (novos catamarãs híbridos de alta frequência da CGN para os trabalhadores pendulares Lausanne–Évian e Nyon–Yvoire e eletrificação das Mouettes Genevoises)",
+      "moeda": "CHF",
+      "fonte_id": "cgn-mouettes-genevoises-sgv-zsg-suica"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação completa dos novos navios híbridos Naviexpress de 700 lugares da CGN nas ligações transfronteiriças Suíça–França no Lago Léman.",
+      "en": "Full deployment of CGN's new 700-seat hybrid Naviexpress commuter vessels on cross-border Swiss–French routes across Lake Geneva."
+    },
+    "resumo_pt": "Totalmente integradas ao lendário Swiss Travel System (com horários cadenciados ao minuto com os trens da SBB CFF FFS, bondes, metrô de Lausanne e ferrovias alpinas de cremalheira), as companhias de navegação lacustre da Suíça operam tanto linhas urbanas de alta frequência quanto travessias regionais. Em Genebra, as icônicas barcas amarelas e vermelhas das 'Mouettes Genevoises' (Linhas M1, M2, M3 e M4, incluídas no bilhete urbano Unireso/TPG) cruzam a Rade de Genebra a cada 10 minutos entre Molard, Pâquis, Eaux-Vives e Port-Noir; em todo o Lago Léman, a CGN opera os navios rápidos transfronteiriços para milhares de trabalhadores pendulares diários entre Lausanne-Ouchy e Évian-les-Bains (França) e entre Nyon e Yvoire, além da maior frota preservada de vapores de rodas Belle Époque do mundo até Vevey e Montreux. Já na Suíça alémanica, a SGV conecta a Estação Ferroviária de Lucerna (Bahnhofquai) a Weggis, Vitznau (base do trem do Monte Rigi), Bürgenstock (funicular) e Flüelen (conexão com o Gotthard Panorama Express), enquanto a ZSG opera os barcos do Lago de Zurique e do Rio Limmat.",
+    "resumo_en": "Fully integrated into the Swiss Travel System with clock-face connections to SBB trains, urban trams and mountain cogwheel railways, Switzerland's lake navigation companies serve both high-frequency urban commuters and regional corridors. In Geneva, the yellow 'Mouettes Genevoises' waterbuses (Lines M1–M4) cross the harbor every 10 minutes; across Lake Geneva, CGN operates high-capacity cross-border commuter boats between Lausanne-Ouchy and Évian-les-Bains and between Nyon and Yvoire alongside its Belle Époque paddle steamers to Montreux; and in German-speaking Switzerland, SGV and ZSG link Lucerne (to Rigi/Pilatus railways and Flüelen) and Zurich (Bürkliplatz to Rapperswil and along the Limmat River).",
+    "lat": 46.5065,
+    "lon": 6.6265,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "cgn-mouettes-genevoises-sgv-zsg-suica",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "suíça",
+      "genebra",
+      "mouettes genevoises",
+      "lago léman",
+      "cgn",
+      "lausanne",
+      "montreux",
+      "lucerna",
+      "lago de lucerna",
+      "zurique",
+      "swiss travel system",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mouettes_genevoises_Geneva.jpg/800px-Mouettes_genevoises_Geneva.jpg",
+      "credito": "Wikimedia Commons — Barca urbana das Mouettes Genevoises e navios da CGN no Lago Léman em Genebra e Lausanne (Suíça)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Mouettes_genevoises"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-mouettes-genevoises-cgn-lago-leman-genebra-nyon-lausanne-ouchy-montreux-evian",
+        "nome": "Mouettes Genevoises (M1–M4) & Rede CGN do Lago Léman: Genebra (Molard / Pâquis / Eaux-Vives) – Nyon / Yvoire – Lausanne-Ouchy (Integração Metrô M2) – Évian-les-Bains – Vevey – Montreux / Chillon (Suíça/França)",
+        "status": "operacao",
+        "extensao_km": 92.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-sgv-lago-de-lucerna-zsg-lago-de-zurique-lucerna-weggis-vitznau-fluelen-suica",
+        "nome": "Navegação do Lago de Lucerna (SGV) e Lago de Zurique (ZSG): Lucerna Bahnhofquai – Weggis – Vitznau (Trem do Rigi) – Bürgenstock – Flüelen & Zurique Bürkliplatz – Meilen – Rapperswil (Suíça)",
+        "status": "operacao",
+        "extensao_km": 85.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

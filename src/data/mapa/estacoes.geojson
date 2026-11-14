@@ -32075,6 +32075,294 @@
           36.5335
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-aker-brygge-ruter-ferries-fiorde-de-oslo-noruega",
+        "nome": "Terminal de Ferries Elétricos de Aker Brygge / Rådhusbrygge (Ruter, Oslo, Noruega)",
+        "sistema_id": "hurtigruten-ferries-eletricos-fiordes-oslo-bergen-stavanger-noruega",
+        "linha": "Ferries Elétricos do Fiorde de Oslo (Ruter)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          59.9105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hurtigruten-strandkaiterminalen-bergen-noruega",
+        "nome": "Hurtigruteterminalen & Strandkaiterminalen (Porto de Bergen, Noruega)",
+        "sistema_id": "hurtigruten-ferries-eletricos-fiordes-oslo-bergen-stavanger-noruega",
+        "linha": "Expresso Costeiro Hurtigruten / Havila",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3185,
+          60.3945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-prostneset-hurtigruten-tromso-artico-noruega",
+        "nome": "Terminal Hidroviário do Ártico de Prostneset (Hurtigruten, Tromsø, Noruega)",
+        "sistema_id": "hurtigruten-ferries-eletricos-fiordes-oslo-bergen-stavanger-noruega",
+        "linha": "Expresso Costeiro Hurtigruten / Havila",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9585,
+          69.6485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-stromkajen-slussen-waxholmsbolaget-sl-estocolmo",
+        "nome": "Terminais de Barcas de Strömkajen, Slussen & Nybroplan (SL Pendelbåt / Waxholmsbolaget, Estocolmo)",
+        "sistema_id": "sl-pendelbat-waxholmsbolaget-estocolmo-styrsobolaget-gotemburgo-suecia",
+        "linha": "SL Pendelbåt & Waxholmsbolaget",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0755,
+          59.3285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-vaxholm-arquipelago-de-estocolmo-suecia",
+        "nome": "Terminal Insular de Vaxholm (Portal do Arquipélago de Estocolmo, Suécia)",
+        "sistema_id": "sl-pendelbat-waxholmsbolaget-estocolmo-styrsobolaget-gotemburgo-suecia",
+        "linha": "SL Pendelbåt Linha 83 & Waxholmsbolaget",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3515,
+          59.4015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-stenpiren-saltholmen-vasttrafik-gotemburgo-suecia",
+        "nome": "Terminais Hidroviários de Stenpiren & Saltholmen (Älvsnabben / Styrsöbolaget, Gotemburgo, Suécia)",
+        "sistema_id": "sl-pendelbat-waxholmsbolaget-estocolmo-styrsobolaget-gotemburgo-suecia",
+        "linha": "Rede Fluvial Älvsnabben e Arquipélago de Gotemburgo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9585,
+          57.7055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-kauppatori-lansisatama-helsinque-finlandia",
+        "nome": "Terminal de Barcas HSL Kauppatori (Suomenlinna) & Länsisatama (Porto de Helsinque, Finlândia)",
+        "sistema_id": "megafarries-baltico-helsinque-tallinn-suomenlinna-finferries-turku-finlandia-estonia",
+        "linha": "Ponte Marítima Helsinque–Tallinn & Barca Suomenlinna",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9545,
+          60.1675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-passageiros-vanasadam-tallinn-estonia",
+        "nome": "Porto de Passageiros de Tallinn — Terminais A e D (Vanasadam, Tallinn, Estônia)",
+        "sistema_id": "megafarries-baltico-helsinque-tallinn-suomenlinna-finferries-turku-finlandia-estonia",
+        "linha": "Ponte Marítima Rápida Helsinque–Tallinn",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7645,
+          59.4445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-turku-finferries-arquipelago-finlandia",
+        "nome": "Porto de Turku & Terminais Finferries do Arquipélago de Turku (Finlândia)",
+        "sistema_id": "megafarries-baltico-helsinque-tallinn-suomenlinna-finferries-turku-finlandia-estonia",
+        "linha": "Corredor do Arquipélago de Turku & Åland",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2285,
+          60.4355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-st-pauli-landungsbrucken-hadag-hamburgo-alemanha",
+        "nome": "Terminal Intermodal St. Pauli-Landungsbrücken (Barcas HADAG / U-Bahn U3 / S-Bahn, Hamburgo, Alemanha)",
+        "sistema_id": "hadag-porto-de-hamburgo-gvb-ferries-amsterda-waterbus-roterda-alemanha-paises-baixos",
+        "linha": "Rede Metropolitana HADAG / HVV do Rio Elba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9695,
+          53.5455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-gvb-ferries-amsterdam-centraal-noord-paises-baixos",
+        "nome": "Terminal GVB IJ-Ferries de Amsterdam Centraal – Buiksloterweg / NDSM (Amsterdã, Países Baixos)",
+        "sistema_id": "hadag-porto-de-hamburgo-gvb-ferries-amsterda-waterbus-roterda-alemanha-paises-baixos",
+        "linha": "Ferries Gratuitos GVB do Rio IJ",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9015,
+          52.3805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-waterbus-erasmusbrug-roterda-paises-baixos",
+        "nome": "Terminal Waterbus Erasmusbrug (Roterdã – Kinderdijk – Dordrecht, Países Baixos)",
+        "sistema_id": "hadag-porto-de-hamburgo-gvb-ferries-amsterda-waterbus-roterda-alemanha-paises-baixos",
+        "linha": "Rede Waterbus Roterdã–Dordrecht",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4835,
+          51.9095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-molard-paquis-mouettes-genevoises-genebra-suica",
+        "nome": "Píeres Molard, Pâquis & Eaux-Vives (Mouettes Genevoises & CGN, Genebra, Suíça)",
+        "sistema_id": "mouettes-genevoises-cgn-lago-leman-lagos-lucerna-zurique-suica",
+        "linha": "Mouettes Genevoises & CGN Lago Léman",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1495,
+          46.2055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-cgn-lausanne-ouchy-lago-leman-suica",
+        "nome": "Terminal CGN de Lausanne-Ouchy (Integração Metrô M2 / Travessia Lausanne–Évian, Suíça)",
+        "sistema_id": "mouettes-genevoises-cgn-lago-leman-lagos-lucerna-zurique-suica",
+        "linha": "Rede CGN do Lago Léman",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6265,
+          46.5065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-sgv-luzern-bahnhofquai-lago-de-lucerna-suica",
+        "nome": "Terminal Lacustre Luzern Bahnhofquai (SGV Lago dos Quatro Cantões / Estação SBB Lucerna, Suíça)",
+        "sistema_id": "mouettes-genevoises-cgn-lago-leman-lagos-lucerna-zurique-suica",
+        "linha": "Navegação do Lago de Lucerna (SGV)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3115,
+          47.0505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-zsg-zurich-burkliplatz-lago-de-zurique-suica",
+        "nome": "Terminal ZSG Zürich Bürkliplatz (Navegação do Lago de Zurique e Rio Limmat, Suíça)",
+        "sistema_id": "mouettes-genevoises-cgn-lago-leman-lagos-lucerna-zurique-suica",
+        "linha": "Navegação do Lago de Zurique (ZSG)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5415,
+          47.3665
+        ]
+      }
     }
   ]
 }
