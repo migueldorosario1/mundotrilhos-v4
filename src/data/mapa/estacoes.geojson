@@ -30155,6 +30155,234 @@
           22.2935
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pera-ferroviaria-conceicaozinha-guaruja-sp",
+        "nome": "Pera Ferroviária de Conceiçãozinha — Margem Esquerda (Ilha de Santo Amaro / Guarujá, SP)",
+        "sistema_id": "corredor-ferroviario-margem-esquerda-porto-de-santos-guaruja-santo-amaro-sp",
+        "sistema_nome_pt": "Ilha de Santo Amaro (Guarujá e Vicente de Carvalho) — Corredor Ferroviário da Margem Esquerda do Porto de Santos (Conceiçãozinha) e Eixo Histórico do Tramway do Guarujá (SP)",
+        "sistema_nome_en": "Santo Amaro Island (Guarujá & Vicente de Carvalho) — Port of Santos Left Bank Freight Rail Corridor (Conceiçãozinha) & Historic Guarujá Tramway Axis (SP, Brazil)",
+        "linha": "Tronco Insular da Margem Esquerda do Porto de Santos",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2785,
+          -23.9485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-patio-ferroviario-vicente-de-carvalho-guaruja-sp",
+        "nome": "Pátio Ferroviário de Vicente de Carvalho / TIPLAM (Ilha de Santo Amaro, SP)",
+        "sistema_id": "corredor-ferroviario-margem-esquerda-porto-de-santos-guaruja-santo-amaro-sp",
+        "sistema_nome_pt": "Ilha de Santo Amaro (Guarujá e Vicente de Carvalho) — Corredor Ferroviário da Margem Esquerda do Porto de Santos (Conceiçãozinha) e Eixo Histórico do Tramway do Guarujá (SP)",
+        "sistema_nome_en": "Santo Amaro Island (Guarujá & Vicente de Carvalho) — Port of Santos Left Bank Freight Rail Corridor (Conceiçãozinha) & Historic Guarujá Tramway Axis (SP, Brazil)",
+        "linha": "Tronco Insular da Margem Esquerda do Porto de Santos",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2985,
+          -23.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bonde-valongo-praca-maua-santos-sp",
+        "nome": "Estação Histórica do Valongo & Parada Praça Mauá do Bonde (Ilha de São Vicente / Santos, SP)",
+        "sistema_id": "bonde-turistico-centro-historico-santos-funicular-monte-serrat-ilha-sao-vicente-sp",
+        "sistema_nome_pt": "Ilha de São Vicente (Santos e São Vicente) — Linha Turística do Bonde do Centro Histórico de Santos e Sistema Funicular do Monte Serrat (SP)",
+        "sistema_nome_en": "São Vicente Island (Santos & São Vicente) — Santos Historic Downtown Heritage Tramway & Monte Serrat Funicular Railway (SP, Brazil)",
+        "linha": "Linha Turística do Bonde de Santos",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3335,
+          -23.9315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-funicular-monte-serrat-santos-sp",
+        "nome": "Estação do Funicular do Monte Serrat (Ilha de São Vicente / Santos, SP)",
+        "sistema_id": "bonde-turistico-centro-historico-santos-funicular-monte-serrat-ilha-sao-vicente-sp",
+        "sistema_nome_pt": "Ilha de São Vicente (Santos e São Vicente) — Linha Turística do Bonde do Centro Histórico de Santos e Sistema Funicular do Monte Serrat (SP)",
+        "sistema_nome_en": "São Vicente Island (Santos & São Vicente) — Santos Historic Downtown Heritage Tramway & Monte Serrat Funicular Railway (SP, Brazil)",
+        "linha": "Funicular do Monte Serrat",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3265,
+          -23.9425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-corredor-exportacao-ponta-da-praia-macuco-santos-sp",
+        "nome": "Pera Ferroviária do Corredor de Exportação / Macuco (Margem Direita — Ilha de São Vicente, SP)",
+        "sistema_id": "ferradura-ferroviaria-valongo-macuco-ponta-da-praia-ilha-sao-vicente-santos-sp",
+        "sistema_nome_pt": "Ilha de São Vicente (Santos) — Corredor Ferroviário da Margem Direita do Porto de Santos (Ponte do Casqueiro / Barreiros – Valongo – Macuco – Ponta da Praia, FIPS / Rumo / MRS, SP)",
+        "sistema_nome_en": "São Vicente Island (Santos) — Port of Santos Right Bank Freight Rail Corridor (Casqueiro / Barreiros Bridges – Valongo – Macuco – Ponta da Praia, SP, Brazil)",
+        "linha": "Tronco Insular da Margem Direita do Porto de Santos",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3085,
+          -23.9585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-patio-ferroviario-alemoa-valongo-santos-sp",
+        "nome": "Pátio Ferroviário de Alemoa / Saboó (Margem Direita — Ilha de São Vicente, SP)",
+        "sistema_id": "ferradura-ferroviaria-valongo-macuco-ponta-da-praia-ilha-sao-vicente-santos-sp",
+        "sistema_nome_pt": "Ilha de São Vicente (Santos) — Corredor Ferroviário da Margem Direita do Porto de Santos (Ponte do Casqueiro / Barreiros – Valongo – Macuco – Ponta da Praia, FIPS / Rumo / MRS, SP)",
+        "sistema_nome_en": "São Vicente Island (Santos) — Port of Santos Right Bank Freight Rail Corridor (Casqueiro / Barreiros Bridges – Valongo – Macuco – Ponta da Praia, SP, Brazil)",
+        "linha": "Tronco Insular da Margem Direita do Porto de Santos",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3645,
+          -23.9245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-grande-valo-grande-iguape-ilha-comprida-sp",
+        "nome": "Cais Histórico do Porto Grande de Iguape / Valo Grande e Boqueirão (Ilha Comprida, SP)",
+        "sistema_id": "trilhos-portuarios-valo-grande-iguape-cananeia-ilha-comprida-sp",
+        "sistema_nome_pt": "Ilha Comprida, Iguape & Ilha de Cananeia — Trilhos Portuários Históricos do Porto Grande de Iguape, Valo Grande e Carreiras Navais de Cananeia (Lagamar UNESCO, SP)",
+        "sistema_nome_en": "Ilha Comprida, Iguape & Cananeia Island — Historic Port Rails of Iguape, Valo Grande & Cananeia Shipyard Slipways (Lagamar UNESCO, SP, Brazil)",
+        "linha": "Eixo Portuário e Naval do Lagamar Paulista",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5565,
+          -24.7085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-estaleiro-ilha-de-cananeia-sp",
+        "nome": "Cais e Carreira Naval da Ilha de Cananeia (Lagamar UNESCO, SP)",
+        "sistema_id": "trilhos-portuarios-valo-grande-iguape-cananeia-ilha-comprida-sp",
+        "sistema_nome_pt": "Ilha Comprida, Iguape & Ilha de Cananeia — Trilhos Portuários Históricos do Porto Grande de Iguape, Valo Grande e Carreiras Navais de Cananeia (Lagamar UNESCO, SP)",
+        "sistema_nome_en": "Ilha Comprida, Iguape & Cananeia Island — Historic Port Rails of Iguape, Valo Grande & Cananeia Shipyard Slipways (Lagamar UNESCO, SP, Brazil)",
+        "linha": "Eixo Portuário e Naval do Lagamar Paulista",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9265,
+          -25.0145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bonde-historico-ribeira-ilha-do-governador-rj",
+        "nome": "Estação Histórica do Bonde da Ribeira / Praça Iaiá Garcia (Ilha do Governador, RJ)",
+        "sistema_id": "trilhos-historicos-bondes-ilha-do-governador-cocota-ribeira-galeao-rj",
+        "sistema_nome_pt": "Ilha do Governador — Eixo Patrimonial de Bondes da Ribeira – Cocotá – Freguesia e Trilhos Navais / Aeronáuticos da Ponta do Galeão (Baía de Guanabara, RJ)",
+        "sistema_nome_en": "Governador Island — Ribeira – Cocotá – Freguesia Heritage Tramway Axis & Galeão Naval/Aviation Rail Slipways (Guanabara Bay, Rio de Janeiro)",
+        "linha": "Corredor Insular da Ilha do Governador",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1685,
+          -22.8235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-cocota-freguesia-ilha-do-governador-rj",
+        "nome": "Terminal de Cocotá / Freguesia (Ilha do Governador — Baía de Guanabara, RJ)",
+        "sistema_id": "trilhos-historicos-bondes-ilha-do-governador-cocota-ribeira-galeao-rj",
+        "sistema_nome_pt": "Ilha do Governador — Eixo Patrimonial de Bondes da Ribeira – Cocotá – Freguesia e Trilhos Navais / Aeronáuticos da Ponta do Galeão (Baía de Guanabara, RJ)",
+        "sistema_nome_en": "Governador Island — Ribeira – Cocotá – Freguesia Heritage Tramway Axis & Galeão Naval/Aviation Rail Slipways (Guanabara Bay, Rio de Janeiro)",
+        "linha": "Corredor Insular da Ilha do Governador",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.172,
+          -22.8035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-diques-arsenal-de-marinha-ilha-das-cobras-rj",
+        "nome": "Pátio Ferroviário Naval dos Diques Almirante Jardim e Santa Cruz (Ilha das Cobras — AMRJ, RJ)",
+        "sistema_id": "trilhos-arsenal-de-marinha-ilha-das-cobras-ilha-fiscal-paqueta-guanabara-rj",
+        "sistema_nome_pt": "Ilha das Cobras, Ilha Fiscal & Ilha de Paquetá — Rede Ferroviária de Guindastes e Diques Secos do Arsenal de Marinha (AMRJ) e Trilhos Históricos de Paquetá (Baía de Guanabara, RJ)",
+        "sistema_nome_en": "Cobras Island, Fiscal Island & Paquetá Island — Navy Arsenal Drydock Crane Railway Network (AMRJ) & Paquetá Historic Rail Tracks (Guanabara Bay, RJ)",
+        "linha": "Malha Ferroviária Naval da Ilha das Cobras",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1745,
+          -22.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-molhe-ilha-fiscal-baia-de-guanabara-rj",
+        "nome": "Estação do Molhe da Ilha Fiscal (Baía de Guanabara, RJ)",
+        "sistema_id": "trilhos-arsenal-de-marinha-ilha-das-cobras-ilha-fiscal-paqueta-guanabara-rj",
+        "sistema_nome_pt": "Ilha das Cobras, Ilha Fiscal & Ilha de Paquetá — Rede Ferroviária de Guindastes e Diques Secos do Arsenal de Marinha (AMRJ) e Trilhos Históricos de Paquetá (Baía de Guanabara, RJ)",
+        "sistema_nome_en": "Cobras Island, Fiscal Island & Paquetá Island — Navy Arsenal Drydock Crane Railway Network (AMRJ) & Paquetá Historic Rail Tracks (Guanabara Bay, RJ)",
+        "linha": "Malha Ferroviária Naval da Ilha das Cobras",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1662,
+          -22.8969
+        ]
+      }
     }
   ]
 }
