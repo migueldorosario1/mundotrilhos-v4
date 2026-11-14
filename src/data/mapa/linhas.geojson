@@ -30697,6 +30697,186 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-logisticos-polares-estacao-comandante-ferraz-rothera-mcmurdo-antartida",
+        "linha": "Vias Logísticas e Rampa Polar da Estação Antártica Comandante Ferraz (Península Keller, Ilha Rei George)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Sistemas de Trilhos Logísticos e Polares da Estação Antártica Comandante Ferraz (Ilha Rei George), Rothera (Ilha Adelaide) e McMurdo / Scott Base (Antártida)",
+        "sistema_nome_en": "Comandante Ferraz Antarctic Station (King George Island), Rothera (Adelaide Island) & McMurdo / Scott Base Polar Logistics Rail Systems (Antarctica)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3915,
+            -62.085
+          ],
+          [
+            -58.3965,
+            -62.0825
+          ],
+          [
+            -58.4045,
+            -62.0795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-polares-estacoes-syowa-dumont-durville-mawson-antartida",
+        "linha": "Vias Polares de Abastecimento da Estação Syowa (Ilha Ongul Oriental, Antártida Oriental)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Férreas de Desembarque e Abastecimento Polar das Estações Syowa (Ilha Ongul Oriental), Dumont d'Urville (Terra Adélia) e Mawson (Antártida Oriental)",
+        "sistema_nome_en": "Syowa Station (East Ongul Island), Dumont d'Urville (Adélie Land) & Mawson Polar Supply Rail Tracks (East Antarctica)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.5835,
+            -69.0065
+          ],
+          [
+            39.5915,
+            -69.004
+          ],
+          [
+            39.601,
+            -69.0015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-estaleiro-mariehamn-vasterhamn-langnas-ilhas-aland",
+        "linha": "Vias Portuárias e de Estaleiro Västerhamn (Museu Pommern) – Österhamn (Mariehamn, Ilhas Åland)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Férreas Portuárias e de Estaleiro de Västerhamn em Mariehamn (Museu Marítimo Pommern) e Terminal de Långnäs (Ilhas Åland)",
+        "sistema_nome_en": "Mariehamn Västerhamn Port & Shipyard Rail Tracks (Pommern Maritime Museum) and Långnäs Terminal Tracks (Åland Islands)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.9255,
+            60.0925
+          ],
+          [
+            19.9325,
+            60.0975
+          ],
+          [
+            19.9485,
+            60.1015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "planos-inclinados-monasticos-vias-carga-dafni-karyes-skiti-agias-annis-monte-atos",
+        "linha": "Planos Inclinados e Vias Monásticas Porto de Dafni – Simonos Petras – Skiti Agias Annis (Monte Atos)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Planos Inclinados Monásticos sobre Trilhos e Vias de Carga de Dafni, Simonos Petras, São Paulo e Skiti Agias Annis (Estado Monástico Autônomo do Monte Atos)",
+        "sistema_nome_en": "Monastic Inclined Planes & Cargo Rail Tracks of Dafni, Simonopetra, Agios Pavlos and Skiti Agias Annis (Autonomous Monastic State of Mount Athos)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.2215,
+            40.214
+          ],
+          [
+            24.2475,
+            40.189
+          ],
+          [
+            24.2965,
+            40.1415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-desembarque-estacao-polar-nyroysa-westwind-beach-ilha-bouvet",
+        "linha": "Vias de Desembarque Polar Westwindstranda – Estação Científica Nyrøysa (Ilha Bouvet)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias de Desembarque e Transporte Polar da Estação Norueguesa Nyrøysa (Norvegiaodden / Westwindstranda, Ilha Bouvet)",
+        "sistema_nome_en": "Nyrøysa Norwegian Polar Research Station Landing & Haulage Rail Tracks (Norvegiaodden / Westwind Beach, Bouvet Island)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.285,
+            -54.4095
+          ],
+          [
+            3.2875,
+            -54.4085
+          ],
+          [
+            3.2915,
+            -54.407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "conexao-ferroviaria-patrimonial-forte-sant-angelo-villa-magistrale-ordem-soberana-de-malta",
+        "linha": "Plano Inclinado e Galeria Ferroviária do Forte Sant'Angelo (Cais Magistral de Birgu, Ordem Soberana de Malta)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Plano Inclinado e Vias Históricas Subterrâneas do Forte Sant'Angelo (Birgu) e Conexão Ferroviária da Villa Magistrale / Aventino (Ordem Soberana e Militar de Malta)",
+        "sistema_nome_en": "Fort St. Angelo (Birgu) Underground Inclined Railway & Villa Magistrale / Aventine Rail Link (Sovereign Military Order of Malta)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5172,
+            35.8928
+          ],
+          [
+            14.518,
+            35.8922
+          ],
+          [
+            14.5192,
+            35.8915
+          ]
+        ]
+      }
     }
   ]
 }

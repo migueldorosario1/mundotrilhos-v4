@@ -23972,6 +23972,226 @@
           -53.019
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-logisticos-polares-estacao-comandante-ferraz-rothera-mcmurdo-antartida",
+        "nome": "Estação Antártica Comandante Ferraz — Rampa e Vias Logísticas (Baía do Almirantado, Ilha Rei George)",
+        "linha": "Vias Logísticas e Rampa Polar da Estação Antártica Comandante Ferraz (Península Keller, Ilha Rei George)",
+        "status": "operacao",
+        "integracoes": [
+          "Base Científica Brasileira EACF (PROANTAR)",
+          "Baía do Almirantado (Península Keller)"
+        ],
+        "sistema_nome_pt": "Sistemas de Trilhos Logísticos e Polares da Estação Antártica Comandante Ferraz (Ilha Rei George), Rothera (Ilha Adelaide) e McMurdo / Scott Base (Antártida)",
+        "sistema_nome_en": "Comandante Ferraz Antarctic Station (King George Island), Rothera (Adelaide Island) & McMurdo / Scott Base Polar Logistics Rail Systems (Antarctica)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3915,
+          -62.085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-logisticos-polares-estacao-comandante-ferraz-rothera-mcmurdo-antartida",
+        "nome": "Terminal Polar de Rothera Wharf & Biscoe Wharf (Ilha Adelaide, Península Antártica)",
+        "linha": "Vias Logísticas e Rampa Polar da Estação Antártica Comandante Ferraz (Península Keller, Ilha Rei George)",
+        "status": "operacao",
+        "integracoes": [
+          "Cais do RRS Sir David Attenborough",
+          "Aeródromo Polar de Rothera (BAS)"
+        ],
+        "sistema_nome_pt": "Sistemas de Trilhos Logísticos e Polares da Estação Antártica Comandante Ferraz (Ilha Rei George), Rothera (Ilha Adelaide) e McMurdo / Scott Base (Antártida)",
+        "sistema_nome_en": "Comandante Ferraz Antarctic Station (King George Island), Rothera (Adelaide Island) & McMurdo / Scott Base Polar Logistics Rail Systems (Antarctica)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.127,
+          -67.568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-polares-estacoes-syowa-dumont-durville-mawson-antartida",
+        "nome": "Terminal Polar de Desembarque da Estação Syowa (Ilha Ongul Oriental, Antártida)",
+        "linha": "Vias Polares de Abastecimento da Estação Syowa (Ilha Ongul Oriental, Antártida Oriental)",
+        "status": "operacao",
+        "integracoes": [
+          "Quebra-Gelo Japonês Shirase (JARE)",
+          "Observatório Polar de Syowa"
+        ],
+        "sistema_nome_pt": "Vias Férreas de Desembarque e Abastecimento Polar das Estações Syowa (Ilha Ongul Oriental), Dumont d'Urville (Terra Adélia) e Mawson (Antártida Oriental)",
+        "sistema_nome_en": "Syowa Station (East Ongul Island), Dumont d'Urville (Adélie Land) & Mawson Polar Supply Rail Tracks (East Antarctica)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5835,
+          -69.0065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-polares-estacoes-syowa-dumont-durville-mawson-antartida",
+        "nome": "Estação Polar Francesa de Dumont d'Urville (Île des Pétrels, Terra Adélia)",
+        "linha": "Vias Polares de Abastecimento da Estação Syowa (Ilha Ongul Oriental, Antártida Oriental)",
+        "status": "operacao",
+        "integracoes": [
+          "Cais Polar do L'Astrolabe",
+          "Base Científica IPEV da Terra Adélia"
+        ],
+        "sistema_nome_pt": "Vias Férreas de Desembarque e Abastecimento Polar das Estações Syowa (Ilha Ongul Oriental), Dumont d'Urville (Terra Adélia) e Mawson (Antártida Oriental)",
+        "sistema_nome_en": "Syowa Station (East Ongul Island), Dumont d'Urville (Adélie Land) & Mawson Polar Supply Rail Tracks (East Antarctica)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0015,
+          -66.6625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-estaleiro-mariehamn-vasterhamn-langnas-ilhas-aland",
+        "nome": "Terminal Portuário e Doca do Veleiro Pommern em Västerhamn (Mariehamn, Ilhas Åland)",
+        "linha": "Vias Portuárias e de Estaleiro Västerhamn (Museu Pommern) – Österhamn (Mariehamn, Ilhas Åland)",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Internacional de Ferries de Mariehamn",
+          "Museu Marítimo de Åland & Navio Pommern"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias e de Estaleiro de Västerhamn em Mariehamn (Museu Marítimo Pommern) e Terminal de Långnäs (Ilhas Åland)",
+        "sistema_nome_en": "Mariehamn Västerhamn Port & Shipyard Rail Tracks (Pommern Maritime Museum) and Långnäs Terminal Tracks (Åland Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9255,
+          60.0925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-estaleiro-mariehamn-vasterhamn-langnas-ilhas-aland",
+        "nome": "Terminal Intermodal Portuário de Långnäs (Lumparland, Ilhas Åland)",
+        "linha": "Vias Portuárias e de Estaleiro Västerhamn (Museu Pommern) – Österhamn (Mariehamn, Ilhas Åland)",
+        "status": "operacao",
+        "integracoes": [
+          "Ferry para Turku, Estocolmo e Naantali",
+          "Frota do Arquipélago de Ålandstrafiken"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias e de Estaleiro de Västerhamn em Mariehamn (Museu Marítimo Pommern) e Terminal de Långnäs (Ilhas Åland)",
+        "sistema_nome_en": "Mariehamn Västerhamn Port & Shipyard Rail Tracks (Pommern Maritime Museum) and Långnäs Terminal Tracks (Åland Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2985,
+          60.1165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "planos-inclinados-monasticos-vias-carga-dafni-karyes-skiti-agias-annis-monte-atos",
+        "nome": "Cais e Terminal Monástico de Dafni (Porto Principal do Monte Atos)",
+        "linha": "Planos Inclinados e Vias Monásticas Porto de Dafni – Simonos Petras – Skiti Agias Annis (Monte Atos)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Dafni (Ferries para Ouranoupoli)",
+          "Conexão para a Capital Monástica de Karyes"
+        ],
+        "sistema_nome_pt": "Planos Inclinados Monásticos sobre Trilhos e Vias de Carga de Dafni, Simonos Petras, São Paulo e Skiti Agias Annis (Estado Monástico Autônomo do Monte Atos)",
+        "sistema_nome_en": "Monastic Inclined Planes & Cargo Rail Tracks of Dafni, Simonopetra, Agios Pavlos and Skiti Agias Annis (Autonomous Monastic State of Mount Athos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2215,
+          40.214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "planos-inclinados-monasticos-vias-carga-dafni-karyes-skiti-agias-annis-monte-atos",
+        "nome": "Estação do Plano Inclinado de Simonos Petras & Skiti Agias Annis (Monte Atos)",
+        "linha": "Planos Inclinados e Vias Monásticas Porto de Dafni – Simonos Petras – Skiti Agias Annis (Monte Atos)",
+        "status": "operacao",
+        "integracoes": [
+          "Mosteiro de Simonos Petras",
+          "Arsanas (Cais Monástico) do Sul do Monte Atos"
+        ],
+        "sistema_nome_pt": "Planos Inclinados Monásticos sobre Trilhos e Vias de Carga de Dafni, Simonos Petras, São Paulo e Skiti Agias Annis (Estado Monástico Autônomo do Monte Atos)",
+        "sistema_nome_en": "Monastic Inclined Planes & Cargo Rail Tracks of Dafni, Simonopetra, Agios Pavlos and Skiti Agias Annis (Autonomous Monastic State of Mount Athos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2475,
+          40.189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-desembarque-estacao-polar-nyroysa-westwind-beach-ilha-bouvet",
+        "nome": "Estação Polar Norueguesa de Nyrøysa (Norvegiaodden, Ilha Bouvet)",
+        "linha": "Vias de Desembarque Polar Westwindstranda – Estação Científica Nyrøysa (Ilha Bouvet)",
+        "status": "operacao",
+        "integracoes": [
+          "Estação Científica Nyrøysa (Norsk Polarinstitutt)",
+          "Praia de Desembarque de Westwindstranda"
+        ],
+        "sistema_nome_pt": "Vias de Desembarque e Transporte Polar da Estação Norueguesa Nyrøysa (Norvegiaodden / Westwindstranda, Ilha Bouvet)",
+        "sistema_nome_en": "Nyrøysa Norwegian Polar Research Station Landing & Haulage Rail Tracks (Norvegiaodden / Westwind Beach, Bouvet Island)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2875,
+          -54.4085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "conexao-ferroviaria-patrimonial-forte-sant-angelo-villa-magistrale-ordem-soberana-de-malta",
+        "nome": "Estação Magistral do Forte Sant'Angelo (Sede Extraterritorial em Birgu — Estação Nº 1.140 do Atlas!)",
+        "linha": "Plano Inclinado e Galeria Ferroviária do Forte Sant'Angelo (Cais Magistral de Birgu, Ordem Soberana de Malta)",
+        "status": "operacao",
+        "integracoes": [
+          "Palácio Magistral do Forte Sant'Angelo",
+          "Cais de Grand Harbour (Birgu / Vittoriosa)"
+        ],
+        "sistema_nome_pt": "Plano Inclinado e Vias Históricas Subterrâneas do Forte Sant'Angelo (Birgu) e Conexão Ferroviária da Villa Magistrale / Aventino (Ordem Soberana e Militar de Malta)",
+        "sistema_nome_en": "Fort St. Angelo (Birgu) Underground Inclined Railway & Villa Magistrale / Aventine Rail Link (Sovereign Military Order of Malta)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.518,
+          35.8922
+        ]
+      }
     }
   ]
 }
