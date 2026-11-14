@@ -28163,6 +28163,236 @@
           51.2985
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "manitoulin-little-current-baffin-mary-river-rail",
+        "nome": "Little Current Railway Swing Bridge & Station (Ilha Manitoulin — Canal do Norte do Lago Huron)",
+        "linha": "Algoma Eastern Railway (Manitoulin Island)",
+        "status": "operacao",
+        "integracoes": [
+          "Little Current Swing Bridge (1913 NHL)",
+          "Goat Island Terminal",
+          "North Channel Maritime Route"
+        ],
+        "sistema_nome_pt": "Ponte Ferroviária Giratória de Little Current (Ilha Manitoulin — Algoma Eastern Railway) e Trilhos Mineradores Árticos de Mary River / Milne Inlet e Nanisivik (Ilha de Baffin / Nunavut)",
+        "sistema_nome_en": "Little Current Railway Swing Bridge (Manitoulin Island — Algoma Eastern Railway) & Mary River / Milne Inlet and Nanisivik Arctic Mining Rail (Baffin Island / Nunavut)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9245,
+          45.9815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "manitoulin-little-current-baffin-mary-river-rail",
+        "nome": "Mary River Mine / Milne Inlet Port & Nanisivik Terminal (Ilha de Baffin — Nunavut)",
+        "linha": "Baffin Island Arctic Mining Corridor",
+        "status": "operacao",
+        "integracoes": [
+          "Milne Inlet Deepwater Port",
+          "Mary River Iron Ore Deposit No. 1",
+          "Nanisivik Naval Facility (Strathcona Sound)"
+        ],
+        "sistema_nome_pt": "Ponte Ferroviária Giratória de Little Current (Ilha Manitoulin — Algoma Eastern Railway) e Trilhos Mineradores Árticos de Mary River / Milne Inlet e Nanisivik (Ilha de Baffin / Nunavut)",
+        "sistema_nome_en": "Little Current Railway Swing Bridge (Manitoulin Island — Algoma Eastern Railway) & Mary River / Milne Inlet and Nanisivik Arctic Mining Rail (Baffin Island / Nunavut)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9025,
+          71.8855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "puget-sound-whidbey-bainbridge-san-juan-island-rail",
+        "nome": "Fort Casey / Coupeville & Oak Harbor Naval Rail (Whidbey Island — Puget Sound)",
+        "linha": "Whidbey Island Coastal & Naval Rail",
+        "status": "operacao",
+        "integracoes": [
+          "Keystone / Coupeville Ferry Terminal",
+          "Admiralty Head Lighthouse",
+          "NAS Whidbey Island"
+        ],
+        "sistema_nome_pt": "Trilhos Navais, Florestais e de Defesa Costeira de Whidbey Island (Fort Casey / Coupeville / NAS Whidbey), Bainbridge Island (Creosote / Eagle Harbor) e San Juan Island (Roche Harbor Lime Works)",
+        "sistema_nome_en": "Naval, Logging & Coastal Defense Railways of Whidbey Island (Fort Casey / Coupeville / NAS Whidbey), Bainbridge Island (Creosote / Eagle Harbor) & San Juan Island (Roche Harbor Lime Works)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6755,
+          48.1615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "puget-sound-whidbey-bainbridge-san-juan-island-rail",
+        "nome": "Roche Harbor Lime Works (San Juan Island) & Eagle Harbor / Winslow (Bainbridge Island)",
+        "linha": "San Juan & Bainbridge Islands Heritage Rail",
+        "status": "operacao",
+        "integracoes": [
+          "Roche Harbor Historic Lime Kilns",
+          "Washington State Ferries (Bainbridge–Seattle & Friday Harbor)",
+          "Port Blakely Mill Rail Heritage"
+        ],
+        "sistema_nome_pt": "Trilhos Navais, Florestais e de Defesa Costeira de Whidbey Island (Fort Casey / Coupeville / NAS Whidbey), Bainbridge Island (Creosote / Eagle Harbor) e San Juan Island (Roche Harbor Lime Works)",
+        "sistema_nome_en": "Naval, Logging & Coastal Defense Railways of Whidbey Island (Fort Casey / Coupeville / NAS Whidbey), Bainbridge Island (Creosote / Eagle Harbor) & San Juan Island (Roche Harbor Lime Works)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1515,
+          48.6095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "newport-narragansett-bay-aquidneck-marthas-vineyard-nantucket-rail",
+        "nome": "Newport Depot / Portsmouth Grove & Melville (Aquidneck Island — Newport & Narragansett Bay Railroad)",
+        "linha": "Newport & Narragansett Bay Railroad (Old Colony Line)",
+        "status": "operacao",
+        "integracoes": [
+          "Newport Gateway Center",
+          "Melville Marina District",
+          "Sakonnet River Rail Corridor"
+        ],
+        "sistema_nome_pt": "Newport & Narragansett Bay Railroad (Ilha de Aquidneck / Rhode Island — Newport, Middletown e Portsmouth via Sakonnet River) e Trilhos Históricos de Martha's Vineyard (Edgartown–Oak Bluffs) e Nantucket (Siasconset)",
+        "sistema_nome_en": "Newport & Narragansett Bay Railroad (Aquidneck Island / Rhode Island — Newport, Middletown & Portsmouth) & Historic Railways of Martha's Vineyard (Edgartown–Oak Bluffs) and Nantucket (Siasconset)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3165,
+          41.4915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "newport-narragansett-bay-aquidneck-marthas-vineyard-nantucket-rail",
+        "nome": "Oak Bluffs / Edgartown (Martha's Vineyard Railroad) & Nantucket / Siasconset Depot",
+        "linha": "Martha's Vineyard & Nantucket Insular Rail",
+        "status": "operacao",
+        "integracoes": [
+          "Steamship Authority Ferry (Oak Bluffs & Nantucket)",
+          "Flying Horses Carousel",
+          "Siasconset Historic Narrow Gauge"
+        ],
+        "sistema_nome_pt": "Newport & Narragansett Bay Railroad (Ilha de Aquidneck / Rhode Island — Newport, Middletown e Portsmouth via Sakonnet River) e Trilhos Históricos de Martha's Vineyard (Edgartown–Oak Bluffs) e Nantucket (Siasconset)",
+        "sistema_nome_en": "Newport & Narragansett Bay Railroad (Aquidneck Island / Rhode Island — Newport, Middletown & Portsmouth) & Historic Railways of Martha's Vineyard (Edgartown–Oak Bluffs) and Nantucket (Siasconset)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5565,
+          41.4545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "florida-keys-overseas-railroad-key-west-pigeon-key",
+        "nome": "Pigeon Key Historic Rail Depot & Old Seven Mile Bridge (Marathon — Florida Keys)",
+        "linha": "FEC Overseas Railroad (Seven Mile Bridge)",
+        "status": "operacao",
+        "integracoes": [
+          "Pigeon Key Railway Museum & Tram",
+          "Old Seven Mile Bridge (Knights Key)",
+          "Florida Keys Overseas Heritage Trail"
+        ],
+        "sistema_nome_pt": "Florida East Coast Overseas Railroad (\"Oitava Maravilha do Mundo\" de Henry Flagler — Seven Mile Bridge / Pigeon Key Railway Museum, Bahia Honda Rail Bridge, Islamorada Hurricane Monument e Key West Trumbo Point / Conch Tour Train)",
+        "sistema_nome_en": "Florida East Coast Overseas Railroad (Henry Flagler's Overseas Railroad — Old Seven Mile Bridge / Pigeon Key Railway Museum, Bahia Honda Rail Bridge, Islamorada & Key West Depot)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1552,
+          24.7042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "florida-keys-overseas-railroad-key-west-pigeon-key",
+        "nome": "Key West Flagler Station (Trumbo Point / Mallory Square) & Bahia Honda Rail Bridge",
+        "linha": "FEC Overseas Railroad (Key West Terminal)",
+        "status": "operacao",
+        "integracoes": [
+          "Sails to Rails Museum at Flagler Station",
+          "Conch Tour Train Depot (Mallory Square)",
+          "Bahia Honda Truss Rail Bridge"
+        ],
+        "sistema_nome_pt": "Florida East Coast Overseas Railroad (\"Oitava Maravilha do Mundo\" de Henry Flagler — Seven Mile Bridge / Pigeon Key Railway Museum, Bahia Honda Rail Bridge, Islamorada Hurricane Monument e Key West Trumbo Point / Conch Tour Train)",
+        "sistema_nome_en": "Florida East Coast Overseas Railroad (Henry Flagler's Overseas Railroad — Old Seven Mile Bridge / Pigeon Key Railway Museum, Bahia Honda Rail Bridge, Islamorada & Key West Depot)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8065,
+          24.5595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "tranvia-historico-ciudad-del-carmen-cozumel-caribe",
+        "nome": "Malecón de Ciudad del Carmen / Centro Histórico (Ilha del Carmen — Campeche)",
+        "linha": "Tranvía Histórico El Guapo (Isla del Carmen)",
+        "status": "operacao",
+        "integracoes": [
+          "Santuario Mariano Diocesano de Nuestra Señora del Carmen",
+          "Malecón Costero Nelson Barrera",
+          "Puerto Industrial Isla del Carmen"
+        ],
+        "sistema_nome_pt": "Bondes Históricos e Tranvías Insulares de Ciudad del Carmen (\"El Guapo\" / Malecón da Ilha del Carmen — Campeche) e São Miguel de Cozumel (Quintana Roo)",
+        "sistema_nome_en": "Historic Trams & Insular Trolleys of Ciudad del Carmen (Isla del Carmen — Campeche) & San Miguel de Cozumel (Quintana Roo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8385,
+          18.6415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-portuario-chicletero-cozumel-isla-mujeres",
+        "nome": "San Miguel de Cozumel Muelle Fiscal / Puerta Maya & Punta Sur Chicle Rail (Ilha de Cozumel)",
+        "linha": "Ferrocarril Portuario y Chicletero de Cozumel & Isla Mujeres",
+        "status": "operacao",
+        "integracoes": [
+          "Terminal Marítima San Miguel (Ferry Playa del Carmen)",
+          "Puerta Maya & SSA International Pier",
+          "Parque Punta Sur (Faro Celarain)"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias, Chicleteiras (Decauville de Santa María / Punta Celarain) e Salineiras de Cozumel (Muelle Fiscal / Puerta Maya) e Isla Mujeres (Salinas e Hacienda Mundaca)",
+        "sistema_nome_en": "Port, Chicle Plantation (Santa María / Punta Celarain Decauville) & Salt Railways of Cozumel (Fiscal Pier / Puerta Maya) and Isla Mujeres (Salinas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9525,
+          20.5085
+        ]
+      }
     }
   ]
 }
