@@ -21772,6 +21772,226 @@
           3.7585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chemin-de-fer-congo-ocean-cfco-brazzaville-dolisie-pointe-noire-la-gazelle-republica-do-congo",
+        "nome": "Gare Centrale de Pointe-Noire (Edifício Art Déco Inspirado na Gare de Deauville, CFCO, República do Congo)",
+        "linha": "Linha Principal CFCO",
+        "status": "operacao",
+        "integracoes": [
+          "Centro de Pointe-Noire",
+          "Porto Autônomo de Pointe-Noire"
+        ],
+        "sistema_nome_pt": "Chemin de Fer Congo-Océan (CFCO — Expresso 'La Gazelle' Brazzaville – Mindouli – Dolisie – Montagnes du Mayombe – Pointe-Noire, República do Congo)",
+        "sistema_nome_en": "Congo-Ocean Railway (CFCO 'La Gazelle' Express Brazzaville – Dolisie – Mayombe Mountains – Pointe-Noire, Republic of the Congo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8635,
+          -4.7945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chemin-de-fer-congo-ocean-cfco-brazzaville-dolisie-pointe-noire-la-gazelle-republica-do-congo",
+        "nome": "Gare Centrale de Brazzaville (Terminal Ferroviário do Pool Malebo, CFCO, República do Congo)",
+        "linha": "Linha Principal CFCO",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Fluvial de Brazzaville (Beach Ngobila)",
+          "Travessia Internacional Brazzaville–Kinshasa"
+        ],
+        "sistema_nome_pt": "Chemin de Fer Congo-Océan (CFCO — Expresso 'La Gazelle' Brazzaville – Mindouli – Dolisie – Montagnes du Mayombe – Pointe-Noire, República do Congo)",
+        "sistema_nome_en": "Congo-Ocean Railway (CFCO 'La Gazelle' Express Brazzaville – Dolisie – Mayombe Mountains – Pointe-Noire, Republic of the Congo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2845,
+          -4.2695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-comilog-mbinda-mont-belo-porto-pointe-noire-cfco-republica-do-congo",
+        "nome": "Estação de Entroncamento de Mont-Belo / Dolisie e Ramal de Mbinda (CFCO, República do Congo)",
+        "linha": "Ramal Mineraleiro COMILOG e Terminal Portuário de Pointe-Noire",
+        "status": "operacao",
+        "integracoes": [
+          "Linha Principal CFCO (Dolisie)",
+          "Ramal Mineraleiro de Mbinda / Mossendjo"
+        ],
+        "sistema_nome_pt": "Ramal Mineraleiro COMILOG (Mbinda – Mossendjo – Mont-Belo) e Corredor de Carga CFCO até o Porto Autônomo de Pointe-Noire (República do Congo)",
+        "sistema_nome_en": "COMILOG Mining Railway Branch (Mbinda – Mossendjo – Mont-Belo) & CFCO Freight Corridor to Port of Pointe-Noire (Republic of the Congo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8745,
+          -4.1845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-babanusa-aweil-wau-bahr-el-ghazal-sudao-do-sul",
+        "nome": "Estação Ferroviária Terminus de Wau (Western Bahr el Ghazal, Sudão do Sul)",
+        "linha": "Ferrovia de Bahr el Ghazal",
+        "status": "operacao",
+        "integracoes": [
+          "Pátio Ferroviário de Wau",
+          "Ponte sobre o Rio Jur"
+        ],
+        "sistema_nome_pt": "Ferrovia de Bahr el Ghazal (Trecho Sul-Sudanês da Linha Babanusa – Aweil – Wau, Sudão do Sul)",
+        "sistema_nome_en": "Bahr el Ghazal Railway (South Sudanese Section of the Babanusa – Aweil – Wau Line, South Sudan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9945,
+          7.7025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-babanusa-aweil-wau-bahr-el-ghazal-sudao-do-sul",
+        "nome": "Estação Ferroviária de Aweil (Northern Bahr el Ghazal, Sudão do Sul)",
+        "linha": "Ferrovia de Bahr el Ghazal",
+        "status": "operacao",
+        "integracoes": [
+          "Centro Comercial de Aweil",
+          "Corredor Ferroviário Babanusa–Wau"
+        ],
+        "sistema_nome_pt": "Ferrovia de Bahr el Ghazal (Trecho Sul-Sudanês da Linha Babanusa – Aweil – Wau, Sudão do Sul)",
+        "sistema_nome_en": "Bahr el Ghazal Railway (South Sudanese Section of the Babanusa – Aweil – Wau Line, South Sudan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3985,
+          8.7685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mogadiscio-afgooye-jowhar-trilhos-portuarios-berbera-somalia",
+        "nome": "Antiga Estação Central de Mogadíscio e Porto de Mogadíscio (Banaadir, Somália)",
+        "linha": "Corredor Ferroviário Histórico Mogadíscio – Afgooye – Jowhar e Porto de Berbera",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Internacional de Mogadíscio",
+          "Centro Histórico de Hamarweyne"
+        ],
+        "sistema_nome_pt": "Ferrovia Histórica Mogadíscio – Afgooye – Villabruzzi (Jowhar) e Vias Férreas Portuárias de Berbera e Mogadíscio (Somália)",
+        "sistema_nome_en": "Mogadishu – Afgooye – Villabruzzi (Jowhar) Heritage Railway Corridor & Port of Berbera / Mogadishu Quay Tracks (Somalia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3185,
+          2.0465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mogadiscio-afgooye-jowhar-trilhos-portuarios-berbera-somalia",
+        "nome": "Terminal Portuário de Berbera e Estação Histórica de Jowhar / Villabruzzi (Somália)",
+        "linha": "Corredor Ferroviário Histórico Mogadíscio – Afgooye – Jowhar e Porto de Berbera",
+        "status": "operacao",
+        "integracoes": [
+          "DP World Berbera Port",
+          "Pólo Açucareiro e Agrícola de Jowhar"
+        ],
+        "sistema_nome_pt": "Ferrovia Histórica Mogadíscio – Afgooye – Villabruzzi (Jowhar) e Vias Férreas Portuárias de Berbera e Mogadíscio (Somália)",
+        "sistema_nome_en": "Mogadishu – Afgooye – Villabruzzi (Jowhar) Heritage Railway Corridor & Port of Berbera / Mogadishu Quay Tracks (Somalia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5025,
+          2.7785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "porto-seco-ferroviario-intermodal-kigali-masaka-dp-world-ruanda",
+        "nome": "Terminal Intermodal e Pátio de Pórticos Sobre Trilhos (RTG/RMG) de Masaka / Kigali Logistics Platform (Kigali, Ruanda)",
+        "linha": "Pátio e Terminal Intermodal Ferroviário-Rodoviário de Masaka / Kigali Logistics Platform",
+        "status": "operacao",
+        "integracoes": [
+          "DP World Kigali Logistics Platform",
+          "Zona Econômica Especial de Kigali"
+        ],
+        "sistema_nome_pt": "Porto Seco e Terminal Ferroviário-Intermodal de Kigali / Masaka (Kigali Logistics Platform — Conexão com os Corredores Central de Isaka/Dar es Salaam e Norte de Mombaça, Ruanda)",
+        "sistema_nome_en": "Kigali Logistics Platform / Masaka Intermodal Rail-Road Dry Port (Central & Northern Corridor Rail Gateway, Rwanda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2245,
+          -1.9945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "terminal-intermodal-portuario-ferroviario-bujumbura-lago-tanganica-burundi",
+        "nome": "Terminal Portuário e Vias Férreas de Guindastes do Porto de Bujumbura no Lago Tanganica (Bujumbura, Burundi)",
+        "linha": "Terminal Portuário-Ferroviário de Bujumbura no Lago Tanganica",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Bujumbura",
+          "Barcaças Ferroviárias do Lago Tanganica (Kigoma TRC / Kalemie SNCC)"
+        ],
+        "sistema_nome_pt": "Terminal Portuário-Ferroviário de Bujumbura no Lago Tanganica e Corredor Intermodal Kigoma / Uvinza – Musongati – Gitega – Bujumbura (Burundi)",
+        "sistema_nome_en": "Port of Bujumbura Rail-Ferry Intermodal Terminal on Lake Tanganyika & Kigoma / Uvinza – Musongati – Bujumbura Corridor (Burundi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3485,
+          -3.3765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "terminal-intermodal-portuario-ferroviario-bujumbura-lago-tanganica-burundi",
+        "nome": "Pólo Logístico e Mineral de Gitega / Musongati (Corredor de Níquel Uvinza–Musongati–Gitega, Burundi)",
+        "linha": "Terminal Portuário-Ferroviário de Bujumbura no Lago Tanganica e Eixo Mineral Gitega – Musongati",
+        "status": "operacao",
+        "integracoes": [
+          "Capital Política Gitega",
+          "Distrito Minerador de Níquel de Musongati"
+        ],
+        "sistema_nome_pt": "Terminal Portuário-Ferroviário de Bujumbura no Lago Tanganica e Corredor Intermodal Kigoma / Uvinza – Musongati – Gitega – Bujumbura (Burundi)",
+        "sistema_nome_en": "Port of Bujumbura Rail-Ferry Intermodal Terminal on Lake Tanganyika & Kigoma / Uvinza – Musongati – Bujumbura Corridor (Burundi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9245,
+          -3.4285
+        ]
+      }
     }
   ]
 }
