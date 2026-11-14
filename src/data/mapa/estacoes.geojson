@@ -22872,6 +22872,226 @@
           -19.0545
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-salineiras-grand-turk-salt-cay-east-caicos-ilhas-turcas-e-caicos",
+        "nome": "Salina Patrimonial de Town Salina e Museu Nacional (Cockburn Town, Grand Turk, Ilhas Turcas e Caicos)",
+        "linha": "Ferrovias Salineiras de Town Salina, Balfour Town e Jacksonville",
+        "status": "operacao",
+        "integracoes": [
+          "Turks and Caicos National Museum (Guinep House)",
+          "Town Salina & Red Salina (Cockburn Town)"
+        ],
+        "sistema_nome_pt": "Ferrovias Salineiras e de Sisal de Grand Turk (Cockburn Town), Salt Cay (Balfour Town) e East Caicos (Jacksonville, Ilhas Turcas e Caicos)",
+        "sistema_nome_en": "Grand Turk (Cockburn Town), Salt Cay (Balfour Town) Salt Salina Tramways & East Caicos Sisal Railway (Turks and Caicos Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1385,
+          21.4665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-salineiras-grand-turk-salt-cay-east-caicos-ilhas-turcas-e-caicos",
+        "nome": "Salina Histórica de Balfour Town / White House (Salt Cay) e Estação de Sisal de Jacksonville (East Caicos, Ilhas Turcas e Caicos)",
+        "linha": "Ferrovias Salineiras de Town Salina, Balfour Town e Jacksonville",
+        "status": "operacao",
+        "integracoes": [
+          "Harriott Salina & White House (Salt Cay)",
+          "Ruínas Ferroviárias de Jacksonville (East Caicos)"
+        ],
+        "sistema_nome_pt": "Ferrovias Salineiras e de Sisal de Grand Turk (Cockburn Town), Salt Cay (Balfour Town) e East Caicos (Jacksonville, Ilhas Turcas e Caicos)",
+        "sistema_nome_en": "Grand Turk (Cockburn Town), Salt Cay (Balfour Town) Salt Salina Tramways & East Caicos Sisal Railway (Turks and Caicos Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2085,
+          21.3285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-providenciales-south-dock-grand-turk-ilhas-turcas-e-caicos",
+        "nome": "Terminal Portuário de Contêineres de South Dock (Providenciales, Ilhas Turcas e Caicos)",
+        "linha": "Vias Férreas Portuárias de South Dock em Providenciales e Grand Turk",
+        "status": "operacao",
+        "integracoes": [
+          "Providenciales South Dock Container Terminal",
+          "Grand Turk South Dock Cargo Pier"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de South Dock (Providenciales) e Píer de Carga de South Dock em Grand Turk (Ilhas Turcas e Caicos)",
+        "sistema_nome_en": "Providenciales South Dock & Grand Turk South Dock Container Port Rail Systems (Turks and Caicos Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2785,
+          21.7525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fosfato-ilha-sombrero-salinas-sandy-ground-blowing-point-anguilla",
+        "nome": "Porto de Road Bay e Antiga Salina de Sandy Ground (The Valley / Sandy Ground, Anguilla)",
+        "linha": "Ferrovia de Fosfato da Ilha de Sombrero e Vias Salineiras e Portuárias de Sandy Ground / Road Bay",
+        "status": "operacao",
+        "integracoes": [
+          "Road Bay Cargo Port & Pumphouse",
+          "Terminal de balsas de Blowing Point"
+        ],
+        "sistema_nome_pt": "Ferrovia Mineradora de Fosfato da Ilha de Sombrero e Vias Salineiras e Portuárias de Sandy Ground e Blowing Point (Anguilla)",
+        "sistema_nome_en": "Sombrero Island Phosphate Mining Railway & Sandy Ground Salt Pond / Blowing Point Port Tracks (Anguilla)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0885,
+          18.2025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fosfato-ilha-sombrero-salinas-sandy-ground-blowing-point-anguilla",
+        "nome": "Estação e Farol da Ferrovia de Fosfato da Ilha de Sombrero (Reserva Marinha de Sombrero, Anguilla)",
+        "linha": "Ferrovia de Fosfato da Ilha de Sombrero e Vias Salineiras e Portuárias de Sandy Ground / Road Bay",
+        "status": "operacao",
+        "integracoes": [
+          "Farol e Platô Minerador da Ilha de Sombrero",
+          "Parque Marinho de Sombrero (RAMSAR)"
+        ],
+        "sistema_nome_pt": "Ferrovia Mineradora de Fosfato da Ilha de Sombrero e Vias Salineiras e Portuárias de Sandy Ground e Blowing Point (Anguilla)",
+        "sistema_nome_en": "Sombrero Island Phosphate Mining Railway & Sandy Ground Salt Pond / Blowing Point Port Tracks (Anguilla)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4255,
+          18.5885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-portuarias-little-bay-carrs-bay-trilhos-historicos-plymouth-montserrat",
+        "nome": "Terminal Portuário de Port Little Bay (Nova Capital Little Bay / Brades, Montserrat)",
+        "linha": "Vias Férreas Portuárias de Port Little Bay / Brades e Trilhos Históricos de Carr's Bay / Plymouth",
+        "status": "operacao",
+        "integracoes": [
+          "Port Little Bay New Breakwater & Jetty",
+          "Centro Governamental de Brades"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de Little Bay / Brades e Trilhos Históricos de Açúcar e Algodão de Plymouth e Carr's Bay (Montserrat)",
+        "sistema_nome_en": "Little Bay / Brades Port Rail Tracks & Plymouth / Carr's Bay Historic Sugar and Sea Island Cotton Tramways (Montserrat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2065,
+          16.8025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-portuarias-little-bay-carrs-bay-trilhos-historicos-plymouth-montserrat",
+        "nome": "Sítio Ferroviário Patrimonial de Carr's Bay e Mirante de Plymouth (Montserrat)",
+        "linha": "Vias Férreas Portuárias de Port Little Bay / Brades e Trilhos Históricos de Carr's Bay / Plymouth",
+        "status": "operacao",
+        "integracoes": [
+          "Baía de Carr's Bay",
+          "Observatório Vulcânico de Montserrat (MVO)"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de Little Bay / Brades e Trilhos Históricos de Açúcar e Algodão de Plymouth e Carr's Bay (Montserrat)",
+        "sistema_nome_en": "Little Bay / Brades Port Rail Tracks & Plymouth / Carr's Bay Historic Sugar and Sea Island Cotton Tramways (Montserrat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2025,
+          16.7945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-george-town-fosfato-little-cayman-east-end-ilhas-cayman",
+        "nome": "Terminal Portuário de Carga de George Town Harbour (Grand Cayman, Ilhas Cayman)",
+        "linha": "Vias Férreas Portuárias de George Town Harbour e Trilhos de Fosfato de Little Cayman / Cayman Brac",
+        "status": "operacao",
+        "integracoes": [
+          "PACI George Town Cargo Terminal",
+          "Depósito de Contêineres de Industrial Park (Grand Cayman)"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias do Terminal de Carga de George Town (Grand Cayman) e Trilhos Históricos de Fosfato de Little Cayman e Cayman Brac (Ilhas Cayman)",
+        "sistema_nome_en": "George Town Cargo Port Rail Tracks (Grand Cayman) & Little Cayman / Cayman Brac Phosphate Tramway Heritage (Cayman Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3835,
+          19.2965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mina-cobre-copper-mine-point-virgin-gorda-port-purcell-tortola-ilhas-virgens-britanicas",
+        "nome": "Terminal Portuário de Port Purcell em Road Town (Ilha de Tortola, Ilhas Virgens Britânicas)",
+        "linha": "Trilhos Patrimoniais de Copper Mine Point (Virgin Gorda) e Vias Portuárias de Port Purcell em Road Town",
+        "status": "operacao",
+        "integracoes": [
+          "Port Purcell Container Terminal (Road Town)",
+          "Terminal de Ferries de Road Town"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais da Mina de Cobre de Copper Mine Point (Virgin Gorda) e Vias Portuárias de Port Purcell em Road Town (Tortola, Ilhas Virgens Britânicas)",
+        "sistema_nome_en": "Copper Mine Point Heritage Railway Tracks (Virgin Gorda) & Port Purcell Container Wharf in Road Town (Tortola, British Virgin Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6125,
+          18.4265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mina-cobre-copper-mine-point-virgin-gorda-port-purcell-tortola-ilhas-virgens-britanicas",
+        "nome": "Sítio Ferroviário e Chaminé Cornish de Copper Mine Point National Park (Virgin Gorda, Ilhas Virgens Britânicas — Estação Nº 1.090!)",
+        "linha": "Trilhos Patrimoniais de Copper Mine Point (Virgin Gorda) e Vias Portuárias de Port Purcell em Road Town",
+        "status": "operacao",
+        "integracoes": [
+          "Copper Mine National Park (Virgin Gorda)",
+          "Spanish Town / Virgin Gorda Yacht Harbour"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais da Mina de Cobre de Copper Mine Point (Virgin Gorda) e Vias Portuárias de Port Purcell em Road Town (Tortola, Ilhas Virgens Britânicas)",
+        "sistema_nome_en": "Copper Mine Point Heritage Railway Tracks (Virgin Gorda) & Port Purcell Container Wharf in Road Town (Tortola, British Virgin Islands)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4285,
+          18.4325
+        ]
+      }
     }
   ]
 }
