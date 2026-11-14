@@ -26179,6 +26179,230 @@
           54.7755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-automatizado-honolulu-skyline-hart-kapolei-aloha-stadium-pearl-harbor-ilha-de-oahu-havai",
+        "nome": "Estação Kualakaʻi / East Kapolei (Terminal Oeste do Metrô Automatizado Skyline de Honolulu — Oahu, Havaí)",
+        "linha": "Linha Skyline HART (Kualakaʻi / East Kapolei – Waipahu – Pearl Highlands – Hālawa / Aloha Stadium — Oahu)",
+        "status": "operacao",
+        "integracoes": [
+          "TheBus Honolulu",
+          "University of Hawaiʻi – West Oʻahu"
+        ],
+        "sistema_nome_pt": "Metrô Automatizado de Honolulu — Skyline HART (East Kapolei – Waipahu – Pearl Harbor – Aloha Stadium / Hālawa, Ilha de Oahu, Havaí)",
+        "sistema_nome_en": "Honolulu Skyline Automated Metro — HART (East Kapolei – Waipahu – Pearl Harbor – Aloha Stadium / Hālawa, Oahu Island, Hawaii)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0575,
+          21.3522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-automatizado-honolulu-skyline-hart-kapolei-aloha-stadium-pearl-harbor-ilha-de-oahu-havai",
+        "nome": "Estação Hālawa / Aloha Stadium – Pearl Harbor (Metrô Elevado Skyline GoA4 de Honolulu — Oahu, Havaí)",
+        "linha": "Linha Skyline HART (Kualakaʻi / East Kapolei – Waipahu – Pearl Highlands – Hālawa / Aloha Stadium — Oahu)",
+        "status": "operacao",
+        "integracoes": [
+          "Aloha Stadium",
+          "Joint Base Pearl Harbor-Hickam",
+          "TheBus Express"
+        ],
+        "sistema_nome_pt": "Metrô Automatizado de Honolulu — Skyline HART (East Kapolei – Waipahu – Pearl Harbor – Aloha Stadium / Hālawa, Ilha de Oahu, Havaí)",
+        "sistema_nome_en": "Honolulu Skyline Automated Metro — HART (East Kapolei – Waipahu – Pearl Harbor – Aloha Stadium / Hālawa, Oahu Island, Hawaii)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.93,
+          21.3725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "hawaiian-railway-society-corredor-oahu-railway-ewa-nanakuli-kahe-point-ilha-de-oahu-havai",
+        "nome": "Estação e Museu Ferroviário de Ewa (Hawaiian Railway Society & Carro Real do Rei Kalākaua — Oahu, Havaí)",
+        "linha": "Linha Histórica OR&L (Pátio de Ewa – Kapolei – Ko Olina – Kahe Point — Bitola 914 mm)",
+        "status": "operacao",
+        "integracoes": [
+          "Hawaiian Railway Museum Ewa",
+          "Kalākaua Royal Parlor Car No. 64"
+        ],
+        "sistema_nome_pt": "Hawaiian Railway Society (Antiga Oahu Railway & Land Co. — Ewa – Kapolei – Ko Olina – Nānākuli – Kahe Point, Ilha de Oahu, Havaí)",
+        "sistema_nome_en": "Hawaiian Railway Society (Former Oahu Railway & Land Co. — Ewa – Kapolei – Ko Olina – Nānākuli – Kahe Point, Oahu Island, Hawaii)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0412,
+          21.3315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "hawaiian-railway-society-corredor-oahu-railway-ewa-nanakuli-kahe-point-ilha-de-oahu-havai",
+        "nome": "Parada Costeira de Kahe Point / Ko Olina (Corredor Histórico OR&L de Bitola Estreita 914 mm — Oahu, Havaí)",
+        "linha": "Linha Histórica OR&L (Pátio de Ewa – Kapolei – Ko Olina – Kahe Point — Bitola 914 mm)",
+        "status": "operacao",
+        "integracoes": [
+          "Ko Olina Lagoons",
+          "Kahe Point Beach Park"
+        ],
+        "sistema_nome_pt": "Hawaiian Railway Society (Antiga Oahu Railway & Land Co. — Ewa – Kapolei – Ko Olina – Nānākuli – Kahe Point, Ilha de Oahu, Havaí)",
+        "sistema_nome_en": "Hawaiian Railway Society (Former Oahu Railway & Land Co. — Ewa – Kapolei – Ko Olina – Nānākuli – Kahe Point, Oahu Island, Hawaii)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.131,
+          21.3565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "lahaina-kaanapali-and-pacific-railroad-sugar-cane-train-puukolii-kaanapali-ilha-de-maui-havai",
+        "nome": "Estação Puʻukoliʻi / Kāʻanapali (Sugar Cane Train LK&P — Ilha de Maui, Havaí)",
+        "linha": "Corredor Canavieiro LK&P Sugar Cane Train (Puʻukoliʻi – Kāʻanapali – Hāhākea Trestle – Lahaina — Ilha de Maui)",
+        "status": "operacao",
+        "integracoes": [
+          "Kāʻanapali Resort",
+          "Pioneer Mill Sugar Heritage"
+        ],
+        "sistema_nome_pt": "Lahaina, Kaanapali & Pacific Railroad — 'Sugar Cane Train' (Puʻukoliʻi – Kāʻanapali – Lahaina e Kahului Railroad, Ilha de Maui, Havaí)",
+        "sistema_nome_en": "Lahaina, Kaanapali & Pacific Railroad — 'Sugar Cane Train' (Puʻukoliʻi – Kāʻanapali – Lahaina & Kahului Railroad, Maui Island, Hawaii)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6875,
+          20.9495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "esquimalt-and-nanaimo-railway-corredor-ilha-de-vancouver-alberni-pacific-steam-railway-bc-forest-discovery",
+        "nome": "Terminal Ferroviário de Nanaimo / Wellcox Yard & Cowichan Valley Duncan (Corredor Ferroviário da Ilha de Vancouver — Sistema Operacional Nº 600!)",
+        "linha": "Corredor da Ilha de Vancouver (E&N Railway Victoria – Duncan – Nanaimo – Parksville – Port Alberni / Courtenay)",
+        "status": "operacao",
+        "integracoes": [
+          "BC Ferries Nanaimo",
+          "Wellcox Rail Barge Slip",
+          "BC Forest Discovery Centre Duncan"
+        ],
+        "sistema_nome_pt": "Corredor Ferroviário da Ilha de Vancouver (E&N Railway Victoria–Nanaimo–Courtenay, Alberni Pacific Steam Railway e BC Forest Discovery Centre, Canadá)",
+        "sistema_nome_en": "Vancouver Island Rail Corridor (E&N Railway Victoria–Nanaimo–Courtenay, Alberni Pacific Steam Railway & BC Forest Discovery Centre, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.94,
+          49.1665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "esquimalt-and-nanaimo-railway-corredor-ilha-de-vancouver-alberni-pacific-steam-railway-bc-forest-discovery",
+        "nome": "Estação Histórica de Port Alberni (1911) & McLean Mill (Alberni Pacific Steam Railway — Ilha de Vancouver, Canadá)",
+        "linha": "Corredor da Ilha de Vancouver (E&N Railway Victoria – Duncan – Nanaimo – Parksville – Port Alberni / Courtenay)",
+        "status": "operacao",
+        "integracoes": [
+          "McLean Mill National Historic Site",
+          "Porto de Port Alberni"
+        ],
+        "sistema_nome_pt": "Corredor Ferroviário da Ilha de Vancouver (E&N Railway Victoria–Nanaimo–Courtenay, Alberni Pacific Steam Railway e BC Forest Discovery Centre, Canadá)",
+        "sistema_nome_en": "Vancouver Island Rail Corridor (E&N Railway Victoria–Nanaimo–Courtenay, Alberni Pacific Steam Railway & BC Forest Discovery Centre, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.8055,
+          49.2335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "newfoundland-railway-trinity-loop-carbonear-kensington-elmira-ilha-do-principe-eduardo-e-terra-nova",
+        "nome": "Estação Ferroviária de St. John's (Railway Coastal Museum) e Espiral de Trinity Loop (Newfoundland Railway — Ilha de Terra Nova, Canadá)",
+        "linha": "Eixo Patrimonial Newfoundland Railway (St. John's – Carbonear – Trinity Loop) e Prince Edward Island Railway (Charlottetown – Kensington)",
+        "status": "operacao",
+        "integracoes": [
+          "Railway Coastal Museum St. John's",
+          "Porto de St. John's",
+          "Trinity Loop"
+        ],
+        "sistema_nome_pt": "Ferrovias Históricas de Terra Nova (Newfoundland Railway — St. John's / Carbonear / Trinity Loop / Port aux Basques) e Ilha do Príncipe Eduardo (Kensington / Elmira, Canadá)",
+        "sistema_nome_en": "Newfoundland Historic Railways (Newfoundland Railway — St. John's / Carbonear / Trinity Loop / Port aux Basques) & Prince Edward Island (Kensington / Elmira, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7125,
+          47.5585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "newfoundland-railway-trinity-loop-carbonear-kensington-elmira-ilha-do-principe-eduardo-e-terra-nova",
+        "nome": "Estação Histórica de Kensington (1905) e Museu Ferroviário de Elmira (Prince Edward Island Railway — Ilha do Príncipe Eduardo, Canadá)",
+        "linha": "Eixo Patrimonial Newfoundland Railway (St. John's – Carbonear – Trinity Loop) e Prince Edward Island Railway (Charlottetown – Kensington)",
+        "status": "operacao",
+        "integracoes": [
+          "Kensington Railway Station National Historic Site",
+          "Elmira Railway Museum PEI"
+        ],
+        "sistema_nome_pt": "Ferrovias Históricas de Terra Nova (Newfoundland Railway — St. John's / Carbonear / Trinity Loop / Port aux Basques) e Ilha do Príncipe Eduardo (Kensington / Elmira, Canadá)",
+        "sistema_nome_en": "Newfoundland Historic Railways (Newfoundland Railway — St. John's / Carbonear / Trinity Loop / Port aux Basques) & Prince Edward Island (Kensington / Elmira, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6385,
+          46.4365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-mineradoras-ketchikan-sitka-juneau-treadwell-kodiak-arquipelago-alexander-alasca",
+        "nome": "Pátio de Transferência Ferroviária Naval do Estaleiro de Ketchikan (Ilha Revillagigedo) e Trilhos de Douglas Island / Sitka / Kodiak (Estação Nº 1.240 do Atlas!)",
+        "linha": "Vias de Transferência Naval de Ketchikan (Ilha Revillagigedo), Sitka (Ilha Baranof), Treadwell (Douglas Island) e Kodiak",
+        "status": "operacao",
+        "integracoes": [
+          "Ketchikan Shipyard",
+          "Alaska Marine Highway System",
+          "Porto de Sitka / Kodiak"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias e Mineradoras do Arquipélago Alexander (Ketchikan Shipyard, Sitka, Minas de Ouro de Treadwell / Douglas Island) e Base Espacial de Kodiak (Alasca Insular, EUA)",
+        "sistema_nome_en": "Alexander Archipelago Port & Mining Railways (Ketchikan Shipyard, Sitka, Treadwell Gold Mines / Douglas Island) & Kodiak Launch Complex (Insular Alaska, USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.6765,
+          55.3485
+        ]
+      }
     }
   ]
 }
