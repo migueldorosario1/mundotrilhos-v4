@@ -24632,6 +24632,226 @@
           -54.5245
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-abastecimento-tuneis-logisticos-inselbahn-heligolandia",
+        "nome": "Terminal Portuário e Ferroviário de Südhafen (Ilha de Heligolândia, Mar do Norte)",
+        "linha": "Helgoländer Inselbahn & Túneis Logísticos Südhafen – Unterland – Oberland (Ilha de Heligolândia, Mar do Norte)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Südhafen",
+          "Balsa Marítima de Cuxhaven / Büsum"
+        ],
+        "sistema_nome_pt": "Ferrovia de Abastecimento e Túneis Logísticos de Heligolândia (Helgoländer Inselbahn Südhafen – Unterland – Oberland, Alemanha)",
+        "sistema_nome_en": "Heligoland Island Supply Railway & Logistics Tunnels (Helgoländer Inselbahn Südhafen – Unterland – Oberland, North Sea, Germany)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8935,
+          54.1755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-abastecimento-tuneis-logisticos-inselbahn-heligolandia",
+        "nome": "Estação Subterrânea e Elevador de Oberland / Unterland (Heligolândia)",
+        "linha": "Helgoländer Inselbahn & Túneis Logísticos Südhafen – Unterland – Oberland (Ilha de Heligolândia, Mar do Norte)",
+        "status": "operacao",
+        "integracoes": [
+          "Elevador Panorâmico de Oberland",
+          "Rochedo Lange Anna"
+        ],
+        "sistema_nome_pt": "Ferrovia de Abastecimento e Túneis Logísticos de Heligolândia (Helgoländer Inselbahn Südhafen – Unterland – Oberland, Alemanha)",
+        "sistema_nome_en": "Heligoland Island Supply Railway & Logistics Tunnels (Helgoländer Inselbahn Südhafen – Unterland – Oberland, North Sea, Germany)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8865,
+          54.1825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-salvamento-maritimo-farol-main-station-ilha-de-sable",
+        "nome": "Estação Central e de Salvamento Marítimo de Sable Island (Main Station, Atlântico Norte)",
+        "linha": "Sable Island Life-Saving & Lighthouse Tramway (Main Station – West Light – East Light, Ilha de Sable)",
+        "status": "operacao",
+        "integracoes": [
+          "Sable Island National Park Reserve",
+          "Estação Histórica de Salvamento Marítimo de 1801"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais de Salvamento Marítimo e Farol da Ilha de Sable (Main Station – West Light – East Light, Nova Escócia, Canadá)",
+        "sistema_nome_en": "Sable Island Life-Saving & Lighthouse Heritage Tramway (Main Station – West Light – East Light, Nova Scotia, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0085,
+          43.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-salvamento-maritimo-farol-main-station-ilha-de-sable",
+        "nome": "Terminal do Farol Leste e Estação Meteorológica de Sable Island (East Light)",
+        "linha": "Sable Island Life-Saving & Lighthouse Tramway (Main Station – West Light – East Light, Ilha de Sable)",
+        "status": "operacao",
+        "integracoes": [
+          "Farol de East Point",
+          "Santuário dos Cavalos Selvagens de Sable Island"
+        ],
+        "sistema_nome_pt": "Trilhos Patrimoniais de Salvamento Marítimo e Farol da Ilha de Sable (Main Station – West Light – East Light, Nova Escócia, Canadá)",
+        "sistema_nome_en": "Sable Island Life-Saving & Lighthouse Heritage Tramway (Main Station – West Light – East Light, Nova Scotia, Canada)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.795,
+          43.958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-abastecimento-poit-enseada-dos-portugueses-ilha-da-trindade-sao-pedro-e-sao-paulo",
+        "nome": "Estação do Posto Oceanográfico da Ilha da Trindade — POIT (Enseada dos Portugueses, Atlântico Sul)",
+        "linha": "Vias de Desembarque e Abastecimento da Enseada dos Portugueses – POIT (Ilha da Trindade e Estação Científica de São Pedro e São Paulo, Brasil)",
+        "status": "operacao",
+        "integracoes": [
+          "Posto Oceanográfico da Ilha da Trindade (Marinha do Brasil)",
+          "Túnel Histórico do Pão de Açúcar da Trindade"
+        ],
+        "sistema_nome_pt": "Vias de Desembarque e Abastecimento do Posto Oceanográfico da Ilha da Trindade (POIT) e Estação Científica de São Pedro e São Paulo (Brasil)",
+        "sistema_nome_en": "Trindade Island Oceanographic Station (POIT) & St. Peter and St. Paul Scientific Archipelago Supply Rail Tracks (South Atlantic, Brazil)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.3145,
+          -20.5065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-abastecimento-poit-enseada-dos-portugueses-ilha-da-trindade-sao-pedro-e-sao-paulo",
+        "nome": "Rampa e Trilhos de Içamento da Estação Científica do Arquipélago de São Pedro e São Paulo (Ilha Belmonte)",
+        "linha": "Vias de Desembarque e Abastecimento da Enseada dos Portugueses – POIT (Ilha da Trindade e Estação Científica de São Pedro e São Paulo, Brasil)",
+        "status": "operacao",
+        "integracoes": [
+          "Estação Científica do Arquipélago de São Pedro e São Paulo (ECASPSP)",
+          "Farol de São Pedro e São Paulo"
+        ],
+        "sistema_nome_pt": "Vias de Desembarque e Abastecimento do Posto Oceanográfico da Ilha da Trindade (POIT) e Estação Científica de São Pedro e São Paulo (Brasil)",
+        "sistema_nome_en": "Trindade Island Oceanographic Station (POIT) & St. Peter and St. Paul Scientific Archipelago Supply Rail Tracks (South Atlantic, Brazil)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.3458,
+          0.9168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-portuarios-cais-isabel-ii-congreso-ilhas-chafarinas-plazas-de-soberania",
+        "nome": "Estação Portuária de la Isla de Isabel II (Ilhas Chafarinas, Mar de Alborão)",
+        "linha": "Vias Portuárias e Militares do Cais de Isabel II – Farol das Ilhas Chafarinas e Peñón de Alhucemas (Plazas de Soberanía)",
+        "status": "operacao",
+        "integracoes": [
+          "Puerto de Isabel II",
+          "Refúgio Nacional de Caça das Ilhas Chafarinas"
+        ],
+        "sistema_nome_pt": "Vias Portuárias e de Abastecimento do Cais da Ilha de Isabel II, Ilha del Rey e Peñón de Alhucemas (Ilhas Chafarinas / Plazas de Soberanía, Espanha)",
+        "sistema_nome_en": "Isla de Isabel II Pier, Isla del Rey & Peñón de Alhucemas Port and Supply Rail Tracks (Chafarinas Islands / Plazas de Soberanía, Spain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4285,
+          35.1815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-portuarios-cais-isabel-ii-congreso-ilhas-chafarinas-plazas-de-soberania",
+        "nome": "Terminal de Abastecimento do Farol e Forte de Isabel II & Peñón de Alhucemas",
+        "linha": "Vias Portuárias e Militares do Cais de Isabel II – Farol das Ilhas Chafarinas e Peñón de Alhucemas (Plazas de Soberanía)",
+        "status": "operacao",
+        "integracoes": [
+          "Farol das Ilhas Chafarinas (1899)",
+          "Estação Biológica OAPN"
+        ],
+        "sistema_nome_pt": "Vias Portuárias e de Abastecimento do Cais da Ilha de Isabel II, Ilha del Rey e Peñón de Alhucemas (Ilhas Chafarinas / Plazas de Soberanía, Espanha)",
+        "sistema_nome_en": "Isla de Isabel II Pier, Isla del Rey & Peñón de Alhucemas Port and Supply Rail Tracks (Chafarinas Islands / Plazas de Soberanía, Spain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4315,
+          35.183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "dique-ferrovia-historica-tramway-pontorson-baia-monte-saint-michel",
+        "nome": "Estação Histórica da Ponte-Passarela do Monte Saint-Michel (Porte de l'Avancée)",
+        "linha": "Ponte-Passarela e Antigo Tramway Histórico La Caserne – Porte de l'Avancée (Baía do Monte Saint-Michel)",
+        "status": "operacao",
+        "integracoes": [
+          "Abadia do Monte Saint-Michel (UNESCO)",
+          "Corredor de Ônibus-Navette Bidirecional Le Passeur"
+        ],
+        "sistema_nome_pt": "Corredor da Ponte-Passarela e Antigo Tramway Histórico de La Caserne – Porte de l'Avancée (Baía do Monte Saint-Michel, Normandia, França)",
+        "sistema_nome_en": "Causeway Bridge Corridor & Historic Tramway of La Caserne – Porte de l'Avancée (Mont-Saint-Michel Bay, Normandy, France)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5115,
+          48.636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-portuarias-pedreiras-granito-grande-ile-ilhas-chausey",
+        "nome": "Terminal do Cais de Grande Île e Pedreiras de Granito de Chausey (Ilhas Chausey — Estação Nº 1.170 do Atlas!)",
+        "linha": "Vias Portuárias e Pedreiras Históricas de Granito de Grande Île – Sound de Chausey (Arquipélago de Chausey, Canal da Mancha)",
+        "status": "operacao",
+        "integracoes": [
+          "Cais de Sound de Chausey",
+          "Château Renault e Forte de Chausey"
+        ],
+        "sistema_nome_pt": "Vias Portuárias e Pedreiras Históricas de Granito de Grande Île e Sound de Chausey (Arquipélago das Ilhas Chausey, Canal da Mancha, França)",
+        "sistema_nome_en": "Grande Île & Sound de Chausey Historic Granite Quarries and Port Rail Tracks (Chausey Islands Archipelago, English Channel, France)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8255,
+          48.8725
+        ]
+      }
     }
   ]
 }
