@@ -28393,6 +28393,784 @@
           20.5085
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-fortaleza-metrofor",
+        "nome": "Estação Borges de Melo / Papicu & Iate (VLT Parangaba–Mucuripe — Fortaleza)",
+        "linha": "VLT de Fortaleza (Linha Nordeste)",
+        "status": "operacao",
+        "integracoes": [
+          "Fortaleza / Caucaia",
+          "Cia. Cearense de Transportes Metropolitanos (Metrofor)"
+        ],
+        "sistema_nome_pt": "VLT de Fortaleza (Metrofor — Linhas Nordeste Parangaba–Mucuripe/Iate e Oeste Moura Brasil–Caucaia)",
+        "sistema_nome_en": "Fortaleza Light Rail (Metrofor — Northeast Line Parangaba–Mucuripe/Iate & West Line Moura Brasil–Caucaia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4915,
+          -3.7385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-recife-cbtu",
+        "nome": "Estação Cajueiro Seco / Cabo (VLT do Recife — CBTU)",
+        "linha": "VLT do Recife (Linha Cajueiro Seco–Cabo)",
+        "status": "operacao",
+        "integracoes": [
+          "Recife / Jaboatão dos Guararapes / Cabo de Santo Agostinho",
+          "CBTU Recife"
+        ],
+        "sistema_nome_pt": "VLT do Recife (CBTU Recife — Linha Diesel Cajueiro Seco–Cabo de Santo Agostinho e Ramal Curado–Cajueiro Seco)",
+        "sistema_nome_en": "Recife Light Rail (CBTU Recife — Cajueiro Seco–Cabo & Curado–Cajueiro Seco VLT Lines)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9625,
+          -8.1825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bonde-historico-santa-teresa-rj",
+        "nome": "Estação Carioca / Largo dos Guimarães (Bonde de Santa Teresa — Rio de Janeiro)",
+        "linha": "Bonde Histórico de Santa Teresa",
+        "status": "operacao",
+        "integracoes": [
+          "Rio de Janeiro (Centro / Lapa / Santa Teresa)",
+          "Companhia Estadual de Engenharia de Transportes e Logística (CENTRAL — Governo do RJ)"
+        ],
+        "sistema_nome_pt": "Bonde de Santa Teresa (Sistema Elétrico Histórico Carioca — Carioca / Arcos da Lapa – Largo do Curvelo – Largo dos Guimarães – Dois Irmãos)",
+        "sistema_nome_en": "Santa Teresa Historic Tramway (Rio de Janeiro — Carioca / Lapa Aqueduct – Largo dos Guimarães – Dois Irmãos)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1825,
+          -22.9145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-tramways-paris-lyon-bordeaux-strasbourg-nice-franca",
+        "nome": "Porte de Versailles (Paris T2/T3a) / Part-Dieu (Lyon Tram) & Place de la Bourse (Bordeaux APS)",
+        "linha": "Tramways de France (T1–T13 / TCL / TBM)",
+        "status": "operacao",
+        "integracoes": [
+          "Paris / Lyon / Bordeaux / Estrasburgo / Nice / Montpellier / Nantes",
+          "RATP / Keolis / Transdev / CTS / Lignes d'Azur / TaM"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Tramway da França (Tramways Île-de-France T1–T13, Lyon TCL T1–T7, Bordeaux APS sem Catenária, Estrasburgo, Nice e Montpellier)",
+        "sistema_nome_en": "French Tramway & Light Rail Networks (Île-de-France T1–T13, Lyon TCL T1–T7, Bordeaux Catenary-Free APS, Strasbourg, Nice & Montpellier)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8425,
+          45.7585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-tranvias-barcelona-madri-sevilha-zaragoza-valencia-espanha",
+        "nome": "Francesc Macià / Glòries (TRAM Barcelona), Pinar de Chamartín (ML Madrid) & Archivo de Indias (Sevilha)",
+        "linha": "Redes de Tranvía e Metro Ligero da Espanha",
+        "status": "operacao",
+        "integracoes": [
+          "Barcelona / Madri / Sevilha / Zaragoza / Alicante / Valência / Bilbao / Vitória",
+          "TRAM Barcelona / Metro Ligero Madrid / TUSSAM / Tranvías de Zaragoza / FGV / Euskotren"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Tranvía da Espanha (Trambaix e Trambesòs de Barcelona, Metro Ligero de Madri ML1–ML4, MetroCentro de Sevilha, Zaragoza, Alicante e Bilbao Euskotren)",
+        "sistema_nome_en": "Spanish Tramway & Light Rail Networks (Barcelona Trambaix/Trambesòs, Madrid Metro Ligero ML1–ML4, Seville MetroCentro, Zaragoza, Alicante & Bilbao Euskotren)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1585,
+          41.3895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-bruxelas-stib-mivb-linhas-1-2-5-6-belgica",
+        "nome": "Arts-Loi / Kunst-Wet & De Brouckère (Metrô de Bruxelas STIB/MIVB Linhas 1, 2, 5 e 6)",
+        "linha": "Metrô de Bruxelas (STIB/MIVB)",
+        "status": "operacao",
+        "integracoes": [
+          "Bruxelas",
+          "STIB / MIVB (Société des Transports Intercommunaux de Bruxelles)"
+        ],
+        "sistema_nome_pt": "Metrô de Bruxelas (STIB/MIVB — Linhas 1, 2, 5 e 6: Gare de l'Ouest – De Brouckère – Arts-Loi – Schuman – Roi Baudouin / Herrmann-Debroux)",
+        "sistema_nome_en": "Brussels Metro (STIB/MIVB — Lines 1, 2, 5 & 6: Gare de l'Ouest – De Brouckère – Arts-Loi – Schuman – Roi Baudouin / Herrmann-Debroux)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3625,
+          50.8465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-amsterda-haia-roterda-utrecht-paises-baixos",
+        "nome": "Amsterdam Centraal / Dam (GVB Tram), Den Haag Centraal (HTM) & Utrecht Science Park (Uithoflijn)",
+        "linha": "Bondes e VLTs dos Países Baixos (Randstad)",
+        "status": "operacao",
+        "integracoes": [
+          "Amsterdã / Haia / Roterdã / Utrecht / Delft",
+          "GVB Amsterdam / HTM Personenvervoer / RET Rotterdam / U-OV Utrecht"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Bondes dos Países Baixos (Bondes de Amsterdã GVB, Haia HTM, Roterdã RET e VLT Uithoflijn de Utrecht)",
+        "sistema_nome_en": "Dutch Tram & Light Rail Networks (Amsterdam GVB Trams, The Hague HTM, Rotterdam RET & Utrecht Uithoflijn)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8955,
+          52.3705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-automatico-lausanne-m1-m2-suica",
+        "nome": "Lausanne-Flon / Lausanne-Gare & Ouchy-Olympique (Metrô de Lausanne M1 & M2)",
+        "linha": "Metrô Automático de Lausanne (M1 & M2)",
+        "status": "operacao",
+        "integracoes": [
+          "Lausanne / Renens / Épalinges",
+          "Transports publics de la région lausannoise (tl)"
+        ],
+        "sistema_nome_pt": "Metrô de Lausanne (TL — Linha M1 TSOL e Linha M2 Automática GoA4 sobre Pneus: Ouchy-Olympique – Lausanne-Gare – Flon – Croisettes)",
+        "sistema_nome_en": "Lausanne Metro (TL — Line M1 TSOL & Automated Rubber-Tired Line M2 GoA4: Ouchy-Olympique – Lausanne-Gare – Flon – Croisettes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6325,
+          46.5205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-viena-graz-linz-innsbruck-austria",
+        "nome": "Schottentor / Karlsplatz Oper (Wiener Linien Straßenbahn & Badner Bahn — Viena)",
+        "linha": "Straßenbahn Viena, Graz, Linz & Innsbruck",
+        "status": "operacao",
+        "integracoes": [
+          "Viena / Graz / Linz / Innsbruck / Gmunden",
+          "Wiener Linien / Wiener Lokalbahnen / Holding Graz / LINZ AG / IVB"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Straßenbahn da Áustria (Bondes de Viena Wiener Linien — 28 Linhas, Graz, Linz, Innsbruck e Badner Bahn)",
+        "sistema_nome_en": "Austrian Tramway & Light Rail Networks (Vienna Wiener Linien Trams — 28 Lines, Graz, Linz, Innsbruck & Badner Bahn)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-estocolmo-tvarbanan-gotemburgo-lund-suecia",
+        "nome": "Liljeholmen / Alvik (Tvärbanan Estocolmo) & Brunnsparken (Göteborgs Spårvägar)",
+        "linha": "VLTs e Bondes da Suécia (Spårväg)",
+        "status": "operacao",
+        "integracoes": [
+          "Estocolmo / Gotemburgo / Norrköping / Lund",
+          "Storstockholms Lokaltrafik (SL) / Västtrafik (Göteborgs Spårvägar) / Östgötatrafiken / Skånetrafiken"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Spårväg da Suécia (Tvärbanan, Spårväg City e Nockebybanan de Estocolmo, Bondes de Gotemburgo, Norrköping e Lund)",
+        "sistema_nome_en": "Swedish Tram & Light Rail Networks (Stockholm Tvärbanan & Spårväg City, Gothenburg Trams, Norrköping & Lund)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0215,
+          59.3125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-oslo-t-bane-linhas-1-a-5-noruega",
+        "nome": "Jernbanetorget / Stortinget & Majorstuen (Metrô de Oslo T-bane Linhas 1–5)",
+        "linha": "Oslo T-bane (Linhas 1 a 5)",
+        "status": "operacao",
+        "integracoes": [
+          "Oslo / Bærum",
+          "Sporveien T-banen AS / Ruter"
+        ],
+        "sistema_nome_pt": "Metrô de Oslo (Oslo T-bane — Linhas 1 a 5: Frognerseteren – Majorstuen – Stortinget – Jernbanetorget – Tøyen – Bergkrystallen / Vestli)",
+        "sistema_nome_en": "Oslo Metro (Oslo T-bane — Lines 1 to 5: Frognerseteren – Majorstuen – Stortinget – Jernbanetorget – Tøyen – Bergkrystallen / Vestli)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7501,
+          59.9127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-copenhague-m1-m4-dinamarca",
+        "nome": "Kongens Nytorv / Nørreport & Københavns H (Metrô Automático de Copenhague M1–M4)",
+        "linha": "Københavns Metro (M1–M4)",
+        "status": "operacao",
+        "integracoes": [
+          "Copenhague / Frederiksberg / Tårnby",
+          "Metroselskabet / Metro Service A/S"
+        ],
+        "sistema_nome_pt": "Metrô de Copenhague (Københavns Metro — Linhas M1, M2, M3 Cityringen e M4 Automáticas GoA4 24h)",
+        "sistema_nome_en": "Copenhagen Metro (Københavns Metro — Automated 24/7 Lines M1, M2, M3 Cityringen & M4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5855,
+          55.6795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-letbane-aarhus-odense-copenhague-dinamarca",
+        "nome": "Aarhus H / Dokk1 (Aarhus Letbane) & Odense Banegård Center (Odense Letbane)",
+        "linha": "Letbane Dinamarca (Aarhus & Odense)",
+        "status": "operacao",
+        "integracoes": [
+          "Aarhus / Odense / Glostrup / Lyngby",
+          "Aarhus Letbane / Odense Letbane / Hovedstadens Letbane"
+        ],
+        "sistema_nome_pt": "Redes de VLT da Dinamarca (Aarhus Letbane L1/L2, Odense Letbane e Hovedstadens Letbane da Grande Copenhague)",
+        "sistema_nome_en": "Danish Light Rail Networks (Aarhus Letbane L1/L2, Odense Letbane & Greater Copenhagen Light Rail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2045,
+          56.1525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-helsinque-m1-m2-finlandia",
+        "nome": "Rautatientori / Kamppi & Tapiola (Metrô de Helsinque Linhas M1 e M2)",
+        "linha": "Helsingin Metro (M1 & M2)",
+        "status": "operacao",
+        "integracoes": [
+          "Helsinque / Espoo",
+          "Pääkaupunkiseudun Kaupunkiliikenne / HSL"
+        ],
+        "sistema_nome_pt": "Metrô de Helsinque (Helsingin Metro — O Metrô Mais Setentrional do Mundo: Linhas M1 e M2 Kivenlahti – Espoo – Rautatientori – Vuosaari / Mellunmäki)",
+        "sistema_nome_en": "Helsinki Metro (Helsingin Metro — World's Northernmost Metro: Lines M1 & M2 Kivenlahti – Espoo – Rautatientori – Vuosaari / Mellunmäki)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9415,
+          60.1715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-helsinque-raide-jokeri-tampere-finlandia",
+        "nome": "Kauppatori / Aleksanterinkatu (Bondes de Helsinque), Keilaniemi (Raide-Jokeri 15) & Pyynikintori (Tampere)",
+        "linha": "Bondes de Helsinque, Raide-Jokeri & VLT Tampere",
+        "status": "operacao",
+        "integracoes": [
+          "Helsinque / Espoo / Tampere",
+          "HSL / Kaupunkiliikenne Oy / Tampereen Ratikka (Nysse)"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Bondes da Finlândia (Bondes de Helsinque HSL Linhas 1–10, VLT Rápido Raide-Jokeri Linha 15 e VLT de Tampere Linhas 1 e 3)",
+        "sistema_nome_en": "Finnish Tram & Light Rail Networks (Helsinki Trams Lines 1–10, Raide-Jokeri Light Rail Line 15 & Tampere Tramway Lines 1 & 3)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9355,
+          60.1685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-varsovia-linhas-m1-m2-polonia",
+        "nome": "Świętokrzyska / Centrum (Transferência M1–M2 do Metrô de Varsóvia)",
+        "linha": "Metro Warszawskie (M1 & M2)",
+        "status": "operacao",
+        "integracoes": [
+          "Varsóvia",
+          "Metro Warszawskie Sp. z o.o. / ZTM Warszawa"
+        ],
+        "sistema_nome_pt": "Metrô de Varsóvia (Metro Warszawskie — Linha M1 Kabaty–Młociny e Linha M2 Bemowo–Świętokrzyska–Bródno)",
+        "sistema_nome_en": "Warsaw Metro (Metro Warszawskie — Line M1 Kabaty–Młociny & Line M2 Bemowo–Świętokrzyska–Bródno)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0085,
+          52.2355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-varsovia-cracovia-gdansk-wroclaw-poznan-polonia",
+        "nome": "Rondo Mogilskie (Kraków Fast Tram), Dworzec Centralny (Varsóvia) & Katowice Rynek (Silésia)",
+        "linha": "Redes de VLT e Bondes da Polônia",
+        "status": "operacao",
+        "integracoes": [
+          "Varsóvia / Cracóvia / Gdańsk / Wrocław / Poznań / Łódź / Katowice",
+          "Tramwaje Warszawskie / MPK Kraków / Gdańskie Autobusy i Tramwaje / MPK Wrocław / MPK Poznań / Tramwaje Śląskie"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Bondes da Polônia (Tramwaje Warszawskie de Varsóvia, Cracóvia Fast Tram, Gdańsk, Wrocław, Poznań, Łódź e Conurbação da Silésia)",
+        "sistema_nome_en": "Polish Tramway & Fast Light Rail Networks (Warsaw Trams, Kraków Fast Tram, Gdańsk, Wrocław, Poznań, Łódź & Silesian Interurban Trams)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-praga-brno-ostrava-plzen-tchequia",
+        "nome": "Václavské náměstí / Karlovo náměstí (Bondes DPP de Praga) & Brno Hlavní nádraží",
+        "linha": "Redes de Bondes da Tchéquia (Praga, Brno & Ostrava)",
+        "status": "operacao",
+        "integracoes": [
+          "Praga / Brno / Ostrava / Plzeň / Liberec / Olomouc / Most–Litvínov",
+          "Dopravní podnik hl. m. Prahy (DPP) / DPMB Brno / DPO Ostrava / PMDP Plzeň"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Bondes da Tchéquia (Bondes de Praga DPP — 148 km e 26 Linhas Diurnas, Brno, Ostrava, Plzeň, Liberec e Olomouc)",
+        "sistema_nome_en": "Czech Tramway & Light Rail Networks (Prague DPP Trams — 148 km & 26 Daytime Lines, Brno, Ostrava, Plzeň, Liberec & Olomouc)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4245,
+          50.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-budapeste-linhas-m1-m2-m3-m4-hungria",
+        "nome": "Deák Ferenc tér / Vörösmarty tér (Metrô de Budapeste M1 Millennium 1896 UNESCO, M2, M3 & M4)",
+        "linha": "Metrô de Budapeste (Linhas M1–M4)",
+        "status": "operacao",
+        "integracoes": [
+          "Budapeste",
+          "BKV Zrt. (Budapesti Közlekedési Zrt.) / BKK"
+        ],
+        "sistema_nome_pt": "Metrô de Budapeste (BKV — Linha M1 Millennium de 1896 Patrimônio UNESCO, Linha M2, Linha M3 e Linha M4 Automática)",
+        "sistema_nome_en": "Budapest Metro (BKV — 1896 UNESCO Millennium Underground Line M1, Line M2, Line M3 & Automated Line M4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0555,
+          47.4985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-bucareste-metrorex-linhas-m1-a-m5-romenia",
+        "nome": "Piața Unirii / Piața Victoriei (Metrô de Bucareste Metrorex Linhas M1–M5)",
+        "linha": "Metrô de Bucareste (Metrorex M1–M5)",
+        "status": "operacao",
+        "integracoes": [
+          "Bucareste",
+          "Metrorex S.A."
+        ],
+        "sistema_nome_pt": "Metrô de Bucareste (Metrorex — Linhas M1, M2, M3, M4 e M5: Pipera – Piața Unirii – Eroilor – Drumul Taberei)",
+        "sistema_nome_en": "Bucharest Metro (Metrorex — Lines M1, M2, M3, M4 & M5: Pipera – Piața Unirii – Eroilor – Drumul Taberei)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlts-bondes-bucareste-timisoara-iasi-cluj-romenia",
+        "nome": "Ghencea / Piața Presei Libere (Metrô Leve Linha 41 STB Bucareste) & Timișoara Catedrala",
+        "linha": "VLTs e Bondes da Romênia (Linha 41 & Redes Urbanas)",
+        "status": "operacao",
+        "integracoes": [
+          "Bucareste / Timișoara / Iași / Cluj-Napoca / Oradea / Arad / Craiova / Galați",
+          "STB București / STPT Timișoara / CTP Iași / CTP Cluj-Napoca / OTL Oradea"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Bondes da Romênia (Metrô Leve Linha 41 e Bondes STB de Bucareste, Timișoara, Iași, Cluj-Napoca, Oradea e Arad)",
+        "sistema_nome_en": "Romanian Light Rail & Tramway Networks (Bucharest STB Light Metro Line 41 & Trams, Timișoara, Iași, Cluj-Napoca, Oradea & Arad)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0685,
+          44.4455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-atenas-e-tessalonica-grecia",
+        "nome": "Syntagma / Monastiraki (Metrô de Atenas Linhas 1–3) & Venizelou (Metrô de Tessalônica)",
+        "linha": "Metrô de Atenas e Metrô de Tessalônica",
+        "status": "operacao",
+        "integracoes": [
+          "Atenas / Pireu / Tessalônica",
+          "STASY S.A. (Atenas) / THEMA S.A. (Tessalônica)"
+        ],
+        "sistema_nome_pt": "Metrô de Atenas (STASY Linhas 1, 2 e 3: Pireu – Syntagma – Acrópole – Aeroporto) e Metrô Automático de Tessalônica (GoA4)",
+        "sistema_nome_en": "Athens Metro (STASY Lines 1, 2 & 3: Piraeus – Syntagma – Acropolis – Airport) & Thessaloniki Automated Metro (GoA4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7348,
+          37.9755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-tram-de-atenas-syntagma-pireu-voula-grecia",
+        "nome": "Syntagma / Flisvos & Akti Poseidonos Pireu (VLT de Atenas Linhas T6 e T7)",
+        "linha": "Athens Tram (Linhas T6 & T7)",
+        "status": "operacao",
+        "integracoes": [
+          "Atenas / Pireu / Paleo Faliro / Glyfada / Voula",
+          "STASY S.A. (Urban Rail Transport S.A.)"
+        ],
+        "sistema_nome_pt": "VLT de Atenas (Athens Tram STASY — Linhas T6 Syntagma–Pikrodafni e T7 Pireu–Asklipieio Voulas na Riviera Ateniense)",
+        "sistema_nome_en": "Athens Tram (STASY Light Rail — Lines T6 Syntagma–Pikrodafni & T7 Piraeus–Asklipieio Voulas along the Athens Riviera)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6945,
+          37.9265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-monotrilho-lrt-kuala-lumpur-malasia",
+        "nome": "KL Sentral / Masjid Jamek & Bukit Bintang (Rapid KL LRT Kelana Jaya, Ampang & KL Monorail)",
+        "linha": "LRT & Monorail de Kuala Lumpur",
+        "status": "operacao",
+        "integracoes": [
+          "Kuala Lumpur / Petaling Jaya / Subang Jaya / Ampang",
+          "Rapid Rail (Prasarana Malaysia Berhad)"
+        ],
+        "sistema_nome_pt": "Redes de VLT e Monotrilho de Kuala Lumpur (Rapid KL LRT Kelana Jaya, LRT Ampang/Sri Petaling e KL Monorail)",
+        "sistema_nome_en": "Kuala Lumpur Light Rail & Monorail Networks (Rapid KL LRT Kelana Jaya, LRT Ampang/Sri Petaling & KL Monorail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6869,
+          3.134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "bonde-eletrico-historico-barranco-lima-peru",
+        "nome": "Estação Pedro de Osma / Museo de la Electricidad (Bonde Elétrico de Barranco — Lima)",
+        "linha": "Tranvía Histórico de Barranco",
+        "status": "operacao",
+        "integracoes": [
+          "Lima (Distrito de Barranco)",
+          "Museo de la Electricidad de Barranco"
+        ],
+        "sistema_nome_pt": "Bonde Elétrico Histórico de Barranco (Tranvía Eléctrico de Barranco — Av. Pedro de Osma / Museu da Eletricidade, Lima)",
+        "sistema_nome_en": "Barranco Historic Electric Tramway (Tranvía Eléctrico de Barranco — Pedro de Osma Ave / Electricity Museum, Lima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0225,
+          -12.1505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vila-ilhabela-engenho-dagua-sp",
+        "nome": "Estação Histórica Vila de Ilhabela / Engenho D'Água",
+        "sistema_id": "plano-inclinado-funicular-ilha-sao-sebastiao-ilhabela-sp-brasil",
+        "sistema_nome_pt": "Ilhabela & Ilha Anchieta — Funicular e Trilhos Históricos dos Engenhos e Presídio (SP)",
+        "sistema_nome_en": "Ilhabela & Anchieta Island — Funicular & Historic Sugar Mill and Prison Rails (SP, Brazil)",
+        "linha": "Corredor Histórico de Ilhabela",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.3558,
+          -23.7785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pereque-terminal-ilhabela-sp",
+        "nome": "Terminal Perequê — Canal de São Sebastião",
+        "sistema_id": "plano-inclinado-funicular-ilha-sao-sebastiao-ilhabela-sp-brasil",
+        "sistema_nome_pt": "Ilhabela & Ilha Anchieta — Funicular e Trilhos Históricos dos Engenhos e Presídio (SP)",
+        "sistema_nome_en": "Ilhabela & Anchieta Island — Funicular & Historic Sugar Mill and Prison Rails (SP, Brazil)",
+        "linha": "Corredor Histórico de Ilhabela",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.3665,
+          -23.8152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vila-do-abraao-cais-ilha-grande-rj",
+        "nome": "Estação Cais da Vila do Abraão — Ilha Grande",
+        "sistema_id": "ferrovia-historica-abraao-lazareto-dois-rios-ilha-grande-rj-brasil",
+        "sistema_nome_pt": "Ilha Grande — Trilhos Históricos do Lazareto, Abraão e Dois Rios (Angra dos Reis, RJ — UNESCO)",
+        "sistema_nome_en": "Ilha Grande — Lazareto, Abraão & Dois Rios Historic Rails (Angra dos Reis, RJ — UNESCO)",
+        "linha": "Circuito Imperial do Lazareto",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1678,
+          -23.1415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ruinas-do-lazareto-aqueduto-ilha-grande-rj",
+        "nome": "Parada Histórica Lazareto & Aqueduto Imperial (1886)",
+        "sistema_id": "ferrovia-historica-abraao-lazareto-dois-rios-ilha-grande-rj-brasil",
+        "sistema_nome_pt": "Ilha Grande — Trilhos Históricos do Lazareto, Abraão e Dois Rios (Angra dos Reis, RJ — UNESCO)",
+        "sistema_nome_en": "Ilha Grande — Lazareto, Abraão & Dois Rios Historic Rails (Angra dos Reis, RJ — UNESCO)",
+        "linha": "Circuito Imperial do Lazareto",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1725,
+          -23.1318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-fortaleza-da-barra-ilha-do-mel-pr",
+        "nome": "Bateria e Forte de Nossa Senhora dos Prazeres (Ilha do Mel)",
+        "sistema_id": "trilhos-fortaleza-barra-farol-conchas-ilha-do-mel-pr-brasil",
+        "sistema_nome_pt": "Ilha do Mel — Trilhos Históricos da Fortaleza de Nossa Senhora dos Prazeres e Farol das Conchas (PR)",
+        "sistema_nome_en": "Ilha do Mel — Nossa Senhora dos Prazeres Fortress & Conchas Lighthouse Historic Rails (PR, Brazil)",
+        "linha": "Ramal Histórico da Ilha do Mel",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3065,
+          -25.5065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-trapiche-nova-brasilia-farol-conchas-pr",
+        "nome": "Terminal Nova Brasília / Farol das Conchas (1872)",
+        "sistema_id": "trilhos-fortaleza-barra-farol-conchas-ilha-do-mel-pr-brasil",
+        "sistema_nome_pt": "Ilha do Mel — Trilhos Históricos da Fortaleza de Nossa Senhora dos Prazeres e Farol das Conchas (PR)",
+        "sistema_nome_en": "Ilha do Mel — Nossa Senhora dos Prazeres Fortress & Conchas Lighthouse Historic Rails (PR, Brazil)",
+        "linha": "Ramal Histórico da Ilha do Mel",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3015,
+          -25.5355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-madre-de-deus-temadre-ba",
+        "nome": "Pátio Portuário Ilha de Madre de Deus (TEMADRE)",
+        "sistema_id": "ramal-ferroviario-madre-de-deus-itaparica-baia-todos-os-santos-ba",
+        "sistema_nome_pt": "Ilha de Madre de Deus & Ilha de Itaparica — Ramal Ferroviário Portuário de Suape/TEMADRE e Trilhos Históricos da Baía de Todos-os-Santos (BA)",
+        "sistema_nome_en": "Madre de Deus & Itaparica Islands — TEMADRE Port Rail Spur & All Saints' Bay Historic Rails (Bahia, Brazil)",
+        "linha": "Ramal Insular de Madre de Deus",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6245,
+          -12.7465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ponte-suape-madre-de-deus-ba",
+        "nome": "Entroncamento Ponte de Madre de Deus / Baía de Todos-os-Santos",
+        "sistema_id": "ramal-ferroviario-madre-de-deus-itaparica-baia-todos-os-santos-ba",
+        "sistema_nome_pt": "Ilha de Madre de Deus & Ilha de Itaparica — Ramal Ferroviário Portuário de Suape/TEMADRE e Trilhos Históricos da Baía de Todos-os-Santos (BA)",
+        "sistema_nome_en": "Madre de Deus & Itaparica Islands — TEMADRE Port Rail Spur & All Saints' Bay Historic Rails (Bahia, Brazil)",
+        "linha": "Ramal Insular de Madre de Deus",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6105,
+          -12.7125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-trapiche-antonio-tavernard-cotijuba-pa",
+        "nome": "Estação Trapiche Poeta Antônio Tavernard (Sul de Cotijuba)",
+        "sistema_id": "bonde-historico-cotijuba-pinheiro-ilha-de-mosqueiro-belem-pa",
+        "sistema_nome_pt": "Ilha de Cotijuba, Outeiro & Mosqueiro — Bonde Insular Motorizado de Cotijuba e Antigo Ramal do Pinheiro da E.F. de Bragança (Belém, PA)",
+        "sistema_nome_en": "Cotijuba, Outeiro & Mosqueiro Islands — Cotijuba Island Tramway & Historic Pinheiro Rail Spur (Belém, Pará)",
+        "linha": "Linha Insular de Cotijuba",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5425,
+          -1.2685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-praia-vai-quem-quer-cotijuba-pa",
+        "nome": "Terminal Praia do Vai-Quem-Quer (Norte de Cotijuba)",
+        "sistema_id": "bonde-historico-cotijuba-pinheiro-ilha-de-mosqueiro-belem-pa",
+        "sistema_nome_pt": "Ilha de Cotijuba, Outeiro & Mosqueiro — Bonde Insular Motorizado de Cotijuba e Antigo Ramal do Pinheiro da E.F. de Bragança (Belém, PA)",
+        "sistema_nome_en": "Cotijuba, Outeiro & Mosqueiro Islands — Cotijuba Island Tramway & Historic Pinheiro Rail Spur (Belém, Pará)",
+        "linha": "Linha Insular de Cotijuba",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5625,
+          -1.2245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-portuario-outeiro-icoaraci-pa",
+        "nome": "Terminal Portuário de Outeiro / Icoaraci (CDP)",
+        "sistema_id": "trilhos-portuarios-vila-do-conde-miramar-outeiro-mosqueiro-pa",
+        "sistema_nome_pt": "Estuário Guajarino & Baía do Marajó — Trilhos Portuários de Miramar, Icoaraci e Vila do Conde (Belém / Barcarena, PA)",
+        "sistema_nome_en": "Guajará Estuary & Marajó Bay — Miramar, Icoaraci & Vila do Conde Port Rails (Belém / Barcarena, Pará)",
+        "linha": "Ramal Portuário do Guajará",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4725,
+          -1.2785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-miramar-docas-belem-pa",
+        "nome": "Pátio Ferro-Portuário Miramar / Estação das Docas (Belém)",
+        "sistema_id": "trilhos-portuarios-vila-do-conde-miramar-outeiro-mosqueiro-pa",
+        "sistema_nome_pt": "Estuário Guajarino & Baía do Marajó — Trilhos Portuários de Miramar, Icoaraci e Vila do Conde (Belém / Barcarena, PA)",
+        "sistema_nome_en": "Guajará Estuary & Marajó Bay — Miramar, Icoaraci & Vila do Conde Port Rails (Belém / Barcarena, Pará)",
+        "linha": "Ramal Portuário do Guajará",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4965,
+          -1.4485
+        ]
+      }
     }
   ]
 }

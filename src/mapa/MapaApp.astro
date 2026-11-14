@@ -39,9 +39,9 @@ const STATUS_COLORS: Record<string, string> = {
 
 const MODALITY_COLORS: Record<string, string> = {
 	alta_velocidade: '#ff1744',
-	metro: '#00b0ff',
-	vlt: '#00e676',
-	trem_convencional: '#ff9100',
+	metro: '#0055ff',
+	vlt: '#00c853',
+	trem_convencional: '#ff8f00',
 	ferrovia_carga: '#aa00ff',
 };
 
@@ -336,6 +336,11 @@ const COUNTRY_META: Record<
 	"Ilha de Martha's Vineyard, Nantucket e Aquidneck (Rhode Island)": { flag: '🇺🇸', labelPt: "Ilha de Aquidneck (Newport RR), Martha's Vineyard e Nantucket (EUA)", labelEn: "Aquidneck Island (Newport RR), Martha's Vineyard & Nantucket (USA)", center: [-71.3165, 41.4915], zoom: 8.8 },
 	'Florida Keys (Key West, Pigeon Key e Islamorada)': { flag: '🇺🇸', labelPt: 'Florida Keys — Key West, Pigeon Key e Seven Mile Bridge (FEC Overseas RR, Flórida)', labelEn: 'Florida Keys — Key West, Pigeon Key & Seven Mile Bridge (FEC Overseas RR, Florida)', center: [-81.1552, 24.7042], zoom: 8.5 },
 	'Ilha de Cozumel, Isla Mujeres e Ilha del Carmen': { flag: '🇲🇽', labelPt: 'Ilha de Cozumel, Isla Mujeres e Ilha del Carmen (Caribe Mexicano & Campeche)', labelEn: 'Cozumel Island, Isla Mujeres & Isla del Carmen (Mexican Caribbean & Campeche)', center: [-86.9525, 20.5085], zoom: 7.5 },
+	'Ilha de São Sebastião (Ilhabela) e Ilha Anchieta — SP': { flag: '🇧🇷', labelPt: 'Ilhabela / Ilha de São Sebastião e Ilha Anchieta (Litoral Norte de SP)', labelEn: 'Ilhabela / São Sebastião & Anchieta Islands (SP, Brazil)', center: [-45.3582, -23.7785], zoom: 11.2 },
+	'Ilha Grande (Angra dos Reis — RJ)': { flag: '🇧🇷', labelPt: 'Ilha Grande — Abraão, Lazareto e Dois Rios (Angra dos Reis, RJ — UNESCO)', labelEn: 'Ilha Grande — Abraão, Lazareto & Dois Rios (Angra dos Reis, RJ — UNESCO)', center: [-44.1685, -23.1392], zoom: 12.8 },
+	'Ilha do Mel, Ilha das Peças e Superagui — PR': { flag: '🇧🇷', labelPt: 'Ilha do Mel — Fortaleza da Barra e Farol das Conchas (Paranaguá, PR)', labelEn: 'Ilha do Mel — Barra Fortress & Conchas Lighthouse (Paranaguá, PR)', center: [-48.3085, -25.5125], zoom: 12.8 },
+	'Ilha de Itaparica e Ilha de Madre de Deus — BA': { flag: '🇧🇷', labelPt: 'Ilha de Itaparica e Ilha de Madre de Deus (Baía de Todos-os-Santos, BA)', labelEn: 'Itaparica & Madre de Deus Islands (All Saints Bay, Bahia)', center: [-38.6205, -12.7415], zoom: 11.2 },
+	'Ilha de Mosqueiro, Outeiro e Cotijuba (Belém — PA)': { flag: '🇧🇷', labelPt: 'Ilha de Cotijuba, Outeiro e Mosqueiro (Bonde Insular de Cotijuba, Belém, PA)', labelEn: 'Cotijuba, Outeiro & Mosqueiro Islands (Cotijuba Tramway, Belém, PA)', center: [-48.5525, -1.2485], zoom: 11.5 },
 };
 
 // Visualização restrita exclusivamente a linhas e sistemas EM OPERAÇÃO (preservando os não operacionais na base)
@@ -359,6 +364,18 @@ const estacoesOperacionaisGeojson = {
 	),
 };
 
+const ssrModsBySysId: Record<string, Set<string>> = {};
+for (const s of sistemasOperacionais) {
+	ssrModsBySysId[s.id] = new Set([s.tipo]);
+}
+for (const f of linhasOperacionaisGeojson.features) {
+	const sid = f.properties?.sistema_id;
+	const ltipo = f.properties?.tipo;
+	if (sid && ltipo && ssrModsBySysId[sid]) {
+		ssrModsBySysId[sid].add(ltipo);
+	}
+}
+
 const countryCounts: Record<string, number> = {};
 const modalityCounts: Record<string, number> = {
 	alta_velocidade: 0,
@@ -370,8 +387,11 @@ const modalityCounts: Record<string, number> = {
 for (const s of sistemasOperacionais) {
 	const p = s.pais || 'Brasil';
 	countryCounts[p] = (countryCounts[p] || 0) + 1;
-	if (modalityCounts[s.tipo] !== undefined) {
-		modalityCounts[s.tipo] += 1;
+	const mods = ssrModsBySysId[s.id] || new Set([s.tipo]);
+	for (const m of mods) {
+		if (modalityCounts[m] !== undefined) {
+			modalityCounts[m] += 1;
+		}
 	}
 }
 const activeCountries = Object.keys(countryCounts);
@@ -530,11 +550,20 @@ const payloadClient = JSON.stringify({
 					<span class="legend-kicker">
 						🟢 {isEn ? 'In operation — 5 Modalities:' : 'Em operação — 5 Modalidades:'}
 					</span>
+					<button
+						type="button"
+						class="legend-item legend-modality-btn is-active"
+						data-modality-jump="all"
+						title={isEn ? 'Show all 5 modalities' : 'Mostrar todas as 5 modalidades'}
+					>
+						✨ {isEn ? 'All' : 'Todas'}
+					</button>
 					{MODALITY_ORDER.map((modKey) => (
 						<button
 							type="button"
 							class="legend-item legend-modality-btn"
 							data-modality-jump={modKey}
+							style={`--mod-color:${MODALITY_COLORS[modKey]}`}
 							title={isEn ? `Filter by ${t.tipos[modKey]}` : `Filtrar por ${t.tipos[modKey]}`}
 						>
 							<i
@@ -780,9 +809,9 @@ const payloadClient = JSON.stringify({
 			STATUS_COLORS,
 			MODALITY_COLORS = {
 				alta_velocidade: '#ff1744',
-				metro: '#00b0ff',
-				vlt: '#00e676',
-				trem_convencional: '#ff9100',
+				metro: '#0055ff',
+				vlt: '#00c853',
+				trem_convencional: '#ff8f00',
 				ferrovia_carga: '#aa00ff',
 			},
 			COUNTRY_META = {},
@@ -867,6 +896,18 @@ const payloadClient = JSON.stringify({
 				url.searchParams.set('s', slug);
 			} else {
 				url.searchParams.delete('s');
+			}
+			const chosenTipo = selectTipo?.value || 'all';
+			if (chosenTipo && chosenTipo !== 'all') {
+				url.searchParams.set('tipo', chosenTipo);
+			} else {
+				url.searchParams.delete('tipo');
+			}
+			const chosenPais = selectPais?.value || 'all';
+			if (chosenPais && chosenPais !== 'all') {
+				url.searchParams.set('pais', chosenPais);
+			} else {
+				url.searchParams.delete('pais');
 			}
 			if (map && typeof map.getCenter === 'function') {
 				const c = map.getCenter();
@@ -1341,7 +1382,7 @@ const payloadClient = JSON.stringify({
 							status_label: t.status[s.status] || s.status,
 							tipo: effectiveTipo,
 							tipo_label: t.tipos[effectiveTipo] || effectiveTipo,
-							color: MODALITY_COLORS[effectiveTipo] || '#00b0ff',
+							color: MODALITY_COLORS[effectiveTipo] || '#0055ff',
 							zoom_inicial: s.zoom_inicial || 11.5,
 						},
 						geometry: {
@@ -1353,10 +1394,98 @@ const payloadClient = JSON.stringify({
 			};
 		}
 
+		// Mapeia o tipo de linha para colorir e filtrar as estações por modalidade
+		const lineTypeBySysAndName: Record<string, string> = {};
+		for (const f of linhasGeojson.features || []) {
+			const sid = f.properties?.sistema_id;
+			const lnome = (f.properties?.linha || '').trim().toLowerCase();
+			const ltipo = f.properties?.tipo;
+			if (sid && lnome && ltipo) {
+				lineTypeBySysAndName[`${sid}::${lnome}`] = ltipo;
+			}
+		}
+
+		function resolveStationTipo(stFeat: any, selectedTipo: string): string {
+			const props = stFeat.properties || {};
+			if (props.tipo) return props.tipo;
+			const sid = props.sistema_id || '';
+			const lnome = (props.linha || '').trim().toLowerCase();
+			if (sid && lnome && lineTypeBySysAndName[`${sid}::${lnome}`]) {
+				return lineTypeBySysAndName[`${sid}::${lnome}`];
+			}
+			const sysObj = sistemasById[sid];
+			if (selectedTipo !== 'all' && modalitiesBySystemId[sid]?.has(selectedTipo)) {
+				return selectedTipo;
+			}
+			return sysObj?.tipo || 'metro';
+		}
+
+		function buildEstacoesGeojson(allowedIds: Set<string>, selectedTipo: string) {
+			return {
+				type: 'FeatureCollection',
+				features: (estacoesGeojson.features || [])
+					.filter((f: any) => {
+						if (f.properties?.status !== 'operacao') return false;
+						if (!allowedIds.has(f.properties?.sistema_id)) return false;
+						const stTipo = resolveStationTipo(f, selectedTipo);
+						if (selectedTipo !== 'all' && stTipo !== selectedTipo) return false;
+						return true;
+					})
+					.map((f: any) => {
+						const stTipo = resolveStationTipo(f, selectedTipo);
+						return {
+							...f,
+							properties: {
+								...f.properties,
+								tipo: stTipo,
+								color: MODALITY_COLORS[stTipo] || '#0055ff',
+							},
+						};
+					}),
+			};
+		}
+
+		function updateModalityBadgeCounts() {
+			const q = (searchInput?.value || '').trim().toLowerCase();
+			const pais = selectPais?.value || 'all';
+			const baseList = sistemas.filter((s: any) => {
+				if (s.status !== 'operacao') return false;
+				if (pais !== 'all' && s.pais !== pais) return false;
+				if (q) {
+					const hay = `${s.nome_pt} ${s.nome_en} ${s.pais} ${s.cidade} ${s.uf} ${s.operador} ${(s.tags || []).join(' ')}`.toLowerCase();
+					if (!hay.includes(q)) return false;
+				}
+				return true;
+			});
+			const counts: Record<string, number> = {
+				all: baseList.length,
+				alta_velocidade: 0,
+				metro: 0,
+				vlt: 0,
+				trem_convencional: 0,
+				ferrovia_carga: 0,
+			};
+			for (const s of baseList) {
+				const mods = modalitiesBySystemId[s.id] || new Set([s.tipo]);
+				for (const m of mods) {
+					if (counts[m] !== undefined) counts[m] += 1;
+				}
+			}
+			document.querySelectorAll<HTMLButtonElement>('.modality-pill-btn[data-modality-jump]').forEach((btn) => {
+				const key = btn.getAttribute('data-modality-jump') || 'all';
+				const strongEl = btn.querySelector('strong');
+				if (strongEl && counts[key] !== undefined) {
+					strongEl.textContent = String(counts[key]);
+				}
+			});
+		}
+
 		function applyFilters() {
 			const filtered = getFilteredSistemas();
 			const allowedIds = new Set(filtered.map((s: any) => s.id));
 			const selectedTipo = selectTipo?.value || 'all';
+
+			updateModalityBadgeCounts();
 
 			// Atualiza tabela acessível
 			document.querySelectorAll<HTMLElement>('[data-sys-row]').forEach((row) => {
@@ -1386,13 +1515,7 @@ const payloadClient = JSON.stringify({
 
 			const estSrc = map.getSource('estacoes-source') as maplibregl.GeoJSONSource | undefined;
 			if (estSrc) {
-				estSrc.setData({
-					type: 'FeatureCollection',
-					features: (estacoesGeojson.features || []).filter(
-						(f: any) =>
-							f.properties?.status === 'operacao' && allowedIds.has(f.properties?.sistema_id)
-					),
-				} as any);
+				estSrc.setData(buildEstacoesGeojson(allowedIds, selectedTipo) as any);
 			}
 		}
 
@@ -1430,7 +1553,7 @@ const payloadClient = JSON.stringify({
 				},
 				'estacoes-source': {
 					type: 'geojson',
-					data: estacoesGeojson,
+					data: buildEstacoesGeojson(new Set(sistemas.map((s: any) => s.id)), 'all') as any,
 				},
 				'sistemas-points': {
 					type: 'geojson',
@@ -1519,10 +1642,10 @@ const payloadClient = JSON.stringify({
 					source: 'estacoes-source',
 					minzoom: 5.5,
 					paint: {
-						'circle-radius': ['interpolate', ['linear'], ['zoom'], 5.5, 3.6, 9, 5.2, 13, 7.2],
+						'circle-radius': ['interpolate', ['linear'], ['zoom'], 5.5, 3.8, 9, 5.4, 13, 7.4],
 						'circle-color': '#ffffff',
-						'circle-stroke-width': ['interpolate', ['linear'], ['zoom'], 5.5, 2.0, 12, 2.8],
-						'circle-stroke-color': '#0f172a',
+						'circle-stroke-width': ['interpolate', ['linear'], ['zoom'], 5.5, 2.2, 12, 3.0],
+						'circle-stroke-color': ['coalesce', ['get', 'color'], '#0f172a'],
 						'circle-opacity': 0.98,
 						'circle-stroke-opacity': 0.98,
 					},
@@ -1600,9 +1723,9 @@ const payloadClient = JSON.stringify({
 				const sysNome = isEn
 					? props.sistema_nome_en || sysObj?.nome_en || ''
 					: props.sistema_nome_pt || sysObj?.nome_pt || '';
-				const modKey = sysObj?.tipo || 'metro';
+				const modKey = props.tipo || sysObj?.tipo || 'metro';
 				const modLabel = t.tipos[modKey] || modKey;
-				const modColor = MODALITY_COLORS[modKey] || '#00b0ff';
+				const modColor = props.color || MODALITY_COLORS[modKey] || '#0055ff';
 
 				hoverPopup
 					.setLngLat(coords)
@@ -1779,6 +1902,34 @@ const payloadClient = JSON.stringify({
 			});
 		}
 
+		function handleModalitySelection(chosenTipo: string) {
+			if (activeSysId) {
+				closeDrawer();
+			}
+			if (selectTipo) {
+				selectTipo.value = chosenTipo;
+			}
+			// Se o usuário estiver num país/ilha que não possui a modalidade clicada (ex.: clicou Metrô ou VLT),
+			// volta automaticamente para Mundo (Todos) para exibir todos os Metrôs/VLTs sem deixar o mapa vazio.
+			const currentPais = selectPais?.value || 'all';
+			if (chosenTipo !== 'all' && currentPais !== 'all') {
+				const hasInCountry = sistemas.some(
+					(s: any) =>
+						s.status === 'operacao' &&
+						s.pais === currentPais &&
+						(s.tipo === chosenTipo || modalitiesBySystemId[s.id]?.has(chosenTipo))
+				);
+				if (!hasInCountry) {
+					if (selectPais) selectPais.value = 'all';
+					syncCountryPills('all');
+					flyToCountry('all');
+				}
+			}
+			syncModalityPills(chosenTipo);
+			applyFilters();
+			syncUrlState(activeSlug);
+		}
+
 		searchInput?.addEventListener('input', applyFilters);
 		selectPais?.addEventListener('change', () => {
 			const chosen = selectPais.value || 'all';
@@ -1788,8 +1939,7 @@ const payloadClient = JSON.stringify({
 		});
 		selectTipo?.addEventListener('change', () => {
 			const chosenTipo = selectTipo.value || 'all';
-			syncModalityPills(chosenTipo);
-			applyFilters();
+			handleModalitySelection(chosenTipo);
 		});
 
 		document.querySelectorAll<HTMLButtonElement>('[data-country-jump]').forEach((btn) => {
@@ -1809,11 +1959,7 @@ const payloadClient = JSON.stringify({
 				const key = btn.getAttribute('data-modality-jump') || 'all';
 				const currentVal = selectTipo?.value || 'all';
 				const nextVal = key !== 'all' && currentVal === key ? 'all' : key;
-				if (selectTipo) {
-					selectTipo.value = nextVal;
-				}
-				syncModalityPills(nextVal);
-				applyFilters();
+				handleModalitySelection(nextVal);
 			});
 		});
 
@@ -2081,14 +2227,20 @@ const payloadClient = JSON.stringify({
 
 	.modality-pill-btn.is-active,
 	.country-pill-btn.is-active {
-		background: #0f172a;
-		border-color: #0f172a;
+		background: var(--mod-color, #0f172a);
+		border-color: var(--mod-color, #0f172a);
 		color: #ffffff;
+		box-shadow: 0 2px 10px rgba(15, 23, 42, 0.22);
+	}
+
+	.modality-pill-btn.is-active .modality-dot {
+		background: #ffffff !important;
+		box-shadow: 0 0 6px #ffffff;
 	}
 
 	.modality-pill-btn.is-active strong,
 	.country-pill-btn.is-active strong {
-		background: var(--mod-color, #00e676);
+		background: rgba(15, 23, 42, 0.28);
 		color: #ffffff;
 	}
 
@@ -2224,9 +2376,15 @@ const payloadClient = JSON.stringify({
 	}
 
 	.legend-modality-btn.is-active {
-		background: #0f172a;
-		border-color: #0f172a;
+		background: var(--mod-color, #0f172a);
+		border-color: var(--mod-color, #0f172a);
 		color: #ffffff;
+		box-shadow: 0 2px 8px rgba(15, 23, 42, 0.22);
+	}
+
+	.legend-modality-btn.is-active .legend-dot {
+		background: #ffffff !important;
+		box-shadow: 0 0 6px #ffffff;
 	}
 
 	.legend-dot {
