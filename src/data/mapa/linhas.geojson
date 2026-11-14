@@ -38286,6 +38286,417 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-ferry-boat-itajai-navegantes-rio-itajai-acu-sc",
+        "sistema_id": "ferry-boat-itajai-navegantes-babitonga-laguna-sc",
+        "nome": "Ferry-Boat Itajaí–Navegantes: Travessia do Centro (Av. Pref. Paulo Bauer – Pontal de Navegantes) & Travessia da Barra do Rio (Rio Itajaí-Açu, SC)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "NGI Sul (Itajaí–Navegantes, SC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.6745,
+            -26.8855
+          ],
+          [
+            -48.6655,
+            -26.8935
+          ],
+          [
+            -48.6535,
+            -26.9015
+          ],
+          [
+            -48.6505,
+            -26.8985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-baia-da-babitonga-sao-francisco-do-sul-vila-da-gloria-joinville-sc",
+        "sistema_id": "ferry-boat-itajai-navegantes-babitonga-laguna-sc",
+        "nome": "Travessias da Baía da Babitonga: São Francisco do Sul (Centro Histórico / Laranjeiras) – Vila da Glória (Distrito do Saí) – Vigorelli / Joinville (SC)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "F. Andreis & Lancha Laranjeiras (Baía da Babitonga, SC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.6385,
+            -26.2425
+          ],
+          [
+            -48.6785,
+            -26.2215
+          ],
+          [
+            -48.7295,
+            -26.2595
+          ],
+          [
+            -48.7515,
+            -26.2715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-canal-da-barra-laguna-farol-de-santa-marta-sc",
+        "sistema_id": "ferry-boat-itajai-navegantes-babitonga-laguna-sc",
+        "nome": "Travessia do Canal da Barra de Laguna: Balsa Laguna (Molhes da Barra) – Passagem da Barra / Farol de Santa Marta (SC)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Laguna Navegação (Canal da Barra, SC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.7755,
+            -28.4945
+          ],
+          [
+            -48.7795,
+            -28.5035
+          ],
+          [
+            -48.7985,
+            -28.5455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-ferry-boat-baia-de-guaratuba-caioba-matinhos-pr",
+        "sistema_id": "ferry-boat-baia-de-guaratuba-caioba-travessias-rio-parana-pr",
+        "nome": "Ferry-Boat da Baía de Guaratuba (PR-412): Terminal Ponta da Passagem (Guaratuba) – Terminal Prainha de Caiobá (Matinhos, PR)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Internacional Marítima / DER-PR (Baía de Guaratuba, PR)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.5695,
+            -25.8655
+          ],
+          [
+            -48.5625,
+            -25.8595
+          ],
+          [
+            -48.5565,
+            -25.8545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-rio-parana-porto-rico-porto-sao-jose-querencia-do-norte-pr-ms",
+        "sistema_id": "ferry-boat-baia-de-guaratuba-caioba-travessias-rio-parana-pr",
+        "nome": "Travessias do Alto Rio Paraná: Porto São José – Porto Rico – Ilha Porto Rico – Porto Felício / Querência do Norte (PR/MS)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Operadores Hidroviários de Porto Rico e Alto Rio Paraná (PR/MS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.1755,
+            -22.7185
+          ],
+          [
+            -53.2665,
+            -22.7725
+          ],
+          [
+            -53.3685,
+            -22.8455
+          ],
+          [
+            -53.5125,
+            -22.9585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-travessia-estuario-rio-grande-sao-jose-do-norte-rs",
+        "sistema_id": "travessia-rio-grande-sao-jose-do-norte-hidrovia-lagoa-dos-patos-jacui-rs",
+        "nome": "Travessia Hidroviária do Estuário da Lagoa dos Patos: Terminal Hidroviário de Rio Grande – Terminal Hidroviário de São José do Norte (Lanchas e Balsas, RS)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Transnorte & Transporte Marítimo São José do Norte (RS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.0945,
+            -32.0315
+          ],
+          [
+            -52.0695,
+            -32.0225
+          ],
+          [
+            -52.0435,
+            -32.0145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-lagoa-dos-patos-porto-alegre-pelotas-rio-grande-jacui-rs",
+        "sistema_id": "travessia-rio-grande-sao-jose-do-norte-hidrovia-lagoa-dos-patos-jacui-rs",
+        "nome": "Hidrovia Gaúcha (Lagoa dos Patos – Guaíba – Rio Jacuí): Cachoeira do Sul / Rio Pardo – Triunfo – Porto Alegre / Guaíba – Pelotas – Porto de Rio Grande (RS)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Portos RS & Navegação Aliança (Hidrovia Lagoa dos Patos–Jacuí, RS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.8955,
+            -30.0395
+          ],
+          [
+            -52.3785,
+            -29.9925
+          ],
+          [
+            -51.6985,
+            -29.9425
+          ],
+          [
+            -51.2335,
+            -30.0285
+          ],
+          [
+            -51.0625,
+            -30.3825
+          ],
+          [
+            -51.4525,
+            -31.1525
+          ],
+          [
+            -52.3325,
+            -31.7795
+          ],
+          [
+            -52.0945,
+            -32.0315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-rio-tiete-piracicaba-barra-bonita-aracatuba-itapura-sp",
+        "sistema_id": "hidrovia-tiete-parana-barra-bonita-ilha-solteira-tres-lagoas-itaipu-sp-ms-pr",
+        "nome": "Hidrovia do Rio Tietê: Anhembi / Barra Bonita (Eclusa Turística) – Pederneiras (Polo Intermodal) – Ibitinga – Promissão – Araçatuba – Canal de Pereira Barreto – Itapura (SP)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "DH-SP / DNIT (AHRANA) & Navios Turísticos de Barra Bonita (SP)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.1325,
+            -22.7915
+          ],
+          [
+            -48.5585,
+            -22.4965
+          ],
+          [
+            -48.7755,
+            -22.3165
+          ],
+          [
+            -48.9985,
+            -21.7585
+          ],
+          [
+            -49.8585,
+            -21.3125
+          ],
+          [
+            -50.4325,
+            -21.0285
+          ],
+          [
+            -51.1125,
+            -20.6385
+          ],
+          [
+            -51.5125,
+            -20.6485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-rio-parana-paranaiba-sao-simao-ilha-solteira-tres-lagoas-guaira-itaipu",
+        "sistema_id": "hidrovia-tiete-parana-barra-bonita-ilha-solteira-tres-lagoas-itaipu-sp-ms-pr",
+        "nome": "Hidrovia do Rio Paraná–Paranaíba: São Simão (GO) – Ilha Solteira / Três Lagoas (SP/MS) – Panorama – Presidente Epitácio – Porto Primavera – Guaíra – Foz do Iguaçu / Itaipu (PR)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "DNIT (AHRANA) & Operadores Hidroviários Tietê–Paraná (GO/SP/MS/PR)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.5485,
+            -19.0185
+          ],
+          [
+            -51.0125,
+            -20.1185
+          ],
+          [
+            -51.6285,
+            -20.7785
+          ],
+          [
+            -51.8625,
+            -21.3525
+          ],
+          [
+            -52.1165,
+            -21.7585
+          ],
+          [
+            -52.9585,
+            -22.4785
+          ],
+          [
+            -54.2585,
+            -24.0825
+          ],
+          [
+            -54.5885,
+            -25.4085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-pantanal-norte-caceres-taiama-serra-do-amolar-corumba-mt-ms",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-caceres-corumba-ladario-porto-murtinho-mt-ms",
+        "nome": "Hidrovia do Pantanal Norte (Rio Paraguai): Cais de Cáceres (MT) – Estação Ecológica de Taiamã – Barra do São Lourenço – Serra do Amolar – Porto Geral de Corumbá (MS)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "DNIT (AHIPAR) & Barcos-Hotel e Embarcações Regionais do Pantanal (MT/MS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6865,
+            -16.0715
+          ],
+          [
+            -57.5285,
+            -16.8825
+          ],
+          [
+            -57.4425,
+            -17.6585
+          ],
+          [
+            -57.4985,
+            -18.0285
+          ],
+          [
+            -57.6515,
+            -18.9995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hidrovia-paraguai-parana-corumba-ladario-forte-coimbra-porto-murtinho-ms",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-caceres-corumba-ladario-porto-murtinho-mt-ms",
+        "nome": "Hidrovia Internacional Paraguai–Paraná (Tramo Pantanal Sul): Porto Geral de Corumbá – Ladário – Porto Esperança – Forte Coimbra – Porto Murtinho (MS)",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "operador": "DNIT (AHIPAR), Hidrovias do Brasil & Navegação Fluvial do Pantanal Sul (MS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6515,
+            -18.9995
+          ],
+          [
+            -57.5985,
+            -19.0025
+          ],
+          [
+            -57.4385,
+            -19.6025
+          ],
+          [
+            -57.7885,
+            -19.9215
+          ],
+          [
+            -57.9525,
+            -20.8585
+          ],
+          [
+            -57.8865,
+            -21.6965
+          ]
+        ]
+      }
     }
   ]
 }
