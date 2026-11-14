@@ -29603,6 +29603,212 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fosfato-ilha-angaur-saipan-town-porto-pier-palau",
+        "linha": "Ferrovia Patrimonial de Fosfato da Ilha de Angaur (Porto de Angaur – Saipan Town – Minas do Norte, Palau)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Patrimonial de Fosfato da Ilha de Angaur (Porto de Angaur – Saipan Town – Jazidas do Norte, Palau)",
+        "sistema_nome_en": "Angaur Island Phosphate Heritage Railway (Angaur Basin Port – Saipan Town – Northern Mines, Republic of Palau)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.1265,
+            6.8965
+          ],
+          [
+            134.1325,
+            6.9025
+          ],
+          [
+            134.1425,
+            6.9125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-bauxita-ngardmau-babeldaob-porto-malakal-koror-palau",
+        "linha": "Ferrovia Mineradora de Bauxita de Ngardmau (Babeldaob) e Vias Portuárias de Malakal em Koror (Palau)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Mineradora de Bauxita de Ngardmau (Ilha de Babeldaob) e Vias Férreas Portuárias de Malakal em Koror (Palau)",
+        "sistema_nome_en": "Ngardmau Bauxite Narrow-Gauge Railway (Babeldaob Island) & Malakal Port Rail Tracks in Koror (Republic of Palau)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.5585,
+            7.6125
+          ],
+          [
+            134.5685,
+            7.6045
+          ],
+          [
+            134.4525,
+            7.3325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-historicas-pohnpei-kolonia-sapwuahfik-chuuk-yap-micronesia",
+        "linha": "Ferrovia Patrimonial e Vias Portuárias de Kolonia – Dekehtik (Ilha de Pohnpei, Micronésia)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Patrimoniais de Pohnpei (Kolonia – Dekehtik), Lagoa de Chuuk (Weno / Tonoas) e Fosfato de Fais/Yap (Estados Federados da Micronésia)",
+        "sistema_nome_en": "Pohnpei (Kolonia – Dekehtik), Chuuk Lagoon (Weno / Tonoas) & Fais/Yap Phosphate Heritage Railways (Federated States of Micronesia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158.2025,
+            6.9785
+          ],
+          [
+            158.2085,
+            6.9685
+          ],
+          [
+            158.2185,
+            6.9545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-historicas-pohnpei-kolonia-sapwuahfik-chuuk-yap-micronesia",
+        "linha": "Trilhos Patrimoniais da Lagoa de Chuuk (Weno / Tonoas) e Ferrovia de Fosfato da Ilha de Fais em Yap (Micronésia)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Patrimoniais de Pohnpei (Kolonia – Dekehtik), Lagoa de Chuuk (Weno / Tonoas) e Fosfato de Fais/Yap (Estados Federados da Micronésia)",
+        "sistema_nome_en": "Pohnpei (Kolonia – Dekehtik), Chuuk Lagoon (Weno / Tonoas) & Fais/Yap Phosphate Heritage Railways (Federated States of Micronesia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.8425,
+            7.4485
+          ],
+          [
+            151.8825,
+            7.3825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-logisticas-portuarias-kwajalein-roi-namur-majuro-jaluit-ilhas-marshall",
+        "linha": "Vias Férreas Logísticas e Portuárias de Delap (Majuro), Kwajalein e Jabor / Jaluit (Ilhas Marshall)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Logísticas e Navais do Atol de Kwajalein / Roi-Namur, Porto de Delap (Majuro) e Trilhos Históricos de Jaluit (Ilhas Marshall)",
+        "sistema_nome_en": "Kwajalein / Roi-Namur Naval & Range Rail Tracks, Delap Port (Majuro) & Jaluit Atoll Heritage Rails (Marshall Islands)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            171.3645,
+            7.0925
+          ],
+          [
+            171.3725,
+            7.0895
+          ],
+          [
+            171.3805,
+            7.0865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-fongafale-funafuti-niulakita-tuvalu",
+        "linha": "Vias Férreas Portuárias do Cais de Águas Profundas de Funafuti (Fongafale, Tuvalu)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias do Cais de Águas Profundas de Funafuti (Fongafale) e Trilhos Históricos de Fosfato de Niulakita (Tuvalu)",
+        "sistema_nome_en": "Funafuti Deepwater Wharf Port Rail Tracks (Fongafale) & Niulakita Phosphate Tramway Heritage (Tuvalu)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            179.1945,
+            -8.5125
+          ],
+          [
+            179.1965,
+            -8.5085
+          ],
+          [
+            179.1985,
+            -8.5045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-sir-roberts-wharf-alofi-niue",
+        "linha": "Vias Férreas Portuárias e Guindaste de Embarcações de Sir Robert's Wharf em Alofi (Niue — Linha Nº 700 do Atlas!)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias e Sistema de Guindastes sobre Trilhos do Píer de Sir Robert's Wharf em Alofi (Niue)",
+        "sistema_nome_en": "Sir Robert's Wharf Port Rail Crane & Boat-Lifting Track System in Alofi ('The Rock of Polynesia', Niue)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -169.9235,
+            -19.0555
+          ],
+          [
+            -169.9215,
+            -19.0545
+          ],
+          [
+            -169.9195,
+            -19.0535
+          ]
+        ]
+      }
     }
   ]
 }
