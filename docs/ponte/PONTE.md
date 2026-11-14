@@ -927,3 +927,20 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
     4. **🇬🇶 Ilha de Bioko — Malabo e Luba (Guiné Equatorial)**: `ferrovia-historica-cacau-malabo-banapa-luba-ilha-de-bioko-guine-equatorial` (`ferrovia_carga`, `#aa00ff` — Ferrovia Histórica do Cacau de Santa Isabel/Malabo – Banapá – Finca Sampaka e Trilhos Portuários de Punta Europa / Luba).
     5. **🇬🇼 Arquipélago dos Bijagós e Ilha de Bolama (Guiné-Bissau)**: `trilhos-portuarios-historicos-ilha-de-bolama-bubaque-bijagos-guine-bissau` (`trem_convencional`, `#ff8f00` — Trilhos Portuários Décauville das Pontes-Cais de Bolama e Bubaque).
   - **Totais em produção (`main` `46a1879`)**: **358 países/territórios/ilhas**, **721 sistemas** (**705 em operação**), **898 linhas** (**879 em operação**), **1.403 estações georreferenciadas** e **2.138 páginas compiladas**. Próxima ronda (#107 — Ordem 103 da Fila): **🇧🇷 Ilha de Guarujá / Santo Amaro (SP), 🇧🇷 Ilha de São Vicente e Santos (SP), 🇧🇷 Ilha Comprida e Iguape / Cananeia (SP), 🇧🇷 Ilha do Governador (RJ) e 🇧🇷 Ilha de Paquetá e Ilha Fiscal / Ilha das Cobras (RJ)**.
+
+- [2026-11-14 16:02 BRT] [ANTIGRAVITY] #107 Ordem Direta do Miguel — Inclusão da 6ª Modalidade: **Transporte por Barco (Barcas, Ferries, Catamarãs e Hidrovias — `#00b8d4`)** + 12 Sistemas Hidroviários Inaugurais e Agendamento da Fase Hidroviária Completa no Final da Fila (`main` commit `0eb0b76`, `2162 page(s) built`):
+  - **Nova 6ª Modalidade Canônica (`barco`)**: Ativada nos botões rápidos, seletor, legenda e camadas do MapLibre em **Ciano-Turquesa Marítimo Vivo (`#00b8d4`)**, com ícones dedicados (`⛴️` nas rotas e `⚓` nos terminais hidroviários).
+  - **12 Sistemas Hidroviários Inaugurais já em operação no mapa** (**8 no Brasil + 4 ícones mundiais**, somando **18 linhas aquaviárias** e **15 terminais**):
+    1. 🇧🇷 **Barcas do Rio de Janeiro — Baía de Guanabara (Praça XV – Niterói/Araribóia, Charitas, Paquetá e Cocotá) e Ilha Grande (Mangaratiba/Angra – Abraão, RJ)**;
+    2. 🇧🇷 **Sistema Ferry-Boat, Lanchas e Catamarãs da Baía de Todos-os-Santos e Morro de São Paulo (Salvador – Itaparica / Mar Grande / Tinharé, BA)**;
+    3. 🇧🇷 **Travessias Hidroviárias Litorâneas de São Paulo — Balsas e Barcas Santos–Guarujá, Vicente de Carvalho e São Sebastião–Ilhabela (DH Hidrovias SP)**;
+    4. 🇧🇷 **Sistema Aquaviário da Grande Vitória — Praça do Papa (Vitória) – Prainha (Vila Velha) – Porto de Santana (Cariacica, ES)**;
+    5. 🇧🇷 **Rede Hidroviária de Passageiros da Amazônia e Baía do Marajó — Belém – Cotijuba – Camará/Soure (Marajó) – Breves – Santarém – Manaus (PA/AM)**;
+    6. 🇧🇷 **Catamarã Hidroviário do Lago Guaíba — Porto Alegre (Cais Mauá / Zona Sul) – Guaíba (RS)**;
+    7. 🇧🇷 **Travessia Hidroviária da Baía de São Marcos — São Luís (Ponta da Espera / Praia Grande) – Alcântara e Cujupe (MA)**;
+    8. 🇧🇷 **Transporte Hidroviário da Lagoa da Conceição / Costa da Lagoa (Florianópolis, SC) e Travessia da Ilha do Mel (Pontal do Sul / Paranaguá, PR)**;
+    9. 🇺🇸 **Staten Island Ferry & NYC Ferry (Nova York, EUA)**;
+    10. 🇬🇧 **Uber Boat by Thames Clippers & Woolwich Ferry (Rio Tâmisa, Londres, Reino Unido)**;
+    11. 🇦🇺 **Sydney Ferries — Circular Quay, Manly e Parramatta River (Baía de Sydney, Austrália)**;
+    12. 🇨🇳 **Star Ferry de Victoria Harbour & Ferries das Ilhas Exteriores de Hong Kong (China)**.
+  - **Fila Programada**: Conforme orientação do Miguel (*"Começa a incluir também. Deixa para o final, depois que completarmos tudo, vamos começar a incluir transporte por barco"*), as **Ordens 103 a 105** fecham os últimos pacotes insulares de trilhos e, imediatamente a partir da **Ordem 106 até a Ordem 112**, entra a **Fase Sistemática de Transporte por Barco no Brasil e no Mundo**.
