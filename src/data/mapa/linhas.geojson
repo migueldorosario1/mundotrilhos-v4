@@ -32969,6 +32969,226 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rede-ferroviaria-ilha-de-sacalina-sakhalin-yuzhno-sakhalinsk-korsakov-kholmsk-poronaysk-nogliki",
+        "linha": "Linha Tronco de Sacalina (Korsakov – Yuzhno-Sakhalinsk – Poronaysk – Tymovskoye – Nogliki & Ferrovia Infantil — Bitola 1520 mm)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Rede Ferroviária da Ilha de Sacalina (Yuzhno-Sakhalinsk – Korsakov – Kholmsk – Poronaysk – Tymovskoye – Nogliki e Ferrovia Infantil do Parque Gagarin, Rússia Insular)",
+        "sistema_nome_en": "Sakhalin Island Railway Network (Yuzhno-Sakhalinsk – Korsakov – Kholmsk – Poronaysk – Tymovskoye – Nogliki & Gagarin Park Children's Railway, Insular Russia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.7735,
+            46.6325
+          ],
+          [
+            142.7265,
+            46.959
+          ],
+          [
+            142.062,
+            47.0485
+          ],
+          [
+            143.0955,
+            49.2215
+          ],
+          [
+            142.658,
+            50.848
+          ],
+          [
+            143.1385,
+            51.7985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-carga-ferry-ferroviario-kholmsk-vanino-carvao-gnl-korsakov-prigorodnoye-ilha-de-sacalina",
+        "linha": "Corredor de Carga e Ferry Ferroviário Kholmsk – Korsakov – Terminal GNL de Prigorodnoye (Ilha de Sacalina)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Ferroviário de Carga e Ferry Ferroviário Kholmsk–Vanino, Portos Carvoeiros de Shakhtyorsk/Uglegorsk e Terminal de GNL de Prigorodnoye / Korsakov (Ilha de Sacalina)",
+        "sistema_nome_en": "Kholmsk–Vanino Rail Ferry Freight Corridor, Shakhtyorsk/Uglegorsk Coal Ports & Prigorodnoye / Korsakov LNG Terminal Rail Spur (Sakhalin Island)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.0465,
+            47.0485
+          ],
+          [
+            142.515,
+            46.882
+          ],
+          [
+            142.7735,
+            46.6325
+          ],
+          [
+            142.905,
+            46.628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-mina-de-ouro-sado-kinzan-kitazawa-aikawa-otsu-ilha-de-sado-japao",
+        "linha": "Vias Mineradoras Patrimoniais de Sado Kinzan (Dōyū-no-Warito – Usina de Kitazawa – Porto de Ōma — Ilha de Sado)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Mineradoras e Patrimoniais de Sado Kinzan (Túnel Dōyū-no-Warito, Usina de Flotação de Kitazawa e Porto de Ōma, Aikawa — Ilha de Sado, Japão)",
+        "sistema_nome_en": "Sado Kinzan Gold Mine Heritage Railways (Dōyū-no-Warito Tunnel, Kitazawa Flotation Plant & Ōma Port Tramways, Aikawa — Sado Island, Japan)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2385,
+            38.0315
+          ],
+          [
+            138.248,
+            38.0375
+          ],
+          [
+            138.2585,
+            38.0415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-florestal-anbo-yakushima-cedros-milenares-kosugidani-centro-espacial-tanegashima-japao",
+        "linha": "Ferrovia Florestal de Anbō (Anbō – Arakawa – Kosugidani / Jōmon Sugi — Bitola 762 mm) e Via Espacial de Tanegashima",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Florestal de Anbō da Ilha de Yakushima (Anbō – Ponte de Arakawa – Kosugidani / Jōmon Sugi — Última Ferrovia Florestal Ativa do Japão) e Trilhos do Centro Espacial de Tanegashima",
+        "sistema_nome_en": "Yakushima Anbō Forest Railway (Anbō – Arakawa Bridge – Kosugidani / Jōmon Sugi — Japan's Last Operational Logging Railway) & Tanegashima Space Center Rail Tracks",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.6545,
+            30.3125
+          ],
+          [
+            130.592,
+            30.3045
+          ],
+          [
+            130.5625,
+            30.312
+          ],
+          [
+            130.5415,
+            30.334
+          ],
+          [
+            130.9685,
+            30.3995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "corredor-ferroviario-historico-ilha-de-awaji-sumoto-fukura-sistema-guiado-shodoshima-mar-interior-de-seto",
+        "linha": "Corredor Patrimonial Awaji Railway (Sumoto – Ichimura – Fukura) e Sistema Guiado de Shōdoshima (Território Nº 300!)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Corredor Ferroviário Patrimonial da Ilha de Awaji (Awaji Kōtsū Railway Sumoto – Ichimura – Fukura) e Sistema Guiado de Montanha de Shōdoshima (Mar Interior de Seto, Japão)",
+        "sistema_nome_en": "Awaji Island Heritage Railway Corridor (Awaji Kōtsū Railway Sumoto – Ichimura – Fukura) & Shōdoshima Mountain Guided System (Seto Inland Sea, Japan)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.8925,
+            34.3425
+          ],
+          [
+            134.825,
+            34.298
+          ],
+          [
+            134.7685,
+            34.272
+          ],
+          [
+            134.7155,
+            34.2515
+          ],
+          [
+            134.3055,
+            34.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-mineradoras-taishu-tsushima-baterias-costeiras-iki-trilhos-portuarios-ilhas-goto-japao",
+        "linha": "Vias Mineradoras de Taishū / Izuhara (Ilha de Tsushima), Kurose (Ilha de Iki) e Porto de Fukue (Ilhas Goto)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Mineradoras de Chumbo e Zinco de Taishū (Izuhara / Sago — Ilha de Tsushima), Trilhos de Kurose (Ilha de Iki) e Vias Portuárias de Fukue (Ilhas Goto, Japão)",
+        "sistema_nome_en": "Taishū Lead-Zinc Mining Railways (Izuhara / Sago — Tsushima Island), Kurose Coastal Tracks (Iki Island) & Fukue Port Railways (Goto Islands, Japan)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.2895,
+            34.2025
+          ],
+          [
+            129.2155,
+            34.228
+          ],
+          [
+            129.3285,
+            34.2815
+          ],
+          [
+            129.6915,
+            33.7485
+          ],
+          [
+            128.8425,
+            32.6955
+          ]
+        ]
+      }
     }
   ]
 }
