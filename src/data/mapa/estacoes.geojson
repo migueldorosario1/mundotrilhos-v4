@@ -30653,6 +30653,276 @@
           -11.7845
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-penang-hill-lower-station-air-itam-malasia",
+        "nome": "Penang Hill Funicular Lower Station (Air Itam, Ilha de Penang, Malásia)",
+        "sistema_id": "funicular-penang-hill-trilhos-portuarios-george-town-penang-malasia",
+        "linha": "Penang Hill Funicular Railway",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2772,
+          5.4082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-penang-hill-upper-station-bukit-bendera-malasia",
+        "nome": "Penang Hill Upper Station — Bukit Bendera (733 m, Ilha de Penang, Malásia)",
+        "sistema_id": "funicular-penang-hill-trilhos-portuarios-george-town-penang-malasia",
+        "linha": "Penang Hill Funicular Railway",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2688,
+          5.4245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-raja-tun-uda-ferry-terminal-george-town-penang",
+        "nome": "Terminal Hidroviário Raja Tun Uda — George Town (Penang Ferry, Ilha de Penang, Malásia)",
+        "sistema_id": "funicular-penang-hill-trilhos-portuarios-george-town-penang-malasia",
+        "linha": "Penang Cross-Channel Ferry: George Town – Butterworth KTM",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3428,
+          5.4145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sentosa-station-vivocity-harbourfront-singapura",
+        "nome": "Sentosa Station — VivoCity / HarbourFront MRT Integration (Singapura)",
+        "sistema_id": "monotrilho-sentosa-express-trilhos-insulares-sentosa-jurong-singapura",
+        "linha": "Sentosa Express Monorail",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8222,
+          1.2645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-resorts-world-station-sentosa-singapura",
+        "nome": "Resorts World Station (Ilha de Sentosa, Singapura)",
+        "sistema_id": "monotrilho-sentosa-express-trilhos-insulares-sentosa-jurong-singapura",
+        "linha": "Sentosa Express Monorail",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8205,
+          1.2572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-beach-station-sentosa-island-singapura",
+        "nome": "Beach Station — Palawan & Siloso (Ilha de Sentosa, Singapura)",
+        "sistema_id": "monotrilho-sentosa-express-trilhos-insulares-sentosa-jurong-singapura",
+        "linha": "Sentosa Express Monorail",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8178,
+          1.2518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kathu-tin-mining-rail-station-phuket-tailandia",
+        "nome": "Estação Histórica das Minas de Estanho de Kathu (Ilha de Phuket, Tailândia)",
+        "sistema_id": "trilhos-portuarios-estanho-carreiras-navais-phuket-koh-samui-tailandia",
+        "linha": "Corredor Patrimonial do Estanho e Carreiras Navais de Phuket",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3345,
+          7.9185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rassada-pier-phuket-town-tailandia",
+        "nome": "Porto e Terminal Hidroviário de Rassada — Phuket Town (Ilha de Phuket, Tailândia)",
+        "sistema_id": "trilhos-portuarios-estanho-carreiras-navais-phuket-koh-samui-tailandia",
+        "linha": "Corredor Patrimonial e Terminal de Ferries de Phuket",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.4265,
+          7.8725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nathon-ferry-pier-koh-samui-tailandia",
+        "nome": "Terminal Hidroviário de Nathon / Lipa Noi (Ilha de Koh Samui, Tailândia)",
+        "sistema_id": "trilhos-portuarios-estanho-carreiras-navais-phuket-koh-samui-tailandia",
+        "linha": "Ferry do Golfo da Tailândia: Donsak – Koh Samui",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9325,
+          9.5345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-an-thoi-sunset-town-station-phu-quoc-vietna",
+        "nome": "Estação An Thoi / Sunset Town (Ilha de Phu Quoc, Vietnã)",
+        "sistema_id": "funicular-muong-hoa-teleferico-hon-thom-trilhos-phu-quoc-cat-ba-vietna",
+        "linha": "Eixo Insular Sul de Phu Quoc: An Thoi – Hon Thom",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0085,
+          10.0325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hon-thom-island-station-phu-quoc-vietna",
+        "nome": "Estação Insular de Hon Thom (Arquipélago de An Thoi, Phu Quoc, Vietnã)",
+        "sistema_id": "funicular-muong-hoa-teleferico-hon-thom-trilhos-phu-quoc-cat-ba-vietna",
+        "linha": "Eixo Insular Sul de Phu Quoc: An Thoi – Hon Thom",
+        "tipo": "vlt",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0165,
+          9.9545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bai-vong-fast-ferry-port-phu-quoc-vietna",
+        "nome": "Terminal Hidroviário de Alta Velocidade de Bai Vong (Ilha de Phu Quoc, Vietnã)",
+        "sistema_id": "funicular-muong-hoa-teleferico-hon-thom-trilhos-phu-quoc-cat-ba-vietna",
+        "linha": "Hidrovia Rápida Ha Tien / Rach Gia – Phu Quoc",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0685,
+          10.1545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mactan-wharf-ferry-terminal-lapu-lapu-filipinas",
+        "nome": "Terminal Hidroviário de Mactan Wharf — Lapu-Lapu City (Ilha de Mactan, Cebu, Filipinas)",
+        "sistema_id": "trilhos-navais-mactan-cebu-palawan-coron-boracay-filipinas",
+        "linha": "Travessia Hidroviária do Canal de Mactan: Cebu – Mactan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9485,
+          10.3125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cebu-pier-1-ferry-terminal-filipinas",
+        "nome": "Terminal Marítimo Cebu Pier 1 / Pier 3 (Cebu City – Canal de Mactan, Filipinas)",
+        "sistema_id": "trilhos-navais-mactan-cebu-palawan-coron-boracay-filipinas",
+        "linha": "Travessia Hidroviária do Canal de Mactan: Cebu – Mactan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9085,
+          10.2925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-marcelo-fernan-shipyard-slipway-mactan-filipinas",
+        "nome": "Carreiras Navais sobre Trilhos de Opon / Marcelo Fernan Bridge (Ilha de Mactan, Filipinas)",
+        "sistema_id": "trilhos-navais-mactan-cebu-palawan-coron-boracay-filipinas",
+        "linha": "Corredor Naval e Estaleiros sobre Trilhos do Canal de Mactan",
+        "tipo": "trem_convencional",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9625,
+          10.3285
+        ]
+      }
     }
   ]
 }

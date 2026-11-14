@@ -23405,5 +23405,354 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "funicular-penang-hill-trilhos-portuarios-george-town-penang-malasia",
+    "slug": "funicular-penang-hill-trilhos-portuarios-george-town-penang-malasia",
+    "nome_pt": "Funicular de Penang Hill (Bukit Bendera), Trilhos Portuários de George Town e Ferry de Penang (Malásia)",
+    "nome_en": "Penang Hill Funicular Railway (Bukit Bendera), George Town Port Tracks & Penang Ferry (Malaysia)",
+    "pais": "Ilha de Penang (Malásia)",
+    "cidade": "George Town e Air Itam (Ilha de Penang)",
+    "uf": "PNG",
+    "tipo": "vlt",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Perbadanan Bukit Bendera Pulau Pinang (Penang Hill Corporation) & Penang Port Sdn Bhd (Penang Ferry)",
+    "inauguracao": "1923 (Funicular de Penang Hill — modernizado com trens suíços Garaventa em 2010) / 1894 (Penang Ferry Service)",
+    "extensao_km": 5.2,
+    "bitola": "1000 mm (bitola métrica com cabo de tração no Funicular de Penang Hill) + Travessia Hidroviária do Estreito de Penang",
+    "eletrificacao": "Tração elétrica funicular de alta velocidade (10 m/s) + Catamarãs rápidos do Estreito de Penang",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 9500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "RM 350 milhões (modernização do Funicular de Penang Hill, renovação da frota de ferries de George Town–Butterworth e projeto LRT Mutiara Line)",
+      "moeda": "MYR",
+      "fonte_id": "penang-hill-corp-port-malaysia"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação da Linha Mutiara do VLT/LRT de Penang ligando George Town, Komtar, Aeroporto de Bayan Lepas e Penang Sentral.",
+      "en": "Construction of the Penang Mutiara LRT Line connecting George Town, Komtar, Bayan Lepas Airport and Penang Sentral."
+    },
+    "resumo_pt": "Na histórica Ilha de Penang (Patrimônio Mundial da UNESCO em George Town, Malásia), o icônico Funicular de Penang Hill (Bukit Bendera Railway, inaugurado em 1923) vence 691 metros de desnível em apenas 2,0 km de via métrica através de um dos túneis funiculares mais íngremes do mundo (27,9°), operando em sinergia com a tradicional travessia hidroviária Penang Ferry (1894) que conecta o terminal insular Raja Tun Uda (George Town) à estação ferroviária KTM de Butterworth no continente.",
+    "resumo_en": "On Penang Island (Malaysia), the iconic Penang Hill Funicular Railway (1923) climbs 691 m over 2.0 km of meter-gauge track through one of the world's steepest funicular tunnels, operating alongside the historic Penang Ferry (1894) linking George Town to Butterworth KTM Railway Station.",
+    "lat": 5.4164,
+    "lon": 100.2772,
+    "zoom_inicial": 12.0,
+    "fontes": [
+      "penang-hill-corp-port-malaysia",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de penang",
+      "george town",
+      "penang hill",
+      "bukit bendera",
+      "funicular",
+      "penang ferry",
+      "malásia"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Penang_Hill_Funicular_Train.jpg/800px-Penang_Hill_Funicular_Train.jpg",
+      "credito": "Wikimedia Commons — Trem funicular suíço Garaventa de 3ª geração no Penang Hill Railway (Bukit Bendera, Ilha de Penang, Malásia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Penang_Hill_Railway"
+    },
+    "linhas": [
+      {
+        "id": "linha-funicular-penang-hill-air-itam-bukit-bendera-malasia",
+        "nome": "Penang Hill Funicular Railway: Lower Station (Air Itam) – Middle Station – Upper Station (Bukit Bendera, 733 m)",
+        "status": "operacao",
+        "extensao_km": 2.0,
+        "cor": "#00c853"
+      },
+      {
+        "id": "linha-barco-penang-ferry-george-town-butterworth-malasia",
+        "nome": "Penang Cross-Channel Ferry: Raja Tun Uda Terminal (George Town, Penang Island) – Sultan Abdul Halim Terminal (Butterworth KTM)",
+        "status": "operacao",
+        "extensao_km": 3.2,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "monotrilho-sentosa-express-trilhos-insulares-sentosa-jurong-singapura",
+    "slug": "monotrilho-sentosa-express-trilhos-insulares-sentosa-jurong-singapura",
+    "nome_pt": "Monotrilho Sentosa Express e Corredores Insulares da Ilha de Sentosa e Jurong Island (Singapura)",
+    "nome_en": "Sentosa Express Monorail & Insular Transit Corridors of Sentosa Island & Jurong Island (Singapore)",
+    "pais": "Ilha de Sentosa e Jurong Island (Singapura)",
+    "cidade": "Ilha de Sentosa e Jurong Island (Singapura)",
+    "uf": "SG",
+    "tipo": "vlt",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Sentosa Development Corporation (SDC)",
+    "inauguracao": "2007 (Monotrilho Hitachi Sentosa Express, sucedendo o monotrilho original de Sentosa de 1982)",
+    "extensao_km": 2.1,
+    "bitola": "Viga de monotrilho straddle-beam Hitachi (850 mm) sobre o estreito marítimo de Keppel Harbour até a Ilha de Sentosa",
+    "eletrificacao": "750 V CC por terceiro trilho na viga guia",
+    "n_linhas": 1,
+    "n_estacoes": 3,
+    "passageiros_dia": 38000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "S$ 140 milhões (implantação e modernização de sinalização CBTC do Monotrilho Sentosa Express)",
+      "moeda": "SGD",
+      "fonte_id": "sentosa-development-corp-lta-sg"
+    },
+    "proximas_entregas": {
+      "pt": "Requalificação do eixo Greater Southern Waterfront e integração ampliada com o terminal Beach Station e HarbourFront MRT.",
+      "en": "Greater Southern Waterfront integration and capacity upgrades between HarbourFront MRT and Sentosa Beach Station."
+    },
+    "resumo_pt": "Inaugurado em janeiro de 2007 pela Sentosa Development Corporation (substituindo o antigo monotrilho panorâmico de 1982), o Sentosa Express é um moderno monotrilho straddle-beam Hitachi de 2,1 km que atravessa a ponte marítima sobre o Canal de Sentosa, conectando as linhas North East e Circle do MRT de Singapura (VivoCity / HarbourFront) a Resorts World Sentosa, Imbiah e às praias do sul da Ilha de Sentosa (Palawan e Siloso).",
+    "resumo_en": "Opened in 2007 by the Sentosa Development Corporation, the Sentosa Express is a 2.1 km Hitachi straddle-beam monorail crossing the sea causeway from VivoCity / HarbourFront MRT to Resorts World, Imbiah and Beach Station on Sentosa Island, Singapore.",
+    "lat": 1.2545,
+    "lon": 103.8215,
+    "zoom_inicial": 13.8,
+    "fontes": [
+      "sentosa-development-corp-lta-sg",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de sentosa",
+      "sentosa express",
+      "monotrilho",
+      "jurong island",
+      "singapura"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sentosa_Express_train_approaching_Beach_Station.jpg/800px-Sentosa_Express_train_approaching_Beach_Station.jpg",
+      "credito": "Wikimedia Commons — Monotrilho Hitachi Sentosa Express chegando à Beach Station na Ilha de Sentosa (Singapura)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Sentosa_Express"
+    },
+    "linhas": [
+      {
+        "id": "linha-monotrilho-sentosa-express-vivocity-beach-station-singapura",
+        "nome": "Sentosa Express Monorail: Sentosa Station (VivoCity / HarbourFront) – Resorts World – Imbiah – Beach Station",
+        "status": "operacao",
+        "extensao_km": 2.1,
+        "cor": "#00c853"
+      }
+    ]
+  },
+  {
+    "id": "trilhos-portuarios-estanho-carreiras-navais-phuket-koh-samui-tailandia",
+    "slug": "trilhos-portuarios-estanho-carreiras-navais-phuket-koh-samui-tailandia",
+    "nome_pt": "Trilhos Históricos de Estanho, Carreiras Navais e Ferries Insulares de Phuket e Koh Samui (Tailândia)",
+    "nome_en": "Historic Tin Mining Tracks, Naval Slipways & Insular Ferries of Phuket & Koh Samui (Thailand)",
+    "pais": "Ilha de Phuket e Koh Samui (Tailândia)",
+    "cidade": "Phuket Town / Rassada (Ilha de Phuket) e Nathon (Ilha de Koh Samui)",
+    "uf": "PKT",
+    "tipo": "trem_convencional",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Phuket Mining Museum / Marine Department of Thailand / Seatran & Raja Ferry (Phuket & Koh Samui)",
+    "inauguracao": "1909 (Draga e trilhos de mineração de estanho de Phuket) / 1982 (Ferries regulares de Phuket Rassada e Koh Samui)",
+    "extensao_km": 42.5,
+    "bitola": "600 mm / 1000 mm (vagonetas de mineração de estanho de Kathu e carreiras navais de Phuket) + Rotas de Ferries de Andaman e Golfo da Tailândia",
+    "eletrificacao": "Tração mecânica/diesel-hidráulica portuária e ferries marítimos ro-ro e catamarãs de alta velocidade",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 14500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "THB 35 bilhões (modernização portuária de Rassada/Ao Po em Phuket, terminais de Nathon/Lipa Noi em Koh Samui e projeto do VLT de Phuket)",
+      "moeda": "THB",
+      "fonte_id": "marine-dept-thailand-phuket-samui"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação do corredor norte-sul de transporte rápido da Ilha de Phuket (Aeroporto Internacional de Phuket – Phuket Town – Chalong).",
+      "en": "Development of the Phuket Island north-south transit corridor linking Phuket International Airport, Phuket Old Town and Chalong."
+    },
+    "resumo_pt": "Nas duas maiores ilhas turísticas da Tailândia — Phuket (no Mar de Andaman, ligada ao continente pela Ponte Sarasin) e Koh Samui (no Golfo da Tailândia) —, a infraestrutura combina os trilhos históricos das minas e dragas de estanho de Kathu e Saphan Hin e as carreiras navais de Phuket Town / Porto de Rassada com as grandes rotas hidroviárias de ferries e catamarãs que conectam Rassada Pier (Phuket) a Koh Phi Phi e Donsak Pier (Surat Thani) aos terminais de Nathon e Lipa Noi em Koh Samui.",
+    "resumo_en": "On Thailand's two largest resort islands — Phuket in the Andaman Sea and Koh Samui in the Gulf of Thailand — historic tin-mining rail tracks at Kathu and naval slipways at Phuket Rassada Port operate alongside major ferry corridors linking Phuket to Phi Phi and Surat Thani (Donsak) to Koh Samui.",
+    "lat": 7.8804,
+    "lon": 98.3923,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "marine-dept-thailand-phuket-samui",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de phuket",
+      "koh samui",
+      "rassada pier",
+      "nathon",
+      "tailândia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Old_Phuket_Town_Thalang_Road.jpg/800px-Old_Phuket_Town_Thalang_Road.jpg",
+      "credito": "Wikimedia Commons — Centro Histórico Sino-Português e Porto de Rassada na Ilha de Phuket e Travessia de Koh Samui (Tailândia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Phuket_Province"
+    },
+    "linhas": [
+      {
+        "id": "linha-trilhos-estanho-carreiras-kathu-rassada-ilha-de-phuket-tailandia",
+        "nome": "Corredor Patrimonial do Estanho e Carreiras Navais: Kathu Mining Museum – Phuket Old Town – Porto de Rassada (Phuket)",
+        "status": "operacao",
+        "extensao_km": 9.5,
+        "cor": "#ff8f00"
+      },
+      {
+        "id": "linha-barco-ferry-donsak-nathon-lipa-noi-koh-samui-tailandia",
+        "nome": "Ferry do Golfo da Tailândia: Donsak Pier (Continente) – Lipa Noi / Nathon Pier (Ilha de Koh Samui, Tailândia)",
+        "status": "operacao",
+        "extensao_km": 33.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "funicular-muong-hoa-teleferico-hon-thom-trilhos-phu-quoc-cat-ba-vietna",
+    "slug": "funicular-muong-hoa-teleferico-hon-thom-trilhos-phu-quoc-cat-ba-vietna",
+    "nome_pt": "Bondes Elétricos, Trilhos Portuários e Ferries Rápidos da Ilha de Phu Quoc e Ilha de Cat Ba (Vietnã)",
+    "nome_en": "Electric Trams, Port Rail Tracks & High-Speed Ferries of Phu Quoc Island & Cat Ba Island (Vietnam)",
+    "pais": "Ilha de Phu Quoc e Ilha de Cat Ba (Vietnã)",
+    "cidade": "Duong Dong / An Thoi (Ilha de Phu Quoc) e Cat Ba Town (Baía de Ha Long / Lan Ha)",
+    "uf": "PQC",
+    "tipo": "vlt",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Sun World Hon Thom / VinBus & Superdong / Phu Quoc Express High-Speed Ferries",
+    "inauguracao": "2018 (Complexo An Thoi – Hon Thom e terminais de ferries rápidos de Bai Vong em Phu Quoc e Cat Ba)",
+    "extensao_km": 56.4,
+    "bitola": "1000 mm (carreiras portuárias e trilhos de apoio de An Thoi / Hon Thom e Cat Ba) + Hidrovias Rápidas do Golfo da Tailândia",
+    "eletrificacao": "Tração elétrica em Sunset Town / Grand World Phu Quoc + Catamarãs rápidos de duplo casco",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 16200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 420 milhões (infraestrutura de transporte de Sunset Town / An Thoi – Hon Thom, Linha 1 do VLT de Phu Quoc para a APEC 2027 e terminais de Bai Vong)",
+      "moeda": "USD",
+      "fonte_id": "vietnam-maritime-phu-quoc-cat-ba"
+    },
+    "proximas_entregas": {
+      "pt": "Construção da Linha 1 do VLT Urbano de Phu Quoc (Aeroporto Internacional de Phu Quoc – Duong Dong – An Thoi) para a Cúpula da APEC 2027.",
+      "en": "Construction of Phu Quoc Urban LRT Line 1 (Phu Quoc International Airport – Duong Dong – An Thoi) ahead of the APEC 2027 Summit."
+    },
+    "resumo_pt": "Na Ilha de Phu Quoc (a maior ilha do Vietnã, no Golfo da Tailândia) e na Ilha de Cat Ba (Reserva da Biosfera da UNESCO junto à Baía de Ha Long), o transporte combina os corredores elétricos e estações monumentais de An Thoi / Sunset Town – Ilha de Hon Thom e Grand World com a intensa malha de catamarãs de alta velocidade (Phu Quoc Express e Superdong) que conectam o continente (Ha Tien e Rach Gia) ao Porto de Bai Vong em Phu Quoc.",
+    "resumo_en": "On Phu Quoc Island (Vietnam's largest island) and Cat Ba Island (Ha Long / Lan Ha Bay UNESCO Biosphere Reserve), electric transit corridors at An Thoi / Sunset Town – Hon Thom Island operate alongside high-speed catamaran ferries linking Ha Tien and Rach Gia to Bai Vong Port.",
+    "lat": 10.0325,
+    "lon": 104.0085,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "vietnam-maritime-phu-quoc-cat-ba",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de phu quoc",
+      "hon thom",
+      "an thoi",
+      "ilha de cat ba",
+      "vietnã",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/An_Thoi_Station_Phu_Quoc.jpg/800px-An_Thoi_Station_Phu_Quoc.jpg",
+      "credito": "Wikimedia Commons — Estação de An Thoi / Sunset Town e travessia para Hon Thom na Ilha de Phu Quoc (Vietnã)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Phu_Quoc"
+    },
+    "linhas": [
+      {
+        "id": "linha-corredor-an-thoi-hon-thom-phu-quoc-vietna",
+        "nome": "Eixo Insular Sul de Phu Quoc: Estação An Thoi (Sunset Town) – Hon Dua – Ilha de Hon Thom (Phu Quoc, Vietnã)",
+        "status": "operacao",
+        "extensao_km": 7.9,
+        "cor": "#00c853"
+      },
+      {
+        "id": "linha-barco-ha-tien-bai-vong-phu-quoc-express-vietna",
+        "nome": "Hidrovia Rápida do Golfo da Tailândia: Porto de Ha Tien (Continente) – Terminal Hidroviário de Bai Vong (Ilha de Phu Quoc, Vietnã)",
+        "status": "operacao",
+        "extensao_km": 48.5,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "trilhos-navais-mactan-cebu-palawan-coron-boracay-filipinas",
+    "slug": "trilhos-navais-mactan-cebu-palawan-coron-boracay-filipinas",
+    "nome_pt": "Carreiras Navais sobre Trilhos e Travessias de Barcas da Ilha de Mactan (Cebu), Palawan e Boracay (Filipinas)",
+    "nome_en": "Naval Slipway Railways & Ferry Crossings of Mactan Island (Cebu), Palawan & Boracay (Philippines)",
+    "pais": "Ilha de Mactan (Cebu), Palawan e Boracay (Filipinas)",
+    "cidade": "Lapu-Lapu City (Ilha de Mactan / Cebu), Puerto Princesa / Coron (Palawan) e Malay (Boracay)",
+    "uf": "CEB",
+    "tipo": "trem_convencional",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Cebu Port Authority (CPA) / Metro Ferry & Topline Express Ferries (Canal de Mactan) / Caticlan–Boracay & Palawan Ferries",
+    "inauguracao": "1905 (Estaleiros e carreiras navais sobre trilhos do Canal de Mactan / Opon e ferrovias insulares de Cebu)",
+    "extensao_km": 8.4,
+    "bitola": "1067 mm (Bitola do Cabo nos estaleiros navais do Canal de Mactan) + Travessia Hidroviária Cebu–Mactan e Caticlan–Boracay",
+    "eletrificacao": "Guinchos elétricos navais de carreira e ferries urbanos do Canal de Mactan",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 18500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "PHP 4,8 bilhões (modernização dos terminais hidroviários de Mactan Wharf / Pier 1 em Cebu, Caticlan–Cagban em Boracay e Porto de Coron em Palawan)",
+      "moeda": "PHP",
+      "fonte_id": "ppa-marina-cebu-mactan-palawan-ph"
+    },
+    "proximas_entregas": {
+      "pt": "Integração intermodal entre o Cebu Bus Rapid Transit (CBRT), os terminais de ferries do Canal de Mactan e o Aeroporto Internacional de Mactan-Cebu.",
+      "en": "Intermodal integration between the Cebu Bus Rapid Transit (CBRT), Mactan Channel ferry terminals and Mactan-Cebu International Airport."
+    },
+    "resumo_pt": "Na Ilha de Mactan (Lapu-Lapu City, conectada à metrópole de Cebu e sede do segundo maior aeroporto das Filipinas), nos arquipélagos de Palawan (Puerto Princesa, El Nido e Coron) e na Ilha de Boracay, os estaleiros de reparo naval sobre trilhos pesados do Canal de Mactan operam lado a lado com o intenso serviço diário de barcas urbanas (Metro Ferry e Topline Express) entre o Pier 1 / Pier 3 de Cebu City e o Mactan Wharf em Lapu-Lapu City, além da travessia contínua de barcas entre Caticlan e Cagban Jetty Port em Boracay.",
+    "resumo_en": "On Mactan Island (Lapu-Lapu City, Metro Cebu), Palawan and Boracay in the Philippines, heavy marine railway slipways along the Mactan Channel operate alongside high-frequency urban ferries connecting Cebu City Pier 1/3 to Mactan Wharf and Caticlan to Cagban Port on Boracay Island.",
+    "lat": 10.3125,
+    "lon": 123.9485,
+    "zoom_inicial": 12.8,
+    "fontes": [
+      "ppa-marina-cebu-mactan-palawan-ph",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "ilha de mactan",
+      "cebu",
+      "lapu-lapu",
+      "palawan",
+      "boracay",
+      "filipinas",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mactan_Channel_and_Marcelo_Fernan_Bridge.jpg/800px-Mactan_Channel_and_Marcelo_Fernan_Bridge.jpg",
+      "credito": "Wikimedia Commons — Canal de Mactan, estaleiros e travessia hidroviária entre Cebu City e a Ilha de Mactan (Filipinas)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Mactan"
+    },
+    "linhas": [
+      {
+        "id": "linha-carreiras-navais-canal-de-mactan-lapu-lapu-cebu-filipinas",
+        "nome": "Corredor Naval e Estaleiros sobre Trilhos do Canal de Mactan (Opon / Lapu-Lapu City – Ponte Marcelo Fernan, Ilha de Mactan)",
+        "status": "operacao",
+        "extensao_km": 4.2,
+        "cor": "#ff8f00"
+      },
+      {
+        "id": "linha-barco-mactan-ferry-cebu-pier1-lapu-lapu-wharf-filipinas",
+        "nome": "Travessia Hidroviária do Canal de Mactan: Cebu City (Pier 1 / Pier 3) – Mactan Wharf (Lapu-Lapu City, Ilha de Mactan)",
+        "status": "operacao",
+        "extensao_km": 4.2,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
