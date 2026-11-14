@@ -25739,6 +25739,226 @@
           35.3418
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "anel-ferroviario-alta-velocidade-hainan-haikou-meilan-qionghai-sanya-danzhou",
+        "nome": "Estação de Haikou East & Aeroporto Internacional de Meilan (Anel TAV de Hainan, China)",
+        "linha": "Anel Circular de Alta Velocidade de Hainan (Arco Leste 250 km/h Haikou – Meilan – Bo'ao – Sanya & Arco Oeste 200 km/h Sanya – Dongfang – Danzhou – Haikou)",
+        "status": "operacao",
+        "integracoes": [
+          "Aeroporto Internacional de Haikou Meilan",
+          "Trem Suburbano de Haikou"
+        ],
+        "sistema_nome_pt": "Anel Ferroviário Circular de Alta Velocidade da Ilha de Hainan (Hainan Ring High-Speed Railway: Haikou – Meilan – Bo'ao – Sanya – Danzhou, China Insular)",
+        "sistema_nome_en": "Hainan Island Circular High-Speed Railway Ring (Eastern & Western Loops: Haikou – Meilan – Bo'ao – Sanya – Danzhou, Insular China)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3365,
+          20.0255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "anel-ferroviario-alta-velocidade-hainan-haikou-meilan-qionghai-sanya-danzhou",
+        "nome": "Estação Central de Sanya & Aeroporto Internacional de Phoenix (Junção Sul do Anel TAV de Hainan)",
+        "linha": "Anel Circular de Alta Velocidade de Hainan (Arco Leste 250 km/h Haikou – Meilan – Bo'ao – Sanya & Arco Oeste 200 km/h Sanya – Dongfang – Danzhou – Haikou)",
+        "status": "operacao",
+        "integracoes": [
+          "VLT Sem Catenária de Sanya Linha T1",
+          "Aeroporto Internacional de Sanya Phoenix"
+        ],
+        "sistema_nome_pt": "Anel Ferroviário Circular de Alta Velocidade da Ilha de Hainan (Hainan Ring High-Speed Railway: Haikou – Meilan – Bo'ao – Sanya – Danzhou, China Insular)",
+        "sistema_nome_en": "Hainan Island Circular High-Speed Railway Ring (Eastern & Western Loops: Haikou – Meilan – Bo'ao – Sanya – Danzhou, Insular China)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.4965,
+          18.2885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vlt-bonde-sem-catenaria-sanya-linha-t1-estacao-sanya-jianfenglu-ilha-de-hainan",
+        "nome": "Estação Jianfenglu — Baía de Sanya (Terminal Sul do VLT Sem Catenária de Sanya, Hainan)",
+        "linha": "VLT Sem Catenária de Sanya Linha T1 (Sanya Railway Station – Yuhai Road – Sanya River – Jianfenglu, Hainan)",
+        "status": "operacao",
+        "integracoes": [
+          "Orla de Sanya Bay",
+          "Centro Comercial de Jiefang Road"
+        ],
+        "sistema_nome_pt": "VLT / Bonde Sem Catenária de Sanya Linha T1 (Estação Ferroviária de Sanya – Baía de Sanya – Jianfenglu, Ilha de Hainan)",
+        "sistema_nome_en": "Sanya Catenary-Free Tramway Line T1 (Sanya Railway Station – Sanya Bay – Jianfenglu, Hainan Island)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5085,
+          18.2485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilho-urbano-okinawa-yui-rail-aeroporto-naha-shuri-tedako-uranishi-ryukyu",
+        "nome": "Estação Naha Airport & Akamine (Estações Mais a Oeste e Mais ao Sul do Japão — Yui Rail, Okinawa)",
+        "linha": "Monotrilho Urbano de Okinawa 'Yui Rail' (Naha Airport – Akamine – Kenchō-mae – Omoromachi – Shuri – Tedako-Uranishi)",
+        "status": "operacao",
+        "integracoes": [
+          "Aeroporto Internacional de Naha",
+          "Marco Monumental da Estação Mais a Oeste e Mais ao Sul do Japão"
+        ],
+        "sistema_nome_pt": "Monotrilho Urbano de Okinawa 'Yui Rail' (Aeroporto de Naha – Akamine – Kenchō-mae – Castelo de Shuri – Tedako-Uranishi, Arquipélago de Ryukyu, Japão)",
+        "sistema_nome_en": "Okinawa Urban Monorail 'Yui Rail' (Naha Airport – Akamine – Kenchō-mae – Shuri Castle – Tedako-Uranishi, Ryukyu Archipelago, Japan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6522,
+          26.2065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "monotrilho-urbano-okinawa-yui-rail-aeroporto-naha-shuri-tedako-uranishi-ryukyu",
+        "nome": "Estação Shuri & Tedako-Uranishi (Castelo Real de Shuri UNESCO, Ilha de Okinawa)",
+        "linha": "Monotrilho Urbano de Okinawa 'Yui Rail' (Naha Airport – Akamine – Kenchō-mae – Omoromachi – Shuri – Tedako-Uranishi)",
+        "status": "operacao",
+        "integracoes": [
+          "Castelo de Shuri do Reino de Ryukyu (UNESCO)",
+          "Terminal Intermodal de Urasoe"
+        ],
+        "sistema_nome_pt": "Monotrilho Urbano de Okinawa 'Yui Rail' (Aeroporto de Naha – Akamine – Kenchō-mae – Castelo de Shuri – Tedako-Uranishi, Arquipélago de Ryukyu, Japão)",
+        "sistema_nome_en": "Okinawa Urban Monorail 'Yui Rail' (Naha Airport – Akamine – Kenchō-mae – Shuri Castle – Tedako-Uranishi, Ryukyu Archipelago, Japan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7255,
+          26.2195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-florestal-ecoland-gotjawal-hallasan-trilhos-turisticos-ilha-de-jeju",
+        "nome": "Estação Principal de EcoLand Gotjawal (Rotunda Ferroviária Florestal da Ilha de Jeju, Coreia do Sul)",
+        "linha": "Circuito Ferroviário Florestal de EcoLand (Main Station – Eco Bridge – Lake Side – Picnic Garden – Lavender & Green Tea Station, Ilha de Jeju)",
+        "status": "operacao",
+        "integracoes": [
+          "Reserva Florestal Vulcânica de Gotjawal",
+          "Parque Nacional de Hallasan (UNESCO)"
+        ],
+        "sistema_nome_pt": "Ferrovia Florestal de Bitola Estreita de EcoLand (Floresta Vulcânica de Gotjawal – Monte Hallasan, Ilha de Jeju, Coreia do Sul)",
+        "sistema_nome_en": "EcoLand Narrow-Gauge Forest Railway (Gotjawal Volcanic Forest – Mount Hallasan, Jeju Island, South Korea)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6665,
+          33.4465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-florestal-ecoland-gotjawal-hallasan-trilhos-turisticos-ilha-de-jeju",
+        "nome": "Estação Lake Side & Eco Bridge (Lago Vulcânico de EcoLand, Jeju)",
+        "linha": "Circuito Ferroviário Florestal de EcoLand (Main Station – Eco Bridge – Lake Side – Picnic Garden – Lavender & Green Tea Station, Ilha de Jeju)",
+        "status": "operacao",
+        "integracoes": [
+          "Ponte Ferroviária sobre o Lago EcoLand",
+          "Trilha Ecológica de Jocheon"
+        ],
+        "sistema_nome_pt": "Ferrovia Florestal de Bitola Estreita de EcoLand (Floresta Vulcânica de Gotjawal – Monte Hallasan, Ilha de Jeju, Coreia do Sul)",
+        "sistema_nome_en": "EcoLand Narrow-Gauge Forest Railway (Gotjawal Volcanic Forest – Mount Hallasan, Jeju Island, South Korea)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6735,
+          33.4525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-subterraneas-granito-zhaishan-qionglin-kinmen-porto-magong-penghu",
+        "nome": "Terminal Subterrâneo do Túnel Naval de Granito de Zhaishan & Forte de Lion Mountain (Ilha de Kinmen)",
+        "linha": "Vias Subterrâneas dos Túneis de Granito de Zhaishan e Lion Mountain (Ilha de Kinmen) & Píer de Magong (Penghu)",
+        "status": "operacao",
+        "integracoes": [
+          "Parque Nacional de Kinmen",
+          "Píer de Shuitou (Balsa Rápida Kinmen–Xiamen)"
+        ],
+        "sistema_nome_pt": "Vias Férreas Subterrâneas dos Túneis de Granito de Zhaishan e Forte de Lion Mountain (Ilha de Kinmen) e Trilhos Portuários de Magong (Arquipélago de Penghu)",
+        "sistema_nome_en": "Zhaishan Underground Granite Tunnel & Lion Mountain Artillery Rail Tracks (Kinmen Island) & Magong Port Rail Tracks (Penghu Archipelago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.3195,
+          24.3895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sistema-guiado-funicular-hon-thom-bonde-grand-world-sunset-town-ilha-de-phu-quoc",
+        "nome": "Estação Coliseu de An Thới — Sunset Town (Ilha de Phú Quốc, Vietnã)",
+        "linha": "Funicular e Sistema Guiado de Sunset Town – An Thới – Ilha de Hon Thom & Corredor de Grand World (Ilha de Phú Quốc)",
+        "status": "operacao",
+        "integracoes": [
+          "Ponte Kiss Bridge de Sunset Town",
+          "Terminal Marítimo de An Thới"
+        ],
+        "sistema_nome_pt": "Funicular e Sistema Guiado de Sunset Town – Hon Thom (An Thới) e Corredor Urbano de Grand World (Ilha de Phú Quốc, Vietnã — Sistema Operacional Nº 590 do Atlas!)",
+        "sistema_nome_en": "Sunset Town – Hon Thom Funicular & Guided Transit System (An Thới) and Grand World Urban Rail Corridor (Phú Quốc Island, Vietnam — Operational System #590!)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0065,
+          10.0325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "sistema-guiado-funicular-hon-thom-bonde-grand-world-sunset-town-ilha-de-phu-quoc",
+        "nome": "Estação Terminal da Ilha de Hon Thom (Arquipélago de An Thới, Phú Quốc — Estação Nº 1.220 do Atlas!)",
+        "linha": "Funicular e Sistema Guiado de Sunset Town – An Thới – Ilha de Hon Thom & Corredor de Grand World (Ilha de Phú Quốc)",
+        "status": "operacao",
+        "integracoes": [
+          "Funicular de Hon Thom",
+          "Parque Marinho do Sul de Phú Quốc"
+        ],
+        "sistema_nome_pt": "Funicular e Sistema Guiado de Sunset Town – Hon Thom (An Thới) e Corredor Urbano de Grand World (Ilha de Phú Quốc, Vietnã — Sistema Operacional Nº 590 do Atlas!)",
+        "sistema_nome_en": "Sunset Town – Hon Thom Funicular & Guided Transit System (An Thới) and Grand World Urban Rail Corridor (Phú Quốc Island, Vietnam — Operational System #590!)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0165,
+          9.9565
+        ]
+      }
     }
   ]
 }
