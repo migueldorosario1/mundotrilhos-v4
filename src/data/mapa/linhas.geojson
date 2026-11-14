@@ -29393,6 +29393,216 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mineradora-laloki-bootless-bay-port-moresby-papua-nova-guine",
+        "linha": "Ferrovia Mineradora Laloki / Sapphire Creek – Fundição e Píer de Tahira em Bootless Bay (Port Moresby, Papua-Nova Guiné)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Mineradora de Cobre e Ouro de Laloki – Sapphire Creek – Bootless Bay (Port Moresby, Papua-Nova Guiné)",
+        "sistema_nome_en": "Laloki – Sapphire Creek – Bootless Bay Copper & Gold Mining Railway (Port Moresby, Papua New Guinea)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.2725,
+            -9.5145
+          ],
+          [
+            147.2925,
+            -9.4725
+          ],
+          [
+            147.3485,
+            -9.4245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-lae-motukea-ferrovias-historicas-rabaul-kokopo-papua-nova-guine",
+        "linha": "Vias Férreas Portuárias de Lae Tidal Basin / Motukea e Trilhos de Rabaul (Papua-Nova Guiné)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Lae Tidal Basin e Motukea Island e Trilhos Históricos de Rabaul / Kokopo (Papua-Nova Guiné)",
+        "sistema_nome_en": "Lae Tidal Basin & Motukea International Container Terminals Rail Tracks & Rabaul / Kokopo Heritage Rails (Papua New Guinea)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.9805,
+            -6.7405
+          ],
+          [
+            146.9845,
+            -6.7385
+          ],
+          [
+            146.9925,
+            -6.7345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "guadalcanal-railway-honiara-port-tulagi-gold-ridge-ilhas-salomao",
+        "linha": "Guadalcanal Railway (Point Cruz / Porto de Honiara – Kukum – Lunga Point, Ilhas Salomão)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Guadalcanal Railway (Lunga Point – Kukum – Point Cruz / Honiara) e Vias Férreas Portuárias de Honiara e Noro (Ilhas Salomão)",
+        "sistema_nome_en": "Guadalcanal Railway (Lunga Point – Kukum – Point Cruz / Honiara) & Honiara / Noro Port Rail Systems (Solomon Islands)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            159.9545,
+            -9.4285
+          ],
+          [
+            159.9885,
+            -9.4265
+          ],
+          [
+            160.0245,
+            -9.4185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-plantacoes-portuarias-efate-port-vila-forari-luganville-espiritu-santo-vanuatu",
+        "linha": "Vias Férreas Portuárias de Port Vila (Lapetasi Wharf) e Ferrovia Mineradora de Manganês de Forari (Ilha de Éfaté, Vanuatu)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Mineradora de Manganês de Forari (Éfaté), Plantações de Mele/Epi e Vias Portuárias de Port Vila e Luganville (Vanuatu)",
+        "sistema_nome_en": "Forari Manganese Mining Railway (Éfaté), Mele/Epi Plantation Tramways & Port Vila / Luganville Wharf Rail Tracks (Vanuatu)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            168.3125,
+            -17.7485
+          ],
+          [
+            168.4225,
+            -17.7185
+          ],
+          [
+            168.5445,
+            -17.6845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fosfato-ilha-makatea-temao-moumu-arquipelago-tuamotu-polinesia-francesa",
+        "linha": "Ferrovia e Plano Inclinado de Fosfato da Ilha de Makatea (Porto de Temao – Vaitepaua – Moumu, Polinésia Francesa)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Patrimonial de Fosfato da Ilha de Makatea (Porto de Temao – Planalto de Vaitepaua – Moumu, Tuamotu, Polinésia Francesa)",
+        "sistema_nome_en": "Makatea Island Phosphate Heritage Railway & Inclined Plane (Temao Harbour – Vaitepaua Plateau – Moumu, Tuamotu, French Polynesia)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -148.2785,
+            -15.8225
+          ],
+          [
+            -148.2685,
+            -15.8285
+          ],
+          [
+            -148.2485,
+            -15.8385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-papeete-motu-uta-fare-ute-taiti-polinesia-francesa",
+        "linha": "Vias Férreas Portuárias e Navais de Motu Uta e Fare Ute (Porto de Papeete, Taiti, Polinésia Francesa)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias e Navais do Porto Autônomo de Papeete (Motu Uta & Estaleiro Naval de Fare Ute, Taiti, Polinésia Francesa)",
+        "sistema_nome_en": "Port of Papeete Container Terminal (Motu Uta) & Fare Ute Naval Shipyard Rail System (Tahiti, French Polynesia)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -149.5785,
+            -17.5305
+          ],
+          [
+            -149.5745,
+            -17.5325
+          ],
+          [
+            -149.5685,
+            -17.5365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fosfato-banaba-ocean-island-tabiang-tapiwa-tarawa-kiribati",
+        "linha": "Banaba / Ocean Island Phosphate Railway (Home Bay / Uma – Tabiang – Tapiwa, Kiribati)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Banaba / Ocean Island Phosphate Railway (Home Bay / Uma – Tabiang – Tapiwa) e Vias Portuárias de Betio em Tarawa (Kiribati — Sistema em Operação Nº 500!)",
+        "sistema_nome_en": "Banaba / Ocean Island Phosphate Railway (Home Bay / Uma – Tabiang – Tapiwa) & Betio Container Port Tracks in Tarawa (Kiribati)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            169.5285,
+            -0.8645
+          ],
+          [
+            169.5345,
+            -0.8595
+          ],
+          [
+            169.5445,
+            -0.8525
+          ]
+        ]
+      }
     }
   ]
 }
