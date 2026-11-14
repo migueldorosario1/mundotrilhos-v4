@@ -20892,6 +20892,226 @@
           14.9685
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-vaticana-stazione-citta-del-vaticano-roma-san-pietro-cidade-do-vaticano",
+        "nome": "Stazione di Città del Vaticano (Estação Ferroviária Papal dos Jardins do Vaticano, Cidade do Vaticano)",
+        "linha": "Ferrovia Vaticana",
+        "status": "operacao",
+        "integracoes": [
+          "Jardins do Vaticano e Basílica de São Pedro",
+          "Treno delle Ville Pontificie (Castel Gandolfo)"
+        ],
+        "sistema_nome_pt": "Ferrovia Vaticana (Stazione Città del Vaticano – Viaduto Gelsomino – Roma San Pietro — A Menor Rede Ferroviária Nacional Soberana do Mundo)",
+        "sistema_nome_en": "Vatican Railway (Stazione Città del Vaticano to Roma San Pietro — World's Shortest National Railway System, Vatican City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4495,
+          41.9005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-vaticana-stazione-citta-del-vaticano-roma-san-pietro-cidade-do-vaticano",
+        "nome": "Portal Ferroviário da Muralha Leonina & Viaduto Gelsomino (Fronteira Ferroviária Vaticano–Itália)",
+        "linha": "Ferrovia Vaticana",
+        "status": "operacao",
+        "integracoes": [
+          "Estação FS Roma San Pietro (FL3 / FL5)",
+          "Passeggiata del Gelsomino"
+        ],
+        "sistema_nome_pt": "Ferrovia Vaticana (Stazione Città del Vaticano – Viaduto Gelsomino – Roma San Pietro — A Menor Rede Ferroviária Nacional Soberana do Mundo)",
+        "sistema_nome_en": "Vatican Railway (Stazione Città del Vaticano to Roma San Pietro — World's Shortest National Railway System, Vatican City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4512,
+          41.8988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-eletrica-rimini-san-marino-treno-bianco-azzurro-funivia-borgo-maggiore-san-marino",
+        "nome": "Estação Galleria Montale — Treno Bianco Azzurro (Automotriz Elétrica AB-03 em Città di San Marino, San Marino)",
+        "linha": "Treno Bianco Azzurro & Funivia Borgo Maggiore – Monte Titano",
+        "status": "operacao",
+        "integracoes": [
+          "Centro Histórico UNESCO de San Marino",
+          "Piazzale della Stazione"
+        ],
+        "sistema_nome_pt": "Ferrovia Elétrica Histórica de San Marino ('Treno Bianco Azzurro' — Galleria Montale e Funivia Borgo Maggiore – Città di San Marino)",
+        "sistema_nome_en": "San Marino Historic Electric Railway 'Treno Bianco Azzurro' Galleria Montale & Funivia Borgo Maggiore – Monte Titano (San Marino)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.448,
+          43.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-eletrica-rimini-san-marino-treno-bianco-azzurro-funivia-borgo-maggiore-san-marino",
+        "nome": "Estação de Borgo Maggiore (Funivia di San Marino & Antiga Estação Ferroviária SVEF, San Marino)",
+        "linha": "Treno Bianco Azzurro & Funivia Borgo Maggiore – Monte Titano",
+        "status": "operacao",
+        "integracoes": [
+          "Funivia Borgo Maggiore – Città di San Marino",
+          "Centro Histórico de Borgo Maggiore"
+        ],
+        "sistema_nome_pt": "Ferrovia Elétrica Histórica de San Marino ('Treno Bianco Azzurro' — Galleria Montale e Funivia Borgo Maggiore – Città di San Marino)",
+        "sistema_nome_en": "San Marino Historic Electric Railway 'Treno Bianco Azzurro' Galleria Montale & Funivia Borgo Maggiore – Monte Titano (San Marino)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4495,
+          43.9415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "conexao-ferroviaria-andorra-lhospitalet-pres-landorre-funicamp-encamp-vallnord-andorra",
+        "nome": "Estação Ferroviária e Hidrelétrica d'Engolasters / Funicamp d'Encamp (MW Museu de l'Electricitat FEDA, Andorra)",
+        "linha": "Ferrovia Hidrelétrica e Funicular d'Engolasters",
+        "status": "operacao",
+        "integracoes": [
+          "Camí Hidroelèctric d'Engolasters (FEDA)",
+          "Terminal Funicamp d'Encamp"
+        ],
+        "sistema_nome_pt": "Sistemas Guiados de Montanha de Andorra e Conexão Ferroviária Andorra-L'Hospitalet (Ferrovia Hidrelétrica d'Engolasters e Funicamp d'Encamp, Andorra)",
+        "sistema_nome_en": "Andorra Guided Mountain Transit & Andorra-L'Hospitalet Rail Gateway (Engolasters Hydro Electric Railway & Funicamp Encamp, Andorra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5835,
+          42.5335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "malta-railway-il-vapur-tal-art-valletta-birkirkara-mdina-grand-harbour-dockyard-malta",
+        "nome": "Estação e Jardim Ferroviário de Birkirkara (Vagão Original de 3ª Classe da Malta Railway, Malta)",
+        "linha": "Corredor Patrimonial Malta Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Birkirkara Railway Station Museum",
+          "Malta Public Transport Hub Birkirkara"
+        ],
+        "sistema_nome_pt": "Malta Railway ('Il-Vapur tal-Art' — Corredor Patrimonial Valletta – Floriana – Birkirkara – Attard – Mdina e Vias Portuárias de Marsaxlokk / Grand Harbour, Malta)",
+        "sistema_nome_en": "Malta Railway 'Il-Vapur tal-Art' Heritage Corridor Valletta – Birkirkara – Mdina & Malta Freeport / Grand Harbour Dockyard Rails (Malta)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4625,
+          35.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "malta-railway-il-vapur-tal-art-valletta-birkirkara-mdina-grand-harbour-dockyard-malta",
+        "nome": "Estação Subterrânea de Valletta & Museum Station de Mdina (Malta Railway Heritage, Malta)",
+        "linha": "Corredor Patrimonial Malta Railway",
+        "status": "operacao",
+        "integracoes": [
+          "City Gate Valletta",
+          "Túnel Ferroviário de Floriana / Mdina"
+        ],
+        "sistema_nome_pt": "Malta Railway ('Il-Vapur tal-Art' — Corredor Patrimonial Valletta – Floriana – Birkirkara – Attard – Mdina e Vias Portuárias de Marsaxlokk / Grand Harbour, Malta)",
+        "sistema_nome_en": "Malta Railway 'Il-Vapur tal-Art' Heritage Corridor Valletta – Birkirkara – Mdina & Malta Freeport / Grand Harbour Dockyard Rails (Malta)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5095,
+          35.8968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cyprus-government-railway-famagusta-nicosia-morphou-evrykhou-museum-chipre",
+        "nome": "Estação e Museu Ferroviário de Chipre em Evrykhou (Cyprus Railways Museum, Vale de Solea, Chipre)",
+        "linha": "Corredor Patrimonial Cyprus Government Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Cyprus Railways Museum (Department of Antiquities)",
+          "Trilha Cultural das Montanhas Troodos"
+        ],
+        "sistema_nome_pt": "Cyprus Government Railway (Corredor Patrimonial e Museu Ferroviário de Evrykhou – Morphou – Nicósia – Famagusta, Chipre)",
+        "sistema_nome_en": "Cyprus Government Railway Heritage Corridor & Cyprus Railways Museum at Evrykhou – Nicosia – Famagusta (Cyprus)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9025,
+          35.0425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "cyprus-government-railway-famagusta-nicosia-morphou-evrykhou-museum-chipre",
+        "nome": "Antiga Estação Central de Famagusta & Locomotiva a Vapor Kitson nº 1 (Cyprus Government Railway, Chipre)",
+        "linha": "Corredor Patrimonial Cyprus Government Railway",
+        "status": "operacao",
+        "integracoes": [
+          "Locomotiva Histórica CGR nº 1 (1904)",
+          "Porto de Famagusta"
+        ],
+        "sistema_nome_pt": "Cyprus Government Railway (Corredor Patrimonial e Museu Ferroviário de Evrykhou – Morphou – Nicósia – Famagusta, Chipre)",
+        "sistema_nome_en": "Cyprus Government Railway Heritage Corridor & Cyprus Railways Museum at Evrykhou – Nicosia – Famagusta (Cyprus)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.941,
+          35.1185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-mineradoras-cobre-mavrovouni-skouriotissa-xeros-vassiliko-limassol-chipre",
+        "nome": "Complexo Ferroviário Minerador de Skouriotissa / Xeros e Locomotiva de Kalavasos (Estação 1.000 do Atlas Mundial, Chipre)",
+        "linha": "Corredores Ferroviários Mineradores de Cobre e Pirita de Skouriotissa – Xeros",
+        "status": "operacao",
+        "integracoes": [
+          "Mina de Cobre de Skouriotissa",
+          "Parque Ferroviário Minerador de Kalavasos e Porto de Vasiliko"
+        ],
+        "sistema_nome_pt": "Ferrovias Mineradoras de Cobre e Pirita de Skouriotissa / Mavrovouni – Porto de Xeros, Kalavasos – Vasiliko e Pátio Portuário de Limassol (Chipre)",
+        "sistema_nome_en": "Cyprus Mines Corporation Copper Railways Skouriotissa – Xeros Pier, Kalavasos – Vasiliko & Limassol Port Crane Tracks (Cyprus)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8515,
+          35.1385
+        ]
+      }
     }
   ]
 }
