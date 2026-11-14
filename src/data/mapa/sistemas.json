@@ -25643,5 +25643,401 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+    "slug": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+    "nome_pt": "Washington State Ferries (Seattle / Puget Sound), San Francisco Bay Ferry & Golden Gate Ferry (Califórnia) e Alaska Marine Highway (EUA)",
+    "nome_en": "Washington State Ferries (Seattle / Puget Sound), San Francisco Bay Ferry & Golden Gate Ferry (California) & Alaska Marine Highway System (USA)",
+    "pais": "Estados Unidos",
+    "cidade": "Seattle, Bainbridge Island, Bremerton, São Francisco, Oakland, Sausalito, Larkspur, Juneau e Ketchikan",
+    "uf": "WA / CA / AK",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Washington State Ferries (WSDOT) / Kitsap Transit, San Francisco Bay Ferry (WETA) / Golden Gate Bridge District & Alaska Marine Highway System (AMHS)",
+    "inauguracao": "1951 (Fundação oficial da estatal Washington State Ferries em Puget Sound) / 1963 (Alaska Marine Highway)",
+    "extensao_km": 1887.0,
+    "bitola": "Estuário de Puget Sound (Washington), Baía de São Francisco (Califórnia) e Passagem Interior do Alasca (Inside Passage)",
+    "eletrificacao": "Megafarries rodofluviais em conversão híbrido-elétrica (Classe Jumbo Mark II / Olympic da WSF em Seattle), catamarãs rápidos de baixa emissão (SF Bay Ferry / Kitsap Fast Ferries) e navios oceânicos AMHS",
+    "n_linhas": 3,
+    "n_estacoes": 4,
+    "passageiros_dia": 115000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 3,98 bilhões (Programa System Electrification da Washington State Ferries para 16 novos ferries híbrido-elétricos, reconstrução do Colman Dock em Seattle e barcas rápidas elétricas na Baía de São Francisco)",
+      "moeda": "USD",
+      "fonte_id": "wsdot-wsf-sf-bay-ferry-amhs-eua"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação dos ferries convertidos para propulsão híbrido-elétrica na rota Seattle–Bainbridge Island e dos primeiros catamarãs rápidos 100% elétricos da WETA na Baía de São Francisco.",
+      "en": "Deployment of hybrid-electric converted Jumbo Mark II ferries on the Seattle–Bainbridge route and WETA's first battery-electric fast ferries in San Francisco Bay."
+    },
+    "resumo_pt": "A Costa Oeste dos Estados Unidos abriga três dos maiores sistemas públicos de transporte aquaviário das Américas (além do Staten Island Ferry e NYC Ferry na Costa Leste): no estado de Washington, a Washington State Ferries (WSF) opera a maior frota de ferries de veículos e passageiros dos EUA e a segunda maior do mundo em Puget Sound, tendo como coração o novo terminal multimodal Colman Dock (Pier 50/52) no centro de Seattle (conectando a Bainbridge Island, Bremerton e Vashon, ao lado dos catamarãs rápidos do Kitsap Fast Ferries e King County Water Taxi); na Califórnia, os catamarãs do San Francisco Bay Ferry (WETA) e do Golden Gate Ferry partem do histórico Ferry Building no Embarcadero de São Francisco (integrado ao BART, Muni Metro e bondes históricos F-Market) rumo a Sausalito, Tiburon, Larkspur (conexão com o trem regional SMART), Oakland, Alameda e Vallejo; e no Alasca, a lendária Alaska Marine Highway percorre milhares de quilômetros pela Inside Passage conectando comunidades costeiras e insulares sem acesso rodoviário, como Ketchikan, Sitka e a capital estadual Juneau.",
+    "resumo_en": "The U.S. West Coast operates three major public marine transit systems: in Washington State, Washington State Ferries (WSF) runs the nation's largest vehicle-and-passenger ferry fleet across Puget Sound from Seattle's rebuilt Colman Dock (alongside Kitsap Fast Ferries and King County Water Taxi); in the San Francisco Bay Area, WETA's San Francisco Bay Ferry and Golden Gate Ferry high-speed catamarans link the historic San Francisco Ferry Building to Sausalito, Larkspur (SMART rail transfer), Oakland, Alameda and Vallejo; and in Alaska, the Alaska Marine Highway System serves roadless coastal and island communities along the Inside Passage including Ketchikan, Sitka and the state capital Juneau.",
+    "lat": 47.6025,
+    "lon": -122.3385,
+    "zoom_inicial": 4.2,
+    "fontes": [
+      "wsdot-wsf-sf-bay-ferry-amhs-eua",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "seattle",
+      "washington state ferries",
+      "puget sound",
+      "bainbridge island",
+      "são francisco",
+      "san francisco bay ferry",
+      "golden gate ferry",
+      "sausalito",
+      "oakland",
+      "alaska marine highway",
+      "juneau",
+      "estados unidos",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/MV_Tacoma_approaching_Bainbridge_Island.jpg/800px-MV_Tacoma_approaching_Bainbridge_Island.jpg",
+      "credito": "Wikimedia Commons — Ferry da Washington State Ferries navegando em Puget Sound entre Seattle e Bainbridge Island (EUA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Washington_State_Ferries"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-wsf-puget-sound-seattle-bainbridge-bremerton-edmonds-kingston-anacortes",
+        "nome": "Washington State Ferries & Kitsap Fast Ferries (Puget Sound): Seattle Colman Dock (Pier 50/52) – Bainbridge Island / Bremerton & Edmonds – Kingston & Anacortes – San Juan Islands (WA, EUA)",
+        "status": "operacao",
+        "extensao_km": 145.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-san-francisco-bay-ferry-golden-gate-ferry-larkspur-sausalito-vallejo-oakland",
+        "nome": "San Francisco Bay Ferry & Golden Gate Ferry: San Francisco Ferry Building – Sausalito / Tiburon / Larkspur (Trem SMART) – Oakland (Jack London Square) – Alameda – Vallejo (CA, EUA)",
+        "status": "operacao",
+        "extensao_km": 92.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-alaska-marine-highway-inside-passage-bellingham-ketchikan-juneau-haines-skagway",
+        "nome": "Alaska Marine Highway System (Inside Passage): Bellingham (WA) – Ketchikan – Wrangell – Petersburg – Sitka – Juneau (Auke Bay) – Haines – Skagway (AK, EUA)",
+        "status": "operacao",
+        "extensao_km": 1650.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "bc-ferries-seabus-vancouver-stq-quebec-levis-toronto-island-canada",
+    "slug": "bc-ferries-seabus-vancouver-stq-quebec-levis-toronto-island-canada",
+    "nome_pt": "BC Ferries e SeaBus Metropolitano de Vancouver (Colúmbia Britânica), Traversiers du Québec (Québec–Lévis / Tadoussac) e Toronto Island Ferries (Canadá)",
+    "nome_en": "BC Ferries & Metro Vancouver SeaBus (British Columbia), Société des traversiers du Québec (Québec–Lévis / Tadoussac) & Toronto Island Ferries (Canada)",
+    "pais": "Canadá",
+    "cidade": "Vancouver, North Vancouver, Victoria, Nanaimo, Toronto, Cidade de Quebec e Lévis",
+    "uf": "BC / ON / QC",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "BC Ferries, TransLink (SeaBus Vancouver), Société des traversiers du Québec (STQ) & City of Toronto (Toronto Island Ferries)",
+    "inauguracao": "1960 (Inauguração da BC Ferries entre Tsawwassen e Swartz Bay) / 1977 (Inauguração do SeaBus integrado ao SkyTrain em Vancouver)",
+    "extensao_km": 202.0,
+    "bitola": "Estreito de Geórgia e Burrard Inlet (Vancouver/Victoria), Lago Ontário (Toronto) e Rio São Lourenço (Quebec)",
+    "eletrificacao": "Catamarãs urbanos SeaBus, navios híbrido-elétricos Island Class e GNL Salish/Spirit Class da BC Ferries e novos ferries 100% elétricos de Toronto Island",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 110000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "CAD 1,2 bilhão (expansão da frota híbrido-elétrica Island Class da BC Ferries, dois novos ferries 100% elétricos para Toronto Island e navios GNL da STQ no Rio São Lourenço)",
+      "moeda": "CAD",
+      "fonte_id": "bc-ferries-translink-seabus-stq-canada"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em serviço dos dois novos ferries 100% elétricos de passageiros no Jack Layton Ferry Terminal em Toronto e de quatro novos navios Island Class 100% elétricos na BC Ferries.",
+      "en": "Entry into service of two new 100% electric passenger ferries at Toronto's Jack Layton Ferry Terminal and four new battery-electric Island Class vessels at BC Ferries."
+    },
+    "resumo_pt": "O Canadá conta com grandes sistemas de transporte hidroviário de costa a costa: na Colúmbia Britânica, o sistema metropolitano SeaBus da TransLink cruza a cada 10 a 15 minutos o Burrard Inlet entre a Estação Waterfront (integrada às três linhas do metrô automatizado SkyTrain e ao trem West Coast Express no centro de Vancouver) e Lonsdale Quay (North Vancouver), enquanto a gigante BC Ferries conecta os terminais de Tsawwassen e Horseshoe Bay à Ilha de Vancouver (Swartz Bay / Victoria e Nanaimo), às Gulf Islands e à Sunshine Coast com uma das maiores frotas híbridas e a GNL do planeta; em Ontário, o Toronto Island Ferries liga o centro financeiro de Toronto (Jack Layton Ferry Terminal, conectado ao VLT de Queens Quay e à Union Station) ao arquipélago sem carros das Ilhas de Toronto no Lago Ontário; e em Quebec, a estatal Société des traversiers du Québec (STQ) opera 365 dias por ano (quebrando o gelo do Rio São Lourenço no inverno) a famosa travessia urbana entre o centro histórico de Québec e Lévis, além da travessia do fiorde do Rio Saguenay em Tadoussac.",
+    "resumo_en": "Canada operates major passenger ferry networks from coast to coast: in British Columbia, TransLink's high-frequency SeaBus catamaran links Vancouver's Waterfront Station (integrated with SkyTrain and West Coast Express) to Lonsdale Quay in North Vancouver, while BC Ferries connects Metro Vancouver (Tsawwassen and Horseshoe Bay) to Vancouver Island (Victoria/Swartz Bay and Nanaimo) and the Sunshine Coast; in Ontario, Toronto Island Ferries links downtown Toronto's Jack Layton Terminal to the car-free Toronto Islands; and in Quebec, the Société des traversiers du Québec (STQ) runs year-round ice-class commuter ferries across the St. Lawrence River between Old Québec and Lévis and across the Saguenay Fjord at Tadoussac.",
+    "lat": 49.2855,
+    "lon": -123.1115,
+    "zoom_inicial": 4.2,
+    "fontes": [
+      "bc-ferries-translink-seabus-stq-canada",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "vancouver",
+      "seabus",
+      "bc ferries",
+      "victoria",
+      "nanaimo",
+      "toronto",
+      "toronto island ferries",
+      "quebec",
+      "lévis",
+      "rio são lourenço",
+      "canadá",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burrard_Otter_II_SeaBus.jpg/800px-Burrard_Otter_II_SeaBus.jpg",
+      "credito": "Wikimedia Commons — Catamarã urbano SeaBus da TransLink no Burrard Inlet em Vancouver e navios da BC Ferries (Canadá)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:SeaBus"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-bc-ferries-translink-seabus-vancouver-tsawassen-swartz-bay-victoria-nanaimo",
+        "nome": "TransLink SeaBus (Waterfront – Lonsdale Quay) & Rede Costeira BC Ferries: Vancouver (Waterfront / Horseshoe Bay / Tsawwassen) – North Vancouver – Nanaimo – Swartz Bay / Victoria (BC, Canadá)",
+        "status": "operacao",
+        "extensao_km": 138.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-stq-quebec-levis-tadoussac-matane-toronto-island-ferries-canada",
+        "nome": "Traversiers du Québec (Québec–Lévis e Tadoussac no Rio São Lourenço) & Toronto Island Ferries (Jack Layton Terminal – Centre Island / Ward's Island, ON/QC, Canadá)",
+        "status": "operacao",
+        "extensao_km": 64.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "buquebus-colonia-express-rio-da-prata-lanchas-colectivas-delta-do-tigre-argentina-uruguai",
+    "slug": "buquebus-colonia-express-rio-da-prata-lanchas-colectivas-delta-do-tigre-argentina-uruguai",
+    "nome_pt": "Fast-Ferries Internacionais do Rio da Prata (Buquebus & Colonia Express: Buenos Aires–Colônia–Montevidéu) e Lanchas Colectivas do Delta do Tigre (Argentina e Uruguai)",
+    "nome_en": "Río de la Plata International Fast-Ferries (Buquebus & Colonia Express: Buenos Aires–Colonia–Montevideo) & Tigre Delta Commuter Launches (Argentina & Uruguay)",
+    "pais": "Argentina",
+    "cidade": "Buenos Aires, Tigre (Argentina), Colônia do Sacramento e Montevidéu (Uruguai)",
+    "uf": "CABA / Província de Buenos Aires / Colonia / Montevideo",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Buquebus & Colonia Express (Rio da Prata) & Líneas Delta Argentino / Interisleña / Jilguero (Delta do Paraná em Tigre)",
+    "inauguracao": "1930 (Lanchas Colectivas tradicionais de madeira do Delta do Tigre) / 1981 (Início das travessias da Buquebus no Rio da Prata)",
+    "extensao_km": 313.0,
+    "bitola": "Estuário Internacional do Rio da Prata (Buenos Aires–Colônia–Montevidéu) e Malha Fluvial do Delta do Rio Paraná em Tigre",
+    "eletrificacao": "Catamarã de alta velocidade a GNL (HSC Francisco a 58 nós), maior ferry ro-pax 100% elétrico a bateria do mundo (Incat Hull 096 'China Zorrilla' da Buquebus) e tradicionais Lanchas Colectivas de mogno no Delta do Tigre",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 195 milhões (construção do megacatamarã 100% elétrico 'China Zorrilla' de 130 metros e 2.100 passageiros com baterias de 40 MWh para a rota Buenos Aires–Colônia do Sacramento e infraestrutura de recarga em Puerto Madero e Colônia)",
+      "moeda": "USD",
+      "fonte_id": "buquebus-colonia-express-tigre-rio-da-prata"
+    },
+    "proximas_entregas": {
+      "pt": "Operação plena de emissão zero do megacatamarã 100% elétrico 'China Zorrilla' da Buquebus entre Puerto Madero (Buenos Aires) e Colônia do Sacramento.",
+      "en": "Full zero-emission commercial service of Buquebus's 130-meter 100% battery-electric catamaran 'China Zorrilla' between Buenos Aires and Colonia del Sacramento."
+    },
+    "resumo_pt": "O estuário do Rio da Prata e o Delta do Paraná concentram duas das operações aquaviárias de passageiros mais emblemáticas da América do Sul: na ligação internacional entre a Argentina e o Uruguai, os megacatamarãs de alta velocidade da Buquebus (incluindo o 'Francisco', um dos ferries mais rápidos do mundo a 107 km/h movido a GNL, e o 'China Zorrilla', o maior navio ro-pax 100% elétrico a bateria do planeta com 130 metros para 2.100 passageiros e 225 carros) e da Colonia Express cruzam diariamente entre Puerto Madero / Dársena Sur (Buenos Aires), Colônia do Sacramento (em 1h15) e Montevidéu (em 2h15). Já ao norte da Grande Buenos Aires, na Estación Fluvial de Tigre (integrada à Estação Tigre da Línea Mitre e à Estação Delta do Tren de la Costa), dezenas de charmosas 'Lanchas Colectivas' de madeira envernizada funcionam com cartão SUBE como verdadeiros ônibus fluviais pelos rios Luján, Sarmiento, Capitán e Paraná de las Palmas, atendendo moradores, escolas insulares e visitantes no Delta do Paraná.",
+    "resumo_en": "The Río de la Plata estuary and the Paraná Delta host two iconic South American passenger water transport systems: connecting Argentina and Uruguay, Buquebus and Colonia Express operate high-speed international catamarans (including the 58-knot LNG-powered 'Francisco' and the 130-meter 'China Zorrilla', the world's largest 100% battery-electric Ro-Pax ferry) between Buenos Aires (Puerto Madero), Colonia del Sacramento and Montevideo; north of Buenos Aires at the Tigre Fluvial Terminal (integrated with the Mitre commuter rail and Tren de la Costa), classic mahogany 'Lanchas Colectivas' waterbuses accept the SUBE transit card across the island waterways of the Paraná Delta.",
+    "lat": -34.5985,
+    "lon": -58.3665,
+    "zoom_inicial": 7.8,
+    "fontes": [
+      "buquebus-colonia-express-tigre-rio-da-prata",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "buenos aires",
+      "buquebus",
+      "colonia express",
+      "colônia do sacramento",
+      "montevidéu",
+      "rio da prata",
+      "tigre",
+      "delta do paraná",
+      "lancha colectiva",
+      "argentina",
+      "uruguai",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lancha_colectiva_Tigre.jpg/800px-Lancha_colectiva_Tigre.jpg",
+      "credito": "Wikimedia Commons — Tradicional Lancha Colectiva de passageiros no Delta do Paraná em Tigre e catamarãs do Rio da Prata (Argentina/Uruguai)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Tigre_Partido"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-rio-da-prata-buquebus-colonia-express-buenos-aires-colonia-montevideu",
+        "nome": "Ponte Hidroviária Internacional do Rio da Prata (Buquebus & Colonia Express): Puerto Madero / Dársena Sur (Buenos Aires, Argentina) – Porto de Colônia do Sacramento – Porto de Montevidéu (Uruguai)",
+        "status": "operacao",
+        "extensao_km": 245.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-lanchas-colectivas-delta-do-parana-estacion-fluvial-de-tigre-argentina",
+        "nome": "Rede de Lanchas Colectivas do Delta do Paraná (Cartão SUBE): Estación Fluvial de Tigre (Integração Tren de la Costa / Línea Mitre) – Río Luján – Río Sarmiento – Río Capitán – Río Paraná de las Palmas (Argentina)",
+        "status": "operacao",
+        "extensao_km": 68.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "transbordadores-chacao-chiloe-carretera-austral-estreito-de-magalhaes-chile",
+    "slug": "transbordadores-chacao-chiloe-carretera-austral-estreito-de-magalhaes-chile",
+    "nome_pt": "Transbordadores do Canal de Chacao / Ilha de Chiloé, Rota Bimodal da Carretera Austral (Hornopirén–Chaitén) e Estreito de Magalhães / Terra do Fogo (Chile)",
+    "nome_en": "Chacao Channel / Chiloé Island Ferries, Carretera Austral Bimodal Route (Hornopirén–Chaitén) & Strait of Magellan / Tierra del Fuego Ferries (Chile)",
+    "pais": "Chile",
+    "cidade": "Pargua, Chacao, Castro, Hornopirén, Chaitén, Punta Arenas e Porvenir",
+    "uf": "Los Lagos / Aysén / Magallanes",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "passageiros",
+    "operador": "Transmarchilay / Cruz del Sur (Canal de Chacao), Somarco / Naviera Austral (Carretera Austral e Chiloé) & TABSA — Transbordadora Austral Broom (Estreito de Magalhães)",
+    "inauguracao": "1960 (Travessia regular rodofluvial do Canal de Chacao na Ruta 5 Sul e fundação da TABSA no Estreito de Magalhães)",
+    "extensao_km": 335.0,
+    "bitola": "Canal de Chacao, Golfo de Ancud / Corcovado (Fiordes da Carretera Austral) e Estreito de Magalhães (Patagônia Chilena)",
+    "eletrificacao": "Ferry-boats ro-pax de convés duplo de operação contínua 24h (Canal de Chacao e Primera Angostura) e navios rodo-marítimos para os fiordes da Patagônia",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 22000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 140 milhões (subsídios estatais de conectividade marítima austral do MTT Chile, renovação das rampas de Pargua/Chacao, Hornopirén/Caleta Gonzalo e novos ferries da TABSA em Punta Arenas–Porvenir)",
+      "moeda": "USD",
+      "fonte_id": "mtt-chile-chacao-tabsa-carretera-austral"
+    },
+    "proximas_entregas": {
+      "pt": "Novas barcas subsidiadas para o arquipélago interior de Chiloé (Dalcahue–Quinchao e Quellón–Chaitén) e modernização dos terminais do Estreito de Magalhães.",
+      "en": "New state-subsidized ferries for the inner Chiloé Archipelago and modernization of the Strait of Magellan terminals."
+    },
+    "resumo_pt": "Com uma geografia recortada por milhares de ilhas, canais e fiordes glaciares do paralelo 41°S até o Cabo Horn, o sul do Chile depende estruturalmente de sua rede de 'Transbordadores' (ferry-boats) como continuação das rodovias nacionais Ruta 5 Pan-Americana e Ruta 7 (Carretera Austral): no Canal de Chacao, uma frota de ferries de convés duplo opera 24 horas por dia com saídas a cada 15 minutos entre Pargua (continente) e Chacao (Ilha Grande de Chiloé); na famosa Rota Bimodal da Carretera Austral, os transbordadores conectam Hornopirén a Leptepu e Fiordo Largo a Caleta Gonzalo (Parque Pumalín / Chaitén), além das linhas marítimas Quellón–Chaitén–Puerto Cisnes; e no extremo austral da Patagônia, a Transbordadora Austral Broom (TABSA) cruza as águas do Estreito de Magalhães entre Punta Arenas e Porvenir e na Primera Angostura (Punta Delgada – Bahía Azul), garantindo a ligação vital com a Grande Ilha da Terra do Fogo.",
+    "resumo_en": "Across southern Chile's labyrinth of islands, glacial fjords and channels, car-and-passenger ferries ('Transbordadores') serve as vital marine extensions of the Pan-American Highway (Route 5) and Carretera Austral (Route 7): across the Chacao Channel, double-ended ferries depart every 15 minutes 24/7 between Pargua and Chiloé Island; along the Carretera Austral bimodal corridor, ferries link Hornopirén to Caleta Gonzalo and Chaitén; and in Patagonia, TABSA ferries cross the Strait of Magellan between Punta Arenas and Porvenir and at Primera Angostura to connect Tierra del Fuego.",
+    "lat": -41.7945,
+    "lon": -73.6195,
+    "zoom_inicial": 5.0,
+    "fontes": [
+      "mtt-chile-chacao-tabsa-carretera-austral",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "chile",
+      "canal de chacao",
+      "chiloé",
+      "carretera austral",
+      "hornopirén",
+      "chaitén",
+      "punta arenas",
+      "porvenir",
+      "estreito de magalhães",
+      "terra do fogo",
+      "patagônia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ferry_Canal_de_Chacao.jpg/800px-Ferry_Canal_de_Chacao.jpg",
+      "credito": "Wikimedia Commons — Transbordador na travessia do Canal de Chacao rumo à Ilha de Chiloé e Carretera Austral (Chile)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Chacao_Channel"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-canal-de-chacao-carretera-austral-pargua-chacao-hornopiren-caleta-gonzalo-chaiten",
+        "nome": "Travessia 24h do Canal de Chacao (Pargua – Chacao / Ilha de Chiloé) e Rota Bimodal da Carretera Austral (Hornopirén – Caleta Gonzalo – Chaitén – Quellón, Região de Los Lagos, Chile)",
+        "status": "operacao",
+        "extensao_km": 240.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-estreito-de-magalhaes-terra-do-fogo-punta-arenas-porvenir-puerto-natales-chile",
+        "nome": "Travessias do Estreito de Magalhães e Terra do Fogo (TABSA): Tres Puentes (Punta Arenas) – Bahía Chilota (Porvenir) & Punta Delgada – Bahía Azul (Primera Angostura, Chile)",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovias-amazonia-peruana-iquitos-yurimaguas-pucallpa-lago-titicaca-peru-bolivia",
+    "slug": "hidrovias-amazonia-peruana-iquitos-yurimaguas-pucallpa-lago-titicaca-peru-bolivia",
+    "nome_pt": "Hidrovias da Amazônia Peruana (Iquitos–Nauta–Yurimaguas–Santa Rosa nos Rios Amazonas, Marañón e Huallaga) e Navegação do Lago Titicaca (Puno–Uros–Taquile e Estreito de Tiquina, Peru e Bolívia)",
+    "nome_en": "Peruvian Amazon Waterways (Iquitos–Nauta–Yurimaguas–Santa Rosa on the Amazon, Marañón & Huallaga Rivers) & Lake Titicaca Navigation (Puno–Uros–Taquile & Strait of Tiquina, Peru & Bolivia)",
+    "pais": "Peru",
+    "cidade": "Iquitos, Nauta, Yurimaguas, Caballococha, Puno (Peru), Copacabana e Tiquina (Bolívia)",
+    "uf": "Loreto / Puno / La Paz",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Consorcio Fluvial del Amazonas (Ferry Rápido Amazonas I subsidiado pelo MTC Peru), Lanchas Fluviais de Iquitos/Yurimaguas & Cooperativas Lacustres de Puno e Estreito de Tiquina",
+    "inauguracao": "1862 (Navegação regular a vapor em Iquitos e montagem do vapor histórico Yavarí a 3.812 m de altitude no Lago Titicaca)",
+    "extensao_km": 1235.0,
+    "bitola": "Calha dos Rios Amazonas, Marañón, Huallaga e Ucayali (Loreto/Ucayali) e Lago Titicaca a 3.812 metros de altitude nos Andes",
+    "eletrificacao": "Catamarã rápido climatizado (Ferry Amazonas I Iquitos–Santa Rosa), navios regionais ('Lanchas' Eduardo / Henry) e lanchas/balsas de travessia de altitude no Lago Titicaca",
+    "n_linhas": 2,
+    "n_estacoes": 3,
+    "passageiros_dia": 19500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 160 milhões (modernização do Novo Terminal Portuário de Yurimaguas — Nova Reforma, terminais fluviais de Iquitos e Nauta e subsídio operacional do Ferry Rápido Amazonas I pelo MTC Peru)",
+      "moeda": "USD",
+      "fonte_id": "mtc-enapu-peru-iquitos-lago-titicaca"
+    },
+    "proximas_entregas": {
+      "pt": "Construção dos novos terminais fluviais de passageiros de Saramiriza, Sinchicuy, Pebas e Santa Rosa no eixo do Rio Amazonas peruano.",
+      "en": "Construction of new passenger river terminals at Saramiriza, Sinchicuy, Pebas and Santa Rosa along the Peruvian Amazon corridor."
+    },
+    "resumo_pt": "O Peru e a Bolívia reúnem dois extremos geográficos fascinantes do transporte aquaviário mundial: na Amazônia Peruana, Iquitos (com mais de 500 mil habitantes, a maior cidade do planeta sem acesso por estradas terrestres) é o coração de uma imensa rede hidroviária pelos rios Amazonas, Marañón, Huallaga e Ucayali. A partir de Iquitos e da cidade vizinha de Nauta, grandes navios de passageiros e carga ('Lanchas') navegam até o moderno Porto Intermodal de Yurimaguas (onde se conectam à rodovia IIRSA Norte para a costa do Pacífico), enquanto o catamarã estatal subsidiado 'Ferry Amazonas I' e os 'Rápidos' descem o Rio Amazonas até Pebas, Caballococha e Ilha Santa Rosa (fronteira com Leticia na Colômbia e Tabatinga no Brasil). Já no Altiplano Andino, a 3.812 metros acima do nível do mar, o Lago Titicaca (lago comercialmente navegável mais alto do mundo) conta com intenso tráfego diário de barcos de passageiros ligando o Porto de Puno às Ilhas Flutuantes dos Uros, Taquile e Amantaní (lado peruano) e, no lado boliviano, conectando Copacabana à Ilha do Sol e realizando a travessia ininterrupta de balsas e lanchas no Estreito de Tiquina (San Pedro – San Pablo de Tiquina, na rodovia La Paz–Copacabana).",
+    "resumo_en": "Peru and Bolivia showcase two extraordinary extremes of South American water transport: in the Peruvian Amazon, Iquitos (with 500,000+ inhabitants, the largest city on Earth unreachable by road) serves as the hub of a vast river network along the Amazon, Marañón, Huallaga and Ucayali rivers, linking the intermodal Port of Yurimaguas and Nauta to Iquitos and downstream via the state-subsidized 'Ferry Amazonas I' catamaran to Caballococha and Santa Rosa at the Brazil–Colombia–Peru tri-border. High in the Andes at 3,812 meters above sea level, Lake Titicaca (the world's highest navigable lake) hosts daily passenger boats from Puno to the floating Uros Islands, Taquile and Amantaní in Peru, as well as Bolivia's Isla del Sol launches and the continuous Strait of Tiquina ferry crossing on the La Paz–Copacabana highway.",
+    "lat": -3.7385,
+    "lon": -73.2385,
+    "zoom_inicial": 5.5,
+    "fontes": [
+      "mtc-enapu-peru-iquitos-lago-titicaca",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "iquitos",
+      "yurimaguas",
+      "nauta",
+      "rio amazonas",
+      "rio marañón",
+      "loreto",
+      "lago titicaca",
+      "puno",
+      "ilhas uros",
+      "taquile",
+      "estreito de tiquina",
+      "copacabana",
+      "peru",
+      "bolívia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lanchas_in_Iquitos_Peru.jpg/800px-Lanchas_in_Iquitos_Peru.jpg",
+      "credito": "Wikimedia Commons — Embarcações regionais de passageiros ('Lanchas') em Iquitos na Amazônia Peruana e barcos do Lago Titicaca (Peru/Bolívia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Peru"
+    },
+    "linhas": [
+      {
+        "id": "linha-barco-hidrovia-amazonica-peruana-yurimaguas-nauta-iquitos-caballococha-santa-rosa-peru",
+        "nome": "Hidrovia Amazônica Peruana (Rios Huallaga, Marañón e Amazonas): Terminal Portuário de Yurimaguas – Lagunas – Nauta – Porto de Iquitos – Pebas – Caballococha – Ilha Santa Rosa (Tríplice Fronteira, Peru)",
+        "status": "operacao",
+        "extensao_km": 1090.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-barco-lago-titicaca-puno-ilhas-uros-taquile-copacabana-estreito-de-tiquina-peru-bolivia",
+        "nome": "Navegação de Altitude do Lago Titicaca (3.812 m): Porto de Puno – Ilhas dos Uros – Taquile (Peru) & Estreito de Tiquina – Copacabana – Ilha do Sol (Bolívia)",
+        "status": "operacao",
+        "extensao_km": 145.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

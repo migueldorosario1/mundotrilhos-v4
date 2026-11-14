@@ -32363,6 +32363,294 @@
           47.3665
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-colman-dock-pier-52-wsf-seattle-washington-eua",
+        "nome": "Seattle Colman Dock — Pier 50/52 (Washington State Ferries & Kitsap Fast Ferries, WA, EUA)",
+        "sistema_id": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+        "linha": "Washington State Ferries (Puget Sound)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3385,
+          47.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-san-francisco-ferry-building-embarcadero-california-eua",
+        "nome": "San Francisco Ferry Building (SF Bay Ferry & Golden Gate Ferry / Integração BART Embarcadero, CA, EUA)",
+        "sistema_id": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+        "linha": "San Francisco Bay Ferry & Golden Gate Ferry",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3935,
+          37.7955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-larkspur-ferry-terminal-smart-golden-gate-california-eua",
+        "nome": "Larkspur Ferry Terminal (Golden Gate Ferry / Integração Trem Regional SMART, Marin County, CA, EUA)",
+        "sistema_id": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+        "linha": "Golden Gate Ferry",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5095,
+          37.9455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-auke-bay-ferry-terminal-juneau-alaska-marine-highway-eua",
+        "nome": "Auke Bay Ferry Terminal — Juneau (Alaska Marine Highway System, Alasca, EUA)",
+        "sistema_id": "wsf-seattle-san-francisco-bay-ferry-alaska-marine-highway-eua",
+        "linha": "Alaska Marine Highway System (Inside Passage)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6545,
+          58.3805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-waterfront-lonsdale-quay-seabus-vancouver-canada",
+        "nome": "Terminais SeaBus Waterfront Station & Lonsdale Quay (TransLink, Vancouver, Canadá)",
+        "sistema_id": "bc-ferries-seabus-vancouver-stq-quebec-levis-toronto-island-canada",
+        "linha": "TransLink SeaBus & BC Ferries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1115,
+          49.2855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tsawwassen-swartz-bay-bc-ferries-vancouver-victoria-canada",
+        "nome": "Terminal Marítimo de Tsawwassen (BC Ferries Vancouver – Victoria / Gulf Islands, BC, Canadá)",
+        "sistema_id": "bc-ferries-seabus-vancouver-stq-quebec-levis-toronto-island-canada",
+        "linha": "Rede Costeira BC Ferries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1315,
+          49.0065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-fluviale-de-quebec-levis-stq-rio-sao-lourenco-canada",
+        "nome": "Gare Fluviale de Québec & Lévis (Société des traversiers du Québec — STQ, Rio São Lourenço, Canadá)",
+        "sistema_id": "bc-ferries-seabus-vancouver-stq-quebec-levis-toronto-island-canada",
+        "linha": "Traversiers du Québec & Toronto Island Ferries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2015,
+          46.8125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-fluvial-buquebus-puerto-madero-buenos-aires-argentina",
+        "nome": "Terminal Fluvial Internacional de Puerto Madero & Dársena Sur (Buquebus / Colonia Express, Buenos Aires, Argentina)",
+        "sistema_id": "buquebus-colonia-express-rio-da-prata-lanchas-colectivas-delta-do-tigre-argentina-uruguai",
+        "linha": "Ponte Hidroviária Internacional do Rio da Prata",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3665,
+          -34.5985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-de-colonia-del-sacramento-rio-da-prata-uruguai",
+        "nome": "Porto Fluvial de Passageiros de Colônia do Sacramento (Rio da Prata, Uruguai)",
+        "sistema_id": "buquebus-colonia-express-rio-da-prata-lanchas-colectivas-delta-do-tigre-argentina-uruguai",
+        "linha": "Ponte Hidroviária Internacional do Rio da Prata",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8485,
+          -34.4725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-estacion-fluvial-de-tigre-lanchas-colectivas-delta-argentina",
+        "nome": "Estación Fluvial de Tigre — Lanchas Colectivas del Delta (Integração Tren de la Costa / Línea Mitre, Argentina)",
+        "sistema_id": "buquebus-colonia-express-rio-da-prata-lanchas-colectivas-delta-do-tigre-argentina-uruguai",
+        "linha": "Rede de Lanchas Colectivas do Delta do Paraná",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5795,
+          -34.4225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rampa-pargua-chacao-canal-de-chacao-chiloe-chile",
+        "nome": "Terminais de Transbordadores de Pargua & Chacao (Canal de Chacao / Ilha de Chiloé, Chile)",
+        "sistema_id": "transbordadores-chacao-chiloe-carretera-austral-estreito-de-magalhaes-chile",
+        "linha": "Travessia 24h do Canal de Chacao",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6195,
+          -41.7945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-fluvial-hornopiren-caleta-gonzalo-carretera-austral-chile",
+        "nome": "Terminal Marítimo de Hornopirén & Caleta Gonzalo (Rota Bimodal da Carretera Austral, Chile)",
+        "sistema_id": "transbordadores-chacao-chiloe-carretera-austral-estreito-de-magalhaes-chile",
+        "linha": "Rota Bimodal da Carretera Austral",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4315,
+          -41.9645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-tres-puentes-punta-arenas-porvenir-estreito-de-magalhaes-chile",
+        "nome": "Terminal Tres Puentes (Punta Arenas) & Bahía Chilota (Porvenir — Estreito de Magalhães, Chile)",
+        "sistema_id": "transbordadores-chacao-chiloe-carretera-austral-estreito-de-magalhaes-chile",
+        "linha": "Travessias do Estreito de Magalhães (TABSA)",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8825,
+          -53.1285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-de-iquitos-masusa-hidrovia-amazonas-loreto-peru",
+        "nome": "Terminal Fluvial de Iquitos / Masusa (Ferry Amazonas I & Lanchas da Amazônia Peruana, Loreto, Peru)",
+        "sistema_id": "hidrovias-amazonia-peruana-iquitos-yurimaguas-pucallpa-lago-titicaca-peru-bolivia",
+        "linha": "Hidrovia Amazônica Peruana",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2385,
+          -3.7385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-portuario-de-yurimaguas-rio-huallaga-peru",
+        "nome": "Terminal Portuário Intermodal de Yurimaguas — Nova Reforma (Rio Huallaga / Marañón, Peru)",
+        "sistema_id": "hidrovias-amazonia-peruana-iquitos-yurimaguas-pucallpa-lago-titicaca-peru-bolivia",
+        "linha": "Hidrovia Amazônica Peruana",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1015,
+          -5.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-lacustre-de-puno-estreito-de-tiquina-lago-titicaca-peru-bolivia",
+        "nome": "Porto Lacustre de Puno & Travessia do Estreito de Tiquina (Lago Titicaca — 3.812 m, Peru/Bolívia)",
+        "sistema_id": "hidrovias-amazonia-peruana-iquitos-yurimaguas-pucallpa-lago-titicaca-peru-bolivia",
+        "linha": "Navegação de Altitude do Lago Titicaca",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0155,
+          -15.8365
+        ]
+      }
     }
   ]
 }
