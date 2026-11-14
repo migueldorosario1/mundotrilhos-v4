@@ -31057,6 +31057,186 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-portuarias-calshot-harbour-edinburgh-of-the-seven-seas-tristao-da-cunha",
+        "linha": "Vias Portuárias e Fabris de Lagosta Calshot Harbour – Edinburgh of the Seven Seas (Tristão da Cunha)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Portuárias e Fabris de Lagosta de Calshot Harbour – Edinburgh of the Seven Seas (Tristão da Cunha, Atlântico Sul)",
+        "sistema_nome_en": "Calshot Harbour – Edinburgh of the Seven Seas Rock Lobster Factory & Port Rail Tracks (Tristan da Cunha, South Atlantic)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -12.311,
+            -37.0675
+          ],
+          [
+            -12.3128,
+            -37.068
+          ],
+          [
+            -12.3145,
+            -37.0685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "georgetown-pier-mountain-tramway-comfortless-cove-ilha-de-ascensao",
+        "linha": "Georgetown Pierhead Tramway & Green Mountain Inclined Railway (Georgetown – Two Boats, Ilha de Ascensão)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Georgetown Pierhead Tramway e Plano Inclinado de Green Mountain / Two Boats (Ilha de Ascensão, Atlântico Sul)",
+        "sistema_nome_en": "Georgetown Pierhead Tramway & Green Mountain / Two Boats Inclined Railway (Ascension Island, South Atlantic)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.412,
+            -7.9285
+          ],
+          [
+            -14.3885,
+            -7.941
+          ],
+          [
+            -14.3625,
+            -7.952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-logisticas-estacao-meteorologica-transvaal-bay-goncalo-alvares-ilha-de-gough",
+        "linha": "Vias de Içamento e Abastecimento Polar de Transvaal Bay – Gough Island Weather Station (Ilha de Gough / Gonçalo Álvares)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias de Içamento e Abastecimento Polar da Estação Meteorológica de Transvaal Bay (Ilha de Gough / Gonçalo Álvares, Atlântico Sul)",
+        "sistema_nome_en": "Transvaal Bay Weather Station Crane & Polar Supply Rail Tracks (Gough Island / Gonçalo Álvares, South Atlantic)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.8785,
+            -40.3498
+          ],
+          [
+            -9.8805,
+            -40.349
+          ],
+          [
+            -9.8825,
+            -40.3482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-logisticas-portuarias-episkopi-akrotiri-dhekelia-chipre-britanico",
+        "linha": "Vias Portuárias e Logísticas de Akrotiri Mole – Episkopi – Dhekelia Garrison (Bases Soberanas de Akrotiri e Dhekelia)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Portuárias e Logísticas de Akrotiri Mole, Episkopi e Dhekelia Garrison (Bases Soberanas de Akrotiri e Dhekelia, Mediterrâneo Oriental)",
+        "sistema_nome_en": "Akrotiri Mole, Episkopi & Dhekelia Garrison Port and Logistics Rail Tracks (Sovereign Base Areas of Akrotiri and Dhekelia)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.985,
+            34.585
+          ],
+          [
+            32.895,
+            34.665
+          ],
+          [
+            33.7225,
+            34.9815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-polares-cientificas-anare-buckles-bay-isthmus-ilha-macquarie",
+        "linha": "Vias Científicas e Logísticas do Istmo de Buckles Bay – Wireless Hill (Estação ANARE da Ilha Macquarie)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Científicas e Logísticas da Estação Subantártica ANARE no Istmo de Buckles Bay e Hasselborough Bay (Ilha Macquarie, Pacífico Subantártico)",
+        "sistema_nome_en": "Buckles Bay Isthmus & Hasselborough Bay ANARE Subantarctic Station Scientific and Logistics Rail Tracks (Macquarie Island)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158.9325,
+            -54.496
+          ],
+          [
+            158.936,
+            -54.498
+          ],
+          [
+            158.9385,
+            -54.4995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-patrimoniais-oleo-foca-pinguim-nuggets-point-lusitania-bay-ilha-macquarie",
+        "linha": "Trilhos Patrimoniais de Nuggets Point – Hurd Point / Lusitania Bay (Patrimônio Mundial UNESCO da Ilha Macquarie)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trilhos Patrimoniais de Nuggets Point, Sandy Bay e Lusitania Bay (Sítios Históricos UNESCO da Ilha Macquarie, Austrália Subantártica)",
+        "sistema_nome_en": "Nuggets Point, Sandy Bay & Lusitania Bay UNESCO Heritage Industrial Rail Tracks (Macquarie Island, Subantarctic Australia)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158.9265,
+            -54.5245
+          ],
+          [
+            158.902,
+            -54.568
+          ],
+          [
+            158.855,
+            -54.718
+          ]
+        ]
+      }
     }
   ]
 }
