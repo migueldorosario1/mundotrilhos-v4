@@ -30877,6 +30877,186 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-logisticas-meteorologicas-olonkinbyen-batvika-kvalrossbukta-jan-mayen",
+        "linha": "Vias Logísticas Båtvika Landing – Olonkinbyen – Kvalrossbukta (Ilha de Jan Mayen)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Logísticas e Meteorológicas de Olonkinbyen – Båtvika – Kvalrossbukta (Ilha Ártica de Jan Mayen, Noruega)",
+        "sistema_nome_en": "Olonkinbyen – Båtvika – Kvalrossbukta Meteorological & Logistics Rail Tracks (Arctic Island of Jan Mayen, Norway)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7365,
+            70.9165
+          ],
+          [
+            -8.7185,
+            70.9215
+          ],
+          [
+            -8.685,
+            70.968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-mineradora-fosfato-guano-lagoa-pier-ilha-de-clipperton",
+        "linha": "Ferrovia de Fosfato Rocher de Clipperton – Camp Bougainville – West Pier (Atol de Clipperton)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovia Patrimonial Mineradora de Fosfato e Guano da Lagoa de Clipperton – Píer Oeste (Ilha de Clipperton / La Passion, Pacífico Oriental Francês)",
+        "sistema_nome_en": "Clipperton Lagoon – West Pier Heritage Phosphate & Guano Mining Railway (Clipperton / La Passion Island, French Eastern Pacific)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -109.2045,
+            10.2905
+          ],
+          [
+            -109.2165,
+            10.2985
+          ],
+          [
+            -109.2285,
+            10.3045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-abastecimento-observatorio-meteorologico-willis-island-ilhas-do-mar-de-coral",
+        "linha": "Vias de Abastecimento North Beach Landing – Observatório Meteorológico de Willis Island (Mar de Coral)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trilhos de Abastecimento e Desembarque do Observatório Meteorológico de Willis Island e Farol de Cato Reef (Território das Ilhas do Mar de Coral, Austrália)",
+        "sistema_nome_en": "Willis Island Meteorological Observatory & Cato Reef Lighthouse Supply and Landing Rail Tracks (Coral Sea Islands Territory, Australia)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.9635,
+            -16.286
+          ],
+          [
+            149.9645,
+            -16.2875
+          ],
+          [
+            149.966,
+            -16.289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-fosfato-west-islet-middle-islet-ilhas-ashmore-e-cartier",
+        "linha": "Vias Patrimoniais de Fosfato West Islet Jetty – Lagoa de Ashmore Reef (Ilhas Ashmore e Cartier)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Trilhos Patrimoniais de Fosfato e Ancoradouro de West Islet e Middle Islet (Território das Ilhas Ashmore e Cartier, Mar de Timor)",
+        "sistema_nome_en": "West Islet & Middle Islet Phosphate Heritage and Landing Rail Tracks (Ashmore and Cartier Islands Territory, Timor Sea)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.9655,
+            -12.241
+          ],
+          [
+            122.9685,
+            -12.2425
+          ],
+          [
+            122.9725,
+            -12.2445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "trilhos-polares-scott-base-pram-point-cape-royds-dependencia-de-ross",
+        "linha": "Vias Polares Pram Point (Scott Base) – Observation Hill – Cape Evans (Ilha de Ross)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Polares e Logísticas de Scott Base (Pram Point, Ilha de Ross) e Cabanas Históricas de Cape Evans / Cape Royds (Dependência de Ross)",
+        "sistema_nome_en": "Scott Base (Pram Point, Ross Island) & Cape Evans / Cape Royds Historic Huts Polar Logistics Rail Tracks (Ross Dependency)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            166.7685,
+            -77.849
+          ],
+          [
+            166.6895,
+            -77.8475
+          ],
+          [
+            166.4165,
+            -77.636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-polares-winter-quarters-bay-hut-point-ilha-pedro-i-dependencia-de-ross",
+        "linha": "Vias Portuárias Polares de Winter Quarters Bay – Discovery Hut (Hut Point, Estreito de McMurdo)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Vias Portuárias Polares de Winter Quarters Bay / Hut Point (Estreito de McMurdo) e Estação de Desembarque de Framnaesodden (Ilha Pedro I / Mar de Ross)",
+        "sistema_nome_en": "Winter Quarters Bay / Hut Point Polar Port Tracks (McMurdo Sound) & Framnaesodden Landing Station (Peter I Island / Ross Sea)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            166.6415,
+            -77.8455
+          ],
+          [
+            166.6545,
+            -77.8475
+          ],
+          [
+            166.6685,
+            -77.846
+          ]
+        ]
+      }
     }
   ]
 }
