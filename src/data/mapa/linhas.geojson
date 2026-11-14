@@ -31777,6 +31777,190 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metrotenerife-tranvia-tenerife-santa-cruz-la-laguna-tincer-ilhas-canarias",
+        "linha": "Metrotenerife Linha 1 (Intercambiador de Santa Cruz – Hospital Universitario – Campus Guajara – La Trinidad em La Laguna) & Linha 2 (La Cuesta – Tíncer)",
+        "cor": "#00e676",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Metrotenerife — VLT / Tranvía de Tenerife Linhas 1 e 2 (Santa Cruz de Tenerife – San Cristóbal de La Laguna – La Cuesta – Tíncer, Ilhas Canárias, Espanha)",
+        "sistema_nome_en": "Metrotenerife — Tenerife Tramway Lines 1 & 2 (Santa Cruz de Tenerife – San Cristóbal de La Laguna – La Cuesta – Tíncer, Canary Islands, Spain)",
+        "tipo": "vlt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.2519,
+            28.4589
+          ],
+          [
+            -16.2835,
+            28.4635
+          ],
+          [
+            -16.3168,
+            28.4855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "caminho-de-ferro-do-monte-telefericos-funchal-monte-achadas-da-cruz-madeira",
+        "linha": "Caminho de Ferro de Cremalheira do Monte (Pombal – Levada de Santa Luzia – Monte – Terreiro da Luta) & Teleférico Funchal–Monte",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Caminho de Ferro Histórico de Cremalheira do Monte (Pombal – Terreiro da Luta) e Sistema de Transporte Guiado do Funchal – Monte (Arquipélago da Madeira, Portugal)",
+        "sistema_nome_en": "Monte Heritage Rack Railway (Pombal – Terreiro da Luta) & Funchal – Monte Guided Cable Transport System (Madeira Archipelago, Portugal)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.9035,
+            32.6475
+          ],
+          [
+            -16.9015,
+            32.6685
+          ],
+          [
+            -16.8985,
+            32.6815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-portuaria-molhe-ponta-delgada-lajes-das-flores-arquipelago-dos-acores",
+        "linha": "Via Férrea Portuária Histórica de Bitola Brunel (2.134 mm) de Santa Clara – Molhe do Porto de Ponta Delgada (Ilha de São Miguel, Açores)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovia Portuária Histórica de Bitola Larga (2.134 mm Brunel) e Vias de Pórticos do Porto de Ponta Delgada e Praia da Vitória (Arquipélago dos Açores, Portugal)",
+        "sistema_nome_en": "Historic Broad-Gauge Breakwater Railway (2,134 mm Brunel Gauge) & Port Gantry Rail Tracks of Ponta Delgada and Praia da Vitória (Azores Archipelago, Portugal)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -25.6845,
+            37.7345
+          ],
+          [
+            -25.6685,
+            37.7365
+          ],
+          [
+            -25.6565,
+            37.7385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "gotlands-hesselby-jernvag-ghj-dalhem-tule-roma-bogen-visby-gotlandia-oland",
+        "linha": "Gotlands Hesselby Jernväg (Bitola 891 mm: Hesselby / Dalhem – Ekeby – Tule – Roma Kungsgård, Ilha de Gotlândia)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Gotlands Hesselby Jernväg (GHJ — Ferrovia de Bitola Estreita 891 mm Dalhem – Tule – Roma Kungsgård, Ilha de Gotlândia) e Böda Skogsjärnväg (Ilha de Öland, Suécia)",
+        "sistema_nome_en": "Gotlands Hesselby Jernväg (GHJ — 891 mm Narrow-Gauge Railway Dalhem – Tule – Roma Kungsgård, Gotland Island) & Böda Forest Railway (Öland Island, Sweden)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.5325,
+            57.5525
+          ],
+          [
+            18.4815,
+            57.5315
+          ],
+          [
+            18.4425,
+            57.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "rugensche-baderbahn-rasende-roland-lauterbach-putbus-binz-sellin-gohren-ilha-rugen",
+        "linha": "Rügensche Bäderbahn 'Rasende Roland' (Lauterbach Mole – Putbus – Ostseebad Binz – Sellin – Baabe – Göhren, Ilha de Rügen)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Rügensche Bäderbahn 'Rasende Roland' (Ferrovia a Vapor de Bitola 750 mm Lauterbach Mole – Putbus – Binz – Sellin – Göhren, Ilha de Rügen, Alemanha)",
+        "sistema_nome_en": "Rügensche Bäderbahn 'Rasende Roland' (750 mm Steam Narrow-Gauge Railway Lauterbach Mole – Putbus – Binz – Sellin – Göhren, Rügen Island, Germany)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4755,
+            54.3425
+          ],
+          [
+            13.6065,
+            54.3985
+          ],
+          [
+            13.6925,
+            54.3685
+          ],
+          [
+            13.7385,
+            54.3435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-insulares-mar-do-norte-borkumer-kleinbahn-wangerooger-inselbahn-sylt-shuttle-alemanha",
+        "linha": "Borkumer Kleinbahn (Reede – Jakob-van-Dyken-Weg – Borkum Bahnhof) & Wangerooger Inselbahn / Hindenburgdamm Sylt",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": true,
+        "sistema_nome_pt": "Ferrovias Insulares do Mar do Norte: Borkumer Kleinbahn (Ilha de Borkum), Wangerooger Inselbahn (DB), Langeoog e Corredor Hindenburgdamm da Ilha de Sylt (Alemanha)",
+        "sistema_nome_en": "North Sea Island Railways: Borkumer Kleinbahn (Borkum), Wangerooger Inselbahn (DB), Langeoog & Sylt Island Hindenburgdamm Causeway Railway (Germany)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.7465,
+            53.5585
+          ],
+          [
+            6.6985,
+            53.5755
+          ],
+          [
+            6.6635,
+            53.5885
+          ]
+        ]
+      }
     }
   ]
 }
