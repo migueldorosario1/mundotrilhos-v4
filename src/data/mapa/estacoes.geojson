@@ -25515,6 +25515,230 @@
           53.5885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-palma-sfm-serveis-ferroviaris-mallorca-inca-manacor-sa-pobla-ilhas-baleares",
+        "nome": "Estació Intermodal de Palma — Plaça d'Espanya (Metrô de Palma M1/M2 & SFM T1/T2/T3, Maiorca)",
+        "linha": "Metrô de Palma M1/M2 (Estació Intermodal – UIB) & SFM T1/T2/T3 (Palma – Marratxí – Inca – Sa Pobla / Manacor, Maiorca)",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô de Palma M1/M2",
+          "Ferrocarril de Sóller",
+          "Terminal Subterrâneo de Ônibus TIB"
+        ],
+        "sistema_nome_pt": "Metrô de Palma (Linhas M1 e M2) e Rede Elétrica Serveis Ferroviaris de Mallorca — SFM (Palma – Inca – Sa Pobla – Manacor, Ilhas Baleares, Espanha)",
+        "sistema_nome_en": "Palma Metro (Lines M1 & M2) & Serveis Ferroviaris de Mallorca — SFM Electric Rail Network (Palma – Inca – Sa Pobla – Manacor, Balearic Islands, Spain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6542,
+          39.5765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metro-de-palma-sfm-serveis-ferroviaris-mallorca-inca-manacor-sa-pobla-ilhas-baleares",
+        "nome": "Estação de Inca & Manacor (Tronco Eletrificado SFM de Maiorca, Ilhas Baleares)",
+        "linha": "Metrô de Palma M1/M2 (Estació Intermodal – UIB) & SFM T1/T2/T3 (Palma – Marratxí – Inca – Sa Pobla / Manacor, Maiorca)",
+        "status": "operacao",
+        "integracoes": [
+          "Bifurcação Ferroviária de Enllaç (Sa Pobla / Manacor)",
+          "Rede Interurbana TIB"
+        ],
+        "sistema_nome_pt": "Metrô de Palma (Linhas M1 e M2) e Rede Elétrica Serveis Ferroviaris de Mallorca — SFM (Palma – Inca – Sa Pobla – Manacor, Ilhas Baleares, Espanha)",
+        "sistema_nome_en": "Palma Metro (Lines M1 & M2) & Serveis Ferroviaris de Mallorca — SFM Electric Rail Network (Palma – Inca – Sa Pobla – Manacor, Balearic Islands, Spain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9105,
+          39.7185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrocarril-de-soller-tranvia-soller-port-de-soller-serra-de-tramuntana-maiorca",
+        "nome": "Estação Histórica de Sóller & Port de Sóller (Ferrocarril e Bonde de Sóller, Serra de Tramuntana)",
+        "linha": "Ferrocarril de Sóller (Palma – Bunyola – Sóller) & Tranvía de Sóller (Sóller – Port de Sóller, Ilha de Maiorca)",
+        "status": "operacao",
+        "integracoes": [
+          "Tranvía Elétrico de Sóller (1913)",
+          "Sala de Exposições Picasso & Miró na Estação de Sóller"
+        ],
+        "sistema_nome_pt": "Ferrocarril de Sóller (Trem Elétrico Histórico de 1912 Palma – Bunyola – Sóller) e Bonde Tranvía de Sóller – Port de Sóller (Serra de Tramuntana, Maiorca)",
+        "sistema_nome_en": "Ferrocarril de Sóller (1912 Historic Electric Railway Palma – Bunyola – Sóller) & Tranvía de Sóller – Port de Sóller Tramway (Serra de Tramuntana, Mallorca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7152,
+          39.7665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metropolitana-di-catania-ferrovia-circumetnea-vlts-palermo-messina-sicilia",
+        "nome": "Estação Stesicoro / Giovanni XXIII — Metropolitana di Catania & Catania Borgo FCE (Sicília)",
+        "linha": "Metropolitana di Catania (Monte Po / Nesima – Stesicoro), Ferrovia Circumetnea (Catania Borgo – Bronte – Randazzo – Riposto) & Bondes de Palermo/Messina",
+        "status": "operacao",
+        "integracoes": [
+          "Metrô de Catânia",
+          "Ferrovia Circumetnea (Bitola 950 mm)",
+          "Estação Catania Centrale Trenitalia"
+        ],
+        "sistema_nome_pt": "Metrô de Catânia, Ferrovia Circumetnea (Volta ao Vulcão Etna) e Redes de VLT / Bondes de Palermo (AMAT L1–L4) e Messina (Ilha da Sicília, Itália)",
+        "sistema_nome_en": "Catania Metro, Ferrovia Circumetnea (Mount Etna Loop Railway) & Palermo (AMAT L1–L4) and Messina Tramway Networks (Sicily Island, Italy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.083,
+          37.5079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metropolitana-di-catania-ferrovia-circumetnea-vlts-palermo-messina-sicilia",
+        "nome": "Estação de Palermo Centrale / Notarbartolo (Bondes AMAT L1–L4 & Passante Ferroviario) e Randazzo Etna (Sicília)",
+        "linha": "Metropolitana di Catania (Monte Po / Nesima – Stesicoro), Ferrovia Circumetnea (Catania Borgo – Bronte – Randazzo – Riposto) & Bondes de Palermo/Messina",
+        "status": "operacao",
+        "integracoes": [
+          "Rede de Bondes de Palermo Bombardier Flexity",
+          "Ferrovia Circumetnea no Vulcão Etna"
+        ],
+        "sistema_nome_pt": "Metrô de Catânia, Ferrovia Circumetnea (Volta ao Vulcão Etna) e Redes de VLT / Bondes de Palermo (AMAT L1–L4) e Messina (Ilha da Sicília, Itália)",
+        "sistema_nome_en": "Catania Metro, Ferrovia Circumetnea (Mount Etna Loop Railway) & Palermo (AMAT L1–L4) and Messina Tramway Networks (Sicily Island, Italy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9485,
+          37.8765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metrocagliari-metrosassari-vlt-trenino-verde-arst-dorsal-sarda-sardenha",
+        "nome": "Estação Piazza Repubblica / Policlinico — Metrocagliari VLT & Cagliari Matteotti (Sardenha)",
+        "linha": "Metrocagliari (Piazza Repubblica – Monserrato – Settimo San Pietro), Metrosassari VLT & Trenino Verde / Dorsal Sarda (Cagliari – Macomer – Sassari)",
+        "status": "operacao",
+        "integracoes": [
+          "Metrocagliari Linhas 1 e 2",
+          "Estação Cagliari Centrale Trenitalia",
+          "Porto de Cagliari"
+        ],
+        "sistema_nome_pt": "VLTs Metrocagliari e Metrosassari, Trenino Verde da Sardenha (ARST) e Dorsal Ferroviária Sarda Cagliari – Oristano – Sassari – Olbia (Ilha da Sardenha, Itália)",
+        "sistema_nome_en": "Metrocagliari & Metrosassari LRTs, Trenino Verde Heritage Railway (ARST) & Sardinian Mainline Railway Cagliari – Sassari – Olbia (Sardinia Island, Italy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1217,
+          39.2238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "metrocagliari-metrosassari-vlt-trenino-verde-arst-dorsal-sarda-sardenha",
+        "nome": "Estação de Sassari — Metrosassari Sirio VLT & Trenino Verde ARST (Norte da Sardenha)",
+        "linha": "Metrocagliari (Piazza Repubblica – Monserrato – Settimo San Pietro), Metrosassari VLT & Trenino Verde / Dorsal Sarda (Cagliari – Macomer – Sassari)",
+        "status": "operacao",
+        "integracoes": [
+          "Metrosassari VLT AnsaldoBreda Sirio",
+          "Ferrovias ARST Sassari–Alghero / Sorso / Nulvi"
+        ],
+        "sistema_nome_pt": "VLTs Metrocagliari e Metrosassari, Trenino Verde da Sardenha (ARST) e Dorsal Ferroviária Sarda Cagliari – Oristano – Sassari – Olbia (Ilha da Sardenha, Itália)",
+        "sistema_nome_en": "Metrocagliari & Metrosassari LRTs, Trenino Verde Heritage Railway (ARST) & Sardinian Mainline Railway Cagliari – Sassari – Olbia (Sardinia Island, Italy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5565,
+          40.7285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chemins-de-fer-de-la-corse-cfc-u-trinichellu-bastia-ponte-leccia-ajaccio-calvi-corsega",
+        "nome": "Gare de Bastia & Gare de Corte (Chemins de Fer de la Corse 'U Trinichellu', Ilha da Córsega)",
+        "linha": "Chemins de Fer de la Corse 'U Trinichellu' (Bastia – Ponte-Leccia – Corte – Vizzavona – Ajaccio & Ramal da Balagne para L'Île-Rousse – Calvi)",
+        "status": "operacao",
+        "integracoes": [
+          "Serviço Suburbano da Costa Oriental Bastia–Casamozza",
+          "Universidade da Córsega em Corte",
+          "Viaduto Eiffel sobre o Rio Vecchio"
+        ],
+        "sistema_nome_pt": "Chemins de Fer de la Corse (CFC — 'U Trinichellu' em Bitola Métrica: Bastia – Ponte-Leccia – Corte – Viaduto Eiffel do Vecchio – Ajaccio e Calvi, Ilha da Córsega, França)",
+        "sistema_nome_en": "Chemins de Fer de la Corse (CFC — 'U Trinichellu' Metre-Gauge Railway: Bastia – Ponte-Leccia – Corte – Eiffel Vecchio Viaduct – Ajaccio & Calvi, Corsica Island, France)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4495,
+          42.7015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chemins-de-fer-de-la-corse-cfc-u-trinichellu-bastia-ponte-leccia-ajaccio-calvi-corsega",
+        "nome": "Gare d'Ajaccio & Gare de Calvi (Terminais Marítimos dos Chemins de Fer de la Corse, França)",
+        "linha": "Chemins de Fer de la Corse 'U Trinichellu' (Bastia – Ponte-Leccia – Corte – Vizzavona – Ajaccio & Ramal da Balagne para L'Île-Rousse – Calvi)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Ajaccio",
+          "Tramway de la Balagne L'Île-Rousse–Calvi"
+        ],
+        "sistema_nome_pt": "Chemins de Fer de la Corse (CFC — 'U Trinichellu' em Bitola Métrica: Bastia – Ponte-Leccia – Corte – Viaduto Eiffel do Vecchio – Ajaccio e Calvi, Ilha da Córsega, França)",
+        "sistema_nome_en": "Chemins de Fer de la Corse (CFC — 'U Trinichellu' Metre-Gauge Railway: Bastia – Ponte-Leccia – Corte – Eiffel Vecchio Viaduct – Ajaccio & Calvi, Corsica Island, France)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7386,
+          41.9267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-portuaria-industrial-heracliao-koules-xiropotamos-minas-rodes-serifos-creta-grecia",
+        "nome": "Terminal Portuário Veneziano de Koules & Porto de Heraclião (Ilha de Creta — Estação Nº 1.210 e Sistema Nº 600 do Atlas!)",
+        "linha": "Ferrovia Portuária e Industrial Histórica de Heraclião (Porto Veneziano de Koules – Giofyros – Pedreira de Xiropotamos, Ilha de Creta)",
+        "status": "operacao",
+        "integracoes": [
+          "Fortaleza Veneziana de Koules",
+          "Terminal de Cruzeiros e Contêineres do Porto de Heraclião"
+        ],
+        "sistema_nome_pt": "Ferrovia Portuária e Industrial Histórica de Heraclião (Koules – Giofyros – Xiropotamos, Ilha de Creta) e Trilhos Costeiros de Rodes e Sérifos (Grécia Insular — Sistema Nº 600 do Banco!)",
+        "sistema_nome_en": "Heraklion Historic Port & Industrial Railway (Koules – Giofyros – Xiropotamos, Crete Island) & Coastal Rail Tracks of Rhodes and Serifos (Insular Greece — System #600!)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1362,
+          35.3418
+        ]
+      }
     }
   ]
 }
