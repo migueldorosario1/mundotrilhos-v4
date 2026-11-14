@@ -895,3 +895,17 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
    - **🇧🇷 Ilha de Itaparica e Ilha de Madre de Deus — BA**: `ramal-ferroviario-madre-de-deus-itaparica-baia-todos-os-santos-ba`.
    - **🇧🇷 Ilha de Mosqueiro, Outeiro e Cotijuba (Belém — PA)**: `bonde-historico-cotijuba-pinheiro-ilha-de-mosqueiro-belem-pa` e `trilhos-portuarios-vila-do-conde-miramar-outeiro-mosqueiro-pa`.
 3. **Marco Histórico no Atlas Mundial (`main`)**: **343 países e territórios no globo**, **703 sistemas no banco** (**687 em operação comercial**), **880 linhas** (**861 em operação**), **1.367 estações georreferenciadas** e **2.102 páginas compiladas** (`2102 page(s) built`, 0 erros).
+
+---
+
+### [#104] 2026-11-14 14:48 BRT — De: AGY (Agyonor / Antigravity Desktop) → Para: Miguel / CL-01 (Milton)
+**Assunto:** Ronda #104 Concluída — 🇨🇴 Ilhas de San Andrés, Providencia e Tierra Bomba (Colômbia), 🇻🇪 Ilha de Margarita, Coche e Cubagua (Venezuela), 🇵🇦 Arquipélago de Bocas del Toro e Ilhas de Amador / Taboga (Panamá), 🇭🇳 Ilhas da Baía (Roatán, Utila e Guanaja) e Ilha de El Tigre / Amapala (Honduras) e 🇳🇮 Ilha de Ometepe, Corn Islands e Isletas de Granada (Nicarágua) — 348 PAÍSES/TERRITÓRIOS, 693 SISTEMAS EM OPERAÇÃO E 2.114 PÁGINAS COMPILADAS!
+
+1. **Verificação da Ponte (`ponte-mapa-trilhos`)**: Sem novos pedidos na Caixa de entrada.
+2. **Expansão Mundial — Ronda #104 (Ordem 100 da `fila_paises.json`)**:
+   - **🇨🇴 Ilhas de San Andrés, Providencia e Tierra Bomba (Colômbia)**: `trilhos-fortes-bocachica-tierra-bomba-porto-san-andres-colombia` (*Trilhos Históricos dos Fortes de San Fernando e San José de Bocachica em Tierra Bomba — Patrimônio Mundial UNESCO e Muelle de San Andrés*, `trem_convencional`).
+   - **🇻🇪 Ilha de Margarita, Coche e Cubagua (Venezuela)**: `trilhos-salineiros-pampatar-coche-porto-el-guamache-ilha-margarita-venezuela` (*Trilhos Salineiros de Pampatar/Coche e Terminal Portuário Internacional de El Guamache em Nueva Esparta*, `ferrovia_carga`).
+   - **🇵🇦 Arquipélago de Bocas del Toro e Ilhas de Amador / Taboga (Panamá)**: `ferrovia-quebra-mar-amador-ilhas-naos-perico-flamenco-canal-panama` (*Corredor Ferroviário Histórico do Quebra-Mar de Amador ligando as Ilhas Naos, Perico, Culebra e Flamenco na entrada do Canal do Panamá*, `trem_convencional`) e `ferrocarril-bananero-changuinola-almirante-bocas-del-toro-panama` (*Ponte Ferroviária de Changuinola e Rede Portuária de Almirante / Isla Colón*, `ferrovia_carga`).
+   - **🇭🇳 Ilhas da Baía (Roatán, Utila e Guanaja) e Ilha de El Tigre / Amapala (Honduras)**: `trilhos-portuarios-roatan-ilhas-da-baia-ilha-el-tigre-amapala-honduras` (*Trilhos Portuários de Coxen Hole e French Harbour em Roatán e Porto Livre Histórico da Ilha de El Tigre em Amapala*, `ferrovia_carga`).
+   - **🇳🇮 Ilha de Ometepe, Corn Islands e Isletas de Granada (Nicarágua)**: `trilhos-portuarios-moyogalpa-ilha-ometepe-lago-cocibolca-corn-islands-nicaragua` (*Corredor Lacustre de Moyogalpa e Altagracia na Reserva da Biosfera UNESCO da Ilha de Ometepe no Lago Cocibolca e Corn Island*, `trem_convencional`).
+3. **Marco Histórico no Atlas Mundial (`main`)**: **348 países e territórios no globo**, **709 sistemas no banco** (**693 em operação comercial**), **886 linhas** (**867 em operação**), **1.379 estações georreferenciadas** e **2.114 páginas compiladas** (`2114 page(s) built`, 0 erros).
