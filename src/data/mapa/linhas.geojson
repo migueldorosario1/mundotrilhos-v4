@@ -29025,6 +29025,190 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ramal-ferroviario-maseru-marseilles-ponte-rio-caledon-lesoto",
+        "linha": "Maseru Branch Line (Ponte Férrea do Rio Caledon – Zona Industrial e Estação de Maseru, Lesoto)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ramal Ferroviário Internacional de Maseru (Maseru Branch Line — Ponte Férrea do Rio Caledon / Mohokare à Zona Industrial de Maseru, Lesoto)",
+        "sistema_nome_en": "Maseru International Railway Branch Line (Caledon River Rail Bridge to Maseru Industrial Station, Lesotho)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.4545,
+            -29.2985
+          ],
+          [
+            27.4625,
+            -29.3005
+          ],
+          [
+            27.4725,
+            -29.3065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-historica-santa-isabel-malabo-banapa-basupu-luba-ilha-bioko-guine-equatorial",
+        "linha": "Corredor Ferroviário Patrimonial de Bioko (Porto de Malabo – Sampaka – Banapá – Basupú, Guiné Equatorial)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia de Bioko / Ferrocarril de Santa Isabel (Corredor Patrimonial Malabo – Banapá – Sampaka – Basupú e Ferrovias Florestais do Rio Muni, Guiné Equatorial)",
+        "sistema_nome_en": "Bioko Island Railway / Santa Isabel – Banapá – Basupú Heritage Corridor & Río Muni Timber Railways (Equatorial Guinea)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7815,
+            3.7545
+          ],
+          [
+            8.7625,
+            3.7485
+          ],
+          [
+            8.7185,
+            3.7325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-carvao-brooketon-muara-linha-industrial-badas-seria-brunei",
+        "linha": "Ferrovia Histórica de Carvão Brooketon Colliery – Muara e Linha Industrial Badas – Seria (Brunei)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Histórica de Carvão de Brooketon Colliery – Porto de Muara e Linha Industrial Badas – Seria (Brunei)",
+        "sistema_nome_en": "Brooketon Colliery – Muara Coal Heritage Railway & Badas – Seria Industrial Narrow-Gauge Line (Brunei Darussalam)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.0545,
+            5.0345
+          ],
+          [
+            115.0695,
+            5.0245
+          ],
+          [
+            114.3245,
+            4.6085
+          ],
+          [
+            114.4125,
+            4.5685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-muara-container-terminal-seria-brunei",
+        "linha": "Vias Férreas Portuárias do Terminal de Contêineres de Muara e Ilha Pulau Muara Besar (Brunei)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias do Terminal de Contêineres de Muara e Complexo Industrial da Ilha Pulau Muara Besar (Brunei)",
+        "sistema_nome_en": "Muara Container Terminal Crane Tracks & Pulau Muara Besar Industrial Port Rail System (Brunei Darussalam)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.0685,
+            5.0195
+          ],
+          [
+            115.0725,
+            5.0215
+          ],
+          [
+            115.1025,
+            5.0115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "portos-secos-ferroviarios-phuentsholing-pasakha-gelephu-mindfulness-city-butao",
+        "linha": "Portos Secos e Terminais Intermodais Fronteiriços de Phuentsholing / Pasakha e Gelephu (Butão)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Portos Secos e Terminais Ferroviários-Intermodais de Phuentsholing / Pasakha e Gelephu Mindfulness City (Conexão Transfronteiriça Hasimara–Phuentsholing e Kokrajhar–Gelephu, Butão)",
+        "sistema_nome_en": "Phuentsholing / Pasakha & Gelephu Mindfulness City Dry Ports and Cross-Border Rail Gateways (Bhutan)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            89.3885,
+            26.8585
+          ],
+          [
+            89.4545,
+            26.8425
+          ],
+          [
+            90.4865,
+            26.8725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-baia-de-tibar-porto-de-dili-timor-leste",
+        "linha": "Vias Férreas Portuárias do Terminal de Contêineres da Baía de Tíbar e Porto de Díli (Timor-Leste)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas de Pórticos do Porto de Águas Profundas da Baía de Tíbar e Trilhos Históricos do Porto de Díli (Timor-Leste)",
+        "sistema_nome_en": "Tibar Bay Deepwater Container Port Rail Crane Tracks & Historic Port of Dili Wharf Rails (Timor-Leste)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.4895,
+            -8.5635
+          ],
+          [
+            125.5125,
+            -8.5595
+          ],
+          [
+            125.5745,
+            -8.5535
+          ]
+        ]
+      }
     }
   ]
 }
