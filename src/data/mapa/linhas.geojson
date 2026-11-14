@@ -28445,6 +28445,198 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-pepel-marampa-tonkolili-kingho-serra-leoa",
+        "linha": "Corredor Heavy-Haul de Minério de Ferro Porto de Pepel – Lunsar/Marampa – Ferengbeya/Tonkolili (Serra Leoa)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovia Heavy-Haul de Minério de Ferro Pepel – Lunsar/Marampa – Tonkolili (Leone Rock Metal Group / Kingho Railway, Serra Leoa)",
+        "sistema_nome_en": "Pepel – Marampa – Tonkolili Heavy-Haul Iron Ore Railway (Leone Rock Metal Group, Sierra Leone)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -13.0545,
+            8.5845
+          ],
+          [
+            -12.5345,
+            8.6865
+          ],
+          [
+            -11.8325,
+            8.9485
+          ],
+          [
+            -11.6645,
+            9.0525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "museu-ferroviario-nacional-serra-leoa-cline-town-freetown-bo-pendembu-serra-leoa",
+        "linha": "Corredor Patrimonial de Freetown Water Street – Oficinas e Museu Ferroviário de Cline Town – Kissy (Serra Leoa)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Sierra Leone National Railway Museum & Corredor Patrimonial de Cline Town – Water Street (Freetown) – Bo (Serra Leoa)",
+        "sistema_nome_en": "Sierra Leone National Railway Museum at Cline Town (Freetown) & Freetown – Bo Heritage Corridor (Sierra Leone)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -13.2365,
+            8.4875
+          ],
+          [
+            -13.2145,
+            8.4785
+          ],
+          [
+            -13.1925,
+            8.4685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-yekepa-nimba-buchanan-arcelormittal-bong-mines-liberia",
+        "linha": "Ferrovias de Minério de Ferro LAMCO/ArcelorMittal (Yekepa – Gbarnga – Porto de Buchanan) e Bong Mines – Freeport of Monrovia (Libéria)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Heavy-Haul de Minério de Ferro Yekepa (Monte Nimba) – Porto de Buchanan (ArcelorMittal) e Bong Mines – Porto Livre de Monróvia (Libéria)",
+        "sistema_nome_en": "Yekepa – Buchanan Heavy-Haul Iron Ore Railway (ArcelorMittal) & Bong Mines – Monrovia Freeport Railway (Liberia)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.0465,
+            5.8765
+          ],
+          [
+            -9.4725,
+            6.9955
+          ],
+          [
+            -8.5375,
+            7.5795
+          ],
+          [
+            -10.7965,
+            6.3385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-rocas-cacau-rio-do-ouro-agostinho-neto-monte-cafe-porto-alegre-sao-tome-e-principe",
+        "linha": "Redes Ferroviárias Decauville das Roças Rio do Ouro (Agostinho Neto), Monte Café, Água Izé e Sundy (São Tomé e Príncipe)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Patrimoniais das Roças de Cacau e Café (Roça Rio do Ouro / Agostinho Neto, Monte Café, Água Izé e Sundy, São Tomé e Príncipe)",
+        "sistema_nome_en": "São Tomé and Príncipe Cocoa & Coffee Plantation Decauville Railways (Roça Agostinho Neto / Rio do Ouro, Monte Café, Água Izé & Sundy)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6645,
+            0.3625
+          ],
+          [
+            6.6415,
+            0.3015
+          ],
+          [
+            6.7285,
+            0.2215
+          ],
+          [
+            7.3865,
+            1.6685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-pidjiguiti-bissau-bauxita-boé-guine-bissau",
+        "linha": "Vias Férreas Portuárias do Cais de Pidjiguiti / Porto de Bissau (Guiné-Bissau)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias do Cais de Pidjiguiti / Porto de Bissau e Trilhos Industriais de Bauxita e Fosfato de Boé / Farim (Guiné-Bissau)",
+        "sistema_nome_en": "Port of Bissau (Pidjiguiti Quay) Rail Tracks & Boé / Farim Industrial Mining Corridors (Guinea-Bissau)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.5895,
+            11.8515
+          ],
+          [
+            -15.5825,
+            11.8545
+          ],
+          [
+            -15.5745,
+            11.8595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-banjul-kuntaur-groundnut-tramways-gambia",
+        "linha": "Vias Férreas Portuárias de Banjul e Terminais Fluviais de Amendoim de Kaur / Kuntaur (Gâmbia)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Banjul (Government Wharf) e Trilhos Fluviais de Amendoim de Kuntaur e Kaur no Rio Gâmbia (Gâmbia)",
+        "sistema_nome_en": "Port of Banjul Quay Tracks & River Gambia Groundnut Wharf Tramways at Kuntaur and Kaur (The Gambia)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5725,
+            13.4515
+          ],
+          [
+            -15.3215,
+            13.7025
+          ],
+          [
+            -14.8895,
+            13.6715
+          ]
+        ]
+      }
     }
   ]
 }

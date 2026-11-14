@@ -21332,6 +21332,226 @@
           16.8895
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-pepel-marampa-tonkolili-kingho-serra-leoa",
+        "nome": "Terminal Ferroviário e Portuário de Minério de Ferro de Pepel (Porto de Pepel, Serra Leoa)",
+        "linha": "Corredor Heavy-Haul de Minério de Ferro Porto de Pepel – Lunsar/Marampa – Ferengbeya/Tonkolili",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Exportação de Minério de Pepel",
+          "Estuário do Rio Sierra Leone"
+        ],
+        "sistema_nome_pt": "Ferrovia Heavy-Haul de Minério de Ferro Pepel – Lunsar/Marampa – Tonkolili (Leone Rock Metal Group / Kingho Railway, Serra Leoa)",
+        "sistema_nome_en": "Pepel – Marampa – Tonkolili Heavy-Haul Iron Ore Railway (Leone Rock Metal Group, Sierra Leone)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0545,
+          8.5845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-pepel-marampa-tonkolili-kingho-serra-leoa",
+        "nome": "Complexo Ferroviário das Minas de Ferro de Tonkolili (Ferengbeya) e Marampa/Lunsar (Serra Leoa)",
+        "linha": "Corredor Heavy-Haul de Minério de Ferro Porto de Pepel – Lunsar/Marampa – Ferengbeya/Tonkolili",
+        "status": "operacao",
+        "integracoes": [
+          "Mina de Ferro de Tonkolili (Leone Rock)",
+          "Mina de Hematita de Marampa (Lunsar)"
+        ],
+        "sistema_nome_pt": "Ferrovia Heavy-Haul de Minério de Ferro Pepel – Lunsar/Marampa – Tonkolili (Leone Rock Metal Group / Kingho Railway, Serra Leoa)",
+        "sistema_nome_en": "Pepel – Marampa – Tonkolili Heavy-Haul Iron Ore Railway (Leone Rock Metal Group, Sierra Leone)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.6645,
+          9.0525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "museu-ferroviario-nacional-serra-leoa-cline-town-freetown-bo-pendembu-serra-leoa",
+        "nome": "Oficinas Históricas e Museu Ferroviário Nacional de Cline Town (Locomotiva Beyer-Peacock Garratt e Vagão Real de 1961, Freetown, Serra Leoa)",
+        "linha": "Corredor Patrimonial de Freetown Water Street – Oficinas e Museu Ferroviário de Cline Town",
+        "status": "operacao",
+        "integracoes": [
+          "Sierra Leone National Railway Museum",
+          "Locomotiva Histórica Hunslet nº 85"
+        ],
+        "sistema_nome_pt": "Sierra Leone National Railway Museum & Corredor Patrimonial de Cline Town – Water Street (Freetown) – Bo (Serra Leoa)",
+        "sistema_nome_en": "Sierra Leone National Railway Museum at Cline Town (Freetown) & Freetown – Bo Heritage Corridor (Sierra Leone)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2145,
+          8.4785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-yekepa-nimba-buchanan-arcelormittal-bong-mines-liberia",
+        "nome": "Terminal Ferroviário e Portuário de Minério de Ferro de Buchanan (Grand Bassa, Libéria)",
+        "linha": "Ferrovias de Minério de Ferro LAMCO/ArcelorMittal (Yekepa – Gbarnga – Porto de Buchanan)",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Águas Profundas de Buchanan",
+          "Pátio Ferroviário ArcelorMittal Liberia"
+        ],
+        "sistema_nome_pt": "Ferrovias Heavy-Haul de Minério de Ferro Yekepa (Monte Nimba) – Porto de Buchanan (ArcelorMittal) e Bong Mines – Porto Livre de Monróvia (Libéria)",
+        "sistema_nome_en": "Yekepa – Buchanan Heavy-Haul Iron Ore Railway (ArcelorMittal) & Bong Mines – Monrovia Freeport Railway (Liberia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0465,
+          5.8765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-yekepa-nimba-buchanan-arcelormittal-bong-mines-liberia",
+        "nome": "Estação Mineradora de Yekepa / Tokadeh no Monte Nimba (ArcelorMittal, Libéria)",
+        "linha": "Ferrovias de Minério de Ferro LAMCO/ArcelorMittal (Yekepa – Gbarnga – Porto de Buchanan)",
+        "status": "operacao",
+        "integracoes": [
+          "Minas de Ferro de Tokadeh / Monte Nimba",
+          "Terminal Ferroviário de Yekepa"
+        ],
+        "sistema_nome_pt": "Ferrovias Heavy-Haul de Minério de Ferro Yekepa (Monte Nimba) – Porto de Buchanan (ArcelorMittal) e Bong Mines – Porto Livre de Monróvia (Libéria)",
+        "sistema_nome_en": "Yekepa – Buchanan Heavy-Haul Iron Ore Railway (ArcelorMittal) & Bong Mines – Monrovia Freeport Railway (Liberia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5375,
+          7.5795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-minerio-ferro-yekepa-nimba-buchanan-arcelormittal-bong-mines-liberia",
+        "nome": "Terminal Ferroviário de Bong Mines e Freeport of Monrovia (Bushrod Island, Monróvia, Libéria)",
+        "linha": "Ferrovias de Minério de Ferro LAMCO/ArcelorMittal e Bong Mines – Freeport of Monrovia",
+        "status": "operacao",
+        "integracoes": [
+          "Freeport of Monrovia (NPA Liberia)",
+          "Corredor Mineral de Bong Range"
+        ],
+        "sistema_nome_pt": "Ferrovias Heavy-Haul de Minério de Ferro Yekepa (Monte Nimba) – Porto de Buchanan (ArcelorMittal) e Bong Mines – Porto Livre de Monróvia (Libéria)",
+        "sistema_nome_en": "Yekepa – Buchanan Heavy-Haul Iron Ore Railway (ArcelorMittal) & Bong Mines – Monrovia Freeport Railway (Liberia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7965,
+          6.3385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-rocas-cacau-rio-do-ouro-agostinho-neto-monte-cafe-porto-alegre-sao-tome-e-principe",
+        "nome": "Terreiro e Estação Ferroviária da Roça Rio do Ouro / Agostinho Neto e Museu de Monte Café (Ilha de São Tomé)",
+        "linha": "Redes Ferroviárias Decauville das Roças Rio do Ouro (Agostinho Neto), Monte Café, Água Izé e Sundy",
+        "status": "operacao",
+        "integracoes": [
+          "Roça Agostinho Neto (Rio do Ouro)",
+          "Museu do Café de Monte Café"
+        ],
+        "sistema_nome_pt": "Ferrovias Patrimoniais das Roças de Cacau e Café (Roça Rio do Ouro / Agostinho Neto, Monte Café, Água Izé e Sundy, São Tomé e Príncipe)",
+        "sistema_nome_en": "São Tomé and Príncipe Cocoa & Coffee Plantation Decauville Railways (Roça Agostinho Neto / Rio do Ouro, Monte Café, Água Izé & Sundy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6645,
+          0.3625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-rocas-cacau-rio-do-ouro-agostinho-neto-monte-cafe-porto-alegre-sao-tome-e-principe",
+        "nome": "Pátio Ferroviário Decauville da Roça Água Izé e Roça Sundy (São Tomé e Ilha do Príncipe)",
+        "linha": "Redes Ferroviárias Decauville das Roças Rio do Ouro (Agostinho Neto), Monte Café, Água Izé e Sundy",
+        "status": "operacao",
+        "integracoes": [
+          "Roça Água Izé (Cantagalo)",
+          "Roça Sundy (Ilha do Príncipe — Reserva da Biosfera UNESCO)"
+        ],
+        "sistema_nome_pt": "Ferrovias Patrimoniais das Roças de Cacau e Café (Roça Rio do Ouro / Agostinho Neto, Monte Café, Água Izé e Sundy, São Tomé e Príncipe)",
+        "sistema_nome_en": "São Tomé and Príncipe Cocoa & Coffee Plantation Decauville Railways (Roça Agostinho Neto / Rio do Ouro, Monte Café, Água Izé & Sundy)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3865,
+          1.6685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-pidjiguiti-bissau-bauxita-boé-guine-bissau",
+        "nome": "Cais Comercial e Vias Férreas Portuárias de Pidjiguiti (Porto de Bissau, Guiné-Bissau)",
+        "linha": "Vias Férreas Portuárias do Cais de Pidjiguiti / Porto de Bissau",
+        "status": "operacao",
+        "integracoes": [
+          "Porto Comercial de Bissau (APGB)",
+          "Memorial Histórico de Pidjiguiti"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias do Cais de Pidjiguiti / Porto de Bissau e Trilhos Industriais de Bauxita e Fosfato de Boé / Farim (Guiné-Bissau)",
+        "sistema_nome_en": "Port of Bissau (Pidjiguiti Quay) Rail Tracks & Boé / Farim Industrial Mining Corridors (Guinea-Bissau)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5825,
+          11.8545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "vias-ferreas-portuarias-banjul-kuntaur-groundnut-tramways-gambia",
+        "nome": "Terminal Portuário de Banjul e Antigo Cais Ferroviário de Kuntaur (Banjul, Gâmbia)",
+        "linha": "Vias Férreas Portuárias de Banjul e Terminais Fluviais de Amendoim de Kaur / Kuntaur",
+        "status": "operacao",
+        "integracoes": [
+          "Porto de Banjul (Gambia Ports Authority)",
+          "Corredor Fluvial do Rio Gâmbia"
+        ],
+        "sistema_nome_pt": "Vias Férreas Portuárias de Banjul (Government Wharf) e Trilhos Fluviais de Amendoim de Kuntaur e Kaur no Rio Gâmbia (Gâmbia)",
+        "sistema_nome_en": "Port of Banjul Quay Tracks & River Gambia Groundnut Wharf Tramways at Kuntaur and Kaur (The Gambia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5725,
+          13.4515
+        ]
+      }
     }
   ]
 }
