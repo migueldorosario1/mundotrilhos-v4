@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-14T20:17:00-03:00",
+  "atualizado_em": "2026-11-14T20:54:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1810,14 +1810,71 @@
       "foco": "Fase Transporte por Barco Mundial — Grandes Redes de Ferries e Hidrovias das Américas",
       "ronda": "#115",
       "status": "concluido"
+    },
+    {
+      "ordem": 112,
+      "pais": "Fase Hidroviária Mundial #7 — Ásia, África e Oceania (Barcas, Ferries e Hidrovias: Mar Interior de Seto/Miyajima/Tóquio, Hong Kong–Macau–Xangai, Rio Chao Phraya Bangkok e Estreito de Sunda, Laguna de Abidjan e Zanzibar, e Golfo de Hauraki/Estreito de Cook NZ)",
+      "codigo": "HIDRO-ASIA-AF-OC",
+      "continente": "Ásia / África / Oceania",
+      "status": "concluido",
+      "entregue_em": "2026-11-14",
+      "sistemas_adicionados": [
+        "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+        "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+        "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+        "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+        "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia"
+      ]
     }
   ],
   "fila_proximas_rondas": [
     {
-      "ordem": 112,
-      "pais": "Transporte por Barco (Fase Hidroviária Mundial #7 — Ásia, África e Oceania): Ferries do Mar Interior de Seto, JR West Miyajima Ferry e Tokyo Mizube Line (Japão), TurboJET / Cotai Water Jet Hong Kong–Macau e Hidrovia do Rio Yangtzé (China), Chao Phraya Express Boat de Bangkok (Tailândia), Pelni e Ferries de Java–Bali–Sumatra (Indonésia), Bateau-Bus SOTRA da Lagoa Ébrié em Abidjan (Costa do Marfim), Azam Marine Zanzibar–Dar es Salaam (Tanzânia) e Fullers360 de Auckland / Interislander do Estreito de Cook (Nova Zelândia)",
-      "bandeira": "🇯🇵🇨🇳🇹🇭🇮🇩🇨🇮🇹🇿🇳🇿⛴️",
-      "foco": "Fase Transporte por Barco Mundial — Barcas Urbanas e Travessias Marítimas da Ásia, África e Oceania"
+      "ordem": 113,
+      "pais": "Fase Hidroviária Mundial #8 — Reino Unido, Irlanda, França e Canal da Mancha (Thames Clippers Uber Boat Londres, Mersey Ferries Liverpool, Caledonian MacBrayne Escócia, Wightlink/Red Funnel Ilha de Wight e Ferries Dover–Calais / Mar da Irlanda)",
+      "codigo": "HIDRO-UK-IE-FR",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) os barcos urbanos Thames Clippers (Uber Boat) no Rio Tâmisa em Londres, o histórico Mersey Ferry em Liverpool, a malha escocesa Caledonian MacBrayne (CalMac) nas Hébridas e Clyde, os ferries do Solent para a Ilha de Wight (Portsmouth–Fishbourne e Southampton–Cowes) e as rotas marítimas do Canal da Mancha (Dover–Calais) e Mar da Irlanda (Dublin–Holyhead)"
+    },
+    {
+      "ordem": 114,
+      "pais": "Fase Hidroviária Mundial #9 — Adriático, Báltico Sul e Danúbio (Jadrolinija Croácia, BKK D11/D12 Budapeste, Twin City Liner Viena–Bratislava, Ferries Dinamarca–Suécia Helsingør–Helsingborg e Bornholm)",
+      "codigo": "HIDRO-ADRIATICO-DANUBIO",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) a malha de ferries e catamarãs da Jadrolinija na costa dálmata da Croácia (Split, Hvar, Brač, Dubrovnik, Zadar), os barcos urbanos no Rio Danúbio em Budapeste e o catamarã rápido Twin City Liner (Viena–Bratislava), além dos ferries elétricos Øresundslinjen (Helsingør–Helsingborg) e Rønne–Ystad na Dinamarca e Suécia"
+    },
+    {
+      "ordem": 115,
+      "pais": "Fase Hidroviária Mundial #10 — Ásia Oriental e Sudeste Asiático II (Incheon e Ilha Jeju Coreia do Sul, Cingapura–Batam–Bintan, Penang Ferry e Langkawi Malásia, SuperCat Filipinas e Water Bus Saigon Vietnã)",
+      "codigo": "HIDRO-ASIA-II",
+      "continente": "Ásia",
+      "prioridade": "alta",
+      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) os ferries marítimos da Coreia do Sul (Incheon, Mokpo e Ilha Jeju), o corredor internacional de ferries Cingapura (HarbourFront/Tanah Merah)–Batam–Bintan, o tradicional Penang Ferry e catamarãs de Langkawi na Malásia, os ferries inter-ilhas das Filipinas (Manila/Batangas/Cebu–Bohol) e o Saigon Waterbus no Rio Saigon (Ho Chi Minh, Vietnã)"
+    },
+    {
+      "ordem": 116,
+      "pais": "Fase Hidroviária Mundial #11 — Índia, Oriente Médio e Sul da Ásia (Kochi Water Metro, Mumbai Ferry e Ro-Pax Ghogha–Hazira, Hidrovia de Calcutá Hooghly, Abra e Dubai Ferry Emirados Árabes e Ferries de Mascate/Hormuz Omã)",
+      "codigo": "HIDRO-INDIA-OM",
+      "continente": "Ásia",
+      "prioridade": "alta",
+      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) o moderno Kochi Water Metro 100% elétrico em Kerala, as travessias da Baía de Mumbai (Gateway of India–Mandwa/Alibaug e Mora), os ferries urbanos no Rio Hooghly em Calcutá, a rede de Abras e Dubai Ferry no Dubai Creek/Marina e os catamarãs rápidos da Mwasalat em Omã (Shinas–Khasab)"
+    },
+    {
+      "ordem": 117,
+      "pais": "Fase Hidroviária Mundial #12 — África Fluvial, Lacustre e Atlântica (Ferry do Nilo Cairo/Assuã Egito, Lagos Ferry Services Lagferry Nigéria, Travessia Gorée e Rio Casamance Senegal, Hidrovia do Rio Congo Kinshasa–Brazzaville e Ferries do Lago Vitória)",
+      "codigo": "HIDRO-AFRICA-II",
+      "continente": "África",
+      "prioridade": "alta",
+      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) o transporte fluvial público no Rio Nilo (Cairo Water Bus e travessias de Luxor/Assuã), a rede Lagferry na Lagoa de Lagos (Nigéria), a travessia Dacar–Ilha de Gorée e o ferry Dacar–Ziguinchor (Senegal), a travessia fluvial mais movimentada da África Central entre Kinshasa e Brazzaville no Rio Congo e os ferries do Lago Vitória (Mwanza, Entebbe e Kisumu)"
+    },
+    {
+      "ordem": 118,
+      "pais": "Fase Hidroviária Mundial #13 — Caribe, América Central e México (Ultramar Cancún–Isla Mujeres e Playa del Carmen–Cozumel, Ferry de Cataño San Juan Porto Rico, Ferries de Trinidad e Tobago Port of Spain–Scarborough, Canal do Panamá/Taboga e Golfo de Nicoya Costa Rica)",
+      "codigo": "HIDRO-CARIBE-MEX",
+      "continente": "América do Norte / América Central",
+      "prioridade": "alta",
+      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) os catamarãs Ultramar e Winjet no Caribe Mexicano (Cancún–Isla Mujeres e Playa del Carmen–Cozumel), a Lancha de Cataño na Baía de San Juan (Porto Rico), o corredor rápido inter-ilhas entre Trinidad (Port of Spain) e Tobago (Scarborough), os ferries da Ilha Taboga/Arquipélago de las Perlas no Panamá e as travessias de Puntarenas no Golfo de Nicoya (Costa Rica)"
     }
   ]
 }

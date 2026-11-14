@@ -40022,6 +40022,413 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-seto-hiroshima-kure-matsuyama-miyajima",
+        "nome": "Hidrovia Mar Interior de Seto (Miyajima – Hiroshima – Kure – Matsuyama)",
+        "sistema_id": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+        "sistema_nome": "Ferries do Mar Interior de Seto, JR West Miyajima Ferry e Tokyo Cruise Rio Sumida (Japão)",
+        "pais": "Japão",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 88.0,
+        "bitola": "Hidrovia marítima (Super Jet e ferries)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.3196,
+            34.2998
+          ],
+          [
+            132.3037,
+            34.3118
+          ],
+          [
+            132.4633,
+            34.3526
+          ],
+          [
+            132.5539,
+            34.2415
+          ],
+          [
+            132.62,
+            34.05
+          ],
+          [
+            132.7072,
+            33.8617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-seto-takamatsu-shodoshima-naoshima-uno",
+        "nome": "Ferries Setouchi (Takamatsu – Naoshima – Uno/Okayama)",
+        "sistema_id": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+        "sistema_nome": "Ferries do Mar Interior de Seto, JR West Miyajima Ferry e Tokyo Cruise Rio Sumida (Japão)",
+        "pais": "Japão",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 92.0,
+        "bitola": "Hidrovia marítima (Ferries Setouchi)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.0518,
+            34.3527
+          ],
+          [
+            133.9723,
+            34.4586
+          ],
+          [
+            133.9547,
+            34.4912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-tokyo-cruise-sumida-asakusa-odaiba",
+        "nome": "Tokyo Water Bus Rio Sumida (Asakusa – Hinode – Odaiba)",
+        "sistema_id": "ferries-mar-interior-de-seto-jr-west-miyajima-tokyo-sumida-japao",
+        "sistema_nome": "Ferries do Mar Interior de Seto, JR West Miyajima Ferry e Tokyo Cruise Rio Sumida (Japão)",
+        "pais": "Japão",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 35.0,
+        "bitola": "Hidrovia fluvial e baía metropolitana"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.7985,
+            35.711
+          ],
+          [
+            139.786,
+            35.685
+          ],
+          [
+            139.7615,
+            35.6512
+          ],
+          [
+            139.7711,
+            35.6295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-turbojet-cotai-hong-kong-macau-shekou",
+        "nome": "Corredor de Alta Velocidade Delta do Rio das Pérolas (Macau – Hong Kong Central – Shenzhen Shekou)",
+        "sistema_id": "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+        "sistema_nome": "TurboJET / Cotai Water Jet (Hong Kong–Macau–Shenzhen), Star Ferry e Barcas do Rio Huangpu (China)",
+        "pais": "China",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 125.0,
+        "bitola": "Hidrovia estuarina de alta velocidade (Jetfoil / Catamarã)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.5588,
+            22.1969
+          ],
+          [
+            113.85,
+            22.22
+          ],
+          [
+            114.1518,
+            22.2881
+          ],
+          [
+            114.1688,
+            22.2936
+          ],
+          [
+            113.9144,
+            22.4765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-xangai-huangpu-ferry-bund-lujiazui",
+        "nome": "Barcas Urbanas do Rio Huangpu em Xangai (Bund Jinling East Road – Dongchang Road Pudong)",
+        "sistema_id": "turbojet-hong-kong-macau-hidrovia-rio-yangtze-huangpu-xangai-china",
+        "sistema_nome": "TurboJET / Cotai Water Jet (Hong Kong–Macau–Shenzhen), Star Ferry e Barcas do Rio Huangpu (China)",
+        "pais": "China",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 70.0,
+        "bitola": "Hidrovia fluvial metropolitana (Rio Huangpu)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.4882,
+            31.213
+          ],
+          [
+            121.4926,
+            31.2335
+          ],
+          [
+            121.5008,
+            31.2328
+          ],
+          [
+            121.545,
+            31.275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-chao-phraya-express-sathorn-nonthaburi",
+        "nome": "Hidrovia Metropolitana Rio Chao Phraya (Sathorn Central Pier – Grand Palace – Nonthaburi)",
+        "sistema_id": "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+        "sistema_nome": "Chao Phraya Express Boat / MINE Smart Ferry (Bangkok) e Ferries ASDP Estreito de Sunda e Bali (Tailândia e Indonésia)",
+        "pais": "Tailândia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 42.0,
+        "bitola": "Hidrovia fluvial metropolitana (barcos expressos e catamarãs elétricos)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5042,
+            13.704
+          ],
+          [
+            100.513,
+            13.7188
+          ],
+          [
+            100.4888,
+            13.7556
+          ],
+          [
+            100.4939,
+            13.8414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-asdp-estreito-de-sunda-merak-bakauheni",
+        "nome": "Ponte Marítima ASDP Estreito de Sunda (Merak, Java – Bakauheni, Sumatra)",
+        "sistema_id": "chao-phraya-express-boat-bangkok-asdp-ferries-sunda-bali-tailandia-indonesia",
+        "sistema_nome": "Chao Phraya Express Boat / MINE Smart Ferry (Bangkok) e Ferries ASDP Estreito de Sunda e Bali (Tailândia e Indonésia)",
+        "pais": "Indonésia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 73.0,
+        "bitola": "Hidrovia marítima inter-ilhas (ferries ro-ro)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.9958,
+            -5.9317
+          ],
+          [
+            105.88,
+            -5.9
+          ],
+          [
+            105.7533,
+            -5.8711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-azam-marine-dar-es-salaam-zanzibar",
+        "nome": "Expresso Marítimo Canal de Zanzibar (Dar es Salaam Ferry Terminal – Zanzibar Stone Town)",
+        "sistema_id": "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+        "sistema_nome": "Bateau-Bus SOTRA / STL Laguna Ébrié (Abidjan) e Catamarãs Azam Marine Dar es Salaam–Zanzibar (Costa do Marfim e Tanzânia)",
+        "pais": "Tanzânia",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 78.0,
+        "bitola": "Hidrovia oceânica de alta velocidade (Catamarãs Kilimanjaro)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2903,
+            -6.819
+          ],
+          [
+            39.26,
+            -6.48
+          ],
+          [
+            39.1887,
+            -6.156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bateau-bus-laguna-ebrie-abidjan",
+        "nome": "Bateau-Bus Laguna Ébrié (Plateau – Treichville – Abobo-Doumé, Abidjan)",
+        "sistema_id": "bateau-bus-sotra-abidjan-azam-marine-dar-es-salaam-zanzibar-costa-do-marfim-tanzania",
+        "sistema_nome": "Bateau-Bus SOTRA / STL Laguna Ébrié (Abidjan) e Catamarãs Azam Marine Dar es Salaam–Zanzibar (Costa do Marfim e Tanzânia)",
+        "pais": "Costa do Marfim",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 40.0,
+        "bitola": "Hidrovia lagunar metropolitana (Bateau-Bus SOTRA/STL)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0355,
+            5.331
+          ],
+          [
+            -4.0172,
+            5.3186
+          ],
+          [
+            -4.0128,
+            5.3082
+          ],
+          [
+            -3.982,
+            5.324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-auckland-ferry-downtown-devonport-waiheke",
+        "nome": "Auckland Harbour & Hauraki Gulf Ferries (Downtown Britomart – Devonport – Ilha Waiheke)",
+        "sistema_id": "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia",
+        "sistema_nome": "Ferries AT / Fullers360 do Golfo de Hauraki (Auckland) e Travessia Interislander / Bluebridge no Estreito de Cook (Nova Zelândia)",
+        "pais": "Nova Zelândia",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 55.0,
+        "bitola": "Hidrovia metropolitana (Auckland Transport Ferries)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7669,
+            -36.8422
+          ],
+          [
+            174.795,
+            -36.8322
+          ],
+          [
+            174.88,
+            -36.815
+          ],
+          [
+            174.9969,
+            -36.7825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cook-strait-interislander-wellington-picton",
+        "nome": "Ferry Inter-Ilhas Estreito de Cook (Wellington – Marlborough Sounds – Picton)",
+        "sistema_id": "fullers360-auckland-interislander-bluebridge-estreito-de-cook-nova-zelandia",
+        "sistema_nome": "Ferries AT / Fullers360 do Golfo de Hauraki (Auckland) e Travessia Interislander / Bluebridge no Estreito de Cook (Nova Zelândia)",
+        "pais": "Nova Zelândia",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 120.0,
+        "bitola": "Hidrovia inter-ilhas ferroviária e rodoviária (Interislander / Bluebridge)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7875,
+            -41.2647
+          ],
+          [
+            174.62,
+            -41.24
+          ],
+          [
+            174.31,
+            -41.19
+          ],
+          [
+            174.0069,
+            -41.2872
+          ]
+        ]
+      }
     }
   ]
 }
