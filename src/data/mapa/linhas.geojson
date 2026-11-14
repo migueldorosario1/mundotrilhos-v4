@@ -28261,6 +28261,190 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "chemin-de-fer-de-la-reunion-ti-train-lontan-la-grande-chaloupe-saint-denis-saint-pierre-ilha-da-reuniao",
+        "linha": "Corredor Ferroviário Patrimonial Ti Train Lontan (Saint-Denis – Túnel de La Montagne – Gare de La Grande Chaloupe – Le Port, Ilha da Reunião)",
+        "cor": "#ff9100",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Chemin de Fer de La Réunion ('Ti Train Lontan' — Ferrovia Patrimonial de La Grande Chaloupe e Túneis Costeiros Saint-Denis – Le Port – Saint-Pierre, Ilha da Reunião)",
+        "sistema_nome_en": "La Réunion Railway 'Ti Train Lontan' Heritage Line at La Grande Chaloupe & Saint-Denis – Saint-Pierre Coastal Tunnels (Réunion Island)",
+        "tipo": "trem_convencional"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4482,
+            -20.8789
+          ],
+          [
+            55.3785,
+            -20.8965
+          ],
+          [
+            55.3215,
+            -20.9245
+          ],
+          [
+            55.6615,
+            -21.1195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-industriais-acucareiras-bois-rouge-le-gol-port-reunion-le-port-ilha-da-reuniao",
+        "linha": "Vias Férreas Portuárias e Açucareiras de Pointe des Galets / Port Est (Le Port) e Bois-Rouge (Ilha da Reunião)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Port Réunion (Pointe des Galets / Le Port) e Trilhos Açucareiros das Usinas de Bois-Rouge e Le Gol (Ilha da Reunião)",
+        "sistema_nome_en": "Port Réunion Container & Sugar Terminal Rail Tracks at Le Port & Bois-Rouge / Le Gol Sugar Mills (Réunion Island)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2845,
+            -20.9365
+          ],
+          [
+            55.2915,
+            -20.9315
+          ],
+          [
+            55.3185,
+            -20.924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovia-industrial-pedreira-koungou-longoni-porto-dzoudzi-mayotte",
+        "linha": "Vias Férreas do Porto de Longoni, Pedreira de Koungou e Écomusée Açucareiro de Soulou (Mayotte)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Longoni, Pedreira de Koungou e Trilhos Açucareiros Patrimoniais de Soulou / Dzoumogné (Mayotte)",
+        "sistema_nome_en": "Longoni Port Crane Tracks, Koungou Quarry Railway & Soulou Heritage Sugar Mill Rails (Mayotte)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.1095,
+            -12.7715
+          ],
+          [
+            45.1615,
+            -12.7315
+          ],
+          [
+            45.1985,
+            -12.7425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-portuarias-victoria-ste-anne-guano-aldabra-astove-seicheles",
+        "linha": "Vias Férreas Portuárias de Port Victoria (Mahé) e Trilhos Mineradores de Guano/Fosfato das Seicheles",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Vias Férreas Portuárias de Port Victoria (Mahé) e Ferrovias Insulares de Guano/Fosfato de St. Pierre, Astove e Assumpção (Seicheles)",
+        "sistema_nome_en": "Port Victoria Quay Tracks (Mahé) & Outer Islands Guano Phosphate Railways on St. Pierre, Astove & Assumption (Seychelles)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4515,
+            -4.6195
+          ],
+          [
+            55.4585,
+            -4.6235
+          ],
+          [
+            55.4665,
+            -4.6345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-portuarias-moroni-mutsamudu-plantacoes-ylang-ylang-bambao-comores",
+        "linha": "Ferrovia Decauville de Bambao – Mutsamudu (Anjouan) e Cais Portuário de Moroni (Comores)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Trilhos Industriais de Plantações de Bambao (Anjouan) e Vias Férreas Portuárias de Moroni (Grande Comore) e Mutsamudu (Comores)",
+        "sistema_nome_en": "Bambao Plantation Decauville Railway (Anjouan) & Moroni / Mutsamudu Port Tracks (Comoros)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.3985,
+            -12.1665
+          ],
+          [
+            44.4325,
+            -12.1925
+          ],
+          [
+            44.4685,
+            -12.2145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sistema_id": "ferrovias-portuarias-carvoeiras-porto-grande-mindelo-salinas-pedra-de-lume-santa-maria-cabo-verde",
+        "linha": "Ferrovias Salgueiras de Pedra de Lume / Santa Maria (Ilha do Sal) e Trilhos Portuários do Mindelo (São Vicente, Cabo Verde)",
+        "cor": "#aa00ff",
+        "status": "operacao",
+        "geometria_aproximada": false,
+        "sistema_nome_pt": "Ferrovias Salgueiras de Pedra de Lume / Santa Maria (Ilha do Sal), Trilhos de Pozolana de Santo Antão e Vias Carvoeiras de Porto Grande no Mindelo (Cabo Verde)",
+        "sistema_nome_en": "Pedra de Lume & Santa Maria Salt Railways (Sal Island), Porto Novo Pozzolana Tracks & Mindelo Coal Wharf Rails (Cape Verde)",
+        "tipo": "ferrovia_carga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -22.8945,
+            16.7635
+          ],
+          [
+            -22.9045,
+            16.5985
+          ],
+          [
+            -24.9915,
+            16.8895
+          ]
+        ]
+      }
     }
   ]
 }
