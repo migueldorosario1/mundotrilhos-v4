@@ -41503,6 +41503,364 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-kochi-water-metro-high-court-vypin-fort-kochi-vyttila-kakkanad",
+        "nome": "Kochi Water Metro (High Court – Vypin – Fort Kochi – Bolgatty & Vyttila Hub – Kakkanad InfoPark)",
+        "sistema_id": "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+        "sistema_nome": "Kochi Water Metro (100% Elétrico Híbrido) e Rede Hidroviária Pública SWTD nos Backwaters de Kerala (Kochi–Alappuzha–Kottayam–Kollam, Índia)",
+        "pais": "Índia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 45.0,
+        "bitola": "Hidrovia metropolitana elétrico-híbrida (Kochi Water Metro)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2425,
+            9.9685
+          ],
+          [
+            76.2495,
+            9.9745
+          ],
+          [
+            76.2755,
+            9.9816
+          ],
+          [
+            76.3205,
+            9.9675
+          ],
+          [
+            76.3485,
+            10.0055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-swtd-kerala-backwaters-alappuzha-kottayam-kollam",
+        "nome": "Hidrovia Estadual SWTD Backwaters de Kerala (Vaikom Solar Ferry – Alappuzha – Kottayam – Kollam)",
+        "sistema_id": "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+        "sistema_nome": "Kochi Water Metro (100% Elétrico Híbrido) e Rede Hidroviária Pública SWTD nos Backwaters de Kerala (Kochi–Alappuzha–Kottayam–Kollam, Índia)",
+        "pais": "Índia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 120.0,
+        "bitola": "Hidrovia Nacional 3 (SWTD Kerala Backwaters)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.3915,
+            9.7485
+          ],
+          [
+            76.3425,
+            9.5015
+          ],
+          [
+            76.5125,
+            9.5885
+          ],
+          [
+            76.5855,
+            8.8875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baia-de-mumbai-ferry-wharf-gateway-mandwa-alibaug-elephanta",
+        "nome": "Corredor Ro-Pax & Catamarãs da Baía de Mumbai (Ferry Wharf / Gateway of India – Mandwa/Alibaug, Mora & Ilha de Elephanta)",
+        "sistema_id": "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+        "sistema_nome": "Ferries Ro-Pax e Catamarãs da Baía de Mumbai (Ferry Wharf / Gateway of India – Mandwa/Alibaug, Mora e Elephanta) e Golfo de Khambhat (Ghogha–Hazira, Índia)",
+        "pais": "Índia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Hidrovia metropolitana (M2M Ro-Pax & Catamarãs de Mumbai)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8515,
+            18.9565
+          ],
+          [
+            72.8347,
+            18.922
+          ],
+          [
+            72.9315,
+            18.9635
+          ],
+          [
+            72.8835,
+            18.8045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-golfo-de-khambhat-ropax-hazira-surat-ghogha-bhavnagar",
+        "nome": "Ponte Marítima Ro-Pax do Golfo de Khambhat (Hazira / Surat – Ghogha / Bhavnagar, Gujarat)",
+        "sistema_id": "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+        "sistema_nome": "Ferries Ro-Pax e Catamarãs da Baía de Mumbai (Ferry Wharf / Gateway of India – Mandwa/Alibaug, Mora e Elephanta) e Golfo de Khambhat (Ghogha–Hazira, Índia)",
+        "pais": "Índia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 90.0,
+        "bitola": "Hidrovia marítima Ro-Pax (Golfo de Khambhat)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6345,
+            21.0885
+          ],
+          [
+            72.42,
+            21.35
+          ],
+          [
+            72.2845,
+            21.6855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rio-hooghly-howrah-station-fairlie-place-babughat-dakshineswar",
+        "nome": "Hidrovia Metropolitana do Rio Hooghly (Babu Ghat – Fairlie Place – Estação Howrah – Belur Math – Dakshineswar, Calcutá)",
+        "sistema_id": "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+        "sistema_nome": "Ferries Metropolitanos do Rio Hooghly em Calcutá–Howrah (Hidrovia Nacional 1) e Travessias do Rio Brahmaputra em Guwahati e Ilha de Majuli (Índia)",
+        "pais": "Índia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 35.0,
+        "bitola": "Hidrovia Nacional 1 (WBTC Rio Hooghly, Calcutá)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3385,
+            22.5645
+          ],
+          [
+            88.3475,
+            22.5765
+          ],
+          [
+            88.3445,
+            22.5815
+          ],
+          [
+            88.3575,
+            22.6325
+          ],
+          [
+            88.3565,
+            22.6555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rio-brahmaputra-guwahati-north-guwahati-jorhat-majuli",
+        "nome": "Hidrovia Nacional 2 Rio Brahmaputra (Guwahati Kachari Ghat – North Guwahati & Nimati Ghat Jorhat – Ilha de Majuli, Assam)",
+        "sistema_id": "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+        "sistema_nome": "Ferries Metropolitanos do Rio Hooghly em Calcutá–Howrah (Hidrovia Nacional 1) e Travessias do Rio Brahmaputra em Guwahati e Ilha de Majuli (Índia)",
+        "pais": "Índia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 110.0,
+        "bitola": "Hidrovia Nacional 2 (IWT Assam Rio Brahmaputra)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.7425,
+            26.1895
+          ],
+          [
+            91.7315,
+            26.2055
+          ],
+          [
+            94.2485,
+            26.8585
+          ],
+          [
+            94.1855,
+            26.9425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rta-dubai-creek-abras-dubai-ferry-marina-sharjah",
+        "nome": "RTA Dubai Creek Abras (Bur Dubai – Deira) & Dubai Ferry FR1/FR5 (Dubai Marina – Al Ghubaiba – Sharjah)",
+        "sistema_id": "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+        "sistema_nome": "Rede Hidroviária RTA de Dubai (Abras Tradicionais e Elétricos do Dubai Creek, Dubai Ferry e Water Bus) e Ferries de Abu Dhabi (Emirados Árabes Unidos)",
+        "pais": "Emirados Árabes Unidos",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Hidrovia metropolitana (RTA Abras e Dubai Ferry)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.1385,
+            25.0765
+          ],
+          [
+            55.2865,
+            25.2655
+          ],
+          [
+            55.2925,
+            25.2645
+          ],
+          [
+            55.3595,
+            25.3285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-abu-dhabi-maritime-jebel-dhanna-delma-island",
+        "nome": "Ferry Ro-Pax do Golfo Pérsico — Abu Dhabi Maritime (Jebel Dhanna – Ilha Delma, Abu Dhabi)",
+        "sistema_id": "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+        "sistema_nome": "Rede Hidroviária RTA de Dubai (Abras Tradicionais e Elétricos do Dubai Creek, Dubai Ferry e Water Bus) e Ferries de Abu Dhabi (Emirados Árabes Unidos)",
+        "pais": "Emirados Árabes Unidos",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 70.0,
+        "bitola": "Hidrovia marítima insular (Abu Dhabi Maritime)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.6255,
+            24.1885
+          ],
+          [
+            52.3215,
+            24.4865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mwasalat-nfc-golfo-de-oma-shinas-dibba-khasab-musandam",
+        "nome": "Expresso Marítimo de Musandam / Estreito de Ormuz (Porto de Shinas – Dibba – Lima – Porto de Khasab, Omã)",
+        "sistema_id": "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma",
+        "sistema_nome": "Catamarãs de Alta Velocidade Mwasalat / NFC (Shinas–Khasab/Musandam e Shannah–Ilha de Masirah) e Ferries do Estreito de Ormuz (Omã)",
+        "pais": "Omã",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 350.0,
+        "bitola": "Hidrovia oceânica de alta velocidade (Catamarãs Shinas / Hormuz)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            56.4685,
+            24.7455
+          ],
+          [
+            56.2655,
+            25.6315
+          ],
+          [
+            56.45,
+            26.15
+          ],
+          [
+            56.2485,
+            26.2045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mwasalat-ferry-shannah-ilha-de-masirah-oma",
+        "nome": "Ponte Marítima Ro-Pax da Ilha de Masirah (Porto de Shannah – Terminal de Hilf / Ilha de Masirah, Mar Arábico)",
+        "sistema_id": "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma",
+        "sistema_nome": "Catamarãs de Alta Velocidade Mwasalat / NFC (Shinas–Khasab/Musandam e Shannah–Ilha de Masirah) e Ferries do Estreito de Ormuz (Omã)",
+        "pais": "Omã",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 35.0,
+        "bitola": "Hidrovia marítima Ro-Pax (Canal de Masirah)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            58.7365,
+            20.7515
+          ],
+          [
+            58.8685,
+            20.6645
+          ]
+        ]
+      }
     }
   ]
 }

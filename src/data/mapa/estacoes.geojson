@@ -34091,6 +34091,366 @@
           10.1585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kochi-water-metro-high-court",
+        "nome": "Terminal Flutuante High Court (Kochi Water Metro, Kerala, Índia)",
+        "sistema_id": "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+        "linha_id": "linha-kochi-water-metro-high-court-vypin-fort-kochi-vyttila-kakkanad",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2755,
+          9.9816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kochi-water-metro-fort-kochi",
+        "nome": "Terminal Kochi Water Metro de Fort Kochi (Kerala, Índia)",
+        "sistema_id": "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+        "linha_id": "linha-kochi-water-metro-high-court-vypin-fort-kochi-vyttila-kakkanad",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2425,
+          9.9685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kochi-water-metro-vyttila-hub",
+        "nome": "Terminal Intermodal Vyttila Mobility Hub (Metrô + Water Metro, Kochi)",
+        "sistema_id": "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+        "linha_id": "linha-kochi-water-metro-high-court-vypin-fort-kochi-vyttila-kakkanad",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3205,
+          9.9675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-alappuzha-swtd-boat-jetty",
+        "nome": "Terminal Hidroviário Estadual de Alappuzha (SWTD Backwaters, Kerala)",
+        "sistema_id": "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+        "linha_id": "linha-swtd-kerala-backwaters-alappuzha-kottayam-kollam",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3425,
+          9.5015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mumbai-bhaucha-dhakka-ferry-wharf",
+        "nome": "Terminal Ro-Pax de Bhaucha Dhakka / Ferry Wharf (M2M Ferries, Mumbai)",
+        "sistema_id": "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+        "linha_id": "linha-baia-de-mumbai-ferry-wharf-gateway-mandwa-alibaug-elephanta",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8515,
+          18.9565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mandwa-ropax-ferry-terminal-alibaug",
+        "nome": "Terminal Ro-Pax e de Catamarãs de Mandwa (Alibaug, Maharashtra)",
+        "sistema_id": "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+        "linha_id": "linha-baia-de-mumbai-ferry-wharf-gateway-mandwa-alibaug-elephanta",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8835,
+          18.8045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hazira-ropax-terminal-surat",
+        "nome": "Terminal Ro-Pax de Hazira (Surat, Golfo de Khambhat, Gujarat)",
+        "sistema_id": "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+        "linha_id": "linha-golfo-de-khambhat-ropax-hazira-surat-ghogha-bhavnagar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6345,
+          21.0885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ghogha-ropax-terminal-bhavnagar",
+        "nome": "Terminal Ro-Pax de Ghogha (Bhavnagar, Saurashtra, Gujarat)",
+        "sistema_id": "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+        "linha_id": "linha-golfo-de-khambhat-ropax-hazira-surat-ghogha-bhavnagar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2845,
+          21.6855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-howrah-station-ferry-ghat-kolkata",
+        "nome": "Howrah Station Ferry Ghat (Conexão Estação Ferroviária de Howrah, Calcutá)",
+        "sistema_id": "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+        "linha_id": "linha-rio-hooghly-howrah-station-fairlie-place-babughat-dakshineswar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3445,
+          22.5815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-fairlie-place-ferry-ghat-kolkata",
+        "nome": "Terminal Fluvial Fairlie Place / BBD Bagh (Rio Hooghly, Calcutá)",
+        "sistema_id": "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+        "linha_id": "linha-rio-hooghly-howrah-station-fairlie-place-babughat-dakshineswar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3475,
+          22.5765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-guwahati-kachari-ferry-ghat-assam",
+        "nome": "Terminal Hidroviário de Guwahati / Kachari Ghat (Rio Brahmaputra, Assam)",
+        "sistema_id": "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+        "linha_id": "linha-rio-brahmaputra-guwahati-north-guwahati-jorhat-majuli",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7425,
+          26.1895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kamalabari-ferry-ghat-majuli",
+        "nome": "Terminal de Ferry de Kamalabari (Ilha Fluvial de Majuli, Rio Brahmaputra)",
+        "sistema_id": "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+        "linha_id": "linha-rio-brahmaputra-guwahati-north-guwahati-jorhat-majuli",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1855,
+          26.9425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-al-ghubaiba-marine-station-dubai",
+        "nome": "Estação Marítima Al Ghubaiba (Conexão Metrô de Dubai / RTA Dubai Creek)",
+        "sistema_id": "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+        "linha_id": "linha-rta-dubai-creek-abras-dubai-ferry-marina-sharjah",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2865,
+          25.2655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bur-dubai-abra-station-creek",
+        "nome": "Estação de Abras de Bur Dubai / Deira Old Souq (Dubai Creek)",
+        "sistema_id": "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+        "linha_id": "linha-rta-dubai-creek-abras-dubai-ferry-marina-sharjah",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2925,
+          25.2645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dubai-marina-mall-ferry-station",
+        "nome": "Estação Dubai Marina Mall Marine Transport (RTA Dubai Ferry)",
+        "sistema_id": "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+        "linha_id": "linha-rta-dubai-creek-abras-dubai-ferry-marina-sharjah",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1385,
+          25.0765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-delma-island-ferry-terminal-abu-dhabi",
+        "nome": "Terminal de Ferry da Ilha Delma (Abu Dhabi Maritime, Emirados Árabes)",
+        "sistema_id": "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+        "linha_id": "linha-abu-dhabi-maritime-jebel-dhanna-delma-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3215,
+          24.4865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-khasab-nfc-musandam-oma",
+        "nome": "Terminal de Catamarãs Rápidos de Khasab (Musandam / Estreito de Ormuz, Omã)",
+        "sistema_id": "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma",
+        "linha_id": "linha-mwasalat-nfc-golfo-de-oma-shinas-dibba-khasab-musandam",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2485,
+          26.2045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-shinas-nfc-oma",
+        "nome": "Terminal Marítimo de Shinas (Mwasalat / NFC, Golfo de Omã)",
+        "sistema_id": "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma",
+        "linha_id": "linha-mwasalat-nfc-golfo-de-oma-shinas-dibba-khasab-musandam",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4685,
+          24.7455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-shannah-ferry-oma",
+        "nome": "Terminal de Ferries de Shannah (Continente, Omã)",
+        "sistema_id": "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma",
+        "linha_id": "linha-mwasalat-ferry-shannah-ilha-de-masirah-oma",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.7365,
+          20.7515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hilf-masirah-island-ferry-oma",
+        "nome": "Terminal de Ferries de Hilf (Ilha de Masirah, Omã)",
+        "sistema_id": "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma",
+        "linha_id": "linha-mwasalat-ferry-shannah-ilha-de-masirah-oma",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8685,
+          20.6645
+        ]
+      }
     }
   ]
 }
