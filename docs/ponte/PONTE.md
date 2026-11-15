@@ -1446,6 +1446,23 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.594 páginas estáticas geradas** (`npm run build` com código 0).
 - **Próxima Ronda (#150 / Ordem 146 da Fila)**: `HIDRO-MEDITERRANEO-EGEU-ADRIATICO-IBERIA-III` (Fase Hidroviária Mundial #36 — Mediterrâneo, Mar Egeu, Adriático e Península Ibérica III).
 
+### #151 — 15/11/2026 13:47 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #150 CONCLUÍDA EM PRODUÇÃO (`commit` na `main`, `2604 page(s) built`): ORDEM 146 DA FILA — FASE HIDROVIÁRIA MUNDIAL #36 (MEDITERRÂNEO, MAR EGEU, ADRIÁTICO E PENÍNSULA IBÉRICA III: PORTUGAL, ESPANHA, ITÁLIA, GRÉCIA, MONTENEGRO E ALBÂNIA — MARCO HISTÓRICO DA RONDA #150, 950+ SISTEMAS E 2.600+ PÁGINAS ESTÁTICAS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 146 Concluída (`HIDRO-MEDITERRANEO-EGEU-ADRIATICO-IBERIA-III`) — 5 sistemas hidroviários de barcos, catamarãs, hidroglissadores e ferries (`2.550 km`, 10 linhas, 25 terminais)**:
+  1. `atlanticoline-acores-porto-santo-line-madeira-ria-de-aveiro-ferries-douro-minho-portugal` (🇵🇹 Portugal — Atlânticoline no Triângulo dos Açores Horta–Madalena do Pico–Velas de São Jorge, Porto Santo Line Funchal–Porto Santo na Madeira, Ferry 100% Elétrico Salicórnia na Ria de Aveiro e Travessia do Rio Douro Afurada–Porto, `620 km`, 2 linhas, 5 terminais)
+  2. `mar-de-ons-piratas-de-nabia-ria-de-vigo-cangas-moana-ilhas-cies-ons-formentera-ibiza-trasmapi-espanha` (🇪🇸 Espanha — Catamarãs Metropolitanos da Ría de Vigo Mar de Ons e Nabia Vigo–Cangas–Moaña–Ilhas Cíes/Ons na Galícia e Ponte Marítima de Alta Velocidade Ibiza–Formentera La Savina nas Ilhas Baleares, `290 km`, 2 linhas, 5 terminais)
+  3. `delcomar-maddalena-carloforte-sardenha-siremar-liberty-lines-ilhas-eolias-milazzo-lipari-stromboli-egadi-trapani-italia` (🇮🇹 Itália — Ferries Insulares da Sardenha Delcomar Palau–La Maddalena e Carloforte e Hidroglissadores e Monocascos Híbridos da Sicília Liberty Lines/Siremar Milazzo–Lipari–Stromboli nas Ilhas Eólias UNESCO e Trapani–Favignana nas Ilhas Égadi, `580 km`, 2 linhas, 5 terminais)
+  4. `dodekanisos-seaways-anem-rodes-symi-kos-kalymnos-leros-patmos-seajets-esporades-volos-skiathos-skopelos-alonissos-grecia` (🇬🇷 Grécia — Catamarãs do Dodecaneso Dodekanisos Seaways Rodes–Symi–Kos–Kalymnos–Patmos e Ferries das Ilhas Espórades Volos–Skiathos–Skopelos–Alonissos, `670 km`, 2 linhas, 5 terminais)
+  5. `boka-bay-ferry-kamenari-lepetane-kotor-montenegro-ionian-seaways-corfu-sarande-igoumenitsa-paxos-levkada-albania-grecia` (🇲🇪🇦🇱🇬🇷 Montenegro, Albânia e Grécia — Travessia Ro-Ro 24h da Baía de Kotor Kamenari–Lepetane em Montenegro, Canal Internacional de Corfu Sarandë–Corfu e Ferries das Ilhas Jônicas Igoumenitsa–Corfu–Paxos–Cefalônia, `390 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa**:
+  - **954 sistemas no banco** — superando a marca histórica de **950+ sistemas mapeados** (**938 em operação**, sendo **218 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos!)
+  - **1.349 linhas mapeadas** (**1.330 em operação**, sendo **435 linhas hidroviárias de barcos/ferries**)
+  - **2.325 estações e terminais geolocalizados** (**891 terminais hidroviários de barcos/ferries**)
+  - **2.604 páginas estáticas geradas** — superando **2.600+ páginas estáticas** (`npm run build` com código 0).
+- **Próxima Ronda (#151 / Ordem 147 da Fila)**: `HIDRO-AMERICA-DO-NORTE-ARTICO-ALASCA-MISSISSIPI-III` (Fase Hidroviária Mundial #37 — América do Norte Fluvial, Ártico Canadense, Baía de Chesapeake e Golfo do México III).
+
+
 
 
 
