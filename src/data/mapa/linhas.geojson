@@ -50350,6 +50350,380 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-andaman-port-blair-havelock-neil-diglipur",
+        "nome": "Eixo Insular de Andaman e Nicobar (Port Blair Phoenix Bay – Swaraj Dweep/Havelock – Shaheed Dweep/Neil – Diglipur – Hut Bay)",
+        "sistema_id": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "sistema_slug": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "pais": "Índia",
+        "cidade": "Port Blair / Swaraj Dweep",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 580
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7385,
+            11.6725
+          ],
+          [
+            92.9525,
+            11.8325
+          ],
+          [
+            92.9895,
+            12.0335
+          ],
+          [
+            92.9785,
+            13.2655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-lakshadweep-kochi-kavaratti-agatti-minicoy",
+        "nome": "Ponte Marítima e Ferries dos Atóis de Lakshadweep (Kochi – Kavaratti – Agatti – Minicoy, Mar das Laquedivas)",
+        "sistema_id": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "sistema_slug": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "pais": "Índia",
+        "cidade": "Kavaratti / Agatti / Kochi",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 540
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2673,
+            9.9312
+          ],
+          [
+            72.6369,
+            10.5626
+          ],
+          [
+            72.1925,
+            10.8585
+          ],
+          [
+            73.0455,
+            8.2835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-rnd-goa-panaji-betim-ribandar-chorao-divar",
+        "nome": "Rede Fluvial RND de Goa no Rio Mandovi e Zuari (Panaji–Betim, Ribandar–Ilha de Chorão e São Pedro–Ilha de Divar)",
+        "sistema_id": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "sistema_slug": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "pais": "Índia",
+        "cidade": "Panaji / Ilha de Chorão / Ilha de Divar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8325,
+            15.5015
+          ],
+          [
+            73.8345,
+            15.5065
+          ],
+          [
+            73.8695,
+            15.5125
+          ],
+          [
+            73.9025,
+            15.5185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-konkan-suvarnadurg-dighi-dabhol-jaigad",
+        "nome": "Corredor de Balsas Ro-Ro da Costa de Konkan (Dighi–Agardanda, Vesvi–Bagmandla, Dabhol–Dhopave e Jaigad–Tawsal, Maharashtra)",
+        "sistema_id": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "sistema_slug": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "pais": "Índia",
+        "cidade": "Dabhol / Jaigad",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 285
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9685,
+            18.2725
+          ],
+          [
+            73.0355,
+            17.9825
+          ],
+          [
+            73.1755,
+            17.5845
+          ],
+          [
+            73.2185,
+            17.2985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-nw1-ganges-varanasi-patna-sahibganj",
+        "nome": "Hidrovia Nacional 1 do Rio Ganges (Varanasi Ravidas Ghat–Namo Ghat, Patna Gaighat e Travessia Sahibganj–Manihari)",
+        "sistema_id": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "sistema_slug": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "pais": "Índia",
+        "cidade": "Varanasi / Patna / Sahibganj",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 460
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.0105,
+            25.3085
+          ],
+          [
+            85.1955,
+            25.6185
+          ],
+          [
+            87.6425,
+            25.2465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-sagar-island-sundarbans-lago-chilika-odisha",
+        "nome": "Travessias da Ilha Sagar / Sundarbans (Kakdwip Lot 8 – Kachuberia) e Ferry Ro-Pax do Lago Chilika (Satapada – Janikuda, Odisha)",
+        "sistema_id": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "sistema_slug": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "pais": "Índia",
+        "cidade": "Ilha Sagar / Satapada (Lago Chilika)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 230
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.1745,
+            21.8745
+          ],
+          [
+            88.1455,
+            21.8525
+          ],
+          [
+            85.4355,
+            19.6715
+          ],
+          [
+            85.4025,
+            19.6985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-biwtc-paturia-daulatdia-aricha-moheshkhali",
+        "nome": "Travessias Ro-Ro da Confluência Padma–Jamuna (Paturia–Daulatdia e Aricha–Kazirhat) e Lanchas de Cox's Bazar–Moheshkhali (Bangladesh)",
+        "sistema_id": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "sistema_slug": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "pais": "Bangladesh e Mianmar",
+        "cidade": "Paturia / Daulatdia / Cox's Bazar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 240
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            89.7765,
+            23.7815
+          ],
+          [
+            89.7525,
+            23.7655
+          ],
+          [
+            89.6545,
+            23.8825
+          ],
+          [
+            91.9705,
+            21.4525
+          ],
+          [
+            91.9585,
+            21.5225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-iwt-yangon-dala-irrawaddy-mandalay-bagan",
+        "nome": "Ferries Metropolitanos do Rio Yangon (Pansodan–Dala) e Hidrovia do Rio Irrawaddy Mandalay–Bagan (Mianmar)",
+        "sistema_id": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "sistema_slug": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "pais": "Bangladesh e Mianmar",
+        "cidade": "Yangon / Mandalay / Bagan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            96.1625,
+            16.7685
+          ],
+          [
+            96.1565,
+            16.7585
+          ],
+          [
+            94.8585,
+            21.1725
+          ],
+          [
+            96.0555,
+            21.9745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-jaffna-kurikadduwan-nainativu-delft-karachi",
+        "nome": "Ferries Insulares de Jaffna (Kurikadduwan – Nainativu – Ilha de Delft, Sri Lanka) e Travessia Portuária Kemari–Ilha de Manora (Karachi, Paquistão)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "sistema_slug": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "pais": "Sri Lanka, Maldivas e Paquistão",
+        "cidade": "Jaffna / Karachi",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 280
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8055,
+            9.6055
+          ],
+          [
+            79.7715,
+            9.6035
+          ],
+          [
+            79.6855,
+            9.5225
+          ],
+          [
+            66.9755,
+            24.8155
+          ],
+          [
+            66.9685,
+            24.7965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-rtl-sul-maldivas-addu-fuvahmulah-thinadhoo",
+        "nome": "Expresso Equatorial RTL das Maldivas Austrais (Addu City Feydhoo–Hulhumeedhoo – Ilha de Fuvahmulah – Thinadhoo/Atol de Huvadhu)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "sistema_slug": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "pais": "Sri Lanka, Maldivas e Paquistão",
+        "cidade": "Addu City / Fuvahmulah / Thinadhoo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 350
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1325,
+            -0.6825
+          ],
+          [
+            73.2315,
+            -0.5825
+          ],
+          [
+            73.4255,
+            -0.2985
+          ],
+          [
+            72.9965,
+            0.5315
+          ]
+        ]
+      }
     }
   ]
 }

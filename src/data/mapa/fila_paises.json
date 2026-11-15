@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T10:45:00-03:00",
+  "atualizado_em": "2026-11-15T11:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2233,16 +2233,18 @@
       "status": "concluido",
       "concluido_em": "2026-11-15T10:45:00-03:00",
       "ronda": 144
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 141,
       "pais": "Fase Hidroviária Mundial #32 — Ásia Meridional, Golfo de Bengala e Oceano Índico II (SWTD Kerala Water Transport Alappuzha–Kottayam–Kollam Backwaters, Ferries de Port Blair–Havelock/Swaraj Dweep–Neil Island em Andaman e Ro-Pax Ghogha–Hazira em Gujarat na Índia; BIWTC / Launches de Sadarghat Daca–Barisal–Bhola–Hatiya em Bangladesh; e MTCC Raajje Transport Link RTL e Airport Ferries Malé–Hulhumalé nas Maldivas)",
       "codigo": "HIDRO-ASIA-MERIDIONAL-INDIA-BANGLADESH-MALDIVAS-II",
       "continente": "Ásia",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T11:15:00-03:00",
+      "ronda": 145
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 142,
       "pais": "Fase Hidroviária Mundial #33 — Oriente Médio, Golfo Pérsico, Mar Vermelho e Mediterrâneo Oriental II (RTA Dubai Abra, Dubai Ferry e Water Taxi no Dubai Creek e Marina nos Emirados Árabes Unidos; Lignes Maritimes du Détroit / FRS Tanger Med–Algeciras e Tarifa–Tanger Ville no Marrocos/Espanha; Arab Bridge Maritime Aqaba–Nuweiba no Mar Vermelho na Jordânia/Egito; e Ferries do Nilo no Cairo/Assuã/Luxor no Egito)",
@@ -2270,6 +2272,14 @@
       "codigo": "HIDRO-AMERICA-DO-SUL-FLUVIAL-MARITIMA-III",
       "pais": "Fase Hidroviária Mundial #35 — América do Sul Fluvial, Estuarina e Insular III (Hidrovia dos Rios Mamoré, Beni e Madre de Dios Trinidad–Guayaramerín–Riberalta na Bolívia; Hidrovia do Alto Paraguai e Pantanal Concepcion–Fuerte Olimpo–Bahía Negra com o navio Aquidabán no Paraguai; Lanchas de Tumaco–Guapi–Buenaventura e Rio Atrato Quibdó–Turbo no Pacífico/Caribe da Colômbia; Travessia de Chacao Pargua–Chacao na Ilha Grande de Chiloé e Quellón–Chaitén no Chile; e Travessia de Cumaná–Punta de Piedras Ilha de Margarita e Rio Orinoco Ciudad Bolívar–Soledad na Venezuela)",
       "continente": "América do Sul",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 146,
+      "codigo": "HIDRO-MEDITERRANEO-EGEU-ADRIATICO-IBERIA-III",
+      "pais": "Fase Hidroviária Mundial #36 — Mediterrâneo, Mar Egeu, Adriático e Península Ibérica III (Transtejo & Soflusa Lisboa–Cacilhas–Seixal–Montijo–Barreiro–Trafaria no Rio Tejo e Atlanticoline nos Açores em Portugal; Vaporetto e Ferries da Lagoa de Marano/Grado e Lagos de Iseo e Orta na Itália; Ferries das Ilhas Espórades Volos–Skiathos–Skopelos–Alonissos e Dodecaneso Rodes–Symi–Kos–Kalymnos na Grécia; e Boka Bay Ferry Kamenari–Lepetane em Kotor em Montenegro e Canal de Corfu Sarandë–Corfu na Albânia/Grécia)",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     }
