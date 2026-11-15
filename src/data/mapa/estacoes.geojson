@@ -49918,6 +49918,581 @@
           65.0758
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-aberdeen-ferry-terminal-northlink-escocia",
+        "nome": "Aberdeen Ferry Terminal — NorthLink Ferries (Aberdeen Harbour — Escócia, Reino Unido)",
+        "sistema_id": "northlink-pentland-orkney-shetland-ferries-aberdeen-scrabster-stromness-kirkwall-lerwick-escocia",
+        "linha_id": "linha-northlink-aberdeen-kirkwall-lerwick-shetland",
+        "cidade": "Aberdeen",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo de Jamieson's Quay no centro de Aberdeen (a poucos passos da Estação Ferroviária de Aberdeen), base dos navios noturnos para Órcadas e Shetland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0789,
+          57.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kirkwall-hatston-orkney-ferries-terminal",
+        "nome": "Kirkwall Hatston & Town Pier Ferry Terminals (Ilhas Órcadas / Orkney — Escócia)",
+        "sistema_id": "northlink-pentland-orkney-shetland-ferries-aberdeen-scrabster-stromness-kirkwall-lerwick-escocia",
+        "linha_id": "linha-northlink-aberdeen-kirkwall-lerwick-shetland",
+        "cidade": "Kirkwall (Órcadas)",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal oceânico de Hatston (NorthLink) e píer urbano de Kirkwall (Orkney Ferries para Shapinsay, Westray, Sanday e Stronsay)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9569,
+          58.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lerwick-holmsgarth-shetland-ferry-terminal",
+        "nome": "Lerwick Holmsgarth Ferry Terminal & SIC Inter-Island Quays (Ilhas Shetland — Escócia)",
+        "sistema_id": "northlink-pentland-orkney-shetland-ferries-aberdeen-scrabster-stromness-kirkwall-lerwick-escocia",
+        "linha_id": "linha-northlink-aberdeen-kirkwall-lerwick-shetland",
+        "cidade": "Lerwick (Shetland)",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto mais setentrional do Reino Unido em Lerwick (60°N), conectando Shetland a Aberdeen, Kirkwall e às ilhas exteriores de Bressay, Yell e Unst."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.145,
+          60.1619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-scrabster-stromness-northlink-pentland-firth",
+        "nome": "Scrabster (Thurso) & Stromness Ferry Terminals (Pentland Firth — Escócia)",
+        "sistema_id": "northlink-pentland-orkney-shetland-ferries-aberdeen-scrabster-stromness-kirkwall-lerwick-escocia",
+        "linha_id": "linha-pentland-firth-scrabster-stromness-gills-bay-orkney-ferries",
+        "cidade": "Scrabster / Stromness",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais do ferry MV Hamnavoe que cruza o Pentland Firth ao lado dos penhascos de Old Man of Hoy até Stromness (Órcadas)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.295,
+          58.9619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gills-bay-st-margarets-hope-pentland-ferries",
+        "nome": "Gills Bay & St Margaret's Hope Ferry Terminals — Pentland Ferries (Caithness / South Ronaldsay — Escócia)",
+        "sistema_id": "northlink-pentland-orkney-shetland-ferries-aberdeen-scrabster-stromness-kirkwall-lerwick-escocia",
+        "linha_id": "linha-pentland-firth-scrabster-stromness-gills-bay-orkney-ferries",
+        "cidade": "Gills Bay / St Margaret's Hope",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia mais rápida de catamarã Ro-Pax (1 hora pelo MV Alfred) entre o extremo norte da Escócia e South Ronaldsay nas Órcadas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1369,
+          58.8319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ullapool-stornoway-calmac-ferry-terminals",
+        "nome": "Ullapool & Stornoway Ferry Terminals (Ilha de Lewis, Hébridas Exteriores — Escócia)",
+        "sistema_id": "calmac-outer-hebrides-skye-islay-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-kennraig-escocia",
+        "linha_id": "linha-the-minch-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-skye",
+        "cidade": "Ullapool / Stornoway",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais da principal rota da CalMac através do estreito de The Minch, ligando Ullapool à capital das Hébridas Exteriores em Stornoway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.385,
+          58.2081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-uig-skye-tarbert-lochmaddy-calmac-terminals",
+        "nome": "Uig (Ilha de Skye), Tarbert (Harris) & Lochmaddy (North Uist) Ferry Terminals (Escócia)",
+        "sistema_id": "calmac-outer-hebrides-skye-islay-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-kennraig-escocia",
+        "linha_id": "linha-the-minch-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-skye",
+        "cidade": "Uig (Skye) / Tarbert / Lochmaddy",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Triângulo portuário recém-modernizado de The Little Minch entre a Ilha de Skye, a Ilha de Harris e North Uist."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3589,
+          57.5861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mallaig-armadale-lochboisdale-calmac-escocia",
+        "nome": "Mallaig, Armadale (Ilha de Skye) & Lochboisdale (South Uist) Ferry Terminals (Escócia)",
+        "sistema_id": "calmac-outer-hebrides-skye-islay-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-kennraig-escocia",
+        "linha_id": "linha-the-minch-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-skye",
+        "cidade": "Mallaig / Skye / South Uist",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto ferroviário de Mallaig (ponto final da West Highland Line e do trem a vapor Jacobite) com ferries para Skye, Small Isles e South Uist."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8289,
+          57.0061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-oban-craignure-mull-castlebay-barra-calmac",
+        "nome": "Oban Railway Pier, Craignure (Ilha de Mull) & Castlebay (Ilha de Barra — Escócia)",
+        "sistema_id": "calmac-outer-hebrides-skye-islay-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-kennraig-escocia",
+        "linha_id": "linha-mar-das-hebridas-oban-mull-barra-kennacraig-islay",
+        "cidade": "Oban / Ilha de Mull / Barra",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Capital dos ferries da CalMac em Oban (integrada à estação da ScotRail), com saídas para Mull, Iona, Colonsay, Coll, Tiree e Barra."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.475,
+          56.4122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kennacraig-port-ellen-port-askaig-islay-calmac",
+        "nome": "Kennacraig, Port Ellen & Port Askaig Ferry Terminals (Ilha de Islay & Jura — Escócia)",
+        "sistema_id": "calmac-outer-hebrides-skye-islay-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-kennraig-escocia",
+        "linha_id": "linha-mar-das-hebridas-oban-mull-barra-kennacraig-islay",
+        "cidade": "Kennacraig / Ilha de Islay",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais que ligam a Península de Kintyre aos portos de Port Ellen e Port Askaig na ilha de Islay."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1889,
+          55.6281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-st-helier-elizabeth-harbour-jersey",
+        "nome": "St Helier Elizabeth Terminal (Ilha de Jersey — Ilhas do Canal)",
+        "sistema_id": "condor-ferries-manche-iles-express-poole-portsmouth-saint-malo-guernsey-jersey-sark-alderney-ilhas-do-canal",
+        "linha_id": "linha-channel-islands-poole-portsmouth-guernsey-jersey-saint-malo",
+        "cidade": "St Helier (Jersey)",
+        "pais": "Ilhas do Canal (Reino Unido)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal terminal marítimo de passageiros e veículos da Ilha de Jersey, conectando a ilha ao Reino Unido, à França (Saint-Malo/Carteret) e a Guernsey."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1119,
+          49.1789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-st-peter-port-harbour-guernsey",
+        "nome": "St Peter Port Harbour Terminal (Ilha de Guernsey — Ilhas do Canal)",
+        "sistema_id": "condor-ferries-manche-iles-express-poole-portsmouth-saint-malo-guernsey-jersey-sark-alderney-ilhas-do-canal",
+        "linha_id": "linha-channel-islands-poole-portsmouth-guernsey-jersey-saint-malo",
+        "cidade": "St Peter Port (Guernsey)",
+        "pais": "Ilhas do Canal (Reino Unido)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto central do Bailiado de Guernsey, atendendo os ferries internacionais e as barcas interinsulares para Sark, Herm e Alderney."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5331,
+          49.4558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-poole-ferry-port-dorset-channel-islands",
+        "nome": "Port of Poole Passenger Ferry Terminal (Dorset — Inglaterra, Reino Unido)",
+        "sistema_id": "condor-ferries-manche-iles-express-poole-portsmouth-saint-malo-guernsey-jersey-sark-alderney-ilhas-do-canal",
+        "linha_id": "linha-channel-islands-poole-portsmouth-guernsey-jersey-saint-malo",
+        "cidade": "Poole",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal britânico de catamarãs de alta velocidade para Guernsey e Jersey e ferries para Cherbourg."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9881,
+          50.7089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sark-maseline-harbour-herm-alderney-quays",
+        "nome": "Maseline Harbour (Ilha de Sark), Herm Harbour & Braye Harbour (Alderney — Ilhas do Canal)",
+        "sistema_id": "condor-ferries-manche-iles-express-poole-portsmouth-saint-malo-guernsey-jersey-sark-alderney-ilhas-do-canal",
+        "linha_id": "linha-interinsular-guernsey-sark-herm-alderney-granville-carteret",
+        "cidade": "Ilha de Sark / Herm / Alderney",
+        "pais": "Ilhas do Canal (Reino Unido)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Pitoresco porto escavado na rocha de Maseline Harbour na ilha sem carros de Sark (onde tratores puxam o 'Toast Rack' ladeira acima), junto aos portos de Herm e Alderney."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3481,
+          49.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-granville-barneville-carteret-manche-iles",
+        "nome": "Gares Maritimes de Granville & Barneville-Carteret — Manche Îles Express (Normandia — França)",
+        "sistema_id": "condor-ferries-manche-iles-express-poole-portsmouth-saint-malo-guernsey-jersey-sark-alderney-ilhas-do-canal",
+        "linha_id": "linha-interinsular-guernsey-sark-herm-alderney-granville-carteret",
+        "cidade": "Granville / Carteret",
+        "pais": "França",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos normandos do departamento da Mancha que operam os catamarãs rápidos para Jersey, Guernsey, Sark e Ilhas Chausey."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5989,
+          48.835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-strangford-ferry-terminal-down-ni",
+        "nome": "Strangford Ferry Terminal (Condado de Down — Irlanda do Norte, Reino Unido)",
+        "sistema_id": "strangford-lough-rathlin-island-lough-foyle-carlingford-lough-ferries-irlanda-do-norte-irlanda",
+        "linha_id": "linha-strangford-lough-portaferry-carlingford-lough-greenore",
+        "cidade": "Strangford",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal na margem sul da entrada do Strangford Lough para a travessia contínua de 8 minutos até Portaferry."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5539,
+          54.3722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-portaferry-slipway-ards-peninsula-ni",
+        "nome": "Portaferry Ferry Terminal (Península de Ards, Condado de Down — Irlanda do Norte, Reino Unido)",
+        "sistema_id": "strangford-lough-rathlin-island-lough-foyle-carlingford-lough-ferries-irlanda-do-norte-irlanda",
+        "linha_id": "linha-strangford-lough-portaferry-carlingford-lough-greenore",
+        "cidade": "Portaferry",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal na margem norte do estreito de Strangford Narrows na Península de Ards."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5469,
+          54.3811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ballycastle-rathlin-island-church-bay-ni",
+        "nome": "Ballycastle Harbour & Church Bay (Ilha Rathlin, Condado de Antrim — Irlanda do Norte)",
+        "sistema_id": "strangford-lough-rathlin-island-lough-foyle-carlingford-lough-ferries-irlanda-do-norte-irlanda",
+        "linha_id": "linha-costa-norte-ballycastle-rathlin-island-lough-foyle-magilligan-greencastle",
+        "cidade": "Ballycastle / Ilha Rathlin",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos da travessia pelo Mar de Moyle entre Ballycastle (Causeway Coast) e a Ilha Rathlin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2389,
+          55.2069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-magilligan-greencastle-lough-foyle-ferry",
+        "nome": "Magilligan Point (Derry) & Greencastle (Inishowen, Donegal) — Lough Foyle Ferry (UK / Irlanda)",
+        "sistema_id": "strangford-lough-rathlin-island-lough-foyle-carlingford-lough-ferries-irlanda-do-norte-irlanda",
+        "linha_id": "linha-costa-norte-ballycastle-rathlin-island-lough-foyle-magilligan-greencastle",
+        "cidade": "Magilligan / Greencastle",
+        "pais": "Reino Unido / Irlanda",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia binacional na foz do Lough Foyle conectando a Costa da Calçada dos Gigantes (Irlanda do Norte) à Península de Inishowen (Donegal, Irlanda)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9569,
+          55.1939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-carlingford-lough-greencastle-greenore-ferry",
+        "nome": "Greencastle (Mourne, Down) & Greenore (Cooley, Louth) — Carlingford Lough Ferry (UK / Irlanda)",
+        "sistema_id": "strangford-lough-rathlin-island-lough-foyle-carlingford-lough-ferries-irlanda-do-norte-irlanda",
+        "linha_id": "linha-strangford-lough-portaferry-carlingford-lough-greenore",
+        "cidade": "Greencastle (Down) / Greenore (Louth)",
+        "pais": "Reino Unido / Irlanda",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia binacional na boca do fiorde glacial de Carlingford Lough entre as Montanhas de Mourne (Irlanda do Norte) e a Península de Cooley (República da Irlanda)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.105,
+          54.0369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-portsmouth-harbour-gosport-ferry-pontoon",
+        "nome": "Portsmouth Harbour Station Pontoon & Gosport Ferry Terminal (Hampshire — Inglaterra, Reino Unido)",
+        "sistema_id": "gosport-ferry-portsmouth-hythe-ferry-southampton-plymouth-torpoint-sandbanks-poole-inglaterra-reino-unido",
+        "linha_id": "linha-solent-dorset-gosport-ferry-portsmouth-hythe-ferry-southampton-sandbanks",
+        "cidade": "Portsmouth / Gosport",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Pontões intermodais ao lado do HMS Victory e da Estação Portsmouth Harbour que atendem mais de 3 milhões de passageiros anuais do Gosport Ferry."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1069,
+          50.7969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-southampton-town-quay-hythe-pier-ferry",
+        "nome": "Southampton Town Quay & Hythe Pier Railway Terminal (Southampton Water — Inglaterra, Reino Unido)",
+        "sistema_id": "gosport-ferry-portsmouth-hythe-ferry-southampton-plymouth-torpoint-sandbanks-poole-inglaterra-reino-unido",
+        "linha_id": "linha-solent-dorset-gosport-ferry-portsmouth-hythe-ferry-southampton-sandbanks",
+        "cidade": "Southampton / Hythe",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia histórica de Southampton Water integrada ao famoso trem elétrico de bitola estreita de 1922 que percorre os 640 metros do Hythe Pier."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4042,
+          50.8961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sandbanks-studland-chain-ferry-poole",
+        "nome": "Sandbanks (Poole) & Shell Bay (Studland) Chain Ferry Slipways (Dorset — Inglaterra, Reino Unido)",
+        "sistema_id": "gosport-ferry-portsmouth-hythe-ferry-southampton-plymouth-torpoint-sandbanks-poole-inglaterra-reino-unido",
+        "linha_id": "linha-solent-dorset-gosport-ferry-portsmouth-hythe-ferry-southampton-sandbanks",
+        "cidade": "Poole / Studland",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Rampas da balsa de corrente Bramble Bush Bay que cruza a boca do Porto de Poole rumo à Península de Purbeck (Jurassic Coast)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9469,
+          50.6819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-plymouth-devonport-torpoint-chain-ferry",
+        "nome": "Devonport (Plymouth) & Torpoint Ferry Terminals — Tamar Crossings (Devon / Cornualha — Reino Unido)",
+        "sistema_id": "gosport-ferry-portsmouth-hythe-ferry-southampton-plymouth-torpoint-sandbanks-poole-inglaterra-reino-unido",
+        "linha_id": "linha-devon-cornualha-plymouth-torpoint-cremyll-dartmouth-ferries",
+        "cidade": "Plymouth / Torpoint",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Maior operação de ferries de corrente do mundo, operando 24h por dia com 3 navios de 73 carros através do estuário de Hamoaze (Rio Tamar)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.185,
+          50.3758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cremyll-barbican-dartmouth-ferry-piers",
+        "nome": "Plymouth Barbican / Cremyll Ferry & Dartmouth Lower/Higher Ferries (Devon / Cornualha — Reino Unido)",
+        "sistema_id": "gosport-ferry-portsmouth-hythe-ferry-southampton-plymouth-torpoint-sandbanks-poole-inglaterra-reino-unido",
+        "linha_id": "linha-devon-cornualha-plymouth-torpoint-cremyll-dartmouth-ferries",
+        "cidade": "Plymouth / Dartmouth",
+        "pais": "Reino Unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píeres históricos de Admiral's Hard–Cremyll (Mount Edgcumbe) em Plymouth e travessias de Dartmouth–Kingswear no Rio Dart."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5769,
+          50.3519
+        ]
+      }
     }
   ]
 }
