@@ -30673,5 +30673,390 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "cape-may-lewes-ferry-delaware-bay-nj-de-chesapeake-bay-tangier-island-eua",
+    "slug": "cape-may-lewes-ferry-delaware-bay-nj-de-chesapeake-bay-tangier-island-eua",
+    "nome_pt": "Cape May–Lewes Ferry (Baía de Delaware, Nova Jersey–Delaware) e Ferries da Baía de Chesapeake / Tangier e Smith Island (Maryland e Virgínia, EUA)",
+    "nome_en": "Cape May–Lewes Ferry (Delaware Bay, New Jersey–Delaware) & Chesapeake Bay / Tangier & Smith Island Ferries (Maryland & Virginia, USA)",
+    "pais": "Estados Unidos",
+    "cidade": "North Cape May (Nova Jersey) e Lewes (Delaware); Crisfield e Smith Island (Maryland); Reedville, Onancock e Tangier Island (Virgínia, EUA)",
+    "uf": "NJ / DE / MD / VA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Delaware River and Bay Authority — DRBA (Cape May–Lewes Ferry: MV Delaware, MV New Jersey e MV Cape Henlopen) & Chesapeake Bay Ferries (Tangier Island / Smith Island Mail Boats)",
+    "inauguracao": "1964 (Inauguração da ponte marítima interestadual Cape May–Lewes Ferry pela autoridade biestadual DRBA, conectando o sul de Nova Jersey ao litoral de Delaware)",
+    "extensao_km": 145.0,
+    "bitola": "Foz da Baía de Delaware (27 km entre Cape May, NJ e Lewes, DE) e Estuário da Baía de Chesapeake (Maryland–Virgínia)",
+    "eletrificacao": "Grandes ferries oceânicos ro-pax de até 100 veículos e 800 passageiros (MV Delaware, MV New Jersey e MV Cape Henlopen) e lanchas postais da Baía de Chesapeake",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 6800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 95 milhões (programa de renovação da frota da DRBA com projeto de novo ferry híbrido diesel-elétrico e modernização dos terminais de Cape May e Lewes)",
+      "moeda": "USD",
+      "fonte_id": "drba-cape-may-lewes-ferry-chesapeake"
+    },
+    "proximas_entregas": {
+      "pt": "Construção do novo navio híbrido diesel-elétrico da DRBA para substituir as embarcações da década de 1970–1980 na Baía de Delaware.",
+      "en": "Construction of DRBA's new diesel-electric hybrid ro-pax vessel to modernize the Delaware Bay ferry fleet."
+    },
+    "resumo_pt": "Na costa do Médio Atlântico dos Estados Unidos, a autoridade biestadual Delaware River and Bay Authority (DRBA) opera desde 1964 o famoso Cape May–Lewes Ferry, uma ponte marítima ro-pax de 27 km (85 minutos de travessia) que conecta a extremidade sul da Garden State Parkway em North Cape May (Nova Jersey) à cidade histórica de Lewes (Delaware), dando continuidade direta à rodovia federal US Route 9 através da foz da Baía de Delaware e evitando um desvio rodoviário de mais de 220 km pela Ponte Memorial de Delaware. Mais ao sul, no grande estuário da Baía de Chesapeake, uma rede tradicional de ferries postais e de passageiros a partir de Crisfield (Maryland) e Reedville / Onancock (Virgínia) garante o único elo de transporte público com as históricas comunidades insulares sem carros de Tangier Island (Virgínia) e Smith Island (Maryland).",
+    "resumo_en": "Along the US Mid-Atlantic coast, the bi-state Delaware River and Bay Authority (DRBA) has operated the iconic Cape May–Lewes Ferry since 1964, a 27 km (85-minute) ro-pax crossing that carries US Route 9 directly across the mouth of Delaware Bay between North Cape May (New Jersey) and Lewes (Delaware). Further south on Chesapeake Bay, scheduled passenger and mail boats departing from Crisfield (Maryland) and Reedville / Onancock (Virginia) provide the sole public transport lifeline to the car-free island communities of Tangier Island (Virginia) and Smith Island (Maryland).",
+    "lat": 38.8755,
+    "lon": -75.0425,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "drba-cape-may-lewes-ferry-chesapeake",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "estados unidos",
+      "nova jersey",
+      "delaware",
+      "cape may",
+      "lewes",
+      "delaware bay",
+      "chesapeake bay",
+      "tangier island",
+      "smith island",
+      "maryland",
+      "virgínia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cape_May-Lewes_Ferry_MV_Delaware.jpg/800px-Cape_May-Lewes_Ferry_MV_Delaware.jpg",
+      "credito": "Wikimedia Commons — Ferry ro-pax MV Delaware do Cape May–Lewes Ferry cruzando a Baía de Delaware (NJ–DE, EUA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Cape_May-Lewes_Ferry"
+    },
+    "linhas": [
+      {
+        "id": "linha-cape-may-lewes-ferry-delaware-bay-nj-de",
+        "nome": "Ponte Marítima da Baía de Delaware — Cape May–Lewes Ferry US-9 (Terminal de North Cape May, NJ – Terminal de Lewes, DE)",
+        "status": "operacao",
+        "extensao_km": 27.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-chesapeake-bay-ferries-crisfield-smith-island-tangier-island-md-va",
+        "nome": "Travessias Insulares da Baía de Chesapeake (Porto de Crisfield, MD – Smith Island – Tangier Island – Onancock / Reedville, VA)",
+        "status": "operacao",
+        "extensao_km": 118.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "cross-sound-ferry-bridgeport-port-jefferson-long-island-sound-block-island-ferry-ct-ny-ri-eua",
+    "slug": "cross-sound-ferry-bridgeport-port-jefferson-long-island-sound-block-island-ferry-ct-ny-ri-eua",
+    "nome_pt": "Ferries do Estreito de Long Island e Block Island (Cross Sound Ferry New London–Orient Point, Bridgeport–Port Jefferson e Block Island Ferry, CT/NY/RI, EUA)",
+    "nome_en": "Long Island Sound & Block Island Ferries (Cross Sound Ferry New London–Orient Point, Bridgeport–Port Jefferson & Block Island Ferry, CT/NY/RI, USA)",
+    "pais": "Estados Unidos",
+    "cidade": "New London e Bridgeport (Connecticut); Orient Point, Port Jefferson e Montauk (Long Island, Nova York); Point Judith, Newport e Block Island (Rhode Island, EUA)",
+    "uf": "CT / NY / RI",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Cross Sound Ferry Services (New London–Orient Point e catamarã Sea Jet), The Bridgeport & Port Jefferson Steamboat Company & Interstate Navigation Company (Block Island Ferry)",
+    "inauguracao": "1883 (Fundação da Bridgeport & Port Jefferson Steamboat Company com co-fundação de P.T. Barnum; início do Cross Sound Ferry e do Block Island Ferry no século XX)",
+    "extensao_km": 135.0,
+    "bitola": "Estreito de Long Island (Connecticut–Long Island, NY) e Estreito de Block Island (Rhode Island)",
+    "eletrificacao": "Grandes ferries ro-pax (MV John H., MV Mary Ellen, MV Grand Republic, MV P.T. Barnum e MV Block Island) e catamarãs rápidos de alta velocidade (Sea Jet I e Athena)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 14500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 85 milhões (construção do novo terminal multimodal de Barnum Landing em Bridgeport e renovação das frotas Cross Sound e Block Island)",
+      "moeda": "USD",
+      "fonte_id": "cross-sound-bridgeport-port-jefferson-block-island"
+    },
+    "proximas_entregas": {
+      "pt": "Novo terminal hidroviário integrado de Bridgeport (Barnum Landing) e quarta embarcação ro-pax de alta capacidade para a rota Bridgeport–Port Jefferson.",
+      "en": "New Barnum Landing terminal in Bridgeport and a fourth high-capacity ro-pax ferry for the Bridgeport–Port Jefferson corridor."
+    },
+    "resumo_pt": "O Estreito de Long Island (Long Island Sound) e o Estreito de Block Island abrigam algumas das travessias de ferries mais movimentadas do Nordeste dos Estados Unidos, permitindo que passageiros e veículos cruzem diretamente entre a Nova Inglaterra (Connecticut e Rhode Island) e Long Island (Nova York) sem passar pelo congestionamento da cidade de Nova York. No centro do estreito, a histórica Bridgeport & Port Jefferson Steamboat Company (fundada em 1883 por P.T. Barnum) conecta a estação ferroviária de Bridgeport (Metro-North e Amtrak) a Port Jefferson (LIRR). Mais a leste, o Cross Sound Ferry liga o hub multimodal de New London Union Station (Amtrak Northeast Corridor e Shore Line East) a Orient Point, na ponta nordeste de Long Island, com ferries ro-pax e o catamarã de alta velocidade Sea Jet (40 minutos), enquanto a Interstate Navigation opera o famoso Block Island Ferry a partir de Point Judith e Newport (Rhode Island) e New London para a Ilha de Block Island.",
+    "resumo_en": "Long Island Sound and Block Island Sound host some of the busiest ferry corridors in the US Northeast, enabling passengers and vehicles to travel directly between New England (Connecticut and Rhode Island) and Long Island (New York) while bypassing New York City traffic. In mid-Sound, the historic Bridgeport & Port Jefferson Steamboat Company (co-founded in 1883 by P.T. Barnum) links Bridgeport Station (Metro-North/Amtrak) with Port Jefferson (LIRR). Further east, Cross Sound Ferry connects New London Union Station with Orient Point via ro-pax ferries and the 40-minute Sea Jet high-speed catamaran, while Interstate Navigation runs the Block Island Ferry from Point Judith and Newport (Rhode Island) to Block Island.",
+    "lat": 41.1855,
+    "lon": -72.1855,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "cross-sound-bridgeport-port-jefferson-block-island",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "estados unidos",
+      "connecticut",
+      "nova york",
+      "rhode island",
+      "long island sound",
+      "new london",
+      "orient point",
+      "bridgeport",
+      "port jefferson",
+      "block island",
+      "cross sound ferry",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cross_Sound_Ferry_New_London.jpg/800px-Cross_Sound_Ferry_New_London.jpg",
+      "credito": "Wikimedia Commons — Ferry ro-pax do Cross Sound Ferry no Porto de New London (Connecticut–Long Island, EUA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Cross_Sound_Ferry"
+    },
+    "linhas": [
+      {
+        "id": "linha-long-island-sound-bridgeport-port-jefferson-new-london-orient-point",
+        "nome": "Pontes Marítimas de Long Island Sound (Bridgeport, CT – Port Jefferson, NY & New London, CT – Orient Point, NY)",
+        "status": "operacao",
+        "extensao_km": 68.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-block-island-ferry-point-judith-newport-new-london-old-harbor",
+        "nome": "Corredor de Block Island (Point Judith / Newport, RI & New London, CT – Old Harbor, Block Island, RI)",
+        "status": "operacao",
+        "extensao_km": 67.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "rta-new-orleans-mississippi-river-ferries-algiers-point-canal-street-chalmette-louisiana-eua",
+    "slug": "rta-new-orleans-mississippi-river-ferries-algiers-point-canal-street-chalmette-louisiana-eua",
+    "nome_pt": "Barcas do Rio Mississippi em Nova Orleans (RTA Algiers Point–Canal Street Ferry, Chalmette–Lower Algiers e Plaquemines Ferries, Louisiana, EUA)",
+    "nome_en": "New Orleans Mississippi River Ferries (RTA Algiers Point–Canal Street Ferry, Chalmette–Lower Algiers & Plaquemines Ferries, Louisiana, USA)",
+    "pais": "Estados Unidos",
+    "cidade": "Nova Orleans (French Quarter / Canal Street e Algiers Point), Chalmette (St. Bernard Parish), Belle Chasse e Pointe à la Hache (Plaquemines Parish, Louisiana, EUA)",
+    "uf": "LA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "New Orleans Regional Transit Authority — RTA (Frota Canal–Algiers e Chalmette–Lower Algiers) & Louisiana DOTD / Plaquemines Parish Ferries (Belle Chasse, Pointe à la Hache e Plaquemine)",
+    "inauguracao": "1827 (Início da travessia regular a vapor entre o French Quarter / Canal Street e Algiers Point no Rio Mississippi, uma das mais antigas dos EUA)",
+    "extensao_km": 42.0,
+    "bitola": "Baixo Rio Mississippi (Curva de Crescent City em Nova Orleans e Paróquias de St. Bernard, Plaquemines e Iberville)",
+    "eletrificacao": "Catamarãs de passageiros de baixa emissão da RTA (RTA-1 e RTA-2) e balsas fluviais ro-pax para veículos e pedestres (Chalmette e Belle Chasse)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 5400,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 52 milhões (construção do novo New Orleans Canal Street Ferry Terminal pela RTA integrado aos bondes históricos e renovação da frota)",
+      "moeda": "USD",
+      "fonte_id": "norta-mississippi-river-ferries-ladotd"
+    },
+    "proximas_entregas": {
+      "pt": "Integração tarifária completa Le Pass entre as barcas do Rio Mississippi e as 5 linhas de streetcars históricos da RTA em Canal Street.",
+      "en": "Full Le Pass fare and transfer integration between the Mississippi River ferries and RTA's historic streetcar network at Canal Street."
+    },
+    "resumo_pt": "Em operação contínua desde 1827, a travessia de barcas entre Canal Street (aos pés do French Quarter e do Aquarium of the Americas) e o histórico bairro de Algiers Point, na margem oeste do Rio Mississippi, é uma das rotas hidroviárias urbanas mais antigas e emblemáticas da América do Norte. Operada pela New Orleans Regional Transit Authority (RTA), a linha realiza travessias a cada 15 a 30 minutos a partir do novo terminal multimodal de Canal Street, permitindo conexão direta com os célebres bondes (streetcars) das linhas St. Charles, Canal e Riverfront. A jusante no grande meandro do Rio Mississippi, a RTA e o Departamento de Transportes da Louisiana (LaDOTD) operam as balsas ro-pax de Chalmette–Lower Algiers, Belle Chasse–Scarsdale e Pointe à la Hache, além das travessias do Médio Mississippi em Plaquemine–Sunshine e St. Francisville–New Roads.",
+    "resumo_en": "Operating continuously since 1827, the ferry crossing between Canal Street (at the foot of the French Quarter) and historic Algiers Point on the West Bank of the Mississippi River is one of the oldest urban water transit routes in North America. Operated by the New Orleans Regional Transit Authority (RTA) from the newly rebuilt Canal Street Multimodal Ferry Terminal, it provides direct transfers to RTA's historic St. Charles, Canal and Riverfront streetcar lines. Downriver along the Mississippi crescent, RTA and the Louisiana Department of Transportation (LaDOTD) also operate the Chalmette–Lower Algiers, Belle Chasse–Scarsdale and Pointe à la Hache ro-pax ferries.",
+    "lat": 29.9505,
+    "lon": -90.0615,
+    "zoom_inicial": 12.0,
+    "fontes": [
+      "norta-mississippi-river-ferries-ladotd",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "estados unidos",
+      "louisiana",
+      "nova orleans",
+      "new orleans",
+      "rio mississippi",
+      "algiers point",
+      "canal street",
+      "french quarter",
+      "chalmette",
+      "rta",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Algiers_Ferry_New_Orleans_Mississippi_River.jpg/800px-Algiers_Ferry_New_Orleans_Mississippi_River.jpg",
+      "credito": "Wikimedia Commons — Barca da RTA cruzando o Rio Mississippi entre Canal Street (French Quarter) e Algiers Point em Nova Orleans (Louisiana, EUA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_New_Orleans"
+    },
+    "linhas": [
+      {
+        "id": "linha-rta-canal-street-algiers-point-ferry-new-orleans",
+        "nome": "Travessia Central do Rio Mississippi — RTA (Terminal Multimodal de Canal Street / French Quarter – Terminal de Algiers Point, Nova Orleans)",
+        "status": "operacao",
+        "extensao_km": 3.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-rta-chalmette-lower-algiers-belle-chasse-mississippi-ferries",
+        "nome": "Corredor de Balsas do Baixo Rio Mississippi (Lower Algiers – Chalmette / St. Bernard Parish – Belle Chasse – Pointe à la Hache)",
+        "status": "operacao",
+        "extensao_km": 39.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
+    "slug": "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
+    "nome_pt": "Marine Atlantic (Ponte Constitucional do Estreito de Cabot: Nova Escócia – Terra Nova) e Bay Ferries Fundy / PEI (Atlântico Canadense)",
+    "nome_en": "Marine Atlantic (Constitutional Cabot Strait Seabridge: Nova Scotia – Newfoundland) & Bay Ferries Fundy / PEI (Atlantic Canada)",
+    "pais": "Canadá",
+    "cidade": "North Sydney (Ilha Cape Breton) e Digby / Caribou (Nova Escócia); Port aux Basques e Argentia / St. John's (Terra Nova e Labrador); Saint John (New Brunswick); Wood Islands (Ilha do Príncipe Eduardo, Canadá)",
+    "uf": "NS / NL / NB / PE",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Marine Atlantic Inc. (Corporação Estatal Federal do Canadá: MV Ala'suinu, MV Blue Puttees, MV Highlanders e MV Atlantic Vision) & Bay Ferries / Northumberland Ferries",
+    "inauguracao": "1898 (Inauguração da ligação marítima regular entre North Sydney e Port aux Basques pela Reid Newfoundland Company; garantida constitucionalmente pelos Termos da União de 1949)",
+    "extensao_km": 760.0,
+    "bitola": "Estreito de Cabot (Nova Escócia–Terra Nova, parte da Rodovia Trans-Canadá), Baía de Fundy (NB–NS) e Estreito de Northumberland (NS–PEI)",
+    "eletrificacao": "Superferries ro-pax classe quebra-gelo (incluindo o novo navio híbrido GNL/bateria MV Ala'suinu de 203 metros inaugurado em 2024, MV Blue Puttees e MV Highlanders)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 4600,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "CA$ 320 milhões (entrada em operação do superferry híbrido MV Ala'suinu na Marine Atlantic e modernização dos terminais de North Sydney, Port aux Basques e Argentia)",
+      "moeda": "CAD",
+      "fonte_id": "marine-atlantic-transport-canada-bay-ferries"
+    },
+    "proximas_entregas": {
+      "pt": "Entrega do novo ferry para a rota Caribou (NS) – Wood Islands (PEI) da Northumberland Ferries e descarbonização progressiva da frota Marine Atlantic.",
+      "en": "Delivery of the new vessel for the Caribou (NS) – Wood Islands (PEI) route and progressive decarbonization of the Marine Atlantic fleet."
+    },
+    "resumo_pt": "No Atlântico Canadense, a corporação estatal federal Marine Atlantic opera uma das pontes marítimas mais estratégicas do mundo: a travessia do Estreito de Cabot entre North Sydney (na Ilha Cape Breton, Nova Escócia) e Channel-Port aux Basques (na província insular de Terra Nova e Labrador), um elo obrigatório garantido pela Constituição do Canadá desde a adesão de Terra Nova à Confederação em 1949. Integrando a Rodovia Trans-Canadá (Highway 105 / Highway 1) por 178 km de mar aberto, os gigantescos ferries quebra-gelo ro-pax de 200 metros — MV Blue Puttees, MV Highlanders, MV Atlantic Vision e o novíssimo híbrido GNL/bateria MV Ala'suinu — transportam mais de 350 mil passageiros e 65% de todos os alimentos e bens de consumo da ilha de Terra Nova, além de operar a rota longa de verão de 520 km (16 horas) entre North Sydney e Argentia (a 90 minutos da capital St. John's). Complementando a malha atlântica, a Bay Ferries e a Northumberland Ferries operam as travessias da Baía de Fundy (Saint John, NB – Digby, NS, com as maiores marés do planeta) e do Estreito de Northumberland (Caribou, NS – Wood Islands, Ilha do Príncipe Eduardo).",
+    "resumo_en": "In Atlantic Canada, federal Crown corporation Marine Atlantic operates one of the world's most strategic maritime bridges: the Cabot Strait crossing between North Sydney (Nova Scotia) and Channel-Port aux Basques (Newfoundland and Labrador), a constitutional mandate guaranteed under Newfoundland's 1949 Terms of Union with Canada. Carrying the Trans-Canada Highway across 178 km of open ocean, its 200-meter ice-class ro-pax superferries — MV Blue Puttees, MV Highlanders, MV Atlantic Vision and the new LNG-battery hybrid MV Ala'suinu — transport over 350,000 passengers and 65% of Newfoundland's goods, alongside the 520 km seasonal route from North Sydney to Argentia (near St. John's). Complementing the network, Bay Ferries and Northumberland Ferries serve the Bay of Fundy (Saint John, NB – Digby, NS) and Northumberland Strait (Caribou, NS – Wood Islands, PEI).",
+    "lat": 47.0515,
+    "lon": -59.6215,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "marine-atlantic-transport-canada-bay-ferries",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "canadá",
+      "nova escócia",
+      "terra nova e labrador",
+      "newfoundland",
+      "north sydney",
+      "port aux basques",
+      "argentia",
+      "marine atlantic",
+      "estreito de cabot",
+      "baía de fundy",
+      "bay ferries",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MV_Blue_Puttees_Marine_Atlantic.jpg/800px-MV_Blue_Puttees_Marine_Atlantic.jpg",
+      "credito": "Wikimedia Commons — Superferry quebra-gelo MV Blue Puttees da Marine Atlantic cruzando o Estreito de Cabot entre Nova Escócia e Terra Nova (Canadá)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Marine_Atlantic"
+    },
+    "linhas": [
+      {
+        "id": "linha-marine-atlantic-estreito-de-cabot-north-sydney-port-aux-basques-argentia",
+        "nome": "Ponte Constitucional do Estreito de Cabot — Marine Atlantic (North Sydney, Nova Escócia – Port aux Basques e Argentia, Terra Nova)",
+        "status": "operacao",
+        "extensao_km": 685.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-bay-ferries-fundy-saint-john-digby-northumberland-pei",
+        "nome": "Travessia da Baía de Fundy — Bay Ferries MV Fundy Rose (Porto de Saint John, New Brunswick – Terminal de Digby, Nova Escócia)",
+        "status": "operacao",
+        "extensao_km": 75.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua",
+    "slug": "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua",
+    "nome_pt": "Alaska Marine Highway System — AMHS (Rodovia Marítima do Alasca: Bellingham WA – Ketchikan – Juneau – Skagway – Whittier – Kodiak, EUA)",
+    "nome_en": "Alaska Marine Highway System — AMHS (Bellingham WA – Ketchikan – Juneau – Haines/Skagway – Whittier – Kodiak – Aleutian Islands, USA)",
+    "pais": "Estados Unidos",
+    "cidade": "Bellingham (Washington); Prince Rupert (BC, Canadá); Ketchikan, Wrangell, Petersburg, Sitka, Juneau (capital do Alasca), Haines, Skagway, Whittier, Valdez, Homer, Kodiak e Dutch Harbor (Alasca, EUA)",
+    "uf": "AK / WA / BC",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Alaska Department of Transportation & Public Facilities — Alaska Marine Highway System (AMHS: MV Columbia, MV Kennicott, MV Matanuska, MV Tustumena, MV Hubbard e MV Tazlina)",
+    "inauguracao": "1963 (Inauguração oficial do Alaska Marine Highway System pelo Estado do Alasca; designado como National Scenic Byway e All-American Road do sistema rodoviário federal dos EUA)",
+    "extensao_km": 3250.0,
+    "bitola": "Passagem Interior (Inside Passage WA–BC–Sudeste do Alasca), Enseada do Príncipe William (Prince William Sound) e Golfo do Alasca / Ilha Kodiak",
+    "eletrificacao": "Navios transatlânticos ro-pax com cabines de pernoite e conveses de veículos aquecidos (MV Columbia, MV Kennicott, MV Matanuska e os novos Alaska Class MV Hubbard e MV Tazlina)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 2800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 285 milhões (programa federal de renovação da frota AMHS sob a Bipartisan Infrastructure Law, incluindo o novo ferry oceânico substituto do MV Tustumena)",
+      "moeda": "USD",
+      "fonte_id": "dotpf-alaska-marine-highway-system-fhwa"
+    },
+    "proximas_entregas": {
+      "pt": "Construção do novo navio oceânico ro-pax Tustumena Replacement Vessel (TRV) para a rota de Kodiak e das Ilhas Aleutas e novos ferries híbridos para o Canal de Lynn.",
+      "en": "Construction of the new ocean-going Tustumena Replacement Vessel (TRV) for Southwest Alaska / Kodiak and hybrid vessels for Lynn Canal."
+    },
+    "resumo_pt": "Estendendo-se por mais de 5.600 km de rotas totais ao longo da costa do Pacífico Norte, o Alaska Marine Highway System (AMHS) é um dos sistemas públicos de ferries mais extensos e espetaculares do planeta e a única rodovia marítima integrante do National Highway System federal dos Estados Unidos (designada 'All-American Road'). Como a capital estadual do Alasca, Juneau, e dezenas de cidades costeiras (como Ketchikan, Sitka, Wrangell, Petersburg e Kodiak) não possuem nenhuma estrada que as conecte ao restante da América do Norte, os navios ro-pax da AMHS (MV Columbia, MV Kennicott, MV Matanuska, MV Hubbard e MV Tazlina) funcionam como a espinha dorsal de transporte público e abastecimento da região. O tronco sul parte do terminal de Bellingham (no estado de Washington, conectado ao trem Amtrak Cascades) e de Prince Rupert (Colúmbia Britânica, conectado ao trem VIA Rail Jasper–Prince Rupert) e navega pela famosa Inside Passage até Ketchikan, Sitka, Juneau (Auke Bay) e os portos de Haines e Skagway (onde se integra à ferrovia histórica White Pass & Yukon Route). No centro-sul e sudoeste, a AMHS conecta o terminal ferroviário de Whittier (Alaska Railroad) a Valdez, Cordova, Homer, à Ilha Kodiak e à cadeia das Ilhas Aleutas até Unalaska / Dutch Harbor.",
+    "resumo_en": "Spanning more than 3,500 miles of coastal routes along the North Pacific, the Alaska Marine Highway System (AMHS) is one of the longest public ferry networks on Earth and an official component of the United States National Highway System (designated an All-American Road). Because Alaska's state capital, Juneau, and numerous coastal communities (Ketchikan, Sitka, Wrangell, Petersburg, Kodiak) have no road connection to the rest of North America, AMHS ocean-going ro-pax vessels (MV Columbia, MV Kennicott, MV Matanuska, MV Hubbard and MV Tazlina) serve as their vital lifeline. The Inside Passage trunk sails from Bellingham (Washington, served by Amtrak Cascades) and Prince Rupert (BC, served by VIA Rail) through Ketchikan, Sitka and Juneau to Haines and Skagway (connecting with the White Pass & Yukon Route railway), while the Southwest corridor links Whittier (served by the Alaska Railroad) with Valdez, Homer, Kodiak Island and the Aleutian chain.",
+    "lat": 58.3825,
+    "lon": -134.6465,
+    "zoom_inicial": 4.8,
+    "fontes": [
+      "dotpf-alaska-marine-highway-system-fhwa",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "estados unidos",
+      "alasca",
+      "alaska marine highway",
+      "amhs",
+      "inside passage",
+      "bellingham",
+      "ketchikan",
+      "juneau",
+      "skagway",
+      "sitka",
+      "whittier",
+      "kodiak",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MV_Columbia_Alaska_Marine_Highway.jpg/800px-MV_Columbia_Alaska_Marine_Highway.jpg",
+      "credito": "Wikimedia Commons — Navio-capitânia MV Columbia do Alaska Marine Highway System navegando pela Inside Passage rumo a Juneau e Skagway (Alasca, EUA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Alaska_Marine_Highway"
+    },
+    "linhas": [
+      {
+        "id": "linha-amhs-inside-passage-bellingham-ketchikan-juneau-haines-skagway",
+        "nome": "Tronco da Inside Passage — AMHS (Bellingham, WA – Prince Rupert, BC – Ketchikan – Sitka – Juneau Auke Bay – Haines – Skagway, AK)",
+        "status": "operacao",
+        "extensao_km": 1750.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-amhs-sudoeste-whittier-valdez-homer-kodiak-aleutas",
+        "nome": "Tronco do Golfo do Alasca e Kodiak — AMHS (Terminal Ferroviário de Whittier – Valdez – Homer – Ilha Kodiak – Dutch Harbor, AK)",
+        "status": "operacao",
+        "extensao_km": 1500.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

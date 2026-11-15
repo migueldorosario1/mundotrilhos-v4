@@ -36971,6 +36971,366 @@
           -20.9165
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cape-may-ferry-terminal-nj-us",
+        "nome": "North Cape May Ferry Terminal — DRBA (Cape May, Nova Jersey, EUA)",
+        "sistema_id": "cape-may-lewes-ferry-delaware-bay-nj-de-chesapeake-bay-tangier-island-eua",
+        "linha_id": "linha-cape-may-lewes-ferry-delaware-bay-nj-de",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9595,
+          38.9685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lewes-ferry-terminal-de-us",
+        "nome": "Lewes Ferry Terminal — DRBA (Lewes, Delaware, EUA)",
+        "sistema_id": "cape-may-lewes-ferry-delaware-bay-nj-de-chesapeake-bay-tangier-island-eua",
+        "linha_id": "linha-cape-may-lewes-ferry-delaware-bay-nj-de",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1185,
+          38.7825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-crisfield-somers-cove-ferry-pier-md-us",
+        "nome": "Terminal Hidroviário de Crisfield — Somers Cove (Smith & Tangier Island Ferries, Maryland, EUA)",
+        "sistema_id": "cape-may-lewes-ferry-delaware-bay-nj-de-chesapeake-bay-tangier-island-eua",
+        "linha_id": "linha-chesapeake-bay-ferries-crisfield-smith-island-tangier-island-md-va",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8645,
+          37.9785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tangier-island-ferry-dock-va-us",
+        "nome": "Cais Insular de Tangier Island — Baía de Chesapeake (Virgínia, EUA)",
+        "sistema_id": "cape-may-lewes-ferry-delaware-bay-nj-de-chesapeake-bay-tangier-island-eua",
+        "linha_id": "linha-chesapeake-bay-ferries-crisfield-smith-island-tangier-island-md-va",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9915,
+          37.8265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-new-london-ferry-terminal-ct-us",
+        "nome": "New London Ferry Dock — Cross Sound & Block Island Ferries (Integrado à Amtrak Union Station, Connecticut, EUA)",
+        "sistema_id": "cross-sound-ferry-bridgeport-port-jefferson-long-island-sound-block-island-ferry-ct-ny-ri-eua",
+        "linha_id": "linha-long-island-sound-bridgeport-port-jefferson-new-london-orient-point",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0925,
+          41.3535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-orient-point-ferry-terminal-long-island-ny-us",
+        "nome": "Orient Point Ferry Terminal — Cross Sound Ferry (North Fork, Long Island, Nova York, EUA)",
+        "sistema_id": "cross-sound-ferry-bridgeport-port-jefferson-long-island-sound-block-island-ferry-ct-ny-ri-eua",
+        "linha_id": "linha-long-island-sound-bridgeport-port-jefferson-new-london-orient-point",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2415,
+          41.1555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bridgeport-port-jefferson-ferry-terminal-ct-ny-us",
+        "nome": "Bridgeport & Port Jefferson Ferry Terminal (Long Island Sound, CT/NY, EUA)",
+        "sistema_id": "cross-sound-ferry-bridgeport-port-jefferson-long-island-sound-block-island-ferry-ct-ny-ri-eua",
+        "linha_id": "linha-long-island-sound-bridgeport-port-jefferson-new-london-orient-point",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0695,
+          40.9485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-block-island-old-harbor-ferry-pier-ri-us",
+        "nome": "Porto de Old Harbor — Block Island Ferry (Block Island, Rhode Island, EUA)",
+        "sistema_id": "cross-sound-ferry-bridgeport-port-jefferson-long-island-sound-block-island-ferry-ct-ny-ri-eua",
+        "linha_id": "linha-block-island-ferry-point-judith-newport-new-london-old-harbor",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5555,
+          41.1725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-canal-street-ferry-terminal-new-orleans-la-us",
+        "nome": "Canal Street Multimodal Ferry Terminal — RTA (French Quarter / Streetcars, Nova Orleans, LA, EUA)",
+        "sistema_id": "rta-new-orleans-mississippi-river-ferries-algiers-point-canal-street-chalmette-louisiana-eua",
+        "linha_id": "linha-rta-canal-street-algiers-point-ferry-new-orleans",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0625,
+          29.9505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-algiers-point-ferry-terminal-new-orleans-la-us",
+        "nome": "Algiers Point Ferry Terminal — RTA (Margem Oeste do Rio Mississippi, Nova Orleans, LA, EUA)",
+        "sistema_id": "rta-new-orleans-mississippi-river-ferries-algiers-point-canal-street-chalmette-louisiana-eua",
+        "linha_id": "linha-rta-canal-street-algiers-point-ferry-new-orleans",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0545,
+          29.9525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-chalmette-ferry-landing-st-bernard-la-us",
+        "nome": "Terminal de Balsas de Chalmette / Lower Algiers — RTA (St. Bernard Parish, Louisiana, EUA)",
+        "sistema_id": "rta-new-orleans-mississippi-river-ferries-algiers-point-canal-street-chalmette-louisiana-eua",
+        "linha_id": "linha-rta-chalmette-lower-algiers-belle-chasse-mississippi-ferries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9925,
+          29.9415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-belle-chasse-ferry-landing-plaquemines-la-us",
+        "nome": "Atracadouro de Belle Chasse — Scarsdale Ferry (Plaquemines Parish, Louisiana, EUA)",
+        "sistema_id": "rta-new-orleans-mississippi-river-ferries-algiers-point-canal-street-chalmette-louisiana-eua",
+        "linha_id": "linha-rta-chalmette-lower-algiers-belle-chasse-mississippi-ferries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9695,
+          29.8585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-north-sydney-marine-atlantic-terminal-ns-ca",
+        "nome": "Terminal da Marine Atlantic de North Sydney — Ilha Cape Breton (Nova Escócia, Canadá)",
+        "sistema_id": "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
+        "linha_id": "linha-marine-atlantic-estreito-de-cabot-north-sydney-port-aux-basques-argentia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.2495,
+          46.2105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-aux-basques-marine-atlantic-terminal-nl-ca",
+        "nome": "Terminal da Marine Atlantic de Channel-Port aux Basques (Terra Nova e Labrador, Canadá)",
+        "sistema_id": "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
+        "linha_id": "linha-marine-atlantic-estreito-de-cabot-north-sydney-port-aux-basques-argentia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1385,
+          47.5715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-argentia-marine-atlantic-terminal-nl-ca",
+        "nome": "Porto de Ferries de Argentia — Península de Avalon / St. John's (Terra Nova e Labrador, Canadá)",
+        "sistema_id": "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
+        "linha_id": "linha-marine-atlantic-estreito-de-cabot-north-sydney-port-aux-basques-argentia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9865,
+          47.2955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-saint-john-digby-fundy-ferry-terminal-nb-ns-ca",
+        "nome": "Terminal da Baía de Fundy — Bay Ferries Saint John (NB) / Digby (NS, Canadá)",
+        "sistema_id": "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
+        "linha_id": "linha-bay-ferries-fundy-saint-john-digby-northumberland-pei",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0715,
+          45.2525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bellingham-cruise-terminal-amhs-wa-us",
+        "nome": "Bellingham Cruise Terminal — Fairhaven Station (Terminal Sul do Alaska Marine Highway & Amtrak Cascades, WA, EUA)",
+        "sistema_id": "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua",
+        "linha_id": "linha-amhs-inside-passage-bellingham-ketchikan-juneau-haines-skagway",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5125,
+          48.7205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-juneau-auke-bay-ferry-terminal-ak-us",
+        "nome": "Auke Bay Ferry Terminal — Capital Estadual de Juneau (Alaska Marine Highway System, Alasca, EUA)",
+        "sistema_id": "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua",
+        "linha_id": "linha-amhs-inside-passage-bellingham-ketchikan-juneau-haines-skagway",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6465,
+          58.3825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-skagway-ferry-terminal-white-pass-ak-us",
+        "nome": "Terminal Hidroviário de Skagway — AMHS (Integrado à ferrovia histórica White Pass & Yukon Route, Alasca, EUA)",
+        "sistema_id": "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua",
+        "linha_id": "linha-amhs-inside-passage-bellingham-ketchikan-juneau-haines-skagway",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3275,
+          59.4515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kodiak-ferry-terminal-pier-1-ak-us",
+        "nome": "Terminal de Ferries da Ilha Kodiak — Pier 1 (Alaska Marine Highway System, Alasca, EUA)",
+        "sistema_id": "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua",
+        "linha_id": "linha-amhs-sudoeste-whittier-valdez-homer-kodiak-aleutas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4065,
+          57.7885
+        ]
+      }
     }
   ]
 }
