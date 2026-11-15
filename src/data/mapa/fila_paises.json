@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-14T23:14:00-03:00",
+  "atualizado_em": "2026-11-14T23:44:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1900,16 +1900,65 @@
         "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
         "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia"
       ]
+    },
+    {
+      "ordem": 118,
+      "pais": "Fase Hidroviária Mundial #13 — Caribe, México e América Central (Quintana Roo Ultramar Cozumel/Isla Mujeres, Cataño Ferry San Juan/Vieques/Culebra, Trinidad e Tobago Water Taxi, Travessia do Canal do Panamá / Taboga e Golfo de Nicoya Costa Rica)",
+      "codigo": "HIDRO-CARIBE-MEX",
+      "continente": "América Central e Caribe",
+      "status": "concluido",
+      "entregue_em": "2026-11-14",
+      "sistemas_adicionados": [
+        "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+        "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+        "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+        "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+        "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua"
+      ]
     }
   ],
   "fila_proximas_rondas": [
     {
-      "ordem": 118,
-      "pais": "Fase Hidroviária Mundial #13 — Caribe, América Central e México (Ultramar Cancún–Isla Mujeres e Playa del Carmen–Cozumel, Ferry de Cataño San Juan Porto Rico, Ferries de Trinidad e Tobago Port of Spain–Scarborough, Canal do Panamá/Taboga e Golfo de Nicoya Costa Rica)",
-      "codigo": "HIDRO-CARIBE-MEX",
-      "continente": "América do Norte / América Central",
-      "prioridade": "alta",
-      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) os catamarãs Ultramar e Winjet no Caribe Mexicano (Cancún–Isla Mujeres e Playa del Carmen–Cozumel), a Lancha de Cataño na Baía de San Juan (Porto Rico), o corredor rápido inter-ilhas entre Trinidad (Port of Spain) e Tobago (Scarborough), os ferries da Ilha Taboga/Arquipélago de las Perlas no Panamá e as travessias de Puntarenas no Golfo de Nicoya (Costa Rica)"
+      "ordem": 119,
+      "pais": "Fase Hidroviária Brasil #5 — Amazônia Ocidental, Amapá e Tocantins (Santana–Macapá–Afuá–Breves no Amapá/Pará, Hidrovia do Rio Madeira Porto Velho–Humaitá–Manicoré, Hidrovia do Rio Negro Manaus–Novo Airão–Barcelos–São Gabriel da Cachoeira, Hidrovia do Rio Purus e Juruá Acre/Amazonas e Travessias do Rio Tocantins/Araguaia)",
+      "codigo": "HIDRO-BR-NORTE-II",
+      "continente": "América do Sul",
+      "status": "pendente"
+    },
+    {
+      "ordem": 120,
+      "pais": "Fase Hidroviária Brasil #6 — Travessias Litorâneas, Lagunares e Fluviais do Sul, Sudeste e Nordeste (Baía de Guaratuba e Paranaguá–Ilha do Mel no Paraná, São Francisco do Sul–Vila da Glória e Laguna em Santa Catarina, Lagoa dos Patos Pelotas–Rio Grande–São José do Norte no RS, Litoral Sul de SP Cananéia–Ilha Comprida–Iguape e Travessias do Rio São Francisco Penedo–Neópolis e Petrolina–Juazeiro)",
+      "codigo": "HIDRO-BR-SUL-SUDESTE-II",
+      "continente": "América do Sul",
+      "status": "pendente"
+    },
+    {
+      "ordem": 121,
+      "pais": "Fase Hidroviária Mundial #14 — Atlântico Norte, Ilhas Faroé, Islândia e Báltico Oriental (Strandfaraskip Landsins SSL e Smyril Line nas Ilhas Faroé, Herjólfur Vestmannaeyjar e Baldur Breiðafjörður na Islândia, TS Laevad / Kihnu Veeteed Saaremaa–Hiiumaa–Kihnu na Estônia, Smiltynės Perkėla Klaipėda–Neringa na Lituânia e Destination Gotland Nynäshamn–Visby na Suécia)",
+      "codigo": "HIDRO-EUROPA-NORTE-ATLANTICO",
+      "continente": "Europa",
+      "status": "pendente"
+    },
+    {
+      "ordem": 122,
+      "pais": "Fase Hidroviária Mundial #15 — Mediterrâneo Ocidental, Ilhas Baleares, Canárias, Córsega, Malta e Tunísia (Baleària e Trasmediterránea Maiorca–Ibiza–Formentera–Menorca, Fred. Olsen e Naviera Armas nas Ilhas Canárias, Corsica Linea e La Méridionale na Córsega, Gozo Channel e Valletta Ferry Services em Malta e Ferries de Djerba/Sfax–Kerkennah na Tunísia)",
+      "codigo": "HIDRO-MEDITERRANEO-OCIDENTAL",
+      "continente": "Europa / África",
+      "status": "pendente"
+    },
+    {
+      "ordem": 123,
+      "pais": "Fase Hidroviária Mundial #16 — Austrália Insular, Tasmânia, Pacífico Sul e Polinésia (Spirit of Tasmania Geelong–Devonport, SeaLink Kangaroo Island e Rottnest Express Perth na Austrália, Aremiti e Terevau Tahiti–Moorea na Polinésia Francesa, Interisland Ferries e Yasawa Flyer em Fiji, Samoa Shipping Upolu–Savai'i em Samoa e Betico 2 Nouméa–Île des Pins–Lifou na Nova Caledônia)",
+      "codigo": "HIDRO-PACIFICO-OCEANIA-II",
+      "continente": "Oceania",
+      "status": "pendente"
+    },
+    {
+      "ordem": 124,
+      "pais": "Fase Hidroviária Mundial #17 — Grandes Lagos, Rio São Lourenço e Costa Atlântica dos EUA e Canadá (Société des traversiers du Québec STQ Québec–Lévis, Tadoussac e Matane–Baie-Comeau no Canadá, Lake Express, SS Badger e Mackinac Island / Put-in-Bay nos Grandes Lagos dos EUA, Casco Bay Lines e Maine State Ferry no Maine, Cape May–Lewes Ferry NJ/DE e North Carolina Ferry System Hatteras–Ocracoke)",
+      "codigo": "HIDRO-AMERICA-NORTE-III",
+      "continente": "América do Norte",
+      "status": "pendente"
     }
   ]
 }

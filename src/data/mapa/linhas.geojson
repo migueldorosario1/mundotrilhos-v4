@@ -42223,6 +42223,316 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ultramar-cancun-puerto-juarez-isla-mujeres-chiquila-holbox",
+        "nome": "Corredor Norte de Quintana Roo (Terminal Puerto Juárez, Cancún – Isla Mujeres & Chiquilá – Isla Holbox)",
+        "sistema_id": "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+        "sistema_nome": "Ferries do Caribe Mexicano — Ultramar, Winjet e Holbox Express (Cancún Puerto Juárez–Isla Mujeres, Playa del Carmen–Cozumel e Chiquilá–Holbox, Quintana Roo, México)",
+        "pais": "México",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 42.0,
+        "bitola": "Hidrovia marítima de alta velocidade (Ultramar / Holbox Express)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.8055,
+            21.1835
+          ],
+          [
+            -86.7495,
+            21.2565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ultramar-winjet-playa-del-carmen-san-miguel-de-cozumel",
+        "nome": "Expresso do Canal de Cozumel (Terminal Marítimo de Playa del Carmen – Muelle Fiscal San Miguel de Cozumel)",
+        "sistema_id": "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+        "sistema_nome": "Ferries do Caribe Mexicano — Ultramar, Winjet e Holbox Express (Cancún Puerto Juárez–Isla Mujeres, Playa del Carmen–Cozumel e Chiquilá–Holbox, Quintana Roo, México)",
+        "pais": "México",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 56.0,
+        "bitola": "Hidrovia marítima do Canal de Cozumel (Ultramar / Winjet / Xcaret)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0725,
+            20.6215
+          ],
+          [
+            -86.9495,
+            20.5115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-atm-lancha-de-catano-viejo-san-juan-baia-san-juan",
+        "nome": "Lancha de Cataño — Baía de San Juan (Terminal Viejo San Juan Muelle 2 – Terminal Lancha de Cataño)",
+        "sistema_id": "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+        "sistema_nome": "Lancha de Cataño (Baía de San Juan) e Ferries Insulares da ATM para Vieques e Culebra (Porto Rico)",
+        "pais": "Porto Rico (EUA)",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 10.0,
+        "bitola": "Hidrovia urbana da Baía de San Juan (ATM)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.1155,
+            18.4635
+          ],
+          [
+            -66.1355,
+            18.4455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-atm-puerto-rico-ferry-ceiba-vieques-culebra",
+        "nome": "Ponte Marítima das Ilhas-Município (Terminal de Ceiba – Isabel Segunda / Vieques & Ceiba – Dewey / Culebra)",
+        "sistema_id": "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+        "sistema_nome": "Lancha de Cataño (Baía de San Juan) e Ferries Insulares da ATM para Vieques e Culebra (Porto Rico)",
+        "pais": "Porto Rico (EUA)",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 105.0,
+        "bitola": "Hidrovia marítima insular de Porto Rico (ATM / Puerto Rico Ferry)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -65.4715,
+            18.1495
+          ],
+          [
+            -65.6315,
+            18.2325
+          ],
+          [
+            -65.3025,
+            18.3015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-nidco-water-taxi-golfo-de-paria-port-of-spain-san-fernando",
+        "nome": "Expresso do Golfo de Paria — NIDCO Water Taxi (Port of Spain Water Taxi Terminal – San Fernando King's Wharf)",
+        "sistema_id": "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+        "sistema_nome": "Trinidad & Tobago Water Taxi (Port of Spain–San Fernando) e Ponte Marítima Inter-Ilhas Port of Spain–Scarborough (Trinidad e Tobago)",
+        "pais": "Trinidad e Tobago",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 48.0,
+        "bitola": "Hidrovia metropolitana de alta velocidade (NIDCO Water Taxi)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.5145,
+            10.6495
+          ],
+          [
+            -61.4685,
+            10.2815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ttit-inter-island-seabridge-port-of-spain-scarborough-tobago",
+        "nome": "Ponte Marítima Inter-Ilhas Trinidad–Tobago — TTIT (Port of Spain Ferry Terminal – Porto de Scarborough, Tobago)",
+        "sistema_id": "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+        "sistema_nome": "Trinidad & Tobago Water Taxi (Port of Spain–San Fernando) e Ponte Marítima Inter-Ilhas Port of Spain–Scarborough (Trinidad e Tobago)",
+        "pais": "Trinidad e Tobago",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 147.0,
+        "bitola": "Ponte marítima de alta velocidade inter-ilhas (HSC APT James / Buccoo Reef)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.5145,
+            10.6495
+          ],
+          [
+            -61.7,
+            10.72
+          ],
+          [
+            -61.4,
+            10.85
+          ],
+          [
+            -60.7385,
+            11.1815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-do-panama-amador-ilha-taboga-arquipelago-las-perlas",
+        "nome": "Corredor Pacífico do Canal do Panamá (Calzada de Amador / Balboa – Ilha Taboga – Ilha Contadora / Las Perlas)",
+        "sistema_id": "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+        "sistema_nome": "Ferries da Entrada Pacífica do Canal do Panamá (Amador–Ilha Taboga–Contadora) e Rede Marítima de Bocas del Toro / Almirante (Panamá)",
+        "pais": "Panamá",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Hidrovia marítima da Baía do Panamá (Taboga Express / Sea Las Perlas)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.5465,
+            8.9145
+          ],
+          [
+            -79.5545,
+            8.7925
+          ],
+          [
+            -79.0355,
+            8.6255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-caribe-panamenho-almirante-bocas-del-toro-isla-colon",
+        "nome": "Ponte Marítima de Bocas del Toro (Porto de Almirante – Bocas Town / Isla Colón – Bastimentos, Caribe Panamenho)",
+        "sistema_id": "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+        "sistema_nome": "Ferries da Entrada Pacífica do Canal do Panamá (Amador–Ilha Taboga–Contadora) e Rede Marítima de Bocas del Toro / Almirante (Panamá)",
+        "pais": "Panamá",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 70.0,
+        "bitola": "Hidrovia insular da Baía de Almirante (Bocas del Toro)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4015,
+            9.2915
+          ],
+          [
+            -82.2415,
+            9.3405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-golfo-de-nicoya-puntarenas-paquera-playa-naranjo-costa-rica",
+        "nome": "Travessias do Golfo de Nicoya (Terminal de Puntarenas – Paquera & Puntarenas – Playa Naranjo, Costa Rica)",
+        "sistema_id": "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua",
+        "sistema_nome": "Ferries do Golfo de Nicoya (Puntarenas–Paquera–Playa Naranjo, Costa Rica) e Travessia do Lago Nicarágua para a Ilha de Ometepe (Nicarágua)",
+        "pais": "Costa Rica",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 45.0,
+        "bitola": "Hidrovia marítima ro-pax do Golfo de Nicoya (Naviera Tambor / Coonatramar)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.9785,
+            9.9355
+          ],
+          [
+            -84.8485,
+            9.9785
+          ],
+          [
+            -84.9015,
+            9.8515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-nicaragua-san-jorge-moyogalpa-ometepe-san-carlos",
+        "nome": "Hidrovia Lacustre do Lago Cocibolca (Porto de San Jorge, Rivas – Moyogalpa / Ilha de Ometepe – San Carlos, Nicarágua)",
+        "sistema_id": "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua",
+        "sistema_nome": "Ferries do Golfo de Nicoya (Puntarenas–Paquera–Playa Naranjo, Costa Rica) e Travessia do Lago Nicarágua para a Ilha de Ometepe (Nicarágua)",
+        "pais": "Nicarágua",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Hidrovia lacustre do Grande Lago de Nicarágua / Cocibolca (EPN)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.7885,
+            11.4585
+          ],
+          [
+            -85.6985,
+            11.5415
+          ]
+        ]
+      }
     }
   ]
 }

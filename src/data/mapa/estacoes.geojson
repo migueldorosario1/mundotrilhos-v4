@@ -34811,6 +34811,366 @@
           -0.1025
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-juarez-ultramar-cancun-mx",
+        "nome": "Terminal Marítimo de Puerto Juárez (Ultramar — Cancún, México)",
+        "sistema_id": "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+        "linha_id": "linha-ultramar-cancun-puerto-juarez-isla-mujeres-chiquila-holbox",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8055,
+          21.1835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-isla-mujeres-ferry-terminal-mx",
+        "nome": "Terminal Marítimo de Isla Mujeres (APQROO / Ultramar, Quintana Roo, México)",
+        "sistema_id": "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+        "linha_id": "linha-ultramar-cancun-puerto-juarez-isla-mujeres-chiquila-holbox",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7495,
+          21.2565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-playa-del-carmen-ferry-pier-mx",
+        "nome": "Terminal Marítimo de Playa del Carmen (Conexão Tren Maya — Riviera Maya, México)",
+        "sistema_id": "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+        "linha_id": "linha-ultramar-winjet-playa-del-carmen-san-miguel-de-cozumel",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0725,
+          20.6215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-san-miguel-de-cozumel-muelle-fiscal-mx",
+        "nome": "Muelle Fiscal de San Miguel de Cozumel (Ultramar / Winjet / Xcaret, México)",
+        "sistema_id": "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+        "linha_id": "linha-ultramar-winjet-playa-del-carmen-san-miguel-de-cozumel",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9495,
+          20.5115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-viejo-san-juan-muelle-2-ferry-pr",
+        "nome": "Terminal Viejo San Juan — Muelle 2 (Lancha de Cataño / ATM, Porto Rico)",
+        "sistema_id": "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+        "linha_id": "linha-atm-lancha-de-catano-viejo-san-juan-baia-san-juan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1155,
+          18.4635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-lancha-de-catano-pr",
+        "nome": "Terminal Hidroviário da Lancha de Cataño (Baía de San Juan, Porto Rico)",
+        "sistema_id": "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+        "linha_id": "linha-atm-lancha-de-catano-viejo-san-juan-baia-san-juan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1355,
+          18.4455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ceiba-ferry-terminal-roosevelt-roads-pr",
+        "nome": "Terminal de Ferries de Ceiba — Roosevelt Roads (ATM Puerto Rico Ferry)",
+        "sistema_id": "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+        "linha_id": "linha-atm-puerto-rico-ferry-ceiba-vieques-culebra",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6315,
+          18.2325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vieques-isabel-segunda-ferry-pier-pr",
+        "nome": "Terminal Marítimo de Isabel Segunda / Vieques e Dewey / Culebra (Porto Rico)",
+        "sistema_id": "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+        "linha_id": "linha-atm-puerto-rico-ferry-ceiba-vieques-culebra",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.4715,
+          18.1495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-of-spain-water-taxi-ferry-terminal-tt",
+        "nome": "Port of Spain Water Taxi & Inter-Island Ferry Terminal (Trinidad e Tobago)",
+        "sistema_id": "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+        "linha_id": "linha-nidco-water-taxi-golfo-de-paria-port-of-spain-san-fernando",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5145,
+          10.6495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-san-fernando-kings-wharf-water-taxi-tt",
+        "nome": "San Fernando Water Taxi Terminal — King's Wharf (Golfo de Paria, Trinidad)",
+        "sistema_id": "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+        "linha_id": "linha-nidco-water-taxi-golfo-de-paria-port-of-spain-san-fernando",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4685,
+          10.2815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-scarborough-ferry-port-tobago-tt",
+        "nome": "Terminal de Ferries do Porto de Scarborough (Ilha de Tobago, Trinidad e Tobago)",
+        "sistema_id": "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+        "linha_id": "linha-ttit-inter-island-seabridge-port-of-spain-scarborough-tobago",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7385,
+          11.1815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-chaguaramas-galleons-passage-tt",
+        "nome": "Píer Costeiro de Chaguaramas / Boca del Dragón (Trinidad e Tobago)",
+        "sistema_id": "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+        "linha_id": "linha-ttit-inter-island-seabridge-port-of-spain-scarborough-tobago",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6385,
+          10.6785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-calzada-de-amador-balboa-ferry-pier-pa",
+        "nome": "Terminal Marítimo da Calzada de Amador / Balboa (Entrada do Canal do Panamá)",
+        "sistema_id": "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+        "linha_id": "linha-canal-do-panama-amador-ilha-taboga-arquipelago-las-perlas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5465,
+          8.9145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-isla-taboga-panama",
+        "nome": "Muelle Principal da Ilha Taboga (Baía do Panamá, Panamá)",
+        "sistema_id": "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+        "linha_id": "linha-canal-do-panama-amador-ilha-taboga-arquipelago-las-perlas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5545,
+          8.7925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-almirante-water-taxi-panama",
+        "nome": "Terminal Hidroviário e Ferry de Almirante (Bocas del Toro, Panamá)",
+        "sistema_id": "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+        "linha_id": "linha-caribe-panamenho-almirante-bocas-del-toro-isla-colon",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4015,
+          9.2915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bocas-town-isla-colon-pier-panama",
+        "nome": "Embarcadouro de Bocas Town — Isla Colón (Arquipélago de Bocas del Toro, Panamá)",
+        "sistema_id": "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+        "linha_id": "linha-caribe-panamenho-almirante-bocas-del-toro-isla-colon",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2415,
+          9.3405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferry-puntarenas-costa-rica",
+        "nome": "Terminal de Ferries de Barrio El Carmen — Puntarenas (Golfo de Nicoya, Costa Rica)",
+        "sistema_id": "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua",
+        "linha_id": "linha-golfo-de-nicoya-puntarenas-paquera-playa-naranjo-costa-rica",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8485,
+          9.9785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferry-paquera-nicoya-cr",
+        "nome": "Terminal Hidroviário de Paquera e Playa Naranjo (Península de Nicoya, Costa Rica)",
+        "sistema_id": "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua",
+        "linha_id": "linha-golfo-de-nicoya-puntarenas-paquera-playa-naranjo-costa-rica",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9015,
+          9.8515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-san-jorge-rivas-lago-nicaragua",
+        "nome": "Porto Lacustre de San Jorge — Rivas (Lago Cocibolca, Nicarágua)",
+        "sistema_id": "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua",
+        "linha_id": "linha-lago-nicaragua-san-jorge-moyogalpa-ometepe-san-carlos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7885,
+          11.4585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-moyogalpa-isla-ometepe-nicaragua",
+        "nome": "Porto de Moyogalpa — Ilha de Ometepe (Grande Lago de Nicarágua, Nicarágua)",
+        "sistema_id": "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua",
+        "linha_id": "linha-lago-nicaragua-san-jorge-moyogalpa-ometepe-san-carlos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6985,
+          11.5415
+        ]
+      }
     }
   ]
 }
