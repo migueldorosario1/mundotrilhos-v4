@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T11:19:00Z",
+  "atualizado_em": "2026-11-15T11:47:24Z",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2170,16 +2170,24 @@
         "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
         "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 136,
       "pais": "Fase Hidroviária Brasil #8 — Travessias Fluviais, Insulares e Lacustres Complementares do Brasil (Travessias da Balsa Internacional do Rio Uruguai São Borja/Porto Mauá–Alba Posse/Porto Xavier no RS; Hidrovia do Rio Paraná e Lago de Itaipu Guaíra/Porto Rico no PR/MS; Lanchas de Ilha Grande Mangaratiba/Conceição de Jacareí–Vila do Abraão e Paraty–Saco do Mamanguá no RJ; Travessia de Boipeba e Morro de São Paulo Valença/Torrinhas–Cairu na BA; e Travessia de Atins–Caburé–Barreirinhas no Rio Preguiças / Lençóis Maranhenses no MA)",
       "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-VIII",
       "continente": "América do Sul",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T11:47:24Z",
+      "sistemas_adicionados": [
+        "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 137,
       "pais": "Fase Hidroviária Mundial #28 — Oceania Insular, Estreito de Cook e Pacífico Sul II (Bluebridge & Interislander Wellington–Picton no Estreito de Cook e Fullers360 Waiheke/Devonport e Stewart Island Ferry Bluff–Oban na Nova Zelândia; South Sea Cruises Port Denarau–Mamanuca e Yasawa Islands em Fiji; Samoa Shipping Corporation Mulifanua–Salelologa Upolu–Savai'i em Samoa; e Aremiti / Terevau Papeete–Moorea na Polinésia Francesa)",
@@ -2199,6 +2207,20 @@
       "pais": "Fase Hidroviária Mundial #30 — África Costeira, Grandes Lagos Africanos e Oceano Índico II (Azam Marine Kilimanjaro Fast Ferries Dar es Salaam–Zanzibar–Pemba na Tanzânia; Likoni Ferry Mombasa e Mbita–Mfangano no Lago Vitória no Quênia; Ferries de Gorée Dakar–Île de Gorée e Aline Sitoé Diatta Dakar–Ziguinchor Casamance no Senegal; e Cat Cocos Mahé–Praslin–La Digue em Seychelles e Le Mauricien / Rodrigues no Oceano Índico)",
       "codigo": "HIDRO-AFRICA-GRANDES-LAGOS-OCEANO-INDICO-II",
       "continente": "África",
+      "status": "pendente"
+    },
+    {
+      "ordem": 140,
+      "pais": "Fase Hidroviária Mundial #31 — Europa Central Fluvial e Grandes Lagos Alpinos II (Lago de Constança / Bodensee-Schiffsbetriebe & Fähre Konstanz–Meersburg na Alemanha/Suíça/Áustria; Compagnie Générale de Navigation CGN no Lago Léman Genebra–Lausanne–Évian na Suíça/França; Navigazione Laghi nos Lagos de Como, Maggiore e Garda na Itália; e Twin City Liner Viena–Bratislava no Rio Danúbio na Áustria/Eslováquia)",
+      "codigo": "HIDRO-EUROPA-CENTRAL-LAGOS-ALPINOS-DANUBIO-II",
+      "continente": "Europa",
+      "status": "pendente"
+    },
+    {
+      "ordem": 141,
+      "pais": "Fase Hidroviária Mundial #32 — Ásia Meridional, Golfo de Bengala e Oceano Índico II (SWTD Kerala Water Transport Alappuzha–Kottayam–Kollam Backwaters, Ferries de Port Blair–Havelock/Swaraj Dweep–Neil Island em Andaman e Ro-Pax Ghogha–Hazira em Gujarat na Índia; BIWTC / Launches de Sadarghat Daca–Barisal–Bhola–Hatiya em Bangladesh; e MTCC Raajje Transport Link RTL e Airport Ferries Malé–Hulhumalé nas Maldivas)",
+      "codigo": "HIDRO-ASIA-MERIDIONAL-INDIA-BANGLADESH-MALDIVAS-II",
+      "continente": "Ásia",
       "status": "pendente"
     }
   ]

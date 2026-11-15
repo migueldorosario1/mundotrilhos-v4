@@ -48410,6 +48410,390 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-preguicas-barreirinhas-mandacaru-cabure-atins",
+        "nome": "Hidrovia do Rio Preguiças (Lençóis Maranhenses): Barreirinhas – Vassouras – Mandacaru (Farol) – Caburé – Atins",
+        "sistema_slug": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_id": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_nome": "Hidrovia do Rio Preguiças nos Lençóis Maranhenses (Barreirinhas–Mandacaru–Caburé–Atins) e Travessias Costeiras de Raposa e São José de Ribamar (MA)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Lanchas Rápidas de Alumínio (Voadeiras do Rio Preguiças) e Catamarãs/Barcos Costeiros das Fronhas Maranhenses"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8256,
+            -2.7486
+          ],
+          [
+            -42.735,
+            -2.655
+          ],
+          [
+            -42.6889,
+            -2.5936
+          ],
+          [
+            -42.6681,
+            -2.5878
+          ],
+          [
+            -42.7419,
+            -2.5694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-raposa-fronhas-maranhenses-sao-jose-de-ribamar",
+        "nome": "Corredor Costeiro da Ilha do Maranhão: Porto do Braga (Raposa) – Fronhas Maranhenses / Ilha de Curupu – Cais de São José de Ribamar",
+        "sistema_slug": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_id": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_nome": "Hidrovia do Rio Preguiças nos Lençóis Maranhenses (Barreirinhas–Mandacaru–Caburé–Atins) e Travessias Costeiras de Raposa e São José de Ribamar (MA)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 50.0,
+        "bitola": "Lanchas Rápidas de Alumínio (Voadeiras do Rio Preguiças) e Catamarãs/Barcos Costeiros das Fronhas Maranhenses"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.0981,
+            -2.4239
+          ],
+          [
+            -44.045,
+            -2.405
+          ],
+          [
+            -44.0539,
+            -2.5594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-valenca-bom-jardim-gamboa-morro-de-sao-paulo-tinhare",
+        "nome": "Eixo Norte (Ilha de Tinharé): Terminal Hidroviário de Valença – Atracadouro Bom Jardim (Ponta do Curral) – Gamboa do Morro – Morro de São Paulo",
+        "sistema_slug": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_id": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_nome": "Rede Hidroviária do Arquipélago de Tinharé e Boipeba — Lanchas Rápidas de Valença e Atracadouro Bom Jardim para Morro de São Paulo, Gamboa, Boipeba e Cairu (BA)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 60.0,
+        "bitola": "Lanchas Rápidas de Fibra/Alumínio e Embarcações Regionais de Passageiros nos Canais Estuarinos do Rio Una e Rio do Inferno"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0706,
+            -13.3708
+          ],
+          [
+            -38.9614,
+            -13.3853
+          ],
+          [
+            -38.9369,
+            -13.3936
+          ],
+          [
+            -38.9153,
+            -13.3769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-valenca-graciosa-torrinhas-cairu-velha-boipeba-cova-da-onca",
+        "nome": "Eixo Estuarino Sul (Cairu e Ilha de Boipeba): Valença / Graciosa / Torrinhas – Sede de Cairu – Velha Boipeba – Cova da Onça",
+        "sistema_slug": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_id": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_nome": "Rede Hidroviária do Arquipélago de Tinharé e Boipeba — Lanchas Rápidas de Valença e Atracadouro Bom Jardim para Morro de São Paulo, Gamboa, Boipeba e Cairu (BA)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 80.0,
+        "bitola": "Lanchas Rápidas de Fibra/Alumínio e Embarcações Regionais de Passageiros nos Canais Estuarinos do Rio Una e Rio do Inferno"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0706,
+            -13.3708
+          ],
+          [
+            -39.0581,
+            -13.4878
+          ],
+          [
+            -39.0264,
+            -13.5508
+          ],
+          [
+            -38.9158,
+            -13.5789
+          ],
+          [
+            -38.9519,
+            -13.6458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-furnas-peixoto-cassia-delfinopolis-capitolio-guape",
+        "nome": "Eixo Rio Grande / Canastra: Travessia Cássia – Delfinópolis (Represa de Peixoto) e Cânions de Capitólio – São José da Barra – Guapé (Lago de Furnas)",
+        "sistema_slug": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_id": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_nome": "Rede de Balsas do Lago de Furnas e Represa de Mascarenhas de Moraes (\"Mar de Minas\" — Delfinópolis–Cássia, Guapé–São José da Barra/Capitólio e Fama–Alfenas, MG)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 90.0,
+        "bitola": "Balsa Rodoviária Ro-Ro (Ferry-Boat Fluvial/Lacustre com Rebocador Empurrador) e Catamarãs dos Cânions de Capitólio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.8519,
+            -20.5119
+          ],
+          [
+            -46.2764,
+            -20.6256
+          ],
+          [
+            -46.1156,
+            -20.6639
+          ],
+          [
+            -45.9258,
+            -20.7619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-furnas-sapucai-carmo-do-rio-claro-fama-alfenas-campos-gerais",
+        "nome": "Eixo Rio Sapucaí (Sul de Minas): Carmo do Rio Claro – Itaci, Porto Ponte Preta (Campos Gerais) e Travessia Fama – Alfenas (Harmonia)",
+        "sistema_slug": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_id": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_nome": "Rede de Balsas do Lago de Furnas e Represa de Mascarenhas de Moraes (\"Mar de Minas\" — Delfinópolis–Cássia, Guapé–São José da Barra/Capitólio e Fama–Alfenas, MG)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Balsa Rodoviária Ro-Ro (Ferry-Boat Fluvial/Lacustre com Rebocador Empurrador) e Catamarãs dos Cânions de Capitólio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.1219,
+            -20.9711
+          ],
+          [
+            -45.8264,
+            -21.1856
+          ],
+          [
+            -45.8289,
+            -21.4042
+          ],
+          [
+            -45.8456,
+            -21.3919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baixo-xingu-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz",
+        "nome": "Hidrovia do Baixo Rio Xingu: Terminal Hidroviário de Vitória do Xingu – Belo Monte – Senador José Porfírio (Souzel) – Porto de Moz – Foz no Amazonas",
+        "sistema_slug": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_id": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_nome": "Hidrovia do Rio Xingu e Travessia da Transamazônica BR-230 (Balsa Belo Monte–Anapu, Altamira–Vitória do Xingu–Senador José Porfírio–Porto de Moz–Gurupá, PA)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 230.0,
+        "bitola": "Balsa Rodoviária Pesada de Travessia Contínua (BR-230 Transamazônica), Lanchas Expresso de Alumínio e Navios-Motor Amazônicos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.0114,
+            -2.8794
+          ],
+          [
+            -51.7728,
+            -3.0978
+          ],
+          [
+            -51.9542,
+            -2.5908
+          ],
+          [
+            -52.2383,
+            -1.7483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-medio-xingu-altamira-volta-grande-balsa-br-230-belo-monte",
+        "nome": "Médio Xingu e Travessia da Transamazônica BR-230: Orla de Altamira – Reserva do Xingu e Travessia de Balsas Belo Monte (Anapu – Pacajá)",
+        "sistema_slug": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_id": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_nome": "Hidrovia do Rio Xingu e Travessia da Transamazônica BR-230 (Balsa Belo Monte–Anapu, Altamira–Vitória do Xingu–Senador José Porfírio–Porto de Moz–Gurupá, PA)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 110.0,
+        "bitola": "Balsa Rodoviária Pesada de Travessia Contínua (BR-230 Transamazônica), Lanchas Expresso de Alumínio e Navios-Motor Amazônicos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.2056,
+            -3.2089
+          ],
+          [
+            -51.7728,
+            -3.0978
+          ],
+          [
+            -51.7486,
+            -3.1056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-conceicao-de-jacarei-mangaratiba-abraao-palmas-aventureiro",
+        "nome": "Corredor Leste da Ilha Grande: Píer de Conceição de Jacareí / Mangaratiba – Vila do Abraão – Enseada de Palmas – Dois Rios / Aventureiro",
+        "sistema_slug": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_id": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_nome": "Rede de Lanchas Rápidas e Escunas da Baía da Ilha Grande (Conceição de Jacareí, Angra dos Reis e Mangaratiba – Vila do Abraão, Araçatiba, Palmas e Aventureiro, RJ)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 60.0,
+        "bitola": "Lanchas Rápidas Oceânicas (Flexboats de 30 a 60 lugares, travessia em 15–20 min), Catamarãs e Barcos de Madeira da Ilha Grande"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.1722,
+            -23.0389
+          ],
+          [
+            -44.1669,
+            -23.1394
+          ],
+          [
+            -44.1328,
+            -23.1489
+          ],
+          [
+            -44.3147,
+            -23.1889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-angra-santa-luzia-abraao-saco-do-ceu-bananal-aracatiba-proveta",
+        "nome": "Corredor Oeste da Ilha Grande: Estação Santa Luzia (Angra dos Reis) – Vila do Abraão – Saco do Céu – Bananal – Araçatiba – Provetá",
+        "sistema_slug": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_id": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_nome": "Rede de Lanchas Rápidas e Escunas da Baía da Ilha Grande (Conceição de Jacareí, Angra dos Reis e Mangaratiba – Vila do Abraão, Araçatiba, Palmas e Aventureiro, RJ)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 70.0,
+        "bitola": "Lanchas Rápidas Oceânicas (Flexboats de 30 a 60 lugares, travessia em 15–20 min), Catamarãs e Barcos de Madeira da Ilha Grande"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.3167,
+            -23.0114
+          ],
+          [
+            -44.1669,
+            -23.1394
+          ],
+          [
+            -44.2056,
+            -23.1189
+          ],
+          [
+            -44.2589,
+            -23.1136
+          ],
+          [
+            -44.3319,
+            -23.1558
+          ]
+        ]
+      }
     }
   ]
 }
