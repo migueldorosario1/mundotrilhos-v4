@@ -33731,6 +33731,366 @@
           55.3685
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mokpo-coastal-ferry-terminal-kr",
+        "nome": "Terminal de Ferries do Porto de Mokpo (Conexão Honam KTX, Coreia do Sul)",
+        "sistema_id": "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+        "linha_id": "linha-estreito-de-jeju-mokpo-wando-yeosu-porto-de-jeju",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3825,
+          34.7835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-jeju-international-ferry-terminal",
+        "nome": "Terminal Portuário de Passageiros da Ilha de Jeju (Coreia do Sul)",
+        "sistema_id": "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+        "linha_id": "linha-estreito-de-jeju-mokpo-wando-yeosu-porto-de-jeju",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5415,
+          33.5245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-busan-international-passenger-terminal",
+        "nome": "Terminal Internacional de Passageiros do Porto de Busan (Conexão Busan KTX)",
+        "sistema_id": "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+        "linha_id": "linha-estreito-da-coreia-busan-fukuoka-incheon-mar-amarelo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0485,
+          35.1155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hakata-port-international-fukuoka",
+        "nome": "Terminal Internacional do Porto de Hakata / Fukuoka (Japão)",
+        "sistema_id": "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+        "linha_id": "linha-estreito-da-coreia-busan-fukuoka-incheon-mar-amarelo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4015,
+          33.6065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-singapore-harbourfront-cruise-centre",
+        "nome": "HarbourFront Ferry Terminal — Singapore Cruise Centre (MRT HarbourFront)",
+        "sistema_id": "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+        "linha_id": "linha-estreito-de-cingapura-harbourfront-sekupang-batam-centre",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8202,
+          1.2642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-batam-centre-international-ferry",
+        "nome": "Terminal Internacional de Ferries de Batam Centre (Ilha de Batam, Indonésia)",
+        "sistema_id": "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+        "linha_id": "linha-estreito-de-cingapura-harbourfront-sekupang-batam-centre",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0565,
+          1.1315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tanah-merah-ferry-terminal-sg",
+        "nome": "Tanah Merah Ferry Terminal (Changi, Cingapura)",
+        "sistema_id": "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+        "linha_id": "linha-tanah-merah-bintan-tanjung-pinang-desaru",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9885,
+          1.3145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bandar-bentan-telani-bintan",
+        "nome": "Terminal de Ferries Bandar Bentan Telani (Ilha de Bintan, Indonésia)",
+        "sistema_id": "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+        "linha_id": "linha-tanah-merah-bintan-tanjung-pinang-desaru",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3195,
+          1.1745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-george-town-raja-tun-uda-penang",
+        "nome": "Terminal de Ferry Raja Tun Uda (George Town, Ilha de Penang, Malásia)",
+        "sistema_id": "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+        "linha_id": "linha-penang-ferry-george-town-butterworth-penang-sentral",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3455,
+          5.4145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-butterworth-sultan-abdul-halim-penang-sentral",
+        "nome": "Terminal Sultan Abdul Halim — Hub Ferro-Hidroviário Penang Sentral (Butterworth)",
+        "sistema_id": "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+        "linha_id": "linha-penang-ferry-george-town-butterworth-penang-sentral",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3655,
+          5.3945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kuala-perlis-ferry-terminal-my",
+        "nome": "Terminal de Ferries de Kuala Perlis (Perlis, Malásia)",
+        "sistema_id": "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+        "linha_id": "linha-langkawi-fast-ferry-kuala-kedah-kuala-perlis-kuah",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1295,
+          6.3985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kuah-jetty-langkawi-malasia",
+        "nome": "Terminal Marítimo Kuah Jetty (Ilha de Langkawi, Malásia)",
+        "sistema_id": "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+        "linha_id": "linha-langkawi-fast-ferry-kuala-kedah-kuala-perlis-kuah",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8515,
+          6.3065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-escolta-pasig-river-ferry-manila",
+        "nome": "Estação Fluvial Escolta / Guadalupe (Pasig River Ferry MMDA, Manila)",
+        "sistema_id": "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+        "linha_id": "linha-pasig-river-ferry-manila-batangas-calapan-mindoro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9785,
+          14.5965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-batangas-passenger-terminal",
+        "nome": "Terminal Portuário de Passageiros de Batangas (Luzon, Filipinas)",
+        "sistema_id": "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+        "linha_id": "linha-pasig-river-ferry-manila-batangas-calapan-mindoro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0435,
+          13.7545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cebu-pier-1-fast-ferry-terminal",
+        "nome": "Terminal de Catamarãs Rápidos Cebu Pier 1 (Cidade de Cebu, Filipinas)",
+        "sistema_id": "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+        "linha_id": "linha-visayas-oceanjet-supercat-cebu-tagbilaran-bohol-ormoc",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9085,
+          10.2925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tagbilaran-seaport-bohol-ph",
+        "nome": "Porto de Tagbilaran (Ilha de Bohol, Filipinas)",
+        "sistema_id": "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+        "linha_id": "linha-visayas-oceanjet-supercat-cebu-tagbilaran-bohol-ormoc",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8515,
+          9.6485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bach-dang-waterbus-station-saigon",
+        "nome": "Estação Central Bạch Đằng Pier (Saigon Waterbus, Cidade de Ho Chi Minh)",
+        "sistema_id": "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna",
+        "linha_id": "linha-saigon-waterbus-bach-dang-linh-dong-vung-tau",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7068,
+          10.7745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vung-tau-ho-may-ferry-terminal",
+        "nome": "Terminal de Hidrofólio e Catamarã de Vũng Tàu (Vietnã)",
+        "sistema_id": "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna",
+        "linha_id": "linha-saigon-waterbus-bach-dang-linh-dong-vung-tau",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0685,
+          10.3485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rach-gia-ferry-port-mekong",
+        "nome": "Porto de Passageiros de Rạch Giá (Kiên Giang, Delta do Mekong, Vietnã)",
+        "sistema_id": "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna",
+        "linha_id": "linha-phu-quoc-express-rach-gia-ha-tien-phu-quoc-con-dao",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0755,
+          10.0125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bai-vong-port-phu-quoc-vietna",
+        "nome": "Terminal Marítimo de Bãi Vòng (Ilha de Phú Quốc, Vietnã)",
+        "sistema_id": "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna",
+        "linha_id": "linha-phu-quoc-express-rach-gia-ha-tien-phu-quoc-con-dao",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0585,
+          10.1585
+        ]
+      }
     }
   ]
 }

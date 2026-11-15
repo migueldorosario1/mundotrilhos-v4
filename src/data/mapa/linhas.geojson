@@ -41165,6 +41165,344 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-jeju-mokpo-wando-yeosu-porto-de-jeju",
+        "nome": "Ponte Marítima do Estreito de Jeju (Porto de Mokpo KTX / Wando / Yeosu – Porto da Cidade de Jeju)",
+        "sistema_id": "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+        "sistema_nome": "Ferries Costeiros e Internacionais da Coreia do Sul (Mokpo/Wando/Yeosu–Ilha de Jeju, Incheon–Ilhas do Mar Amarelo e Busan–Fukuoka)",
+        "pais": "Coreia do Sul",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 340.0,
+        "bitola": "Hidrovia marítima (Cruise Ferries Queen Jenuvia / Hanil Express)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.3825,
+            34.7835
+          ],
+          [
+            126.755,
+            34.312
+          ],
+          [
+            126.5415,
+            33.5245
+          ],
+          [
+            127.7495,
+            34.7425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-da-coreia-busan-fukuoka-incheon-mar-amarelo",
+        "nome": "Corredor Internacional Estreito da Coreia (Busan KTX – Fukuoka Hakata, Japão) & Incheon Mar Amarelo",
+        "sistema_id": "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+        "sistema_nome": "Ferries Costeiros e Internacionais da Coreia do Sul (Mokpo/Wando/Yeosu–Ilha de Jeju, Incheon–Ilhas do Mar Amarelo e Busan–Fukuoka)",
+        "pais": "Coreia do Sul",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 240.0,
+        "bitola": "Hidrovia internacional (Busan–Fukuoka) e costeira (Incheon)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.0485,
+            35.1155
+          ],
+          [
+            129.35,
+            34.45
+          ],
+          [
+            130.4015,
+            33.6065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-cingapura-harbourfront-sekupang-batam-centre",
+        "nome": "Expresso Internacional HarbourFront – Batam (HarbourFront MRT, Cingapura – Sekupang – Batam Centre, Indonésia)",
+        "sistema_id": "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+        "sistema_nome": "Corredor Internacional de Catamarãs do Estreito de Cingapura (HarbourFront / Tanah Merah – Batam – Bintan, Cingapura, Indonésia e Malásia)",
+        "pais": "Cingapura",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 45.0,
+        "bitola": "Hidrovia internacional de catamarãs rápidos (Estreito de Cingapura)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.8202,
+            1.2642
+          ],
+          [
+            103.9245,
+            1.1275
+          ],
+          [
+            104.0565,
+            1.1315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-tanah-merah-bintan-tanjung-pinang-desaru",
+        "nome": "Corredor Leste Tanah Merah – Bintan & Johor (Tanah Merah, Cingapura – Bandar Bentan Telani / Tanjung Pinang, Bintan)",
+        "sistema_id": "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+        "sistema_nome": "Corredor Internacional de Catamarãs do Estreito de Cingapura (HarbourFront / Tanah Merah – Batam – Bintan, Cingapura, Indonésia e Malásia)",
+        "pais": "Cingapura",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 70.0,
+        "bitola": "Hidrovia internacional (Tanah Merah – Bintan)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.9885,
+            1.3145
+          ],
+          [
+            104.3195,
+            1.1745
+          ],
+          [
+            104.4415,
+            0.9285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-penang-ferry-george-town-butterworth-penang-sentral",
+        "nome": "Travessia Metropolitana Penang Ferry (Raja Tun Uda Terminal, George Town – Sultan Abdul Halim / Penang Sentral, Butterworth)",
+        "sistema_id": "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+        "sistema_nome": "Penang Ferry (George Town–Butterworth Penang Sentral) e Catamarãs do Arquipélago de Langkawi (Kuala Perlis/Kuala Kedah–Kuah, Malásia)",
+        "pais": "Malásia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 6.0,
+        "bitola": "Hidrovia metropolitana (Penang Ferry de dupla proa)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.3455,
+            5.4145
+          ],
+          [
+            100.3655,
+            5.3945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-langkawi-fast-ferry-kuala-kedah-kuala-perlis-kuah",
+        "nome": "Corredor Marítimo de Langkawi (Kuala Kedah & Kuala Perlis – Kuah Jetty, Ilha de Langkawi)",
+        "sistema_id": "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+        "sistema_nome": "Penang Ferry (George Town–Butterworth Penang Sentral) e Catamarãs do Arquipélago de Langkawi (Kuala Perlis/Kuala Kedah–Kuah, Malásia)",
+        "pais": "Malásia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 104.0,
+        "bitola": "Hidrovia marítima (Catamarãs de Langkawi)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.2865,
+            6.1055
+          ],
+          [
+            100.1295,
+            6.3985
+          ],
+          [
+            99.8515,
+            6.3065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-pasig-river-ferry-manila-batangas-calapan-mindoro",
+        "nome": "Pasig River Ferry (Escolta – Guadalupe – Pasig, Manila) & Ponte Marítima de Luzon (Porto de Batangas – Calapan, Mindoro)",
+        "sistema_id": "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+        "sistema_nome": "Pasig River Ferry (Metro Manila), Ponte Marítima Batangas–Mindoro e Catamarãs OceanJet / SuperCat em Cebu–Bohol–Ormoc (Filipinas)",
+        "pais": "Filipinas",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 85.0,
+        "bitola": "Hidrovia fluvial (Rio Pasig) e marítima (Batangas–Mindoro)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.9785,
+            14.5965
+          ],
+          [
+            121.0455,
+            14.5685
+          ],
+          [
+            121.0435,
+            13.7545
+          ],
+          [
+            121.1885,
+            13.4315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-visayas-oceanjet-supercat-cebu-tagbilaran-bohol-ormoc",
+        "nome": "Expresso Marítimo das Visayas — OceanJet / SuperCat (Cebu Pier 1 – Tagbilaran, Bohol & Ormoc, Leyte)",
+        "sistema_id": "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+        "sistema_nome": "Pasig River Ferry (Metro Manila), Ponte Marítima Batangas–Mindoro e Catamarãs OceanJet / SuperCat em Cebu–Bohol–Ormoc (Filipinas)",
+        "pais": "Filipinas",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 160.0,
+        "bitola": "Hidrovia arquipelágica de alta velocidade (OceanJet / SuperCat)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.9085,
+            10.2925
+          ],
+          [
+            123.8515,
+            9.6485
+          ],
+          [
+            124.6055,
+            11.0025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-saigon-waterbus-bach-dang-linh-dong-vung-tau",
+        "nome": "Saigon Waterbus Linha 1 (Píer Bạch Đằng – Bình An – Linh Đông) & Expresso Fluvial-Marítimo Ho Chi Minh – Vũng Tàu",
+        "sistema_id": "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna",
+        "sistema_nome": "Saigon Waterbus (Rio Saigon em Ho Chi Minh), Ferry Can Gio–Vung Tau e Catamarãs Phú Quốc Express (Rạch Giá–Phú Quốc–Côn Đảo, Vietnã)",
+        "pais": "Vietnã",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Hidrovia fluvial metropolitana (Rio Saigon) e estuarina"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.7435,
+            10.8445
+          ],
+          [
+            106.7068,
+            10.7745
+          ],
+          [
+            106.955,
+            10.41
+          ],
+          [
+            107.0685,
+            10.3485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-phu-quoc-express-rach-gia-ha-tien-phu-quoc-con-dao",
+        "nome": "Corredor de Alta Velocidade Golfo da Tailândia (Rạch Giá / Hà Tiên – Ilha de Phú Quốc) & Vũng Tàu – Côn Đảo",
+        "sistema_id": "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna",
+        "sistema_nome": "Saigon Waterbus (Rio Saigon em Ho Chi Minh), Ferry Can Gio–Vung Tau e Catamarãs Phú Quốc Express (Rạch Giá–Phú Quốc–Côn Đảo, Vietnã)",
+        "pais": "Vietnã",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 230.0,
+        "bitola": "Hidrovia oceânica de alta velocidade (Phú Quốc Express)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.0755,
+            10.0125
+          ],
+          [
+            104.4825,
+            10.3765
+          ],
+          [
+            104.0585,
+            10.1585
+          ]
+        ]
+      }
     }
   ]
 }
