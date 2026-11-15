@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T11:45:00-03:00",
+  "atualizado_em": "2026-11-15T12:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2251,16 +2251,18 @@
       "status": "concluido",
       "concluido_em": "2026-11-15T11:45:00-03:00",
       "ronda": 146
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 143,
       "pais": "Fase Hidroviária Mundial #34 — Ásia Oriental Fluvial, Baía de Tóquio, Baía de Osaka e Estreito de Taiwan II (Tokyo Cruise / Tokyo Mizube Line Sumida River & Odaiba e Yokohama Seabass no Japão; Osaka Suijō Bus Aqua-Liner e Captain Line Universal City Port no Japão; Han River Bus / Hangang Water Taxi em Seul na Coreia do Sul; e Cross-Strait Mini-Three-Links Ferries Xiamen–Kinmen e Mawei/Huangqi–Matsu na China/Taiwan)",
       "codigo": "HIDRO-ASIA-ORIENTAL-URBANA-ESTUARIOS-ESTREITOS-III",
       "continente": "Ásia",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T12:15:00-03:00",
+      "ronda": 147
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 144,
       "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-IX",
@@ -2290,6 +2292,14 @@
       "codigo": "HIDRO-AMERICA-DO-NORTE-ARTICO-ALASCA-MISSISSIPI-III",
       "pais": "Fase Hidroviária Mundial #37 — América do Norte Fluvial, Ártico Canadense, Baía de Chesapeake e Golfo do México III (Canal Street–Algiers Ferry e Chalmette no Rio Mississipi em Nova Orleans e Galveston–Port Bolivar Ferry no Texas nos EUA; Cape May–Lewes Ferry na Baía de Delaware e Tangier/Smith Island na Baía de Chesapeake nos EUA; Owen Sound Transportation Norgoma/Jiimaan e Société des traversiers du Québec STQ Île-aux-Coudres, Île-Verte e Basse-Côte-Nord/Anticosti no Canadá; e Travessias Fluviais dos Rios Mackenzie e Yukon nos Territórios do Noroeste e Yukon no Canadá)",
       "continente": "América do Norte",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 148,
+      "codigo": "HIDRO-SUDESTE-ASIATICO-MEKONG-BORNEU-CELEBES-III",
+      "pais": "Fase Hidroviária Mundial #38 — Sudeste Asiático Fluvial e Insular III: Rio Mekong, Bornéu, Molucas e Filipinas Meridionais (Expresso Fluvial do Rio Mekong Phnom Penh–Chau Doc no Camboja/Vietnã e Luang Prabang–Huay Xai no Laos; Express Boats do Rio Rajang Sibu–Kapit em Sarawak, Bornéu e Tawau–Nunukan na Malásia/Indonésia; PELNI / ASDP Ferries de Bitung–Ternate–Tidore nas Molucas e Kupang–Rote em Timor na Indonésia; Ferries de Zamboanga–Basilan–Jolo–Tawi-Tawi e Davao–Samal nas Filipinas; e Koh Rong / Sihanoukville Speed Ferries no Camboja)",
+      "continente": "Ásia",
       "prioridade": "alta",
       "status": "pendente"
     }

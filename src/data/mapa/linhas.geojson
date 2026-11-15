@@ -51094,6 +51094,396 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-yokohama-seabass-tokyo-mizube-baia-de-toquio",
+        "nome": "Yokohama Seabass (Yokohama Station East – Minato Mirai – Red Brick – Yamashita Park) e Tokyo Mizube Line (Ryōgoku – Odaiba – Kasai)",
+        "sistema_id": "yokohama-seabass-tokyo-mizube-osaka-suijo-bus-aqua-liner-captain-line-biwako-kisen-japao",
+        "sistema_slug": "yokohama-seabass-tokyo-mizube-osaka-suijo-bus-aqua-liner-captain-line-biwako-kisen-japao",
+        "pais": "Japão",
+        "cidade": "Yokohama / Tóquio",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 75
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.6275,
+            35.4665
+          ],
+          [
+            139.6425,
+            35.4535
+          ],
+          [
+            139.6505,
+            35.4465
+          ],
+          [
+            139.7765,
+            35.6295
+          ],
+          [
+            139.7935,
+            35.6975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-osaka-aqua-liner-captain-line-lago-biwa",
+        "nome": "Osaka Suijō Bus Aqua-Liner (Yodoyabashi–Castelo de Osaka), Captain Line / Tempozan Ferry e Hidrovia do Lago Biwa (Otsu–Ilha Chikubu–Nagahama)",
+        "sistema_id": "yokohama-seabass-tokyo-mizube-osaka-suijo-bus-aqua-liner-captain-line-biwako-kisen-japao",
+        "sistema_slug": "yokohama-seabass-tokyo-mizube-osaka-suijo-bus-aqua-liner-captain-line-biwako-kisen-japao",
+        "pais": "Japão",
+        "cidade": "Osaka / Otsu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 135
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.4295,
+            34.6565
+          ],
+          [
+            135.4325,
+            34.6655
+          ],
+          [
+            135.5015,
+            34.6925
+          ],
+          [
+            135.5315,
+            34.6905
+          ],
+          [
+            135.8685,
+            35.0115
+          ],
+          [
+            136.1445,
+            35.4215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-tsugaru-aomori-hakodate-sakurajima-yakushima",
+        "nome": "Travessia do Estreito de Tsugaru (Aomori/Ōma – Hakodate) e Eixo de Kagoshima (Sakurajima Ferry 24h e Jetfoil Toppy/Rocket para Tanegashima e Yakushima)",
+        "sistema_id": "tsugaru-kaikyo-ferry-hakodate-aomori-sakurajima-ferry-kagoshima-tane-yaku-jetfoil-zamami-ishigaki-yaeyama-okinawa-japao",
+        "sistema_slug": "tsugaru-kaikyo-ferry-hakodate-aomori-sakurajima-ferry-kagoshima-tane-yaku-jetfoil-zamami-ishigaki-yaeyama-okinawa-japao",
+        "pais": "Japão",
+        "cidade": "Hakodate / Aomori / Kagoshima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 460
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.7155,
+            41.8055
+          ],
+          [
+            140.7065,
+            40.8385
+          ],
+          [
+            130.5645,
+            31.5925
+          ],
+          [
+            130.5985,
+            31.5885
+          ],
+          [
+            130.6555,
+            30.4225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-okinawa-naha-kerama-ishigaki-yaeyama-iriomote",
+        "nome": "Redes Insulares de Okinawa e Arquipélago de Yaeyama (Naha Tomari – Zamami/Tokashiki e Ishigaki – Taketomi – Kohama – Iriomote)",
+        "sistema_id": "tsugaru-kaikyo-ferry-hakodate-aomori-sakurajima-ferry-kagoshima-tane-yaku-jetfoil-zamami-ishigaki-yaeyama-okinawa-japao",
+        "sistema_slug": "tsugaru-kaikyo-ferry-hakodate-aomori-sakurajima-ferry-kagoshima-tane-yaku-jetfoil-zamami-ishigaki-yaeyama-okinawa-japao",
+        "pais": "Japão",
+        "cidade": "Naha / Ishigaki",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 430
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.6805,
+            26.2285
+          ],
+          [
+            127.3025,
+            26.2255
+          ],
+          [
+            124.1555,
+            24.3365
+          ],
+          [
+            124.0865,
+            24.3315
+          ],
+          [
+            123.8825,
+            24.4025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-mini-three-links-xiamen-kinmen-fuzhou-matsu",
+        "nome": "Corredor Transfronteiriço 'Mini-Three-Links' (Xiamen Wutong / Quanzhou – Kinmen Shuitou e Fuzhou Mawei / Huangqi – Ilhas Matsu)",
+        "sistema_id": "mini-three-links-ferries-xiamen-kinmen-mawei-huangqi-matsu-qiongzhou-strait-haikou-xuwen-train-ferry-china-taiwan",
+        "sistema_slug": "mini-three-links-ferries-xiamen-kinmen-mawei-huangqi-matsu-qiongzhou-strait-haikou-xuwen-train-ferry-china-taiwan",
+        "pais": "China e Taiwan",
+        "cidade": "Xiamen / Kinmen / Fuzhou / Matsu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 240
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.1925,
+            24.5325
+          ],
+          [
+            118.2885,
+            24.4145
+          ],
+          [
+            119.4525,
+            25.9925
+          ],
+          [
+            119.9395,
+            26.1585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-estreito-qiongzhou-xuwen-haikou-train-ferry-hainan",
+        "nome": "Ponte Ferro-Rodoviária Marítima do Estreito de Qiongzhou (Xuwen Hai'an/Beigang Guangdong – Haikou Xinhai Port/South Port Ilha de Hainan, China)",
+        "sistema_id": "mini-three-links-ferries-xiamen-kinmen-mawei-huangqi-matsu-qiongzhou-strait-haikou-xuwen-train-ferry-china-taiwan",
+        "sistema_slug": "mini-three-links-ferries-xiamen-kinmen-mawei-huangqi-matsu-qiongzhou-strait-haikou-xuwen-train-ferry-china-taiwan",
+        "pais": "China e Taiwan",
+        "cidade": "Haikou / Xuwen",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.2185,
+            20.2585
+          ],
+          [
+            110.1585,
+            20.0485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-estreito-bohai-dalian-yantai-zhoushan-putuoshan",
+        "nome": "Ponte Ferro-Marítima do Estreito de Bohai (Dalian/Lüshun – Yantai) e Rede do Arquipélago de Zhoushan (Shenjiamen/Zhujiajian – Ilha de Putuoshan – Shengsi)",
+        "sistema_id": "bohai-ferry-dalian-yantai-zhoushan-putuoshan-shenjiamen-ferries-guangzhou-pearl-river-water-bus-wuhan-yangtze-ferry-china",
+        "sistema_slug": "bohai-ferry-dalian-yantai-zhoushan-putuoshan-shenjiamen-ferries-guangzhou-pearl-river-water-bus-wuhan-yangtze-ferry-china",
+        "pais": "China",
+        "cidade": "Dalian / Yantai / Zhoushan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 580
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.6525,
+            38.9285
+          ],
+          [
+            121.3925,
+            37.5525
+          ],
+          [
+            122.3025,
+            29.9485
+          ],
+          [
+            122.3855,
+            29.9925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-guangzhou-water-bus-rio-das-perolas-wuhan-yangtze",
+        "nome": "Ônibus Aquáticos do Rio das Pérolas em Cantão (Fangcun–Tianzi–Canton Tower) e Travessia Urbana do Rio Yangtze em Wuhan (WuhanGuan–Zhonghua Road)",
+        "sistema_id": "bohai-ferry-dalian-yantai-zhoushan-putuoshan-shenjiamen-ferries-guangzhou-pearl-river-water-bus-wuhan-yangtze-ferry-china",
+        "sistema_slug": "bohai-ferry-dalian-yantai-zhoushan-putuoshan-shenjiamen-ferries-guangzhou-pearl-river-water-bus-wuhan-yangtze-ferry-china",
+        "pais": "China",
+        "cidade": "Cantão (Guangzhou) / Wuhan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 160
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.2425,
+            23.1055
+          ],
+          [
+            113.3245,
+            23.1095
+          ],
+          [
+            114.2965,
+            30.5765
+          ],
+          [
+            114.3025,
+            30.5525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-seul-hangang-river-bus-incheon-wolmido-yeongjong",
+        "nome": "Hangang River Bus do Rio Han em Seul (Magok–Yeouido–Oksu–Ttukseom–Jamsil) e Travessias da Baía de Incheon (Wolmido–Yeongjongdo e Sindo–Jangbongdo)",
+        "sistema_id": "seoul-hangang-river-bus-water-taxi-incheon-yeongjong-wolmido-ganghwa-tongyeong-hansando-dadohae-coreia-do-sul",
+        "sistema_slug": "seoul-hangang-river-bus-water-taxi-incheon-yeongjong-wolmido-ganghwa-tongyeong-hansando-dadohae-coreia-do-sul",
+        "pais": "Coreia do Sul",
+        "cidade": "Seul / Incheon",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 110
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.5965,
+            37.4755
+          ],
+          [
+            126.5785,
+            37.4925
+          ],
+          [
+            126.8355,
+            37.5755
+          ],
+          [
+            126.9325,
+            37.5285
+          ],
+          [
+            127.0825,
+            37.5195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-hallyeohaesang-tongyeong-hansando-yeosu-geomundo",
+        "nome": "Rede Insular do Estreito da Coreia e Hallyeohaesang (Tongyeong – Ilha de Hansando – Bijindo – Yokjido e Yeosu – Geomundo)",
+        "sistema_id": "seoul-hangang-river-bus-water-taxi-incheon-yeongjong-wolmido-ganghwa-tongyeong-hansando-dadohae-coreia-do-sul",
+        "sistema_slug": "seoul-hangang-river-bus-water-taxi-incheon-yeongjong-wolmido-ganghwa-tongyeong-hansando-dadohae-coreia-do-sul",
+        "pais": "Coreia do Sul",
+        "cidade": "Tongyeong / Yeosu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 250
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            128.4255,
+            34.8395
+          ],
+          [
+            128.4725,
+            34.7825
+          ],
+          [
+            128.2585,
+            34.6355
+          ],
+          [
+            127.7455,
+            34.7385
+          ],
+          [
+            127.3125,
+            34.0285
+          ]
+        ]
+      }
     }
   ]
 }
