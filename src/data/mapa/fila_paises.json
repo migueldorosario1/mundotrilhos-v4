@@ -2385,7 +2385,15 @@
       "pais": "Fase Hidroviária Brasil #10 — Hidrovias, Travessias e Barcas Complementares do Brasil (Hidrovia do Rio Xingu e Baixo Amazonas Vitória do Xingu–Senador José Porfírio–Porto de Moz–Gurupá no Pará; Travessias de Balsas do Rio Uruguai na Fronteira Brasil–Argentina São Borja–Porto Mauá–Porto Soberbo–El Soberbio e Porto Xavier–San Javier no RS; Travessias Hidroviárias do Litoral do Ceará, Rio Grande do Norte e Paraíba Galinhos–Guamaré e Cabedelo–Costinha/Lucena; Lanchas e Barcas do Pantanal Norte e Rio Cuiabá/São Lourenço Barão de Melgaço–Porto Jofre em MT; e Travessias do Reservatório de Furnas e Mar de Minas Guapé–São José da Barra–Capitólio–Carmo do Rio Claro em MG)",
       "continente": "América do Sul",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 157,
+      "sistemas_adicionados": [
+        "hidrovia-rio-branco-caracarai-santa-maria-do-boiacu-baixo-rio-branco-roraima-amazonas-brasil",
+        "travessias-hidroviarias-galinhos-guamare-canguaretama-barra-do-cunhau-potengi-rio-grande-do-norte-ceara-brasil",
+        "hidrovia-rio-guapore-rio-mamore-guajara-mirim-guayaramerin-costa-marques-pimenteiras-vila-bela-rondonia-mato-grosso-brasil",
+        "travessias-balsas-represas-paraibuna-nilo-pecanha-funil-tres-marias-sao-paulo-rio-de-janeiro-minas-gerais-brasil",
+        "travessias-fluviais-rio-taquari-rio-jacui-rio-ibicui-triunfo-sao-jeronimo-general-camara-itaqui-albornoz-rio-grande-do-sul-brasil"
+      ]
     },
     {
       "ordem": 154,
@@ -2416,6 +2424,14 @@
       "codigo": "HIDRO-ORIENTE-MEDIO-GOLFO-PERSICO-MAR-VERMELHO-MAR-CASPIO-IV",
       "pais": "Fase Hidroviária Mundial #46 — Oriente Médio, Golfo Pérsico, Mar Vermelho, Mar Cáspio e Turquia IV (VALFajr & Hormozgan Ferries Bandar Abbas–Ilha Qeshm–Ilha Hormuz–Kish no Irã; RTA Dubai Water Bus, Water Taxi & Dubai Ferry na Marina e Canal de Dubai nos Emirados Árabes Unidos; Arab Bridge Maritime Aqaba–Nuweiba e Safaga–Duba no Mar Vermelho entre Jordânia, Egito e Arábia Saudita; Ferries Trans-Cáspio Baku/Alat–Turkmenbashi–Aktau no Azerbaijão, Turcomenistão e Cazaquistão; e İZDENİZ Esmirna, BURULAŞ BUDO Mudanya–Istambul e GESTAŞ Dardanelos Çanakkale–Eceabat–Gökçeada–Bozcaada na Turquia)",
       "continente": "Ásia e Oriente Médio",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 158,
+      "codigo": "HIDRO-MEDITERRANEO-EGEU-ADRIATICO-BALEARES-SICILIA-IV",
+      "pais": "Fase Hidroviária Mundial #47 — Mar Mediterrâneo, Mar Egeu, Mar Adriático, Baleares e Sicília/Sardenha IV (Baleària & Trasmediterránea Dénia/Valência–Ibiza–Formentera–Maiorca–Menorca e Algeciras–Ceuta–Tânger na Espanha e Marrocos; Jadrolinija Split–Hvar–Korčula–Dubrovnik e Zadar–Dugi Otok na Croácia; Blue Star Ferries & SeaJets Pireu–Cíclades–Dodecaneso–Creta e Corfu–Igoumenitsa na Grécia; Caremar / SNAV / NLG Nápoles–Capri–Ischia–Procida e Costa Amalfitana na Itália; e Gozo Channel Ferry Ċirkewwa–Mġarr e Valletta Fast Ferry em Malta)",
+      "continente": "Europa e Norte da África",
       "prioridade": "alta",
       "status": "pendente"
     }

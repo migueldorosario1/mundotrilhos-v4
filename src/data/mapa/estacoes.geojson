@@ -51068,6 +51068,581 @@
           45.458
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-caracarai-rio-branco-rr",
+        "nome": "Porto Hidroviário de Caracaraí (\"Cidade-Porto de Roraima\" — BR-174 / Rio Branco, RR)",
+        "sistema_id": "hidrovia-rio-branco-caracarai-santa-maria-do-boiacu-baixo-rio-branco-roraima-amazonas-brasil",
+        "linha_id": "linha-medio-baixo-rio-branco-caracarai-itapera-santa-maria-do-boiacu",
+        "pais": "Brasil",
+        "cidade": "Caracaraí",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto fluvial de Roraima, situado logo abaixo das corredeiras do Bem-Querer na interseção com a rodovia federal BR-174."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1278,
+          1.816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vila-vista-alegre-cachoeirinha-rio-branco-rr",
+        "nome": "Atracadouros Ribeirinhos de Vista Alegre, Caicubi e Cachoeirinha (Baixo Rio Branco, RR)",
+        "sistema_id": "hidrovia-rio-branco-caracarai-santa-maria-do-boiacu-baixo-rio-branco-roraima-amazonas-brasil",
+        "linha_id": "linha-medio-baixo-rio-branco-caracarai-itapera-santa-maria-do-boiacu",
+        "pais": "Brasil",
+        "cidade": "Caracaraí",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Escalas ribeirinhas intermediárias da navegação de passageiros ao longo do Médio e Baixo Rio Branco."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.18,
+          1.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-santa-maria-do-boiacu-resex-baixo-rio-branco-rr",
+        "nome": "Terminal Fluvial de Santa Maria do Boiaçu (RESEX Baixo Rio Branco-Jauaperi — Rorainópolis, RR)",
+        "sistema_id": "hidrovia-rio-branco-caracarai-santa-maria-do-boiacu-baixo-rio-branco-roraima-amazonas-brasil",
+        "linha_id": "linha-medio-baixo-rio-branco-caracarai-itapera-santa-maria-do-boiacu",
+        "pais": "Brasil",
+        "cidade": "Rorainópolis (Santa Maria do Boiaçu)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Maior núcleo urbano ribeirinho do Baixo Rio Branco, acessível exclusivamente por transporte fluvial ou aéreo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.682,
+          0.504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-foz-rio-jauaperi-moura-confluencia-rio-negro-am",
+        "nome": "Atracadouros da Foz do Rio Jauaperi e Vila de Moura (Confluência Rio Branco – Rio Negro, RR/AM)",
+        "sistema_id": "hidrovia-rio-branco-caracarai-santa-maria-do-boiacu-baixo-rio-branco-roraima-amazonas-brasil",
+        "linha_id": "linha-foz-rio-branco-jauaperi-moura-barcelos-rr-am",
+        "pais": "Brasil",
+        "cidade": "Barcelos / Rorainópolis",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Entroncamento hidroviário histórico na foz do Rio Branco no Rio Negro, em frente à vila de Moura (Barcelos, AM)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.635,
+          -1.456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-conexao-hidroviaria-barcelos-rio-negro-branco-am",
+        "nome": "Terminal de Integração Fluvial de Barcelos (Conexão Hidrovia do Rio Branco – Rio Negro, AM)",
+        "sistema_id": "hidrovia-rio-branco-caracarai-santa-maria-do-boiacu-baixo-rio-branco-roraima-amazonas-brasil",
+        "linha_id": "linha-foz-rio-branco-jauaperi-moura-barcelos-rr-am",
+        "pais": "Brasil",
+        "cidade": "Barcelos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ponto de integração das embarcações oriundas do Rio Branco com a linha tronco Manaus–Barcelos–São Gabriel da Cachoeira."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.9269,
+          -0.9736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-pratagil-estacionamento-continental-galinhos-rn",
+        "nome": "Terminal Hidroviário Continental de Pratagil (Acesso à Península de Galinhos, RN)",
+        "sistema_id": "travessias-hidroviarias-galinhos-guamare-canguaretama-barra-do-cunhau-potengi-rio-grande-do-norte-ceara-brasil",
+        "linha_id": "linha-costa-branca-potiguar-pratagil-galos-galinhos-guamare-fortim-jaguaribe",
+        "pais": "Brasil",
+        "cidade": "Galinhos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto continental onde termina a rodovia RN-402 e de onde partem continuamente os barcos de passageiros para Galos e Galinhos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.2415,
+          -5.118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-municipal-de-galinhos-e-vila-de-galos-rn",
+        "nome": "Píeres Municipais da Península de Galinhos e Vila de Galos (Costa Branca, RN)",
+        "sistema_id": "travessias-hidroviarias-galinhos-guamare-canguaretama-barra-do-cunhau-potengi-rio-grande-do-norte-ceara-brasil",
+        "linha_id": "linha-costa-branca-potiguar-pratagil-galos-galinhos-guamare-fortim-jaguaribe",
+        "pais": "Brasil",
+        "cidade": "Galinhos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais hidroviários de passageiros na Vila de Galos e na sede municipal de Galinhos, conectados por charretes e buggies."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.2753,
+          -5.0914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-atracadouro-fortim-canto-da-barra-rio-jaguaribe-ce",
+        "nome": "Atracadouros de Fortim, Canto da Barra e Cumbe (Estuário do Rio Jaguaribe, CE)",
+        "sistema_id": "travessias-hidroviarias-galinhos-guamare-canguaretama-barra-do-cunhau-potengi-rio-grande-do-norte-ceara-brasil",
+        "linha_id": "linha-costa-branca-potiguar-pratagil-galos-galinhos-guamare-fortim-jaguaribe",
+        "pais": "Brasil",
+        "cidade": "Fortim / Aracati",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia fluvial de barcos de passageiros e catamarãs na foz do Rio Jaguaribe no litoral leste do Ceará."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.798,
+          -4.448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-barra-do-cunhau-sibauma-rio-curimatau-rn",
+        "nome": "Terminais da Balsa de Barra do Cunhaú (Canguaretama) e Sibaúma / Pipa (Estuário do Rio Curimataú, RN)",
+        "sistema_id": "travessias-hidroviarias-galinhos-guamare-canguaretama-barra-do-cunhau-potengi-rio-grande-do-norte-ceara-brasil",
+        "linha_id": "linha-litoral-sul-potiguar-barra-do-cunhau-sibauma-pipa-guaraíras",
+        "pais": "Brasil",
+        "cidade": "Canguaretama / Tibau do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia de balsas de veículos e barcos de passageiros ligando Barra do Cunhaú às praias de Sibaúma e Pipa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0412,
+          -6.3095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tibau-do-sul-lagoa-de-guarairas-malembá-rn",
+        "nome": "Píer de Tibau do Sul e Travessia da Lagoa de Guaraíras / Praia de Malembá (RN)",
+        "sistema_id": "travessias-hidroviarias-galinhos-guamare-canguaretama-barra-do-cunhau-potengi-rio-grande-do-norte-ceara-brasil",
+        "linha_id": "linha-litoral-sul-potiguar-barra-do-cunhau-sibauma-pipa-guaraíras",
+        "pais": "Brasil",
+        "cidade": "Tibau do Sul / Senador Georgino Avelino",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessias de barcos e balsas na boca da Lagoa de Guaraíras entre Tibau do Sul e a faixa costeira de Malembá."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.092,
+          -6.1865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-internacional-guajara-mirim-ro",
+        "nome": "Terminal Hidroviário Internacional de Passageiros de Guajará-Mirim (Rio Mamoré — RO, Brasil)",
+        "sistema_id": "hidrovia-rio-guapore-rio-mamore-guajara-mirim-guayaramerin-costa-marques-pimenteiras-vila-bela-rondonia-mato-grosso-brasil",
+        "linha_id": "linha-rio-mamore-baixo-guapore-guajara-mirim-guayaramerin-principe-da-beira-costa-marques",
+        "pais": "Brasil",
+        "cidade": "Guajará-Mirim",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto oficial alfandegado na margem brasileira do Rio Mamoré ao lado do museu histórico da Estrada de Ferro Madeira-Mamoré."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3464,
+          -10.7889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-oficial-guayaramerin-beni-bolivia",
+        "nome": "Puerto Fluvial Internacional de Guayaramerín (Beni, Bolívia — Travessia Binacional do Rio Mamoré)",
+        "sistema_id": "hidrovia-rio-guapore-rio-mamore-guajara-mirim-guayaramerin-costa-marques-pimenteiras-vila-bela-rondonia-mato-grosso-brasil",
+        "linha_id": "linha-rio-mamore-baixo-guapore-guajara-mirim-guayaramerin-principe-da-beira-costa-marques",
+        "pais": "Brasil",
+        "cidade": "Guayaramerín / Guajará-Mirim",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal fluvial boliviano no departamento do Beni, recebendo lanchas e balsas a cada poucos minutos desde Guajará-Mirim."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.356,
+          -10.818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-fluvial-de-costa-marques-forte-principe-da-beira-ro",
+        "nome": "Porto Fluvial de Costa Marques e Atracadouro do Real Forte Príncipe da Beira (Rio Guaporé, RO)",
+        "sistema_id": "hidrovia-rio-guapore-rio-mamore-guajara-mirim-guayaramerin-costa-marques-pimenteiras-vila-bela-rondonia-mato-grosso-brasil",
+        "linha_id": "linha-rio-mamore-baixo-guapore-guajara-mirim-guayaramerin-principe-da-beira-costa-marques",
+        "pais": "Brasil",
+        "cidade": "Costa Marques",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto urbano do Vale do Guaporé em Rondônia e conexão fluvial com a fortaleza setecentista Príncipe da Beira e Buena Vista (Bolívia)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2314,
+          -12.4439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pedras-negras-rolim-de-moura-do-guapore-ro",
+        "nome": "Atracadouros de Pedras Negras (RESEX Rio Cautário) e Rolim de Moura do Guaporé (RO)",
+        "sistema_id": "hidrovia-rio-guapore-rio-mamore-guajara-mirim-guayaramerin-costa-marques-pimenteiras-vila-bela-rondonia-mato-grosso-brasil",
+        "linha_id": "linha-medio-alto-rio-guapore-costa-marques-pedras-negras-pimenteiras-do-oeste-vila-bela",
+        "pais": "Brasil",
+        "cidade": "São Francisco do Guaporé / Alta Floresta d'Oeste",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos ribeirinhos do Médio Rio Guaporé atendendo comunidades extrativistas e quilombolas da fronteira Brasil–Bolívia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.902,
+          -12.851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-fluvial-pimenteiras-do-oeste-alto-guapore-ro",
+        "nome": "Terminal Hidroviário de Pimenteiras do Oeste e Porto do Alto Guaporé (RO / MT)",
+        "sistema_id": "hidrovia-rio-guapore-rio-mamore-guajara-mirim-guayaramerin-costa-marques-pimenteiras-vila-bela-rondonia-mato-grosso-brasil",
+        "linha_id": "linha-medio-alto-rio-guapore-costa-marques-pedras-negras-pimenteiras-do-oeste-vila-bela",
+        "pais": "Brasil",
+        "cidade": "Pimenteiras do Oeste",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Pólo hidroviário do Cone Sul de Rondônia no Rio Guaporé, ponto de partida das embarcações rumo a Costa Marques e Mato Grosso."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0453,
+          -13.4825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-natividade-da-serra-bairro-alto-represa-paraibuna-sp",
+        "nome": "Terminais da Balsa Estadual DH-SP de Natividade da Serra – Bairro Alto (Represa de Paraibuna, SP)",
+        "sistema_id": "travessias-balsas-represas-paraibuna-nilo-pecanha-funil-tres-marias-sao-paulo-rio-de-janeiro-minas-gerais-brasil",
+        "linha_id": "linha-dh-sp-represa-paraibuna-natividade-da-serra-bairro-alto-ribeirao-das-lajes-rj",
+        "pais": "Brasil",
+        "cidade": "Natividade da Serra",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia pública gratuita 24h operada pelo Departamento Hidroviário de São Paulo na Represa de Paraibuna."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4519,
+          -23.5312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-vargem-grande-natividade-da-serra-paraibuna-sp",
+        "nome": "Terminais da Balsa Estadual DH-SP de Vargem Grande (Natividade da Serra / Paraibuna, SP)",
+        "sistema_id": "travessias-balsas-represas-paraibuna-nilo-pecanha-funil-tres-marias-sao-paulo-rio-de-janeiro-minas-gerais-brasil",
+        "linha_id": "linha-dh-sp-represa-paraibuna-natividade-da-serra-bairro-alto-ribeirao-das-lajes-rj",
+        "pais": "Brasil",
+        "cidade": "Natividade da Serra / Paraibuna",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Segunda travessia oficial de balsa do DH-SP no reservatório de Paraibuna/Paraitinga, atendendo a zona rural do Alto Vale do Paraíba."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.541,
+          -23.475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-represa-ribeirao-das-lajes-pirai-rio-claro-rj",
+        "nome": "Atracadouros da Represa de Ribeirão das Lajes (Piraí – Rio Claro, RJ)",
+        "sistema_id": "travessias-balsas-represas-paraibuna-nilo-pecanha-funil-tres-marias-sao-paulo-rio-de-janeiro-minas-gerais-brasil",
+        "linha_id": "linha-dh-sp-represa-paraibuna-natividade-da-serra-bairro-alto-ribeirao-das-lajes-rj",
+        "pais": "Brasil",
+        "cidade": "Piraí / Rio Claro",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia lacustre no histórico reservatório de Ribeirão das Lajes na Serra do Mar fluminense."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.882,
+          -22.695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-porto-novo-morada-nova-de-minas-lago-tres-marias-mg",
+        "nome": "Terminais da Balsa de Porto Novo (Morada Nova de Minas – São Gonçalo do Abaeté, Lago de Três Marias, MG)",
+        "sistema_id": "travessias-balsas-represas-paraibuna-nilo-pecanha-funil-tres-marias-sao-paulo-rio-de-janeiro-minas-gerais-brasil",
+        "linha_id": "linha-balsas-represa-tres-marias-morada-nova-abaete-represa-do-funil-ibituruna-mg",
+        "pais": "Brasil",
+        "cidade": "Morada Nova de Minas / São Gonçalo do Abaeté",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal travessia rodoviária por balsa na rodovia MG-415 sobre o reservatório de Três Marias no Alto São Francisco."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.358,
+          -18.605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-represa-do-funil-ibituruna-bom-sucesso-mg",
+        "nome": "Terminais da Balsa da Represa do Funil (Ibituruna – Bom Sucesso / Macaia, Alto Rio Grande, MG)",
+        "sistema_id": "travessias-balsas-represas-paraibuna-nilo-pecanha-funil-tres-marias-sao-paulo-rio-de-janeiro-minas-gerais-brasil",
+        "linha_id": "linha-balsas-represa-tres-marias-morada-nova-abaete-represa-do-funil-ibituruna-mg",
+        "pais": "Brasil",
+        "cidade": "Ibituruna / Bom Sucesso",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia de balsa que liga Ibituruna e o distrito de Macaia através do lago da Usina Hidrelétrica do Funil no Rio Grande."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.756,
+          -21.158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-lancha-triunfo-sao-jeronimo-rio-jacui-rs",
+        "nome": "Terminais de Balsa e Lanchas de Triunfo e São Jerônimo / Charqueadas (Baixo Rio Jacuí, RS)",
+        "sistema_id": "travessias-fluviais-rio-taquari-rio-jacui-rio-ibicui-triunfo-sao-jeronimo-general-camara-itaqui-albornoz-rio-grande-do-sul-brasil",
+        "linha_id": "linha-balsas-rio-jacui-rio-taquari-triunfo-sao-jeronimo-general-camara-santa-tereza",
+        "pais": "Brasil",
+        "cidade": "Triunfo / São Jerônimo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Histórica travessia pendular de passageiros e veículos sobre o Rio Jacuí entre Triunfo e São Jerônimo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7181,
+          -29.9436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-general-camara-sao-jeronimo-rio-jacui-rs",
+        "nome": "Terminais da Balsa de General Câmara (Margem do Taquari/Jacuí) – São Jerônimo (RS)",
+        "sistema_id": "travessias-fluviais-rio-taquari-rio-jacui-rio-ibicui-triunfo-sao-jeronimo-general-camara-itaqui-albornoz-rio-grande-do-sul-brasil",
+        "linha_id": "linha-balsas-rio-jacui-rio-taquari-triunfo-sao-jeronimo-general-camara-santa-tereza",
+        "pais": "Brasil",
+        "cidade": "General Câmara / São Jerônimo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia rodoviária por balsa na confluência dos rios Taquari e Jacuí na Depressão Central gaúcha."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.761,
+          -29.905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-santa-tereza-sao-valentim-do-sul-mucum-rio-taquari-rs",
+        "nome": "Terminais da Balsa de Santa Tereza – São Valentim do Sul e Muçum (Vale do Rio Taquari, RS)",
+        "sistema_id": "travessias-fluviais-rio-taquari-rio-jacui-rio-ibicui-triunfo-sao-jeronimo-general-camara-itaqui-albornoz-rio-grande-do-sul-brasil",
+        "linha_id": "linha-balsas-rio-jacui-rio-taquari-triunfo-sao-jeronimo-general-camara-santa-tereza",
+        "pais": "Brasil",
+        "cidade": "Santa Tereza / São Valentim do Sul / Muçum",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia estratégica de balsa no Rio Taquari ligando a Serra Gaúcha e o Vale do Taquari."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.735,
+          -29.169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-internacional-de-balsas-itaqui-alvear-rio-uruguai-rs",
+        "nome": "Porto Internacional de Balsas de Itaqui (RS, Brasil) – Alvear (Corrientes, Argentina — Médio Rio Uruguai)",
+        "sistema_id": "travessias-fluviais-rio-taquari-rio-jacui-rio-ibicui-triunfo-sao-jeronimo-general-camara-itaqui-albornoz-rio-grande-do-sul-brasil",
+        "linha_id": "linha-balsas-fronteira-oeste-medio-uruguai-rio-ibicui-itaqui-alvear-macambara",
+        "pais": "Brasil",
+        "cidade": "Itaqui / Alvear",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia binacional oficial de balsas de veículos e passageiros através do Médio Rio Uruguai na Fronteira Oeste gaúcha."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5569,
+          -29.1253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-rio-ibicui-passo-do-silvestre-itaqui-macambara-rs",
+        "nome": "Terminais da Balsa do Rio Ibicuí (Itaqui – Maçambará / Passo do Silvestre, RS)",
+        "sistema_id": "travessias-fluviais-rio-taquari-rio-jacui-rio-ibicui-triunfo-sao-jeronimo-general-camara-itaqui-albornoz-rio-grande-do-sul-brasil",
+        "linha_id": "linha-balsas-fronteira-oeste-medio-uruguai-rio-ibicui-itaqui-alvear-macambara",
+        "pais": "Brasil",
+        "cidade": "Itaqui / Maçambará",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia fluvial sobre o Rio Ibicuí (maior afluente gaúcho do Rio Uruguai) na Fronteira Oeste."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.085,
+          -29.145
+        ]
+      }
     }
   ]
 }
