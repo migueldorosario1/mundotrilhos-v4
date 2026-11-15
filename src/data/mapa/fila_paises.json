@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T15:16:00-03:00",
+  "atualizado_em": "2026-11-15T15:46:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2337,7 +2337,15 @@
       "pais": "Fase Hidroviária Mundial #40 — Escandinávia, Fiordes da Noruega, Mar Báltico e Ártico Europeu III (Hurtigruten & Havila Kystruten Bergen–Trondheim–Bodø–Tromsø–Kirkenes, Ferries Elétricos Norled/Fjord1 de Sognefjord/Geirangerfjord e Bodø–Moskenes/Lofoten na Noruega; Waxholmsbolaget & SL Pendelbåtar 80/82/89 no Arquipélago de Estocolmo e Styrsöbolaget em Gotemburgo na Suécia; Ålandstrafiken nos Arquipélagos de Åland e Turku Saaristo na Finlândia; e Molslinjen Aarhus–Odden, Samsø, Bornholm e Smyril Line Norröna Dinamarca–Ilhas Faroé–Islândia)",
       "continente": "Europa",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 154,
+      "sistemas_adicionados": [
+        "hurtigruten-havila-kystruten-bergen-alesund-trondheim-bodo-lofoten-tromso-kirkenes-noruega",
+        "norled-fjord1-electric-hydrogen-ferries-sognefjord-lavik-oppedal-geiranger-stavanger-hjelmeland-noruega",
+        "sl-pendelbatar-waxholmsbolaget-estocolmo-styrsobolaget-vasttrafik-gotemburgo-suecia",
+        "finferries-alandstrafiken-turku-archipelago-ring-road-parainen-nauvo-korppoo-mariehamn-finlandia",
+        "smyril-line-norrona-hirtshals-torshavn-seydisfjordur-strandfaraskip-landsins-faroe-islandia-dinamarca"
+      ]
     },
     {
       "ordem": 151,
@@ -2368,6 +2376,14 @@
       "codigo": "HIDRO-CARIBE-AMERICA-CENTRAL-GOLFO-DO-MEXICO-PACIFICO-III",
       "pais": "Fase Hidroviária Mundial #43 — Caribe, América Central, Golfo da Califórnia e Pacífico Mexicano III (Baja Ferries & TMC Topolobampo–La Paz e Mazatlán–La Paz no Mar de Cortés e Water Taxis de Puerto Vallarta–Yelapa no México; Ferries de Utila & Roatán Dream Ferries La Ceiba–Roatán–Utila em Honduras e Bluefields–Corn Islands na Nicarágua; L'Express des Îles Pointe-à-Pitre–Les Saintes–Marie-Galante–Dominica–Santa Lúcia nas Antilhas; Ferries del Caribe San Juan–Santo Domingo entre Porto Rico e República Dominicana; e Cayo Largo / Batabanó–Nueva Gerona em Cuba e Port-au-Prince–Jérémie/Île de la Gonâve no Haiti)",
       "continente": "América Central e do Norte",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 155,
+      "codigo": "HIDRO-EUROPA-OCIDENTAL-RENO-SENA-TAMISA-CANAL-DA-MANCHA-IV",
+      "pais": "Fase Hidroviária Mundial #44 — Europa Ocidental, Estuários, Canais e Rios Navegáveis IV (DeWaterbus Antuérpia no Rio Escalda e Ferries Riveo/Vlissingen–Breskens Westerschelde Ferry na Bélgica e Países Baixos; Rederij Doeksen Harlingen–Terschelling–Vlieland e Wagenborg Ameland–Schiermonnikoog nas Ilhas Frísias Holandesas; BKV/BKK Danúbio D11/D12 em Budapeste e Mahart PassNave Curva do Danúbio Visegrád–Szentendre–Esztergom na Hungria; Ferries dos Estuários Franceses Royan–Le Verdon na Gironda, Bac de Barcarin no Ródano/Camargue e Compagnie Yeu Continent Fromentine–Île d'Yeu; e KD Köln-Düsseldorfer e Bingen-Rüdesheimer no Vale do Médio Reno na Alemanha)",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     }
