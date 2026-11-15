@@ -31840,5 +31840,391 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+    "slug": "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+    "nome_pt": "Barcas da Baía de Maputo (Transmarítima Maputo–Katembe–Ilha da Inhaca) e Travessia da Baía de Inhambane (Inhambane–Maxixe, Moçambique)",
+    "nome_en": "Maputo Bay Ferries (Transmarítima Maputo–Katembe–Inhaca Island) & Inhambane Bay Crossing (Inhambane–Maxixe, Mozambique)",
+    "pais": "Moçambique",
+    "cidade": "Maputo, Distrito Municipal de Katembe e Ilha da Inhaca (Maputo); Inhambane e Maxixe (Província de Inhambane, Moçambique)",
+    "uf": "Maputo Cidade / Província de Inhambane",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Empresa Moçambicana de Transportes Marítimos — Transmarítima (Ferry Bagamoyo, Ferry Katembe e Navio Kuhanha na Baía de Maputo) & Travessia Pública da Baía de Inhambane (Inhambane–Maxixe)",
+    "inauguracao": "1955 (Operação histórica dos ferries Bagamoyo e Maputo–Katembe na Baía de Lourenço Marques/Maputo e entrada em operação do novo navio Kuhanha para a Ilha da Inhaca em 2018)",
+    "extensao_km": 85.0,
+    "bitola": "Estuário do Espírito Santo e Baía de Maputo (Maputo–Katembe–Ilha da Inhaca) e Baía de Inhambane (Oceano Índico)",
+    "eletrificacao": "Navio de passageiros e cargas MV Kuhanha (200 passageiros, linha Maputo–Inhaca), ferries urbanos Bagamoyo e Katembe e lanchas/barcas da travessia Inhambane–Maxixe",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 16500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 22 milhões (aquisição do navio Kuhanha pela Transmarítima, reabilitação das pontes-cais de Maputo, Katembe e Inhaca e novos terminais flutuantes em Inhambane e Maxixe)",
+      "moeda": "USD",
+      "fonte_id": "transmaritima-mtc-mocambique-maputo-inhambane"
+    },
+    "proximas_entregas": {
+      "pt": "Introdução de novos catamarãs urbanos na Baía de Maputo (Maputo – Katembe – Catembe Sul / Ponta do Ouro) e requalificação dos cais de Inhambane e Maxixe.",
+      "en": "Introduction of new urban catamarans on Maputo Bay and terminal upgrades at Inhambane and Maxixe."
+    },
+    "resumo_pt": "Em Moçambique, duas grandes baías abrigam sistemas públicos de transporte hidroviário de passageiros essenciais para a mobilidade urbana. Na capital Maputo, a estatal Transmarítima opera a partir da Ponte-Cais de Maputo (localizada a poucos metros da célebre Estação Central dos Caminhos de Ferro de Moçambique — CFM) a tradicional travessia de pedestres de 15 minutos até o cais de Katembe através do Estuário do Espírito Santo, além da linha regular de 38 km pela Baía de Maputo com o moderno navio 'Kuhanha' até a Ilha da Inhaca. Mais ao norte, a 470 km da capital, a Baía de Inhambane separa a histórica capital administrativa provincial (Cidade de Inhambane, fundada no século XVI) da maior cidade comercial e entroncamento da rodovia nacional EN1 (Maxixe): durante todo o dia, barcas públicas e embarcações motorizadas cruzam os 4 km da baía em 20 minutos entre as pontes-cais de Inhambane e Maxixe, evitando um contorno rodoviário de 60 km.",
+    "resumo_en": "In Mozambique, two major Indian Ocean bays host essential urban passenger ferry networks. In the capital Maputo, state operator Transmarítima runs passenger ferries from the Maputo Ferry Pier (adjacent to the historic CFM Central Railway Station) across the Espírito Santo Estuary in 15 minutes to Katembe, alongside the 38 km crossing across Maputo Bay aboard the MV Kuhanha to Inhaca Island. Further north, Inhambane Bay separates the historic provincial capital of Inhambane from the commercial hub of Maxixe on the EN1 national highway: throughout the day, public ferries cross the 4 km bay in 20 minutes between the Inhambane and Maxixe piers, saving a 60 km road detour.",
+    "lat": -25.9735,
+    "lon": 32.5665,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "transmaritima-mtc-mocambique-maputo-inhambane",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "moçambique",
+      "maputo",
+      "katembe",
+      "catembe",
+      "ilha da inhaca",
+      "baía de maputo",
+      "transmarítima",
+      "kuhanha",
+      "inhambane",
+      "maxixe",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ferry_Bagamoyo_Maputo_Katembe_Mozambique.jpg/800px-Ferry_Bagamoyo_Maputo_Katembe_Mozambique.jpg",
+      "credito": "Wikimedia Commons — Ferry urbano na travessia da Baía de Maputo (Maputo–Katembe–Inhaca) e barcas de Inhambane–Maxixe (Moçambique)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Mozambique"
+    },
+    "linhas": [
+      {
+        "id": "linha-transmaritima-baia-de-maputo-katembe-ilha-da-inhaca",
+        "nome": "Hidrovia Metropolitana da Baía de Maputo — Transmarítima (Ponte-Cais de Maputo / Estação CFM – Cais de Katembe – Ilha da Inhaca)",
+        "status": "operacao",
+        "extensao_km": 42.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-travessia-baia-de-inhambane-cais-inhambane-maxixe-mocambique",
+        "nome": "Travessia Urbana da Baía de Inhambane (Ponte-Cais da Cidade de Inhambane – Ponte-Cais de Maxixe / EN1, Província de Inhambane)",
+        "status": "operacao",
+        "extensao_km": 43.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+    "slug": "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+    "nome_pt": "Robben Island Ferry (Nelson Mandela Gateway V&A Waterfront – Robben Island, Cidade do Cabo) e Balsa do Rio Breede / Malgas Pont (África do Sul)",
+    "nome_en": "Robben Island Ferry (Nelson Mandela Gateway V&A Waterfront – Robben Island, Cape Town) & Breede River Malgas Pont Ferry (South Africa)",
+    "pais": "África do Sul",
+    "cidade": "Cidade do Cabo (V&A Waterfront / Table Bay e Robben Island) e Malgas / Swellendam (Rio Breede, Província do Cabo Ocidental, África do Sul)",
+    "uf": "Western Cape",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Robben Island Museum — RIM Ferry Service (Catamarãs Sikhululekile, Krotoa e Navio Histórico Susan Kruger) & Western Cape Government (Balsa Fluvial de Malgas no Rio Breede)",
+    "inauguracao": "1997 (Inauguração do serviço público oficial de catamarãs do Nelson Mandela Gateway para Robben Island; travessia da balsa de Malgas no Rio Breede desde 1860)",
+    "extensao_km": 38.0,
+    "bitola": "Baía da Mesa / Table Bay (Oceano Atlântico Sul na Cidade do Cabo, 12 km) e Baixo Rio Breede (Malgas, Cabo Ocidental)",
+    "eletrificacao": "Catamarã carro-chefe de fibra de carbono MV Sikhululekile (300 passageiros, construído na Cidade do Cabo), catamarã MV Krotoa, navio histórico MV Susan Kruger e balsa de cabo de Malgas",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 2800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 18 milhões (construção do catamarã Sikhululekile na Damen Shipyards Cape Town e reabilitação do Porto de Murray's Bay em Robben Island)",
+      "moeda": "USD",
+      "fonte_id": "robben-island-museum-ferry-western-cape"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização dos quebra-mares do Murray's Bay Harbour em Robben Island e estudos para linhas de water taxi elétrico entre V&A Waterfront, Hout Bay e Simon's Town.",
+      "en": "Upgrading of the Murray's Bay Harbour breakwaters on Robben Island and studies for electric water taxi corridors in Cape Town."
+    },
+    "resumo_pt": "Na Cidade do Cabo (África do Sul), a travessia marítima de 12 km através das águas do Atlântico Sul na Baía da Mesa (Table Bay) é a mais emblemática rota de ferries da África Austral. Partindo diariamente do moderno terminal Nelson Mandela Gateway (ao lado da Clock Tower no Victoria & Alfred Waterfront), os catamarãs de alta capacidade MV Sikhululekile (cujo nome significa 'Estamos Livres' em Xhosa, construído localmente pela Damen Shipyards Cape Town) e MV Krotoa, acompanhados pelo histórico navio MV Susan Kruger (que transportava prisioneiros e familiares durante o Apartheid), levam passageiros e trabalhadores em 30 minutos até o Porto de Murray's Bay na Ilha Robben (Patrimônio Mundial da UNESCO, onde Nelson Mandela esteve preso por 18 anos). No interior da mesma província do Cabo Ocidental, às margens do Rio Breede (entre Swellendam e Witsand), opera a histórica Balsa de Malgas (Malgas Pont, inaugurada em 1860), a última balsa fluvial de transporte público de veículos guiada por cabos ainda em operação na África do Sul.",
+    "resumo_en": "In Cape Town (South Africa), the 12 km maritime crossing across Table Bay in the South Atlantic is Southern Africa's most iconic passenger ferry route. Departing daily from the Nelson Mandela Gateway terminal at the V&A Waterfront, high-capacity catamarans MV Sikhululekile (meaning 'We Are Free' in isiXhosa, built locally by Damen Shipyards Cape Town) and MV Krotoa — alongside the historic vessel MV Susan Kruger — carry passengers and island staff in 30 minutes to Murray's Bay Harbour on UNESCO-listed Robben Island. Further east in the Western Cape province, the historic Malgas Pont Ferry (operating since 1860 across the Breede River near Swellendam) remains South Africa's last operational cable-guided vehicular river ferry.",
+    "lat": -33.8565,
+    "lon": 18.3955,
+    "zoom_inicial": 11.2,
+    "fontes": [
+      "robben-island-museum-ferry-western-cape",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "áfrica do sul",
+      "cidade do cabo",
+      "cape town",
+      "robben island",
+      "table bay",
+      "v&a waterfront",
+      "nelson mandela gateway",
+      "sikhululekile",
+      "susan kruger",
+      "malgas pont",
+      "rio breede",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Robben_Island_Ferry_Sikhululekile_Cape_Town.jpg/800px-Robben_Island_Ferry_Sikhululekile_Cape_Town.jpg",
+      "credito": "Wikimedia Commons — Catamarã MV Sikhululekile no terminal Nelson Mandela Gateway (V&A Waterfront – Robben Island, Cidade do Cabo, África do Sul)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_to_Robben_Island"
+    },
+    "linhas": [
+      {
+        "id": "linha-robben-island-ferry-table-bay-waterfront-murrays-bay-cape-town",
+        "nome": "Ponte Marítima da Baía da Mesa — Robben Island Ferry (Nelson Mandela Gateway, V&A Waterfront – Porto de Murray's Bay, Ilha Robben, Cidade do Cabo)",
+        "status": "operacao",
+        "extensao_km": 14.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-malgas-pont-ferry-rio-breede-swellendam-witsand-western-cape",
+        "nome": "Travessia Fluvial do Rio Breede — Malgas Pont Ferry (Malgas – Witsand / Infanta, Província do Cabo Ocidental)",
+        "status": "operacao",
+        "extensao_km": 24.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+    "slug": "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+    "nome_pt": "Hidrovia Nacional do Lago Malawi / Lago Niassa — Malawi Shipping Company (MV Ilala e MV Chilembwe: Monkey Bay – Chipoka – Ilha de Likoma – Nkhata Bay – Chilumba, Malawi)",
+    "nome_en": "Lake Malawi / Lake Nyasa National Waterway — Malawi Shipping Company (MV Ilala & MV Chilembwe: Monkey Bay – Chipoka – Likoma Island – Nkhata Bay – Chilumba, Malawi)",
+    "pais": "Malawi, Moçambique e Tanzânia",
+    "cidade": "Monkey Bay (Mangochi), Chipoka (Salima), Metangula / Cóbuè (Moçambique), Ilha de Chizumulu, Ilha de Likoma, Nkhata Bay, Usisya e Chilumba / Karonga (Malawi); Mbamba Bay (Tanzânia)",
+    "uf": "Southern / Central / Northern Regions (MW) / Niassa (MZ)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Malawi Shipping Company — MSC / Mota-Engil (Frota do Lago Malawi: Navio Histórico MV Ilala, Navio Expresso MV Chilembwe e MV Mtendere)",
+    "inauguracao": "1951 (Viagem inaugural do lendário navio MV Ilala, construído na Escócia por Yarrow & Co., desmontado e remontado em Monkey Bay no Lago Malawi)",
+    "extensao_km": 540.0,
+    "bitola": "Lago Malawi / Lago Niassa (Terceiro maior lago da África e nono do mundo, no Grande Vale do Rift, com 580 km de comprimento)",
+    "eletrificacao": "Navio clássico de passageiros e cargas MV Ilala (620 toneladas, 400 passageiros em cabines e conveses, em serviço contínuo desde 1951!) e navio rápido MV Chilembwe (120 passageiros)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 2200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 28 milhões (reforma estrutural completa e remotorização do MV Ilala no estaleiro de Monkey Bay, aquisição do MV Chilembwe e novos portos lacustres em Likoma e Nkhata Bay)",
+      "moeda": "USD",
+      "fonte_id": "malawi-shipping-company-mv-ilala"
+    },
+    "proximas_entregas": {
+      "pt": "Construção do novo píer de atracação direta na Ilha de Likoma (substituindo o transbordo por barcaças) e reabilitação do terminal multimodal trem-barco de Chipoka.",
+      "en": "Construction of the new direct-berthing jetty on Likoma Island and rehabilitation of the Chipoka rail-lake multimodal terminal."
+    },
+    "resumo_pt": "No coração do Grande Vale do Rift Oriental, o Lago Malawi (conhecido como Lago Niassa em Moçambique e Lago Nyasa na Tanzânia) estende-se por 580 km de norte a sul e abriga uma das linhas de navegação interior mais lendárias do planeta: a rota semanal dos navios MV Ilala e MV Chilembwe, operada pela Malawi Shipping Company (MSC). Construído na Escócia em 1949, transportado em peças por ferrovia e colocado na água em Monkey Bay em 1951, o MV Ilala navega ininterruptamente há mais de 75 anos como a 'autoestrada flutuante' do Malawi. Partindo de Monkey Bay (no sul do lago) e passando pelo porto ferroviário de Chipoka, o navio percorre 480 km rumo ao norte fazendo escalas vitais em vilarejos costeiros sem acesso rodoviário (como Makanjila, Usisya, Ruarwe e Tchalo), nas duas ilhas habitadas de Likoma e Chizumulu (enclaves do Malawi cercados por águas territoriais de Moçambique) e nos portos do norte em Nkhata Bay e Chilumba.",
+    "resumo_en": "In the East African Rift Valley, Lake Malawi (Lake Niassa in Mozambique) stretches 580 km from north to south and hosts one of the world's most legendary inland shipping routes: the weekly voyage of the MV Ilala and fast ferry MV Chilembwe, operated by the Malawi Shipping Company (MSC). Built in Scotland in 1949, railed in pieces and launched at Monkey Bay in 1951, the historic MV Ilala has sailed for over 75 years as Malawi's floating highway. Departing Monkey Bay and calling at the rail-connected port of Chipoka, the vessel sails 480 km northward to Nkhata Bay and Chilumba, serving roadless lakeshore villages and the inhabited enclaves of Likoma and Chizumulu islands.",
+    "lat": -12.0685,
+    "lon": 34.7385,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "malawi-shipping-company-mv-ilala",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "malawi",
+      "moçambique",
+      "tanzânia",
+      "lago malawi",
+      "lago niassa",
+      "mv ilala",
+      "mv chilembwe",
+      "monkey bay",
+      "chipoka",
+      "likoma island",
+      "nkhata bay",
+      "chilumba",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MV_Ilala_at_Likoma_Island_Lake_Malawi.jpg/800px-MV_Ilala_at_Likoma_Island_Lake_Malawi.jpg",
+      "credito": "Wikimedia Commons — Lendário navio de passageiros MV Ilala ancorado na Ilha de Likoma no Lago Malawi / Lago Niassa (Malawi)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:MV_Ilala"
+    },
+    "linhas": [
+      {
+        "id": "linha-lago-malawi-sul-centro-monkey-bay-chipoka-metangula-likoma-island",
+        "nome": "Tronco Sul–Centro do Lago Malawi — MV Ilala & MV Chilembwe (Porto de Monkey Bay – Terminal Ferroviário de Chipoka – Metangula – Ilhas de Likoma e Chizumulu)",
+        "status": "operacao",
+        "extensao_km": 295.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-lago-malawi-norte-likoma-nkhata-bay-usisya-chilumba-mbamba-bay",
+        "nome": "Tronco Norte do Lago Malawi — MV Ilala & MV Chilembwe (Ilha de Likoma – Porto de Nkhata Bay – Usisya – Porto de Chilumba / Karonga)",
+        "status": "operacao",
+        "extensao_km": 245.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+    "slug": "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+    "nome_pt": "Hidrovias do Lago Kivu (Goma – Ilha de Idjwi – Bukavu) e do Lago Tanganyika (Kalemie – Uvira – Bujumbura, RD Congo, Ruanda e Burundi)",
+    "nome_en": "Lake Kivu (Goma – Idjwi Island – Bukavu) & Lake Tanganyika (Kalemie – Uvira – Bujumbura) Ferry Networks (DR Congo, Rwanda & Burundi)",
+    "pais": "República Democrática do Congo, Ruanda e Burundi",
+    "cidade": "Goma (Kivu do Norte), Ilha de Idjwi e Bukavu (Kivu do Sul, Lago Kivu); Rubavu / Karongi / Rusizi (Ruanda); Kalemie, Baraka e Uvira (RD Congo) e Bujumbura (Burundi, Lago Tanganyika)",
+    "uf": "Nord-Kivu / Sud-Kivu / Tanganyika",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Companhias de Navegação do Lago Kivu (Ets. Silimu, Ihusi Express, Marinette e SNCC Lac Kivu) & SNCC / Operadoras do Lago Tanganyika (Kalemie–Uvira–Bujumbura)",
+    "inauguracao": "1927 (Inauguração das linhas lacustres regulares nos Lagos Kivu e Tanganyika integradas à ferrovia de Kalemie; introdução de lanchas de alta velocidade Goma–Bukavu nos anos 2000)",
+    "extensao_km": 460.0,
+    "bitola": "Lago Kivu (1.460 metros de altitude no Vale do Rift Albertino) e Norte-Centro do Lago Tanganyika (Lago mais profundo da África)",
+    "eletrificacao": "Lanchas rápidas e catamarãs expressos ('Vedettes Rapides' de 3 horas entre Goma e Bukavu), navios de grande porte de múltiplos conveses (Emmanuel, Marinette, Akonkwa) e navios da SNCC",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 14000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 48 milhões (Projeto do Banco Mundial e União Europeia para construção dos novos portos lacustres de Goma, Bukavu, Idjwi, Rubavu e Rusizi no Lago Kivu e reabilitação do Porto de Kalemie)",
+      "moeda": "USD",
+      "fonte_id": "sncc-rvf-lake-kivu-tanganyika-world-bank"
+    },
+    "proximas_entregas": {
+      "pt": "Inauguração dos novos portos públicos de Rubavu, Karongi e Rusizi na margem ruandesa do Lago Kivu e modernização dos píeres de Goma e Bukavu.",
+      "en": "Commissioning of new public passenger and cargo ports at Rubavu, Karongi and Rusizi on the Rwandan shore of Lake Kivu and upgraded piers at Goma and Bukavu."
+    },
+    "resumo_pt": "Nas províncias orientais da República Democrática do Congo (Kivu do Norte, Kivu do Sul e Tanganyika), os grandes lagos do Rift Albertino funcionam como a única autoestrada confiável e segura para milhões de habitantes. A 1.460 metros de altitude, o Lago Kivu une as duas grandes metrópoles do leste congolês — Goma (ao norte, vizinha a Rubavu/Gisenyi em Ruanda) e Bukavu (ao sul, vizinha a Rusizi/Cyangugu em Ruanda) — através de uma movimentada frota diária de lanchas expressas ('Vedettes Rapides' que cobrem os 105 km em apenas 2h45 a 3 horas) e grandes navios noturnos de passageiros e cargas, além de atender a gigantesca Ilha de Idjwi (a segunda maior ilha lacustre da África, com mais de 300 mil habitantes). Mais ao sul, no Lago Tanganyika, os navios que partem do porto ferroviário da SNCC em Kalemie conectam o sul do Congo aos portos de Baraka, Uvira, Kigoma (Tanzânia) e Bujumbura (Burundi).",
+    "resumo_en": "In the eastern provinces of the Democratic Republic of the Congo (North Kivu, South Kivu and Tanganyika), the Great Lakes of the Albertine Rift serve as the primary transport highway for millions of people. At an elevation of 1,460 meters, Lake Kivu connects the two major metropolises of eastern Congo — Goma in the north and Bukavu in the south — via a busy daily fleet of high-speed express boats ('Vedettes Rapides' completing the 105 km crossing in under 3 hours) and large multi-deck passenger ships, while also serving Idjwi Island (home to over 300,000 residents). Further south on Lake Tanganyika, vessels departing the SNCC rail-connected port of Kalemie link eastern Congo with Baraka, Uvira and Bujumbura (Burundi).",
+    "lat": -2.0425,
+    "lon": 29.0255,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "sncc-rvf-lake-kivu-tanganyika-world-bank",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "rd congo",
+      "república democrática do congo",
+      "ruanda",
+      "burundi",
+      "lago kivu",
+      "goma",
+      "bukavu",
+      "ilha de idjwi",
+      "lago tanganyika",
+      "kalemie",
+      "uvira",
+      "bujumbura",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Passenger_boats_at_Goma_Port_Lake_Kivu.jpg/800px-Passenger_boats_at_Goma_Port_Lake_Kivu.jpg",
+      "credito": "Wikimedia Commons — Navios de passageiros e lanchas expressas no Porto de Goma rumo a Idjwi e Bukavu no Lago Kivu (RD Congo)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_on_Lake_Kivu"
+    },
+    "linhas": [
+      {
+        "id": "linha-lago-kivu-expresso-goma-idjwi-bukavu-rd-congo-ruanda",
+        "nome": "Expresso do Lago Kivu (Porto Público de Goma – Ilha de Idjwi – Porto de Bukavu, Kivu do Norte e Kivu do Sul, RD Congo)",
+        "status": "operacao",
+        "extensao_km": 110.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-lago-tanganyika-kalemie-baraka-uvira-bujumbura",
+        "nome": "Tronco Norte–Centro do Lago Tanganyika (Porto Ferroviário SNCC de Kalemie – Baraka – Porto de Uvira, RD Congo – Bujumbura, Burundi)",
+        "status": "operacao",
+        "extensao_km": 350.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar",
+    "slug": "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar",
+    "nome_pt": "Pontes Marítimas Insulares de Madagascar — Travessia de Nosy Be (Ankify–Hell-Ville) e Travessia de Sainte-Marie / Nosy Boraha (Soanierana Ivongo–Ambodifotatra)",
+    "nome_en": "Madagascar Insular Seabridges — Nosy Be Crossing (Ankify–Hell-Ville) & Île Sainte-Marie / Nosy Boraha Crossing (Soanierana Ivongo–Ambodifotatra)",
+    "pais": "Madagascar",
+    "cidade": "Ankify (Ambanja) e Hell-Ville / Andoany (Ilha de Nosy Be, Região de Diana); Soanierana Ivongo, Mahambo e Ambodifotatra (Ilha de Sainte-Marie / Nosy Boraha, Região de Analanjirofo, Madagascar)",
+    "uf": "Diana / Analanjirofo",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Agence Portuaire, Maritime et Fluviale — APMF Madagascar (Operadores do Canal de Nosy Be em Ankify–Hell-Ville & Companhias Cap Sainte-Marie / El Condor em Soanierana Ivongo–Ambodifotatra)",
+    "inauguracao": "1960 (Estruturação das travessias regulares motorizadas de passageiros e balsas ro-pax para Nosy Be e para a Ilha de Sainte-Marie)",
+    "extensao_km": 95.0,
+    "bitola": "Canal de Moçambique (Baía de Ampasindava: Ankify–Nosy Be) e Canal de Sainte-Marie no Oceano Índico (Costa Leste de Madagascar)",
+    "eletrificacao": "Balsas ro-pax ('Bacs' para caminhões e automóveis), lanchas expressas de passageiros (Vedettes Rapides em Ankify–Hell-Ville) e navios catamarãs Cap Sainte-Marie / El Condor",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 6500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 24 milhões (reabilitação dos portos de Hell-Ville em Nosy Be, Ankify e Soanierana Ivongo pela APMF Madagascar com apoio da JICA e da União Europeia)",
+      "moeda": "USD",
+      "fonte_id": "apmf-madagascar-nosy-be-sainte-marie"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação da gare marítima de passageiros de Hell-Ville (Andoany) e dragagem do canal de acesso de Soanierana Ivongo na costa leste.",
+      "en": "Expansion of the Hell-Ville (Andoany) passenger maritime station on Nosy Be and channel dredging at Soanierana Ivongo."
+    },
+    "resumo_pt": "Em Madagascar — a quarta maior ilha do mundo —, o transporte marítimo costeiro supervisionado pela Agence Portuaire, Maritime et Fluviale (APMF) concentra-se em duas travessias insulares vitais que ligam a 'Grande Ilha' às suas ilhas mais populosas. Na costa noroeste (Canal de Moçambique), o porto continental de Ankify (no final da rodovia nacional RN6 em Ambanja) funciona como a porta de entrada para a Ilha de Nosy Be (e para a vizinha Nosy Komba): dezenas de lanchas rápidas ('Vedettes Rapides', 30 minutos de travessia) e balsas ro-pax ('Bacs' de veículos e cargas, 1h15) cruzam os 22 km de canal até o Porto de Hell-Ville (Andoany). Já na costa leste, voltada para o Oceano Índico, os ferries Cap Sainte-Marie e El Condor partem dos portos de Soanierana Ivongo e Mahambo (na rodovia RN5 ao norte de Toamasina) e cruzam o Canal de Sainte-Marie até o porto de Ambodifotatra, na histórica Ilha de Sainte-Marie (Nosy Boraha).",
+    "resumo_en": "In Madagascar — the world's fourth-largest island — coastal passenger shipping overseen by the Agence Portuaire, Maritime et Fluviale (APMF) centers on two vital insular seabridges. On the northwestern coast along the Mozambique Channel, the mainland port of Ankify (at the end of the RN6 highway near Ambanja) serves as the gateway to Nosy Be and Nosy Komba islands, with high-frequency express boats (30 minutes) and vehicular ro-pax ferries ('Bacs', 75 minutes) crossing the 22 km channel to the Port of Hell-Ville (Andoany). On the eastern Indian Ocean coast, scheduled ferries depart Soanierana Ivongo and Mahambo (along the RN5 highway north of Toamasina) across the Sainte-Marie Channel to Ambodifotatra on Île Sainte-Marie (Nosy Boraha).",
+    "lat": -13.4045,
+    "lon": 48.2765,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "apmf-madagascar-nosy-be-sainte-marie",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "madagascar",
+      "nosy be",
+      "hell-ville",
+      "andoany",
+      "ankify",
+      "nosy komba",
+      "sainte-marie",
+      "nosy boraha",
+      "soanierana ivongo",
+      "ambodifotatra",
+      "apmf",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hell-Ville_Port_Nosy_Be_Madagascar.jpg/800px-Hell-Ville_Port_Nosy_Be_Madagascar.jpg",
+      "credito": "Wikimedia Commons — Embarcações rápidas e balsas ro-pax no Porto de Hell-Ville (Andoany, Ilha de Nosy Be – Ankify, Madagascar)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Madagascar"
+    },
+    "linhas": [
+      {
+        "id": "linha-madagascar-nosy-be-ankify-nosy-komba-hell-ville-andoany",
+        "nome": "Ponte Marítima de Nosy Be — APMF (Porto Continental de Ankify / Ambanja – Ilha de Nosy Komba – Porto de Hell-Ville / Andoany, Nosy Be)",
+        "status": "operacao",
+        "extensao_km": 28.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-madagascar-sainte-marie-soanierana-ivongo-mahambo-ambodifotatra",
+        "nome": "Travessia do Canal de Sainte-Marie (Porto de Soanierana Ivongo / Mahambo – Porto de Ambodifotatra, Ilha de Sainte-Marie / Nosy Boraha)",
+        "status": "operacao",
+        "extensao_km": 67.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
