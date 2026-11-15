@@ -39851,6 +39851,348 @@
           47.3475
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-piombino-marittima-ferry-station-toscana-it",
+        "nome": "Estação Ferro-Marítima de Piombino Marittima — Toremar, Moby & Trenitalia (Toscana, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-ilha-de-elba-portoferraio-rio-marina-giglio-capraia-toscana-italia",
+        "linha_id": "linha-toremar-moby-piombino-marittima-portoferraio-rio-marina-cavo-ilha-de-elba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5415,
+          42.9275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-portoferraio-harbour-ilha-de-elba-it",
+        "nome": "Porto de Portoferraio — Hub Principal da Ilha de Elba (Toremar / Moby / Blu Navy, Toscana, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-ilha-de-elba-portoferraio-rio-marina-giglio-capraia-toscana-italia",
+        "linha_id": "linha-toremar-moby-piombino-marittima-portoferraio-rio-marina-cavo-ilha-de-elba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3285,
+          42.8155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rio-marina-cavo-ports-ilha-de-elba-it",
+        "nome": "Portos de Rio Marina e Cavo — Costa Leste da Ilha de Elba (Toscana, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-ilha-de-elba-portoferraio-rio-marina-giglio-capraia-toscana-italia",
+        "linha_id": "linha-toremar-moby-piombino-marittima-portoferraio-rio-marina-cavo-ilha-de-elba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4315,
+          42.8155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-santo-stefano-ilha-de-giglio-capraia-it",
+        "nome": "Terminais de Porto Santo Stefano – Giglio Porto (Ilha de Giglio) e Ilha de Capraia (Toscana, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-ilha-de-elba-portoferraio-rio-marina-giglio-capraia-toscana-italia",
+        "linha_id": "linha-arquipelago-toscano-livorno-capraia-porto-santo-stefano-ilha-de-giglio",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9275,
+          42.3605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pozzuoli-ferry-port-golfo-de-napoles-it",
+        "nome": "Porto de Pozzuoli — Ferries Caremar e Medmar para Procida e Ischia (Campânia, Itália)",
+        "sistema_id": "caremar-medmar-snav-alilauro-napoles-pozzuoli-procida-ischia-formia-ponza-ventotene-italia",
+        "linha_id": "linha-golfo-de-napoles-pozzuoli-procida-ischia-porto-casamicciola-forio",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1185,
+          40.8215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-marina-grande-ilha-de-procida-napoles-it",
+        "nome": "Porto de Marina Grande — Ilha de Procida (Caremar / SNAV / Medmar, Golfo de Nápoles, Itália)",
+        "sistema_id": "caremar-medmar-snav-alilauro-napoles-pozzuoli-procida-ischia-formia-ponza-ventotene-italia",
+        "linha_id": "linha-golfo-de-napoles-pozzuoli-procida-ischia-porto-casamicciola-forio",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0265,
+          40.7615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ischia-porto-casamicciola-forio-harbours-it",
+        "nome": "Portos de Ischia Porto, Casamicciola Terme e Forio — Ilha de Ischia (Golfo de Nápoles, Itália)",
+        "sistema_id": "caremar-medmar-snav-alilauro-napoles-pozzuoli-procida-ischia-formia-ponza-ventotene-italia",
+        "linha_id": "linha-golfo-de-napoles-pozzuoli-procida-ischia-porto-casamicciola-forio",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9495,
+          40.7445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-formia-ponza-ventotene-laziomar-ports-it",
+        "nome": "Porto de Formia e Terminais Insulares de Ponza e Ventotene — Laziomar (Golfo de Gaeta, Lácio, Itália)",
+        "sistema_id": "caremar-medmar-snav-alilauro-napoles-pozzuoli-procida-ischia-formia-ponza-ventotene-italia",
+        "linha_id": "linha-laziomar-golfo-de-gaeta-formia-ponza-ventotene-lacio",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9665,
+          40.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-valletta-lascaris-wharf-gozo-highspeed-terminal-mt",
+        "nome": "Valletta Lascaris Wharf Terminal — Catamarãs Gozo Highspeed (Grand Harbour, Valletta, Malta)",
+        "sistema_id": "gozo-highspeed-valletta-mgarr-gozo-channel-cirkewwa-comino-sliema-three-cities-ferries-malta",
+        "linha_id": "linha-gozo-highspeed-valletta-grand-harbour-mgarr-gozo-malta",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5135,
+          35.8945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cirkewwa-ferry-terminal-gozo-channel-malta-mt",
+        "nome": "Ċirkewwa Passenger & Vehicle Ferry Terminal — Gozo Channel Line 24h (Norte da Ilha de Malta)",
+        "sistema_id": "gozo-highspeed-valletta-mgarr-gozo-channel-cirkewwa-comino-sliema-three-cities-ferries-malta",
+        "linha_id": "linha-canal-de-gozo-cirkewwa-comino-blue-lagoon-mgarr-gozo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3285,
+          35.9885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-comino-blue-lagoon-santa-marija-piers-mt",
+        "nome": "Píeres da Blue Lagoon e Santa Marija Bay — Ilha de Comino (Kemmuna, Malta)",
+        "sistema_id": "gozo-highspeed-valletta-mgarr-gozo-channel-cirkewwa-comino-sliema-three-cities-ferries-malta",
+        "linha_id": "linha-canal-de-gozo-cirkewwa-comino-blue-lagoon-mgarr-gozo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3235,
+          36.0135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-zadar-gazenica-poluotok-ferry-terminals-hr",
+        "nome": "Terminais Marítimos de Zadar Gaženica (Ro-Pax) e Poluotok / Centro Histórico (Catamarãs, Zadar, Croácia)",
+        "sistema_id": "jadrolinija-krilo-mia-ferries-zadar-preko-ugljan-dugi-otok-losinj-sibenik-zlarin-kaprije-croacia",
+        "linha_id": "linha-jadrolinija-miatours-zadar-preko-ugljan-dugi-otok-silba-mali-losinj",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2585,
+          44.0885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-preko-ugljan-island-ferry-port-zadar-hr",
+        "nome": "Porto de Ferries de Preko — Ilha de Ugljan (Linha 431 Jadrolinija, Condado de Zadar, Croácia)",
+        "sistema_id": "jadrolinija-krilo-mia-ferries-zadar-preko-ugljan-dugi-otok-losinj-sibenik-zlarin-kaprije-croacia",
+        "linha_id": "linha-jadrolinija-miatours-zadar-preko-ugljan-dugi-otok-silba-mali-losinj",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1885,
+          44.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dugi-otok-brbinj-sali-silba-ports-hr",
+        "nome": "Portos de Brbinj e Sali (Ilha de Dugi Otok) e Ilha Sem Carros de Silba (Arquipélago de Zadar, Croácia)",
+        "sistema_id": "jadrolinija-krilo-mia-ferries-zadar-preko-ugljan-dugi-otok-losinj-sibenik-zlarin-kaprije-croacia",
+        "linha_id": "linha-jadrolinija-miatours-zadar-preko-ugljan-dugi-otok-silba-mali-losinj",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9985,
+          44.0825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sibenik-ferry-port-zlarin-prvic-kaprije-hr",
+        "nome": "Porto de Ferries de Šibenik (Vrulje) e Píeres Insulares de Zlarin, Prvić e Kaprije (Dalmácia, Croácia)",
+        "sistema_id": "jadrolinija-krilo-mia-ferries-zadar-preko-ugljan-dugi-otok-losinj-sibenik-zlarin-kaprije-croacia",
+        "linha_id": "linha-jadrolinija-arquipelago-de-sibenik-vodice-prvic-zlarin-kaprije-zirje",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8925,
+          43.7325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-piraeus-gate-e8-saronic-ferries-terminal-gr",
+        "nome": "Porto do Pireu — Portão E8 (Terminal do Golfo Sarônico, Integrado às Linhas 1 e 3 do Metrô de Atenas, Grécia)",
+        "sistema_id": "saronic-ferries-blue-star-aero-highspeed-piraeus-aegina-poros-hydra-spetses-rafina-andros-tinos-mykonos-grecia",
+        "linha_id": "linha-golfo-saronico-pireu-e8-egina-agistri-poros-hidra-spetses",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6385,
+          37.9465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-aegina-town-agistri-ferry-ports-saronic-gr",
+        "nome": "Porto Principal de Egina (Aegina) e Skala / Megalochori em Agistri (Golfo Sarônico, Grécia)",
+        "sistema_id": "saronic-ferries-blue-star-aero-highspeed-piraeus-aegina-poros-hydra-spetses-rafina-andros-tinos-mykonos-grecia",
+        "linha_id": "linha-golfo-saronico-pireu-e8-egina-agistri-poros-hidra-spetses",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4285,
+          37.7475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hydra-poros-spetses-ports-saronic-islands-gr",
+        "nome": "Portos Históricos de Hidra (Hydra — Ilha Sem Carros), Poros e Dapia em Spetses (Ilhas Sarônicas, Grécia)",
+        "sistema_id": "saronic-ferries-blue-star-aero-highspeed-piraeus-aegina-poros-hydra-spetses-rafina-andros-tinos-mykonos-grecia",
+        "linha_id": "linha-golfo-saronico-pireu-e8-egina-agistri-poros-hidra-spetses",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4655,
+          37.3505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rafina-port-andros-tinos-mykonos-ferries-gr",
+        "nome": "Porto de Passageiros de Rafina (Ática Oriental) e Portos de Gavrio (Andros) e Tinos (Cíclades, Grécia)",
+        "sistema_id": "saronic-ferries-blue-star-aero-highspeed-piraeus-aegina-poros-hydra-spetses-rafina-andros-tinos-mykonos-grecia",
+        "linha_id": "linha-porto-de-rafina-atica-andros-gavrio-tinos-mykonos-ciclades",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0115,
+          38.0225
+        ]
+      }
     }
   ]
 }
