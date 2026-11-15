@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T12:46:43Z",
+  "atualizado_em": "2026-11-15T10:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2215,16 +2215,18 @@
         "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
         "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 139,
       "pais": "Fase Hidroviária Mundial #30 — África Costeira, Grandes Lagos Africanos e Oceano Índico II (Azam Marine Kilimanjaro Fast Ferries Dar es Salaam–Zanzibar–Pemba na Tanzânia; Likoni Ferry Mombasa e Mbita–Mfangano no Lago Vitória no Quênia; Ferries de Gorée Dakar–Île de Gorée e Aline Sitoé Diatta Dakar–Ziguinchor Casamance no Senegal; e Cat Cocos Mahé–Praslin–La Digue em Seychelles e Le Mauricien / Rodrigues no Oceano Índico)",
       "codigo": "HIDRO-AFRICA-GRANDES-LAGOS-OCEANO-INDICO-II",
       "continente": "África",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T10:15:00-03:00",
+      "ronda": 143
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 140,
       "pais": "Fase Hidroviária Mundial #31 — Europa Central Fluvial e Grandes Lagos Alpinos II (Lago de Constança / Bodensee-Schiffsbetriebe & Fähre Konstanz–Meersburg na Alemanha/Suíça/Áustria; Compagnie Générale de Navigation CGN no Lago Léman Genebra–Lausanne–Évian na Suíça/França; Navigazione Laghi nos Lagos de Como, Maggiore e Garda na Itália; e Twin City Liner Viena–Bratislava no Rio Danúbio na Áustria/Eslováquia)",
@@ -2251,6 +2253,14 @@
       "pais": "Fase Hidroviária Mundial #34 — Ásia Oriental Fluvial, Baía de Tóquio, Baía de Osaka e Estreito de Taiwan II (Tokyo Cruise / Tokyo Mizube Line Sumida River & Odaiba e Yokohama Seabass no Japão; Osaka Suijō Bus Aqua-Liner e Captain Line Universal City Port no Japão; Han River Bus / Hangang Water Taxi em Seul na Coreia do Sul; e Cross-Strait Mini-Three-Links Ferries Xiamen–Kinmen e Mawei/Huangqi–Matsu na China/Taiwan)",
       "codigo": "HIDRO-ASIA-ORIENTAL-URBANA-ESTUARIOS-ESTREITOS-III",
       "continente": "Ásia",
+      "status": "pendente"
+    },
+    {
+      "ordem": 144,
+      "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-IX",
+      "pais": "Fase Hidroviária Brasil #9 — Travessias Costeiras, Estuarinas e Fluviais Complementares do Brasil (Travessias de Barcas e Catamarãs da Baía de Guanabara/Sepetiba Itaguaí–Ilha da Madeira–Jaguanum–Itacuruçá no RJ; Lanchas Rápidas de Antonina–Guaraqueçaba–Superagui no PR; Travessias do Rio São Francisco Barra–Xique-Xique–Pilão Arcado–Remanso na BA; Balsas de Porto Xavier–San Javier e Porto Mauá–Alba Posse no Rio Uruguai no RS; e Hidrovias de Tefé–Jutaí–Fonte Boa–Santo Antônio do Içá no Alto Solimões no AM)",
+      "continente": "América do Sul (Brasil)",
+      "prioridade": "alta",
       "status": "pendente"
     }
   ]
