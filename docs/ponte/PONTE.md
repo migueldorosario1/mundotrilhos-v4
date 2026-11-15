@@ -1398,6 +1398,23 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.564 páginas estáticas geradas** (`npm run build` com código 0).
 - **Próxima Ronda (#147 / Ordem 143 da Fila)**: `HIDRO-ASIA-ORIENTAL-URBANA-ESTUARIOS-ESTREITOS-III` (Fase Hidroviária Mundial #34 — Ásia Oriental Fluvial, Baía de Tóquio, Baía de Osaka e Estreito de Taiwan II).
 
+### #148 — 15/11/2026 12:19 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #147 CONCLUÍDA EM PRODUÇÃO (`commit` na `main`, `2574 page(s) built`): ORDEM 143 DA FILA — FASE HIDROVIÁRIA MUNDIAL #34 (ÁSIA ORIENTAL FLUVIAL, BAÍA DE TÓQUIO, BAÍA DE OSAKA, ESTREITO DE TAIWAN E MARES CHINESES II — QUÁDRUPLO MARCO HISTÓRICO: 200+ SISTEMAS HIDROVIÁRIOS, 1.300 LINHAS EM OPERAÇÃO, 400+ LINHAS HIDROVIÁRIAS E 800+ TERMINAIS HIDROVIÁRIOS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 143 Concluída (`HIDRO-ASIA-ORIENTAL-URBANA-ESTUARIOS-ESTREITOS-III`) — 5 sistemas hidroviários de barcos e ferries (`2.690 km`, 10 linhas, 25 terminais)**:
+  1. `yokohama-seabass-tokyo-mizube-osaka-suijo-bus-aqua-liner-captain-line-biwako-kisen-japao` (🇯🇵 Japão — Yokohama Seabass e Tokyo Mizube Line na Baía de Tóquio, Osaka Suijō Bus Aqua-Liner, Captain Line e 8 Ferries Municipais Gratuitos da Baía de Osaka e Biwako Kisen Michigan/Ilha Chikubu no Lago Biwa, `210 km`, 2 linhas, 5 terminais)
+  2. `tsugaru-kaikyo-ferry-hakodate-aomori-sakurajima-ferry-kagoshima-tane-yaku-jetfoil-zamami-ishigaki-yaeyama-okinawa-japao` (🇯🇵 Japão — Tsugaru Kaikyo Ferry e Seikan Ferry Aomori–Hakodate/Oma, Sakurajima Ferry 24h e Jetfoil Toppy/Rocket de Kagoshima para Tanegashima e Yakushima e Ferries de Okinawa e Ilhas Yaeyama Naha Tomari–Zamami e Ishigaki–Taketomi–Iriomote, `890 km`, 2 linhas, 5 terminais)
+  3. `mini-three-links-ferries-xiamen-kinmen-mawei-huangqi-matsu-qiongzhou-strait-haikou-xuwen-train-ferry-china-taiwan` (🇨🇳🇹🇼 China e Taiwan — Catamarãs Transfronteiriços "Mini-Three-Links" Xiamen Wutong–Kinmen Shuitou e Fuzhou Mawei/Huangqi–Ilhas Matsu Nangan/Beigan e Ponte Ferro-Rodoviária Marítima do Estreito de Qiongzhou Xuwen–Haikou Xinhai Port/South Port em Hainan, `490 km`, 2 linhas, 5 terminais)
+  4. `bohai-ferry-dalian-yantai-zhoushan-putuoshan-shenjiamen-ferries-guangzhou-pearl-river-water-bus-wuhan-yangtze-ferry-china` (🇨🇳 China — Ponte Ferro-Marítima do Estreito de Bohai Dalian/Lüshun–Yantai, Rede Insular de Zhoushan Shenjiamen/Zhujiajian–Ilha de Putuoshan–Shengsi, Guangzhou Water Bus no Rio das Pérolas e Wuhan Yangtze Ferry Hankou Wuhan Customs–Wuchang Zhonghua Road, `740 km`, 2 linhas, 5 terminais)
+  5. `seoul-hangang-river-bus-water-taxi-incheon-yeongjong-wolmido-ganghwa-tongyeong-hansando-dadohae-coreia-do-sul` (🇰🇷 Coreia do Sul — Hangang River Bus Híbrido no Rio Han em Seul Magok–Yeouido–Oksu–Ttukseom–Jamsil, Ferries da Baía de Incheon Wolmido–Yeongjongdo e Sindo–Jangbongdo e Ferries Insulares de Tongyeong–Hansando e Yeosu–Geomundo, `360 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa**:
+  - **939 sistemas no banco** (**923 em operação**, sendo **203 sistemas de transporte por barco/ferries** — superando a marca histórica de **200+ sistemas hidroviários**! + 16 não-operacionais preservados intactos)
+  - **1.319 linhas mapeadas** (**1.300 em operação** — marco histórico exato de **1.300 linhas em operação**!, sendo **405 linhas hidroviárias de barcos/ferries** — superando **400+ linhas hidroviárias**!)
+  - **2.250 estações e terminais geolocalizados** (**816 terminais hidroviários de barcos/ferries** — superando **800+ terminais hidroviários**!)
+  - **2.574 páginas estáticas geradas** (`npm run build` com código 0).
+- **Próxima Ronda (#148 / Ordem 144 da Fila)**: `HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-IX` (Fase Hidroviária Brasil #9 — Travessias Costeiras, Estuarinas e Fluviais Complementares do Brasil).
+
+
 
 
 
