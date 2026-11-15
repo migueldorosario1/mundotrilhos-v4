@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T05:45:00-03:00",
+  "atualizado_em": "2026-11-15T06:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2095,16 +2095,24 @@
         "ferries-lago-general-carrera-chile-chico-puerto-ibanez-lago-pirihueico-puerto-fuy-cruz-del-sur-patagonia-chile",
         "lanchas-colectivas-delta-do-parana-tigre-san-fernando-cacciola-nova-palmira-villa-la-angostura-bariloche-argentina-uruguai"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 131,
       "pais": "Fase Hidroviária Mundial #23 — Europa Atlântica, Mar da Irlanda e Ilhas Célticas II (Isle of Man Steam Packet Douglas–Heysham/Liverpool, Isles of Scilly Steamship Penzance–St Mary's e Ferries da Cornualha Falmouth–St Mawes no Reino Unido; Aran Islands Ferries Rossaveel/Galway–Inishmore e Shannon Ferry Tarbert–Killimer na Irlanda; e Compagnie Océane Brest–Ouessant/Molène e Lorient–Groix/Quiberon–Belle-Île-en-Mer na Bretanha, França)",
       "codigo": "HIDRO-EUROPA-ATLANTICA-CELTICA-II",
       "continente": "Europa",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+        "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+        "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+        "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+        "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 132,
       "pais": "Fase Hidroviária Mundial #24 — Mediterrâneo Central, Ilhas Italianas, Adriático e Egeu II (Toremar/Moby Piombino–Ilha de Elba Portoferraio e Caremar/Medmar Nápoles–Procida–Ischia e Golfo de Gaeta–Ponza na Itália; Gozo Highspeed e Gozo Channel Valletta/Čirkewwa–Mġarr Gozo em Malta; Krilo/Jadrolinija Zadar–Dugi Otok/Lošinj na Croácia; e Saronic Ferries/Blue Star Piraeus–Aegina–Poros–Hydra–Spetses e Rafina–Andros–Tinos–Mykonos na Grécia)",
