@@ -48193,6 +48193,581 @@
           50.6358
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-phnom-penh-autonomous-port-sisowath-quay",
+        "nome": "Phnom Penh Passenger Boat Pier (Sisowath Quay / PPAP — Camboja)",
+        "sistema_id": "mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos",
+        "linha_id": "linha-mekong-phnom-penh-chau-doc-tonle-sap-siem-reap",
+        "cidade": "Phnom Penh",
+        "pais": "Camboja",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal fluvial internacional da capital do Camboja na margem do Rio Tonlé Sap / Mekong (Sisowath Quay), ponto de partida dos catamarãs rápidos para Châu Đốc (Vietnã) e Siem Reap."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9312,
+          11.5761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-chau-doc-vinh-xuong-mekong-pier",
+        "nome": "Châu Đốc / Vĩnh Xương River Pier (Delta do Mekong — Vietnã)",
+        "sistema_id": "mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos",
+        "linha_id": "linha-mekong-phnom-penh-chau-doc-tonle-sap-siem-reap",
+        "cidade": "Châu Đốc",
+        "pais": "Vietnã",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal hidroviário vietnamita no braço Bassac/Mekong em Châu Đốc (província de An Giang), conectado à fronteira fluvial internacional de Vĩnh Xương / Kaam Samnor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.1258,
+          10.7089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-siem-reap-chong-khneas-tonle-sap-pier",
+        "nome": "Chong Khneas / Siem Reap Ferry Pier (Lago Tonlé Sap — Camboja)",
+        "sistema_id": "mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos",
+        "linha_id": "linha-mekong-phnom-penh-chau-doc-tonle-sap-siem-reap",
+        "cidade": "Siem Reap",
+        "pais": "Camboja",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píer lacustre no extremo norte do Lago Tonlé Sap, porta hidroviária para o complexo arqueológico de Angkor em Siem Reap."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8214,
+          13.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-luang-prabang-slow-boat-pier-mekong",
+        "nome": "Luang Prabang Mekong Boat Pier (Ban Done Mai — Laos)",
+        "sistema_id": "mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos",
+        "linha_id": "linha-alto-mekong-huay-xai-pakbeng-luang-prabang-laos",
+        "cidade": "Luang Prabang",
+        "pais": "Laos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal de barcos de passageiros do Alto Mekong na capital histórica de Luang Prabang (Patrimônio Mundial da UNESCO) e ponto de partida para as Cavernas de Pak Ou."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1347,
+          19.8925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-huay-xai-pakbeng-mekong-piers-laos",
+        "nome": "Huay Xai & Pakbeng Mekong River Piers (Alto Mekong — Laos)",
+        "sistema_id": "mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos",
+        "linha_id": "linha-alto-mekong-huay-xai-pakbeng-luang-prabang-laos",
+        "cidade": "Huay Xai / Pakbeng",
+        "pais": "Laos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píeres fluviais de Huay Xai (fronteira com Chiang Khong na Tailândia) e escala intermediária de pernoite em Pakbeng ao longo do Alto Rio Mekong."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4131,
+          20.2739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sibu-express-boat-terminal-rajang",
+        "nome": "Sibu Express Boat Terminal (Sarawak Rivers Board / Rio Rajang — Malásia)",
+        "sistema_id": "sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia",
+        "linha_id": "linha-rio-rajang-kuching-sibu-kanowit-song-kapit-sarawak",
+        "cidade": "Sibu",
+        "pais": "Malásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Icônico terminal hidroviário do Sarawak Rivers Board na foz dos rios Rajang e Igan em Sibu, hub central das lanchas Express Boat para o interior de Bornéu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.8256,
+          2.2878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kapit-song-wharf-terminals-rajang",
+        "nome": "Kapit & Song Express Boat Wharves (Alto Rio Rajang, Sarawak — Malásia)",
+        "sistema_id": "sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia",
+        "linha_id": "linha-rio-rajang-kuching-sibu-kanowit-song-kapit-sarawak",
+        "cidade": "Kapit / Song",
+        "pais": "Malásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais fluviais de Kapit e Song no Alto Rio Rajang, coração das comunidades Iban e Orang Ulu no interior de Sarawak."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9369,
+          2.0169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kuching-pending-express-boat-terminal",
+        "nome": "Kuching Pending & Sarikei Express Boat Terminals (Sarawak — Malásia)",
+        "sistema_id": "sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia",
+        "linha_id": "linha-rio-rajang-kuching-sibu-kanowit-song-kapit-sarawak",
+        "cidade": "Kuching / Sarikei",
+        "pais": "Malásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal hidroviário de Pending em Kuching e terminal costeiro/estuarino de Tanjung Manis e Sarikei em Sarawak."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3861,
+          1.5606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tawau-ferry-terminal-sabah",
+        "nome": "Tawau International Ferry Terminal (Sabah, Bornéu — Malásia)",
+        "sistema_id": "sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia",
+        "linha_id": "linha-mar-de-celebes-tawau-nunukan-tarakan-sabah-kalimantan",
+        "cidade": "Tawau",
+        "pais": "Malásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal internacional de ferries com posto de imigração CIQ em Tawau (Sabah), ligando a Malásia Oriental à província indonésia de Kalimantan do Norte."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8878,
+          4.2419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tarakan-malundung-nunukan-tunon-taka",
+        "nome": "Pelabuhan Malundung Tarakan & Tunon Taka Nunukan (Kalimantan do Norte — Indonésia)",
+        "sistema_id": "sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia",
+        "linha_id": "linha-mar-de-celebes-tawau-nunukan-tarakan-sabah-kalimantan",
+        "cidade": "Tarakan / Nunukan",
+        "pais": "Indonésia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais portos internacionais de passageiros nas ilhas de Tarakan (Malundung/Tengkayu) e Nunukan (Tunon Taka) em Kalimantan do Norte."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5789,
+          3.2886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ternate-bastiong-ahmad-yani-port",
+        "nome": "Pelabuhan Bastiong & Ahmad Yani (Ilha de Ternate, Molucas — Indonésia)",
+        "sistema_id": "pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia",
+        "linha_id": "linha-molucas-bitung-ternate-tidore-ambon-saparua-banda",
+        "cidade": "Ternate",
+        "pais": "Indonésia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto Ro-Pax da ASDP em Bastiong e Porto PELNI Ahmad Yani aos pés do vulcão Gamalama na histórica ilha produtora de cravo de Ternate (Maluku Utara)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3811,
+          0.7719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tidore-rum-halmahera-sidangoli-ports",
+        "nome": "Pelabuhan Rum (Ilha de Tidore) & Sidangoli (Halmahera, Molucas — Indonésia)",
+        "sistema_id": "pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia",
+        "linha_id": "linha-molucas-bitung-ternate-tidore-ambon-saparua-banda",
+        "cidade": "Tidore / Halmahera",
+        "pais": "Indonésia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de ferries e speedboats no Porto de Rum (Ilha de Tidore) e em Sidangoli / Sofifi na grande ilha de Halmahera."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4028,
+          0.7289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bitung-samudera-ferry-port-sulawesi",
+        "nome": "Pelabuhan Penyeberangan Bitung (Sulawesi do Norte — Indonésia)",
+        "sistema_id": "pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia",
+        "linha_id": "linha-molucas-bitung-ternate-tidore-ambon-saparua-banda",
+        "cidade": "Bitung",
+        "pais": "Indonésia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal terminal de ferries ASDP e navios PELNI do norte de Sulawesi, conectando Manado/Bitung ao Mar das Molucas e Ternate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1906,
+          1.4422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ambon-yos-sudarso-tulehu-banda-neira",
+        "nome": "Pelabuhan Yos Sudarso / Tulehu (Ambon) & Banda Neira (Molucas — Indonésia)",
+        "sistema_id": "pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia",
+        "linha_id": "linha-molucas-bitung-ternate-tidore-ambon-saparua-banda",
+        "cidade": "Ambon / Banda Neira",
+        "pais": "Indonésia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Complexo portuário de Ambon (Yos Sudarso, Galala–Poka e Tulehu) com catamarãs rápidos Express Bahari para Saparua, Seram e Banda Neira."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1819,
+          -3.6953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kupang-bolok-rote-pantai-baru-ports",
+        "nome": "Pelabuhan Bolok Kupang (Timor) & Pantai Baru (Ilha de Rote — Indonésia)",
+        "sistema_id": "pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia",
+        "linha_id": "linha-sonda-oriental-kupang-bolok-ilha-rote-sabu-larantuka",
+        "cidade": "Kupang / Ilha de Rote",
+        "pais": "Indonésia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal de ferries ASDP de Bolok em Kupang (Timor Ocidental) e Porto de Pantai Baru / Ba'a na Ilha de Rote, ilha habitada mais meridional da Indonésia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5161,
+          -10.2219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-zamboanga-international-seaport-filipinas",
+        "nome": "Port of Zamboanga Passenger Terminal (Mindanau — Filipinas)",
+        "sistema_id": "aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas",
+        "linha_id": "linha-arquipelago-sulu-zamboanga-basilan-jolo-bongao-tawi-tawi",
+        "cidade": "Zamboanga City",
+        "pais": "Filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Grande hub marítimo do sudoeste de Mindanau, operando dezenas de saídas diárias de catamarãs e navios Ro-Pax para Basilan, Sulu e Tawi-Tawi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0739,
+          6.9019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-isabela-city-lamitan-basilan-ports",
+        "nome": "Port of Isabela City & Port of Lamitan (Ilha de Basilan — Filipinas)",
+        "sistema_id": "aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas",
+        "linha_id": "linha-arquipelago-sulu-zamboanga-basilan-jolo-bongao-tawi-tawi",
+        "cidade": "Isabela City / Lamitan",
+        "pais": "Filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais portuários de Isabela City e Lamitan na Ilha de Basilan, a 45 minutos de catamarã rápido de Zamboanga pelo Estreito de Basilan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9711,
+          6.7086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-jolo-port-sulu-archipelago-filipinas",
+        "nome": "Port of Jolo Ferry Terminal (Ilha de Jolo, Sulu — Filipinas)",
+        "sistema_id": "aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas",
+        "linha_id": "linha-arquipelago-sulu-zamboanga-basilan-jolo-bongao-tawi-tawi",
+        "cidade": "Jolo",
+        "pais": "Filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto marítimo da província insular de Sulu (BARMM), escala central entre Zamboanga e Tawi-Tawi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0008,
+          6.0558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bongao-port-tawi-tawi-filipinas",
+        "nome": "Port of Bongao Ferry Terminal (Tawi-Tawi — Filipinas)",
+        "sistema_id": "aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas",
+        "linha_id": "linha-arquipelago-sulu-zamboanga-basilan-jolo-bongao-tawi-tawi",
+        "cidade": "Bongao",
+        "pais": "Filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto de Bongao na província insular de Tawi-Tawi, extremo meridional do Arquipélago de Sulu nas Filipinas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.7731,
+          5.0292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-davao-sasa-samal-babak-ferry-wharves",
+        "nome": "Davao Sasa Wharf & Samal Babak Ferry Terminal (Golfo de Davao — Filipinas)",
+        "sistema_id": "aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas",
+        "linha_id": "linha-golfo-de-davao-sasa-santa-ana-wharf-samal-island",
+        "cidade": "Davao City / Samal",
+        "pais": "Filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de balsas Ro-Ro de alta frequência que cruzam o Estreito de Pakiputan em 10 minutos entre Davao City e a Ilha de Samal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6611,
+          7.1228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sihanoukville-autonomous-port-tourist-pier",
+        "nome": "Sihanoukville Autonomous Port Tourist Ferry Terminal (Preah Sihanouk — Camboja)",
+        "sistema_id": "sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja",
+        "linha_id": "linha-sihanoukville-koh-rong-koh-rong-samloem-speed-ferry",
+        "cidade": "Sihanoukville",
+        "pais": "Camboja",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal de passageiros dos catamarãs rápidos (Island Speed Ferry, Buva Sea, GTVC) no Porto Autônomo de Sihanoukville."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5042,
+          10.6358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-koh-rong-koh-touch-long-set-piers",
+        "nome": "Koh Touch & Long Set (4K) Ferry Piers (Ilha de Koh Rong — Camboja)",
+        "sistema_id": "sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja",
+        "linha_id": "linha-sihanoukville-koh-rong-koh-rong-samloem-speed-ferry",
+        "cidade": "Koh Rong",
+        "pais": "Camboja",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píeres principais da Ilha de Koh Rong (Koh Touch Village, Long Set Beach e Sok San) no Golfo da Tailândia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2428,
+          10.6631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-koh-rong-samloem-saracen-mpai-bay-piers",
+        "nome": "Saracen Bay & M'Pai Bay Ferry Piers (Ilha de Koh Rong Samloem — Camboja)",
+        "sistema_id": "sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja",
+        "linha_id": "linha-sihanoukville-koh-rong-koh-rong-samloem-speed-ferry",
+        "cidade": "Koh Rong Samloem",
+        "pais": "Camboja",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píeres insulares na baía em meia-lua de Saracen Bay e na vila de pescadores de M'Pai Bay em Koh Rong Samloem."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3069,
+          10.5889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kampot-international-tourism-port",
+        "nome": "Kampot International Tourism Seaport (Kampot — Camboja)",
+        "sistema_id": "sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja",
+        "linha_id": "linha-kampot-kep-koh-tonsay-rabbit-island-camboja",
+        "cidade": "Kampot",
+        "pais": "Camboja",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Novo porto marítimo internacional de passageiros de Kampot, projetado para conectar o sul do Camboja às ilhas cambojanas e a Phú Quốc (Vietnã)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1422,
+          10.5625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kep-koh-tonsay-rabbit-island-pier",
+        "nome": "Kep Boat Pier & Ilha de Koh Tonsay / Rabbit Island (Kep — Camboja)",
+        "sistema_id": "sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja",
+        "linha_id": "linha-kampot-kep-koh-tonsay-rabbit-island-camboja",
+        "cidade": "Kep",
+        "pais": "Camboja",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píer costeiro de Kep para a travessia marítima de 25 minutos até as praias da Ilha de Koh Tonsay (Ilha do Coelho)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3169,
+          10.4789
+        ]
+      }
     }
   ]
 }

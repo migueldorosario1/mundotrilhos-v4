@@ -53024,6 +53024,384 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mekong-phnom-penh-chau-doc-tonle-sap-siem-reap",
+        "nome": "Eixo Baixo Mekong e Lago Tonlé Sap — Phnom Penh–Kaam Samnor–Châu Đốc (Camboja/Vietnã) e Phnom Penh–Siem Reap",
+        "sistema_id": "mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos",
+        "sistema_nome": "Expresso Fluvial do Rio Mekong e Lago Tonlé Sap (Camboja/Vietnã/Laos)",
+        "pais": "Camboja / Vietnã",
+        "cidade": "Phnom Penh / Châu Đốc / Siem Reap",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 630,
+        "bitola": "Catamarãs Fluviais Expressos Internacionais",
+        "eletrificacao": "Diesel Marítimo de Alta Eficiência"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.1258,
+            10.7089
+          ],
+          [
+            105.1822,
+            10.9036
+          ],
+          [
+            104.9312,
+            11.5761
+          ],
+          [
+            104.7,
+            12.25
+          ],
+          [
+            103.8214,
+            13.2667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-mekong-huay-xai-pakbeng-luang-prabang-laos",
+        "nome": "Eixo Alto Mekong no Laos — Huay Xai (Fronteira Tailândia/Laos)–Pakbeng–Cavernas de Pak Ou–Luang Prabang",
+        "sistema_id": "mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos",
+        "sistema_nome": "Expresso Fluvial do Rio Mekong e Lago Tonlé Sap (Camboja/Vietnã/Laos)",
+        "pais": "Laos",
+        "cidade": "Huay Xai / Pakbeng / Luang Prabang",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 350,
+        "bitola": "Barcos Fluviais Tradicionais do Alto Mekong",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.4131,
+            20.2739
+          ],
+          [
+            101.1325,
+            19.8917
+          ],
+          [
+            102.2189,
+            20.0558
+          ],
+          [
+            102.1347,
+            19.8925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rio-rajang-kuching-sibu-kanowit-song-kapit-sarawak",
+        "nome": "Eixo Hidroviário de Sarawak (Bornéu) — Kuching–Sarikei–Sibu–Kanowit–Song–Kapit (Rio Rajang)",
+        "sistema_id": "sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia",
+        "sistema_nome": "Express Boats do Rio Rajang e Estreito de Sebatik em Bornéu (Malásia/Indonésia)",
+        "pais": "Malásia",
+        "cidade": "Kuching / Sibu / Song / Kapit",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 520,
+        "bitola": "Sarawak Express Boats (Lanchas-Torpedo)",
+        "eletrificacao": "Diesel Marítimo Twin-Turbo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.3861,
+            1.5606
+          ],
+          [
+            111.5186,
+            2.1319
+          ],
+          [
+            111.8256,
+            2.2878
+          ],
+          [
+            112.5489,
+            2.0089
+          ],
+          [
+            112.9369,
+            2.0169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mar-de-celebes-tawau-nunukan-tarakan-sabah-kalimantan",
+        "nome": "Eixo Internacional do Mar de Celebes (Bornéu) — Tawau (Sabah, Malásia)–Nunukan–Tarakan (Kalimantan do Norte, Indonésia)",
+        "sistema_id": "sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia",
+        "sistema_nome": "Express Boats do Rio Rajang e Estreito de Sebatik em Bornéu (Malásia/Indonésia)",
+        "pais": "Malásia / Indonésia",
+        "cidade": "Tawau / Nunukan / Tarakan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 220,
+        "bitola": "Catamarãs Internacionais de Alta Velocidade",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.8878,
+            4.2419
+          ],
+          [
+            117.6656,
+            4.1369
+          ],
+          [
+            117.5789,
+            3.2886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-molucas-bitung-ternate-tidore-ambon-saparua-banda",
+        "nome": "Eixo Ilhas Molucas e Sulawesi do Norte — Bitung–Ternate (Bastiong)–Tidore (Rum)–Ambon (Tulehu)–Banda Neira",
+        "sistema_id": "pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia",
+        "sistema_nome": "Ferries das Ilhas Molucas, Sulawesi do Norte e Sonda Oriental (Indonésia)",
+        "pais": "Indonésia",
+        "cidade": "Bitung / Ternate / Tidore / Ambon / Banda Neira",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 980,
+        "bitola": "Ferries Ro-Pax ASDP e Navios PELNI",
+        "eletrificacao": "Diesel Marítimo Pesado"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.1906,
+            1.4422
+          ],
+          [
+            127.3811,
+            0.7719
+          ],
+          [
+            127.4028,
+            0.7289
+          ],
+          [
+            128.1819,
+            -3.6953
+          ],
+          [
+            129.8969,
+            -4.5256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-sonda-oriental-kupang-bolok-ilha-rote-sabu-larantuka",
+        "nome": "Eixo Timor e Sonda Oriental (NTT) — Kupang (Porto Bolok)–Pantai Baru (Ilha de Rote)–Sabu–Larantuka (Flores)",
+        "sistema_id": "pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia",
+        "sistema_nome": "Ferries das Ilhas Molucas, Sulawesi do Norte e Sonda Oriental (Indonésia)",
+        "pais": "Indonésia",
+        "cidade": "Kupang / Ilha de Rote / Larantuka",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 470,
+        "bitola": "Ferries Ro-Pax ASDP e Catamarãs Express Bahari",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.1969,
+            -10.6061
+          ],
+          [
+            123.5161,
+            -10.2219
+          ],
+          [
+            122.9819,
+            -8.3422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-arquipelago-sulu-zamboanga-basilan-jolo-bongao-tawi-tawi",
+        "nome": "Eixo Arquipélago de Sulu — Zamboanga City–Isabela City / Lamitan (Basilan)–Jolo (Sulu)–Bongao (Tawi-Tawi)",
+        "sistema_id": "aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas",
+        "sistema_nome": "Ferries de Mindanau e Arquipélago de Sulu (Filipinas)",
+        "pais": "Filipinas",
+        "cidade": "Zamboanga / Isabela City / Jolo / Bongao",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 540,
+        "bitola": "Catamarãs Fast Craft e Navios Ro-Pax Aleson / Weesam",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.0739,
+            6.9019
+          ],
+          [
+            121.9711,
+            6.7086
+          ],
+          [
+            121.0008,
+            6.0558
+          ],
+          [
+            119.7731,
+            5.0292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-golfo-de-davao-sasa-santa-ana-wharf-samal-island",
+        "nome": "Eixo Golfo de Davao e Estreito de Pakiputan — Davao City (Sasa Wharf / Sta. Ana Wharf)–Babak / Mae Wess (Ilha de Samal)",
+        "sistema_id": "aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas",
+        "sistema_nome": "Ferries de Mindanau e Arquipélago de Sulu (Filipinas)",
+        "pais": "Filipinas",
+        "cidade": "Davao City / Samal Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 140,
+        "bitola": "Balsas Ro-Ro Metropolitanas do Estreito de Pakiputan",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.6611,
+            7.1228
+          ],
+          [
+            125.6758,
+            7.1169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-sihanoukville-koh-rong-koh-rong-samloem-speed-ferry",
+        "nome": "Eixo Ilhas de Sihanoukville — Sihanoukville Autonomous Port–Koh Rong Samloem (Saracen Bay / M'Pai Bay)–Koh Rong (Koh Touch / Long Set)",
+        "sistema_id": "sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja",
+        "sistema_nome": "Speed Ferries do Litoral do Camboja e Golfo da Tailândia (Camboja)",
+        "pais": "Camboja",
+        "cidade": "Sihanoukville / Koh Rong / Koh Rong Samloem",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 145,
+        "bitola": "Catamarãs Speed Ferry de Alta Velocidade",
+        "eletrificacao": "Diesel Marítimo de Alta Rotação"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.5042,
+            10.6358
+          ],
+          [
+            103.3069,
+            10.5889
+          ],
+          [
+            103.2428,
+            10.6631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-kampot-kep-koh-tonsay-rabbit-island-camboja",
+        "nome": "Eixo Litoral Sul do Camboja — Kampot International Tourism Port–Kep Crab Market Pier–Ilha de Koh Tonsay (Rabbit Island)",
+        "sistema_id": "sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja",
+        "sistema_nome": "Speed Ferries do Litoral do Camboja e Golfo da Tailândia (Camboja)",
+        "pais": "Camboja",
+        "cidade": "Kampot / Kep / Koh Tonsay",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115,
+        "bitola": "Catamarãs Costeiros e Barcas Insulares",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.1422,
+            10.5625
+          ],
+          [
+            104.3169,
+            10.4789
+          ],
+          [
+            104.3256,
+            10.4369
+          ]
+        ]
+      }
     }
   ]
 }
