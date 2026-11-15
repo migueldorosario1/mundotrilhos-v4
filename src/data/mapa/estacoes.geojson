@@ -47618,6 +47618,581 @@
           38.1794
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "galveston-port-bolivar-txdot-ferry-terminals-tx-eua",
+        "nome": "Terminais TxDOT de Galveston & Port Bolivar (Houston Ship Channel — Texas)",
+        "sistema_id": "txdot-galveston-port-bolivar-port-aransas-ferries-mobile-bay-dauphin-island-key-west-express-golfo-do-mexico-eua",
+        "linha_id": "linha-txdot-galveston-port-bolivar-port-aransas-mobile-bay-ferry",
+        "cidade": "Galveston",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia gratuita 24 horas da rodovia estadual TX-87 na entrada da Baía de Galveston."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7794,
+          29.3631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "port-aransas-harbor-island-txdot-ferry-tx-eua",
+        "nome": "Terminal de Ferry TxDOT de Port Aransas (Mustang Island — Texas)",
+        "sistema_id": "txdot-galveston-port-bolivar-port-aransas-ferries-mobile-bay-dauphin-island-key-west-express-golfo-do-mexico-eua",
+        "linha_id": "linha-txdot-galveston-port-bolivar-port-aransas-mobile-bay-ferry",
+        "cidade": "Port Aransas",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ferry gratuito 24h que conecta a ilha de Mustang Island ao continente em Aransas Pass."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0686,
+          27.8406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mobile-bay-ferry-dauphin-island-fort-morgan-al-eua",
+        "nome": "Terminais do Mobile Bay Ferry (Dauphin Island & Fort Morgan — Alabama)",
+        "sistema_id": "txdot-galveston-port-bolivar-port-aransas-ferries-mobile-bay-dauphin-island-key-west-express-golfo-do-mexico-eua",
+        "linha_id": "linha-txdot-galveston-port-bolivar-port-aransas-mobile-bay-ferry",
+        "cidade": "Dauphin Island",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ponte marítima de veículos e passageiros na entrada da Baía de Mobile."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0758,
+          30.2489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fort-myers-beach-key-west-express-terminal-fl-eua",
+        "nome": "Terminal do Key West Express em Fort Myers Beach & Marco Island (Flórida)",
+        "sistema_id": "txdot-galveston-port-bolivar-port-aransas-ferries-mobile-bay-dauphin-island-key-west-express-golfo-do-mexico-eua",
+        "linha_id": "linha-key-west-express-fort-myers-marco-island-key-west-dry-tortugas",
+        "cidade": "Fort Myers Beach",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Base dos catamarãs de alta velocidade para Key West pelo Golfo do México."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9469,
+          26.4569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "key-west-bight-ferry-terminal-dry-tortugas-fl-eua",
+        "nome": "Key West Ferry Terminal & Fort Jefferson (Parque Nacional de Dry Tortugas — Flórida)",
+        "sistema_id": "txdot-galveston-port-bolivar-port-aransas-ferries-mobile-bay-dauphin-island-key-west-express-golfo-do-mexico-eua",
+        "linha_id": "linha-key-west-express-fort-myers-marco-island-key-west-dry-tortugas",
+        "cidade": "Key West",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo de Key West para o Key West Express e para o catamarã Yankee Freedom III rumo a Dry Tortugas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8022,
+          24.5614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hatteras-ferry-terminal-outer-banks-nc-eua",
+        "nome": "Terminal de Ferry NCDOT de Hatteras (Outer Banks — Carolina do Norte)",
+        "sistema_id": "nc-dot-outer-banks-ferries-hatteras-ocracoke-cedar-island-jamestown-scotland-ferry-potomac-water-taxi-va-nc-md-dc-eua",
+        "linha_id": "linha-ncdot-outer-banks-hatteras-ocracoke-cedar-island-swan-quarter",
+        "cidade": "Hatteras",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ponta sul da Ilha de Hatteras na travessia da rodovia NC-12 sobre Hatteras Inlet para Ocracoke."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7025,
+          35.2078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ocracoke-silver-lake-ferry-terminal-nc-eua",
+        "nome": "Terminais de Ferry da Ilha de Ocracoke (Silver Lake & South Dock — Outer Banks, NC)",
+        "sistema_id": "nc-dot-outer-banks-ferries-hatteras-ocracoke-cedar-island-jamestown-scotland-ferry-potomac-water-taxi-va-nc-md-dc-eua",
+        "linha_id": "linha-ncdot-outer-banks-hatteras-ocracoke-cedar-island-swan-quarter",
+        "cidade": "Ocracoke",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ilha-barreira acessível exclusivamente por barco/ferry ou avião, servida por 3 rotas da NCDOT."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9869,
+          35.1158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cedar-island-swan-quarter-ferry-terminals-pamlico-sound-nc-eua",
+        "nome": "Terminais de Cedar Island & Swan Quarter (Pamlico Sound — Carolina do Norte)",
+        "sistema_id": "nc-dot-outer-banks-ferries-hatteras-ocracoke-cedar-island-jamestown-scotland-ferry-potomac-water-taxi-va-nc-md-dc-eua",
+        "linha_id": "linha-ncdot-outer-banks-hatteras-ocracoke-cedar-island-swan-quarter",
+        "cidade": "Cedar Island / Swan Quarter",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais continentais dos ferries Sound Class de longo curso através de Pamlico Sound."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3142,
+          35.0189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jamestown-scotland-ferry-piers-james-river-va-eua",
+        "nome": "Terminais do Jamestown–Scotland Ferry (Rio James — Williamsburg/Surry, Virgínia)",
+        "sistema_id": "nc-dot-outer-banks-ferries-hatteras-ocracoke-cedar-island-jamestown-scotland-ferry-potomac-water-taxi-va-nc-md-dc-eua",
+        "linha_id": "linha-jamestown-scotland-ferry-james-river-potomac-water-taxi-dc-alexandria",
+        "cidade": "Williamsburg / Surry",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia gratuita 24 horas da rodovia estadual VA-31 sobre o histórico Rio James."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867,
+          37.2219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "the-wharf-dc-alexandria-national-harbor-potomac-water-taxi-eua",
+        "nome": "Píeres do Potomac Water Taxi (The Wharf D.C. – Old Town Alexandria VA – National Harbor MD)",
+        "sistema_id": "nc-dot-outer-banks-ferries-hatteras-ocracoke-cedar-island-jamestown-scotland-ferry-potomac-water-taxi-va-nc-md-dc-eua",
+        "linha_id": "linha-jamestown-scotland-ferry-james-river-potomac-water-taxi-dc-alexandria",
+        "cidade": "Washington D.C. / Alexandria",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Rede metropolitana de catamarãs fluviais no Rio Potomac conectando D.C., Virgínia e Maryland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0261,
+          38.8789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "long-wharf-rowes-wharf-mbta-ferry-terminal-boston-ma-eua",
+        "nome": "Terminal Central de Ferries de Long Wharf & Rowes Wharf (Porto de Boston, MA)",
+        "sistema_id": "mbta-boston-harbor-ferries-hingham-hull-charlestown-lynn-provincetown-fast-ferry-champlain-ferries-vt-ny-ma-eua",
+        "linha_id": "linha-mbta-boston-harbor-hingham-hull-charlestown-salem-provincetown",
+        "cidade": "Boston",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Hub central da MBTA Boat (integrado à Blue Line do metrô em Aquarium) e dos fast ferries para Provincetown."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0489,
+          42.3592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hingham-hull-mbta-commuter-ferry-terminals-ma-eua",
+        "nome": "Terminais Metropolitanos MBTA de Hingham Shipyard & Pemberton Point (Hull, MA)",
+        "sistema_id": "mbta-boston-harbor-ferries-hingham-hull-charlestown-lynn-provincetown-fast-ferry-champlain-ferries-vt-ny-ma-eua",
+        "linha_id": "linha-mbta-boston-harbor-hingham-hull-charlestown-salem-provincetown",
+        "cidade": "Hingham / Hull",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais terminais suburbanos de catamarãs da South Shore na Baía de Boston."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9197,
+          42.2531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "macmillan-pier-provincetown-cape-cod-fast-ferry-ma-eua",
+        "nome": "MacMillan Pier de Provincetown (Cape Cod Fast Ferry — Massachusetts)",
+        "sistema_id": "mbta-boston-harbor-ferries-hingham-hull-charlestown-lynn-provincetown-fast-ferry-champlain-ferries-vt-ny-ma-eua",
+        "linha_id": "linha-mbta-boston-harbor-hingham-hull-charlestown-salem-provincetown",
+        "cidade": "Provincetown",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo na extremidade de Cape Cod atendido pelos catamarãs de alta velocidade vindos de Boston."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1819,
+          42.0503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "grand-isle-plattsburgh-lake-champlain-ferry-vt-ny-eua",
+        "nome": "Terminais de Ferry 24h de Grand Isle (Vermont) – Cumberland Head / Plattsburgh (Nova York)",
+        "sistema_id": "mbta-boston-harbor-ferries-hingham-hull-charlestown-lynn-provincetown-fast-ferry-champlain-ferries-vt-ny-ma-eua",
+        "linha_id": "linha-lake-champlain-ferries-grand-isle-plattsburgh-burlington-charlotte-essex",
+        "cidade": "Grand Isle / Plattsburgh",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia Ro-Pax ininterrupta o ano todo (com operação quebra-gelo no inverno) sobre o Lago Champlain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3489,
+          44.6914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "charlotte-vt-essex-ny-lake-champlain-ferry-eua",
+        "nome": "Terminais de Ferry de Charlotte (Vermont) – Essex (Nova York — Lago Champlain)",
+        "sistema_id": "mbta-boston-harbor-ferries-hingham-hull-charlestown-lynn-provincetown-fast-ferry-champlain-ferries-vt-ny-ma-eua",
+        "linha_id": "linha-lake-champlain-ferries-grand-isle-plattsburgh-burlington-charlotte-essex",
+        "cidade": "Charlotte / Essex",
+        "pais": "Estados Unidos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ligação marítima interestadual entre o vale do Champlain em Vermont e os Adirondacks em Nova York."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.28,
+          44.3019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gare-fluviale-sorel-tracy-saint-ignace-stq-quebec-canada",
+        "nome": "Terminais STQ de Sorel-Tracy & Saint-Ignace-de-Loyola (Rio São Lourenço, Quebec)",
+        "sistema_id": "stq-sorel-tracy-saint-ignace-isle-aux-coudres-riviere-du-loup-blanc-sablon-ctma-iles-de-la-madeleine-quebec-canada",
+        "linha_id": "linha-stq-rio-sao-lourenco-sorel-tracy-ile-aux-coudres-riviere-du-loup-saint-simeon",
+        "cidade": "Sorel-Tracy",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia fluvial 24 horas da STQ na entrada do arquipélago do Lago Saint-Pierre."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1169,
+          46.0469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "quai-ile-aux-coudres-saint-joseph-de-la-rive-charlevoix-qc-canada",
+        "nome": "Terminais STQ de Saint-Joseph-de-la-Rive & Île-aux-Coudres (Charlevoix, Quebec)",
+        "sistema_id": "stq-sorel-tracy-saint-ignace-isle-aux-coudres-riviere-du-loup-blanc-sablon-ctma-iles-de-la-madeleine-quebec-canada",
+        "linha_id": "linha-stq-rio-sao-lourenco-sorel-tracy-ile-aux-coudres-riviere-du-loup-saint-simeon",
+        "cidade": "Île-aux-Coudres",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ponte marítima gratuita 365 dias por ano para a ilha de Île-aux-Coudres no Estuário do São Lourenço."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3719,
+          47.4208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gare-maritime-riviere-du-loup-saint-simeon-quebec-canada",
+        "nome": "Terminais de Rivière-du-Loup & Saint-Siméon (Estuário do São Lourenço, Quebec)",
+        "sistema_id": "stq-sorel-tracy-saint-ignace-isle-aux-coudres-riviere-du-loup-blanc-sablon-ctma-iles-de-la-madeleine-quebec-canada",
+        "linha_id": "linha-stq-rio-sao-lourenco-sorel-tracy-ile-aux-coudres-riviere-du-loup-saint-simeon",
+        "cidade": "Rivière-du-Loup",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia transversal Ro-Pax entre as margens sul (Bas-Saint-Laurent) e norte (Charlevoix) do estuário."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5586,
+          47.8442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "port-menier-anticosti-blanc-sablon-basse-cote-nord-qc-canada",
+        "nome": "Terminais de Port-Menier (Ilha Anticosti) & Blanc-Sablon (Basse-Côte-Nord / Estreito de Belle Isle)",
+        "sistema_id": "stq-sorel-tracy-saint-ignace-isle-aux-coudres-riviere-du-loup-blanc-sablon-ctma-iles-de-la-madeleine-quebec-canada",
+        "linha_id": "linha-golfo-sao-lourenco-anticosti-basse-cote-nord-blanc-sablon-ctma-madeleine",
+        "cidade": "Blanc-Sablon / Anticosti",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Escalas do navio Bella Desgagnés (Relais Nordik) e do ferry quebra-gelo Qajaq W. para a Terra Nova."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1456,
+          51.4189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cap-aux-meules-ctma-ferry-terminal-iles-de-la-madeleine-qc-canada",
+        "nome": "Terminal de Ferry CTMA de Cap-aux-Meules (Îles-de-la-Madeleine) & Souris (PEI, Canadá)",
+        "sistema_id": "stq-sorel-tracy-saint-ignace-isle-aux-coudres-riviere-du-loup-blanc-sablon-ctma-iles-de-la-madeleine-quebec-canada",
+        "linha_id": "linha-golfo-sao-lourenco-anticosti-basse-cote-nord-blanc-sablon-ctma-madeleine",
+        "cidade": "Cap-aux-Meules (Îles-de-la-Madeleine)",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ligação marítima vital durante todo o ano para o arquipélago das Ilhas da Madalena no Golfo de São Lourenço."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8572,
+          47.3794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tsiigehtchic-mackenzie-arctic-red-river-ferry-dempster-nwt-canada",
+        "nome": "Travessia do Ferry MV Louis Cardinal em Tsiigehtchic (Rios Mackenzie e Arctic Red — Dempster Highway, NWT)",
+        "sistema_id": "nwt-mackenzie-liard-peel-river-ferries-fort-providence-fort-simpson-inuvik-yukon-george-black-ferry-dawson-city-canada",
+        "linha_id": "linha-dempster-mackenzie-yukon-river-ferries-tsiigehtchic-fort-simpson-dawson-city",
+        "cidade": "Tsiigehtchic",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ferry fluvial de 3 margens acima do Círculo Polar Ártico na Dempster Highway rumo a Inuvik e Tuktoyaktuk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.7492,
+          67.4439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fort-simpson-liard-river-ferry-mackenzie-highway-nwt-canada",
+        "nome": "Travessia do Ferry MV Lafferty em Fort Simpson (Rio Liard — Mackenzie Highway, NWT)",
+        "sistema_id": "nwt-mackenzie-liard-peel-river-ferries-fort-providence-fort-simpson-inuvik-yukon-george-black-ferry-dawson-city-canada",
+        "linha_id": "linha-dempster-mackenzie-yukon-river-ferries-tsiigehtchic-fort-simpson-dawson-city",
+        "cidade": "Fort Simpson",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ferry rodoviário da Highway 1 (Mackenzie Highway) na confluência dos rios Liard e Mackenzie."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3397,
+          61.8489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "george-black-ferry-dawson-city-yukon-river-yt-canada",
+        "nome": "Terminal do George Black Ferry em Dawson City (Rio Yukon — Top of the World Highway, Yukon)",
+        "sistema_id": "nwt-mackenzie-liard-peel-river-ferries-fort-providence-fort-simpson-inuvik-yukon-george-black-ferry-dawson-city-canada",
+        "linha_id": "linha-dempster-mackenzie-yukon-river-ferries-tsiigehtchic-fort-simpson-dawson-city",
+        "cidade": "Dawson City",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ferry gratuito 24h durante o verão boreal que conecta Dawson City à rodovia para o Alasca."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.4389,
+          64.0631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "balfour-kootenay-bay-ferry-terminals-kootenay-lake-bc-canada",
+        "nome": "Terminais de Balfour & Kootenay Bay (Kootenay Lake Ferry — Colúmbia Britânica)",
+        "sistema_id": "nwt-mackenzie-liard-peel-river-ferries-fort-providence-fort-simpson-inuvik-yukon-george-black-ferry-dawson-city-canada",
+        "linha_id": "linha-bc-inland-ferries-kootenay-lake-balfour-kootenay-bay-upper-arrow-lake",
+        "cidade": "Balfour / Kootenay Bay",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Mais longa travessia gratuita de ferry cênico do mundo, parte da BC Highway 3A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9539,
+          49.6242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "shelter-bay-galena-bay-upper-arrow-lake-ferry-bc-canada",
+        "nome": "Terminais de Shelter Bay & Galena Bay (Upper Arrow Lake Ferry — BC Highway 23)",
+        "sistema_id": "nwt-mackenzie-liard-peel-river-ferries-fort-providence-fort-simpson-inuvik-yukon-george-black-ferry-dawson-city-canada",
+        "linha_id": "linha-bc-inland-ferries-kootenay-lake-balfour-kootenay-bay-upper-arrow-lake",
+        "cidade": "Revelstoke / Nakusp",
+        "pais": "Canadá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ferry gratuito 24h operado pelo navio MV Columbia através do reservatório do Rio Columbia / Upper Arrow Lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8825,
+          50.6358
+        ]
+      }
     }
   ]
 }
