@@ -39131,6 +39131,366 @@
           22.6685
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-canal-de-itabaca-baltra-santa-cruz-galapagos-ec",
+        "nome": "Terminal de Balsas do Canal de Itabaca (Conexão Aeroporto Ecológico de Baltra – Ilha de Santa Cruz, Galápagos, Equador)",
+        "sistema_id": "lanchas-interinsulares-galapagos-santa-cruz-isabela-san-cristobal-canal-itavaca-equador",
+        "linha_id": "linha-galapagos-santa-cruz-puerto-ayora-isabela-puerto-villamil-canal-itabaca",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2865,
+          -0.4915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-puerto-ayora-santa-cruz-galapagos-ec",
+        "nome": "Muelle Municipal de Passageiros de Puerto Ayora (Hub Central da Ilha de Santa Cruz, Galápagos, Equador)",
+        "sistema_id": "lanchas-interinsulares-galapagos-santa-cruz-isabela-san-cristobal-canal-itavaca-equador",
+        "linha_id": "linha-galapagos-santa-cruz-puerto-ayora-isabela-puerto-villamil-canal-itabaca",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3125,
+          -0.7475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-puerto-villamil-isla-isabela-galapagos-ec",
+        "nome": "Muelle de Embarque de Puerto Villamil — Ilha Isabela (Galápagos, Equador)",
+        "sistema_id": "lanchas-interinsulares-galapagos-santa-cruz-isabela-san-cristobal-canal-itavaca-equador",
+        "linha_id": "linha-galapagos-santa-cruz-puerto-ayora-isabela-puerto-villamil-canal-itabaca",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9655,
+          -0.9595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-puerto-baquerizo-moreno-san-cristobal-galapagos-ec",
+        "nome": "Muelle de Passageiros de Puerto Baquerizo Moreno — Ilha de San Cristóbal (Capital de Galápagos, Equador)",
+        "sistema_id": "lanchas-interinsulares-galapagos-santa-cruz-isabela-san-cristobal-canal-itavaca-equador",
+        "linha_id": "linha-galapagos-santa-cruz-puerto-ayora-san-cristobal-puerto-baquerizo-moreno",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6115,
+          -0.9025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-multimodal-fluvial-magangue-bolivar-co",
+        "nome": "Terminal Multimodal Fluvial de Magangué — Rio Magdalena (Bolívar, Colômbia)",
+        "sistema_id": "hidrovia-rio-magdalena-mompos-magangue-el-banco-barrancabermeja-golfo-uraba-turbo-capurgana-colombia",
+        "linha_id": "linha-hidrovia-rio-magdalena-magangue-mompos-el-banco-barrancabermeja",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7545,
+          9.2415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-fluvial-santa-cruz-de-mompos-el-banco-co",
+        "nome": "Muelles Fluviais de Santa Cruz de Mompós e El Banco — Rio Magdalena (Bolívar / Magdalena, Colômbia)",
+        "sistema_id": "hidrovia-rio-magdalena-mompos-magangue-el-banco-barrancabermeja-golfo-uraba-turbo-capurgana-colombia",
+        "linha_id": "linha-hidrovia-rio-magdalena-magangue-mompos-el-banco-barrancabermeja",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4265,
+          9.2395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-fluvial-barrancabermeja-santander-co",
+        "nome": "Muelle Fluvial de Passageiros de Barrancabermeja — Médio Rio Magdalena (Santander, Colômbia)",
+        "sistema_id": "hidrovia-rio-magdalena-mompos-magangue-el-banco-barrancabermeja-golfo-uraba-turbo-capurgana-colombia",
+        "linha_id": "linha-hidrovia-rio-magdalena-magangue-mompos-el-banco-barrancabermeja",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8545,
+          7.0655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-necocli-turbo-capurgana-golfo-uraba-co",
+        "nome": "Terminais Marítimos de Necoclí / Turbo e Muelle de Capurganá (Golfo de Urabá, Antioquia / Chocó, Colômbia)",
+        "sistema_id": "hidrovia-rio-magdalena-mompos-magangue-el-banco-barrancabermeja-golfo-uraba-turbo-capurgana-colombia",
+        "linha_id": "linha-golfo-de-uraba-turbo-necocli-acandi-capurgana-caribe-colombia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7865,
+          8.4235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-estreito-de-tiquina-san-pedro-san-pablo-bo",
+        "nome": "Terminais Lacustres de San Pedro e San Pablo de Tiquina — Travessia do Estreito de Tiquina (Lago Titicaca, La Paz, Bolívia)",
+        "sistema_id": "travessia-estreito-de-tiquina-san-pedro-san-pablo-catamaras-copacabana-isla-del-sol-puno-uro-taquile-lago-titicaca-bolivia-peru",
+        "linha_id": "linha-lago-titicaca-bolivia-estreito-tiquina-copacabana-isla-del-sol",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8545,
+          -16.2165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-copacabana-lago-titicaca-bo",
+        "nome": "Porto Lacustre de Copacabana — Embarque para a Isla del Sol e Isla de la Luna (Lago Titicaca, Bolívia)",
+        "sistema_id": "travessia-estreito-de-tiquina-san-pedro-san-pablo-catamaras-copacabana-isla-del-sol-puno-uro-taquile-lago-titicaca-bolivia-peru",
+        "linha_id": "linha-lago-titicaca-bolivia-estreito-tiquina-copacabana-isla-del-sol",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0865,
+          -16.1665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-isla-del-sol-yumani-challapampa-titicaca-bo",
+        "nome": "Píeres de Yumani e Challapampa — Isla del Sol (3.812 m, Lago Titicaca, Bolívia)",
+        "sistema_id": "travessia-estreito-de-tiquina-san-pedro-san-pablo-catamaras-copacabana-isla-del-sol-puno-uro-taquile-lago-titicaca-bolivia-peru",
+        "linha_id": "linha-lago-titicaca-bolivia-estreito-tiquina-copacabana-isla-del-sol",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1765,
+          -16.0185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-lacustre-puno-uros-taquile-titicaca-pe",
+        "nome": "Muelle Lacustre Principal de Puno e Portos das Ilhas dos Uros e Taquile (Lago Titicaca, Puno, Peru)",
+        "sistema_id": "travessia-estreito-de-tiquina-san-pedro-san-pablo-catamaras-copacabana-isla-del-sol-puno-uro-taquile-lago-titicaca-bolivia-peru",
+        "linha_id": "linha-lago-titicaca-peru-puno-ilhas-flutuantes-uros-taquile-amantani",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0145,
+          -15.8365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-ingeniero-ibanez-lago-general-carrera-cl",
+        "nome": "Terminal de Ferry de Puerto Ingeniero Ibáñez — Barcaza Tehuelche (Lago General Carrera, Aysén, Chile)",
+        "sistema_id": "ferries-lago-general-carrera-chile-chico-puerto-ibanez-lago-pirihueico-puerto-fuy-cruz-del-sur-patagonia-chile",
+        "linha_id": "linha-lago-general-carrera-puerto-ibanez-chile-chico-aysen-patagonia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9365,
+          -46.2925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-chile-chico-ferry-terminal-lago-general-carrera-cl",
+        "nome": "Terminal Portuário de Chile Chico — Fronteira Patagônica Chile–Argentina (Lago General Carrera, Aysén, Chile)",
+        "sistema_id": "ferries-lago-general-carrera-chile-chico-puerto-ibanez-lago-pirihueico-puerto-fuy-cruz-del-sur-patagonia-chile",
+        "linha_id": "linha-lago-general-carrera-puerto-ibanez-chile-chico-aysen-patagonia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7245,
+          -46.5385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-fuy-puerto-pirihueico-barcaza-hua-hum-cl",
+        "nome": "Terminais de Puerto Fuy e Puerto Pirihueico — Barcaza Hua Hum (Rota Internacional para San Martín de los Andes, Los Ríos, Chile)",
+        "sistema_id": "ferries-lago-general-carrera-chile-chico-puerto-ibanez-lago-pirihueico-puerto-fuy-cruz-del-sur-patagonia-chile",
+        "linha_id": "linha-lagos-andinos-pirihueico-puerto-fuy-hua-hum-todos-los-santos-petrohue-peulla",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8895,
+          -39.8745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-petrohue-peulla-lago-todos-los-santos-cl",
+        "nome": "Portos Lacustres de Petrohué e Peulla — Catamarãs do Cruce Andino (Lago Todos los Santos, Los Lagos, Chile)",
+        "sistema_id": "ferries-lago-general-carrera-chile-chico-puerto-ibanez-lago-pirihueico-puerto-fuy-cruz-del-sur-patagonia-chile",
+        "linha_id": "linha-lagos-andinos-pirihueico-puerto-fuy-hua-hum-todos-los-santos-petrohue-peulla",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3985,
+          -41.1365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-estacion-fluvial-tigre-domingo-sarmiento-ar",
+        "nome": "Estación Fluvial de Pasajeros Domingo Faustino Sarmiento — Lanchas Colectivas SUBE (Integrada ao Tren Mitre e Tren de la Costa, Tigre, Argentina)",
+        "sistema_id": "lanchas-colectivas-delta-do-parana-tigre-san-fernando-cacciola-nova-palmira-villa-la-angostura-bariloche-argentina-uruguai",
+        "linha_id": "linha-delta-do-parana-estacao-fluvial-tigre-rios-sarmiento-capitan-nueva-palmira",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5795,
+          -34.4215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelles-rio-sarmiento-capitan-delta-tigre-ar",
+        "nome": "Muelles Fluviais dos Rios Sarmiento, Capitán e Paraná de las Palmas (1ª Seção de Ilhas do Delta de Tigre, Buenos Aires, Argentina)",
+        "sistema_id": "lanchas-colectivas-delta-do-parana-tigre-san-fernando-cacciola-nova-palmira-villa-la-angostura-bariloche-argentina-uruguai",
+        "linha_id": "linha-delta-do-parana-estacao-fluvial-tigre-rios-sarmiento-capitan-nueva-palmira",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5565,
+          -34.3625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-panuelo-llao-llao-bariloche-ar",
+        "nome": "Puerto Pañuelo (Llao Llao) — Terminal de Catamarãs do Lago Nahuel Huapi (San Carlos de Bariloche, Río Negro, Argentina)",
+        "sistema_id": "lanchas-colectivas-delta-do-parana-tigre-san-fernando-cacciola-nova-palmira-villa-la-angostura-bariloche-argentina-uruguai",
+        "linha_id": "linha-lago-nahuel-huapi-bariloche-puerto-panuelo-isla-victoria-puerto-blest",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5195,
+          -41.0555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-blest-isla-victoria-nahuel-huapi-ar",
+        "nome": "Portos Lacustres de Puerto Blest e Isla Victoria / Bosque de Arrayanes (Parque Nacional Nahuel Huapi, Argentina)",
+        "sistema_id": "lanchas-colectivas-delta-do-parana-tigre-san-fernando-cacciola-nova-palmira-villa-la-angostura-bariloche-argentina-uruguai",
+        "linha_id": "linha-lago-nahuel-huapi-bariloche-puerto-panuelo-isla-victoria-puerto-blest",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8125,
+          -41.0285
+        ]
+      }
     }
   ]
 }

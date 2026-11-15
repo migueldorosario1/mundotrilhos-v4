@@ -46226,6 +46226,340 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-galapagos-santa-cruz-puerto-ayora-isabela-puerto-villamil-canal-itabaca",
+        "nome": "Corredor Ocidental de Galápagos e Canal de Itabaca (Aeroporto de Baltra – Canal de Itabaca – Puerto Ayora, Santa Cruz – Puerto Villamil, Ilha Isabela)",
+        "sistema_id": "lanchas-interinsulares-galapagos-santa-cruz-isabela-san-cristobal-canal-itavaca-equador",
+        "sistema_nome": "Lanchas Rápidas Interinsulares de Galápagos (Santa Cruz – Isabela – San Cristóbal – Floreana) e Travessia do Canal de Itabaca (Baltra–Santa Cruz, Equador)",
+        "pais": "Equador",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115.0,
+        "bitola": "Rota interinsular regulada da Reserva Marinha de Galápagos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.2865,
+            -0.4915
+          ],
+          [
+            -90.3125,
+            -0.7475
+          ],
+          [
+            -90.9655,
+            -0.9595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-galapagos-santa-cruz-puerto-ayora-san-cristobal-puerto-baquerizo-moreno",
+        "nome": "Corredor Oriental de Galápagos (Píer Municipal de Puerto Ayora, Ilha de Santa Cruz – Muelle de Puerto Baquerizo Moreno, Ilha de San Cristóbal)",
+        "sistema_id": "lanchas-interinsulares-galapagos-santa-cruz-isabela-san-cristobal-canal-itavaca-equador",
+        "sistema_nome": "Lanchas Rápidas Interinsulares de Galápagos (Santa Cruz – Isabela – San Cristóbal – Floreana) e Travessia do Canal de Itabaca (Baltra–Santa Cruz, Equador)",
+        "pais": "Equador",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 100.0,
+        "bitola": "Lanchas rápidas oceânicas Santa Cruz–San Cristóbal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.3125,
+            -0.7475
+          ],
+          [
+            -89.6115,
+            -0.9025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-magdalena-magangue-mompos-el-banco-barrancabermeja",
+        "nome": "Tronco Fluvial do Baixo e Médio Rio Magdalena (Terminal Fluvial de Magangué – Santa Cruz de Mompós / Bodega – El Banco – Muelle de Barrancabermeja)",
+        "sistema_id": "hidrovia-rio-magdalena-mompos-magangue-el-banco-barrancabermeja-golfo-uraba-turbo-capurgana-colombia",
+        "sistema_nome": "Hidrovia de Passageiros do Rio Magdalena (Magangué–Mompós–El Banco–Barrancabermeja) e Lanchas Marítimas do Golfo de Urabá (Turbo/Necoclí–Capurganá, Colômbia)",
+        "pais": "Colômbia",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 310.0,
+        "bitola": "Hidrovia principal do Rio Magdalena (Cormagdalena)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.7545,
+            9.2415
+          ],
+          [
+            -74.4265,
+            9.2395
+          ],
+          [
+            -73.9755,
+            8.9995
+          ],
+          [
+            -73.8545,
+            7.0655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-golfo-de-uraba-turbo-necocli-acandi-capurgana-caribe-colombia",
+        "nome": "Travessia Marítima do Golfo de Urabá (Portos de Turbo e Necoclí, Antioquia – Acandí e Baía de Capurganá / Sapzurro, Chocó)",
+        "sistema_id": "hidrovia-rio-magdalena-mompos-magangue-el-banco-barrancabermeja-golfo-uraba-turbo-capurgana-colombia",
+        "sistema_nome": "Hidrovia de Passageiros do Rio Magdalena (Magangué–Mompós–El Banco–Barrancabermeja) e Lanchas Marítimas do Golfo de Urabá (Turbo/Necoclí–Capurganá, Colômbia)",
+        "pais": "Colômbia",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 75.0,
+        "bitola": "Lanchas marítimas do Golfo de Urabá no Mar do Caribe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.7315,
+            8.0935
+          ],
+          [
+            -76.7865,
+            8.4235
+          ],
+          [
+            -77.3595,
+            8.6345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-titicaca-bolivia-estreito-tiquina-copacabana-isla-del-sol",
+        "nome": "Eixo Boliviano do Lago Titicaca (Travessia do Estreito de Tiquina San Pablo–San Pedro & Porto de Copacabana – Isla de la Luna – Isla del Sol Yumani/Challapampa)",
+        "sistema_id": "travessia-estreito-de-tiquina-san-pedro-san-pablo-catamaras-copacabana-isla-del-sol-puno-uro-taquile-lago-titicaca-bolivia-peru",
+        "sistema_nome": "Navegação de Passageiros no Lago Titicaca (3.812 m) — Estreito de Tiquina (San Pedro–San Pablo), Barcos de Copacabana–Isla del Sol (Bolívia) e Lanchas de Puno–Uros–Taquile (Peru)",
+        "pais": "Bolívia",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Navegação lacustre a 3.812 m de altitude no Lago Titicaca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8545,
+            -16.2165
+          ],
+          [
+            -68.8615,
+            -16.2225
+          ],
+          [
+            -69.0865,
+            -16.1665
+          ],
+          [
+            -69.1765,
+            -16.0185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-titicaca-peru-puno-ilhas-flutuantes-uros-taquile-amantani",
+        "nome": "Eixo Peruano do Lago Titicaca (Muelle Lacustre de Puno – Ilhas Flutuantes dos Uros – Ilha de Amantaní – Ilha de Taquile)",
+        "sistema_id": "travessia-estreito-de-tiquina-san-pedro-san-pablo-catamaras-copacabana-isla-del-sol-puno-uro-taquile-lago-titicaca-bolivia-peru",
+        "sistema_nome": "Navegação de Passageiros no Lago Titicaca (3.812 m) — Estreito de Tiquina (San Pedro–San Pablo), Barcos de Copacabana–Isla del Sol (Bolívia) e Lanchas de Puno–Uros–Taquile (Peru)",
+        "pais": "Peru",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 90.0,
+        "bitola": "Rota lacustre da Baía de Puno aos Uros, Taquile e Amantaní"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.0145,
+            -15.8365
+          ],
+          [
+            -69.9695,
+            -15.8185
+          ],
+          [
+            -69.6845,
+            -15.7745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-general-carrera-puerto-ibanez-chile-chico-aysen-patagonia",
+        "nome": "Ponte Lacustre da Patagônia Central — Barcaza Tehuelche (Terminal de Puerto Ingeniero Ibáñez – Terminal de Chile Chico, Lago General Carrera, Aysén)",
+        "sistema_id": "ferries-lago-general-carrera-chile-chico-puerto-ibanez-lago-pirihueico-puerto-fuy-cruz-del-sur-patagonia-chile",
+        "sistema_nome": "Ferries Lacustres dos Andes e da Patagônia Chilena — Lago General Carrera (Puerto Ibáñez–Chile Chico), Lago Pirihueico (Puerto Fuy–Passo Hua Hum) e Lago Todos los Santos (Petrohué–Peulla, Chile)",
+        "pais": "Chile",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 68.0,
+        "bitola": "Travessia ro-pax do Lago General Carrera na Patagônia (MTT Chile)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.9365,
+            -46.2925
+          ],
+          [
+            -71.7245,
+            -46.5385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lagos-andinos-pirihueico-puerto-fuy-hua-hum-todos-los-santos-petrohue-peulla",
+        "nome": "Travessias Transandinas dos Lagos Pirihueico (Puerto Fuy – Puerto Pirihueico / Passo Hua Hum) e Todos los Santos (Petrohué – Peulla, Cruce Andino)",
+        "sistema_id": "ferries-lago-general-carrera-chile-chico-puerto-ibanez-lago-pirihueico-puerto-fuy-cruz-del-sur-patagonia-chile",
+        "sistema_nome": "Ferries Lacustres dos Andes e da Patagônia Chilena — Lago General Carrera (Puerto Ibáñez–Chile Chico), Lago Pirihueico (Puerto Fuy–Passo Hua Hum) e Lago Todos los Santos (Petrohué–Peulla, Chile)",
+        "pais": "Chile",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 72.0,
+        "bitola": "Ferries lacustres transandinos de Los Ríos e Los Lagos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.8895,
+            -39.8745
+          ],
+          [
+            -71.6825,
+            -40.0255
+          ],
+          [
+            -72.3985,
+            -41.1365
+          ],
+          [
+            -72.0185,
+            -41.0965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-delta-do-parana-estacao-fluvial-tigre-rios-sarmiento-capitan-nueva-palmira",
+        "nome": "Rede de Lanchas Colectivas do Delta do Paraná e Travessia Internacional (Estação Fluvial de Tigre – Rios Sarmiento/Capitán/Paraná de las Palmas – Nueva Palmira/Carmelo, Uruguai)",
+        "sistema_id": "lanchas-colectivas-delta-do-parana-tigre-san-fernando-cacciola-nova-palmira-villa-la-angostura-bariloche-argentina-uruguai",
+        "sistema_nome": "Lanchas Colectivas do Delta do Paraná em Tigre (Interisleña / Jilguero / Líneas Delta — SUBE), Travessia Tigre–Carmelo/Nueva Palmira e Catamarãs do Lago Nahuel Huapi em Bariloche (Argentina e Uruguai)",
+        "pais": "Argentina",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115.0,
+        "bitola": "Ônibus aquáticos fluviais do Delta do Paraná integrados ao SUBE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.5795,
+            -34.4215
+          ],
+          [
+            -58.5565,
+            -34.3625
+          ],
+          [
+            -58.4195,
+            -33.9985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-nahuel-huapi-bariloche-puerto-panuelo-isla-victoria-puerto-blest",
+        "nome": "Corredor Lacustre de Nahuel Huapi e Cruce Andino (Puerto Pañuelo, San Carlos de Bariloche – Isla Victoria / Villa La Angostura – Puerto Blest / Lago Frías)",
+        "sistema_id": "lanchas-colectivas-delta-do-parana-tigre-san-fernando-cacciola-nova-palmira-villa-la-angostura-bariloche-argentina-uruguai",
+        "sistema_nome": "Lanchas Colectivas do Delta do Paraná em Tigre (Interisleña / Jilguero / Líneas Delta — SUBE), Travessia Tigre–Carmelo/Nueva Palmira e Catamarãs do Lago Nahuel Huapi em Bariloche (Argentina e Uruguai)",
+        "pais": "Argentina",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 70.0,
+        "bitola": "Navegação lacustre de catamarãs no Parque Nacional Nahuel Huapi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.5195,
+            -41.0555
+          ],
+          [
+            -71.5425,
+            -40.9615
+          ],
+          [
+            -71.8125,
+            -41.0285
+          ]
+        ]
+      }
     }
   ]
 }
