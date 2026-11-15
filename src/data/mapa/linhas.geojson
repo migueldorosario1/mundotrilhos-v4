@@ -46560,6 +46560,352 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-isle-of-man-steam-packet-douglas-heysham-liverpool-inglaterra",
+        "nome": "Tronco Oriental do Mar da Irlanda — MV Manxman & HSC Manannan (Douglas Sea Terminal, Ilha de Man – Porto de Heysham & Terminal de Liverpool, Inglaterra)",
+        "sistema_id": "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+        "sistema_nome": "Isle of Man Steam Packet Company — Ferries do Mar da Irlanda (Douglas, Ilha de Man – Heysham, Liverpool, Belfast e Dublin)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 225.0,
+        "bitola": "Ponte marítima da Ilha de Man para a Inglaterra (IOMSPC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9155,
+            54.0395
+          ],
+          [
+            -4.4745,
+            54.1485
+          ],
+          [
+            -3.0055,
+            53.4135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-isle-of-man-steam-packet-douglas-belfast-dublin-irlanda",
+        "nome": "Tronco Ocidental do Mar da Irlanda (Douglas Sea Terminal, Ilha de Man – Porto de Belfast, Irlanda do Norte & Porto de Dublin, Irlanda)",
+        "sistema_id": "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+        "sistema_nome": "Isle of Man Steam Packet Company — Ferries do Mar da Irlanda (Douglas, Ilha de Man – Heysham, Liverpool, Belfast e Dublin)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 195.0,
+        "bitola": "Travessias da Ilha de Man para Belfast e Dublin (IOMSPC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9155,
+            54.6185
+          ],
+          [
+            -4.4745,
+            54.1485
+          ],
+          [
+            -6.1955,
+            53.3465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-isles-of-scilly-steamship-penzance-st-marys-tresco",
+        "nome": "Ponte Marítima das Ilhas Scilly — RMV Scillonian III & Barcos Interinsulares (Penzance Harbour, Cornualha – St Mary's Quay – Tresco / St Martin's / Bryher)",
+        "sistema_id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+        "sistema_nome": "Isles of Scilly Steamship (RMV Scillonian III Penzance–St Mary's) e Ferries Estuarinos da Cornualha (Falmouth–St Mawes, King Harry Ferry e Fowey, Reino Unido)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 68.0,
+        "bitola": "Rota oceânica Penzance–Ilhas Scilly no Mar Céltico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.5325,
+            50.1165
+          ],
+          [
+            -6.3175,
+            49.9165
+          ],
+          [
+            -6.3355,
+            49.9515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cornwall-estuaries-falmouth-st-mawes-king-harry-fowey-polruan",
+        "nome": "Ferries Estuarinos dos Rios Fal e Fowey (Falmouth Prince of Wales Pier – St Mawes, King Harry Ferry e Travessias de Fowey–Polruan / Bodinnick, Cornualha)",
+        "sistema_id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+        "sistema_nome": "Isles of Scilly Steamship (RMV Scillonian III Penzance–St Mary's) e Ferries Estuarinos da Cornualha (Falmouth–St Mawes, King Harry Ferry e Fowey, Reino Unido)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 27.0,
+        "bitola": "Ferries costeiros e estuarinos da Cornualha (Fal River / Fowey)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.0695,
+            50.1545
+          ],
+          [
+            -5.0165,
+            50.1575
+          ],
+          [
+            -5.0315,
+            50.2195
+          ],
+          [
+            -4.6365,
+            50.3335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-aran-islands-ferries-galway-rossaveel-kilronan-inishmore",
+        "nome": "Tronco Ano-Inteiro de Connemara e Baía de Galway — Aran Island Ferries (Galway City Docks & Porto de Rossaveel – Porto de Kilronan, Inishmore)",
+        "sistema_id": "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+        "sistema_nome": "Ferries das Ilhas de Aran e Costa Oeste da Irlanda — Aran Islands Ferries (Rossaveel e Galway–Inishmore/Inishmaan/Inisheer) e Doolin Ferry (Condado de Clare, Irlanda)",
+        "pais": "Irlanda",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 78.0,
+        "bitola": "Ferries rápidos da Baía de Galway para as Ilhas de Aran"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.0515,
+            53.2695
+          ],
+          [
+            -9.5585,
+            53.2665
+          ],
+          [
+            -9.6655,
+            53.1185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-doolin-ferry-inishmore-inishmaan-inisheer-cliffs-of-moher",
+        "nome": "Corredor Sul das Ilhas de Aran e Falésias de Moher (Píer de Doolin, Condado de Clare – Inisheer – Inishmaan – Inishmore)",
+        "sistema_id": "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+        "sistema_nome": "Ferries das Ilhas de Aran e Costa Oeste da Irlanda — Aran Islands Ferries (Rossaveel e Galway–Inishmore/Inishmaan/Inisheer) e Doolin Ferry (Condado de Clare, Irlanda)",
+        "pais": "Irlanda",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 57.0,
+        "bitola": "Rota interinsular das Ilhas de Aran e Doolin (Condado de Clare)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4015,
+            53.0165
+          ],
+          [
+            -9.5185,
+            53.0655
+          ],
+          [
+            -9.5825,
+            53.0915
+          ],
+          [
+            -9.6655,
+            53.1185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-shannon-ferry-estuario-rio-shannon-killimer-clare-tarbert-kerry",
+        "nome": "Ponte Ro-Pax do Estuário do Rio Shannon — Shannon Ferry (Terminal de Killimer, Condado de Clare – Terminal de Tarbert, Condado de Kerry)",
+        "sistema_id": "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+        "sistema_nome": "Ferries Estuarinos e Insulares do Sudoeste da Irlanda — Shannon Ferry (Killimer–Tarbert), Cross River Ferry de Cork (Cobh–Glenbrook) e Ferries de Baltimore–Cape Clear",
+        "pais": "Irlanda",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 12.0,
+        "bitola": "Travessia ro-pax do Estuário do Shannon na Wild Atlantic Way"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.3815,
+            52.6165
+          ],
+          [
+            -9.3655,
+            52.5895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cork-harbour-cross-river-ferry-cobh-glenbrook-baltimore-cape-clear",
+        "nome": "Travessia Metropolitana do Porto de Cork (Cobh/Carrigaloe – Glenbrook/Passage West) e Ferries Insulares de West Cork (Baltimore – Sherkin – Ilha de Cape Clear)",
+        "sistema_id": "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+        "sistema_nome": "Ferries Estuarinos e Insulares do Sudoeste da Irlanda — Shannon Ferry (Killimer–Tarbert), Cross River Ferry de Cork (Cobh–Glenbrook) e Ferries de Baltimore–Cape Clear",
+        "pais": "Irlanda",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 53.0,
+        "bitola": "Cross River Ferry no Porto de Cork e ferries de Cape Clear"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3215,
+            51.8565
+          ],
+          [
+            -8.3325,
+            51.8525
+          ],
+          [
+            -9.3735,
+            51.4825
+          ],
+          [
+            -9.5015,
+            51.4345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-breizhgo-penn-ar-bed-brest-le-conquet-molene-ouessant-finistere",
+        "nome": "Corredor do Mar de Iroise — BreizhGo Penn-ar-Bed (Porto Comercial de Brest – Porto de Le Conquet – Ilha de Molène – Porto de Lampaul, Ilha de Ouessant)",
+        "sistema_id": "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca",
+        "sistema_nome": "Ferries Insulares da Bretanha (Rede BreizhGo) — Penn-ar-Bed (Brest/Le Conquet–Molène–Ouessant) e Compagnie Océane (Lorient–Groix e Quiberon–Belle-Île-en-Mer, França)",
+        "pais": "França",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Serviço marítimo regional BreizhGo Penn-ar-Bed no Mar de Iroise"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4885,
+            48.3815
+          ],
+          [
+            -4.7755,
+            48.3615
+          ],
+          [
+            -4.9565,
+            48.3975
+          ],
+          [
+            -5.0865,
+            48.4565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-breizhgo-compagnie-oceane-lorient-groix-quiberon-belle-ile-morbihan",
+        "nome": "Ferries das Ilhas de Morbihan — BreizhGo Compagnie Océane (Lorient – Ilha de Groix & Quiberon Port Maria – Le Palais, Belle-Île-en-Mer / Houat / Hoëdic)",
+        "sistema_id": "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca",
+        "sistema_nome": "Ferries Insulares da Bretanha (Rede BreizhGo) — Penn-ar-Bed (Brest/Le Conquet–Molène–Ouessant) e Compagnie Océane (Lorient–Groix e Quiberon–Belle-Île-en-Mer, França)",
+        "pais": "França",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 100.0,
+        "bitola": "Ferries ro-pax BreizhGo Compagnie Océane em Morbihan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3615,
+            47.7415
+          ],
+          [
+            -3.4455,
+            47.6435
+          ],
+          [
+            -3.1245,
+            47.4765
+          ],
+          [
+            -3.1515,
+            47.3475
+          ]
+        ]
+      }
     }
   ]
 }

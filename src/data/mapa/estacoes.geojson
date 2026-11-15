@@ -39491,6 +39491,366 @@
           -41.0285
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-douglas-sea-terminal-isle-of-man-im",
+        "nome": "Douglas Sea Terminal — Isle of Man Steam Packet Company (Capital Douglas, Ilha de Man)",
+        "sistema_id": "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+        "linha_id": "linha-isle-of-man-steam-packet-douglas-heysham-liverpool-inglaterra",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4745,
+          54.1485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-heysham-port-ferry-terminal-lancashire-uk",
+        "nome": "Heysham Ferry Terminal — MV Manxman (Integrado à Estação Heysham Port, Lancashire, Inglaterra, Reino Unido)",
+        "sistema_id": "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+        "linha_id": "linha-isle-of-man-steam-packet-douglas-heysham-liverpool-inglaterra",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9155,
+          54.0395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-liverpool-isle-of-man-ferry-terminal-princes-dock-uk",
+        "nome": "Liverpool Isle of Man Ferry Terminal — HSC Manannan (Princes Half-Tide Dock, Liverpool, Reino Unido)",
+        "sistema_id": "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+        "linha_id": "linha-isle-of-man-steam-packet-douglas-heysham-liverpool-inglaterra",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0055,
+          53.4135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-belfast-albert-quay-steam-packet-terminal-uk",
+        "nome": "Terminal da Steam Packet no Porto de Belfast (Albert Quay, Irlanda do Norte, Reino Unido)",
+        "sistema_id": "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+        "linha_id": "linha-isle-of-man-steam-packet-douglas-belfast-dublin-irlanda",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9155,
+          54.6185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-penzance-harbour-scillonian-ferry-terminal-uk",
+        "nome": "Penzance Harbour Ferry Terminal — RMV Scillonian III (Junto à Estação Ferroviária de Penzance, Cornualha, Reino Unido)",
+        "sistema_id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+        "linha_id": "linha-isles-of-scilly-steamship-penzance-st-marys-tresco",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5325,
+          50.1165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-st-marys-quay-hugh-town-isles-of-scilly-uk",
+        "nome": "St Mary's Quay — Hub de Hugh Town e Barcos Interinsulares (Arquipélago das Ilhas Scilly, Inglaterra, Reino Unido)",
+        "sistema_id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+        "linha_id": "linha-isles-of-scilly-steamship-penzance-st-marys-tresco",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3175,
+          49.9165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-falmouth-prince-of-wales-pier-st-mawes-ferry-uk",
+        "nome": "Prince of Wales Pier (Falmouth) e Píer de St Mawes — Fal River Links (Cornualha, Reino Unido)",
+        "sistema_id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+        "linha_id": "linha-cornwall-estuaries-falmouth-st-mawes-king-harry-fowey-polruan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0695,
+          50.1545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-king-harry-ferry-fowey-polruan-bodinnick-cornwall-uk",
+        "nome": "Terminais do King Harry Ferry (Rio Fal) e Travessias de Fowey–Polruan e Bodinnick (Cornualha, Reino Unido)",
+        "sistema_id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+        "linha_id": "linha-cornwall-estuaries-falmouth-st-mawes-king-harry-fowey-polruan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6365,
+          50.3335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rossaveel-harbour-connemara-aran-ferry-terminal-ie",
+        "nome": "Terminal de Ferries do Porto de Rossaveel (Ros a' Mhíl — Connemara, Condado de Galway, Irlanda)",
+        "sistema_id": "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+        "linha_id": "linha-aran-islands-ferries-galway-rossaveel-kilronan-inishmore",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5585,
+          53.2665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kilronan-harbour-inishmore-aran-islands-ie",
+        "nome": "Porto de Kilronan (Cill Rónáin) — Ilha de Inishmore (Árainn, Ilhas de Aran, Condado de Galway, Irlanda)",
+        "sistema_id": "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+        "linha_id": "linha-aran-islands-ferries-galway-rossaveel-kilronan-inishmore",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6655,
+          53.1185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-doolin-pier-aran-cliffs-of-moher-ferry-clare-ie",
+        "nome": "Doolin Pier Ferry Terminal — Embarque para as Ilhas de Aran e Falésias de Moher (Condado de Clare, Irlanda)",
+        "sistema_id": "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+        "linha_id": "linha-doolin-ferry-inishmore-inishmaan-inisheer-cliffs-of-moher",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4015,
+          53.0165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-inisheer-inishmaan-piers-aran-islands-ie",
+        "nome": "Píeres Insulares de Inisheer (Inis Oírr) e Inishmaan (Inis Meáin — Ilhas de Aran, Irlanda)",
+        "sistema_id": "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+        "linha_id": "linha-doolin-ferry-inishmore-inishmaan-inisheer-cliffs-of-moher",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5185,
+          53.0655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-killimer-ferry-terminal-shannon-ferry-clare-ie",
+        "nome": "Terminal de Killimer — Shannon Ferry (Margem Norte do Estuário do Shannon, Condado de Clare, Irlanda)",
+        "sistema_id": "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+        "linha_id": "linha-shannon-ferry-estuario-rio-shannon-killimer-clare-tarbert-kerry",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3815,
+          52.6165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tarbert-island-ferry-terminal-shannon-kerry-ie",
+        "nome": "Terminal de Tarbert Island — Shannon Ferry (Margem Sul do Estuário do Shannon, Condado de Kerry, Irlanda)",
+        "sistema_id": "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+        "linha_id": "linha-shannon-ferry-estuario-rio-shannon-killimer-clare-tarbert-kerry",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3655,
+          52.5895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cobh-carrigaloe-glenbrook-cross-river-ferry-cork-ie",
+        "nome": "Terminais de Carrigaloe (Cobh) e Glenbrook (Passage West) — Cross River Ferry no Porto de Cork (Irlanda)",
+        "sistema_id": "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+        "linha_id": "linha-cork-harbour-cross-river-ferry-cobh-glenbrook-baltimore-cape-clear",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3215,
+          51.8565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-baltimore-harbour-cape-clear-island-ferry-cork-ie",
+        "nome": "Porto de Baltimore e North Harbour na Ilha de Cape Clear (Oileán Chléire, West Cork, Irlanda)",
+        "sistema_id": "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+        "linha_id": "linha-cork-harbour-cross-river-ferry-cobh-glenbrook-baltimore-cape-clear",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3735,
+          51.4825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-brest-le-conquet-penn-ar-bed-fr",
+        "nome": "Gares Maritimes de Brest e Le Conquet — BreizhGo Penn-ar-Bed (Finistère, Bretanha, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca",
+        "linha_id": "linha-breizhgo-penn-ar-bed-brest-le-conquet-molene-ouessant-finistere",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4885,
+          48.3815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-du-stiff-ouessant-molene-finistere-fr",
+        "nome": "Porto do Stiff — Ilha de Ouessant (Ushant) e Píer da Ilha de Molène (Mar de Iroise, Bretanha, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca",
+        "linha_id": "linha-breizhgo-penn-ar-bed-brest-le-conquet-molene-ouessant-finistere",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0865,
+          48.4565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-quiberon-port-maria-lorient-fr",
+        "nome": "Gares Maritimes de Quiberon (Port Maria) e Lorient — BreizhGo Compagnie Océane (Morbihan, Bretanha, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca",
+        "linha_id": "linha-breizhgo-compagnie-oceane-lorient-groix-quiberon-belle-ile-morbihan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1245,
+          47.4765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-le-palais-belle-ile-en-mer-port-tudy-groix-fr",
+        "nome": "Portos Insulares de Le Palais (Belle-Île-en-Mer) e Port-Tudy (Ilha de Groix, Morbihan, Bretanha, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca",
+        "linha_id": "linha-breizhgo-compagnie-oceane-lorient-groix-quiberon-belle-ile-morbihan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1515,
+          47.3475
+        ]
+      }
     }
   ]
 }

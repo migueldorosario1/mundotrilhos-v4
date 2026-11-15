@@ -33406,5 +33406,402 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+    "slug": "isle-of-man-steam-packet-douglas-heysham-liverpool-belfast-dublin-ilha-de-man-reino-unido",
+    "nome_pt": "Isle of Man Steam Packet Company — Ferries do Mar da Irlanda (Douglas, Ilha de Man – Heysham, Liverpool, Belfast e Dublin)",
+    "nome_en": "Isle of Man Steam Packet Company — Irish Sea Ferries (Douglas, Isle of Man – Heysham, Liverpool, Belfast & Dublin)",
+    "pais": "Reino Unido",
+    "cidade": "Douglas (Ilha de Man, Dependência da Coroa Britânica); Heysham (Lancashire) e Liverpool (Merseyside, Inglaterra); Belfast (Irlanda do Norte, Reino Unido); e Dublin (Irlanda)",
+    "uf": "Ilha de Man / Inglaterra / Irlanda do Norte / Dublin",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Isle of Man Steam Packet Company Ltd. — IOMSPC (Estatal do Governo da Ilha de Man: Navio Híbrido MV Manxman, Catamarã Rápido HSC Manannan e MV Ben-my-Chree)",
+    "inauguracao": "1830 (A companhia de navegação de passageiros em operação contínua mais antiga do mundo; estreia do novo navio híbrido Manxman em agosto de 2023 e do novo terminal de Liverpool em junho de 2024)",
+    "extensao_km": 420.0,
+    "bitola": "Mar da Irlanda (Corredores marítimos radiais centrados em Douglas, Ilha de Man, conectando Inglaterra, Irlanda do Norte e República da Irlanda)",
+    "eletrificacao": "Superferry híbrido diesel-elétrico de 24.161 toneladas MV Manxman (construído pela Hyundai Mipo na Coreia do Sul em 2023 para 948 passageiros) e catamarã australiano Incat de 96 m HSC Manannan",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 6500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "£ 155 milhões (construção do novo navio-almirante híbrido MV Manxman por £ 78 milhões e do novo Isle of Man Ferry Terminal em Princes Half-Tide Dock em Liverpool por £ 77 milhões)",
+      "moeda": "GBP",
+      "fonte_id": "iomspc-steam-packet-gov-im"
+    },
+    "proximas_entregas": {
+      "pt": "Eletrificação de cais (shore power) no Douglas Sea Terminal e ampliação das frequências de inverno para Liverpool e Belfast.",
+      "en": "Shore power electrification at Douglas Sea Terminal and expanded winter sailings to Liverpool and Belfast."
+    },
+    "resumo_pt": "Fundada em 1830, a Isle of Man Steam Packet Company (IOMSPC, de propriedade do Governo de Tynwald da Ilha de Man) detém o título oficial de companhia de navegação de passageiros em operação contínua mais antiga do mundo. A partir do Douglas Sea Terminal (na capital Douglas, localizado a poucos minutos da estação terminal da histórica ferrovia a vapor Isle of Man Railway e do VLT costeiro Manx Electric Railway), a companhia opera a ligação vital todo-o-ano com a Inglaterra e a ilha da Irlanda no centro do Mar da Irlanda. No corredor leste rumo à Inglaterra, o novo navio-almirante híbrido 'MV Manxman' (24.161 toneladas brutas, inaugurado em agosto de 2023) realiza duas viagens diárias entre Douglas e o Porto de Heysham (Lancashire, conectado aos trens da Northern Rail), enquanto o catamarã de alta velocidade 'HSC Manannan' (96 metros, essencial durante o célebre festival de motociclismo Isle of Man TT) conecta Douglas em 2h45 ao novíssimo terminal exclusivo da Ilha de Man inaugurado em junho de 2024 em Liverpool (Princes Half-Tide Dock). Já no corredor oeste, a frota conecta Douglas a Belfast (Irlanda do Norte) e ao Porto de Dublin (Irlanda).",
+    "resumo_en": "Founded in 1830, the Isle of Man Steam Packet Company (IOMSPC, owned by the Isle of Man Government) is the oldest continuously operating passenger shipping company in the world. From Douglas Sea Terminal (steps from the historic Isle of Man Steam Railway and the Manx Electric Railway), the company provides the island's lifeline connections across the Irish Sea. Eastbound to England, the flagship 24,161 GT diesel-electric hybrid vessel 'MV Manxman' (entered service in August 2023) operates twice-daily crossings to Heysham Port (Lancashire, with direct rail connections), while the 96-meter high-speed wave-piercing catamaran 'HSC Manannan' links Douglas in 2h45 to the new purpose-built Isle of Man Ferry Terminal at Liverpool's Princes Half-Tide Dock (opened in June 2024). Westbound across the Irish Sea, seasonal and year-round sailings link Douglas with Belfast and Dublin.",
+    "lat": 54.1485,
+    "lon": -4.4745,
+    "zoom_inicial": 6.8,
+    "fontes": [
+      "iomspc-steam-packet-gov-im",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "reino unido",
+      "ilha de man",
+      "isle of man",
+      "irlanda",
+      "douglas",
+      "heysham",
+      "liverpool",
+      "belfast",
+      "dublin",
+      "steam packet",
+      "manxman",
+      "manannan",
+      "mar da irlanda",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/MV_Manxman_arriving_in_Douglas_Harbour_2023.jpg/800px-MV_Manxman_arriving_in_Douglas_Harbour_2023.jpg",
+      "credito": "Wikimedia Commons — Novo superferry híbrido MV Manxman da Isle of Man Steam Packet Company chegando ao Porto de Douglas (Ilha de Man)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Manxman_(ship,_2023)"
+    },
+    "linhas": [
+      {
+        "id": "linha-isle-of-man-steam-packet-douglas-heysham-liverpool-inglaterra",
+        "nome": "Tronco Oriental do Mar da Irlanda — MV Manxman & HSC Manannan (Douglas Sea Terminal, Ilha de Man – Porto de Heysham & Terminal de Liverpool, Inglaterra)",
+        "status": "operacao",
+        "extensao_km": 225.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-isle-of-man-steam-packet-douglas-belfast-dublin-irlanda",
+        "nome": "Tronco Ocidental do Mar da Irlanda (Douglas Sea Terminal, Ilha de Man – Porto de Belfast, Irlanda do Norte & Porto de Dublin, Irlanda)",
+        "status": "operacao",
+        "extensao_km": 195.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+    "slug": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-falmouth-st-mawes-fowey-cornualha-reino-unido",
+    "nome_pt": "Isles of Scilly Steamship (RMV Scillonian III Penzance–St Mary's) e Ferries Estuarinos da Cornualha (Falmouth–St Mawes, King Harry Ferry e Fowey, Reino Unido)",
+    "nome_en": "Isles of Scilly Steamship (RMV Scillonian III Penzance–St Mary's) & Cornwall Estuarine Ferries (Falmouth–St Mawes, King Harry Ferry & Fowey, UK)",
+    "pais": "Reino Unido",
+    "cidade": "Penzance, Falmouth, St Mawes, Feock/Philleigh (Rio Fal), Fowey, Polruan e Bodinnick (Cornualha); e Hugh Town, Ilha de St Mary's / Tresco / St Martin's (Arquipélago das Ilhas Scilly, Inglaterra, Reino Unido)",
+    "uf": "Cornwall & Isles of Scilly (Inglaterra)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Isles of Scilly Steamship Group (RMV Scillonian III: Penzance–St Mary's), St Mary's Boatmen's Association (Barcos Interinsulares de Scilly) & Fal River Cornwall / King Harry Ferry / C Toms & Son (Ferries de Falmouth e Fowey)",
+    "inauguracao": "1920 (Fundação da Isles of Scilly Steamship Company pelos próprios ilhéus; travessia do King Harry Ferry no Rio Fal desde 1888 e Fowey–Bodinnick desde o século XIV)",
+    "extensao_km": 95.0,
+    "bitola": "Mar Céltico / Atlântico Norte (Penzance–Ilhas Scilly) e Estuários dos Rios Fal e Fowey (Costa Sul da Cornualha)",
+    "eletrificacao": "Navio postal real RMV Scillonian III (e seu sucessor em construção Scillonian IV de propulsão limpa), lanchas interinsulares de St Mary's e ferries a cabo e de passageiros nos rios Fal e Fowey",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 8200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "£ 42 milhões (programa de construção do novo navio de passageiros Scillonian IV e do navio de carga Menawethan no estaleiro Piriou para as Ilhas Scilly)",
+      "moeda": "GBP",
+      "fonte_id": "isles-of-scilly-steamship-fal-river-dft-uk"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em serviço do novo navio de passageiros Scillonian IV (com capacidade para 600 passageiros e estabilizadores anti-enjoo de última geração) na rota Penzance–St Mary's.",
+      "en": "Entry into service of the new 600-passenger vessel Scillonian IV on the Penzance–St Mary's route."
+    },
+    "resumo_pt": "No extremo sudoeste da Grã-Bretanha (Cornualha e Arquipélago das Ilhas Scilly), o transporte hidroviário conecta tanto o arquipélago subtropical situado a 45 km de Land's End quanto os profundos estuários ('rias') da costa sul córnica. A partir do Porto de Penzance (a 400 metros da estação final Penzance da ferrovia Great Western Main Line, terminal do trem noturno Night Riviera vindo de Londres Paddington), o navio postal real 'RMV Scillonian III' da Isles of Scilly Steamship Company cruza o Mar Céltico em 2h45 até o píer de St Mary's (Hugh Town), de onde os barcos comunitários da St Mary's Boatmen's Association distribuem diariamente moradores e visitantes para as ilhas sem carros de Tresco, St Martin's, Bryher e St Agnes. Já na costa sul da Cornualha, a rede Fal River Links em Falmouth (integrada ao ramal ferroviário Maritime Line de Truro a Falmouth Docks) opera o histórico St Mawes Ferry (365 dias por ano), o Place Ferry (na trilha South West Coast Path) e o lendário ferry veicular a correntes King Harry Ferry (cruzando o Rio Fal desde 1888), além das travessias contínuas de Fowey–Polruan e Fowey–Bodinnick no estuário do Rio Fowey.",
+    "resumo_en": "At the southwestern tip of Great Britain in Cornwall and the Isles of Scilly, passenger water transport serves both the Atlantic archipelago 45 km off Land's End and the deep river estuaries of the south Cornish coast. Departing Penzance Harbour (400 meters from Penzance railway station, terminus of the Great Western Main Line and the Night Riviera sleeper from London Paddington), the Royal Mail Ship 'RMV Scillonian III' operated by the Isles of Scilly Steamship Group crosses the Celtic Sea in 2h45 to St Mary's Quay, where inter-island launches connect the car-free islands of Tresco, St Martin's, Bryher and St Agnes. Along the south Cornwall coast, the Fal River network in Falmouth (integrated with the Maritime Line branch rail service from Truro) operates the year-round St Mawes Ferry, Place Ferry and the historic King Harry chain ferry across the River Fal, complemented by the Fowey–Polruan and Fowey–Bodinnick ferries across the Fowey estuary.",
+    "lat": 50.1165,
+    "lon": -5.5325,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "isles-of-scilly-steamship-fal-river-dft-uk",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "reino unido",
+      "inglaterra",
+      "cornualha",
+      "cornwall",
+      "ilhas scilly",
+      "isles of scilly",
+      "penzance",
+      "st mary's",
+      "scillonian iii",
+      "falmouth",
+      "st mawes",
+      "king harry ferry",
+      "fowey",
+      "polruan",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/RMV_Scillonian_III_at_St_Mary%27s_Isles_of_Scilly.jpg/800px-RMV_Scillonian_III_at_St_Mary%27s_Isles_of_Scilly.jpg",
+      "credito": "Wikimedia Commons — Navio postal real RMV Scillonian III no píer da Ilha de St Mary's (Arquipélago das Ilhas Scilly / Penzance, Cornualha, Reino Unido)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Scillonian_III_(ship,_1977)"
+    },
+    "linhas": [
+      {
+        "id": "linha-isles-of-scilly-steamship-penzance-st-marys-tresco",
+        "nome": "Ponte Marítima das Ilhas Scilly — RMV Scillonian III & Barcos Interinsulares (Penzance Harbour, Cornualha – St Mary's Quay – Tresco / St Martin's / Bryher)",
+        "status": "operacao",
+        "extensao_km": 68.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-cornwall-estuaries-falmouth-st-mawes-king-harry-fowey-polruan",
+        "nome": "Ferries Estuarinos dos Rios Fal e Fowey (Falmouth Prince of Wales Pier – St Mawes, King Harry Ferry e Travessias de Fowey–Polruan / Bodinnick, Cornualha)",
+        "status": "operacao",
+        "extensao_km": 27.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+    "slug": "aran-islands-ferries-rossaveel-galway-inishmore-inishmaan-inisheer-doolin-ferry-irlanda",
+    "nome_pt": "Ferries das Ilhas de Aran e Costa Oeste da Irlanda — Aran Islands Ferries (Rossaveel e Galway–Inishmore/Inishmaan/Inisheer) e Doolin Ferry (Condado de Clare, Irlanda)",
+    "nome_en": "Aran Islands & Wild Atlantic Way Ferries — Aran Islands Ferries (Rossaveel & Galway–Inishmore/Inishmaan/Inisheer) & Doolin Ferry (Co. Galway & Co. Clare, Ireland)",
+    "pais": "Irlanda",
+    "cidade": "Rossaveel (Ros a' Mhíl, Connemara), Cidade de Galway e Ilhas de Aran: Inishmore (Árainn / Kilronan), Inishmaan (Inis Meáin) e Inisheer (Inis Oírr, Condado de Galway); e Doolin (Condado de Clare, Irlanda)",
+    "uf": "Connacht (Co. Galway) / Munster (Co. Clare)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Aran Island Ferries (Rossaveel e Galway City Docks – Inishmore, Inishmaan e Inisheer: Navio Saoirse na Mara e Glór na Mara) & Doolin Ferry Co. / O'Brien Line (Doolin Pier – Ilhas de Aran e Falésias de Moher)",
+    "inauguracao": "1970 (Início das travessias modernas de passageiros de Doolin e Rossaveel para as três Ilhas de Aran; estreia do maior ferry doméstico da Irlanda, MV Saoirse na Mara, em 2021)",
+    "extensao_km": 135.0,
+    "bitola": "Baía de Galway e Oceano Atlântico (Connemara / Cidade de Galway – Ilhas de Aran – Doolin / Falésias de Moher)",
+    "eletrificacao": "Frota de monocascos rápidos estabilizados para o Atlântico Norte, liderada pelo MV Saoirse na Mara (400 passageiros, construído na França pela Merré em 2021) e pelo MV Aran Express da Doolin Ferry",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 5400,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 42 milhões (desenvolvimento do novo Deepwater Quay no Porto de Rossaveel pelo Governo da Irlanda e aquisição do navio MV Saoirse na Mara)",
+      "moeda": "EUR",
+      "fonte_id": "gov-ie-aran-island-ferries-doolin"
+    },
+    "proximas_entregas": {
+      "pt": "Requalificação dos píeres insulares de Inishmaan (Cora Droma Rúisc) e Inisheer pelo Departamento de Desenvolvimento Rural e Comunitário da Irlanda.",
+      "en": "Upgrades to the island piers on Inishmaan and Inisheer by Ireland's Department of Rural and Community Development."
+    },
+    "resumo_pt": "Na boca da Baía de Galway, na costa oeste atlântica da Irlanda (Wild Atlantic Way), as três Ilhas de Aran — Inishmore (Árainn), Inishmaan (Inis Meáin) e Inisheer (Inis Oírr), baluartes da língua gaélica irlandesa (Gaeltacht) e famosas pelo forte pré-histórico de Dún Aonghasa — são conectadas ao continente durante os 365 dias do ano por duas grandes frotas de ferries rápidos. A partir do porto pesqueiro e terminal de passageiros de Rossaveel (Ros a' Mhíl, em Connemara, a oeste de Galway, conectado por ônibus shuttle dedicado ao centro de Galway) e também diretamente a partir das docas da Cidade de Galway (Galway City Docks), a companhia Aran Island Ferries (equipada com o navio 'Saoirse na Mara' para 400 passageiros) realiza travessias de 40 minutos até Kilronan (Inishmore), Inishmaan e Inisheer. Já a partir do Píer de Doolin, no Condado de Clare (ao sul da baía), os navios rápidos da Doolin Ferry Co. oferecem a travessia mais curta até Inisheer (apenas 15 minutos), Inishmaan e Inishmore, navegando ao pé das imponentes Falésias de Moher (Cliffs of Moher, com 214 metros de altura).",
+    "resumo_en": "Guarding the mouth of Galway Bay along Ireland's Wild Atlantic Way, the three Gaelic-speaking Aran Islands — Inishmore (Árainn), Inishmaan (Inis Meáin) and Inisheer (Inis Oírr) — rely on two high-frequency fast ferry networks. Operating year-round from Rossaveel Harbour (Ros a' Mhíl in Connemara, linked by dedicated shuttle bus to Galway city centre) and directly from Galway City Docks, Aran Island Ferries (led by its 400-passenger flagship vessel 'MV Saoirse na Mara') completes 40-minute crossings to Kilronan Harbour on Inishmore as well as Inishmaan and Inisheer. From Doolin Pier to the south in County Clare, Doolin Ferry Co. provides the shortest sea crossing to Inisheer (just 15 minutes), Inishmaan and Inishmore along the base of the 214-meter Cliffs of Moher.",
+    "lat": 53.1185,
+    "lon": -9.6655,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "gov-ie-aran-island-ferries-doolin",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "irlanda",
+      "ilhas de aran",
+      "aran islands",
+      "inishmore",
+      "inishmaan",
+      "inisheer",
+      "galway",
+      "rossaveel",
+      "connemara",
+      "doolin",
+      "cliffs of moher",
+      "falésias de moher",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Aran_Island_Ferry_at_Kilronan_Inishmore.jpg/800px-Aran_Island_Ferry_at_Kilronan_Inishmore.jpg",
+      "credito": "Wikimedia Commons — Ferry de passageiros da Aran Island Ferries no Porto de Kilronan na Ilha de Inishmore (Ilhas de Aran, Condado de Galway, Irlanda)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_of_the_Aran_Islands"
+    },
+    "linhas": [
+      {
+        "id": "linha-aran-islands-ferries-galway-rossaveel-kilronan-inishmore",
+        "nome": "Tronco Ano-Inteiro de Connemara e Baía de Galway — Aran Island Ferries (Galway City Docks & Porto de Rossaveel – Porto de Kilronan, Inishmore)",
+        "status": "operacao",
+        "extensao_km": 78.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-doolin-ferry-inishmore-inishmaan-inisheer-cliffs-of-moher",
+        "nome": "Corredor Sul das Ilhas de Aran e Falésias de Moher (Píer de Doolin, Condado de Clare – Inisheer – Inishmaan – Inishmore)",
+        "status": "operacao",
+        "extensao_km": 57.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+    "slug": "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
+    "nome_pt": "Ferries Estuarinos e Insulares do Sudoeste da Irlanda — Shannon Ferry (Killimer–Tarbert), Cross River Ferry de Cork (Cobh–Glenbrook) e Ferries de Baltimore–Cape Clear",
+    "nome_en": "Southwest Ireland Estuarine & Island Ferries — Shannon Ferry (Killimer–Tarbert), Cork Harbour Cross River Ferry (Cobh–Glenbrook) & Baltimore–Cape Clear Ferries",
+    "pais": "Irlanda",
+    "cidade": "Killimer (Condado de Clare) e Tarbert (Condado de Kerry, Estuário do Rio Shannon); Cobh / Carrigaloe e Passage West / Glenbrook (Porto de Cork); Baltimore e Ilhas de Cape Clear (Oileán Chléire) e Sherkin (Condado de Cork, Irlanda)",
+    "uf": "Munster (Co. Clare / Co. Kerry / Co. Cork)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Shannon Ferries Ltd. (MV Shannon Dolphin e MV Shannon Breeze: Killimer–Tarbert), Cross River Ferries Ltd. (MV Carrigaloe e MV Glenbrook no Porto de Cork) & Cape Clear Ferries (Baltimore–Cape Clear / Sherkin)",
+    "inauguracao": "1969 (Inauguração da ponte ro-pax Shannon Ferry entre Clare e Kerry; Cross River Ferry no Porto de Cork em 1993)",
+    "extensao_km": 65.0,
+    "bitola": "Estuário do Rio Shannon (o maior rio da Irlanda), Baía de Cork (Cork Harbour) e Arquipélago de Roaringwater Bay (West Cork)",
+    "eletrificacao": "Ferries ro-pax de convés aberto de embarque rápido (drive-through) MV Shannon Dolphin e MV Shannon Breeze (20 minutos de travessia) e ferries urbanos de Cork Harbour",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 11500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 18 milhões (modernização das rampas hidráulicas de Killimer e Tarbert no Estuário do Shannon e novo ferry rápido para a Ilha de Cape Clear)",
+      "moeda": "EUR",
+      "fonte_id": "shannon-ferry-cork-harbour-gov-ie"
+    },
+    "proximas_entregas": {
+      "pt": "Estudos de propulsão híbrida elétrica para a frota da Shannon Ferry (aproveitando o polo de energia eólica offshore do Estuário do Shannon).",
+      "en": "Hybrid-electric propulsion studies for the Shannon Ferry fleet at the Shannon Estuary renewable energy hub."
+    },
+    "resumo_pt": "No sudoeste da Irlanda (Província de Munster), grandes estuários e ilhas costeiras tornam os ferries ro-pax e de passageiros elos essenciais da malha viária e metropolitana. No imenso Estuário do Rio Shannon (o rio mais longo da Irlanda), a Shannon Ferry opera desde 1969 a travessia ro-pax de 4 km (20 minutos) entre Killimer (Condado de Clare) e Tarbert (Condado de Kerry) com os navios 'Shannon Dolphin' e 'Shannon Breeze', poupando aos veículos e ônibus da rota turística Wild Atlantic Way (entre as Falésias de Moher e o Anel de Kerry / Dingle) um desvio rodoviário de 137 km pelo interior via Limerick. Já na Região Metropolitana de Cork, o Cross River Ferry realiza a travessia contínua de 5 minutos pelo canal do Rio Lee no Porto de Cork entre Carrigaloe (na Great Island / Cobh, junto à linha de trens suburbanos Iarnród Éireann Cork–Cobh) e Glenbrook / Passage West. Mais a sudoeste, em West Cork, os ferries de Baltimore e Schull garantem a conexão diária com a ilha gaélica mais meridional da Irlanda, Cape Clear (Oileán Chléire), e com Sherkin Island.",
+    "resumo_en": "In southwestern Ireland (Munster), major river estuaries and coastal islands make ro-pax and passenger ferries vital links in the regional transport network. Across the mouth of the Shannon Estuary (Ireland's longest river), Shannon Ferry has operated a 20-minute drive-through ro-pax crossing since 1969 between Killimer (County Clare) and Tarbert (County Kerry) aboard MV Shannon Dolphin and MV Shannon Breeze, saving motorists and buses along the Wild Atlantic Way a 137 km detour via Limerick. In Metropolitan Cork Harbour, the Cross River Ferry provides a continuous 5-minute vehicle and passenger shuttle across the River Lee channel between Carrigaloe (on Great Island near Cobh commuter rail stations) and Glenbrook/Passage West, while in West Cork year-round ferries link Baltimore with Ireland's southernmost inhabited Gaeltacht island, Cape Clear (Oileán Chléire), and Sherkin Island.",
+    "lat": 52.6015,
+    "lon": -9.3815,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "shannon-ferry-cork-harbour-gov-ie",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "irlanda",
+      "rio shannon",
+      "shannon ferry",
+      "killimer",
+      "tarbert",
+      "clare",
+      "kerry",
+      "cork",
+      "cobh",
+      "cross river ferry",
+      "glenbrook",
+      "passage west",
+      "baltimore",
+      "cape clear",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Shannon_Dolphin_ferry_at_Tarbert_Kerry_Ireland.jpg/800px-Shannon_Dolphin_ferry_at_Tarbert_Kerry_Ireland.jpg",
+      "credito": "Wikimedia Commons — Ferry ro-pax MV Shannon Dolphin na travessia Killimer–Tarbert no Estuário do Rio Shannon (Irlanda)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Shannon_Ferry"
+    },
+    "linhas": [
+      {
+        "id": "linha-shannon-ferry-estuario-rio-shannon-killimer-clare-tarbert-kerry",
+        "nome": "Ponte Ro-Pax do Estuário do Rio Shannon — Shannon Ferry (Terminal de Killimer, Condado de Clare – Terminal de Tarbert, Condado de Kerry)",
+        "status": "operacao",
+        "extensao_km": 12.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-cork-harbour-cross-river-ferry-cobh-glenbrook-baltimore-cape-clear",
+        "nome": "Travessia Metropolitana do Porto de Cork (Cobh/Carrigaloe – Glenbrook/Passage West) e Ferries Insulares de West Cork (Baltimore – Sherkin – Ilha de Cape Clear)",
+        "status": "operacao",
+        "extensao_km": 53.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca",
+    "slug": "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca",
+    "nome_pt": "Ferries Insulares da Bretanha (Rede BreizhGo) — Penn-ar-Bed (Brest/Le Conquet–Molène–Ouessant) e Compagnie Océane (Lorient–Groix e Quiberon–Belle-Île-en-Mer, França)",
+    "nome_en": "Brittany Island Ferries (BreizhGo Network) — Penn-ar-Bed (Brest/Le Conquet–Molène–Ouessant) & Compagnie Océane (Lorient–Groix & Quiberon–Belle-Île-en-Mer, France)",
+    "pais": "França",
+    "cidade": "Brest, Le Conquet, Île-Molène e Île d'Ouessant (Finistère); Lorient e Île de Groix, Quiberon e Belle-Île-en-Mer (Le Palais), Île d'Houat e Hoëdic (Morbihan, Região da Bretanha, França)",
+    "uf": "Bretagne (Finistère / Morbihan)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Région Bretagne — BreizhGo Maritime / Compagnie Océane (Navios Bangor, Vindilis e Breizh Nevez I: Lorient–Groix e Quiberon–Belle-Île) & Compagnie Penn-ar-Bed (Fromveur II e Enez Eussa III: Brest/Le Conquet–Ouessant)",
+    "inauguracao": "1950 (Organização do serviço público marítimo departamental e regional para as Ilhas do Ponant na Bretanha; entrada em operação do ferry híbrido Breizh Nevez I em 2018)",
+    "extensao_km": 195.0,
+    "bitola": "Mar de Iroise (Brest–Le Conquet–Molène–Ouessant) e Baía de Quiberon / Oceano Atlântico (Lorient–Groix e Quiberon–Belle-Île-en-Mer)",
+    "eletrificacao": "Ferry ro-pax híbrido diesel-elétrico Breizh Nevez I (43,5 m, Lorient–Groix), ferries ro-pax Bangor e Vindilis (Quiberon–Belle-Île) e navios oceânicos Fromveur II e Enez Eussa III no Mar de Iroise",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 14800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 72 milhões (encomenda de dois novos ferries ro-pax de baixa emissão pelo Conselho Regional da Bretanha para as linhas de Belle-Île-en-Mer e Ouessant)",
+      "moeda": "EUR",
+      "fonte_id": "region-bretagne-breizhgo-oceane-penn-ar-bed"
+    },
+    "proximas_entregas": {
+      "pt": "Entrega dos dois novos ferries regionais construídos pelo estaleiro Piriou para renovar as linhas Quiberon–Le Palais (Belle-Île) e Brest/Le Conquet–Ouessant.",
+      "en": "Delivery of two new regional ferries built by Piriou shipyard to renew the Quiberon–Le Palais (Belle-Île) and Brest/Le Conquet–Ouessant routes."
+    },
+    "resumo_pt": "Na costa atlântica da Região da Bretanha (noroeste da França), a rede pública regional 'BreizhGo' mantém ligações marítimas vitais durante o ano inteiro com as famosas 'Îles du Ponant' nos departamentos de Finistère e Morbihan. No extremo oeste da França (Mar de Iroise, em Finistère), a Compagnie Penn-ar-Bed opera os resistentes navios 'Fromveur II' e 'Enez Eussa III' a partir do Porto de Brest e do porto de Le Conquet até o arquipélago de Molène e a lendária ilha de faróis de Ouessant (Ushant, ponto mais ocidental da França metropolitana), além das travessias para a Île de Sein (a partir de Audierne) e a Île de Batz (a partir de Roscoff). Já na costa sul bretã (Morbihan), a Compagnie Océane opera duas das rotas insulares mais movimentadas da França: a partir de Lorient, o ferry ro-pax híbrido 'Breizh Nevez I' cruza em 45 minutos até Port-Tudy na Ilha de Groix; e a partir de Port Maria em Quiberon (integrado ao trem sazonal SNCF 'Tire-Bouchon' vindo de Auray), os ferries ro-pax 'Bangor' e 'Vindilis' conectam o continente em 45 minutos à cidadela histórica de Le Palais em Belle-Île-en-Mer (a maior das ilhas bretãs, com 85 km²), além das ilhas vizinhas sem carros de Houat e Hoëdic.",
+    "resumo_en": "Along the Atlantic coast of Brittany in northwestern France, the regional public transport network 'BreizhGo' operates year-round lifeline ferry services to the Ponant Islands across Finistère and Morbihan. At the westernmost tip of metropolitan France across the Iroise Sea (Finistère), Compagnie Penn-ar-Bed sails 'Fromveur II' and 'Enez Eussa III' from Brest and Le Conquet to Molène Island and the famous lighthouse island of Ouessant (Ushant). Along Brittany's southern coast in Morbihan, Compagnie Océane runs two of France's busiest island ferry corridors: from Lorient, the diesel-electric hybrid ro-pax ferry 'Breizh Nevez I' crosses in 45 minutes to Port-Tudy on Groix Island; and from Port Maria in Quiberon (served by the SNCF 'Tire-Bouchon' rail branch from Auray), ro-pax ferries 'Bangor' and 'Vindilis' sail in 45 minutes to Le Palais on Belle-Île-en-Mer (Brittany's largest island), alongside passenger launches to the car-free islands of Houat and Hoëdic.",
+    "lat": 47.4785,
+    "lon": -3.1515,
+    "zoom_inicial": 7.2,
+    "fontes": [
+      "region-bretagne-breizhgo-oceane-penn-ar-bed",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "frança",
+      "bretanha",
+      "breizhgo",
+      "compagnie océane",
+      "penn-ar-bed",
+      "brest",
+      "le conquet",
+      "ouessant",
+      "molène",
+      "lorient",
+      "île de groix",
+      "quiberon",
+      "belle-île-en-mer",
+      "le palais",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ferry_Bangor_Compagnie_Oceane_Le_Palais_Belle-Ile.jpg/800px-Ferry_Bangor_Compagnie_Oceane_Le_Palais_Belle-Ile.jpg",
+      "credito": "Wikimedia Commons — Ferry ro-pax Bangor da Compagnie Océane (BreizhGo) entrando no porto de Le Palais em Belle-Île-en-Mer (Bretanha, França)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Compagnie_Oc%C3%A9ane"
+    },
+    "linhas": [
+      {
+        "id": "linha-breizhgo-penn-ar-bed-brest-le-conquet-molene-ouessant-finistere",
+        "nome": "Corredor do Mar de Iroise — BreizhGo Penn-ar-Bed (Porto Comercial de Brest – Porto de Le Conquet – Ilha de Molène – Porto de Lampaul, Ilha de Ouessant)",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-breizhgo-compagnie-oceane-lorient-groix-quiberon-belle-ile-morbihan",
+        "nome": "Ferries das Ilhas de Morbihan — BreizhGo Compagnie Océane (Lorient – Ilha de Groix & Quiberon Port Maria – Le Palais, Belle-Île-en-Mer / Houat / Hoëdic)",
+        "status": "operacao",
+        "extensao_km": 100.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
