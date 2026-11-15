@@ -29110,5 +29110,395 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "sistema-aquaviario-represa-billings-aquatico-sp-cantinho-do-ceu-parque-marajoara-sao-paulo-brasil",
+    "slug": "sistema-aquaviario-represa-billings-aquatico-sp-cantinho-do-ceu-parque-marajoara-sao-paulo-brasil",
+    "nome_pt": "Aquático-SP (SPTrans) e Travessias de Balsas da EMAE na Represa Billings (Cantinho do Céu – Parque Marajoara e Ilha do Bororé – Taquacetuba, São Paulo, SP)",
+    "nome_en": "Aquático-SP (SPTrans Water Bus) & EMAE Ferry Crossings on the Billings Reservoir (Cantinho do Céu – Parque Marajoara & Bororé Island – Taquacetuba, São Paulo, Brazil)",
+    "pais": "Brasil",
+    "cidade": "São Paulo (Grajaú / Cantinho do Céu, Pedreira / Parque Marajoara e Ilha do Bororé) e São Bernardo do Campo (Taquacetuba / Riacho Grande)",
+    "uf": "SP",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "SPTrans — São Paulo Transporte S/A (Consórcio Acqua V7 — Aquático-SP) & EMAE — Empresa Metropolitana de Águas e Energia (Travessias de Balsas Bororé e Taquacetuba)",
+    "inauguracao": "2024 (Inauguração comercial do Aquático-SP da SPTrans em maio de 2024; Travessias de Balsas da Represa Billings em operação desde a década de 1950)",
+    "extensao_km": 28.0,
+    "bitola": "Hidrovia urbana metropolitana da Represa Billings na Zona Sul de São Paulo e ABC Paulista",
+    "eletrificacao": "Embarcações urbanas acessíveis Bororé I e II da SPTrans (60 e 120 passageiros, ar-condicionado e Wi-Fi) e balsas ro-pax da EMAE (incluindo balsa movida a energia solar/elétrica na Ilha do Bororé)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 12000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 95 milhões (implantação dos terminais hidroviários de Cantinho do Céu e Parque Marajoara da Prefeitura de São Paulo / SPTrans e novos barcos híbridos/elétricos)",
+      "moeda": "BRL",
+      "fonte_id": "sptrans-aquatico-sp-emae-billings"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão do Aquático-SP para a Represa de Guarapiranga e ampliação da frota de barcos 100% elétricos na Represa Billings.",
+      "en": "Expansion of the Aquático-SP network to the Guarapiranga Reservoir and deployment of all-electric water buses on the Billings Reservoir."
+    },
+    "resumo_pt": "Inaugurado em maio de 2024 pela Prefeitura de São Paulo e operado sob gestão da SPTrans, o Aquático-SP é o primeiro modo hidroviário integrado ao sistema de transporte público da capital paulista e ao cartão Bilhete Único. Cruzando o braço Cocaia/Pedreira da Represa Billings na Zona Sul de São Paulo, a linha liga o Terminal Hidroviário Cantinho do Céu (no distrito do Grajaú, conectado por linhas alimentadoras à Estação Grajaú da Linha 9-Esmeralda dos trens metropolitanos) ao Terminal Parque Marajoara (na Pedreira, com integração para Santo Amaro e Jabaquara) em apenas 17 minutos, beneficiando 385 mil moradores. Na mesma Represa Billings, a EMAE opera gratuitamente 24 horas por dia as duas travessias públicas de balsas ro-pax que conectam o Grajaú à Ilha do Bororé (utilizando embarcação com geração fotovoltaica/elétrica) e à península do Taquacetuba, em São Bernardo do Campo.",
+    "resumo_en": "Launched in May 2024 by the City of São Paulo and managed by SPTrans, Aquático-SP is the first urban water bus system integrated into São Paulo's municipal transit network and the Bilhete Único smartcard. Crossing the Billings Reservoir in the city's southern zone in just 17 minutes, the line connects Cantinho do Céu Terminal (in Grajaú, linked by feeder buses to Line 9-Esmeralda commuter rail) with Parque Marajoara Terminal (in Pedreira). Nearby on the same reservoir, EMAE operates 24-hour public ro-pax ferries linking Grajaú to Bororé Island (including a solar-assisted electric ferry) and to Taquacetuba in São Bernardo do Campo.",
+    "lat": -23.7195,
+    "lon": -46.6625,
+    "zoom_inicial": 11.5,
+    "fontes": [
+      "sptrans-aquatico-sp-emae-billings",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "são paulo",
+      "aquático-sp",
+      "sptrans",
+      "represa billings",
+      "cantinho do céu",
+      "parque marajoara",
+      "grajaú",
+      "ilha do bororé",
+      "taquacetuba",
+      "emae",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Represa_Billings_Borore_Sao_Paulo.jpg/800px-Represa_Billings_Borore_Sao_Paulo.jpg",
+      "credito": "Wikimedia Commons — Travessia hidroviária da Represa Billings (Aquático-SP da SPTrans e Balsa da Ilha do Bororé / Taquacetuba em São Paulo, SP)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Billings_Reservoir"
+    },
+    "linhas": [
+      {
+        "id": "linha-aquatico-sp-sptrans-cantinho-do-ceu-parque-marajoara-billings",
+        "nome": "Linha Hidroviária Aquático-SP — SPTrans (Terminal Cantinho do Céu / Grajaú – Terminal Parque Marajoara / Pedreira)",
+        "status": "operacao",
+        "extensao_km": 10.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-travessias-balsas-emae-ilha-do-borore-taquacetuba-billings",
+        "nome": "Travessias Públicas da Represa Billings — EMAE (Grajaú – Ilha do Bororé & Bororé – Taquacetuba, São Bernardo do Campo)",
+        "status": "operacao",
+        "extensao_km": 18.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "barcas-taxis-maritimos-lagoa-da-tijuca-jardim-oceanico-barra-da-tijuca-sepetiba-itacuruca-rio-de-janeiro-brasil",
+    "slug": "barcas-taxis-maritimos-lagoa-da-tijuca-jardim-oceanico-barra-da-tijuca-sepetiba-itacuruca-rio-de-janeiro-brasil",
+    "nome_pt": "Transporte Hidroviário Lagunar da Barra da Tijuca (Metrô Jardim Oceânico – Ilha da Gigóia – Marapendi) e Travessias da Baía de Sepetiba (Itacuruçá – Jaguanum, RJ)",
+    "nome_en": "Barra da Tijuca Lagoon Water Transit (Jardim Oceânico Metro – Gigóia Island – Marapendi) & Sepetiba Bay Crossings (Itacuruçá – Jaguanum, Rio de Janeiro, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Rio de Janeiro (Barra da Tijuca / Jardim Oceânico, Ilha da Gigóia, Ilha Primeira, Península e Recreio) e Mangaratiba (Itacuruçá e Ilha de Jaguanum)",
+    "uf": "RJ",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Cooperativas de Barcos-Táxi e Balsas do Complexo Lagunar da Barra da Tijuca / Jacarepaguá (SMTR-RJ) & Barcos Regulares da Baía de Sepetiba (Itacuruçá–Ilha de Jaguanum–Ilha de Itacuruçá)",
+    "inauguracao": "1969 (Início das travessias regulares das ilhas da Lagoa da Tijuca e conexão intermodal direta com a Estação Jardim Oceânico da Linha 4 do MetrôRio em 2016)",
+    "extensao_km": 46.0,
+    "bitola": "Complexo Lagunar de Jacarepaguá (Lagoa da Tijuca, Canal de Marapendi e Lagoa de Marapendi) e Baía de Sepetiba (Costa Verde, RJ)",
+    "eletrificacao": "Barcos-táxi lagunares ('chalanas'), balsas motorizadas de condomínios/shopping centers na Lagoa de Marapendi e escunas/lanchas coletivas na Baía de Sepetiba",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 24000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 75 milhões (ordenamento dos decks hidroviários da Lagoa da Tijuca pela Prefeitura do Rio e concessão das novas linhas lagunares integradas ao MetrôRio e BRT Transoeste)",
+      "moeda": "BRL",
+      "fonte_id": "smtr-rj-lagoas-barra-baia-sepetiba"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação de catamarãs elétricos nas linhas troncais do Complexo Lagunar da Barra da Tijuca (Jardim Oceânico – BarraShopping – Parque Olímpico / RioCentro).",
+      "en": "Deployment of electric catamarans on trunk routes across the Barra da Tijuca Lagoon Complex (Jardim Oceânico – BarraShopping – Olympic Park)."
+    },
+    "resumo_pt": "Na Zona Oeste da cidade do Rio de Janeiro, o Complexo Lagunar da Barra da Tijuca e de Jacarepaguá (formado pelas lagoas da Tijuca, Camorim, Jacarepaguá e Marapendi) opera uma intensa malha hidroviária urbana diretamente integrada ao transporte sobre trilhos. A poucos passos da saída 'Lagoa' da Estação Jardim Oceânico/Barra da Tijuca (terminal da Linha 4 do MetrôRio e do BRT Transoeste), os píeres da Lagoa da Tijuca despacham ininterruptamente barcos-táxi ('chalanas') para a Ilha da Gigóia (onde vivem mais de 3 mil moradores sem acesso rodoviário), Ilha Primeira, Ilha dos Pescadores e Quebra-Mar, enquanto na Lagoa de Marapendi balsas regulares conectam a Península, os grandes condomínios da Avenida Lúcio Costa e a Praia da Reserva. Mais a oeste, na Baía de Sepetiba (em Mangaratiba, antigo terminal do ramal ferroviário de Mangaratiba da Central do Brasil), lanchas e barcos coletivos partem do píer de Itacuruçá para abastecer diariamente as comunidades insulares da Ilha de Itacuruçá e da Ilha de Jaguanum.",
+    "resumo_en": "In western Rio de Janeiro, the Barra da Tijuca Lagoon Complex sustains a high-frequency urban water transit network directly integrated with the rail system. Just steps from the 'Lagoa' exit of Jardim Oceânico Station (terminus of MetrôRio Line 4 and the Transoeste BRT), lagoon boats ('chalanas') depart continuously for car-free Gigóia Island, Ilha Primeira and the Barra beachfront, while ferry shuttles cross Marapendi Lagoon linking Peninsula and coastal neighborhoods. Further west on Sepetiba Bay (Mangaratiba), regular passenger boats depart from Itacuruçá Pier to serve the island communities of Ilha de Itacuruçá and Ilha de Jaguanum.",
+    "lat": -23.0055,
+    "lon": -43.3095,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "smtr-rj-lagoas-barra-baia-sepetiba",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "rio de janeiro",
+      "barra da tijuca",
+      "jardim oceânico",
+      "ilha da gigóia",
+      "lagoa da tijuca",
+      "lagoa de marapendi",
+      "baía de sepetiba",
+      "itacuruçá",
+      "ilha de jaguanum",
+      "mangaratiba",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ilha_da_Gigoia_Barra_da_Tijuca_barcos.jpg/800px-Ilha_da_Gigoia_Barra_da_Tijuca_barcos.jpg",
+      "credito": "Wikimedia Commons — Barcos-táxi na travessia Metrô Jardim Oceânico–Ilha da Gigóia (Barra da Tijuca) e na Baía de Sepetiba (Rio de Janeiro, RJ)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ilha_da_Gig%C3%B3ia"
+    },
+    "linhas": [
+      {
+        "id": "linha-hidroviaria-lagunar-barra-da-tijuca-jardim-oceanico-ilha-da-gigoia-marapendi",
+        "nome": "Rede Hidroviária Lagunar da Barra da Tijuca (Píer Metrô Jardim Oceânico – Ilha da Gigóia – Ilha Primeira – Península / Marapendi)",
+        "status": "operacao",
+        "extensao_km": 18.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-travessias-baia-de-sepetiba-itacuruca-ilha-de-itacuruca-jaguanum",
+        "nome": "Travessias Insulares da Baía de Sepetiba (Píer de Itacuruçá – Ilha de Itacuruçá – Ilha de Jaguanum – Mangaratiba)",
+        "status": "operacao",
+        "extensao_km": 28.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-hidroviarias-estuario-sergipe-aracaju-barra-dos-coqueiros-indias-santa-luzia-mangue-seco-se-ba-brasil",
+    "slug": "travessias-hidroviarias-estuario-sergipe-aracaju-barra-dos-coqueiros-indias-santa-luzia-mangue-seco-se-ba-brasil",
+    "nome_pt": "Tototós do Rio Sergipe (Aracaju–Barra dos Coqueiros) e Travessias Hidroviárias do Estuário do Rio Real / Mangue Seco (Estância e Indiaroba, SE – Jandaíra, BA)",
+    "nome_en": "Sergipe River Tototó Boats (Aracaju–Barra dos Coqueiros) & Real River Estuary Crossings to Mangue Seco (Estância & Indiaroba, Sergipe – Jandaíra, Bahia, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Aracaju, Barra dos Coqueiros, São Cristóvão, Estância (Porto do Mato / Crasto) e Indiaroba (Sergipe); Jandaíra / Mangue Seco (Bahia)",
+    "uf": "SE / BA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Associação dos Canoeiros de Tototós da Barra dos Coqueiros e Aracaju (Patrimônio Cultural de Sergipe) & Cooperativas de Lanchas e Barcos da Bacia do Rio Real / Piauí (ANTAQ / CPSE)",
+    "inauguracao": "1930 (Início da navegação motorizada das embarcações tradicionais 'Tototós' entre os Mercados de Aracaju e a Barra dos Coqueiros no Rio Sergipe)",
+    "extensao_km": 85.0,
+    "bitola": "Estuário do Rio Sergipe (Região Metropolitana de Aracaju) e Complexo Estuarino Santa Luzia do Itanhy–Indiaroba–Mangue Seco (divisa SE/BA)",
+    "eletrificacao": "Embarcações tradicionais de madeira 'Tototós' (patrimônio cultural sergipano), catamarãs e lanchas rápidas na travessia interestadual Sergipe–Bahia",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 8500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 32 milhões (requalificação dos atracadouros hidroviários dos Mercados de Aracaju, Barra dos Coqueiros, Porto do Mato, Crasto e Terra Caída pelo Governo de Sergipe)",
+      "moeda": "BRL",
+      "fonte_id": "sedurb-se-antaq-tototos-mangue-seco"
+    },
+    "proximas_entregas": {
+      "pt": "Novos terminais hidroviários no Rio Vaza-Barris (Mosqueiro–Caueira) e modernização dos píeres interestaduais de Terra Caída (SE) e Mangue Seco (BA).",
+      "en": "New passenger waterway piers on the Vaza-Barris River (Mosqueiro–Caueira) and modernization of the interstate terminals at Terra Caída (SE) and Mangue Seco (BA)."
+    },
+    "resumo_pt": "Em Sergipe, duas redes hidroviárias unem mobilidade cotidiana, integração interestadual e patrimônio histórico. Na Região Metropolitana de Aracaju, as icônicas embarcações 'Tototós' — batizadas pelo som característico de seus motores de centro e reconhecidas por lei como Patrimônio Cultural Imaterial de Sergipe — continuam realizando diariamente a travessia rápida de 10 minutos pelo Rio Sergipe entre o píer dos Mercados Centrais de Aracaju (próximo à antiga estação ferroviária da Leste Brasileiro) e o centro da cidade insular de Barra dos Coqueiros. Já no litoral sul sergipano, na divisa com a Bahia, o amplo estuário dos rios Real, Piauí e Fundo funciona como uma verdadeira hidrovia regional: a partir dos píeres sergipanos de Porto do Mato (Estância), Crasto (Santa Luzia do Itanhy) e Terra Caída / Pontal (Indiaroba), lanchas e barcos cruzam diariamente a fronteira fluvial até a península baiana de Mangue Seco (Jandaíra, BA), cujo acesso principal é feito exclusivamente por barco.",
+    "resumo_en": "In the state of Sergipe, two traditional and modern waterway networks sustain metropolitan and interstate mobility. In Greater Aracaju, the iconic wooden 'Tototó' boats — recognized as Intangible Cultural Heritage of Sergipe — perform continuous 10-minute crossings across the Sergipe River between Aracaju's Central Markets and the island municipality of Barra dos Coqueiros. On the southern border with Bahia, the wide estuary of the Real and Piauí rivers serves as the main transport artery linking the Sergipe piers of Porto do Mato (Estância), Crasto and Terra Caída (Indiaroba) across the state line to the car-free peninsula village of Mangue Seco (Bahia).",
+    "lat": -10.9095,
+    "lon": -37.0465,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "sedurb-se-antaq-tototos-mangue-seco",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "sergipe",
+      "bahia",
+      "aracaju",
+      "barra dos coqueiros",
+      "tototó",
+      "rio sergipe",
+      "mangue seco",
+      "indiaroba",
+      "terra caída",
+      "porto do mato",
+      "rio real",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tototo_Rio_Sergipe_Aracaju.jpg/800px-Tototo_Rio_Sergipe_Aracaju.jpg",
+      "credito": "Wikimedia Commons — Embarcações Tototós na travessia Aracaju–Barra dos Coqueiros (Rio Sergipe) e lanchas do Rio Real para Mangue Seco (SE/BA)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Aracaju"
+    },
+    "linhas": [
+      {
+        "id": "linha-tototos-rio-sergipe-mercados-aracaju-barra-dos-coqueiros",
+        "nome": "Travessia Metropolitana dos Tototós — Rio Sergipe (Píer dos Mercados de Aracaju – Atracadouro da Barra dos Coqueiros)",
+        "status": "operacao",
+        "extensao_km": 12.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-hidrovia-estuario-rio-real-porto-do-mato-terra-caida-mangue-seco",
+        "nome": "Hidrovia Interestadual do Estuário do Rio Real (Crasto / Porto do Mato – Terra Caída, SE – Píer de Mangue Seco, BA)",
+        "status": "operacao",
+        "extensao_km": 73.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
+    "slug": "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
+    "nome_pt": "Balsas do Estuário do Rio Paraíba (Cabedelo VLT – Costinha / Lucena e Forte Velho, PB) e Travessias Costeiras de Pernambuco (Itamaracá e Tamandaré, PE)",
+    "nome_en": "Paraíba River Estuary Ferries (Cabedelo LRT – Costinha / Lucena & Forte Velho, Paraíba) & Pernambuco Coastal Crossings (Itamaracá & Tamandaré, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Cabedelo, Lucena (Costinha) e Santa Rita (Forte Velho, Paraíba); Ilha de Itamaracá, Igarassu e Tamandaré / Sirinhaém (Ilha de Santo Aleixo, Pernambuco)",
+    "uf": "PB / PE",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Nordeste Navegações (Ferry-Boat Cabedelo–Costinha/Lucena e Barcas Ribeira–Forte Velho, PB) & Associações de Barqueiros do Canal de Santa Cruz e Litoral Sul de Pernambuco",
+    "inauguracao": "1978 (Inauguração da travessia de balsas ro-pax Cabedelo–Costinha/Lucena na foz do Rio Paraíba, integrada ao terminal ferroviário de Cabedelo da CBTU João Pessoa)",
+    "extensao_km": 92.0,
+    "bitola": "Estuário do Rio Paraíba do Norte (Região Metropolitana de João Pessoa, PB) e Canal de Santa Cruz / Litoral Sul de Pernambuco",
+    "eletrificacao": "Balsas ro-pax de veículos e passageiros (Ferry-Boat de Cabedelo–Costinha), barcas fluviais (Forte Velho) e lanchas/catamarãs costeiros em Pernambuco",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 11500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 48 milhões (reforma dos terminais de ferry-boat de Cabedelo e Costinha/Lucena pelo DER-PB e requalificação dos píeres do Canal de Santa Cruz e Tamandaré em PE)",
+      "moeda": "BRL",
+      "fonte_id": "der-pb-cbtu-cabedelo-lucena-pe"
+    },
+    "proximas_entregas": {
+      "pt": "Integração física e tarifária ampliada entre a Estação Cabedelo do VLT de João Pessoa (CBTU) e o Terminal do Ferry-Boat para Costinha / Lucena.",
+      "en": "Enhanced physical and fare integration between the Cabedelo LRT Station (CBTU João Pessoa) and the Cabedelo–Costinha/Lucena Ferry Terminal."
+    },
+    "resumo_pt": "Na Região Metropolitana de João Pessoa (Paraíba), o amplo estuário do Rio Paraíba do Norte conta com uma das integrações ferro-hidroviárias mais clássicas do Nordeste brasileiro: o Terminal do Ferry-Boat de Cabedelo fica localizado exatamente ao lado do Porto de Cabedelo e da Estação Cabedelo, ponto final do VLT da CBTU João Pessoa. De lá, as balsas ro-pax cruzam os 2,5 km da foz do Rio Paraíba em 15 minutos até o distrito de Costinha, no município de Lucena (poupando mais de 75 km de contorno rodoviário pela BR-101), além das barcas de passageiros que ligam Jacaré/Ribeira ao histórico povoado de Forte Velho, em Santa Rita. Mais ao sul, no litoral de Pernambuco, destacam-se as travessias hidroviárias do Canal de Santa Cruz (ligando a Ilha de Itamaracá e o Forte Orange à Coroa do Avião e Maria Farinha) e a navegação costeira entre Tamandaré, Praia dos Carneiros (Rio Formoso/Arikindá) e a Ilha de Santo Aleixo.",
+    "resumo_en": "In Greater João Pessoa (Paraíba), the mouth of the Paraíba River hosts one of Northeast Brazil's classic rail-to-ferry interchanges: the Cabedelo Ferry Terminal stands directly alongside the Port of Cabedelo and the Cabedelo Station of the CBTU João Pessoa Light Rail (VLT). From there, ro-pax ferries cross the 2.5 km estuary in 15 minutes to Costinha in the municipality of Lucena (saving a 75 km road detour), complemented by river boats to historic Forte Velho. To the south along the coast of Pernambuco, regular boat crossings link Itamaracá Island across the Santa Cruz Channel to Coroa do Avião and Maria Farinha, as well as Tamandaré and Carneiros to Santo Aleixo Island.",
+    "lat": -6.9745,
+    "lon": -34.8395,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "der-pb-cbtu-cabedelo-lucena-pe",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "paraíba",
+      "pernambuco",
+      "cabedelo",
+      "lucena",
+      "costinha",
+      "forte velho",
+      "joão pessoa",
+      "rio paraíba",
+      "ilha de itamaracá",
+      "coroa do avião",
+      "tamandaré",
+      "carneiros",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Porto_de_Cabedelo_Paraiba_Ferry.jpg/800px-Porto_de_Cabedelo_Paraiba_Ferry.jpg",
+      "credito": "Wikimedia Commons — Travessia de balsa Cabedelo–Costinha/Lucena na foz do Rio Paraíba (Paraíba) e travessias costeiras de Itamaracá e Tamandaré (Pernambuco)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Cabedelo"
+    },
+    "linhas": [
+      {
+        "id": "linha-ferry-boat-estuario-rio-paraiba-cabedelo-costinha-lucena-forte-velho",
+        "nome": "Travessias do Estuário do Rio Paraíba (Terminal Ferry-Boat Cabedelo / VLT CBTU – Costinha / Lucena & Ribeira – Forte Velho, PB)",
+        "status": "operacao",
+        "extensao_km": 22.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-travessias-costeiras-pernambuco-itamaraca-coroa-do-aviao-tamandare-carneiros",
+        "nome": "Travessias Costeiras de Pernambuco (Ilha de Itamaracá – Coroa do Avião – Maria Farinha & Tamandaré / Carneiros – Ilha de Santo Aleixo, PE)",
+        "status": "operacao",
+        "extensao_km": 70.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina",
+    "slug": "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina",
+    "nome_pt": "Travessias Internacionais e Interestaduais de Balsas do Alto Rio Uruguai (Itapiranga–Barra do Guarita, Porto Mauá–Alba Posse e Porto Xavier–San Javier, SC/RS e Argentina)",
+    "nome_en": "Upper Uruguay River International & Interstate Ro-Pax Ferries (Itapiranga–Barra do Guarita, Porto Mauá–Alba Posse & Porto Xavier–San Javier, SC/RS, Brazil & Misiones, Argentina)",
+    "pais": "Brasil",
+    "cidade": "Itapiranga (Santa Catarina); Barra do Guarita, Tiradentes do Sul (Porto Soberbo), Porto Mauá, Porto Vera Cruz e Porto Xavier (Rio Grande do Sul); El Soberbio, Alba Posse, Panambí e San Javier (Misiones, Argentina)",
+    "uf": "RS / SC / Misiones",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Navegação Internacional e Interestadual do Alto Rio Uruguai (Balsas Ro-Pax Porto Mauá–Alba Posse, Porto Xavier–San Javier, Porto Soberbo–El Soberbio e Itapiranga–Barra do Guarita — ANTAQ / PNA)",
+    "inauguracao": "1955 (Regularização das travessias binacionais de balsas Brasil–Argentina no Rio Uruguai e da travessia interestadual SC–RS em Itapiranga)",
+    "extensao_km": 310.0,
+    "bitola": "Calha superior e média do Rio Uruguai na divisa interestadual Santa Catarina–Rio Grande do Sul e na fronteira internacional Brasil–Argentina",
+    "eletrificacao": "Conjuntos rebocador-balsa ro-pax para caminhões, ônibus, automóveis e passageiros e lanchas aduaneiras internacionais",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 9200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 65 milhões (modernização das rampas alfandegadas da Receita Federal / DNIT nos portos de Porto Xavier, Porto Mauá e Porto Vera Cruz e nas travessias SC–RS)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-rfb-pna-balsas-rio-uruguai"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação dos pátios aduaneiros e hidroviários nas travessias binacionais de Porto Mauá–Alba Posse e Porto Soberbo–El Soberbio.",
+      "en": "Expansion of customs and ferry terminal facilities at the binational crossings of Porto Mauá–Alba Posse and Porto Soberbo–El Soberbio."
+    },
+    "resumo_pt": "Ao longo de mais de 300 km do Alto Rio Uruguai — primeiro na divisa entre Santa Catarina e o Rio Grande do Sul, e em seguida na fronteira internacional entre o Rio Grande do Sul e a província argentina de Misiones —, uma rede estratégica de balsas ro-pax garante o trânsito diário de passageiros, veículos e comércio internacional sob regulação da ANTAQ e da Prefectura Naval Argentina (PNA). No trecho interestadual SC–RS, destacam-se as movimentadas travessias de balsas 24h entre Itapiranga (SC) e Barra do Guarita (RS, na BR-163), além de Mondaí–Vicente Dutra e Caxambu do Sul–Alpestre. Já no trecho internacional Brasil–Argentina, operam os quatro portos alfandegados de balsas binacionais que conectam o noroeste gaúcho à Argentina: Tiradentes do Sul / Porto Soberbo (RS) – El Soberbio (AR), Porto Mauá (RS) – Alba Posse (AR), Porto Vera Cruz (RS) – Panambí (AR) e Porto Xavier (RS) – San Javier (AR).",
+    "resumo_en": "Along more than 300 km of the Upper Uruguay River — first along the interstate border between Santa Catarina and Rio Grande do Sul, and then along the international frontier between Brazil and Argentina's Misiones province — a vital network of ro-pax ferries carries daily passenger, vehicle and cross-border freight traffic overseen by ANTAQ and the Argentine Naval Prefecture (PNA). Key crossings include the 24-hour interstate ferry between Itapiranga (SC) and Barra do Guarita (RS), alongside four customs-cleared international ferries linking Brazil and Argentina: Porto Soberbo–El Soberbio, Porto Mauá–Alba Posse, Porto Vera Cruz–Panambí and Porto Xavier–San Javier.",
+    "lat": -27.5755,
+    "lon": -54.6685,
+    "zoom_inicial": 7.2,
+    "fontes": [
+      "antaq-rfb-pna-balsas-rio-uruguai",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "argentina",
+      "rio grande do sul",
+      "santa catarina",
+      "rio uruguai",
+      "itapiranga",
+      "barra do guarita",
+      "porto mauá",
+      "alba posse",
+      "porto xavier",
+      "san javier",
+      "porto soberbo",
+      "el soberbio",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Balsa_Porto_Maua_Alba_Posse_Rio_Uruguai.jpg/800px-Balsa_Porto_Maua_Alba_Posse_Rio_Uruguai.jpg",
+      "credito": "Wikimedia Commons — Balsa internacional no Rio Uruguai entre Porto Mauá (RS, Brasil) e Alba Posse (Misiones, Argentina) e em Itapiranga (SC)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Uruguay_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-travessias-interestaduais-alto-uruguai-itapiranga-barra-do-guarita-porto-soberbo",
+        "nome": "Eixo Interestadual SC–RS e Fronteira Norte (Itapiranga, SC – Barra do Guarita, RS & Porto Soberbo, RS – El Soberbio, AR)",
+        "status": "operacao",
+        "extensao_km": 125.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier",
+        "nome": "Eixo Internacional Brasil–Argentina no Rio Uruguai (Porto Mauá – Alba Posse, Porto Vera Cruz – Panambí & Porto Xavier – San Javier)",
+        "status": "operacao",
+        "extensao_km": 185.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

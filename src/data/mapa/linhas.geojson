@@ -42903,6 +42903,344 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-aquatico-sp-sptrans-cantinho-do-ceu-parque-marajoara-billings",
+        "nome": "Linha Hidroviária Aquático-SP — SPTrans (Terminal Cantinho do Céu / Grajaú – Terminal Parque Marajoara / Pedreira)",
+        "sistema_id": "sistema-aquaviario-represa-billings-aquatico-sp-cantinho-do-ceu-parque-marajoara-sao-paulo-brasil",
+        "sistema_nome": "Aquático-SP (SPTrans) e Travessias de Balsas da EMAE na Represa Billings (Cantinho do Céu – Parque Marajoara e Ilha do Bororé – Taquacetuba, São Paulo, SP)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 10.0,
+        "bitola": "Hidrovia urbana metropolitana da Represa Billings (Aquático-SP / SPTrans)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6625,
+            -23.7435
+          ],
+          [
+            -46.6545,
+            -23.7195
+          ],
+          [
+            -46.6585,
+            -23.6945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-balsas-emae-ilha-do-borore-taquacetuba-billings",
+        "nome": "Travessias Públicas da Represa Billings — EMAE (Grajaú – Ilha do Bororé & Bororé – Taquacetuba, São Bernardo do Campo)",
+        "sistema_id": "sistema-aquaviario-represa-billings-aquatico-sp-cantinho-do-ceu-parque-marajoara-sao-paulo-brasil",
+        "sistema_nome": "Aquático-SP (SPTrans) e Travessias de Balsas da EMAE na Represa Billings (Cantinho do Céu – Parque Marajoara e Ilha do Bororé – Taquacetuba, São Paulo, SP)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 18.0,
+        "bitola": "Travessias públicas de balsas ro-pax da Represa Billings (EMAE)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6825,
+            -23.7655
+          ],
+          [
+            -46.6695,
+            -23.7725
+          ],
+          [
+            -46.6215,
+            -23.8025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidroviaria-lagunar-barra-da-tijuca-jardim-oceanico-ilha-da-gigoia-marapendi",
+        "nome": "Rede Hidroviária Lagunar da Barra da Tijuca (Píer Metrô Jardim Oceânico – Ilha da Gigóia – Ilha Primeira – Península / Marapendi)",
+        "sistema_id": "barcas-taxis-maritimos-lagoa-da-tijuca-jardim-oceanico-barra-da-tijuca-sepetiba-itacuruca-rio-de-janeiro-brasil",
+        "sistema_nome": "Transporte Hidroviário Lagunar da Barra da Tijuca (Metrô Jardim Oceânico – Ilha da Gigóia – Marapendi) e Travessias da Baía de Sepetiba (Itacuruçá – Jaguanum, RJ)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 18.0,
+        "bitola": "Hidrovia lagunar urbana integrada à Linha 4 do MetrôRio (Barra da Tijuca)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.3095,
+            -23.0055
+          ],
+          [
+            -43.3145,
+            -23.0025
+          ],
+          [
+            -43.3525,
+            -22.9985
+          ],
+          [
+            -43.3885,
+            -23.0085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-baia-de-sepetiba-itacuruca-ilha-de-itacuruca-jaguanum",
+        "nome": "Travessias Insulares da Baía de Sepetiba (Píer de Itacuruçá – Ilha de Itacuruçá – Ilha de Jaguanum – Mangaratiba)",
+        "sistema_id": "barcas-taxis-maritimos-lagoa-da-tijuca-jardim-oceanico-barra-da-tijuca-sepetiba-itacuruca-rio-de-janeiro-brasil",
+        "sistema_nome": "Transporte Hidroviário Lagunar da Barra da Tijuca (Metrô Jardim Oceânico – Ilha da Gigóia – Marapendi) e Travessias da Baía de Sepetiba (Itacuruçá – Jaguanum, RJ)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 28.0,
+        "bitola": "Hidrovia insular costeira da Baía de Sepetiba (Itacuruçá / Mangaratiba)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.8895,
+            -22.9315
+          ],
+          [
+            -43.8825,
+            -22.9485
+          ],
+          [
+            -43.9285,
+            -23.0015
+          ],
+          [
+            -44.0415,
+            -22.9595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-tototos-rio-sergipe-mercados-aracaju-barra-dos-coqueiros",
+        "nome": "Travessia Metropolitana dos Tototós — Rio Sergipe (Píer dos Mercados de Aracaju – Atracadouro da Barra dos Coqueiros)",
+        "sistema_id": "travessias-hidroviarias-estuario-sergipe-aracaju-barra-dos-coqueiros-indias-santa-luzia-mangue-seco-se-ba-brasil",
+        "sistema_nome": "Tototós do Rio Sergipe (Aracaju–Barra dos Coqueiros) e Travessias Hidroviárias do Estuário do Rio Real / Mangue Seco (Estância e Indiaroba, SE – Jandaíra, BA)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 12.0,
+        "bitola": "Travessia urbana do Estuário do Rio Sergipe (Tototós Patrimônio Cultural)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -37.0485,
+            -10.9095
+          ],
+          [
+            -37.0385,
+            -10.9055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-estuario-rio-real-porto-do-mato-terra-caida-mangue-seco",
+        "nome": "Hidrovia Interestadual do Estuário do Rio Real (Crasto / Porto do Mato – Terra Caída, SE – Píer de Mangue Seco, BA)",
+        "sistema_id": "travessias-hidroviarias-estuario-sergipe-aracaju-barra-dos-coqueiros-indias-santa-luzia-mangue-seco-se-ba-brasil",
+        "sistema_nome": "Tototós do Rio Sergipe (Aracaju–Barra dos Coqueiros) e Travessias Hidroviárias do Estuário do Rio Real / Mangue Seco (Estância e Indiaroba, SE – Jandaíra, BA)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 73.0,
+        "bitola": "Hidrovia estuarina interestadual Sergipe–Bahia (Rio Real / Piauí)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -37.3815,
+            -11.3985
+          ],
+          [
+            -37.3925,
+            -11.4985
+          ],
+          [
+            -37.3685,
+            -11.4585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ferry-boat-estuario-rio-paraiba-cabedelo-costinha-lucena-forte-velho",
+        "nome": "Travessias do Estuário do Rio Paraíba (Terminal Ferry-Boat Cabedelo / VLT CBTU – Costinha / Lucena & Ribeira – Forte Velho, PB)",
+        "sistema_id": "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
+        "sistema_nome": "Balsas do Estuário do Rio Paraíba (Cabedelo VLT – Costinha / Lucena e Forte Velho, PB) e Travessias Costeiras de Pernambuco (Itamaracá e Tamandaré, PE)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 22.0,
+        "bitola": "Hidrovia estuarina integrada ao VLT da CBTU João Pessoa (Foz do Rio Paraíba)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -34.8395,
+            -6.9745
+          ],
+          [
+            -34.8625,
+            -6.9655
+          ],
+          [
+            -34.8925,
+            -7.0285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-costeiras-pernambuco-itamaraca-coroa-do-aviao-tamandare-carneiros",
+        "nome": "Travessias Costeiras de Pernambuco (Ilha de Itamaracá – Coroa do Avião – Maria Farinha & Tamandaré / Carneiros – Ilha de Santo Aleixo, PE)",
+        "sistema_id": "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
+        "sistema_nome": "Balsas do Estuário do Rio Paraíba (Cabedelo VLT – Costinha / Lucena e Forte Velho, PB) e Travessias Costeiras de Pernambuco (Itamaracá e Tamandaré, PE)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 70.0,
+        "bitola": "Hidrovia costeira de Pernambuco (Canal de Santa Cruz e Litoral Sul)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -34.8285,
+            -7.8095
+          ],
+          [
+            -34.8355,
+            -7.8225
+          ],
+          [
+            -35.0915,
+            -8.7055
+          ],
+          [
+            -35.0125,
+            -8.6125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-interestaduais-alto-uruguai-itapiranga-barra-do-guarita-porto-soberbo",
+        "nome": "Eixo Interestadual SC–RS e Fronteira Norte (Itapiranga, SC – Barra do Guarita, RS & Porto Soberbo, RS – El Soberbio, AR)",
+        "sistema_id": "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina",
+        "sistema_nome": "Travessias Internacionais e Interestaduais de Balsas do Alto Rio Uruguai (Itapiranga–Barra do Guarita, Porto Mauá–Alba Posse e Porto Xavier–San Javier, SC/RS e Argentina)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 125.0,
+        "bitola": "Travessias de balsas ro-pax do Alto Rio Uruguai (ANTAQ)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.7125,
+            -27.1695
+          ],
+          [
+            -53.7085,
+            -27.1825
+          ],
+          [
+            -54.1985,
+            -27.2985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier",
+        "nome": "Eixo Internacional Brasil–Argentina no Rio Uruguai (Porto Mauá – Alba Posse, Porto Vera Cruz – Panambí & Porto Xavier – San Javier)",
+        "sistema_id": "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina",
+        "sistema_nome": "Travessias Internacionais e Interestaduais de Balsas do Alto Rio Uruguai (Itapiranga–Barra do Guarita, Porto Mauá–Alba Posse e Porto Xavier–San Javier, SC/RS e Argentina)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 185.0,
+        "bitola": "Travessias internacionais de balsas Brasil–Argentina (ANTAQ / PNA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.6685,
+            -27.5755
+          ],
+          [
+            -54.9015,
+            -27.7355
+          ],
+          [
+            -55.1385,
+            -27.9055
+          ]
+        ]
+      }
     }
   ]
 }
