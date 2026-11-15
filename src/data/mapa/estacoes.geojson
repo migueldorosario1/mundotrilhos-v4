@@ -54633,6 +54633,581 @@
           34.842
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-luanda-terminal-passageiros-secil-ao",
+        "nome": "Terminal de Passageiros do Porto de Luanda — SECIL Marítima (Rota Luanda–Soyo–Cabinda)",
+        "sistema_id": "secil-maritima-macon-kapossoca-luanda-mussulo-soyo-cabinda-hidrovia-rio-kwanza-angola",
+        "linha_id": "linha-secil-maritima-luanda-soyo-enclave-de-cabinda-ao",
+        "pais": "Angola",
+        "cidade": "Luanda (Porto de Luanda e Kapossoca) / Ilha do Mussulo / Soyo / Cabinda / Muxima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo de passageiros da Baía de Luanda, base dos catamarãs de alta velocidade da SECIL Marítima para o Soyo e Cabinda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2425,
+          -8.7985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-fluvial-maritimo-soyo-zaire-ao",
+        "nome": "Terminal Fluvial-Marítimo do Soyo — Foz do Rio Congo / Zaire (Angola)",
+        "sistema_id": "secil-maritima-macon-kapossoca-luanda-mussulo-soyo-cabinda-hidrovia-rio-kwanza-angola",
+        "linha_id": "linha-secil-maritima-luanda-soyo-enclave-de-cabinda-ao",
+        "pais": "Angola",
+        "cidade": "Luanda (Porto de Luanda e Kapossoca) / Ilha do Mussulo / Soyo / Cabinda / Muxima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto de passageiros do Soyo na margem sul da foz do Rio Congo, escala estratégica entre Luanda e o Enclave de Cabinda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.352,
+          -6.135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-maritimo-passageiros-cabinda-ao",
+        "nome": "Terminal Marítimo de Passageiros de Cabinda — Quebra-Mar e Píer Ro-Pax (Angola)",
+        "sistema_id": "secil-maritima-macon-kapossoca-luanda-mussulo-soyo-cabinda-hidrovia-rio-kwanza-angola",
+        "linha_id": "linha-secil-maritima-luanda-soyo-enclave-de-cabinda-ao",
+        "pais": "Angola",
+        "cidade": "Luanda (Porto de Luanda e Kapossoca) / Ilha do Mussulo / Soyo / Cabinda / Muxima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Moderno terminal marítimo inaugurado em Cabinda para atracação de catamarãs de alta velocidade e ferries Ro-Pax ligando o enclave ao restante de Angola."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.191,
+          -5.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-kapossoca-samba-mussulo-luanda-ao",
+        "nome": "Terminal Marítimo de Passageiros do Kapossoca (Samba) — Travessia da Ilha do Mussulo",
+        "sistema_id": "secil-maritima-macon-kapossoca-luanda-mussulo-soyo-cabinda-hidrovia-rio-kwanza-angola",
+        "linha_id": "linha-kapossoca-baia-de-luanda-ilha-do-mussulo-rio-kwanza-muxima-ao",
+        "pais": "Angola",
+        "cidade": "Luanda (Porto de Luanda e Kapossoca) / Ilha do Mussulo / Soyo / Cabinda / Muxima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal terminal de barcas e táxis aquáticos do sul de Luanda (Samba) para a Península do Mussulo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.182,
+          -8.878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muxima-barra-do-kwanza-hidrovia-ao",
+        "nome": "Píeres da Barra do Kwanza e Santuário da Muxima — Hidrovia do Rio Kwanza",
+        "sistema_id": "secil-maritima-macon-kapossoca-luanda-mussulo-soyo-cabinda-hidrovia-rio-kwanza-angola",
+        "linha_id": "linha-kapossoca-baia-de-luanda-ilha-do-mussulo-rio-kwanza-muxima-ao",
+        "pais": "Angola",
+        "cidade": "Luanda (Porto de Luanda e Kapossoca) / Ilha do Mussulo / Soyo / Cabinda / Muxima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Corredor fluvial do baixo Rio Kwanza (o maior rio inteiramente angolano), conectando a Barra do Kwanza à vila histórica e santuário da Muxima."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.958,
+          -9.521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-monkey-bay-chipoka-lake-malawi-ports-mw",
+        "nome": "Monkey Bay & Chipoka Rail-Lake Ports — Base Sul do Navio MV Ilala (Lago Maláui)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-lago-niassa-monkey-bay-likoma-nkhata-bay-cobue-bazaruto-quirimbas-malaui-mocambique",
+        "linha_id": "linha-mv-ilala-lago-niassa-monkey-bay-chipoka-likoma-cobue-nkhata-bay-chilumba",
+        "pais": "Maláui e Moçambique",
+        "cidade": "Monkey Bay / Chipoka / Ilha de Likoma / Nkhata Bay / Chilumba / Cobué e Metangula / Vilankulo (Bazaruto) / Pemba (Ibo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Estaleiro e porto-base da Malawi Shipping Company em Monkey Bay e o terminal intermodal ferroviário-lacustre de Chipoka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.918,
+          -14.082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-likoma-island-cobue-metangula-lago-niassa-mw-mz",
+        "nome": "Ilha de Likoma (Maláui) & Portos de Cobué e Metangula (Moçambique) — Lago Niassa Central",
+        "sistema_id": "malawi-shipping-company-mv-ilala-lago-niassa-monkey-bay-likoma-nkhata-bay-cobue-bazaruto-quirimbas-malaui-mocambique",
+        "linha_id": "linha-mv-ilala-lago-niassa-monkey-bay-chipoka-likoma-cobue-nkhata-bay-chilumba",
+        "pais": "Maláui e Moçambique",
+        "cidade": "Monkey Bay / Chipoka / Ilha de Likoma / Nkhata Bay / Chilumba / Cobué e Metangula / Vilankulo (Bazaruto) / Pemba (Ibo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Escala central do lendário navio MV Ilala na Ilha de Likoma (famosa pela Catedral Anglicana de São Pedro) e na margem oriental moçambicana de Cobué e Metangula."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.735,
+          -12.062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nkhata-bay-chilumba-north-lake-malawi-mw",
+        "nome": "Nkhata Bay & Chilumba Ports — Norte do Lago Maláui / Lago Niassa",
+        "sistema_id": "malawi-shipping-company-mv-ilala-lago-niassa-monkey-bay-likoma-nkhata-bay-cobue-bazaruto-quirimbas-malaui-mocambique",
+        "linha_id": "linha-mv-ilala-lago-niassa-monkey-bay-chipoka-likoma-cobue-nkhata-bay-chilumba",
+        "pais": "Maláui e Moçambique",
+        "cidade": "Monkey Bay / Chipoka / Ilha de Likoma / Nkhata Bay / Chilumba / Cobué e Metangula / Vilankulo (Bazaruto) / Pemba (Ibo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais portos lacustres da Região Norte do Maláui, ligando Nkhata Bay, Usisya, Ruarwe e Chilumba às ilhas do lago."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.295,
+          -11.608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vilankulo-arquipelago-de-bazaruto-ferry-mz",
+        "nome": "Vilankulo & Ilhas de Bazaruto / Benguerra — Parque Nacional do Arquipélago de Bazaruto (Moçambique)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-lago-niassa-monkey-bay-likoma-nkhata-bay-cobue-bazaruto-quirimbas-malaui-mocambique",
+        "linha_id": "linha-arquipelagos-bazaruto-vilankulo-quirimbas-pemba-ilha-do-ibo-mz",
+        "pais": "Maláui e Moçambique",
+        "cidade": "Monkey Bay / Chipoka / Ilha de Likoma / Nkhata Bay / Chilumba / Cobué e Metangula / Vilankulo (Bazaruto) / Pemba (Ibo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais costeiros e insulares que conectam Vilankulo e Inhassoro às ilhas de Bazaruto, Benguerra e Santa Carolina no Canal de Moçambique."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.325,
+          -21.998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pemba-ilha-do-ibo-arquipelago-quirimbas-mz",
+        "nome": "Porto de Pemba & Ilha do Ibo — Travessias do Arquipélago das Quirimbas (Cabo Delgado)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-lago-niassa-monkey-bay-likoma-nkhata-bay-cobue-bazaruto-quirimbas-malaui-mocambique",
+        "linha_id": "linha-arquipelagos-bazaruto-vilankulo-quirimbas-pemba-ilha-do-ibo-mz",
+        "pais": "Maláui e Moçambique",
+        "cidade": "Monkey Bay / Chipoka / Ilha de Likoma / Nkhata Bay / Chilumba / Cobué e Metangula / Vilankulo (Bazaruto) / Pemba (Ibo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ligação marítima costeira de Cabo Delgado entre a Baía de Pemba, Tandanhangue e a histórica Ilha do Ibo no Parque Nacional das Quirimbas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.605,
+          -12.352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-fluvial-de-toamasina-tamatave-pangalanes-mg",
+        "nome": "Port Fluvial de Toamasina (Tamatave) — Marco Zero do Canal dos Pangalanes (Madagascar)",
+        "sistema_id": "canal-des-pangalanes-toamasina-mahanoro-mananjary-bac-de-katsepy-mahajanga-tsiribihina-morondava-madagascar",
+        "linha_id": "linha-canal-des-pangalanes-toamasina-ampitabe-vatomandry-mahanoro-mananjary-mg",
+        "pais": "Madagascar",
+        "cidade": "Toamasina (Tamatave) / Vatomandry / Mahanoro / Mananjary / Mahajanga (Katsepy) / Miandrivazo / Belo-sur-Tsiribihina / Morondava",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal fluvial de Toamasina (Tamatave), ponto de partida norte da hidrovia abrigada de 650 km do Canal dos Pangalanes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.402,
+          -18.158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-akaninny-nofy-vatomandry-mahanoro-pangalanes-mg",
+        "nome": "Akanin'ny Nofy (Lago Ampitabe), Vatomandry & Mahanoro — Portos Centrais do Canal dos Pangalanes",
+        "sistema_id": "canal-des-pangalanes-toamasina-mahanoro-mananjary-bac-de-katsepy-mahajanga-tsiribihina-morondava-madagascar",
+        "linha_id": "linha-canal-des-pangalanes-toamasina-ampitabe-vatomandry-mahanoro-mananjary-mg",
+        "pais": "Madagascar",
+        "cidade": "Toamasina (Tamatave) / Vatomandry / Mahanoro / Mananjary / Mahajanga (Katsepy) / Miandrivazo / Belo-sur-Tsiribihina / Morondava",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos fluviais e lacustres ao longo do Canal dos Pangalanes, vitais para o escoamento agrícola e o transporte de passageiros na costa leste malgaxe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.802,
+          -19.902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mananjary-port-fluvial-canal-des-pangalanes-mg",
+        "nome": "Porto Fluvial de Mananjary — Terminal Sul do Canal dos Pangalanes",
+        "sistema_id": "canal-des-pangalanes-toamasina-mahanoro-mananjary-bac-de-katsepy-mahajanga-tsiribihina-morondava-madagascar",
+        "linha_id": "linha-canal-des-pangalanes-toamasina-ampitabe-vatomandry-mahanoro-mananjary-mg",
+        "pais": "Madagascar",
+        "cidade": "Toamasina (Tamatave) / Vatomandry / Mahanoro / Mananjary / Mahajanga (Katsepy) / Miandrivazo / Belo-sur-Tsiribihina / Morondava",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Cidade portuária de Mananjary, no extremo sul navegável do Canal dos Pangalanes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.345,
+          -21.228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mahajanga-katsepy-bombetoka-bay-ferry-mg",
+        "nome": "Mahajanga & Katsepy Ferry Terminals (Bac Baobab) — Travessia da Baía de Bombetoka",
+        "sistema_id": "canal-des-pangalanes-toamasina-mahanoro-mananjary-bac-de-katsepy-mahajanga-tsiribihina-morondava-madagascar",
+        "linha_id": "linha-mahajanga-katsepy-bombetoka-rio-tsiribihina-miandrivazo-morondava-mg",
+        "pais": "Madagascar",
+        "cidade": "Toamasina (Tamatave) / Vatomandry / Mahanoro / Mananjary / Mahajanga (Katsepy) / Miandrivazo / Belo-sur-Tsiribihina / Morondava",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia Ro-Pax estratégica da foz do Rio Betsiboka (Baía de Bombetoka), unindo a cidade portuária de Mahajanga à península de Katsepy e Mitsinjo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.316,
+          -15.724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-belo-sur-tsiribihina-miandrivazo-morondava-mg",
+        "nome": "Miandrivazo, Belo-sur-Tsiribihina & Morondava — Hidrovia do Rio Tsiribihina",
+        "sistema_id": "canal-des-pangalanes-toamasina-mahanoro-mananjary-bac-de-katsepy-mahajanga-tsiribihina-morondava-madagascar",
+        "linha_id": "linha-mahajanga-katsepy-bombetoka-rio-tsiribihina-miandrivazo-morondava-mg",
+        "pais": "Madagascar",
+        "cidade": "Toamasina (Tamatave) / Vatomandry / Mahanoro / Mananjary / Mahajanga (Katsepy) / Miandrivazo / Belo-sur-Tsiribihina / Morondava",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Eixo fluvial do oeste de Madagascar ao longo do Rio Tsiribihina e travessias de balsa na rota da famosa Avenida dos Baobás até Morondava."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.542,
+          -19.698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-magogoni-kivukoni-ferry-terminal-dar-es-salaam-tz",
+        "nome": "Magogoni (Kivukoni) Ferry Terminal — Centro de Dar es Salaam (TEMESA)",
+        "sistema_id": "temesa-kigamboni-ferry-dar-es-salaam-zanfast-azam-zanzibar-pemba-tanga-mafia-island-tanzania",
+        "linha_id": "linha-temesa-magogoni-kigamboni-dar-es-salaam-nyamisati-mafia-island-tz",
+        "pais": "Tanzânia",
+        "cidade": "Dar es Salaam (Magogoni–Kigamboni) / Zanzibar / Ilha de Pemba (Mkoani e Wete) / Tanga / Ilha de Mafia (Kilindoni)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal central da TEMESA ao lado do mercado de peixes de Kivukoni em Dar es Salaam, onde mais de 60.000 passageiros embarcam diariamente."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.298,
+          -6.819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kigamboni-ferry-terminal-dar-es-salaam-tz",
+        "nome": "Kigamboni Ferry Terminal — Península de Kigamboni (Dar es Salaam)",
+        "sistema_id": "temesa-kigamboni-ferry-dar-es-salaam-zanfast-azam-zanzibar-pemba-tanga-mafia-island-tanzania",
+        "linha_id": "linha-temesa-magogoni-kigamboni-dar-es-salaam-nyamisati-mafia-island-tz",
+        "pais": "Tanzânia",
+        "cidade": "Dar es Salaam (Magogoni–Kigamboni) / Zanzibar / Ilha de Pemba (Mkoani e Wete) / Tanga / Ilha de Mafia (Kilindoni)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal sul da travessia Ro-Pax de 24 horas do canal de entrada do Porto de Dar es Salaam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.304,
+          -6.824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nyamisati-kilindoni-mafia-island-ferry-ports-tz",
+        "nome": "Portos de Nyamisati (Delta do Rufiji) & Kilindoni (Ilha de Mafia) — TEMESA MV Kilindoni",
+        "sistema_id": "temesa-kigamboni-ferry-dar-es-salaam-zanfast-azam-zanzibar-pemba-tanga-mafia-island-tanzania",
+        "linha_id": "linha-temesa-magogoni-kigamboni-dar-es-salaam-nyamisati-mafia-island-tz",
+        "pais": "Tanzânia",
+        "cidade": "Dar es Salaam (Magogoni–Kigamboni) / Zanzibar / Ilha de Pemba (Mkoani e Wete) / Tanga / Ilha de Mafia (Kilindoni)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais Ro-Pax que conectam o continente tanzaniano em Nyamisati a Kilindoni, capital do arquipélago e Parque Marinho da Ilha de Mafia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.662,
+          -7.915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mkoani-wete-ferry-ports-pemba-island-tz",
+        "nome": "Porto de Mkoani & Wete — Ilha de Pemba (Arquipélago de Zanzibar)",
+        "sistema_id": "temesa-kigamboni-ferry-dar-es-salaam-zanfast-azam-zanzibar-pemba-tanga-mafia-island-tanzania",
+        "linha_id": "linha-canal-de-pemba-zanzibar-mkoani-pemba-porto-de-tanga-tz",
+        "pais": "Tanzânia",
+        "cidade": "Dar es Salaam (Magogoni–Kigamboni) / Zanzibar / Ilha de Pemba (Mkoani e Wete) / Tanga / Ilha de Mafia (Kilindoni)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porta marítima da Ilha Verde de Pemba (Mkoani), atendida pelos catamarãs de alta velocidade vindos de Unguja (Zanzibar) e Tanga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.648,
+          -5.358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tanga-passenger-ferry-port-tz",
+        "nome": "Porto de Tanga — Terminal Norte da Costa da Tanzânia (Conexão Pemba e Zanzibar)",
+        "sistema_id": "temesa-kigamboni-ferry-dar-es-salaam-zanfast-azam-zanzibar-pemba-tanga-mafia-island-tanzania",
+        "linha_id": "linha-canal-de-pemba-zanzibar-mkoani-pemba-porto-de-tanga-tz",
+        "pais": "Tanzânia",
+        "cidade": "Dar es Salaam (Magogoni–Kigamboni) / Zanzibar / Ilha de Pemba (Mkoani e Wete) / Tanga / Ilha de Mafia (Kilindoni)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Histórico porto oceânico do norte da Tanzânia e terminal ferroviário da Tanga Line, conectado por barcos a Pemba e Zanzibar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.108,
+          -5.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ganvie-abomey-calavi-lagoa-nokoue-bj",
+        "nome": "Embarcadouro de Abomey-Calavi & Cidade Lacustre de Ganvié — Lagoa Nokoué (Benim)",
+        "sistema_id": "lagoa-nokoue-ganvie-cotonou-porto-novo-benim-hidrovia-rio-niger-onitsha-lokoja-mopti-timbuktu-conacri-ilhas-loos-africa-ocidental",
+        "linha_id": "linha-lagoa-nokoue-abomey-calavi-ganvie-cotonou-porto-novo-calabar-oron-bj-ng",
+        "pais": "Benim, Nigéria, Mali e Guiné",
+        "cidade": "Cotonou / Abomey-Calavi / Ganvié / Porto-Novo / Onitsha / Lokoja / Calabar / Mopti / Timbuktu / Conacri (Ilhas de Loos)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Cais fluvio-lagunar de Abomey-Calavi e os canais centrais de Ganvié, a maior cidade lacustre sobre palafitas da África, na Lagoa Nokoué."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4167,
+          6.4667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cotonou-porto-novo-lagoon-terminals-bj",
+        "nome": "Terminais Fluvio-Lagunares de Cotonou e Porto-Novo — Corredor Lagunar do Benim",
+        "sistema_id": "lagoa-nokoue-ganvie-cotonou-porto-novo-benim-hidrovia-rio-niger-onitsha-lokoja-mopti-timbuktu-conacri-ilhas-loos-africa-ocidental",
+        "linha_id": "linha-lagoa-nokoue-abomey-calavi-ganvie-cotonou-porto-novo-calabar-oron-bj-ng",
+        "pais": "Benim, Nigéria, Mali e Guiné",
+        "cidade": "Cotonou / Abomey-Calavi / Ganvié / Porto-Novo / Onitsha / Lokoja / Calabar / Mopti / Timbuktu / Conacri (Ilhas de Loos)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Estações hidroviárias que unem a capital econômica Cotonou à capital oficial Porto-Novo através da Lagoa Nokoué e do Canal de Totché."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.625,
+          6.485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-calabar-oron-cross-river-ferry-terminals-ng",
+        "nome": "Terminais de Calabar e Oron — Travessia do Estuário do Cross River (Nigéria)",
+        "sistema_id": "lagoa-nokoue-ganvie-cotonou-porto-novo-benim-hidrovia-rio-niger-onitsha-lokoja-mopti-timbuktu-conacri-ilhas-loos-africa-ocidental",
+        "linha_id": "linha-lagoa-nokoue-abomey-calavi-ganvie-cotonou-porto-novo-calabar-oron-bj-ng",
+        "pais": "Benim, Nigéria, Mali e Guiné",
+        "cidade": "Cotonou / Abomey-Calavi / Ganvié / Porto-Novo / Onitsha / Lokoja / Calabar / Mopti / Timbuktu / Conacri (Ilhas de Loos)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Tradicional rota hidroviária do sudeste da Nigéria entre Calabar (Cross River State) e Oron (Akwa Ibom State)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.318,
+          4.962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-onitsha-lokoja-river-ports-niwa-nigeria-ng",
+        "nome": "Portos Fluviais de Onitsha e Lokoja (Confluência Níger–Benue) — NIWA Nigéria",
+        "sistema_id": "lagoa-nokoue-ganvie-cotonou-porto-novo-benim-hidrovia-rio-niger-onitsha-lokoja-mopti-timbuktu-conacri-ilhas-loos-africa-ocidental",
+        "linha_id": "linha-hidrovia-rio-niger-lokoja-onitsha-mopti-timbuktu-conacri-ilhas-loos",
+        "pais": "Benim, Nigéria, Mali e Guiné",
+        "cidade": "Cotonou / Abomey-Calavi / Ganvié / Porto-Novo / Onitsha / Lokoja / Calabar / Mopti / Timbuktu / Conacri (Ilhas de Loos)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais portos interiores da Autoridade Nacional de Hidrovias Interiores (NIWA) no baixo Rio Níger, em Onitsha (Anambra) e na confluência com o Rio Benue em Lokoja."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775,
+          6.148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-boulbinet-sandervalia-conakry-loos-islands-gn",
+        "nome": "Porto de Boulbinet / Sandervalia (Conacri) & Ilhas de Loos (Kassa e Room) — Guiné",
+        "sistema_id": "lagoa-nokoue-ganvie-cotonou-porto-novo-benim-hidrovia-rio-niger-onitsha-lokoja-mopti-timbuktu-conacri-ilhas-loos-africa-ocidental",
+        "linha_id": "linha-hidrovia-rio-niger-lokoja-onitsha-mopti-timbuktu-conacri-ilhas-loos",
+        "pais": "Benim, Nigéria, Mali e Guiné",
+        "cidade": "Cotonou / Abomey-Calavi / Ganvié / Porto-Novo / Onitsha / Lokoja / Calabar / Mopti / Timbuktu / Conacri (Ilhas de Loos)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Embarcadouros na ponta da península de Kaloum em Conacri que operam a travessia diária de barcas para as Ilhas de Loos (Kassa, Tamara e Room)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.712,
+          9.508
+        ]
+      }
     }
   ]
 }

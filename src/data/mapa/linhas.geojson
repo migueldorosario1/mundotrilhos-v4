@@ -57752,6 +57752,434 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-secil-maritima-luanda-soyo-enclave-de-cabinda-ao",
+        "nome": "Cabotagem Norte SECIL Marítima: Terminal de Passageiros do Porto de Luanda ↔ Porto do Soyo (Zaire) ↔ Terminal Marítimo de Cabinda",
+        "sistema_id": "secil-maritima-macon-kapossoca-luanda-mussulo-soyo-cabinda-hidrovia-rio-kwanza-angola",
+        "sistema_nome": "SECIL Marítima e Terminal do Kapossoca — Catamarãs Luanda–Soyo–Cabinda, Barcas da Ilha do Mussulo e Hidrovia do Rio Kwanza (Angola)",
+        "pais": "Angola",
+        "cidade": "Luanda (Porto de Luanda e Kapossoca) / Ilha do Mussulo / Soyo / Cabinda / Muxima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SECIL Marítima (Serviço de Cabotagem de Passageiros de Angola) / Instituto Marítimo e Portuário de Angola (IMPA — Terminal do Kapossoca)",
+        "extensao_km": 680,
+        "bitola": "Catamarãs Costeiros de Alta Velocidade (Luanda–Soyo–Cabinda), Barcas Urbanas do Mussulo e Navegação Fluvial do Baixo Kwanza",
+        "eletrificacao": "Catamarãs de Alta Velocidade Diesel-Waterjet e Embarcações Ro-Pax Costeiras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2425,
+            -8.7985
+          ],
+          [
+            12.352,
+            -6.135
+          ],
+          [
+            12.191,
+            -5.545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-kapossoca-baia-de-luanda-ilha-do-mussulo-rio-kwanza-muxima-ao",
+        "nome": "Baía do Mussulo e Hidrovia do Rio Kwanza: Terminal do Kapossoca (Luanda) ↔ Península do Mussulo e Barra do Kwanza ↔ Muxima",
+        "sistema_id": "secil-maritima-macon-kapossoca-luanda-mussulo-soyo-cabinda-hidrovia-rio-kwanza-angola",
+        "sistema_nome": "SECIL Marítima e Terminal do Kapossoca — Catamarãs Luanda–Soyo–Cabinda, Barcas da Ilha do Mussulo e Hidrovia do Rio Kwanza (Angola)",
+        "pais": "Angola",
+        "cidade": "Luanda (Porto de Luanda e Kapossoca) / Ilha do Mussulo / Soyo / Cabinda / Muxima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SECIL Marítima (Serviço de Cabotagem de Passageiros de Angola) / Instituto Marítimo e Portuário de Angola (IMPA — Terminal do Kapossoca)",
+        "extensao_km": 300,
+        "bitola": "Catamarãs Costeiros de Alta Velocidade (Luanda–Soyo–Cabinda), Barcas Urbanas do Mussulo e Navegação Fluvial do Baixo Kwanza",
+        "eletrificacao": "Catamarãs de Alta Velocidade Diesel-Waterjet e Embarcações Ro-Pax Costeiras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.182,
+            -8.878
+          ],
+          [
+            13.145,
+            -8.912
+          ],
+          [
+            13.152,
+            -9.345
+          ],
+          [
+            13.958,
+            -9.521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mv-ilala-lago-niassa-monkey-bay-chipoka-likoma-cobue-nkhata-bay-chilumba",
+        "nome": "Hidrovia do Lago Maláui / Lago Niassa (MV Ilala & MV Chilembwe): Monkey Bay ↔ Chipoka ↔ Ilha de Likoma ↔ Cobué (Moçambique) ↔ Nkhata Bay ↔ Chilumba",
+        "sistema_id": "malawi-shipping-company-mv-ilala-lago-niassa-monkey-bay-likoma-nkhata-bay-cobue-bazaruto-quirimbas-malaui-mocambique",
+        "sistema_nome": "Malawi Shipping Company (MV Ilala e MV Chilembwe no Lago Niassa/Maláui: Monkey Bay–Likoma–Cobué–Chilumba) e Travessias de Bazaruto e Quirimbas (Maláui e Moçambique)",
+        "pais": "Maláui e Moçambique",
+        "cidade": "Monkey Bay / Chipoka / Ilha de Likoma / Nkhata Bay / Chilumba / Cobué e Metangula / Vilankulo (Bazaruto) / Pemba (Ibo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Malawi Shipping Company (Mota-Engil — MV Ilala & MV Chilembwe) / Transmarítima & Navegação Costeira de Inhambane e Cabo Delgado",
+        "extensao_km": 820,
+        "bitola": "Navios Lacustres Mistos do Grande Vale do Rift (Lago Maláui/Niassa) e Barcas Costeiras do Canal de Moçambique",
+        "eletrificacao": "Propulsão Diesel Marítima (MV Ilala e MV Chilembwe)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.918,
+            -14.082
+          ],
+          [
+            34.515,
+            -13.988
+          ],
+          [
+            34.735,
+            -12.062
+          ],
+          [
+            34.765,
+            -12.138
+          ],
+          [
+            34.295,
+            -11.608
+          ],
+          [
+            34.252,
+            -10.428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-arquipelagos-bazaruto-vilankulo-quirimbas-pemba-ilha-do-ibo-mz",
+        "nome": "Travessias Insulares de Moçambique: Vilankulo ↔ Arquipélago de Bazaruto (Benguerra / Santa Carolina) e Pemba ↔ Ilha do Ibo (Arquipélago das Quirimbas)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-lago-niassa-monkey-bay-likoma-nkhata-bay-cobue-bazaruto-quirimbas-malaui-mocambique",
+        "sistema_nome": "Malawi Shipping Company (MV Ilala e MV Chilembwe no Lago Niassa/Maláui: Monkey Bay–Likoma–Cobué–Chilumba) e Travessias de Bazaruto e Quirimbas (Maláui e Moçambique)",
+        "pais": "Maláui e Moçambique",
+        "cidade": "Monkey Bay / Chipoka / Ilha de Likoma / Nkhata Bay / Chilumba / Cobué e Metangula / Vilankulo (Bazaruto) / Pemba (Ibo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Malawi Shipping Company (Mota-Engil — MV Ilala & MV Chilembwe) / Transmarítima & Navegação Costeira de Inhambane e Cabo Delgado",
+        "extensao_km": 520,
+        "bitola": "Navios Lacustres Mistos do Grande Vale do Rift (Lago Maláui/Niassa) e Barcas Costeiras do Canal de Moçambique",
+        "eletrificacao": "Propulsão Diesel Marítima (MV Ilala e MV Chilembwe)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.325,
+            -21.998
+          ],
+          [
+            35.462,
+            -21.865
+          ],
+          [
+            40.518,
+            -12.968
+          ],
+          [
+            40.605,
+            -12.352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-des-pangalanes-toamasina-ampitabe-vatomandry-mahanoro-mananjary-mg",
+        "nome": "Hidrovia do Canal dos Pangalanes (Costa Leste): Porto Fluvial de Toamasina (Tamatave) ↔ Lago Ampitabe ↔ Vatomandry ↔ Mahanoro ↔ Mananjary",
+        "sistema_id": "canal-des-pangalanes-toamasina-mahanoro-mananjary-bac-de-katsepy-mahajanga-tsiribihina-morondava-madagascar",
+        "sistema_nome": "Hidrovia do Canal dos Pangalanes (Toamasina–Mahanoro–Mananjary), Bac de Katsepy (Mahajanga) e Hidrovia do Rio Tsiribihina (Madagascar)",
+        "pais": "Madagascar",
+        "cidade": "Toamasina (Tamatave) / Vatomandry / Mahanoro / Mananjary / Mahajanga (Katsepy) / Miandrivazo / Belo-sur-Tsiribihina / Morondava",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Agence Portuaire, Maritime et Fluviale de Madagascar (APMF) / Coopératives Fluviales du Canal des Pangalanes / Bac Baobab (Mahajanga–Katsepy)",
+        "extensao_km": 680,
+        "bitola": "Canal Costeiro Interior de 650 km (Canal des Pangalanes), Ferry Ro-Pax Estuarino (Mahajanga–Katsepy) e Balsas do Rio Tsiribihina",
+        "eletrificacao": "Barcas Fluviais e Balsas Ro-Pax a Diesel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.402,
+            -18.158
+          ],
+          [
+            49.252,
+            -18.612
+          ],
+          [
+            48.978,
+            -19.332
+          ],
+          [
+            48.802,
+            -19.902
+          ],
+          [
+            48.345,
+            -21.228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mahajanga-katsepy-bombetoka-rio-tsiribihina-miandrivazo-morondava-mg",
+        "nome": "Costa Oeste: Ferry da Baía de Bombetoka (Mahajanga ↔ Katsepy) e Hidrovia do Rio Tsiribihina (Miandrivazo ↔ Belo-sur-Tsiribihina ↔ Morondava)",
+        "sistema_id": "canal-des-pangalanes-toamasina-mahanoro-mananjary-bac-de-katsepy-mahajanga-tsiribihina-morondava-madagascar",
+        "sistema_nome": "Hidrovia do Canal dos Pangalanes (Toamasina–Mahanoro–Mananjary), Bac de Katsepy (Mahajanga) e Hidrovia do Rio Tsiribihina (Madagascar)",
+        "pais": "Madagascar",
+        "cidade": "Toamasina (Tamatave) / Vatomandry / Mahanoro / Mananjary / Mahajanga (Katsepy) / Miandrivazo / Belo-sur-Tsiribihina / Morondava",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Agence Portuaire, Maritime et Fluviale de Madagascar (APMF) / Coopératives Fluviales du Canal des Pangalanes / Bac Baobab (Mahajanga–Katsepy)",
+        "extensao_km": 470,
+        "bitola": "Canal Costeiro Interior de 650 km (Canal des Pangalanes), Ferry Ro-Pax Estuarino (Mahajanga–Katsepy) e Balsas do Rio Tsiribihina",
+        "eletrificacao": "Barcas Fluviais e Balsas Ro-Pax a Diesel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.316,
+            -15.724
+          ],
+          [
+            46.242,
+            -15.768
+          ],
+          [
+            45.452,
+            -19.528
+          ],
+          [
+            44.542,
+            -19.698
+          ],
+          [
+            44.278,
+            -20.288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-temesa-magogoni-kigamboni-dar-es-salaam-nyamisati-mafia-island-tz",
+        "nome": "TEMESA Dar es Salaam (Magogoni ↔ Kigamboni) e Travessia do Canal de Mafia (Porto de Nyamisati ↔ Kilindoni, Ilha de Mafia)",
+        "sistema_id": "temesa-kigamboni-ferry-dar-es-salaam-zanfast-azam-zanzibar-pemba-tanga-mafia-island-tanzania",
+        "sistema_nome": "TEMESA Kigamboni Ferry (Dar es Salaam), Travessia da Ilha de Mafia (Nyamisati–Kilindoni) e Catamarãs Zanzibar–Ilha de Pemba–Tanga (Tanzânia)",
+        "pais": "Tanzânia",
+        "cidade": "Dar es Salaam (Magogoni–Kigamboni) / Zanzibar / Ilha de Pemba (Mkoani e Wete) / Tanga / Ilha de Mafia (Kilindoni)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "TEMESA (Tanzania Electrical, Mechanical and Electronics Services Agency — MV Magogoni, MV Kigamboni, MV Kazi & MV Kilindoni) / Azam Marine & ZanFast Ferries",
+        "extensao_km": 190,
+        "bitola": "Ferries Ro-Pax de Grande Capacidade (Magogoni–Kigamboni e Ilha de Mafia) e Catamarãs de Alta Velocidade do Canal de Pemba",
+        "eletrificacao": "Ferries Ro-Pax Diesel-Elétricos Anfíbios e Catamarãs Rápidos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.298,
+            -6.819
+          ],
+          [
+            39.304,
+            -6.824
+          ],
+          [
+            39.292,
+            -7.802
+          ],
+          [
+            39.662,
+            -7.915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-de-pemba-zanzibar-mkoani-pemba-porto-de-tanga-tz",
+        "nome": "Corredor do Arquipélago de Zanzibar e Canal de Pemba: Stone Town (Unguja) ↔ Mkoani / Wete (Ilha de Pemba) ↔ Porto de Tanga",
+        "sistema_id": "temesa-kigamboni-ferry-dar-es-salaam-zanfast-azam-zanzibar-pemba-tanga-mafia-island-tanzania",
+        "sistema_nome": "TEMESA Kigamboni Ferry (Dar es Salaam), Travessia da Ilha de Mafia (Nyamisati–Kilindoni) e Catamarãs Zanzibar–Ilha de Pemba–Tanga (Tanzânia)",
+        "pais": "Tanzânia",
+        "cidade": "Dar es Salaam (Magogoni–Kigamboni) / Zanzibar / Ilha de Pemba (Mkoani e Wete) / Tanga / Ilha de Mafia (Kilindoni)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "TEMESA (Tanzania Electrical, Mechanical and Electronics Services Agency — MV Magogoni, MV Kigamboni, MV Kazi & MV Kilindoni) / Azam Marine & ZanFast Ferries",
+        "extensao_km": 350,
+        "bitola": "Ferries Ro-Pax de Grande Capacidade (Magogoni–Kigamboni e Ilha de Mafia) e Catamarãs de Alta Velocidade do Canal de Pemba",
+        "eletrificacao": "Ferries Ro-Pax Diesel-Elétricos Anfíbios e Catamarãs Rápidos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.189,
+            -6.161
+          ],
+          [
+            39.648,
+            -5.358
+          ],
+          [
+            39.722,
+            -5.056
+          ],
+          [
+            39.108,
+            -5.068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lagoa-nokoue-abomey-calavi-ganvie-cotonou-porto-novo-calabar-oron-bj-ng",
+        "nome": "Hidrovia Fluvio-Lagunar da Lagoa Nokoué (Abomey-Calavi ↔ Cidade Lacustre de Ganvié ↔ Cotonou ↔ Porto-Novo, Benim) e Ferry Calabar ↔ Oron (Nigéria)",
+        "sistema_id": "lagoa-nokoue-ganvie-cotonou-porto-novo-benim-hidrovia-rio-niger-onitsha-lokoja-mopti-timbuktu-conacri-ilhas-loos-africa-ocidental",
+        "sistema_nome": "Hidrovia Lagunar de Ganvié e Lagoa Nokoué (Benim), Hidrovia do Rio Níger (Onitsha–Lokoja e Mopti–Timbuktu) e Ferries das Ilhas de Loos (Conacri, Guiné)",
+        "pais": "Benim, Nigéria, Mali e Guiné",
+        "cidade": "Cotonou / Abomey-Calavi / Ganvié / Porto-Novo / Onitsha / Lokoja / Calabar / Mopti / Timbuktu / Conacri (Ilhas de Loos)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Société des Infrastructures Routières et de l'Aménagement du Territoire (SIRAT — Navettes Fluvio-Lagunaires du Bénin) / NIWA (National Inland Waterways Authority Nigeria) / COMANAV Mali / Sandervalia Ferry (Conacri)",
+        "extensao_km": 450,
+        "bitola": "Ônibus Fluvio-Lagunares (Lagoa Nokoué/Ganvié), Barcas Fluviais da Bacia do Rio Níger e Ferries Costeiros de Conacri",
+        "eletrificacao": "Barcas Fluvio-Lagunares Modernas de Baixo Calado e Ferries Diesel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.362,
+            6.445
+          ],
+          [
+            2.4167,
+            6.4667
+          ],
+          [
+            2.435,
+            6.368
+          ],
+          [
+            2.625,
+            6.485
+          ],
+          [
+            8.318,
+            4.962
+          ],
+          [
+            8.238,
+            4.825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-niger-lokoja-onitsha-mopti-timbuktu-conacri-ilhas-loos",
+        "nome": "Hidrovia do Rio Níger (Lokoja ↔ Onitsha na Nigéria e Mopti ↔ Timbuktu no Mali) e Travessia de Conacri ↔ Ilhas de Loos (Kassa e Room, Guiné)",
+        "sistema_id": "lagoa-nokoue-ganvie-cotonou-porto-novo-benim-hidrovia-rio-niger-onitsha-lokoja-mopti-timbuktu-conacri-ilhas-loos-africa-ocidental",
+        "sistema_nome": "Hidrovia Lagunar de Ganvié e Lagoa Nokoué (Benim), Hidrovia do Rio Níger (Onitsha–Lokoja e Mopti–Timbuktu) e Ferries das Ilhas de Loos (Conacri, Guiné)",
+        "pais": "Benim, Nigéria, Mali e Guiné",
+        "cidade": "Cotonou / Abomey-Calavi / Ganvié / Porto-Novo / Onitsha / Lokoja / Calabar / Mopti / Timbuktu / Conacri (Ilhas de Loos)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Société des Infrastructures Routières et de l'Aménagement du Territoire (SIRAT — Navettes Fluvio-Lagunaires du Bénin) / NIWA (National Inland Waterways Authority Nigeria) / COMANAV Mali / Sandervalia Ferry (Conacri)",
+        "extensao_km": 1800,
+        "bitola": "Ônibus Fluvio-Lagunares (Lagoa Nokoué/Ganvié), Barcas Fluviais da Bacia do Rio Níger e Ferries Costeiros de Conacri",
+        "eletrificacao": "Barcas Fluvio-Lagunares Modernas de Baixo Calado e Ferries Diesel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -13.712,
+            9.508
+          ],
+          [
+            -13.752,
+            9.475
+          ],
+          [
+            -4.198,
+            14.495
+          ],
+          [
+            -3.025,
+            16.668
+          ],
+          [
+            6.742,
+            7.802
+          ],
+          [
+            6.775,
+            6.148
+          ]
+        ]
+      }
     }
   ]
 }
