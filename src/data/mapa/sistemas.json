@@ -27193,5 +27193,384 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+    "slug": "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+    "nome_pt": "Ferries Costeiros e Internacionais da Coreia do Sul (Mokpo/Wando/Yeosu–Ilha de Jeju, Incheon–Ilhas do Mar Amarelo e Busan–Fukuoka)",
+    "nome_en": "South Korea Coastal & International Ferries (Mokpo/Wando/Yeosu–Jeju Island, Incheon–Yellow Sea Islands & Busan–Fukuoka)",
+    "pais": "Coreia do Sul",
+    "cidade": "Mokpo, Wando, Yeosu, Cidade de Jeju, Incheon e Busan (Coreia do Sul); Fukuoka (Japão)",
+    "uf": "Jeollanam-do / Jeju / Incheon / Busan",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "SeaWorld Express Ferry (Queen Jenuvia / Queen Mary 2), Hanil Express (Blue NaNa), Korea Express Ferry (Incheon) & Camellia Line / JR Kyushu Beetle (Busan)",
+    "inauguracao": "1905 (Corredor ferroviário-marítimo Busan–Shimonoseki/Fukuoka no Estreito da Coreia e modernização dos cruise ferries para a Ilha de Jeju)",
+    "extensao_km": 580.0,
+    "bitola": "Hidrovia marítima do Estreito de Jeju, Arquipélago de Dadohae, Mar Amarelo (Incheon) e Estreito da Coreia (Busan–Fukuoka)",
+    "eletrificacao": "Superferries ro-pax de luxo de última geração (Queen Jenuvia I e II, 26.000 toneladas), catamarãs rápidos no Mar Amarelo e hidrofólios/trimarãs Queen Beetle",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 42000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 380 milhões (programa estatal sul-coreano de renovação de ferries costeiros, novo Terminal Internacional de Passageiros de Busan e Hangang River Bus em Seul)",
+      "moeda": "USD",
+      "fonte_id": "mof-korea-jeju-busan-incheon-ferries"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão das linhas de barcos híbridos Hangang River Bus no Rio Han em Seul (Magok–Yeouido–Jamsil) e novos catamarãs elétricos em Incheon.",
+      "en": "Expansion of hybrid Hangang River Bus commuter services along the Han River in Seoul (Magok–Yeouido–Jamsil) and new electric ferries in Incheon."
+    },
+    "resumo_pt": "Com mais de 3.300 ilhas ao longo de suas costas sul e oeste, a Coreia do Sul opera uma das redes de ferries ro-pax e catamarãs mais modernas da Ásia, diretamente conectada aos trens de alta velocidade KTX. No sul do país, os terminais portuários de Mokpo (terminal da Linha Honam KTX), Wando e Yeosu operam frotas de gigantescos 'cruise ferries' (como os premiados Queen Jenuvia I e II da SeaWorld Express e os navios da Hanil Express) até o Porto de Jeju, na Ilha de Jeju, além de dezenas de linhas pelo Parque Nacional Marítimo de Dadohae. A oeste, o Terminal Costeiro de Incheon conecta a Região Metropolitana de Seul às ilhas de Baengnyeong e Deokjeok no Mar Amarelo, enquanto no sudeste o moderno Terminal Internacional do Porto de Busan (ligado por passarela à estação Busan KTX) opera a ponte marítima internacional para Fukuoka, Tsushima e Shimonoseki, no Japão.",
+    "resumo_en": "With over 3,300 islands off its southern and western coasts, South Korea runs one of Asia's most modern ro-pax and high-speed ferry networks, directly integrated with KTX high-speed rail terminals. In the south, Mokpo (Honam KTX terminus), Wando and Yeosu dispatch flagship cruise ferries (such as SeaWorld Express's Queen Jenuvia I and II) across the Jeju Strait to Jeju City Port. In the northwest, Incheon Coastal Pier links Greater Seoul with the Yellow Sea islands, while Busan International Passenger Terminal (connected via skywalk to Busan KTX Station) operates high-speed and overnight ferries across the Korea Strait to Fukuoka and Shimonoseki in Japan.",
+    "lat": 34.7835,
+    "lon": 126.3825,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "mof-korea-jeju-busan-incheon-ferries",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "coreia do sul",
+      "ilha de jeju",
+      "mokpo",
+      "yeosu",
+      "incheon",
+      "busan",
+      "fukuoka",
+      "queen jenuvia",
+      "estreito da coreia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Busan_International_Passenger_Terminal.jpg/800px-Busan_International_Passenger_Terminal.jpg",
+      "credito": "Wikimedia Commons — Terminal Internacional de Ferries de Busan e travessias marítimas de Mokpo/Incheon para a Ilha de Jeju (Coreia do Sul)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_South_Korea"
+    },
+    "linhas": [
+      {
+        "id": "linha-estreito-de-jeju-mokpo-wando-yeosu-porto-de-jeju",
+        "nome": "Ponte Marítima do Estreito de Jeju (Porto de Mokpo KTX / Wando / Yeosu – Porto da Cidade de Jeju)",
+        "status": "operacao",
+        "extensao_km": 340.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-estreito-da-coreia-busan-fukuoka-incheon-mar-amarelo",
+        "nome": "Corredor Internacional Estreito da Coreia (Busan KTX – Fukuoka Hakata, Japão) & Incheon Mar Amarelo",
+        "status": "operacao",
+        "extensao_km": 240.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+    "slug": "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+    "nome_pt": "Corredor Internacional de Catamarãs do Estreito de Cingapura (HarbourFront / Tanah Merah – Batam – Bintan, Cingapura, Indonésia e Malásia)",
+    "nome_en": "Singapore Strait International Fast Catamaran Corridor (HarbourFront / Tanah Merah – Batam – Bintan, Singapore, Indonesia & Malaysia)",
+    "pais": "Cingapura",
+    "cidade": "Cingapura (HarbourFront e Tanah Merah); Batam (Batam Centre, Sekupang e Harbour Bay) e Bintan (Tanjung Pinang / Bandar Bentan Telani, Indonésia); Desaru (Malásia)",
+    "uf": "Cingapura / Ilhas Riau (Indonésia) / Johor (Malásia)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Majestic Fast Ferry, Sindo Ferry, Batam Fast Ferry, Bintan Resort Ferries & Singapore Island Cruise",
+    "inauguracao": "1992 (Inauguração do Singapore Cruise Centre em HarbourFront e integração metropolitana SIJORI Cingapura–Johor–Riau)",
+    "extensao_km": 115.0,
+    "bitola": "Hidrovia internacional de alta densidade do Estreito de Cingapura (cruzando uma das rotas marítimas mais movimentadas do globo)",
+    "eletrificacao": "Catamarãs rápidos de alumínio (30 a 35 nós) e novos ferries portuários 100% elétricos Pyxis / Shell dentro do Porto de Cingapura",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 35000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 190 milhões (modernização do Tanah Merah Ferry Terminal pela MPA Cingapura e programa de eletrificação 100% das embarcações portuárias Harbour Craft até 2030)",
+      "moeda": "USD",
+      "fonte_id": "mpa-singapore-cruise-centre-batam-bintan"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação de novos catamarãs de passageiros 100% elétricos nas rotas das Ilhas do Sul (Sentosa, St John's e Kusu) e Marina South Pier.",
+      "en": "Deployment of new all-electric passenger catamarans on Singapore's Southern Islands routes (St John's and Kusu) from Marina South Pier."
+    },
+    "resumo_pt": "O Estreito de Cingapura forma uma verdadeira rede metropolitana aquaviária transfronteiriça entre Cingapura, o arquipélago indonésio das Ilhas Riau (Batam, Bintan e Karimun) e o estado malaio de Johor. A partir do HarbourFront Ferry Terminal (integrado diretamente às linhas North East e Circle do MRT de Cingapura no VivoCity) e do recém-modernizado Tanah Merah Ferry Terminal (próximo ao Aeroporto de Changi), dezenas de catamarãs de alta velocidade da Majestic Fast Ferry, Batam Fast, Sindo Ferry e Bintan Resort Ferries partem a cada 15 a 30 minutos para Batam Centre, Sekupang, Harbour Bay e Nongsapura (Ilha de Batam, em apenas 45 minutos de viagem), bem como para Bandar Bentan Telani e Tanjung Pinang (Ilha de Bintan) e Desaru Coast (Johor, Malásia).",
+    "resumo_en": "The Singapore Strait functions as a cross-border metropolitan fast-ferry network linking Singapore with Indonesia's Riau Islands (Batam, Bintan and Karimun) and Johor in Malaysia. From HarbourFront Ferry Terminal (directly integrated with Singapore MRT's North East and Circle lines) and the upgraded Tanah Merah Ferry Terminal near Changi Airport, high-speed catamarans operated by Majestic Fast Ferry, Batam Fast, Sindo Ferry and Bintan Resort Ferries depart every 15–30 minutes to Batam Centre, Sekupang and Harbour Bay (45 minutes), as well as Bintan Island and Desaru Coast in Malaysia.",
+    "lat": 1.2642,
+    "lon": 103.8202,
+    "zoom_inicial": 9.0,
+    "fontes": [
+      "mpa-singapore-cruise-centre-batam-bintan",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "cingapura",
+      "harbourfront",
+      "tanah merah",
+      "batam",
+      "bintan",
+      "ilhas riau",
+      "estreito de cingapura",
+      "majestic fast ferry",
+      "indonésia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/HarbourFront_Centre_and_Singapore_Cruise_Centre.jpg/800px-HarbourFront_Centre_and_Singapore_Cruise_Centre.jpg",
+      "credito": "Wikimedia Commons — Singapore Cruise Centre em HarbourFront e catamarãs rápidos para Batam e Bintan no Estreito de Cingapura",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Singapore_Cruise_Centre"
+    },
+    "linhas": [
+      {
+        "id": "linha-estreito-de-cingapura-harbourfront-sekupang-batam-centre",
+        "nome": "Expresso Internacional HarbourFront – Batam (HarbourFront MRT, Cingapura – Sekupang – Batam Centre, Indonésia)",
+        "status": "operacao",
+        "extensao_km": 45.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-tanah-merah-bintan-tanjung-pinang-desaru",
+        "nome": "Corredor Leste Tanah Merah – Bintan & Johor (Tanah Merah, Cingapura – Bandar Bentan Telani / Tanjung Pinang, Bintan)",
+        "status": "operacao",
+        "extensao_km": 70.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+    "slug": "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+    "nome_pt": "Penang Ferry (George Town–Butterworth Penang Sentral) e Catamarãs do Arquipélago de Langkawi (Kuala Perlis/Kuala Kedah–Kuah, Malásia)",
+    "nome_en": "Penang Ferry (George Town–Butterworth Penang Sentral) & Langkawi Archipelago Fast Ferries (Kuala Perlis/Kuala Kedah–Kuah, Malaysia)",
+    "pais": "Malásia",
+    "cidade": "George Town e Butterworth (Penang); Kuah / Ilha de Langkawi, Kuala Kedah e Kuala Perlis (Kedah / Perlis)",
+    "uf": "Pulau Pinang / Kedah / Perlis",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Penang Port Sdn Bhd (Rapid Ferry / Nova Frota de Ferries de Dupla Proa Teluk Bahang, Teluk Kampi, Teluk Duyung e Teluk Kumbar) & Ferry Line Ventures (Langkawi)",
+    "inauguracao": "1894 (Inauguração da travessia histórica Penang Ferry entre George Town e Butterworth no Canal de Penang)",
+    "extensao_km": 110.0,
+    "bitola": "Canal Norte de Penang (George Town–Butterworth) e Estreito de Malaca Setentrional (Continente–Ilha de Langkawi)",
+    "eletrificacao": "Nova geração de 4 ferries rápidos de dupla proa (para passageiros e motocicletas/bicicletas) em Penang e catamarãs de alta capacidade em Langkawi",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 120 milhões (renovação integral da frota do Penang Ferry e reforma dos terminais Raja Tun Uda em George Town e Sultan Abdul Halim em Penang Sentral)",
+      "moeda": "USD",
+      "fonte_id": "mot-malaysia-penang-port-langkawi"
+    },
+    "proximas_entregas": {
+      "pt": "Integração física do terminal Raja Tun Uda em George Town com a futura Linha Mutiara do LRT de Penang.",
+      "en": "Direct physical integration of Raja Tun Uda Ferry Terminal in George Town with Penang's upcoming Mutiara LRT Line."
+    },
+    "resumo_pt": "Na costa oeste da Malásia Peninsular (Estreito de Malaca), dois sistemas hidroviários formam elos essenciais com a ferrovia estatal KTMB. No estado de Penang, o histórico Penang Ferry (em operação contínua desde 1894 e totalmente modernizado em 2023–2024 com quatro novas embarcações rápidas de dupla proa — Teluk Bahang, Teluk Kampi, Teluk Duyung e Teluk Kumbar) realiza em apenas 10 minutos a travessia do Canal de Penang entre o Terminal Raja Tun Uda (no centro histórico UNESCO de George Town, na Ilha de Penang) e o Terminal Sultan Abdul Halim, conectado diretamente ao hub intermodal de Penang Sentral e à estação ferroviária de Butterworth (terminal dos trens elétricos ETS e KTM Komuter). Mais ao norte, os catamarãs de alta velocidade da Ferry Line Ventures e os ferries ro-ro conectam Kuala Perlis e Kuala Kedah (próximos às estações ferroviárias de Arau e Alor Setar) ao Kuah Jetty, na Ilha de Langkawi.",
+    "resumo_en": "Along Peninsular Malaysia's northwest coast on the Strait of Malacca, two flagship ferry networks provide seamless rail-sea connectivity with KTMB trains. In Penang, the iconic Penang Ferry (operating since 1894 and completely modernized with four new double-ended vessels: Teluk Bahang, Teluk Kampi, Teluk Duyung and Teluk Kumbar) crosses the Penang Channel in just 10 minutes between Raja Tun Uda Terminal in UNESCO-listed George Town and Sultan Abdul Halim Terminal at Butterworth's Penang Sentral hub (direct interchange with ETS high-speed electric trains and KTM Komuter). Further north, high-speed catamarans link Kuala Perlis and Kuala Kedah on the mainland to Kuah Jetty on Langkawi Island.",
+    "lat": 5.4145,
+    "lon": 100.3455,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "mot-malaysia-penang-port-langkawi",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "malásia",
+      "penang ferry",
+      "george town",
+      "butterworth",
+      "penang sentral",
+      "langkawi",
+      "kuala perlis",
+      "kuala kedah",
+      "estreito de malaca",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/New_Penang_Ferry_Teluk_Bahang_2023.jpg/800px-New_Penang_Ferry_Teluk_Bahang_2023.jpg",
+      "credito": "Wikimedia Commons — Novo ferry de dupla proa Teluk Bahang no Canal de Penang entre George Town e Butterworth (Malásia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Penang_Ferry_Service"
+    },
+    "linhas": [
+      {
+        "id": "linha-penang-ferry-george-town-butterworth-penang-sentral",
+        "nome": "Travessia Metropolitana Penang Ferry (Raja Tun Uda Terminal, George Town – Sultan Abdul Halim / Penang Sentral, Butterworth)",
+        "status": "operacao",
+        "extensao_km": 6.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-langkawi-fast-ferry-kuala-kedah-kuala-perlis-kuah",
+        "nome": "Corredor Marítimo de Langkawi (Kuala Kedah & Kuala Perlis – Kuah Jetty, Ilha de Langkawi)",
+        "status": "operacao",
+        "extensao_km": 104.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+    "slug": "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+    "nome_pt": "Pasig River Ferry (Metro Manila), Ponte Marítima Batangas–Mindoro e Catamarãs OceanJet / SuperCat em Cebu–Bohol–Ormoc (Filipinas)",
+    "nome_en": "Pasig River Ferry (Metro Manila), Batangas–Mindoro Maritime Bridge & OceanJet / SuperCat Fast Ferries in Cebu–Bohol–Ormoc (Philippines)",
+    "pais": "Filipinas",
+    "cidade": "Manila, Makati e Pasig (Luzon); Batangas e Calapan / Puerto Galera (Mindoro); Cidade de Cebu, Tagbilaran (Bohol), Ormoc (Leyte) e Dumaguete",
+    "uf": "Metro Manila / Calabarzon / Mimaropa / Visayas Centrais",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "MMDA (Pasig River Ferry Service), Montenegro Lines / Starlite Ferries / FastCat (Batangas) & OceanJet / SuperCat / 2GO Travel (Visayas)",
+    "inauguracao": "1990 (Inauguração das frotas de catamarãs rápidos SuperCat e OceanJet nas Visayas e reativação do Pasig River Ferry pela MMDA em Manila)",
+    "extensao_km": 245.0,
+    "bitola": "Hidrovia fluvial metropolitana do Rio Pasig (Manila) e autoestrada náutica das Filipinas (Strong Republic Nautical Highway — Batangas e Visayas)",
+    "eletrificacao": "Catamarãs rápidos OceanJet/SuperCat, ferries ro-pax gêmeos da FastCat e novas barcas elétricas/híbridas no Rio Pasig",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 75000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 210 milhões (expansão do moderno Terminal Portuário de Passageiros de Batangas — PTB, novos catamarãs FastCat/OceanJet e eletrificação do Pasig River Ferry em Manila)",
+      "moeda": "USD",
+      "fonte_id": "ppa-mmda-pasig-batangas-cebu-ph"
+    },
+    "proximas_entregas": {
+      "pt": "Novas estações fluviais e embarcações elétricas no Pasig River Ferry (Manila) integradas ao LRT-1, LRT-2 e MRT-3.",
+      "en": "New river stations and electric vessels on Manila's Pasig River Ferry system integrated with LRT-1, LRT-2 and MRT-3."
+    },
+    "resumo_pt": "Compostas por 7.641 ilhas, as Filipinas possuem na navegação de passageiros uma infraestrutura tão vital quanto suas ferrovias. Na Região Metropolitana de Manila (Grande Manila), a MMDA opera gratuitamente o Pasig River Ferry Service ao longo de 28 km e 13 estações no Rio Pasig (de Pinagbuhatan em Pasig até Escolta em Manila, pasando por Guadalupe, onde se integra ao MRT-3, e Lawton, próximo ao LRT-1). Ao sul de Luzon, o moderno Porto de Batangas (maior terminal doméstico de passageiros do país) forma a ponte marítima ininterrupta 24 horas da 'Strong Republic Nautical Highway' rumo a Calapan e Puerto Galera (Ilha de Mindoro) com os catamarãs ro-pax da FastCat, Starlite e Montenegro Lines. Já no coração do arquipélago (Visayas), os Piers 1 a 4 da Cidade de Cebu irradiam dezenas de viagens diárias dos catamarãs de alta velocidade da OceanJet e da SuperCat para Tagbilaran (Ilha de Bohol), Ormoc (Leyte) e Dumaguete.",
+    "resumo_en": "Spanning 7,641 islands, the Philippines relies heavily on urban river ferries and inter-island fast catamarans. In Metro Manila, the MMDA operates the Pasig River Ferry Service across 13 stations from Pinagbuhatan (Pasig) through Guadalupe (MRT-3 interchange) to Escolta in historic Manila. South of Luzon, the newly expanded Batangas Port Passenger Terminal anchors the 24/7 maritime bridge to Calapan and Puerto Galera on Mindoro Island via FastCat, Starlite and Montenegro Lines, while in the Central Visayas Cebu City's Pier 1 hub dispatches high-speed OceanJet and SuperCat catamarans to Tagbilaran (Bohol), Ormoc (Leyte) and Dumaguete.",
+    "lat": 10.2925,
+    "lon": 123.9085,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "ppa-mmda-pasig-batangas-cebu-ph",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "filipinas",
+      "manila",
+      "pasig river ferry",
+      "batangas",
+      "calapan",
+      "mindoro",
+      "cebu",
+      "tagbilaran",
+      "bohol",
+      "oceanjet",
+      "supercat",
+      "fastcat",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pasig_River_Ferry_at_Guadalupe_Station.jpg/800px-Pasig_River_Ferry_at_Guadalupe_Station.jpg",
+      "credito": "Wikimedia Commons — Pasig River Ferry em Manila e catamarãs rápidos de Batangas e Cebu–Bohol (Filipinas)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Pasig_River_Ferry_Service"
+    },
+    "linhas": [
+      {
+        "id": "linha-pasig-river-ferry-manila-batangas-calapan-mindoro",
+        "nome": "Pasig River Ferry (Escolta – Guadalupe – Pasig, Manila) & Ponte Marítima de Luzon (Porto de Batangas – Calapan, Mindoro)",
+        "status": "operacao",
+        "extensao_km": 85.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-visayas-oceanjet-supercat-cebu-tagbilaran-bohol-ormoc",
+        "nome": "Expresso Marítimo das Visayas — OceanJet / SuperCat (Cebu Pier 1 – Tagbilaran, Bohol & Ormoc, Leyte)",
+        "status": "operacao",
+        "extensao_km": 160.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna",
+    "slug": "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna",
+    "nome_pt": "Saigon Waterbus (Rio Saigon em Ho Chi Minh), Ferry Can Gio–Vung Tau e Catamarãs Phú Quốc Express (Rạch Giá–Phú Quốc–Côn Đảo, Vietnã)",
+    "nome_en": "Saigon Waterbus (Saigon River in Ho Chi Minh City), Can Gio–Vung Tau Ferry & Phú Quốc Express Catamarans (Rạch Giá–Phú Quốc–Côn Đảo, Vietnam)",
+    "pais": "Vietnã",
+    "cidade": "Cidade de Ho Chi Minh (Saigon), Vũng Tàu, Rạch Giá, Hà Tiên, Ilha de Phú Quốc e Arquipélago de Côn Đảo",
+    "uf": "Ho Chi Minh / Bà Rịa–Vũng Tàu / Kiên Giang",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Thường Nhật Co. (Saigon Waterbus & Saigon WaterGO), GreenlinesDP (Expresso Vũng Tàu) & Phú Quốc Express / Superdong Fast Ferry",
+    "inauguracao": "2017 (Inauguração da Linha 1 do Saigon Waterbus no Rio Saigon em Ho Chi Minh e catamarãs de dois cascos da Phú Quốc Express)",
+    "extensao_km": 325.0,
+    "bitola": "Hidrovia fluvial metropolitana do Rio Saigon e corredores marítimos do Delta do Mekong, Mar do Sul da China e Golfo da Tailândia",
+    "eletrificacao": "Ônibus aquáticos urbanos amarelos Saigon Waterbus (Bạch Đằng – Linh Đông) e mega-catamarãs de casco duplo Thăng Long (1.017 lugares) da Phú Quốc Express",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 34000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 155 milhões (expansão das estações do Saigon Waterbus integradas à Linha 1 do Metrô de Ho Chi Minh em Ba Son/Bạch Đằng e novos catamarãs Thăng Long para Côn Đảo e Phú Quốc)",
+      "moeda": "USD",
+      "fonte_id": "mot-vietnam-saigon-waterbus-phu-quoc-express"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação da Linha 2 do Saigon Waterbus (Bạch Đằng – Canal Bến Nghé – Lò Gốm) e novos píeres integrados ao Metrô de Ho Chi Minh.",
+      "en": "Launch of Saigon Waterbus Line 2 (Bạch Đằng – Bến Nghé Canal – Lò Gốm) and new piers integrated with the Ho Chi Minh City Metro."
+    },
+    "resumo_pt": "No sul do Vietnã e no Delta do Mekong, o transporte hidroviário vive uma rápida modernização urbana e costeira. No coração da Cidade de Ho Chi Minh (antiga Saigon), o Saigon Waterbus opera uma linha regular de ônibus aquáticos amarelos de 11 km pelo Rio Saigon, partindo do histórico Píer de Bạch Đằng (Distrito 1, a poucos passos da estação subterrânea Ba Son e Opera House da recém-inaugurada Linha 1 do Metrô de Ho Chi Minh) e passando por Bình An (Thảo Điền) e Thanh Đa até Linh Đông (Cidade de Thủ Đức), além dos hidrofólios rápidos da GreenlinesDP e do ferry marítimo Cần Giờ–Vũng Tàu. Já na costa sul vietnamita, as frotas de catamarãs de alta velocidade da Phú Quốc Express (incluindo o gigantesco navio Thăng Long de 1.017 passageiros) e da Superdong conectam Vũng Tàu e Trần Đề ao Arquipélago de Côn Đảo e ligam Rạch Giá e Hà Tiên à Ilha de Phú Quốc, no Golfo da Tailândia.",
+    "resumo_en": "In southern Vietnam and the Mekong Delta, water transit combines modern urban river buses with high-speed island catamarans. In central Ho Chi Minh City (Saigon), the Saigon Waterbus runs an 11 km commuter river route from Bạch Đằng Pier in District 1 (walking distance from the Ho Chi Minh City Metro Line 1 stations at Ba Son and Opera House) through Bình An (Thảo Điền) and Thanh Đa to Linh Đông in Thủ Đức City, complemented by GreenlinesDP fast boats and the Cần Giờ–Vũng Tàu sea ferry. Off the southern coast, Phú Quốc Express (including the 1,017-passenger twin-hull vessel Thăng Long) and Superdong operate high-speed catamarans to Côn Đảo Island and from Rạch Giá and Hà Tiên to Phú Quốc Island.",
+    "lat": 10.7745,
+    "lon": 106.7068,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "mot-vietnam-saigon-waterbus-phu-quoc-express",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "vietnã",
+      "ho chi minh",
+      "saigon waterbus",
+      "rio saigon",
+      "bạch đằng",
+      "vũng tàu",
+      "phú quốc",
+      "rạch giá",
+      "côn đảo",
+      "phú quốc express",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Saigon_Waterbus_at_Bach_Dang_Pier.jpg/800px-Saigon_Waterbus_at_Bach_Dang_Pier.jpg",
+      "credito": "Wikimedia Commons — Saigon Waterbus no Píer de Bạch Đằng no Rio Saigon (Ho Chi Minh) e catamarãs rápidos para Phú Quốc (Vietnã)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Saigon_Waterbus"
+    },
+    "linhas": [
+      {
+        "id": "linha-saigon-waterbus-bach-dang-linh-dong-vung-tau",
+        "nome": "Saigon Waterbus Linha 1 (Píer Bạch Đằng – Bình An – Linh Đông) & Expresso Fluvial-Marítimo Ho Chi Minh – Vũng Tàu",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-phu-quoc-express-rach-gia-ha-tien-phu-quoc-con-dao",
+        "nome": "Corredor de Alta Velocidade Golfo da Tailândia (Rạch Giá / Hà Tiên – Ilha de Phú Quốc) & Vũng Tàu – Côn Đảo",
+        "status": "operacao",
+        "extensao_km": 230.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

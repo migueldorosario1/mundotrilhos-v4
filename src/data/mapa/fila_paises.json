@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-14T21:44:00-03:00",
+  "atualizado_em": "2026-11-14T22:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1855,17 +1855,24 @@
         "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
         "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 115,
       "pais": "Fase Hidroviária Mundial #10 — Ásia Oriental e Sudeste Asiático II (Incheon e Ilha Jeju Coreia do Sul, Cingapura–Batam–Bintan, Penang Ferry e Langkawi Malásia, SuperCat Filipinas e Water Bus Saigon Vietnã)",
       "codigo": "HIDRO-ASIA-II",
       "continente": "Ásia",
-      "prioridade": "alta",
-      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) os ferries marítimos da Coreia do Sul (Incheon, Mokpo e Ilha Jeju), o corredor internacional de ferries Cingapura (HarbourFront/Tanah Merah)–Batam–Bintan, o tradicional Penang Ferry e catamarãs de Langkawi na Malásia, os ferries inter-ilhas das Filipinas (Manila/Batangas/Cebu–Bohol) e o Saigon Waterbus no Rio Saigon (Ho Chi Minh, Vietnã)"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-14",
+      "sistemas_adicionados": [
+        "ferries-incheon-mokpo-yeosu-ilha-de-jeju-busan-fukuoka-coreia-do-sul",
+        "ferries-estreito-de-cingapura-harbourfront-tanah-merah-batam-bintan-cingapura-indonesia",
+        "penang-ferry-george-town-butterworth-langkawi-ferry-malasia",
+        "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
+        "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 116,
       "pais": "Fase Hidroviária Mundial #11 — Índia, Oriente Médio e Sul da Ásia (Kochi Water Metro, Mumbai Ferry e Ro-Pax Ghogha–Hazira, Hidrovia de Calcutá Hooghly, Abra e Dubai Ferry Emirados Árabes e Ferries de Mascate/Hormuz Omã)",
