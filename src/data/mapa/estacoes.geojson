@@ -44743,6 +44743,581 @@
           0.5315
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-konak-alsancak-izdeniz-izmir",
+        "nome": "Terminais de Ferry İZDENİZ de Konak & Alsancak (Golfo de Esmirna, Turquia)",
+        "sistema_id": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "sistema_slug": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "linha_id": "linha-barco-izdeniz-golfo-de-esmirna-konak-karsiyaka-bostanli",
+        "pais": "Turquia",
+        "cidade": "Esmirna (İzmir)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1265,
+          38.4195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-karsiyaka-bostanli-izdeniz-izmir",
+        "nome": "Terminais Metropolitanos İZDENİZ de Karşıyaka & Bostanlı (Integração VLT Tram İzmir, Turquia)",
+        "sistema_id": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "sistema_slug": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "linha_id": "linha-barco-izdeniz-golfo-de-esmirna-konak-karsiyaka-bostanli",
+        "pais": "Turquia",
+        "cidade": "Esmirna (Karşıyaka)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0955,
+          38.4545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-uckuyular-fahrettin-altay-izdeniz",
+        "nome": "Terminal de Ferry Ro-Pax e Catamarãs de Üçkuyular (Golfo de Esmirna, Turquia)",
+        "sistema_id": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "sistema_slug": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "linha_id": "linha-barco-izdeniz-golfo-de-esmirna-konak-karsiyaka-bostanli",
+        "pais": "Turquia",
+        "cidade": "Esmirna (Üçkuyular)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0715,
+          38.4055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-canakkale-eceabat-gestas-dardanelos",
+        "nome": "Terminais Intercontinentais GESTAŞ de Çanakkale (Ásia) & Eceabat/Kilitbahir (Europa, Estreito de Dardanelos, Turquia)",
+        "sistema_id": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "sistema_slug": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "linha_id": "linha-barco-gestas-dardanelos-canakkale-bozcaada-budo-bursa",
+        "pais": "Turquia",
+        "cidade": "Çanakkale",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4015,
+          40.1515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-mudanya-budo-bursa-marmara",
+        "nome": "Terminal de Catamarãs BUDO e İDO de Mudanya em Bursa (Mar de Mármara, Turquia)",
+        "sistema_id": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "sistema_slug": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "linha_id": "linha-barco-gestas-dardanelos-canakkale-bozcaada-budo-bursa",
+        "pais": "Turquia",
+        "cidade": "Bursa (Mudanya)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8855,
+          40.3765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-aqaba-passenger-terminal-jordania",
+        "nome": "Terminal Marítimo Internacional de Passageiros de Aqaba (Arab Bridge Maritime, Jordânia)",
+        "sistema_id": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "sistema_slug": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "linha_id": "linha-barco-arab-bridge-aqaba-nuweiba-canal-de-suez-port-said",
+        "pais": "Arábia Saudita, Jordânia e Egito",
+        "cidade": "Aqaba",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9815,
+          29.5265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-nuweiba-sinai-port-egito",
+        "nome": "Porto de Ferries de Nuweiba (Península do Sinai, Golfo de Aqaba, Egito)",
+        "sistema_id": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "sistema_slug": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "linha_id": "linha-barco-arab-bridge-aqaba-nuweiba-canal-de-suez-port-said",
+        "pais": "Arábia Saudita, Jordânia e Egito",
+        "cidade": "Nuweiba",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6695,
+          29.0325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-port-said-port-fouad-suez-canal-ferry",
+        "nome": "Terminais Intercontinentais de Balsas SCA de Port Said (África) & Port Fouad (Ásia, Canal de Suez, Egito)",
+        "sistema_id": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "sistema_slug": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "linha_id": "linha-barco-arab-bridge-aqaba-nuweiba-canal-de-suez-port-said",
+        "pais": "Arábia Saudita, Jordânia e Egito",
+        "cidade": "Port Said",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3095,
+          31.2615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-jazan-ferry-port-arabia-saudita",
+        "nome": "Terminal de Passageiros e Ferries do Porto de Jazan (TGA Mar Vermelho, Arábia Saudita)",
+        "sistema_id": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "sistema_slug": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "linha_id": "linha-barco-jazan-ilhas-farasan-mar-vermelho-arabia-saudita",
+        "pais": "Arábia Saudita, Jordânia e Egito",
+        "cidade": "Jazan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5415,
+          16.8895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-farasan-island-port-arabia-saudita",
+        "nome": "Porto Insular de Farasan (Reserva da Biosfera da UNESCO nas Ilhas Farasan, Arábia Saudita)",
+        "sistema_id": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "sistema_slug": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "linha_id": "linha-barco-jazan-ilhas-farasan-mar-vermelho-arabia-saudita",
+        "pais": "Arábia Saudita, Jordânia e Egito",
+        "cidade": "Ilhas Farasan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1325,
+          16.7095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-bandar-abbas-shahid-haqqani-ira",
+        "nome": "Porto de Passageiros Shahid Haqqani em Bandar Abbas (Estreito de Ormuz, Irã)",
+        "sistema_id": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "sistema_slug": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "linha_id": "linha-barco-estreito-de-ormuz-bandar-abbas-qeshm-hormuz-kish",
+        "pais": "Irã, Kuwait, Catar e Bahrein",
+        "cidade": "Bandar Abbas",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2805,
+          27.1765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-qeshm-shahid-zakieri-hormuz-ira",
+        "nome": "Terminal Marítimo Shahid Zakieri na Ilha de Qeshm & Porto da Ilha de Hormuz (Irã)",
+        "sistema_id": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "sistema_slug": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "linha_id": "linha-barco-estreito-de-ormuz-bandar-abbas-qeshm-hormuz-kish",
+        "pais": "Irã, Kuwait, Catar e Bahrein",
+        "cidade": "Ilha de Qeshm",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2755,
+          26.9605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kish-island-bandar-charak-ira",
+        "nome": "Terminal Marítimo da Ilha de Kish & Porto Continental de Bandar Charak (Golfo Pérsico, Irã)",
+        "sistema_id": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "sistema_slug": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "linha_id": "linha-barco-estreito-de-ormuz-bandar-abbas-qeshm-hormuz-kish",
+        "pais": "Irã, Kuwait, Catar e Bahrein",
+        "cidade": "Ilha de Kish",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.9855,
+          26.5565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-ras-salmiya-failaka-island-kuwait",
+        "nome": "Terminal KPTC de Marina Crescent / Ras Salmiya (Cidade do Kuwait) & Ilha de Failaka (Kuwait)",
+        "sistema_id": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "sistema_slug": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "linha_id": "linha-barco-golfo-persico-kuwait-failaka-doha-bahrein",
+        "pais": "Irã, Kuwait, Catar e Bahrein",
+        "cidade": "Cidade do Kuwait",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1015,
+          29.3455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-doha-al-shyoukh-banana-island-catar",
+        "nome": "Terminal Al Shyoukh na Corniche de Doha, The Pearl & Banana Island (Catar)",
+        "sistema_id": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "sistema_slug": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "linha_id": "linha-barco-golfo-persico-kuwait-failaka-doha-bahrein",
+        "pais": "Irã, Kuwait, Catar e Bahrein",
+        "cidade": "Doha",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5395,
+          25.2915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-tanger-ville-gare-maritime-marrocos",
+        "nome": "Gare Maritime do Porto de Tanger Ville (Catamarãs Rápidos do Estreito de Gibraltar, Marrocos)",
+        "sistema_id": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "sistema_slug": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "linha_id": "linha-barco-aml-frs-tanger-ville-tanger-med-nador-rabat",
+        "pais": "Marrocos e Argélia",
+        "cidade": "Tânger",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8105,
+          35.7865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-tanger-med-passenger-port-marrocos",
+        "nome": "Porto de Passageiros e Ro-Pax de Tanger Med (Africa Morocco Link & FRS, Marrocos)",
+        "sistema_id": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "sistema_slug": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "linha_id": "linha-barco-aml-frs-tanger-ville-tanger-med-nador-rabat",
+        "pais": "Marrocos e Argélia",
+        "cidade": "Tanger Med",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5025,
+          35.8895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-nador-beni-ensar-rabat-marrocos",
+        "nome": "Gare Maritime de Nador (Beni Ensar) & Travessia do Rio Bou Regreg Rabat–Salé (Marrocos)",
+        "sistema_id": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "sistema_slug": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "linha_id": "linha-barco-aml-frs-tanger-ville-tanger-med-nador-rabat",
+        "pais": "Marrocos e Argélia",
+        "cidade": "Nador / Rabat",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9285,
+          35.2685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-argel-gare-maritime-algerie-ferries",
+        "nome": "Gare Maritime de Argel (ENTMV Algérie Ferries, Baía de Argel, Argélia)",
+        "sistema_id": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "sistema_slug": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "linha_id": "linha-barco-entmv-algerie-ferries-argel-orao-bejaia",
+        "pais": "Marrocos e Argélia",
+        "cidade": "Argel",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0645,
+          36.7825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-orao-bejaia-gare-maritime-argelia",
+        "nome": "Terminais Marítimos ENTMV de Orão & Béjaïa (Costa Mediterrânea da Argélia)",
+        "sistema_id": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "sistema_slug": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "linha_id": "linha-barco-entmv-algerie-ferries-argel-orao-bejaia",
+        "pais": "Marrocos e Argélia",
+        "cidade": "Orão / Béjaïa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6415,
+          35.7065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-baku-alat-ferry-terminal-azerbaijao",
+        "nome": "Terminal Ferro-Marítimo Internacional de Baku em Alat (ASCO Mar Cáspio, Azerbaijão)",
+        "sistema_id": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "sistema_slug": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "linha_id": "linha-barco-trans-caspio-asco-baku-alat-turkmenbashi-kuryk-aktau",
+        "pais": "Azerbaijão, Turcomenistão, Cazaquistão e Iraque",
+        "cidade": "Baku (Alat)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4425,
+          39.9725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-turkmenbashi-seaport-turcomenistao",
+        "nome": "Terminal de Passageiros e Train-Ferries do Porto Internacional de Türkmenbaşy (Mar Cáspio, Turcomenistão)",
+        "sistema_id": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "sistema_slug": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "linha_id": "linha-barco-trans-caspio-asco-baku-alat-turkmenbashi-kuryk-aktau",
+        "pais": "Azerbaijão, Turcomenistão, Cazaquistão e Iraque",
+        "cidade": "Türkmenbaşy",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9895,
+          40.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kuryk-aktau-ferry-port-cazaquistao",
+        "nome": "Complexo Hidro-Ferroviário de Kuryk & Porto de Aktau (Mar Cáspio, Cazaquistão)",
+        "sistema_id": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "sistema_slug": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "linha_id": "linha-barco-trans-caspio-asco-baku-alat-turkmenbashi-kuryk-aktau",
+        "pais": "Azerbaijão, Turcomenistão, Cazaquistão e Iraque",
+        "cidade": "Aktau (Kuryk)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4255,
+          43.1825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-bagda-al-mutanabbi-kadhimiya-rio-tigre",
+        "nome": "Estações Fluviais de Al-Mutanabbi, Adhamiyah & Kadhimiya no Rio Tigre em Bagdá (Iraque)",
+        "sistema_id": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "sistema_slug": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "linha_id": "linha-barco-mesopotamia-rio-tigre-bagda-shatt-al-arab-basra",
+        "pais": "Azerbaijão, Turcomenistão, Cazaquistão e Iraque",
+        "cidade": "Bagdá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3825,
+          33.3405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-basra-corniche-shatt-al-arab-iraque",
+        "nome": "Píer da Corniche de Al-Ashar & Tanuma no Estuário do Shatt al-Arab em Basra (Iraque)",
+        "sistema_id": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "sistema_slug": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "linha_id": "linha-barco-mesopotamia-rio-tigre-bagda-shatt-al-arab-basra",
+        "pais": "Azerbaijão, Turcomenistão, Cazaquistão e Iraque",
+        "cidade": "Basra",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8485,
+          30.5155
+        ]
+      }
     }
   ]
 }

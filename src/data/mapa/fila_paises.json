@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T11:15:00-03:00",
+  "atualizado_em": "2026-11-15T11:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2242,16 +2242,18 @@
       "status": "concluido",
       "concluido_em": "2026-11-15T11:15:00-03:00",
       "ronda": 145
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 142,
       "pais": "Fase Hidroviária Mundial #33 — Oriente Médio, Golfo Pérsico, Mar Vermelho e Mediterrâneo Oriental II (RTA Dubai Abra, Dubai Ferry e Water Taxi no Dubai Creek e Marina nos Emirados Árabes Unidos; Lignes Maritimes du Détroit / FRS Tanger Med–Algeciras e Tarifa–Tanger Ville no Marrocos/Espanha; Arab Bridge Maritime Aqaba–Nuweiba no Mar Vermelho na Jordânia/Egito; e Ferries do Nilo no Cairo/Assuã/Luxor no Egito)",
       "codigo": "HIDRO-ORIENTE-MEDIO-GOLFO-MAR-VERMELHO-NORTE-AFRICA-II",
       "continente": "Ásia e África",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T11:45:00-03:00",
+      "ronda": 146
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 143,
       "pais": "Fase Hidroviária Mundial #34 — Ásia Oriental Fluvial, Baía de Tóquio, Baía de Osaka e Estreito de Taiwan II (Tokyo Cruise / Tokyo Mizube Line Sumida River & Odaiba e Yokohama Seabass no Japão; Osaka Suijō Bus Aqua-Liner e Captain Line Universal City Port no Japão; Han River Bus / Hangang Water Taxi em Seul na Coreia do Sul; e Cross-Strait Mini-Three-Links Ferries Xiamen–Kinmen e Mawei/Huangqi–Matsu na China/Taiwan)",
@@ -2280,6 +2282,14 @@
       "codigo": "HIDRO-MEDITERRANEO-EGEU-ADRIATICO-IBERIA-III",
       "pais": "Fase Hidroviária Mundial #36 — Mediterrâneo, Mar Egeu, Adriático e Península Ibérica III (Transtejo & Soflusa Lisboa–Cacilhas–Seixal–Montijo–Barreiro–Trafaria no Rio Tejo e Atlanticoline nos Açores em Portugal; Vaporetto e Ferries da Lagoa de Marano/Grado e Lagos de Iseo e Orta na Itália; Ferries das Ilhas Espórades Volos–Skiathos–Skopelos–Alonissos e Dodecaneso Rodes–Symi–Kos–Kalymnos na Grécia; e Boka Bay Ferry Kamenari–Lepetane em Kotor em Montenegro e Canal de Corfu Sarandë–Corfu na Albânia/Grécia)",
       "continente": "Europa",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 147,
+      "codigo": "HIDRO-AMERICA-DO-NORTE-ARTICO-ALASCA-MISSISSIPI-III",
+      "pais": "Fase Hidroviária Mundial #37 — América do Norte Fluvial, Ártico Canadense, Baía de Chesapeake e Golfo do México III (Canal Street–Algiers Ferry e Chalmette no Rio Mississipi em Nova Orleans e Galveston–Port Bolivar Ferry no Texas nos EUA; Cape May–Lewes Ferry na Baía de Delaware e Tangier/Smith Island na Baía de Chesapeake nos EUA; Owen Sound Transportation Norgoma/Jiimaan e Société des traversiers du Québec STQ Île-aux-Coudres, Île-Verte e Basse-Côte-Nord/Anticosti no Canadá; e Travessias Fluviais dos Rios Mackenzie e Yukon nos Territórios do Noroeste e Yukon no Canadá)",
+      "continente": "América do Norte",
       "prioridade": "alta",
       "status": "pendente"
     }

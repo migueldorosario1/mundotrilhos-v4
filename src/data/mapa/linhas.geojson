@@ -50724,6 +50724,376 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-izdeniz-golfo-de-esmirna-konak-karsiyaka-bostanli",
+        "nome": "Rede Metropolitana İZDENİZ do Golfo de Esmirna (Konak – Karşıyaka – Bostanlı – Alsancak – Pasaport – Üçkuyular)",
+        "sistema_id": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "sistema_slug": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "pais": "Turquia",
+        "cidade": "Esmirna (İzmir)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.0715,
+            38.4055
+          ],
+          [
+            27.0955,
+            38.4545
+          ],
+          [
+            27.1195,
+            38.4555
+          ],
+          [
+            27.1265,
+            38.4195
+          ],
+          [
+            27.1415,
+            38.4385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-gestas-dardanelos-canakkale-bozcaada-budo-bursa",
+        "nome": "Travessias intercontinentais GESTAŞ de Dardanelos (Çanakkale–Eceabat/Kilitbahir e Geyikli–Bozcaada) e Catamarãs BUDO Mudanya (Bursa)–Eminönü",
+        "sistema_id": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "sistema_slug": "izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia",
+        "pais": "Turquia",
+        "cidade": "Çanakkale / Bursa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 345
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.0725,
+            39.8355
+          ],
+          [
+            26.4015,
+            40.1515
+          ],
+          [
+            26.3565,
+            40.1845
+          ],
+          [
+            28.8855,
+            40.3765
+          ],
+          [
+            28.9735,
+            41.0185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-arab-bridge-aqaba-nuweiba-canal-de-suez-port-said",
+        "nome": "Ponte Marítima do Golfo de Aqaba (Aqaba Jordânia – Nuweiba Sinai), Hurghada–Sharm el-Sheikh e Travessia Intercontinental Port Said–Port Fouad (Canal de Suez)",
+        "sistema_id": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "sistema_slug": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "pais": "Arábia Saudita, Jordânia e Egito",
+        "cidade": "Aqaba / Nuweiba / Port Said",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 480
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.3095,
+            31.2615
+          ],
+          [
+            32.3185,
+            31.2565
+          ],
+          [
+            34.6695,
+            29.0325
+          ],
+          [
+            34.9815,
+            29.5265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-jazan-ilhas-farasan-mar-vermelho-arabia-saudita",
+        "nome": "Ponte Marítima TGA do Arquipélago de Farasan (Porto de Jazan – Ilha de Farasan, Mar Vermelho Meridional, Arábia Saudita)",
+        "sistema_id": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "sistema_slug": "jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho",
+        "pais": "Arábia Saudita, Jordânia e Egito",
+        "cidade": "Jazan / Ilhas Farasan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 300
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.5415,
+            16.8895
+          ],
+          [
+            42.1325,
+            16.7095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-estreito-de-ormuz-bandar-abbas-qeshm-hormuz-kish",
+        "nome": "Corredor Insular do Estreito de Ormuz (Bandar Abbas Shahid Haqqani – Ilha de Qeshm – Ilha de Hormuz e Bandar Charak – Ilha de Kish, Irã)",
+        "sistema_id": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "sistema_slug": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "pais": "Irã, Kuwait, Catar e Bahrein",
+        "cidade": "Bandar Abbas / Qeshm / Kish",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            56.4625,
+            27.0955
+          ],
+          [
+            56.2805,
+            27.1765
+          ],
+          [
+            56.2755,
+            26.9605
+          ],
+          [
+            54.2755,
+            26.7265
+          ],
+          [
+            53.9855,
+            26.5565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-golfo-persico-kuwait-failaka-doha-bahrein",
+        "nome": "Travessias do Golfo Pérsico Ocidental (Ras Salmiya Cidade do Kuwait – Ilha de Failaka, Doha Corniche/The Pearl – Banana Island e Bahrein – Ilhas Hawar)",
+        "sistema_id": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "sistema_slug": "valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico",
+        "pais": "Irã, Kuwait, Catar e Bahrein",
+        "cidade": "Cidade do Kuwait / Doha / Manama",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 270
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.1015,
+            29.3455
+          ],
+          [
+            48.2765,
+            29.4385
+          ],
+          [
+            50.6255,
+            25.8155
+          ],
+          [
+            51.5395,
+            25.2915
+          ],
+          [
+            51.6425,
+            25.2985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-aml-frs-tanger-ville-tanger-med-nador-rabat",
+        "nome": "Terminais Marroquinos do Estreito de Gibraltar e Alborão (Tanger Ville–Tarifa, Tanger Med–Algeciras, Nador–Almería e Travessia Rabat–Salé)",
+        "sistema_id": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "sistema_slug": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "pais": "Marrocos e Argélia",
+        "cidade": "Tânger / Nador / Rabat",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 410
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.8355,
+            34.0285
+          ],
+          [
+            -5.8105,
+            35.7865
+          ],
+          [
+            -5.5025,
+            35.8895
+          ],
+          [
+            -2.9285,
+            35.2685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-entmv-algerie-ferries-argel-orao-bejaia",
+        "nome": "Eixo Costeiro e Mediterrâneo da Algérie Ferries ENTMV (Gare Maritime de Argel – Orão – Béjaïa – Skikda, Argélia)",
+        "sistema_id": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "sistema_slug": "africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia",
+        "pais": "Marrocos e Argélia",
+        "cidade": "Argel / Orão / Béjaïa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 510
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.6415,
+            35.7065
+          ],
+          [
+            3.0645,
+            36.7825
+          ],
+          [
+            5.0885,
+            36.7515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-trans-caspio-asco-baku-alat-turkmenbashi-kuryk-aktau",
+        "nome": "Ponte Ferro-Marítima Trans-Cáspia ASCO (Porto de Baku/Alat Azerbaijão – Türkmenbaşy Turcomenistão e Baku/Alat – Kuryk/Aktau Cazaquistão)",
+        "sistema_id": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "sistema_slug": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "pais": "Azerbaijão, Turcomenistão, Cazaquistão e Iraque",
+        "cidade": "Baku (Alat) / Türkmenbaşy / Aktau",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 580
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.9895,
+            40.0025
+          ],
+          [
+            49.4425,
+            39.9725
+          ],
+          [
+            51.4255,
+            43.1825
+          ],
+          [
+            51.1585,
+            43.6525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-mesopotamia-rio-tigre-bagda-shatt-al-arab-basra",
+        "nome": "Hidrovia Urbana do Rio Tigre em Bagdá (Kadhimiya – Adhamiyah – Al-Mutanabbi – Karrada) e Travessias do Shatt al-Arab em Basra (Iraque)",
+        "sistema_id": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "sistema_slug": "asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia",
+        "pais": "Azerbaijão, Turcomenistão, Cazaquistão e Iraque",
+        "cidade": "Bagdá / Basra",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 100
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.3555,
+            33.3765
+          ],
+          [
+            44.3825,
+            33.3405
+          ],
+          [
+            47.8485,
+            30.5155
+          ]
+        ]
+      }
     }
   ]
 }
