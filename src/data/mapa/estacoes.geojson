@@ -43018,6 +43018,581 @@
           17.8969
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-likoni-ferry-mombasa-island",
+        "nome": "Terminal de Ferry de Likoni — Ilha de Mombaça (Canal de Kilindini, Quênia)",
+        "sistema_id": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "sistema_slug": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "linha_id": "linha-barco-likoni-mombasa-lamu-quenia",
+        "pais": "Quênia, Tanzânia e Zâmbia",
+        "cidade": "Mombaça",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6642,
+          -4.0765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-likoni-mainland-mombasa",
+        "nome": "Terminal de Ferry de Likoni Mainland — Costa Sul (Mombaça, Quênia)",
+        "sistema_id": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "sistema_slug": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "linha_id": "linha-barco-likoni-mombasa-lamu-quenia",
+        "pais": "Quênia, Tanzânia e Zâmbia",
+        "cidade": "Mombaça",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6648,
+          -4.0835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-lamu-town-jetty",
+        "nome": "Píer Histórico de Lamu Town & Shela (Arquipélago de Lamu UNESCO, Quênia)",
+        "sistema_id": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "sistema_slug": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "linha_id": "linha-barco-likoni-mombasa-lamu-quenia",
+        "pais": "Quênia, Tanzânia e Zâmbia",
+        "cidade": "Lamu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9022,
+          -2.2695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kigoma-port-tanganica",
+        "nome": "Porto Lacustre de Kigoma — Base do Histórico MV Liemba (Lago Tanganyika, Tanzânia)",
+        "sistema_id": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "sistema_slug": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "linha_id": "linha-barco-lago-tanganica-sul-kigoma-mpulungu",
+        "pais": "Quênia, Tanzânia e Zâmbia",
+        "cidade": "Kigoma",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6265,
+          -4.8769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-mpulungu-port-zambia",
+        "nome": "Porto de Mpulungu — Único Porto Lacustre Internacional da Zâmbia (Lago Tanganyika)",
+        "sistema_id": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "sistema_slug": "likoni-ferry-mombasa-lamu-archipelago-mv-liers-kigoma-mpulungu-tanganica-quenia-tanzania-zambia",
+        "linha_id": "linha-barco-lago-tanganica-sul-kigoma-mpulungu",
+        "pais": "Quênia, Tanzânia e Zâmbia",
+        "cidade": "Mpulungu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1145,
+          -8.7625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-mindelo-porto-grande-sao-vicente",
+        "nome": "Gare Marítima do Porto Grande do Mindelo (Ilha de São Vicente, Cabo Verde)",
+        "sistema_id": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "sistema_slug": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "linha_id": "linha-barco-cv-interilhas-mindelo-santo-antao-praia-fogo",
+        "pais": "Cabo Verde, Guiné-Bissau, Gâmbia e Serra Leoa",
+        "cidade": "Mindelo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9904,
+          16.8892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-porto-novo-santo-antao",
+        "nome": "Gare Marítima de Porto Novo (Ilha de Santo Antão, Cabo Verde)",
+        "sistema_id": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "sistema_slug": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "linha_id": "linha-barco-cv-interilhas-mindelo-santo-antao-praia-fogo",
+        "pais": "Cabo Verde, Guiné-Bissau, Gâmbia e Serra Leoa",
+        "cidade": "Porto Novo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.0558,
+          17.0195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-praia-porto-santiago-cabo-verde",
+        "nome": "Terminal Marítimo de Passageiros da Praia (Ilha de Santiago, Cabo Verde)",
+        "sistema_id": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "sistema_slug": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "linha_id": "linha-barco-cv-interilhas-mindelo-santo-antao-praia-fogo",
+        "pais": "Cabo Verde, Guiné-Bissau, Gâmbia e Serra Leoa",
+        "cidade": "Praia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5085,
+          14.9165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-bissau-bubaque-bijagos",
+        "nome": "Porto de Pidjiguiti em Bissau & Atracadouro de Bubaque (Arquipélago dos Bijagós, Guiné-Bissau)",
+        "sistema_id": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "sistema_slug": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "linha_id": "linha-barco-costa-ocidental-bissau-bubaque-banjul-freetown",
+        "pais": "Cabo Verde, Guiné-Bissau, Gâmbia e Serra Leoa",
+        "cidade": "Bissau / Bubaque",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.8335,
+          11.2985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-freetown-aberdeen-lungi-serra-leoa",
+        "nome": "Terminal de Ferry de Aberdeen (Freetown) & Targrin (Aeroporto de Lungi, Serra Leoa)",
+        "sistema_id": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "sistema_slug": "cv-interilhas-santiago-fogo-sao-vicente-santo-antao-bissau-bubaque-bijagos-banjul-barra-freetown-lungi-africa-ocidental",
+        "linha_id": "linha-barco-costa-ocidental-bissau-bubaque-banjul-freetown",
+        "pais": "Cabo Verde, Guiné-Bissau, Gâmbia e Serra Leoa",
+        "cidade": "Freetown",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2845,
+          8.4965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-mamoudzou-gare-maritime-mayotte",
+        "nome": "Gare Maritime de Mamoudzou — Grande-Terre (La Barge STM, Mayotte)",
+        "sistema_id": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "sistema_slug": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "linha_id": "linha-barco-stm-mayotte-comores-moroni-anjouan",
+        "pais": "Mayotte (França), Comores e Djibuti",
+        "cidade": "Mamoudzou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2278,
+          -12.7806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-dzaoudzi-petite-terre-mayotte",
+        "nome": "Gare Maritime de Dzaoudzi — Petite-Terre / Aeroporto (La Barge STM, Mayotte)",
+        "sistema_id": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "sistema_slug": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "linha_id": "linha-barco-stm-mayotte-comores-moroni-anjouan",
+        "pais": "Mayotte (França), Comores e Djibuti",
+        "cidade": "Dzaoudzi",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2565,
+          -12.7825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-moroni-port-grande-comore",
+        "nome": "Porto de Moroni (Ilha de Grande Comore / Ngazidja, Comores)",
+        "sistema_id": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "sistema_slug": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "linha_id": "linha-barco-stm-mayotte-comores-moroni-anjouan",
+        "pais": "Mayotte (França), Comores e Djibuti",
+        "cidade": "Moroni",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2551,
+          -11.7022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-mutsamudu-port-anjouan-comores",
+        "nome": "Porto de Mutsamudu (Ilha de Anjouan / Ndzuwani, Comores)",
+        "sistema_id": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "sistema_slug": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "linha_id": "linha-barco-stm-mayotte-comores-moroni-anjouan",
+        "pais": "Mayotte (França), Comores e Djibuti",
+        "cidade": "Mutsamudu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3995,
+          -12.1665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-djibouti-lescale-tadjoura",
+        "nome": "Terminal Marítimo de L'Escale em Djibuti & Porto de Tadjoura (Golfo de Tadjoura, Djibuti)",
+        "sistema_id": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "sistema_slug": "stm-barge-mamoudzou-dzaoudzi-mayotte-comores-moroni-anjouan-moheli-djibouti-tadjoura-obock-oceano-indico",
+        "linha_id": "linha-barco-golfo-de-tadjoura-djibouti-obock",
+        "pais": "Mayotte (França), Comores e Djibuti",
+        "cidade": "Djibuti",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1425,
+          11.5955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-libreville-port-mole-gabao",
+        "nome": "Gare Maritime de Port-Môle e Barracuda em Libreville (Gabão)",
+        "sistema_id": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "sistema_slug": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "linha_id": "linha-barco-libreville-port-gentil-lambarene-gabao",
+        "pais": "Gabão, Guiné Equatorial, São Tomé e Príncipe e Camarões",
+        "cidade": "Libreville",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4536,
+          0.3924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-port-gentil-terminal-gabao",
+        "nome": "Terminal Hidroviário de Port-Gentil (Delta do Rio Ogooué, Gabão)",
+        "sistema_id": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "sistema_slug": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "linha_id": "linha-barco-libreville-port-gentil-lambarene-gabao",
+        "pais": "Gabão, Guiné Equatorial, São Tomé e Príncipe e Camarões",
+        "cidade": "Port-Gentil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7815,
+          -0.7193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-lambarene-ogooue-gabao",
+        "nome": "Porto Fluvial de Lambaréné (Rio Ogooué, Gabão)",
+        "sistema_id": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "sistema_slug": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "linha_id": "linha-barco-libreville-port-gentil-lambarene-gabao",
+        "pais": "Gabão, Guiné Equatorial, São Tomé e Príncipe e Camarões",
+        "cidade": "Lambaréné",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2405,
+          -0.7001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-malabo-bata-guine-equatorial",
+        "nome": "Porto de Malabo (Ilha de Bioko) & Porto Continental de Bata (Guiné Equatorial)",
+        "sistema_id": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "sistema_slug": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "linha_id": "linha-barco-golfo-da-guine-bata-malabo-sao-tome-principe",
+        "pais": "Gabão, Guiné Equatorial, São Tomé e Príncipe e Camarões",
+        "cidade": "Malabo / Bata",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7745,
+          3.7555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-sao-tome-santo-antonio-principe",
+        "nome": "Porto da Baía de Ana Chaves (São Tomé) & Santo António (Ilha do Príncipe)",
+        "sistema_id": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "sistema_slug": "cnii-elobey-libreville-port-gentil-bata-malabo-bioko-sao-tome-principe-limbe-calabar-golfo-da-guine",
+        "linha_id": "linha-barco-golfo-da-guine-bata-malabo-sao-tome-principe",
+        "pais": "Gabão, Guiné Equatorial, São Tomé e Príncipe e Camarões",
+        "cidade": "São Tomé",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7273,
+          0.3365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-akosombo-port-lago-volta-gana",
+        "nome": "Porto Hidroviário de Akosombo / Mpakadan (VLTC Lago Volta, Gana)",
+        "sistema_id": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "sistema_slug": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "linha_id": "linha-barco-lago-volta-akosombo-yeji-buipe-gana",
+        "pais": "Gana, África do Sul, Zimbábue e Zâmbia",
+        "cidade": "Akosombo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0592,
+          6.3005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-yeji-ferry-port-lago-volta-gana",
+        "nome": "Terminal de Ferry de Yeji & Makango (Travessia Central do Lago Volta, Gana)",
+        "sistema_id": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "sistema_slug": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "linha_id": "linha-barco-lago-volta-akosombo-yeji-buipe-gana",
+        "pais": "Gana, África do Sul, Zimbábue e Zâmbia",
+        "cidade": "Yeji",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6485,
+          8.2215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-buipe-port-lago-volta-gana",
+        "nome": "Porto Lacustre Norte de Buipe (Lago Volta / Volta Negro, Gana)",
+        "sistema_id": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "sistema_slug": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "linha_id": "linha-barco-lago-volta-akosombo-yeji-buipe-gana",
+        "pais": "Gana, África do Sul, Zimbábue e Zâmbia",
+        "cidade": "Buipe",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4725,
+          8.7715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-nelson-mandela-gateway-robben-island",
+        "nome": "Nelson Mandela Gateway (V&A Waterfront Cidade do Cabo) & Porto Murray's Bay (Robben Island, África do Sul)",
+        "sistema_id": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "sistema_slug": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "linha_id": "linha-barco-cidade-do-cabo-robben-island-lago-kariba",
+        "pais": "Gana, África do Sul, Zimbábue e Zâmbia",
+        "cidade": "Cidade do Cabo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4215,
+          -33.9055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kariba-mlibizi-ferry-zimbabue",
+        "nome": "Terminal de Ferry de Andora Harbour (Kariba) & Mlibizi (Lago Kariba, Zimbábue)",
+        "sistema_id": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "sistema_slug": "volta-lake-transport-akosombo-yeji-gana-robben-island-ferry-cidade-do-cabo-zambeze-kariba-gana-africa-do-sul-zimbabue",
+        "linha_id": "linha-barco-cidade-do-cabo-robben-island-lago-kariba",
+        "pais": "Gana, África do Sul, Zimbábue e Zâmbia",
+        "cidade": "Kariba",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8025,
+          -16.5265
+        ]
+      }
     }
   ]
 }
