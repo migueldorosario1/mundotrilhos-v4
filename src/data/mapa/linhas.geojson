@@ -56848,6 +56848,368 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-kocaeli-izmit-eskihisar-topcular-van-golu-feribot-tr",
+        "nome": "Golfo de İzmit (Körfez Ulaşım), Eskihisar–Topçular e Ferry Ferroviário TCDD do Lago de Van (Tatvan–Van)",
+        "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 680
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.335,
+            40.768
+          ],
+          [
+            29.518,
+            40.692
+          ],
+          [
+            29.832,
+            40.715
+          ],
+          [
+            29.921,
+            40.761
+          ],
+          [
+            42.296,
+            38.498
+          ],
+          [
+            43.34,
+            38.502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ferries-costa-turca-bodrum-kos-marmaris-rodes-tasucu-girne-tr",
+        "nome": "Pontes Marítimas do Egeu e Mediterrâneo Turco: Çeşme–Chios, Bodrum–Kos, Marmaris–Rodes e Taşucu–Girne (Chipre)",
+        "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 780
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.302,
+            38.324
+          ],
+          [
+            27.429,
+            37.032
+          ],
+          [
+            27.288,
+            36.895
+          ],
+          [
+            28.275,
+            36.852
+          ],
+          [
+            33.884,
+            36.315
+          ],
+          [
+            33.321,
+            35.342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mwasalat-nfc-muscat-shinas-dibba-lima-khasab-musandam-om",
+        "nome": "Mwasalat / NFC — Catamarãs de Alta Velocidade do Golfo de Omã e Estreito de Ormuz (Mascate / Shinas ↔ Dibba ↔ Lima ↔ Khasab)",
+        "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 580
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            58.567,
+            23.626
+          ],
+          [
+            56.478,
+            24.745
+          ],
+          [
+            56.265,
+            25.625
+          ],
+          [
+            56.452,
+            25.938
+          ],
+          [
+            56.241,
+            26.198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mwasalat-nfc-shannah-masirah-island-mar-arabico-om",
+        "nome": "Mwasalat / NFC — Travessia Ro-Pax do Mar Arábico (Porto de Shannah ↔ Hilf / Ilha de Masirah)",
+        "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 240
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            58.732,
+            20.752
+          ],
+          [
+            58.815,
+            20.71
+          ],
+          [
+            58.871,
+            20.668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-bus-eg",
+        "nome": "Travessias do Canal de Suez (Port Said–Port Fouad, El Qantara e Ismailia) e CTA Nile River Bus do Cairo (Maspero–Maadi–El Qanater)",
+        "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 620
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.311,
+            31.262
+          ],
+          [
+            32.318,
+            31.258
+          ],
+          [
+            32.278,
+            30.588
+          ],
+          [
+            31.138,
+            30.185
+          ],
+          [
+            31.229,
+            30.052
+          ],
+          [
+            31.248,
+            29.961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-nilo-luxor-aswan-elephantine-lago-nasser-abu-simbel-wadi-halfa-eg",
+        "nome": "Alto Nilo e Lago Nasser — Barcas de Luxor, Aswan–Ilha Elefantina–Philae e Hidrovia Aswan–Abu Simbel–Wadi Halfa",
+        "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1020
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.639,
+            25.699
+          ],
+          [
+            32.89,
+            24.089
+          ],
+          [
+            32.885,
+            24.084
+          ],
+          [
+            31.628,
+            22.337
+          ],
+          [
+            31.365,
+            21.802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ad-maritime-jebel-dhanna-delma-island-sir-bani-yas-ae",
+        "nome": "Abu Dhabi Maritime (Al Dhafra) — Ferries Ro-Pax Jebel Dhanna ↔ Ilha de Delma e Jebel Dhanna ↔ Ilha de Sir Bani Yas",
+        "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.642,
+            24.192
+          ],
+          [
+            52.592,
+            24.285
+          ],
+          [
+            52.332,
+            24.482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rta-srta-sharjah-aquarium-al-khan-dubai-al-ghubaiba-fr5-ae",
+        "nome": "RTA Dubai & SRTA Sharjah — Ferry Interemirados FR5 (Aquarium Marine Station Sharjah ↔ Al Ghubaiba Marine Transport Station Dubai)",
+        "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 160
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.358,
+            25.328
+          ],
+          [
+            55.318,
+            25.295
+          ],
+          [
+            55.289,
+            25.265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-djibouti-tadjourah-obock-massawa-dahlak-socotra-mar-vermelho-aden",
+        "nome": "Golfo de Tadjourah, Mar Vermelho Sul e Socotra — Ferries Djibuti–Tadjourah–Obock, Massawa–Dahlak e Mukalla–Ilha de Socotra (UNESCO)",
+        "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1180
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.475,
+            15.608
+          ],
+          [
+            40.132,
+            15.785
+          ],
+          [
+            43.148,
+            11.595
+          ],
+          [
+            42.885,
+            11.785
+          ],
+          [
+            43.288,
+            11.962
+          ],
+          [
+            53.988,
+            12.652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-caspio-sul-norte-bandar-anzali-amirabad-baku-olya-astrakhan",
+        "nome": "Corredor Marítimo do Mar Cáspio — Bandar Anzali / Amirabad (Irã) ↔ Baku ↔ Canal Volga-Cáspio (Olya / Astrakhan)",
+        "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1300
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.352,
+            36.855
+          ],
+          [
+            49.472,
+            37.475
+          ],
+          [
+            49.852,
+            40.365
+          ],
+          [
+            47.542,
+            45.782
+          ],
+          [
+            48.025,
+            46.348
+          ]
+        ]
+      }
     }
   ]
 }
