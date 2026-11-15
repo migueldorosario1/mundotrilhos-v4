@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T01:15:00-03:00",
+  "atualizado_em": "2026-11-15T01:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1960,16 +1960,24 @@
         "smiltynes-perkela-klaipeda-curonian-spit-neringa-nida-nemunas-delta-lituania",
         "destination-gotland-nynashamn-oskarshamn-visby-olandsbron-ventrafiken-hven-suecia"
       ]
+    },
+    {
+      "ordem": 122,
+      "pais": "Fase Hidroviária Mundial #15 — Mediterrâneo Ocidental, Ilhas Canárias, Córsega, Estreito de Messina, Malta e Tunísia (Fred. Olsen e Naviera Armas nas Ilhas Canárias, Corsica Linea e La Méridionale na Córsega, Gozo Channel e Valletta Ferry Services em Malta, Navios-Ferroviários da RFI no Estreito de Messina/Sardenha e SONOTRAK Kerkennah/Djerba na Tunísia)",
+      "codigo": "HIDRO-MEDITERRANEO-OCIDENTAL",
+      "continente": "Europa / África",
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "fred-olsen-express-naviera-armas-ilhas-canarias-tenerife-gran-canaria-fuerteventura-lanzarote-la-gomera-espanha",
+        "corsica-linea-la-meridionale-corsica-ferries-marselha-toulon-nice-ajaccio-bastia-bonifacio-franca-italia",
+        "gozo-channel-cirkewwa-mgarr-valletta-ferry-services-sliema-three-cities-virtu-ferries-malta-italia",
+        "ferries-estreito-de-messina-blujet-caronte-tirrenia-grimaldi-sardenha-sicilia-italia",
+        "sonotrak-sfax-ilhas-kerkennah-ferries-djerba-ajim-jorf-ctn-la-goulette-tunisia"
+      ]
     }
   ],
   "fila_proximas_rondas": [
-    {
-      "ordem": 122,
-      "pais": "Fase Hidroviária Mundial #15 — Mediterrâneo Ocidental, Ilhas Baleares, Canárias, Córsega, Malta e Tunísia (Baleària e Trasmediterránea Maiorca–Ibiza–Formentera–Menorca, Fred. Olsen e Naviera Armas nas Ilhas Canárias, Corsica Linea e La Méridionale na Córsega, Gozo Channel e Valletta Ferry Services em Malta e Ferries de Djerba/Sfax–Kerkennah na Tunísia)",
-      "codigo": "HIDRO-MEDITERRANEO-OCIDENTAL",
-      "continente": "Europa / África",
-      "status": "pendente"
-    },
     {
       "ordem": 123,
       "pais": "Fase Hidroviária Mundial #16 — Austrália Insular, Tasmânia, Pacífico Sul e Polinésia (Spirit of Tasmania Geelong–Devonport, SeaLink Kangaroo Island e Rottnest Express Perth na Austrália, Aremiti e Terevau Tahiti–Moorea na Polinésia Francesa, Interisland Ferries e Yasawa Flyer em Fiji, Samoa Shipping Upolu–Savai'i em Samoa e Betico 2 Nouméa–Île des Pins–Lifou na Nova Caledônia)",
