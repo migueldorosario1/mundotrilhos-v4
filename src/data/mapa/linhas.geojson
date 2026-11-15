@@ -57280,6 +57280,478 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-adriatico-jonico-ancona-bari-brindisi-igoumenitsa-patras-it-gr",
+        "nome": "Autoestradas do Mar Adriático–Jônico: Ancona / Bari / Brindisi ↔ Corfu ↔ Igoumenitsa ↔ Patras (Superfast / ANEK / Minoan)",
+        "sistema_id": "superfast-anek-minoan-lines-ancona-bari-brindisi-igoumenitsa-patras-levante-ferries-kefalonia-zakynthos-ithaca-italia-grecia",
+        "sistema_nome": "Superfast Ferries, ANEK Lines, Minoan Lines e Levante Ferries — Autoestradas Marítimas Itália–Grécia e Ilhas Jônicas (Cefalônia, Zaquintos e Ítaca)",
+        "pais": "Itália e Grécia",
+        "cidade": "Ancona / Bari / Brindisi / Igoumenitsa / Patras / Kyllini / Zaquintos / Cefalônia / Ítaca",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Attica Group (Superfast Ferries & ANEK Lines) / Grimaldi Euromed (Minoan Lines) / Levante Ferries (Fior di Levante)",
+        "extensao_km": 1750,
+        "bitola": "Autoestradas do Mar (Cruise Ferries Ro-Pax de Grande Porte no Adriático/Jônico) e Ferries Insulares do Mar Jônico",
+        "eletrificacao": "Navios Ro-Pax Híbridos com Scrubbers/Baterias de Emissão Zero em Porto (Grimaldi Eco / Superfast)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.508,
+            43.618
+          ],
+          [
+            16.868,
+            41.132
+          ],
+          [
+            17.946,
+            40.642
+          ],
+          [
+            20.264,
+            39.503
+          ],
+          [
+            21.7346,
+            38.2466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-levante-ferries-kyllini-patras-zakynthos-kefalonia-ithaca-gr",
+        "nome": "Levante Ferries — Ilhas Jônicas Meridionais: Kyllini / Patras ↔ Zaquintos (Zante), Cefalônia (Poros / Sami) e Ítaca (Pisaetos)",
+        "sistema_id": "superfast-anek-minoan-lines-ancona-bari-brindisi-igoumenitsa-patras-levante-ferries-kefalonia-zakynthos-ithaca-italia-grecia",
+        "sistema_nome": "Superfast Ferries, ANEK Lines, Minoan Lines e Levante Ferries — Autoestradas Marítimas Itália–Grécia e Ilhas Jônicas (Cefalônia, Zaquintos e Ítaca)",
+        "pais": "Itália e Grécia",
+        "cidade": "Ancona / Bari / Brindisi / Igoumenitsa / Patras / Kyllini / Zaquintos / Cefalônia / Ítaca",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Attica Group (Superfast Ferries & ANEK Lines) / Grimaldi Euromed (Minoan Lines) / Levante Ferries (Fior di Levante)",
+        "extensao_km": 400,
+        "bitola": "Autoestradas do Mar (Cruise Ferries Ro-Pax de Grande Porte no Adriático/Jônico) e Ferries Insulares do Mar Jônico",
+        "eletrificacao": "Navios Ro-Pax Híbridos com Scrubbers/Baterias de Emissão Zero em Porto (Grimaldi Eco / Superfast)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.144,
+            37.936
+          ],
+          [
+            20.899,
+            37.785
+          ],
+          [
+            20.778,
+            38.151
+          ],
+          [
+            20.648,
+            38.252
+          ],
+          [
+            20.682,
+            38.348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travelmar-salerno-cetara-maiori-minori-amalfi-positano-tremiti-it",
+        "nome": "Metrô do Mar da Costa Amalfitana (Salerno ↔ Cetara ↔ Maiori ↔ Minori ↔ Amalfi ↔ Positano) e Ferries Termoli/Vieste ↔ Ilhas Tremiti",
+        "sistema_id": "travelmar-salerno-amalfi-positano-costa-amalfitana-termoli-ilhas-tremiti-porto-empedocle-lampedusa-pantelleria-italia",
+        "sistema_nome": "Travelmar (Metrô do Mar da Costa Amalfitana: Salerno–Amalfi–Positano), Ilhas Tremiti e Ferries de Pantelleria e Lampedusa (Itália)",
+        "pais": "Itália",
+        "cidade": "Salerno / Amalfi / Positano / Termoli / Ilhas Tremiti / Trapani / Pantelleria / Porto Empedocle / Lampedusa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Travelmar (Metrô del Mare Costiera Amalfitana) / NLG (Navigazione Libera del Golfo — Ilhas Tremiti) / Siremar (Caronte & Tourist Isole Minori) / Liberty Lines",
+        "extensao_km": 220,
+        "bitola": "Monocascos Rápidos Costeiros (Costa Amalfitana), Hidrofólios/Catamarãs (Ilhas Tremiti) e Ferries Ro-Pax Oceânicos do Canal da Sicília",
+        "eletrificacao": "Frota Diesel-Elétrica de Baixa Emissão (novos navios Nerea e Sansovino da Siremar no Canal da Sicília)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.772,
+            40.672
+          ],
+          [
+            14.703,
+            40.648
+          ],
+          [
+            14.6028,
+            40.6333
+          ],
+          [
+            14.485,
+            40.628
+          ],
+          [
+            15.002,
+            42.005
+          ],
+          [
+            15.505,
+            42.121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-siremar-liberty-lines-trapani-pantelleria-porto-empedocle-linosa-lampedusa-it",
+        "nome": "Canal da Sicília e Ilhas Pelágias: Trapani ↔ Pantelleria e Porto Empedocle (Agrigento) ↔ Linosa ↔ Lampedusa (Siremar / Liberty Lines)",
+        "sistema_id": "travelmar-salerno-amalfi-positano-costa-amalfitana-termoli-ilhas-tremiti-porto-empedocle-lampedusa-pantelleria-italia",
+        "sistema_nome": "Travelmar (Metrô do Mar da Costa Amalfitana: Salerno–Amalfi–Positano), Ilhas Tremiti e Ferries de Pantelleria e Lampedusa (Itália)",
+        "pais": "Itália",
+        "cidade": "Salerno / Amalfi / Positano / Termoli / Ilhas Tremiti / Trapani / Pantelleria / Porto Empedocle / Lampedusa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Travelmar (Metrô del Mare Costiera Amalfitana) / NLG (Navigazione Libera del Golfo — Ilhas Tremiti) / Siremar (Caronte & Tourist Isole Minori) / Liberty Lines",
+        "extensao_km": 740,
+        "bitola": "Monocascos Rápidos Costeiros (Costa Amalfitana), Hidrofólios/Catamarãs (Ilhas Tremiti) e Ferries Ro-Pax Oceânicos do Canal da Sicília",
+        "eletrificacao": "Frota Diesel-Elétrica de Baixa Emissão (novos navios Nerea e Sansovino da Siremar no Canal da Sicília)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.505,
+            38.012
+          ],
+          [
+            11.944,
+            36.833
+          ],
+          [
+            13.526,
+            37.285
+          ],
+          [
+            12.862,
+            35.861
+          ],
+          [
+            12.608,
+            35.501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baleares-barcelona-valencia-denia-palma-alcudia-ciutadella-mahon-es",
+        "nome": "Corredor Ilhas Baleares: Barcelona / Valência / Dénia ↔ Palma de Maiorca, Alcúdia, Ciutadella e Mahón (Menorca) e Ibiza",
+        "sistema_id": "trasmed-gle-balearia-gnv-barcelona-valencia-denia-palma-alcudia-mahon-ciutadella-tarifa-tanger-almeria-melilla-espanha",
+        "sistema_nome": "Baleària, Trasmed GLE e GNV — Pontes Marítimas das Ilhas Baleares (Maiorca, Menorca e Ibiza) e Travessias de Tarifa–Tânger e Almeria–Melilla",
+        "pais": "Espanha e Marrocos",
+        "cidade": "Barcelona / Valência / Dénia / Palma de Maiorca / Alcúdia / Ciutadella / Mahón / Tarifa / Almeria / Melilla",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Baleària Eurolíneas Marítimas / Trasmed GLE (Grimaldi Group) / Grandi Navi Veloci (GNV) / FRS Iberia",
+        "extensao_km": 1480,
+        "bitola": "Fast Ferries a Gás Natural Liquefeito (GNL), Barcas Elétricas e Cruise Ferries Ro-Pax do Mar das Baleares e Mar de Alborão",
+        "eletrificacao": "Catamarãs de Alta Velocidade Dual-Fuel a GNL/Biometano (Eleanor Roosevelt e Margarita Salas) e Ferry Híbrido-Elétrico Cap de Barbaria"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.176,
+            41.368
+          ],
+          [
+            -0.318,
+            39.452
+          ],
+          [
+            0.118,
+            38.842
+          ],
+          [
+            1.439,
+            38.912
+          ],
+          [
+            2.6258,
+            39.5539
+          ],
+          [
+            3.136,
+            39.835
+          ],
+          [
+            3.828,
+            39.998
+          ],
+          [
+            4.268,
+            39.888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-tarifa-tanger-ville-almeria-motril-melilla-nador-alborao-es-ma",
+        "nome": "Estreito de Gibraltar e Mar de Alborão: Tarifa ↔ Tânger Ville (35 min) e Almeria / Motril / Málaga ↔ Melilla e Nador",
+        "sistema_id": "trasmed-gle-balearia-gnv-barcelona-valencia-denia-palma-alcudia-mahon-ciutadella-tarifa-tanger-almeria-melilla-espanha",
+        "sistema_nome": "Baleària, Trasmed GLE e GNV — Pontes Marítimas das Ilhas Baleares (Maiorca, Menorca e Ibiza) e Travessias de Tarifa–Tânger e Almeria–Melilla",
+        "pais": "Espanha e Marrocos",
+        "cidade": "Barcelona / Valência / Dénia / Palma de Maiorca / Alcúdia / Ciutadella / Mahón / Tarifa / Almeria / Melilla",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Baleària Eurolíneas Marítimas / Trasmed GLE (Grimaldi Group) / Grandi Navi Veloci (GNV) / FRS Iberia",
+        "extensao_km": 900,
+        "bitola": "Fast Ferries a Gás Natural Liquefeito (GNL), Barcas Elétricas e Cruise Ferries Ro-Pax do Mar das Baleares e Mar de Alborão",
+        "eletrificacao": "Catamarãs de Alta Velocidade Dual-Fuel a GNL/Biometano (Eleanor Roosevelt e Margarita Salas) e Ferry Híbrido-Elétrico Cap de Barbaria"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.605,
+            36.011
+          ],
+          [
+            -5.808,
+            35.789
+          ],
+          [
+            -4.418,
+            36.712
+          ],
+          [
+            -2.468,
+            36.832
+          ],
+          [
+            -2.935,
+            35.292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-jadrolinija-kvarner-rijeka-cres-losinj-krk-rab-pag-hr",
+        "nome": "Golfo de Kvarner: Rijeka ↔ Cres ↔ Mali Lošinj, Valbiska (Krk) ↔ Merag, Stinica ↔ Rab e Prizna ↔ Pag (Jadrolinija / Rapska Plovidba)",
+        "sistema_id": "jadrolinija-kvarner-rijeka-cres-krk-rab-pag-fazana-brijuni-venezia-lines-piran-porec-rovinj-pula-croacia-eslovenia-italia",
+        "sistema_nome": "Jadrolinija no Golfo de Kvarner (Rijeka–Cres–Lošinj–Rab–Pag), Parque Nacional de Brijuni e Catamarãs Veneza–Piran–Ístria (Croácia, Eslovênia e Itália)",
+        "pais": "Croácia, Eslovênia e Itália",
+        "cidade": "Rijeka / Cres / Mali Lošinj / Rab / Pag / Pula (Fažana–Brijuni) / Poreč / Rovinj / Piran / Veneza",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Jadrolinija / Rapska Plovidba (Stinica–Mišnjak) / Nacionalni Park Brijuni / Venezia Lines & Liberty Lines (Trieste–Piran–Ístria)",
+        "extensao_km": 380,
+        "bitola": "Catamarãs Rápidos do Norte do Adriático e Ferries Ro-Pax de Alta Frequência do Golfo de Kvarner",
+        "eletrificacao": "Frota Ro-Pax Moderna e Barcas Híbridas/Elétricas para o Parque Nacional do Arquipélago de Brijuni"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4422,
+            45.3271
+          ],
+          [
+            14.408,
+            44.961
+          ],
+          [
+            14.468,
+            44.534
+          ],
+          [
+            14.761,
+            44.756
+          ],
+          [
+            14.908,
+            44.588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-norte-adriatico-veneza-trieste-piran-porec-rovinj-pula-brijuni",
+        "nome": "Norte do Adriático e Ístria: Veneza / Trieste ↔ Piran (Eslovênia) ↔ Poreč ↔ Rovinj ↔ Pula e Travessia Fažana ↔ Parque Nacional de Brijuni",
+        "sistema_id": "jadrolinija-kvarner-rijeka-cres-krk-rab-pag-fazana-brijuni-venezia-lines-piran-porec-rovinj-pula-croacia-eslovenia-italia",
+        "sistema_nome": "Jadrolinija no Golfo de Kvarner (Rijeka–Cres–Lošinj–Rab–Pag), Parque Nacional de Brijuni e Catamarãs Veneza–Piran–Ístria (Croácia, Eslovênia e Itália)",
+        "pais": "Croácia, Eslovênia e Itália",
+        "cidade": "Rijeka / Cres / Mali Lošinj / Rab / Pag / Pula (Fažana–Brijuni) / Poreč / Rovinj / Piran / Veneza",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Jadrolinija / Rapska Plovidba (Stinica–Mišnjak) / Nacionalni Park Brijuni / Venezia Lines & Liberty Lines (Trieste–Piran–Ístria)",
+        "extensao_km": 360,
+        "bitola": "Catamarãs Rápidos do Norte do Adriático e Ferries Ro-Pax de Alta Frequência do Golfo de Kvarner",
+        "eletrificacao": "Frota Ro-Pax Moderna e Barcas Híbridas/Elétricas para o Parque Nacional do Arquipélago de Brijuni"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.312,
+            45.432
+          ],
+          [
+            13.762,
+            45.648
+          ],
+          [
+            13.568,
+            45.528
+          ],
+          [
+            13.593,
+            45.227
+          ],
+          [
+            13.633,
+            45.081
+          ],
+          [
+            13.802,
+            44.928
+          ],
+          [
+            13.845,
+            44.872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-egeu-norte-pireu-kavala-samos-ikaria-chios-lesbos-limnos-gr",
+        "nome": "Egeu Setentrional e Oriental: Pireu / Lavrio / Kavala ↔ Icária ↔ Samos ↔ Quíos ↔ Mitilene (Lesbos) ↔ Lemnos (Blue Star / HSW)",
+        "sistema_id": "blue-star-hellenic-seaways-lesbos-chios-samos-ikaria-limnos-anendyk-creta-sfakia-loutro-gavdos-rio-antirrio-eubeia-grecia",
+        "sistema_nome": "Blue Star e Hellenic Seaways no Egeu Setentrional (Lesbos, Quíos, Samos e Lemnos), ANENDYK no Sul de Creta (Samaria e Gavdos) e Ferries de Eubeia (Grécia)",
+        "pais": "Grécia",
+        "cidade": "Mitilene (Lesbos) / Quíos / Vathy e Karlovasi (Samos) / Mirina (Lemnos) / Kavala / Hora Sfakion e Gavdos (Creta) / Rio–Antirrio",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Blue Star Ferries & Hellenic Seaways (Attica Group) / ANENDYK Seaways (Sudoeste de Creta) / Rio–Antirrio & Euboea Gulf Ferries",
+        "extensao_km": 1380,
+        "bitola": "Cruise Ferries Ro-Pax do Mar Egeu Setentrional, Barcas Costeiras do Mar da Líbia (Sul de Creta) e Ferries Anfíbios de Eubeia e Corinto",
+        "eletrificacao": "Frota Ro-Pax com Scrubbers Híbridos (Blue Star Myconos, Blue Star Chios e Diagoras)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.642,
+            37.942
+          ],
+          [
+            26.295,
+            37.615
+          ],
+          [
+            26.972,
+            37.758
+          ],
+          [
+            26.138,
+            38.369
+          ],
+          [
+            26.5575,
+            39.1047
+          ],
+          [
+            25.061,
+            39.874
+          ],
+          [
+            24.412,
+            40.935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-anendyk-creta-sul-sfakia-loutro-samaria-gavdos-eubeia-gr",
+        "nome": "Costa Sul de Creta (ANENDYK Hora Sfakion ↔ Loutro ↔ Agia Roumeli/Samaria ↔ Ilha de Gavdos) e Travessias de Eubeia (Rafina–Marmari) e Rio–Antirrio",
+        "sistema_id": "blue-star-hellenic-seaways-lesbos-chios-samos-ikaria-limnos-anendyk-creta-sfakia-loutro-gavdos-rio-antirrio-eubeia-grecia",
+        "sistema_nome": "Blue Star e Hellenic Seaways no Egeu Setentrional (Lesbos, Quíos, Samos e Lemnos), ANENDYK no Sul de Creta (Samaria e Gavdos) e Ferries de Eubeia (Grécia)",
+        "pais": "Grécia",
+        "cidade": "Mitilene (Lesbos) / Quíos / Vathy e Karlovasi (Samos) / Mirina (Lemnos) / Kavala / Hora Sfakion e Gavdos (Creta) / Rio–Antirrio",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Blue Star Ferries & Hellenic Seaways (Attica Group) / ANENDYK Seaways (Sudoeste de Creta) / Rio–Antirrio & Euboea Gulf Ferries",
+        "extensao_km": 440,
+        "bitola": "Cruise Ferries Ro-Pax do Mar Egeu Setentrional, Barcas Costeiras do Mar da Líbia (Sul de Creta) e Ferries Anfíbios de Eubeia e Corinto",
+        "eletrificacao": "Frota Ro-Pax com Scrubbers Híbridos (Blue Star Myconos, Blue Star Chios e Diagoras)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.685,
+            35.231
+          ],
+          [
+            23.965,
+            35.229
+          ],
+          [
+            24.079,
+            35.198
+          ],
+          [
+            24.137,
+            35.201
+          ],
+          [
+            24.088,
+            34.842
+          ]
+        ]
+      }
     }
   ]
 }
