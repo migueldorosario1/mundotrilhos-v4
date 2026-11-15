@@ -36251,6 +36251,366 @@
           57.8645
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-santa-cruz-de-tenerife-ferry-terminal-es",
+        "nome": "Estación Marítima de Santa Cruz de Tenerife (Conexão Tranvía de Tenerife, Ilhas Canárias)",
+        "sistema_id": "fred-olsen-express-naviera-armas-ilhas-canarias-tenerife-gran-canaria-fuerteventura-lanzarote-la-gomera-espanha",
+        "linha_id": "linha-canarias-central-oriental-tenerife-gran-canaria-fuerteventura-lanzarote",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2425,
+          28.4685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-agaete-las-palmas-gran-canaria-ferry-es",
+        "nome": "Terminais Marítimos de Agaete e Las Palmas de Gran Canaria (Fred. Olsen / Armas, Canárias)",
+        "sistema_id": "fred-olsen-express-naviera-armas-ilhas-canarias-tenerife-gran-canaria-fuerteventura-lanzarote-la-gomera-espanha",
+        "linha_id": "linha-canarias-central-oriental-tenerife-gran-canaria-fuerteventura-lanzarote",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.7015,
+          28.1015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-los-cristianos-ferry-port-tenerife-es",
+        "nome": "Estación Marítima de Los Cristianos — Sul de Tenerife (Rota de La Gomera e La Palma)",
+        "sistema_id": "fred-olsen-express-naviera-armas-ilhas-canarias-tenerife-gran-canaria-fuerteventura-lanzarote-la-gomera-espanha",
+        "linha_id": "linha-canarias-ocidental-los-cristianos-tenerife-la-gomera-la-palma-el-hierro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7215,
+          28.0485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-san-sebastian-de-la-gomera-ferry-port-es",
+        "nome": "Porto de San Sebastián de La Gomera (Fred. Olsen Benchijigua Express, Ilhas Canárias)",
+        "sistema_id": "fred-olsen-express-naviera-armas-ilhas-canarias-tenerife-gran-canaria-fuerteventura-lanzarote-la-gomera-espanha",
+        "linha_id": "linha-canarias-ocidental-los-cristianos-tenerife-la-gomera-la-palma-el-hierro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1085,
+          28.0895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-bastia-corse-fr",
+        "nome": "Gare Maritime de Bastia (Conexão Ferrovia CFC — Córsega, França)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marselha-toulon-nice-ajaccio-bastia-bonifacio-franca-italia",
+        "linha_id": "linha-continuidade-territorial-corsega-marselha-toulon-nice-bastia-ajaccio",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4525,
+          42.6985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-ajaccio-corse-fr",
+        "nome": "Gare Maritime d'Ajaccio (Conexão Ferrovia CFC — Córsega, França)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marselha-toulon-nice-ajaccio-bastia-bonifacio-franca-italia",
+        "linha_id": "linha-continuidade-territorial-corsega-marselha-toulon-nice-bastia-ajaccio",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7425,
+          41.9215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-joliette-marseille-fr",
+        "nome": "Gare Maritime de la Joliette — Porto de Marselha (Corsica Linea / La Méridionale, França)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marselha-toulon-nice-ajaccio-bastia-bonifacio-franca-italia",
+        "linha_id": "linha-continuidade-territorial-corsega-marselha-toulon-nice-bastia-ajaccio",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3625,
+          43.3085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-bonifacio-corse-fr",
+        "nome": "Gare Maritime de Bonifacio (Travessia Internacional Córsega–Sardenha, França)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marselha-toulon-nice-ajaccio-bastia-bonifacio-franca-italia",
+        "linha_id": "linha-estreito-de-bonifacio-corsega-santa-teresa-gallura-sardenha",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1585,
+          41.3875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-valletta-lascaris-grand-harbour-ferry-mt",
+        "nome": "Terminal Hidroviário de Lascaris — Valletta Grand Harbour (Gozo Highspeed & Three Cities, Malta)",
+        "sistema_id": "gozo-channel-cirkewwa-mgarr-valletta-ferry-services-sliema-three-cities-virtu-ferries-malta-italia",
+        "linha_id": "linha-malta-urbana-gozo-channel-sliema-valletta-three-cities-cirkewwa-mgarr",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5125,
+          35.8945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sliema-ferries-marsamxett-terminal-mt",
+        "nome": "Terminal Hidroviário de Sliema Ferries (Valletta Ferry Services, Malta)",
+        "sistema_id": "gozo-channel-cirkewwa-mgarr-valletta-ferry-services-sliema-three-cities-virtu-ferries-malta-italia",
+        "linha_id": "linha-malta-urbana-gozo-channel-sliema-valletta-three-cities-cirkewwa-mgarr",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5045,
+          35.9055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cirkewwa-ferry-terminal-malta",
+        "nome": "Terminal de Ferries de Ċirkewwa (Gozo Channel Line, Norte de Malta)",
+        "sistema_id": "gozo-channel-cirkewwa-mgarr-valletta-ferry-services-sliema-three-cities-virtu-ferries-malta-italia",
+        "linha_id": "linha-malta-urbana-gozo-channel-sliema-valletta-three-cities-cirkewwa-mgarr",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3285,
+          35.9885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mgarr-harbour-ferry-terminal-gozo-mt",
+        "nome": "Terminal Marítimo de Mġarr — Ilha de Gozo (Gozo Channel & Gozo Highspeed, Malta)",
+        "sistema_id": "gozo-channel-cirkewwa-mgarr-valletta-ferry-services-sliema-three-cities-virtu-ferries-malta-italia",
+        "linha_id": "linha-malta-urbana-gozo-channel-sliema-valletta-three-cities-cirkewwa-mgarr",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2985,
+          36.0255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-villa-san-giovanni-marittima-rfi-it",
+        "nome": "Terminal Ferro-Marítimo de Villa San Giovanni (Navios-Ferroviários RFI & BluJet, Calábria, Itália)",
+        "sistema_id": "ferries-estreito-de-messina-blujet-caronte-tirrenia-grimaldi-sardenha-sicilia-italia",
+        "linha_id": "linha-estreito-de-messina-rfi-blujet-caronte-villa-san-giovanni-messina",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6355,
+          38.2185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-messina-marittima-rfi-blujet-sicilia-it",
+        "nome": "Estação Ferro-Marítima de Messina Marittima (RFI Traghetti Ferroviari & BluJet, Sicília, Itália)",
+        "sistema_id": "ferries-estreito-de-messina-blujet-caronte-tirrenia-grimaldi-sardenha-sicilia-italia",
+        "linha_id": "linha-estreito-de-messina-rfi-blujet-caronte-villa-san-giovanni-messina",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5625,
+          38.1935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-olbia-isola-bianca-ferry-port-sardenha-it",
+        "nome": "Stazione Marittima Isola Bianca — Porto de Olbia (Sardenha, Itália)",
+        "sistema_id": "ferries-estreito-de-messina-blujet-caronte-tirrenia-grimaldi-sardenha-sicilia-italia",
+        "linha_id": "linha-autoestradas-mar-tirreno-civitavecchia-olbia-sardenha-napoles-palermo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5325,
+          40.9235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-palermo-stazione-marittima-sicilia-it",
+        "nome": "Stazione Marittima do Porto de Palermo (Autoestradas do Mar Tirreno, Sicília, Itália)",
+        "sistema_id": "ferries-estreito-de-messina-blujet-caronte-tirrenia-grimaldi-sardenha-sicilia-italia",
+        "linha_id": "linha-autoestradas-mar-tirreno-civitavecchia-olbia-sardenha-napoles-palermo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3685,
+          38.1285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-sfax-sonotrak-tn",
+        "nome": "Gare Maritime de Sfax — SONOTRAK 'El Loud' (Golfo de Gabès, Tunísia)",
+        "sistema_id": "sonotrak-sfax-ilhas-kerkennah-ferries-djerba-ajim-jorf-ctn-la-goulette-tunisia",
+        "linha_id": "linha-sonotrak-el-loud-sfax-sidi-youssef-ilhas-kerkennah-tunisia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7645,
+          34.7285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-sidi-youssef-kerkennah-tn",
+        "nome": "Porto de Ferries de Sidi Youssef — Ilhas Kerkennah (SONOTRAK, Tunísia)",
+        "sistema_id": "sonotrak-sfax-ilhas-kerkennah-ferries-djerba-ajim-jorf-ctn-la-goulette-tunisia",
+        "linha_id": "linha-sonotrak-el-loud-sfax-sidi-youssef-ilhas-kerkennah-tunisia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9715,
+          34.6585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-embarcadere-ajim-ilha-djerba-tn",
+        "nome": "Terminal de Ferries de Ajim — Ilha de Djerba (Bacs de Djerba, Tunísia)",
+        "sistema_id": "sonotrak-sfax-ilhas-kerkennah-ferries-djerba-ajim-jorf-ctn-la-goulette-tunisia",
+        "linha_id": "linha-travessia-ilha-de-djerba-ajim-el-jorf-la-goulette-tunisia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7425,
+          33.7195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-el-jorf-medenine-djerba-tn",
+        "nome": "Terminal Continental de Ferries de El Jorf (Medenine / Travessia de Djerba, Tunísia)",
+        "sistema_id": "sonotrak-sfax-ilhas-kerkennah-ferries-djerba-ajim-jorf-ctn-la-goulette-tunisia",
+        "linha_id": "linha-travessia-ilha-de-djerba-ajim-el-jorf-la-goulette-tunisia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          33.7025
+        ]
+      }
     }
   ]
 }

@@ -43579,6 +43579,348 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canarias-central-oriental-tenerife-gran-canaria-fuerteventura-lanzarote",
+        "nome": "Corredor Central e Oriental das Canárias (Santa Cruz de Tenerife – Agaete / Las Palmas de Gran Canaria – Morro Jable / Corralejo – Playa Blanca, Lanzarote)",
+        "sistema_id": "fred-olsen-express-naviera-armas-ilhas-canarias-tenerife-gran-canaria-fuerteventura-lanzarote-la-gomera-espanha",
+        "sistema_nome": "Fred. Olsen Express e Naviera Armas nas Ilhas Canárias (Santa Cruz de Tenerife–Gran Canaria, Los Cristianos–La Gomera–La Palma e Fuerteventura–Lanzarote, Espanha)",
+        "pais": "Espanha",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 275.0,
+        "bitola": "Autoestrada marítima de alta velocidade das Ilhas Canárias (Fred. Olsen / Naviera Armas)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.2425,
+            28.4685
+          ],
+          [
+            -15.7015,
+            28.1015
+          ],
+          [
+            -15.4145,
+            28.1415
+          ],
+          [
+            -14.3515,
+            28.0495
+          ],
+          [
+            -13.8685,
+            28.7395
+          ],
+          [
+            -13.8295,
+            28.8595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canarias-ocidental-los-cristianos-tenerife-la-gomera-la-palma-el-hierro",
+        "nome": "Corredor Ocidental das Canárias (Porto de Los Cristianos, Tenerife – San Sebastián de La Gomera – Santa Cruz de La Palma – El Hierro)",
+        "sistema_id": "fred-olsen-express-naviera-armas-ilhas-canarias-tenerife-gran-canaria-fuerteventura-lanzarote-la-gomera-espanha",
+        "sistema_nome": "Fred. Olsen Express e Naviera Armas nas Ilhas Canárias (Santa Cruz de Tenerife–Gran Canaria, Los Cristianos–La Gomera–La Palma e Fuerteventura–Lanzarote, Espanha)",
+        "pais": "Espanha",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 210.0,
+        "bitola": "Autoestrada marítima ocidental das Canárias (Trimarã Benchijigua Express)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.7215,
+            28.0485
+          ],
+          [
+            -17.1085,
+            28.0895
+          ],
+          [
+            -17.7625,
+            28.6815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-continuidade-territorial-corsega-marselha-toulon-nice-bastia-ajaccio",
+        "nome": "Ponte Marítima França Continental – Córsega (Marselha Joliette / Toulon / Nice – Porto de Bastia e Porto de Ajaccio)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marselha-toulon-nice-ajaccio-bastia-bonifacio-franca-italia",
+        "sistema_nome": "Ponte Marítima da Córsega — Corsica Linea, La Méridionale e Corsica Ferries (Marselha/Toulon/Nice–Bastia/Ajaccio e Estreito de Bonifacio–Sardenha, França e Itália)",
+        "pais": "França",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 580.0,
+        "bitola": "Autoestrada marítima da Córsega (Corsica Linea / La Méridionale / Corsica Ferries)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3625,
+            43.3085
+          ],
+          [
+            5.9325,
+            43.1185
+          ],
+          [
+            8.7425,
+            41.9215
+          ],
+          [
+            9.4525,
+            42.6985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-bonifacio-corsega-santa-teresa-gallura-sardenha",
+        "nome": "Travessia Internacional do Estreito de Bonifacio (Porto de Bonifacio, Córsega – Santa Teresa Gallura, Sardenha)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marselha-toulon-nice-ajaccio-bastia-bonifacio-franca-italia",
+        "sistema_nome": "Ponte Marítima da Córsega — Corsica Linea, La Méridionale e Corsica Ferries (Marselha/Toulon/Nice–Bastia/Ajaccio e Estreito de Bonifacio–Sardenha, França e Itália)",
+        "pais": "França",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 40.0,
+        "bitola": "Travessia internacional Córsega–Sardenha (Moby / Ichnusa Lines)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1585,
+            41.3875
+          ],
+          [
+            9.1985,
+            41.2425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-malta-urbana-gozo-channel-sliema-valletta-three-cities-cirkewwa-mgarr",
+        "nome": "Rede Metropolitana de Valletta e Canal de Gozo (Sliema – Valletta – Three Cities, Expresso Valletta – Gozo & Ro-Pax Ċirkewwa – Mġarr)",
+        "sistema_id": "gozo-channel-cirkewwa-mgarr-valletta-ferry-services-sliema-three-cities-virtu-ferries-malta-italia",
+        "sistema_nome": "Gozo Channel (Ċirkewwa–Mġarr), Valletta Ferry Services & Gozo Highspeed (Sliema–Valletta–Three Cities–Gozo) e Virtu Ferries Malta–Sicília (Malta e Itália)",
+        "pais": "Malta",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 42.0,
+        "bitola": "Hidrovia metropolitana de Valletta e Canal de Gozo (Transport Malta / Gozo Channel)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5215,
+            35.8855
+          ],
+          [
+            14.5125,
+            35.8945
+          ],
+          [
+            14.5045,
+            35.9055
+          ],
+          [
+            14.3285,
+            35.9885
+          ],
+          [
+            14.2985,
+            36.0255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-virtu-ferries-canal-de-malta-valletta-pozzallo-sicilia",
+        "nome": "Ponte Marítima Internacional Malta–Sicília — Virtu Ferries (Valletta Grand Harbour – Porto de Pozzallo, Sicília, Itália)",
+        "sistema_id": "gozo-channel-cirkewwa-mgarr-valletta-ferry-services-sliema-three-cities-virtu-ferries-malta-italia",
+        "sistema_nome": "Gozo Channel (Ċirkewwa–Mġarr), Valletta Ferry Services & Gozo Highspeed (Sliema–Valletta–Three Cities–Gozo) e Virtu Ferries Malta–Sicília (Malta e Itália)",
+        "pais": "Malta",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 93.0,
+        "bitola": "Ponte marítima de alta velocidade Malta–Sicília (HSC Saint John Paul II)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5125,
+            35.8945
+          ],
+          [
+            14.8425,
+            36.7215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-messina-rfi-blujet-caronte-villa-san-giovanni-messina",
+        "nome": "Ponte Ferro-Hidroviária do Estreito de Messina — RFI / BluJet / Caronte (Villa San Giovanni / Reggio Calabria – Messina Marittima)",
+        "sistema_id": "ferries-estreito-de-messina-blujet-caronte-tirrenia-grimaldi-sardenha-sicilia-italia",
+        "sistema_nome": "Navios-Ferroviários da RFI / BluJet e Caronte no Estreito de Messina (Villa San Giovanni–Messina) e Ferries da Sardenha e Sicília (Itália)",
+        "pais": "Itália",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 25.0,
+        "bitola": "Ponte de navios-ferroviários bitola 1.435 mm e ferries rápidos (RFI / BluJet / Caronte)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.6455,
+            38.1125
+          ],
+          [
+            15.6355,
+            38.2185
+          ],
+          [
+            15.5625,
+            38.1935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-autoestradas-mar-tirreno-civitavecchia-olbia-sardenha-napoles-palermo",
+        "nome": "Autoestradas do Mar Tirreno — Grimaldi / Tirrenia / GNV (Civitavecchia – Olbia, Sardenha & Nápoles – Palermo, Sicília)",
+        "sistema_id": "ferries-estreito-de-messina-blujet-caronte-tirrenia-grimaldi-sardenha-sicilia-italia",
+        "sistema_nome": "Navios-Ferroviários da RFI / BluJet e Caronte no Estreito de Messina (Villa San Giovanni–Messina) e Ferries da Sardenha e Sicília (Itália)",
+        "pais": "Itália",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 715.0,
+        "bitola": "Autoestradas do Mar Tirreno para Sardenha e Sicília (Grimaldi / Tirrenia / GNV)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5325,
+            40.9235
+          ],
+          [
+            11.7885,
+            42.0925
+          ],
+          [
+            14.2585,
+            40.8385
+          ],
+          [
+            13.3685,
+            38.1285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-sonotrak-el-loud-sfax-sidi-youssef-ilhas-kerkennah-tunisia",
+        "nome": "Ponte Marítima das Ilhas Kerkennah — SONOTRAK 'El Loud' (Gare Maritime de Sfax – Porto de Sidi Youssef, Kerkennah)",
+        "sistema_id": "sonotrak-sfax-ilhas-kerkennah-ferries-djerba-ajim-jorf-ctn-la-goulette-tunisia",
+        "sistema_nome": "SONOTRAK (Ferries Sfax–Ilhas Kerkennah), Travessia de Djerba (Ajim–El Jorf) e Bacs de Bizerte / La Goulette (Tunísia)",
+        "pais": "Tunísia",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 32.0,
+        "bitola": "Hidrovia pública insular de Sfax–Kerkennah (SONOTRAK El Loud)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7645,
+            34.7285
+          ],
+          [
+            10.9715,
+            34.6585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessia-ilha-de-djerba-ajim-el-jorf-la-goulette-tunisia",
+        "nome": "Travessias de Djerba e Golfo de Gabès (Porto de Ajim, Ilha de Djerba – Terminal Continental de El Jorf, Medenine)",
+        "sistema_id": "sonotrak-sfax-ilhas-kerkennah-ferries-djerba-ajim-jorf-ctn-la-goulette-tunisia",
+        "sistema_nome": "SONOTRAK (Ferries Sfax–Ilhas Kerkennah), Travessia de Djerba (Ajim–El Jorf) e Bacs de Bizerte / La Goulette (Tunísia)",
+        "pais": "Tunísia",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 178.0,
+        "bitola": "Travessia pública de ferries ro-pax da Ilha de Djerba (Ajim–El Jorf)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7425,
+            33.7195
+          ],
+          [
+            10.7285,
+            33.7025
+          ]
+        ]
+      }
     }
   ]
 }
