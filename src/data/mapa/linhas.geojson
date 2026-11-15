@@ -47606,6 +47606,422 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-torghatten-vestfjorden-bodo-moskenes-vaeroy-rost",
+        "nome": "Ferry do Vestfjorden Rota 18-782: Bodø – Moskenes (Lofoten) – Værøy – Røst (MF Landegode / MF Værøy)",
+        "sistema_slug": "torghatten-nord-bodo-moskenes-rost-vaeroy-svolvaer-skutvik-lofoten-noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 165.0,
+        "sistema_id": "torghatten-nord-bodo-moskenes-rost-vaeroy-svolvaer-skutvik-lofoten-noruega",
+        "sistema_nome": "Ferries do Vestfjorden e Arquipélago de Lofoten — Torghatten Nord (Bodø–Moskenes/Reine–Værøy–Røst, Bognes–Lødingen e Svolvær–Skrova–Skutvik, Noruega)",
+        "pais": "Noruega",
+        "continente": "Europa",
+        "bitola": "Ferry Ro-Pax Oceânico a GNL (Gás Natural Liquefeito) e Elétrico Híbrido de Travessia Ártica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3912,
+            67.2875
+          ],
+          [
+            13.75,
+            67.6
+          ],
+          [
+            13.1018,
+            67.8989
+          ],
+          [
+            12.6953,
+            67.6598
+          ],
+          [
+            12.1189,
+            67.5158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-torghatten-lofoten-norte-bognes-lodingen-svolvaer-skutvik",
+        "nome": "Corredor Norte de Lofoten e Tysfjorden: Bognes – Lødingen (Rota E10) e Svolvær – Skrova – Skutvik",
+        "sistema_slug": "torghatten-nord-bodo-moskenes-rost-vaeroy-svolvaer-skutvik-lofoten-noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 145.0,
+        "sistema_id": "torghatten-nord-bodo-moskenes-rost-vaeroy-svolvaer-skutvik-lofoten-noruega",
+        "sistema_nome": "Ferries do Vestfjorden e Arquipélago de Lofoten — Torghatten Nord (Bodø–Moskenes/Reine–Værøy–Røst, Bognes–Lødingen e Svolvær–Skrova–Skutvik, Noruega)",
+        "pais": "Noruega",
+        "continente": "Europa",
+        "bitola": "Ferry Ro-Pax Oceânico a GNL (Gás Natural Liquefeito) e Elétrico Híbrido de Travessia Ártica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.0881,
+            68.2251
+          ],
+          [
+            15.9942,
+            68.4098
+          ],
+          [
+            14.5681,
+            68.2325
+          ],
+          [
+            14.6512,
+            68.1653
+          ],
+          [
+            15.3292,
+            68.0169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-the-fjords-flam-gudvangen-geiranger-hellesylt",
+        "nome": "Fiordes Patrimônio Mundial UNESCO: Flåm – Aurland – Gudvangen (Nærøyfjord Elétrico) e Geiranger – Hellesylt",
+        "sistema_slug": "fjord1-norled-geiranger-hellesylt-gudvangen-flam-naeroyfjord-lysefjord-noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 125.0,
+        "sistema_id": "fjord1-norled-geiranger-hellesylt-gudvangen-flam-naeroyfjord-lysefjord-noruega",
+        "sistema_nome": "Ferries Elétricos e Híbridos dos Grandes Fiordes Patrimônio Mundial da Noruega — The Fjords, Fjord1 e Norled (Flåm–Gudvangen no Nærøyfjord, Geiranger–Hellesylt e Lysefjord, Noruega)",
+        "pais": "Noruega",
+        "continente": "Europa",
+        "bitola": "Catamarã 100% Elétrico em Fibra de Carbono (Future of The Fjords / Legacy of The Fjords) e Ferry Elétrico Ro-Pax"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1147,
+            60.8638
+          ],
+          [
+            7.1869,
+            60.9056
+          ],
+          [
+            6.8414,
+            60.8819
+          ],
+          [
+            6.8742,
+            62.0869
+          ],
+          [
+            7.2059,
+            62.1015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-fjord1-norled-sognefjord-lavik-oppedal-lysefjord-lysebotn",
+        "nome": "Eixo E39 Sognefjord e Lysefjord: Lavik – Oppedal (MF Ampere Elétrico) e Lauvvik – Forsand – Lysebotn (Preikestolen)",
+        "sistema_slug": "fjord1-norled-geiranger-hellesylt-gudvangen-flam-naeroyfjord-lysefjord-noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115.0,
+        "sistema_id": "fjord1-norled-geiranger-hellesylt-gudvangen-flam-naeroyfjord-lysefjord-noruega",
+        "sistema_nome": "Ferries Elétricos e Híbridos dos Grandes Fiordes Patrimônio Mundial da Noruega — The Fjords, Fjord1 e Norled (Flåm–Gudvangen no Nærøyfjord, Geiranger–Hellesylt e Lysefjord, Noruega)",
+        "pais": "Noruega",
+        "continente": "Europa",
+        "bitola": "Catamarã 100% Elétrico em Fibra de Carbono (Future of The Fjords / Legacy of The Fjords) e Ferry Elétrico Ro-Pax"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.5028,
+            61.1014
+          ],
+          [
+            5.5117,
+            61.0575
+          ],
+          [
+            6.0542,
+            58.8939
+          ],
+          [
+            6.185,
+            58.985
+          ],
+          [
+            6.6472,
+            59.0558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-skagerrak-kristiansand-larvik-stavanger-bergen-hirtshals",
+        "nome": "Ponte Marítima do Skagerrak: Kristiansand / Larvik – Hirtshals (Color Line SuperSpeed) e Bergen – Stavanger – Hirtshals (Fjord Line)",
+        "sistema_slug": "color-line-superspeed-kristiansand-larvik-hirtshals-fjord-line-stavanger-bergen-sandefjord-stromstad-noruega-dinamarca-suecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 440.0,
+        "sistema_id": "color-line-superspeed-kristiansand-larvik-hirtshals-fjord-line-stavanger-bergen-sandefjord-stromstad-noruega-dinamarca-suecia",
+        "sistema_nome": "Autoestradas Marítimas do Skagerrak — Color Line SuperSpeed (Kristiansand/Larvik–Hirtshals), Color Hybrid (Sandefjord–Strømstad) e Fjord Line (Bergen–Stavanger–Hirtshals, Noruega, Dinamarca e Suécia)",
+        "pais": "Noruega, Dinamarca e Suécia",
+        "continente": "Europa",
+        "bitola": "Superferry Rápido Ro-Pax (MS SuperSpeed 1 & 2, 27 nós), Cruise Ferry a GNL e Maior Ferry Híbrido Plug-in do Mundo (MS Color Hybrid)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3119,
+            60.3911
+          ],
+          [
+            5.5861,
+            58.9225
+          ],
+          [
+            7.9914,
+            58.1419
+          ],
+          [
+            9.9614,
+            57.5936
+          ],
+          [
+            10.0481,
+            59.0414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-color-hybrid-sandefjord-stromstad-oslofjord",
+        "nome": "Corredor Híbrido do Oslofjord Exterior: Sandefjord (Noruega) – Strømstad (Suécia — MS Color Hybrid Plug-in)",
+        "sistema_slug": "color-line-superspeed-kristiansand-larvik-hirtshals-fjord-line-stavanger-bergen-sandefjord-stromstad-noruega-dinamarca-suecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 140.0,
+        "sistema_id": "color-line-superspeed-kristiansand-larvik-hirtshals-fjord-line-stavanger-bergen-sandefjord-stromstad-noruega-dinamarca-suecia",
+        "sistema_nome": "Autoestradas Marítimas do Skagerrak — Color Line SuperSpeed (Kristiansand/Larvik–Hirtshals), Color Hybrid (Sandefjord–Strømstad) e Fjord Line (Bergen–Stavanger–Hirtshals, Noruega, Dinamarca e Suécia)",
+        "pais": "Noruega, Dinamarca e Suécia",
+        "continente": "Europa",
+        "bitola": "Superferry Rápido Ro-Pax (MS SuperSpeed 1 & 2, 27 nós), Cruise Ferry a GNL e Maior Ferry Híbrido Plug-in do Mundo (MS Color Hybrid)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.2269,
+            59.1264
+          ],
+          [
+            10.65,
+            58.98
+          ],
+          [
+            11.1706,
+            58.9369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-dinamarca-aero-svendborg-marstal-samso-kalundborg",
+        "nome": "Arquipélago do Sul de Fiónia e Samsø: Svendborg – Ærøskøbing / Fynshav – Søby (E-Ferry Ellen) e Kalundborg / Hou – Samsø",
+        "sistema_slug": "laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 135.0,
+        "sistema_id": "laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca",
+        "sistema_nome": "Ferries Elétricos Insulares da Dinamarca — Ærøfærgerne & ÆrøXpressen (Svendborg/Rudkøbing–Ærø), Samsø Rederi (Kalundborg/Hou–Samsø) e Læsøfærgen (Frederikshavn–Læsø, Dinamarca)",
+        "pais": "Dinamarca",
+        "continente": "Europa",
+        "bitola": "E-Ferry 100% Elétrico a Bateria (4,3 MWh — E-Ferry Ellen) e Ferry Ro-Pax Insular a Biogás Liquefeito (LBG)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9856,
+            54.9956
+          ],
+          [
+            10.2581,
+            54.9422
+          ],
+          [
+            10.4125,
+            54.8919
+          ],
+          [
+            10.6156,
+            55.0578
+          ],
+          [
+            11.0858,
+            55.6761
+          ],
+          [
+            10.6408,
+            55.8181
+          ],
+          [
+            10.2519,
+            55.9103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-dinamarca-kattegat-norte-frederikshavn-laeso",
+        "nome": "Corredor Insular do Norte do Kattegat: Frederikshavn – Vesterø Havn (Ilha de Læsø — MF Margrete Læsø / MF Ane Læsø)",
+        "sistema_slug": "laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 85.0,
+        "sistema_id": "laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca",
+        "sistema_nome": "Ferries Elétricos Insulares da Dinamarca — Ærøfærgerne & ÆrøXpressen (Svendborg/Rudkøbing–Ærø), Samsø Rederi (Kalundborg/Hou–Samsø) e Læsøfærgen (Frederikshavn–Læsø, Dinamarca)",
+        "pais": "Dinamarca",
+        "continente": "Europa",
+        "bitola": "E-Ferry 100% Elétrico a Bateria (4,3 MWh — E-Ferry Ellen) e Ferry Ro-Pax Insular a Biogás Liquefeito (LBG)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5453,
+            57.4369
+          ],
+          [
+            10.73,
+            57.36
+          ],
+          [
+            10.9239,
+            57.2953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-aland-norte-grisslehamn-eckero-hummelvik-kumlinge-brando-osnas",
+        "nome": "Mar de Åland e Linha Norte (Norra Linjen): Grisslehamn (Suécia) – Eckerö e Hummelvik – Kumlinge – Brändö – Osnäs (Kustavi)",
+        "sistema_slug": "alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 170.0,
+        "sistema_id": "alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia",
+        "sistema_nome": "Rede Insular Ålandstrafiken (Anel do Arquipélago de Åland Hummelvik–Kumlinge–Brändö–Osnäs e Långnäs–Kökar–Galtby) e Eckerö Linjen (Grisslehamn–Eckerö, Ilhas Åland, Finlândia e Suécia)",
+        "pais": "Finlândia e Suécia",
+        "continente": "Europa",
+        "bitola": "Ferry Ro-Pax Quebra-Gelo de Arquipélago (Classe 1A Super do Báltico) e Cruise Ferry Rápido (MS Eckerö)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.8153,
+            60.1019
+          ],
+          [
+            19.5361,
+            60.2244
+          ],
+          [
+            20.3719,
+            60.2289
+          ],
+          [
+            20.785,
+            60.2789
+          ],
+          [
+            21.0692,
+            60.4911
+          ],
+          [
+            21.2397,
+            60.5119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-aland-sul-langnas-foglo-sottunga-kokar-galtby-korpo",
+        "nome": "Linha Sul do Arquipélago (Södra Linjen): Långnäs – Föglö – Sottunga – Kökar – Galtby (Korpo / Pargas)",
+        "sistema_slug": "alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 125.0,
+        "sistema_id": "alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia",
+        "sistema_nome": "Rede Insular Ålandstrafiken (Anel do Arquipélago de Åland Hummelvik–Kumlinge–Brändö–Osnäs e Långnäs–Kökar–Galtby) e Eckerö Linjen (Grisslehamn–Eckerö, Ilhas Åland, Finlândia e Suécia)",
+        "pais": "Finlândia e Suécia",
+        "continente": "Europa",
+        "bitola": "Ferry Ro-Pax Quebra-Gelo de Arquipélago (Classe 1A Super do Báltico) e Cruise Ferry Rápido (MS Eckerö)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.2981,
+            60.1167
+          ],
+          [
+            20.4356,
+            60.0681
+          ],
+          [
+            20.6653,
+            60.1306
+          ],
+          [
+            20.8878,
+            59.9389
+          ],
+          [
+            21.5681,
+            60.1819
+          ]
+        ]
+      }
     }
   ]
 }
