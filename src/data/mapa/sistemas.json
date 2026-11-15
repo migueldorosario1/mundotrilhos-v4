@@ -31446,5 +31446,399 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "twin-city-liner-viena-bratislava-rio-danubio-ddsg-wachau-austria-eslovaquia",
+    "slug": "twin-city-liner-viena-bratislava-rio-danubio-ddsg-wachau-austria-eslovaquia",
+    "nome_pt": "Catamarã Internacional de Alta Velocidade Twin City Liner (Viena–Bratislava no Rio Danúbio) e DDSG Blue Danube (Vale de Wachau, Áustria e Eslováquia)",
+    "nome_en": "Twin City Liner High-Speed Catamaran (Vienna–Bratislava on the Danube) & DDSG Blue Danube (Wachau Valley, Austria & Slovakia)",
+    "pais": "Áustria e Eslováquia",
+    "cidade": "Viena (Schwedenplatz), Krems an der Donau, Dürnstein, Spitz e Melk (Áustria); Bratislava (Pontoon HUMA 6 / Centro Histórico, Eslováquia)",
+    "uf": "Wien / Niederösterreich (AT) / Bratislavský kraj (SK)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Central Danube Region Marketing & Development GmbH (Catamarã de Alta Velocidade Twin City Liner) & DDSG Blue Danube Schiffahrt GmbH (Viena e Vale de Wachau)",
+    "inauguracao": "2006 (Inauguração do serviço expresso de catamarãs Twin City Liner entre Viena e Bratislava; navegação regular a vapor da DDSG no Danúbio desde 1829)",
+    "extensao_km": 155.0,
+    "bitola": "Canal do Danúbio (Donaukanal em Viena) e Rio Danúbio (Corredor Internacional Viena–Hainburg–Bratislava e Vale de Wachau UNESCO)",
+    "eletrificacao": "Catamarã britânico Wight Shipyard de alumínio de alta velocidade Twin City Liner (250 passageiros em 2 conveses, 38 nós / 70 km/h com propulsão a hidrojato Rolls-Royce) e navios fluviais DDSG",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 4800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 25 milhões (construção do novo catamarã Twin City Liner de 250 lugares de baixo calado e modernização da Schiffstation Wien City na Schwedenplatz)",
+      "moeda": "EUR",
+      "fonte_id": "central-danube-twin-city-liner-ddsg"
+    },
+    "proximas_entregas": {
+      "pt": "Desenvolvimento de propulsão híbrida/hidrogênio para a próxima geração de embarcações rápidas no Danúbio entre Viena, Hainburg e Bratislava.",
+      "en": "Development of hybrid/hydrogen propulsion for next-generation fast river vessels on the Danube between Vienna and Bratislava."
+    },
+    "resumo_pt": "Separadas por apenas 68 km de curso fluvial, Viena (Áustria) e Bratislava (Eslováquia) são as duas capitais nacionais mais próximas da Europa e contam com uma linha internacional regular de alta velocidade pelo Rio Danúbio: o célebre catamarã 'Twin City Liner', operado pela Central Danube (joint-venture da Wien Holding e do Raiffeisen). Partindo da moderna estação fluvial Wien City na Schwedenplatz (no pleno centro de Viena, com integração direta às linhas U1 e U4 do Metrô de Viena e aos bondes da Ringstraße), o catamarã de alumínio navega pelo Donaukanal, entra no canal principal do Rio Danúbio atravessando o Parque Nacional Donau-Auen e atraca aos pés do centro histórico de Bratislava em apenas 75 minutos (a 70 km/h). A montante de Viena, a histórica companhia DDSG Blue Danube opera a linha regular do Vale de Wachau (Patrimônio Mundial da UNESCO), conectando as estações ferroviárias ÖBB de Krems an der Donau e Melk pelos vilarejos medievais de Dürnstein e Spitz.",
+    "resumo_en": "Separated by just 68 km along the river, Vienna (Austria) and Bratislava (Slovakia) are Europe's two closest national capitals and are linked by a scheduled international high-speed waterway service: the iconic 'Twin City Liner' catamaran, operated by Central Danube. Departing from the Wien City River Station at Schwedenplatz (directly integrated with Vienna U-Bahn lines U1 and U4), the 250-passenger waterjet catamaran sails down the Donaukanal and along the main Danube through Donau-Auen National Park to reach central Bratislava in just 75 minutes at speeds of up to 70 km/h. Upstream from Vienna, historic operator DDSG Blue Danube serves the UNESCO-listed Wachau Valley corridor between Krems an der Donau, Dürnstein, Spitz and Melk.",
+    "lat": 48.2115,
+    "lon": 16.3775,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "central-danube-twin-city-liner-ddsg",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "áustria",
+      "eslováquia",
+      "viena",
+      "wien",
+      "bratislava",
+      "twin city liner",
+      "rio danúbio",
+      "donau",
+      "schwedenplatz",
+      "wachau",
+      "krems",
+      "melk",
+      "ddsg",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Twin_City_Liner_in_Vienna_Donaukanal.jpg/800px-Twin_City_Liner_in_Vienna_Donaukanal.jpg",
+      "credito": "Wikimedia Commons — Catamarã internacional de alta velocidade Twin City Liner na estação de Schwedenplatz no Canal do Danúbio (Viena–Bratislava, Áustria e Eslováquia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Twin_City_Liner"
+    },
+    "linhas": [
+      {
+        "id": "linha-twin-city-liner-danubio-viena-schwedenplatz-hainburg-bratislava",
+        "nome": "Expresso Internacional do Danúbio — Twin City Liner (Schiffstation Wien City / Schwedenplatz, Viena – Hainburg – Pontoon Centro Histórico, Bratislava)",
+        "status": "operacao",
+        "extensao_km": 68.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-ddsg-blue-danube-vale-de-wachau-krems-durnstein-spitz-melk",
+        "nome": "Hidrovia do Vale de Wachau UNESCO — DDSG Blue Danube (Krems an der Donau – Dürnstein – Spitz – Abadia de Melk, Áustria)",
+        "status": "operacao",
+        "extensao_km": 87.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "bkk-mahart-passnave-budapeste-curva-do-danubio-szentendre-visegrad-lago-balaton-szantod-tihany-hungria",
+    "slug": "bkk-mahart-passnave-budapeste-curva-do-danubio-szentendre-visegrad-lago-balaton-szantod-tihany-hungria",
+    "nome_pt": "Barcas de Budapeste BKK e MAHART PassNave (Curva do Danúbio Budapeste–Szentendre–Visegrád–Esztergom) e Ferry Ro-Pax do Lago Balaton BAHART (Szántód–Tihany, Hungria)",
+    "nome_en": "Budapest BKK & MAHART PassNave Ferries (Danube Bend Budapest–Szentendre–Visegrád–Esztergom) & Lake Balaton BAHART Ro-Pax Ferry (Szántód–Tihany, Hungary)",
+    "pais": "Hungria",
+    "cidade": "Budapeste (Vigadó tér, Margitsziget, Csepel e Soroksár), Szentendre, Visegrád e Esztergom (Rio Danúbio); Szántód, Tihany, Siófok, Balatonfüred e Badacsony (Lago Balaton, Hungria)",
+    "uf": "Budapest / Pest / Komárom-Esztergom / Somogy / Veszprém",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "BKK Budapesti Közlekedési Központ & MAHART PassNave Személyhajózási Kft. (Rio Danúbio) & BAHART — Balatoni Hajózási Zrt. (Lago Balaton)",
+    "inauguracao": "1895 (Fundação da MAHART no Danúbio húngaro; travessia regular de ferries no estreito de Tihany no Lago Balaton desde 1927)",
+    "extensao_km": 140.0,
+    "bitola": "Rio Danúbio (Trecho Metropolitano de Budapeste e Curva do Danúbio) e Lago Balaton (Maior lago da Europa Central)",
+    "eletrificacao": "Novos ferries ro-pax de convés duplo e catamarãs da BAHART (entregues em 2023–2024 no Lago Balaton), balsa urbana BKK D14 e hidrofólios/barcos da MAHART PassNave",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 18500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 42 milhões (renovação histórica da frota da BAHART com 2 novos ferries ro-pax Szántód/Tihany e 2 novos catamarãs Balaton/Tomaj construídos no estaleiro de Komárom)",
+      "moeda": "EUR",
+      "fonte_id": "mahart-passnave-bkk-bahart-balaton"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão das linhas metropolitanas de barcas no trecho central do Danúbio em Budapeste e eletrificação progressiva da frota do Lago Balaton.",
+      "en": "Expansion of metropolitan ferry services along the central Budapest Danube reach and progressive electrification of the Lake Balaton fleet."
+    },
+    "resumo_pt": "Na Hungria, o transporte público hidroviário articula-se em torno de dois grandes eixos: o Rio Danúbio (Duna) e o Lago Balaton. Em Budapeste e na famosa Curva do Danúbio (Dunakanyar), o centro de transporte BKK opera a travessia urbana D14 (entre Csepel-Királyerdő e Soroksár-Molnár-sziget), enquanto a estatal MAHART PassNave opera os barcos metropolitanos pelo centro monumental de Budapeste (Vigadó tér – Ilha Margarida – Óbuda) e os hidrofólios/barcos expressos até Szentendre, o castelo real de Visegrád e a basílica de Esztergom (na fronteira com Štúrovo, na Eslováquia). Já no oeste do país, no Lago Balaton — o maior lago da Europa Central, com 77 km de extensão —, a estatal BAHART (Balatoni Hajózási Zrt.) opera durante todo o ano a estratégica ponte lacustre ro-pax entre Szántód (margem sul, conectada à ferrovia MÁV Budapeste–Nagykanizsa) e a Península de Tihany (margem norte), com ferries para veículos e ciclistas a cada 30 minutos (8 minutos de travessia), além de linhas de catamarãs entre Siófok, Balatonfüred, Tihany e Badacsony.",
+    "resumo_en": "In Hungary, public water transport revolves around two iconic axes: the Danube River (Duna) and Lake Balaton. In Budapest and the scenic Danube Bend (Dunakanyar), transport authority BKK runs the D14 urban ferry (Csepel–Soroksár), while state operator MAHART PassNave operates metropolitan river vessels through central Budapest (Vigadó tér – Margaret Island) and express boats/hydrofoils upstream to Szentendre, Visegrád and Esztergom. In western Hungary on Lake Balaton — Central Europe's largest lake — state operator BAHART runs the year-round ro-pax vehicle and passenger ferry across the narrow strait between Szántód (south shore) and the Tihany Peninsula (north shore) in just 8 minutes, alongside scheduled catamarans linking Siófok, Balatonfüred and Badacsony.",
+    "lat": 47.4955,
+    "lon": 19.0465,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "mahart-passnave-bkk-bahart-balaton",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "hungria",
+      "budapeste",
+      "rio danúbio",
+      "curva do danúbio",
+      "szentendre",
+      "visegrád",
+      "esztergom",
+      "mahart passnave",
+      "bkk",
+      "lago balaton",
+      "bahart",
+      "szántód",
+      "tihany",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BAHART_ferry_Szantod_Tihany_Lake_Balaton.jpg/800px-BAHART_ferry_Szantod_Tihany_Lake_Balaton.jpg",
+      "credito": "Wikimedia Commons — Ferry ro-pax da BAHART na travessia Szántód–Tihany no Lago Balaton e barcos da MAHART PassNave no Danúbio em Budapeste (Hungria)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_on_Lake_Balaton"
+    },
+    "linhas": [
+      {
+        "id": "linha-danubio-budapeste-vigado-ter-szentendre-visegrad-esztergom-mahart",
+        "nome": "Hidrovia Metropolitana de Budapeste e Curva do Danúbio — BKK / MAHART PassNave (Csepel – Vigadó tér, Budapeste – Szentendre – Visegrád – Esztergom)",
+        "status": "operacao",
+        "extensao_km": 85.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-lago-balaton-bahart-szantod-tihany-siofok-balatonfured",
+        "nome": "Ponte Ro-Pax e Catamarãs do Lago Balaton — BAHART (Terminal de Szántód – Península de Tihany & Siófok – Balatonfüred – Badacsony)",
+        "status": "operacao",
+        "extensao_km": 55.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "pid-prague-integrated-ferries-p1-p7-rio-moldava-vltava-praga-republica-tcheca",
+    "slug": "pid-prague-integrated-ferries-p1-p7-rio-moldava-vltava-praga-republica-tcheca",
+    "nome_pt": "Barcas Urbanas Integradas PID de Praga (Linhas P1 a P7 no Rio Moldava / Vltava) e Travessias do Lago Lipno (República Tcheca)",
+    "nome_en": "Prague Integrated Transport Urban Ferries — PID (Lines P1 to P7 on the Vltava River) & Lake Lipno Ferries (Czech Republic)",
+    "pais": "República Tcheca",
+    "cidade": "Praga (Sedlec, Podbaba, Troja, Holešovice, Karlín, Smíchov, Výtoň e Modřany no Rio Moldava / Vltava) e Horní Planá / Frymburk (Lago Lipno, Boêmia do Sul)",
+    "uf": "Praha / Jihočeský kraj",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "ROPID — Pražská integrovaná doprava (PID: Operadores Pražské Benátky e Vittus Group nas Linhas P1 a P7) & Travessias Ro-Pax do Lago Lipno",
+    "inauguracao": "2005 (Reintrodução moderna das barcas urbanas no sistema integrado metropolitano PID de Praga na Linha P1 Sedlec–Zámky, expandida para 7 linhas P1–P7)",
+    "extensao_km": 45.0,
+    "bitola": "Rio Moldava (Vltava) na Região Metropolitana de Praga e Reservatório de Lipno (Boêmia do Sul)",
+    "eletrificacao": "Barcas urbanas de baixo calado e propulsão híbrida/solar acessíveis para bicicletas e carrinhos de bebê (frota Pražské Benátky: Kazi, Teta, Libuše, Šemík e Holan)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 7200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 12 milhões (eletrificação das barcas urbanas do Rio Moldava pela municipalidade de Praga / ROPID e novos píeres acessíveis em Holešovice e Smíchov)",
+      "moeda": "EUR",
+      "fonte_id": "ropid-pid-prague-ferries-prazske-benatky"
+    },
+    "proximas_entregas": {
+      "pt": "Conversão de 100% das barcas das linhas permanentes P1 e P2 para propulsão elétrica zero emissão com recarga rápida nos píeres do Rio Moldava.",
+      "en": "Conversion of 100% of year-round ferry lines P1 and P2 to zero-emission battery-electric propulsion on the Vltava River."
+    },
+    "resumo_pt": "Em Praga, capital da República Tcheca, o sistema integrado de transporte metropolitano PID (Pražská integrovaná doprava, coordenado pela agência pública ROPID) inclui uma charmosa e eficiente rede de 7 linhas de barcas urbanas (Přívozy PID, numeradas de P1 a P7) que cruzam o Rio Moldava (Vltava) usando exatamente o mesmo bilhete ou passe Lítačka válido no Metrô, nos Bondes (Trams) e nos trens suburbanos S-Bahn. Ao norte da cidade, as linhas permanentes P1 (Sedlec – Zámky, integrada aos trens suburbanos S4) e P2 (V Podbabě – Podhoří, principal acesso ao Zoológico de Praga e ao Palácio de Troja) funcionam o ano inteiro das 5h30 às 22h30. No centro e sul de Praga, as linhas P3 (Lihovar – Veslařský ostrov), P4 (Dostihová – Belárie), P5 (Císařská louka – Kotevní – Výtoň, aos pés do Castelo de Vyšehrad), P6 (Lahovičky – Nádraží Modřany, conectada ao bonde 17) e P7 (Pražská tržnice – Ilha de Štvanice – Rohanský ostrov em Karlín) conectam margens sem pontes para pedestres e ciclistas.",
+    "resumo_en": "In Prague, capital of the Czech Republic, the Prague Integrated Transport system (PID, managed by public agency ROPID) includes a network of 7 urban ferry lines (Přívozy PID, numbered P1 through P7) crossing the Vltava River using the exact same fares and Lítačka passes as the Prague Metro, Trams and S-Bahn commuter trains. In northern Prague, year-round lines P1 (Sedlec – Zámky) and P2 (V Podbabě – Podhoří, serving Prague Zoo and Troja Chateau) operate daily from early morning until night. Across central and southern Prague, lines P3, P4, P5 (Císařská louka – Kotevní – Výtoň below Vyšehrad Castle), P6 (Lahovičky – Nádraží Modřany) and P7 (Holešovice Market – Štvanice Island – Karlín) provide vital cross-river links for pedestrians and cyclists.",
+    "lat": 50.1185,
+    "lon": 14.3955,
+    "zoom_inicial": 11.8,
+    "fontes": [
+      "ropid-pid-prague-ferries-prazske-benatky",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "república tcheca",
+      "praga",
+      "praha",
+      "rio moldava",
+      "vltava",
+      "pid",
+      "přívozy pid",
+      "pražské benátky",
+      "podbaba",
+      "sedlec",
+      "výtoň",
+      "štvanice",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Privoz_P2_Podbaba_Podhori_Prague_Vltava.jpg/800px-Privoz_P2_Podbaba_Podhori_Prague_Vltava.jpg",
+      "credito": "Wikimedia Commons — Barca urbana integrada da Linha P2 (V Podbabě – Podhoří) do sistema PID cruzando o Rio Moldava em Praga (República Tcheca)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Prague"
+    },
+    "linhas": [
+      {
+        "id": "linha-pid-praga-norte-p1-sedlec-p2-podbaba-podhori-p7-stvanice",
+        "nome": "Travessias Urbanas Norte e Centro do Rio Moldava — PID Linhas P1, P2 e P7 (Sedlec–Zámky, V Podbabě–Podhoří/Troja e Holešovice–Štvanice–Karlín, Praga)",
+        "status": "operacao",
+        "extensao_km": 22.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-pid-praga-sul-p3-lihovar-p5-vyton-p6-modrany-vltava",
+        "nome": "Travessias Urbanas Sul do Rio Moldava — PID Linhas P3, P4, P5 e P6 (Výtoň–Císařská louka–Smíchov, Lihovar–Veslařský ostrov e Lahovičky–Nádraží Modřany)",
+        "status": "operacao",
+        "extensao_km": 23.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
+    "slug": "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
+    "nome_pt": "Barcas Urbanas BVG de Berlim (Linhas F10 Wannsee–Kladow e Catamarãs Solares F11, F12, F21, F23 e F24 nos Rios Spree e Dahme) e Potsdam (Alemanha)",
+    "nome_en": "Berlin BVG Urban Ferries (Line F10 Wannsee–Kladow & Solar Electric Catamarans F11, F12, F21, F23, F24 on the Spree & Dahme Rivers) & Potsdam (Germany)",
+    "pais": "Alemanha",
+    "cidade": "Berlim (Wannsee, Alt-Kladow, Oberschöneweide, Baumschulenweg, Grünau, Wendenschloss, Friedrichshagen e Rahnsdorf) e Potsdam (Brandemburgo, Alemanha)",
+    "uf": "Berlin / Brandenburg",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Berliner Verkehrsbetriebe — BVG / Weiße Flotte GmbH (Linhas Tarifárias VBB F10, F11, F12, F21, F23 e F24, incluindo a única balsa a remo pública da Alemanha na F24!)",
+    "inauguracao": "1896 (Início das travessias regulares no Grande Wannsee e no Rio Spree; integração plena das 6 linhas F10–F24 na rede tarifária da BVG / VBB de Berlim)",
+    "extensao_km": 52.0,
+    "bitola": "Rio Havel / Grande Lago Wannsee (Oeste de Berlim) e Rios Spree, Dahme e Müggelsee (Sudeste de Berlim)",
+    "eletrificacao": "Catamarãs elétricos solares zero emissão FährBär 1 a 4 nas linhas F11, F12, F21 e F23, novo ferry diesel-elétrico/híbrido na F10 Wannsee e balsa tradicional a remo na F24",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 8500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 18 milhões (implantação da frota de catamarãs solares elétricos FährBär da BVG construídos em Stralsund e modernização dos píeres de S-Bhf Wannsee e Alt-Kladow)",
+      "moeda": "EUR",
+      "fonte_id": "bvg-berlin-faehren-vbb"
+    },
+    "proximas_entregas": {
+      "pt": "Eletrificação integral da embarcação de alta capacidade da linha principal F10 (S-Bhf Wannsee – Alt-Kladow) no Rio Havel.",
+      "en": "Full battery-electric conversion of the high-capacity vessel on flagship line F10 (S-Bhf Wannsee – Alt-Kladow) on the Havel River."
+    },
+    "resumo_pt": "Além das redes portuárias do norte da Alemanha (Hamburgo HADAG e Kiel), a capital federal Berlim possui uma rede oficial de 6 linhas de barcas urbanas (BVG-Fähren: F10, F11, F12, F21, F23 e F24) operadas pela Berliner Verkehrsbetriebe (BVG) e integradas à tarifa única VBB (mesmo bilhete do U-Bahn e S-Bahn). A oeste da cidade, a linha principal F10 cruza durante o ano inteiro os 4,4 km do Grande Lago Wannsee / Rio Havel em 20 minutos, conectando a estação ferroviária e de S-Bahn Berlin-Wannsee (linhas S1 e S7) ao bairro de Alt-Kladow (em Spandau), poupando mais de 1 hora de trajeto rodoviário. Já nos rios Spree, Dahme e nos lagos de Treptow-Köpenick (sudeste de Berlim), as linhas F11 (Oberschöneweide – Baumschulenweg), F12 (Grünau – Wendenschloss), F21 e F23 são operadas por modernos catamarãs 100% elétricos movidos a energia solar ('FährBär 1 a 4'), enquanto a pitoresca linha F24 (Rahnsdorf – Müggelheim) preserva a única balsa pública de transporte regular movida a remo da Alemanha.",
+    "resumo_en": "Alongside northern Germany's harbour ferries, the federal capital Berlin operates an official network of 6 urban ferry lines (BVG-Fähren: F10, F11, F12, F21, F23 and F24) integrated into the regular BVG/VBB public transit fare (valid with standard U-Bahn and S-Bahn tickets). In western Berlin, flagship line F10 crosses the 4.4 km Großer Wannsee / Havel River year-round in 20 minutes between S-Bahnhof Wannsee (lines S1/S7) and Alt-Kladow (Spandau). In southeastern Berlin across the Spree and Dahme rivers (Treptow-Köpenick), lines F11, F12, F21 and F23 are operated by zero-emission solar-electric catamarans ('FährBär 1–4'), while line F24 preserves Germany's only scheduled public rowboat ferry.",
+    "lat": 52.4235,
+    "lon": 13.1755,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "bvg-berlin-faehren-vbb",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "alemanha",
+      "berlim",
+      "berlin",
+      "bvg",
+      "f10",
+      "f11",
+      "f12",
+      "wannsee",
+      "alt-kladow",
+      "rio spree",
+      "rio havel",
+      "rio dahme",
+      "köpenick",
+      "fährbär",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BVG_Faehre_F10_Wannsee_Berlin.jpg/800px-BVG_Faehre_F10_Wannsee_Berlin.jpg",
+      "credito": "Wikimedia Commons — Barca urbana da Linha F10 (S-Bhf Wannsee – Alt-Kladow) e catamarãs solares elétricos FährBär da BVG em Berlim (Alemanha)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:BVG_ferries"
+    },
+    "linhas": [
+      {
+        "id": "linha-bvg-f10-wannsee-alt-kladow-rio-havel-berlim",
+        "nome": "Linha F10 do Grande Lago Wannsee e Rio Havel — BVG (S-Bahnhof Wannsee – Píer de Alt-Kladow, Spandau, Berlim)",
+        "status": "operacao",
+        "extensao_km": 18.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-bvg-solar-f11-f12-f21-f23-spree-dahme-kopenick-berlim",
+        "nome": "Rede de Catamarãs Solares dos Rios Spree e Dahme — BVG F11, F12, F21, F23 e F24 (Oberschöneweide–Baumschulenweg & Wendenschloss–Grünau, Berlim)",
+        "status": "operacao",
+        "extensao_km": 34.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia",
+    "slug": "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia",
+    "nome_pt": "Ferries Urbanos de Świnoujście (Warszów–Centrum no Rio Świna) e Catamarãs da Baía de Gdańsk / Tricidade (Gdańsk–Sopot–Gdynia–Península de Hel, Polônia)",
+    "nome_en": "Świnoujście Urban Ferries (Warszów–Centrum on the Świna River) & Gulf of Gdańsk / Tricity Water Trams (Gdańsk–Sopot–Gdynia–Hel Peninsula, Poland)",
+    "pais": "Polônia",
+    "cidade": "Świnoujście (Ilha de Wolin / Warszów e Ilha de Usedom / Centrum, Pomerânia Ocidental); Gdańsk, Sopot, Gdynia e Hel (Pomerânia, Polônia)",
+    "uf": "Zachodniopomorskie / Pomorskie",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Żegluga Świnoujska (Frota Municipal Gratuita Bielik I–IV e Karsibór I–IV em Świnoujście) & Żegluga Gdańska / ZTM Gdańsk Water Tram F5 e F6 (Baía de Gdańsk e Península de Hel)",
+    "inauguracao": "1946 (Início das travessias públicas regulares da Żegluga Gdańska na Baía de Gdańsk e da Żegluga Świnoujska através do estreito de Świna)",
+    "extensao_km": 135.0,
+    "bitola": "Estreito do Rio Świna (Lagoa de Szczecin – Mar Báltico em Świnoujście) e Baía de Gdańsk / Rio Motława (Tricidade–Península de Hel)",
+    "eletrificacao": "Ferries ro-pax bidirecionais da série Bielik I–IV e Karsibór em Świnoujście, barcas urbanas ZTM Gdańsk (F5 e F6) e catamarãs rápidos da Żegluga Gdańska (Opal, Rubin e Agat)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 29000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 35 milhões (modernização dos terminais fluviais integrados à estação ferroviária PKP de Świnoujście Warszów e renovação dos píeres de Targ Rybny, Westerplatte e Hel)",
+      "moeda": "EUR",
+      "fonte_id": "zegluga-swinoujska-zegluga-gdanska-ztm"
+    },
+    "proximas_entregas": {
+      "pt": "Introdução de embarcações elétricas para as linhas de Water Tram F5 e F6 no Rio Motława em Gdańsk e modernização da frota Bielik em Świnoujście.",
+      "en": "Introduction of battery-electric vessels for Water Tram lines F5 and F6 in Gdańsk and fleet upgrades for the Bielik ferries in Świnoujście."
+    },
+    "resumo_pt": "Ao longo da costa báltica da Polônia, duas grandes redes hidroviárias urbanas e metropolitanas cumprem papel essencial na integração ferroviária e insular. No extremo noroeste do país (na fronteira com a Alemanha), a cidade portuária de Świnoujście é dividida pelo estreito do Rio Świna entre a Ilha de Wolin (onde chegam os trens da PKP Intercity/Polregio na estação Świnoujście Warszów) e a Ilha de Usedom (onde fica o centro urbano e a estação da ferrovia alemã UBB): 24 horas por dia e com tarifa gratuita, a frota municipal Żegluga Świnoujska (ferries 'Bielik I a IV' e 'Karsibór') realiza a travessia em 10 minutos a cada 20 minutos, transportando milhões de passageiros, ciclistas e veículos por ano. Já no norte da Polônia, na região metropolitana da Tricidade (Trójmiasto: Gdańsk, Sopot e Gdynia), a Żegluga Gdańska e a autoridade ZTM Gdańsk operam as linhas urbanas de Water Tram (F5 e F6 pelo Rio Motława e Westerplatte) e a grande ponte marítima de catamarãs que cruza a Baía de Gdańsk diretamente entre Gdańsk, Sopot, Gdynia e a ponta da Península de Hel.",
+    "resumo_en": "Along Poland's Baltic coast, two major urban and metropolitan ferry networks play a vital role in rail and coastal integration. In northwestern Poland on the German border, the port city of Świnoujście is divided by the Świna Strait between Wolin Island (home to the main PKP railway station at Świnoujście Warszów) and Usedom Island (city center and German UBB rail link): operating 24/7 free of charge, municipal operator Żegluga Świnoujska ('Bielik I–IV' and 'Karsibór' ferries) crosses the channel in 10 minutes right outside the train station. In northern Poland's Tricity metropolitan area (Gdańsk, Sopot, Gdynia), Żegluga Gdańska and ZTM Gdańsk operate the urban Water Tram lines (F5/F6 on the Motława River) and the high-capacity catamaran crossings across the Gulf of Gdańsk connecting Gdańsk, Sopot and Gdynia directly with the tip of the Hel Peninsula.",
+    "lat": 54.5185,
+    "lon": 18.6545,
+    "zoom_inicial": 6.8,
+    "fontes": [
+      "zegluga-swinoujska-zegluga-gdanska-ztm",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "polônia",
+      "świnoujście",
+      "warszów",
+      "bielik",
+      "żegluga świnoujska",
+      "gdańsk",
+      "sopot",
+      "gdynia",
+      "península de hel",
+      "baía de gdańsk",
+      "żegluga gdańska",
+      "water tram",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prom_Bielik_Swinoujscie_Poland.jpg/800px-Prom_Bielik_Swinoujscie_Poland.jpg",
+      "credito": "Wikimedia Commons — Ferry urbano Bielik da Żegluga Świnoujska no estreito do Rio Świna e catamarãs da Baía de Gdańsk–Hel (Polônia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Bielik_(ship)"
+    },
+    "linhas": [
+      {
+        "id": "linha-zegluga-swinoujska-bielik-warszow-pkp-centrum-usedom",
+        "nome": "Travessia Urbana 24h do Rio Świna — Żegluga Świnoujska Bielik & Karsibór (Estação Ferroviária PKP Warszów, Ilha de Wolin – Wybrzeże Władysława IV Centrum, Ilha de Usedom)",
+        "status": "operacao",
+        "extensao_km": 15.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-zegluga-gdanska-water-tram-gdansk-sopot-gdynia-hel",
+        "nome": "Catamarãs e Water Trams da Baía de Gdańsk — Żegluga Gdańska / ZTM (Targ Rybny, Gdańsk – Westerplatte – Sopot – Gdynia – Porto de Hel)",
+        "status": "operacao",
+        "extensao_km": 120.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

@@ -44898,6 +44898,344 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-twin-city-liner-danubio-viena-schwedenplatz-hainburg-bratislava",
+        "nome": "Expresso Internacional do Danúbio — Twin City Liner (Schiffstation Wien City / Schwedenplatz, Viena – Hainburg – Pontoon Centro Histórico, Bratislava)",
+        "sistema_id": "twin-city-liner-viena-bratislava-rio-danubio-ddsg-wachau-austria-eslovaquia",
+        "sistema_nome": "Catamarã Internacional de Alta Velocidade Twin City Liner (Viena–Bratislava no Rio Danúbio) e DDSG Blue Danube (Vale de Wachau, Áustria e Eslováquia)",
+        "pais": "Áustria e Eslováquia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 68.0,
+        "bitola": "Hidrovia expressa internacional do Rio Danúbio (Twin City Liner)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3775,
+            48.2115
+          ],
+          [
+            16.9425,
+            48.1485
+          ],
+          [
+            17.1095,
+            48.1395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ddsg-blue-danube-vale-de-wachau-krems-durnstein-spitz-melk",
+        "nome": "Hidrovia do Vale de Wachau UNESCO — DDSG Blue Danube (Krems an der Donau – Dürnstein – Spitz – Abadia de Melk, Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-rio-danubio-ddsg-wachau-austria-eslovaquia",
+        "sistema_nome": "Catamarã Internacional de Alta Velocidade Twin City Liner (Viena–Bratislava no Rio Danúbio) e DDSG Blue Danube (Vale de Wachau, Áustria e Eslováquia)",
+        "pais": "Áustria",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 87.0,
+        "bitola": "Linha fluvial regular do Vale de Wachau UNESCO (DDSG Blue Danube)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.5925,
+            48.4045
+          ],
+          [
+            15.5185,
+            48.3945
+          ],
+          [
+            15.4185,
+            48.3645
+          ],
+          [
+            15.3295,
+            48.2295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-danubio-budapeste-vigado-ter-szentendre-visegrad-esztergom-mahart",
+        "nome": "Hidrovia Metropolitana de Budapeste e Curva do Danúbio — BKK / MAHART PassNave (Csepel – Vigadó tér, Budapeste – Szentendre – Visegrád – Esztergom)",
+        "sistema_id": "bkk-mahart-passnave-budapeste-curva-do-danubio-szentendre-visegrad-lago-balaton-szantod-tihany-hungria",
+        "sistema_nome": "Barcas de Budapeste BKK e MAHART PassNave (Curva do Danúbio Budapeste–Szentendre–Visegrád–Esztergom) e Ferry Ro-Pax do Lago Balaton BAHART (Szántód–Tihany, Hungria)",
+        "pais": "Hungria",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 85.0,
+        "bitola": "Corredor fluvial de Budapeste e Curva do Danúbio (BKK / MAHART PassNave)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0465,
+            47.4955
+          ],
+          [
+            19.0785,
+            47.6675
+          ],
+          [
+            18.9765,
+            47.7915
+          ],
+          [
+            18.7365,
+            47.7965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-balaton-bahart-szantod-tihany-siofok-balatonfured",
+        "nome": "Ponte Ro-Pax e Catamarãs do Lago Balaton — BAHART (Terminal de Szántód – Península de Tihany & Siófok – Balatonfüred – Badacsony)",
+        "sistema_id": "bkk-mahart-passnave-budapeste-curva-do-danubio-szentendre-visegrad-lago-balaton-szantod-tihany-hungria",
+        "sistema_nome": "Barcas de Budapeste BKK e MAHART PassNave (Curva do Danúbio Budapeste–Szentendre–Visegrád–Esztergom) e Ferry Ro-Pax do Lago Balaton BAHART (Szántód–Tihany, Hungria)",
+        "pais": "Hungria",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 55.0,
+        "bitola": "Travessia ro-pax de Szántód–Tihany e catamarãs do Lago Balaton (BAHART)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0465,
+            46.9125
+          ],
+          [
+            17.8995,
+            46.8785
+          ],
+          [
+            17.8895,
+            46.8905
+          ],
+          [
+            17.8935,
+            46.9535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-pid-praga-norte-p1-sedlec-p2-podbaba-podhori-p7-stvanice",
+        "nome": "Travessias Urbanas Norte e Centro do Rio Moldava — PID Linhas P1, P2 e P7 (Sedlec–Zámky, V Podbabě–Podhoří/Troja e Holešovice–Štvanice–Karlín, Praga)",
+        "sistema_id": "pid-prague-integrated-ferries-p1-p7-rio-moldava-vltava-praga-republica-tcheca",
+        "sistema_nome": "Barcas Urbanas Integradas PID de Praga (Linhas P1 a P7 no Rio Moldava / Vltava) e Travessias do Lago Lipno (República Tcheca)",
+        "pais": "República Tcheca",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 22.0,
+        "bitola": "Barcas urbanas integradas à tarifa PID no norte de Praga (ROPID)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3955,
+            50.1355
+          ],
+          [
+            14.3945,
+            50.1185
+          ],
+          [
+            14.4445,
+            50.0975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-pid-praga-sul-p3-lihovar-p5-vyton-p6-modrany-vltava",
+        "nome": "Travessias Urbanas Sul do Rio Moldava — PID Linhas P3, P4, P5 e P6 (Výtoň–Císařská louka–Smíchov, Lihovar–Veslařský ostrov e Lahovičky–Nádraží Modřany)",
+        "sistema_id": "pid-prague-integrated-ferries-p1-p7-rio-moldava-vltava-praga-republica-tcheca",
+        "sistema_nome": "Barcas Urbanas Integradas PID de Praga (Linhas P1 a P7 no Rio Moldava / Vltava) e Travessias do Lago Lipno (República Tcheca)",
+        "pais": "República Tcheca",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 23.0,
+        "bitola": "Barcas urbanas integradas à tarifa PID no sul de Praga (ROPID)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4145,
+            50.0675
+          ],
+          [
+            14.4125,
+            50.0485
+          ],
+          [
+            14.4035,
+            50.0055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bvg-f10-wannsee-alt-kladow-rio-havel-berlim",
+        "nome": "Linha F10 do Grande Lago Wannsee e Rio Havel — BVG (S-Bahnhof Wannsee – Píer de Alt-Kladow, Spandau, Berlim)",
+        "sistema_id": "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
+        "sistema_nome": "Barcas Urbanas BVG de Berlim (Linhas F10 Wannsee–Kladow e Catamarãs Solares F11, F12, F21, F23 e F24 nos Rios Spree e Dahme) e Potsdam (Alemanha)",
+        "pais": "Alemanha",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 18.0,
+        "bitola": "Travessia urbana anual F10 do Grande Lago Wannsee (BVG / VBB)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1755,
+            52.4235
+          ],
+          [
+            13.1465,
+            52.4515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bvg-solar-f11-f12-f21-f23-spree-dahme-kopenick-berlim",
+        "nome": "Rede de Catamarãs Solares dos Rios Spree e Dahme — BVG F11, F12, F21, F23 e F24 (Oberschöneweide–Baumschulenweg & Wendenschloss–Grünau, Berlim)",
+        "sistema_id": "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
+        "sistema_nome": "Barcas Urbanas BVG de Berlim (Linhas F10 Wannsee–Kladow e Catamarãs Solares F11, F12, F21, F23 e F24 nos Rios Spree e Dahme) e Potsdam (Alemanha)",
+        "pais": "Alemanha",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 34.0,
+        "bitola": "Catamarãs solares elétricos FährBär nos Rios Spree e Dahme (BVG)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5035,
+            52.4635
+          ],
+          [
+            13.5845,
+            52.4165
+          ],
+          [
+            13.6945,
+            52.4285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-zegluga-swinoujska-bielik-warszow-pkp-centrum-usedom",
+        "nome": "Travessia Urbana 24h do Rio Świna — Żegluga Świnoujska Bielik & Karsibór (Estação Ferroviária PKP Warszów, Ilha de Wolin – Wybrzeże Władysława IV Centrum, Ilha de Usedom)",
+        "sistema_id": "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia",
+        "sistema_nome": "Ferries Urbanos de Świnoujście (Warszów–Centrum no Rio Świna) e Catamarãs da Baía de Gdańsk / Tricidade (Gdańsk–Sopot–Gdynia–Península de Hel, Polônia)",
+        "pais": "Polônia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 15.0,
+        "bitola": "Ponte urbana ro-pax gratuita do estreito do Rio Świna (Żegluga Świnoujska)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2625,
+            53.9085
+          ],
+          [
+            14.2545,
+            53.9095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-zegluga-gdanska-water-tram-gdansk-sopot-gdynia-hel",
+        "nome": "Catamarãs e Water Trams da Baía de Gdańsk — Żegluga Gdańska / ZTM (Targ Rybny, Gdańsk – Westerplatte – Sopot – Gdynia – Porto de Hel)",
+        "sistema_id": "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia",
+        "sistema_nome": "Ferries Urbanos de Świnoujście (Warszów–Centrum no Rio Świna) e Catamarãs da Baía de Gdańsk / Tricidade (Gdańsk–Sopot–Gdynia–Península de Hel, Polônia)",
+        "pais": "Polônia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 120.0,
+        "bitola": "Corredor marítimo metropolitano da Baía de Gdańsk e Península de Hel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.6585,
+            54.3525
+          ],
+          [
+            18.5745,
+            54.4465
+          ],
+          [
+            18.5525,
+            54.5195
+          ],
+          [
+            18.8015,
+            54.6025
+          ]
+        ]
+      }
     }
   ]
 }

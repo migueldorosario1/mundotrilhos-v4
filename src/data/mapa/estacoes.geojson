@@ -37691,6 +37691,366 @@
           9.5215
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-wien-city-schwedenplatz-twin-city-liner-at",
+        "nome": "Schiffstation Wien City — Schwedenplatz U1/U4 (Twin City Liner & DDSG, Viena, Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-rio-danubio-ddsg-wachau-austria-eslovaquia",
+        "linha_id": "linha-twin-city-liner-danubio-viena-schwedenplatz-hainburg-bratislava",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3775,
+          48.2115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bratislava-passenger-port-twin-city-liner-sk",
+        "nome": "Osobný přístav Bratislava — Pontoon HUMA 6 (Twin City Liner, Centro Histórico de Bratislava, Eslováquia)",
+        "sistema_id": "twin-city-liner-viena-bratislava-rio-danubio-ddsg-wachau-austria-eslovaquia",
+        "linha_id": "linha-twin-city-liner-danubio-viena-schwedenplatz-hainburg-bratislava",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1095,
+          48.1395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-krems-stein-ddsg-wachau-station-at",
+        "nome": "Schiffstation Krems / Stein — Vale de Wachau UNESCO (DDSG Blue Danube, Baixa Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-rio-danubio-ddsg-wachau-austria-eslovaquia",
+        "linha_id": "linha-ddsg-blue-danube-vale-de-wachau-krems-durnstein-spitz-melk",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5925,
+          48.4045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-melk-abbey-ddsg-wachau-station-at",
+        "nome": "Schiffstation Melk — Abadia de Melk (DDSG Blue Danube, Vale de Wachau, Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-rio-danubio-ddsg-wachau-austria-eslovaquia",
+        "linha_id": "linha-ddsg-blue-danube-vale-de-wachau-krems-durnstein-spitz-melk",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3295,
+          48.2295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-budapest-vigado-ter-ship-station-mahart-hu",
+        "nome": "Estação Central de Vigadó tér — MAHART PassNave & BKK (Rio Danúbio, Budapeste, Hungria)",
+        "sistema_id": "bkk-mahart-passnave-budapeste-curva-do-danubio-szentendre-visegrad-lago-balaton-szantod-tihany-hungria",
+        "linha_id": "linha-danubio-budapeste-vigado-ter-szentendre-visegrad-esztergom-mahart",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0465,
+          47.4955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-visegrad-szentendre-danube-bend-pier-hu",
+        "nome": "Terminal Fluvial de Visegrád e Szentendre — Curva do Danúbio (MAHART PassNave, Hungria)",
+        "sistema_id": "bkk-mahart-passnave-budapeste-curva-do-danubio-szentendre-visegrad-lago-balaton-szantod-tihany-hungria",
+        "linha_id": "linha-danubio-budapeste-vigado-ter-szentendre-visegrad-esztergom-mahart",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9765,
+          47.7915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-szantod-rev-ferry-terminal-balaton-hu",
+        "nome": "Terminal Ro-Pax de Szántód-Rév — Margem Sul do Lago Balaton (BAHART, Hungria)",
+        "sistema_id": "bkk-mahart-passnave-budapeste-curva-do-danubio-szentendre-visegrad-lago-balaton-szantod-tihany-hungria",
+        "linha_id": "linha-lago-balaton-bahart-szantod-tihany-siofok-balatonfured",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8995,
+          46.8785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tihany-rev-ferry-terminal-balaton-hu",
+        "nome": "Terminal Ro-Pax da Península de Tihany-Rév — Margem Norte do Lago Balaton (BAHART, Hungria)",
+        "sistema_id": "bkk-mahart-passnave-budapeste-curva-do-danubio-szentendre-visegrad-lago-balaton-szantod-tihany-hungria",
+        "linha_id": "linha-lago-balaton-bahart-szantod-tihany-siofok-balatonfured",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8895,
+          46.8905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-prague-p2-v-podbabe-podhori-ferry-cz",
+        "nome": "Atracadouro PID Linha P2 V Podbabě – Podhoří / Zoológico de Praga (Rio Moldava, Praga, República Tcheca)",
+        "sistema_id": "pid-prague-integrated-ferries-p1-p7-rio-moldava-vltava-praga-republica-tcheca",
+        "linha_id": "linha-pid-praga-norte-p1-sedlec-p2-podbaba-podhori-p7-stvanice",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3945,
+          50.1185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-prague-p7-holesovice-stvanice-karlin-ferry-cz",
+        "nome": "Atracadouro PID Linha P7 Pražská tržnice – Ilha de Štvanice – Rohanský ostrov (Praga, República Tcheca)",
+        "sistema_id": "pid-prague-integrated-ferries-p1-p7-rio-moldava-vltava-praga-republica-tcheca",
+        "linha_id": "linha-pid-praga-norte-p1-sedlec-p2-podbaba-podhori-p7-stvanice",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4445,
+          50.0975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-prague-p5-cisarska-louka-vyton-ferry-cz",
+        "nome": "Atracadouro PID Linha P5 Výtoň – Císařská louka – Kotevní / Smíchov (Rio Moldava, Praga, República Tcheca)",
+        "sistema_id": "pid-prague-integrated-ferries-p1-p7-rio-moldava-vltava-praga-republica-tcheca",
+        "linha_id": "linha-pid-praga-sul-p3-lihovar-p5-vyton-p6-modrany-vltava",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4145,
+          50.0675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-prague-p6-nadrazi-modrany-lahovicky-ferry-cz",
+        "nome": "Atracadouro PID Linha P6 Nádraží Modřany – Lahovičky (Integrado aos Bondes e Trens S-Bahn, Praga, República Tcheca)",
+        "sistema_id": "pid-prague-integrated-ferries-p1-p7-rio-moldava-vltava-praga-republica-tcheca",
+        "linha_id": "linha-pid-praga-sul-p3-lihovar-p5-vyton-p6-modrany-vltava",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4035,
+          50.0055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-berlin-s-bhf-wannsee-faehre-f10-bvg-de",
+        "nome": "Píer S-Bahnhof Wannsee — BVG Fähre F10 (Grande Lago Wannsee, Berlim, Alemanha)",
+        "sistema_id": "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
+        "linha_id": "linha-bvg-f10-wannsee-alt-kladow-rio-havel-berlim",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1755,
+          52.4235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-berlin-alt-kladow-faehre-f10-bvg-de",
+        "nome": "Píer de Alt-Kladow (Spandau) — BVG Fähre F10 (Rio Havel, Berlim, Alemanha)",
+        "sistema_id": "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
+        "linha_id": "linha-bvg-f10-wannsee-alt-kladow-rio-havel-berlim",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1465,
+          52.4515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-berlin-oberschoeneweide-baumschulenweg-f11-bvg-de",
+        "nome": "Travessia Solar Elétrica F11 Oberschöneweide – Baumschulenweg — BVG FährBär (Rio Spree, Berlim, Alemanha)",
+        "sistema_id": "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
+        "linha_id": "linha-bvg-solar-f11-f12-f21-f23-spree-dahme-kopenick-berlim",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5035,
+          52.4635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-berlin-wendenschloss-gruenau-f12-bvg-de",
+        "nome": "Travessia Solar Elétrica F12 Wendenschloss – Grünau — BVG FährBär (Rio Dahme, Köpenick, Berlim, Alemanha)",
+        "sistema_id": "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
+        "linha_id": "linha-bvg-solar-f11-f12-f21-f23-spree-dahme-kopenick-berlim",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5845,
+          52.4165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-swinoujscie-warszow-bielik-ferry-pkp-pl",
+        "nome": "Terminal de Ferries de Świnoujście Warszów — Żegluga Świnoujska Bielik (Integrado à Estação Ferroviária PKP, Ilha de Wolin, Polônia)",
+        "sistema_id": "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia",
+        "linha_id": "linha-zegluga-swinoujska-bielik-warszow-pkp-centrum-usedom",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2625,
+          53.9085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-swinoujscie-centrum-wybrzeze-wladyslawa-pl",
+        "nome": "Terminal Central de Świnoujście — Wybrzeże Władysława IV (Ilha de Usedom, Polônia)",
+        "sistema_id": "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia",
+        "linha_id": "linha-zegluga-swinoujska-bielik-warszow-pkp-centrum-usedom",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2545,
+          53.9095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gdansk-targ-rybny-water-tram-terminal-pl",
+        "nome": "Terminal Fluvial de Targ Rybny — Żegluga Gdańska & ZTM Water Tram F5 (Rio Motława, Centro Histórico de Gdańsk, Polônia)",
+        "sistema_id": "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia",
+        "linha_id": "linha-zegluga-gdanska-water-tram-gdansk-sopot-gdynia-hel",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6585,
+          54.3525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hel-peninsula-passenger-harbour-gdynia-pl",
+        "nome": "Porto de Passageiros da Península de Hel & Gdynia — Żegluga Gdańska (Baía de Gdańsk, Polônia)",
+        "sistema_id": "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia",
+        "linha_id": "linha-zegluga-gdanska-water-tram-gdansk-sopot-gdynia-hel",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8015,
+          54.6025
+        ]
+      }
     }
   ]
 }
