@@ -1318,3 +1318,20 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.514 páginas estáticas geradas** (`npm run build` com código 0 em `115.42s`).
 - **Próxima Ronda (#142 / Ordem 138 da Fila)**: `HIDRO-CARIBE-ANTILHAS-BAHAMAS-MEXICO-BELIZE-II` (Fase Hidroviária Mundial #29 — Caribe, Antilhas, Bahamas e Mesoamérica II).
 
+### #143 — 15/11/2026 09:50 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #142 CONCLUÍDA EM PRODUÇÃO (`commit 92d4c83` na `main`, `2524 page(s) built`): ORDEM 138 DA FILA — FASE HIDROVIÁRIA MUNDIAL #29 (CARIBE, ANTILHAS, BAHAMAS, GOLFO DA CALIFÓRNIA E MESOAMÉRICA II — MARCO HISTÓRICO DE 1.250 LINHAS EM OPERAÇÃO)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 138 Concluída (`HIDRO-CARIBE-ANTILHAS-BAHAMAS-MEXICO-BELIZE-II`) — 5 sistemas hidroviários de barcos e ferries (`1.895 km`, 10 linhas, 25 terminais)**:
+  1. `lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas` (🇬🇵🇲🇶🇩🇲🇱🇨 Guadalupe, Martinica, Dominica e Santa Lúcia — Catamarãs de Alta Velocidade L'Express des Îles & Val'Ferry nas Pequenas Antilhas: Pointe-à-Pitre–Marie-Galante–Les Saintes e Ponte Marítima Internacional Guadalupe–Dominica Roseau–Martinica Fort-de-France–Santa Lúcia Castries, `380 km`, 2 linhas, 5 terminais)
+  2. `baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico` (🇲🇽 México — Autoestradas Marítimas do Golfo da Califórnia / Mar de Cortés: Ferries Ro-Pax Baja Ferries e TMC Transbordadores Mar de Cortés La Paz Pichilingue–Topolobampo/Los Mochis e La Paz–Mazatlán + Travessia Central Santa Rosalía–Guaymas, `620 km`, 2 linhas, 5 terminais)
+  3. `san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras` (🇧🇿🇭🇳 Belize e Honduras — Ferries da Barreira de Coral Mesoamericana e Ilhas da Baía: San Pedro Belize Express Belize City–Caye Caulker–San Pedro Ambergris Caye–Chetumal e Catamarãs Galaxy Wave / Utila Dream La Ceiba–Roatán–Utila, `290 km`, 2 linhas, 5 terminais)
+  4. `bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas` (🇧🇸🇧🇲 Bahamas e Bermudas — Ferries do Atlântico Subtropical: Bahamas Ferries Nassau Potters Cay–Spanish Wells–Harbour Island–Eleuthera–George Town Exuma e Rede Pública de Catamarãs SeaExpress Bermuda Hamilton–Royal Naval Dockyard–St. George's, `410 km`, 2 linhas, 5 terminais)
+  5. `inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas` (🇻🇮🇻🇬🇲🇫🇸🇽 Ilhas Virgens e Antilhas do Norte — Rede de Ferries Interinsulares St. Thomas Red Hook/Charlotte Amalie–Cruz Bay St. John–Road Town Tortola–Spanish Town Virgin Gorda e Catamarãs Voyager / Great Bay Express / Edge St. Martin Marigot/Simpson Bay–Anguilla–Gustavia St. Barth–Saba, `195 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa (`commit 92d4c83` na `main`)**:
+  - **914 sistemas no banco** (**898 em operação**, sendo **178 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.269 linhas mapeadas** (**1.250 em operação** — marco histórico exato de **1.250 linhas em operação**, sendo **355 linhas hidroviárias de barcos/ferries**!)
+  - **2.125 estações e terminais geolocalizados** (**691 terminais hidroviários de barcos/ferries**)
+  - **2.524 páginas estáticas geradas** (`npm run build` com código 0 em `95.83s`).
+- **Próxima Ronda (#143 / Ordem 139 da Fila)**: `HIDRO-ASIA-MERIDIONAL-GOLFO-MAR-VERMELHO-INDICO-II` (Fase Hidroviária Mundial #30 — Ásia Meridional, Golfo Pérsico, Mar Vermelho e Oceano Índico II: Índia, Bangladesh, Sri Lanka, Maldivas, Omã, Egito e Ilhas do Índico).
+
+
