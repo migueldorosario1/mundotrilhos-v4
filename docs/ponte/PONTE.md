@@ -1642,3 +1642,22 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
    - **2.655 estações e terminais geolocalizados** (**1.221 terminais hidroviários** — superando a marca de **1.200 terminais de barco**!).
    - **2.736 páginas estáticas geradas** pelo Astro build (`+10` novas rotas estáticas).
 3. **Próxima Ronda (#164 — Ordem 160 da Fila)**: Fase Hidroviária Mundial #49 — Sul da Ásia, Índia, Bangladesh, Sri Lanka e Maldivas IV (`HIDRO-SUL-DA-ASIA-INDIA-BANGLADESH-SRI-LANKA-MALDIVAS-IV`).
+
+---
+
+### #165 — 2026-11-15 20:46 BRT — De: AGY (AG-27 / AG-325) → Para: Milton / Miguel
+**Tipo**: entrega
+**Ref**: Ronda #164 (Ordem 160 da Fila — Fase Hidroviária Mundial #49: Sul da Ásia, Índia, Bangladesh, Sri Lanka e Maldivas IV)
+
+1. **Ordem 160 da Fila concluída e publicada em produção (`main`)**:
+   - **Hidrovia Nacional 2 (NW-2 Rio Brahmaputra: IWT Assam Guwahati, Jorhat–Ilha de Majuli e Dhubri–Sadiya) e Ferries dos Sundarbans (`nw2-brahmaputra-iwt-assam-guwahati-nimati-ghat-majuli-dhubri-sadiya-sundarbans-namkhana-gosaba-india`)** (`🇮🇳 Índia`, `1.240 km`, 2 linhas, 5 terminais: `Guwahati Gateway (Fancy Bazar / Kachari Ghat, Umananda & North Guwahati)`, `Nimati Ghat (Jorhat) & Kamalabari / Aphalamukh Ghat — Ilha de Majuli`, `Terminais Fluviais de Dhubri e Dibrugarh (NW-2)`, `Godkhali, Gosaba & Pakhiralay (Sajnekhali) — Sundarbans` e `Namkhana / Lot 8 & Kachuberia`).
+   - **Mumbai Water Taxi (Belapur–Elephanta e Bhaucha Dhakka–Mora–Rewas), Hidrovia do Rio Godavari (Rajahmundry–Papikondalu) e St. Mary's Island (`mmb-mumbai-water-taxi-belapur-elephanta-rewas-mora-godavari-rajahmundry-papikondalu-udupi-st-marys-island-india`)** (`🇮🇳 Índia`, `680 km`, 2 linhas, 5 terminais: `Belapur CBD Water Taxi Terminal — Navi Mumbai`, `Bhaucha Dhakka (Ferry Wharf), Mora (Uran) & Rewas Jetties`, `Malpe Port & St. Mary's Islands Jetty — Udupi`, `Rajahmundry / Pattiseema & Papikondalu Ghats (NW-4 Godavari)` e `Bhadrachalam & Ilha de Bhavani (Vijayawada)`).
+   - **BIWTC na Baía de Bengala (Chittagong–Ilha de Sandwip–Kutubdia–Hatiya), Hidrovia do Lago Kaptai (Rangamati) e Bacia de Meghna/Haor (`biwtc-chittagong-guptachhara-sandwip-kutubdia-hatiya-lago-kaptai-rangamati-haor-sunamganj-narayanganj-bangladesh`)** (`🇧🇩 Bangladesh`, `1.180 km`, 2 linhas, 5 terminais: `Kumira Ghat (Chittagong) & Guptachhara Jetty (Ilha de Sandwip)`, `Magnama Ghat & Darbar Ghat (Ilha de Kutubdia)`, `Charchenga Ghat (Hatiya) & Ramnewaj Ghat (Monpura)`, `Rangamati Reserve Bazar, Kaptai & Barkal Launch Ghats (Lago Kaptai)` e `Terminal Fluvial Central de Narayanganj, Porto de Ashuganj & Sunamganj Haor`).
+   - **MTCC Raajje Transport Link (RTL) — Rede de Ferries Rápidos dos Atóis do Norte (Kulhudhuffushi–Hanimaadhoo–Naifaru) e Atol de Ari (Rasdhoo–Ukulhas–Mahibadhoo) (`mtcc-rtl-zone1-kulhudhuffushi-hanimaadhoo-hdh-ha-shaviyani-noonu-lhaviyani-rasdhoo-ukulhas-mahibadhoo-maldivas`)** (`🇲🇻 Maldivas`, `940 km`, 2 linhas, 5 terminais: `Kulhudhuffushi City & Hanimaadhoo Airport Ferry Terminals (RTL Zona 1)`, `Hoarafushi, Ihavandhoo & Dhidhdhoo (Atol Haa Alif)`, `Funadhoo, Manadhoo & Naifaru (RTL Zona 2)`, `Portos de Rasdhoo, Ukulhas & Toddoo (Atol de Ari do Norte)` e `Portos de Mahibadhoo, Maamigili & Fulidhoo (Atol de Ari do Sul e Vaavu)`).
+   - **Ferries de Nainativu/Nagadeepa, Analaitivu e Kayts (Península de Jaffna) e Travessias de Trincomalee–Muttur, Batticaloa e Kalpitiya (`nainativu-nagadeepa-analaitivu-eluvaitivu-jaffna-ferries-trincomalee-muttur-batticaloa-kalpitiya-sri-lanka`)** (`🇱🇰 Sri Lanka`, `420 km`, 2 linhas, 5 terminais: `Píer de Kurikadduwan (Punkudutivu — Jaffna)`, `Píeres da Ilha Sagrada de Nainativu / Nagadeepa`, `Ilhas de Analaitivu e Eluvaitivu & Travessia Kayts–Karainagar`, `Terminais de Trincomalee e Muttur (Baía de Koddiyar)` e `Píer de Kalpitiya & Lagoa de Batticaloa`).
+2. **Totais atualizados do Atlas Global**:
+   - **1.025 sistemas mapeados** (`1.009` em operação no mapa + `16` não-operacionais preservados no banco; **289 sistemas de transporte por barco**).
+   - **1.491 linhas mapeadas** (`1.472` operacionais no mapa; **577 linhas hidroviárias**).
+   - **2.680 estações e terminais geolocalizados** (**1.246 terminais hidroviários**).
+   - **2.746 páginas estáticas geradas** pelo Astro build (`+10` novas rotas estáticas).
+3. **Próxima Ronda (#165 — Ordem 161 da Fila)**: Fase Hidroviária Mundial #50 — América do Sul Andina, Patagônia, Bacia do Prata e Amazônia Continental IV (`HIDRO-AMERICA-DO-SUL-ANDINA-PATAGONIA-PRATA-AMAZONIA-IV`).
