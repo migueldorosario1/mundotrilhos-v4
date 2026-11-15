@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T14:17:00-03:00",
+  "atualizado_em": "2026-11-15T14:51:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2305,7 +2305,15 @@
       "pais": "Fase Hidroviária Mundial #38 — Sudeste Asiático Fluvial e Insular III: Rio Mekong, Bornéu, Molucas e Filipinas Meridionais (Expresso Fluvial do Rio Mekong Phnom Penh–Chau Doc no Camboja/Vietnã e Luang Prabang–Huay Xai no Laos; Express Boats do Rio Rajang Sibu–Kapit em Sarawak, Bornéu e Tawau–Nunukan na Malásia/Indonésia; PELNI / ASDP Ferries de Bitung–Ternate–Tidore nas Molucas e Kupang–Rote em Timor na Indonésia; Ferries de Zamboanga–Basilan–Jolo–Tawi-Tawi e Davao–Samal nas Filipinas; e Koh Rong / Sihanoukville Speed Ferries no Camboja)",
       "continente": "Ásia",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 152,
+      "sistemas_adicionados": [
+        "mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos",
+        "sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia",
+        "pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia",
+        "aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas",
+        "sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja"
+      ]
     },
     {
       "ordem": 149,
@@ -2336,6 +2344,14 @@
       "codigo": "HIDRO-BACIA-AMAZONICA-CONGO-NILO-GRANDES-HIDROVIAS-MUNDIAIS-IV",
       "pais": "Fase Hidroviária Mundial #42 — Grandes Bacias Fluviais e Lacustres Mundiais IV: Rio Congo, Rio Nilo, Lago Vitória, Rio Ienissei/Lena e Rio São Lourenço (ONATRA / SCTP Kinshasa–Brazzaville e Kinshasa–Mbandaka–Kisangani no Rio Congo; Ferries do Lago Vitória Mwanza–Ukerewe–Bukoba e Entebbe–Kalangala; Wadi Halfa–Aswan/Abu Simbel no Lago Nasser e Cairo River Bus no Rio Nilo; Frota Fluvial Siberiana de Krasnoyarsk–Dudinka no Rio Ienissei e Yakutsk–Nizhny Bestyakh no Rio Lena na Rússia; e Kingston–Wolfe Island e Thousand Islands no Rio São Lourenço)",
       "continente": "Global",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 153,
+      "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-X",
+      "pais": "Fase Hidroviária Brasil #10 — Hidrovias, Travessias e Barcas Complementares do Brasil (Hidrovia do Rio Xingu e Baixo Amazonas Vitória do Xingu–Senador José Porfírio–Porto de Moz–Gurupá no Pará; Travessias de Balsas do Rio Uruguai na Fronteira Brasil–Argentina São Borja–Porto Mauá–Porto Soberbo–El Soberbio e Porto Xavier–San Javier no RS; Travessias Hidroviárias do Litoral do Ceará, Rio Grande do Norte e Paraíba Galinhos–Guamaré e Cabedelo–Costinha/Lucena; Lanchas e Barcas do Pantanal Norte e Rio Cuiabá/São Lourenço Barão de Melgaço–Porto Jofre em MT; e Travessias do Reservatório de Furnas e Mar de Minas Guapé–São José da Barra–Capitólio–Carmo do Rio Claro em MG)",
+      "continente": "América do Sul",
       "prioridade": "alta",
       "status": "pendente"
     }
