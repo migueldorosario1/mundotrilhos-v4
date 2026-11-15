@@ -42543,6 +42543,481 @@
           -4.2019
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-bergevin-pointe-a-pitre-gp",
+        "nome": "Gare Maritime de Bergevin — Pointe-à-Pitre (Hub Central L'Express des Îles em Guadalupe)",
+        "sistema_id": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_slug": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "linha_id": "linha-antilhas-internacional-pointe-a-pitre-roseau-fort-de-france-castries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5356,
+          16.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-grand-bourg-marie-galante-terre-de-haut-gp",
+        "nome": "Gares Maritimes de Grand-Bourg (Marie-Galante) et Terre-de-Haut (Les Saintes, Guadalupe)",
+        "sistema_id": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_slug": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "linha_id": "linha-arquipelago-guadalupe-pointe-a-pitre-marie-galante-les-saintes",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3189,
+          15.8819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-roseau-ferry-terminal-dominica",
+        "nome": "Roseau Ferry Terminal (Bayfront — Capital da Dominica)",
+        "sistema_id": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_slug": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "linha_id": "linha-antilhas-internacional-pointe-a-pitre-roseau-fort-de-france-castries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3889,
+          15.2992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-inter-iles-fort-de-france-mq",
+        "nome": "Terminal Inter-Îles de Fort-de-France & Saint-Pierre (Martinica)",
+        "sistema_id": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_slug": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "linha_id": "linha-antilhas-internacional-pointe-a-pitre-roseau-fort-de-france-castries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0692,
+          14.6019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-castries-ferry-terminal-santa-lucia",
+        "nome": "Port Castries Ferry Terminal (Terminal Internacional de Santa Lúcia)",
+        "sistema_id": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_slug": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "linha_id": "linha-antilhas-internacional-pointe-a-pitre-roseau-fort-de-france-castries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9969,
+          14.0119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-de-pichilingue-la-paz-bcs-mx",
+        "nome": "Terminal de Transbordadores de Pichilingue — La Paz (Base da Baja Ferries em Baja California Sur, México)",
+        "sistema_id": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_slug": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "linha_id": "linha-baja-ferries-la-paz-pichilingue-topolobampo-los-mochis",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3219,
+          24.2689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-de-topolobampo-los-mochis-sin-mx",
+        "nome": "Terminal de Transbordadores de Topolobampo / Los Mochis (Conexão Trem El Chepe — Sinaloa, México)",
+        "sistema_id": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_slug": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "linha_id": "linha-baja-ferries-la-paz-pichilingue-topolobampo-los-mochis",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0569,
+          25.5889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-transbordadores-mazatlan-sin-mx",
+        "nome": "Terminal de Transbordadores de Mazatlán (Baja Ferries — Sinaloa, México)",
+        "sistema_id": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_slug": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "linha_id": "linha-baja-ferries-la-paz-mazatlan-santa-rosalia-guaymas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4169,
+          23.1889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-santa-rosalia-bcs-mx",
+        "nome": "Terminal Marítima de Santa Rosalía (Travessia Central do Mar de Cortés, BCS, México)",
+        "sistema_id": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_slug": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "linha_id": "linha-baja-ferries-la-paz-mazatlan-santa-rosalia-guaymas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2639,
+          27.3389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-de-guaymas-sonora-mx",
+        "nome": "Terminal de Ferry de Guaymas (Golfo da Califórnia — Sonora, México)",
+        "sistema_id": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_slug": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "linha_id": "linha-baja-ferries-la-paz-mazatlan-santa-rosalia-guaymas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8969,
+          27.9189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-belize-city-brown-sugar-water-taxi-bz",
+        "nome": "Belize City Water Taxi Terminal (Brown Sugar Marketplace — San Pedro Belize Express, Belize)",
+        "sistema_id": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_slug": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "linha_id": "linha-belize-express-belize-city-caye-caulker-san-pedro-chetumal",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1856,
+          17.4939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-caye-caulker-water-taxi-pier-bz",
+        "nome": "Caye Caulker Water Taxi Pier (Barreira de Corais de Belize)",
+        "sistema_id": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_slug": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "linha_id": "linha-belize-express-belize-city-caye-caulker-san-pedro-chetumal",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0239,
+          17.7428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-san-pedro-ambergris-caye-terminal-bz",
+        "nome": "San Pedro Water Taxi Terminal (Ambergris Caye, Belize — Conexão Internacional para Chetumal)",
+        "sistema_id": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_slug": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "linha_id": "linha-belize-express-belize-city-caye-caulker-san-pedro-chetumal",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9619,
+          17.9189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-de-cabotaje-la-ceiba-hn",
+        "nome": "Muelle de Cabotaje de La Ceiba (Terminal Continental para as Ilhas da Baía, Honduras)",
+        "sistema_id": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_slug": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "linha_id": "linha-islas-de-la-bahia-la-ceiba-utila-roatan-honduras",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7519,
+          15.7956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-roatan-dixon-cove-utila-ferry-terminals-hn",
+        "nome": "Roatán Dixon Cove Ferry Terminal (Galaxy Wave) & Utila Dock (Islas de la Bahía, Honduras)",
+        "sistema_id": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_slug": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "linha_id": "linha-islas-de-la-bahia-la-ceiba-utila-roatan-honduras",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5169,
+          16.3269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nassau-potters-cay-bahamas-ferries-bs",
+        "nome": "Nassau Potter's Cay Ferry Terminal (Hub Central da Bahamas Ferries em New Providence, Bahamas)",
+        "sistema_id": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_slug": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "linha_id": "linha-bahamas-ferries-nassau-eleuthera-harbour-island-exuma",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3219,
+          25.0789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-harbour-island-spanish-wells-eleuthera-bs",
+        "nome": "Harbour Island & Spanish Wells Ferry Docks (North Eleuthera, Bahamas)",
+        "sistema_id": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_slug": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "linha_id": "linha-bahamas-ferries-nassau-eleuthera-harbour-island-exuma",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6369,
+          25.5019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-george-town-great-exuma-ferry-dock-bs",
+        "nome": "George Town Government Dock (Great Exuma, Bahamas)",
+        "sistema_id": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_slug": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "linha_id": "linha-bahamas-ferries-nassau-eleuthera-harbour-island-exuma",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7819,
+          23.5039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hamilton-ferry-terminal-seaexpress-bm",
+        "nome": "Hamilton Ferry Terminal (Terminal Central da Rede Pública SeaExpress em Front Street, Bermudas)",
+        "sistema_id": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_slug": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "linha_id": "linha-seaexpress-bermuda-hamilton-dockyard-st-georges",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7869,
+          32.2919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-royal-naval-dockyard-st-georges-bermuda",
+        "nome": "Royal Naval Dockyard & St. George's Ferry Terminals (SeaExpress Bermudas)",
+        "sistema_id": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_slug": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "linha_id": "linha-seaexpress-bermuda-hamilton-dockyard-st-georges",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8339,
+          32.3269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-red-hook-charlotte-amalie-st-thomas-usvi",
+        "nome": "Red Hook (Urman Victor Fredericks) & Charlotte Amalie Marine Terminals (St. Thomas, Ilhas Virgens Americanas)",
+        "sistema_id": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_slug": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "linha_id": "linha-ilhas-virgens-st-thomas-st-john-tortola-virgin-gorda",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8539,
+          18.3256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cruz-bay-ferry-dock-st-john-usvi",
+        "nome": "Cruz Bay Loredon Boynes Sr. Ferry Dock (Portal do Parque Nacional de St. John, USVI)",
+        "sistema_id": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_slug": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "linha_id": "linha-ilhas-virgens-st-thomas-st-john-tortola-virgin-gorda",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7956,
+          18.3319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-road-town-tortola-spanish-town-virgin-gorda-bvi",
+        "nome": "Road Town Ferry Terminal (Tortola) & Spanish Town Dock (Virgin Gorda, Ilhas Virgens Britânicas)",
+        "sistema_id": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_slug": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "linha_id": "linha-ilhas-virgens-st-thomas-st-john-tortola-virgin-gorda",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6189,
+          18.4219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-marigot-philipsburg-blowing-point-st-martin-ai",
+        "nome": "Gare Maritime de Marigot / Philipsburg (St. Martin) & Blowing Point Terminal (Anguilla)",
+        "sistema_id": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_slug": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "linha_id": "linha-antilhas-norte-anguilla-st-martin-st-barth-saba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0869,
+          18.0689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gustavia-st-barth-fort-bay-saba",
+        "nome": "Gare Maritime de Gustavia (Saint-Barthélemy) & Fort Bay Harbor (Ilha de Saba)",
+        "sistema_id": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_slug": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "linha_id": "linha-antilhas-norte-anguilla-st-martin-st-barth-saba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8519,
+          17.8969
+        ]
+      }
     }
   ]
 }
