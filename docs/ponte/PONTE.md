@@ -1350,5 +1350,22 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.534 páginas estáticas geradas** (`npm run build` com código 0).
 - **Próxima Ronda (#144 / Ordem 140 da Fila)**: `HIDRO-EUROPA-CENTRAL-LAGOS-ALPINOS-DANUBIO-II` (Fase Hidroviária Mundial #31 — Europa Central Fluvial e Grandes Lagos Alpinos II: Alemanha, Suíça, Áustria, França, Itália e Eslováquia).
 
+### #145 — 15/11/2026 10:49 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #144 CONCLUÍDA EM PRODUÇÃO (`commit` na `main`, `2544 page(s) built`): ORDEM 140 DA FILA — FASE HIDROVIÁRIA MUNDIAL #31 (EUROPA CENTRAL FLUVIAL, GRANDES LAGOS ALPINOS E MAR DE WADDEN II: ALEMANHA, SUÍÇA, ÁUSTRIA, PAÍSES BAIXOS, BÉLGICA, TCHÉQUIA E ROMÊNIA)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 140 Concluída (`HIDRO-EUROPA-CENTRAL-LAGOS-ALPINOS-DANUBIO-II`) — 5 sistemas hidroviários de barcos e ferries (`1.390 km`, 10 linhas, 25 terminais)**:
+  1. `bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca` (🇩🇪🇨🇭🇦🇹 Alemanha, Suíça e Áustria — Rede Trinacional do Lago de Constança / Bodensee: Catamarã Expresso Konstanz–Friedrichshafen, Autofähre Konstanz-Staad–Meersburg, Ferry Binacional Ro-Pax Friedrichshafen–Romanshorn e Frota Branca Constança–Mainau–Lindau–Bregenz, `185 km`, 2 linhas, 5 terminais)
+  2. `kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica` (🇩🇪🇨🇭 Alemanha e Suíça — Hidrovia do Médio Reno UNESCO KD Köln-Düsseldorfer e Balsas Fluviais Ro-Pax Colônia–Bonn–Koblenz–Loreley/St. Goar–Bingen/Rüdesheim–Mainz e Navegação Alpina BLS dos Lagos de Thun e Brienz em Interlaken, `310 km`, 2 linhas, 5 terminais)
+  3. `teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden` (🇳🇱🇩🇪 Países Baixos e Alemanha — Ferries das Ilhas Frísias e Mar de Wadden UNESCO: TESO Den Helder–Texel, Rederij Doeksen Harlingen–Vlieland–Terschelling, Wagenborg Holwerd–Ameland e AG Ems / Reederei Frisia Emden–Borkum e Norddeich Mole–Norderney, `390 km`, 2 linhas, 5 terminais)
+  4. `de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos` (🇧🇪🇳🇱 Bélgica e Países Baixos — DeWaterbus Metropolitano e Portuário do Rio Escalda em Antuérpia Hemiksem–Kruibeke–Steenplein–Kallo–Lillo, Ferry de Ostende e Westerschelde Ferry Vlissingen–Breskens na Zelândia, `145 km`, 2 linhas, 5 terminais)
+  5. `prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central` (🇨🇿🇩🇪🇷🇴 República Tcheca, Alemanha e Romênia — Barcas Urbanas PID do Rio Moldava em Praga P1–P6, Ferries DVB e Frota do Rio Elba em Dresden–Pillnitz–Bad Schandau na Suíça Saxônica e Hidrovia Essencial NAVROM do Delta do Danúbio Tulcea–Crișan–Sulina e Sfântu Gheorghe, `360 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa**:
+  - **924 sistemas no banco** (**908 em operação**, sendo **188 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.289 linhas mapeadas** (**1.270 em operação**, sendo **375 linhas hidroviárias de barcos/ferries**)
+  - **2.175 estações e terminais geolocalizados** (**741 terminais hidroviários de barcos/ferries**)
+  - **2.544 páginas estáticas geradas** (`npm run build` com código 0).
+- **Próxima Ronda (#145 / Ordem 141 da Fila)**: `HIDRO-ASIA-MERIDIONAL-INDIA-BANGLADESH-MALDIVAS-II` (Fase Hidroviária Mundial #32 — Ásia Meridional, Golfo de Bengala e Oceano Índico II: Índia, Bangladesh e Maldivas).
+
+
 
 
