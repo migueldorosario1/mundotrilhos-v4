@@ -43670,5 +43670,322 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "nw2-brahmaputra-iwt-assam-guwahati-nimati-ghat-majuli-dhubri-sadiya-sundarbans-namkhana-gosaba-india",
+    "slug": "nw2-brahmaputra-iwt-assam-guwahati-nimati-ghat-majuli-dhubri-sadiya-sundarbans-namkhana-gosaba-india",
+    "nome_pt": "Hidrovia Nacional 2 (NW-2 Rio Brahmaputra: IWT Assam Guwahati, Jorhat–Ilha de Majuli e Dhubri–Sadiya) e Ferries dos Sundarbans (Índia)",
+    "nome_en": "National Waterway 2 (NW-2 Brahmaputra River: IWT Assam Guwahati, Jorhat–Majuli Island & Dhubri–Sadiya) & Sundarbans Ferries (India)",
+    "pais": "Índia",
+    "cidade": "Guwahati / Jorhat (Nimati Ghat) / Ilha de Majuli / Dhubri / Dibrugarh / Namkhana e Gosaba (Sundarbans)",
+    "uf": "Assam e Bengala Ocidental",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Inland Water Transport Directorate of Assam (IWT Assam) / Inland Waterways Authority of India (IWAI — NW-2) / West Bengal Surface Transport Corporation (Sundarbans Ferries)",
+    "inauguracao": "1958 (criação da Diretoria IWT Assam no Rio Brahmaputra) / 1988 (declaração da Hidrovia Nacional 2 de 891 km entre Dhubri e Sadiya)",
+    "extensao_km": 1240,
+    "bitola": "Catamarãs Ro-Pax Fluviais de Baixo Calado (Rio Brahmaputra / NW-2) e Barcas Estuarinas do Delta dos Sundarbans",
+    "eletrificacao": "Catamarãs Híbridos/Elétricos Financiados pelo Banco Mundial em Guwahati e Ferries Ro-Pax Diesel-Elétricos (MV Bhupen Hazarika)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 62000,
+    "ano_referencia": 2026,
+    "investimento": "US$ 150 milhões (Projeto do Banco Mundial Assam Inland Water Transport para novos terminais fluviais em Guwahati Gateway, North Guwahati, Umananda e Nimati–Majuli)",
+    "proximas_entregas": "Novos catamarãs elétricos/híbridos para as travessias metropolitanas de Guwahati e operação noturna em Majuli",
+    "resumo_pt": "Espinha dorsal hidroviária do Nordeste da Índia e do Delta de Bengala: ao longo dos 891 km da Hidrovia Nacional 2 (NW-2) no Rio Brahmaputra em Assam, a IWT Assam e a IWAI operam as barcas urbanas de alta frequência de Guwahati (ligando Fancy Bazar/Kachari Ghat à ilha sagrada de Umananda e North Guwahati) e a ponte fluvial vital de Jorhat (Nimati Ghat) para Kamalabari e Aphalamukh em Majuli — a maior ilha fluvial habitada do mundo —, além dos ferries de Dhubri e Dibrugarh/Sadiya; ao sul, na Reserva da Biosfera dos Sundarbans (Patrimônio Mundial da UNESCO em Bengala Ocidental), dezenas de barcas conectam Namkhana, Lot 8, Kachuberia, Godkhali, Gosaba e Pakhiralay.",
+    "resumo_en": "Waterway backbone of Northeast India and the Bengal Delta: along the 891 km National Waterway 2 (NW-2) on the Brahmaputra River in Assam, IWT Assam and IWAI operate high-frequency urban ferries in Guwahati (connecting Fancy Bazar/Kachari Ghat to Umananda Island and North Guwahati) and the vital Ro-Pax link from Jorhat (Nimati Ghat) to Majuli, the world's largest inhabited river island, alongside services from Dhubri to Sadiya; in West Bengal's UNESCO-listed Sundarbans Delta, passenger ferries connect Namkhana, Kachuberia, Godkhali, Gosaba, and Pakhiralay.",
+    "lat": 26.189,
+    "lon": 91.742,
+    "zoom_inicial": 6,
+    "fontes": [
+      "https://iwtdirectorate.assam.gov.in/",
+      "https://iwai.nic.in/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "hidrovia",
+      "brahmaputra",
+      "nw2",
+      "guwahati",
+      "majuli",
+      "jorhat",
+      "assam",
+      "sundarbans",
+      "india"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-nw2-brahmaputra-dhubri-guwahati-umananda-nimati-ghat-majuli-dibrugarh-in",
+        "nome": "Hidrovia Nacional 2 (NW-2 Rio Brahmaputra): Dhubri ↔ Guwahati (Kachari Ghat–Umananda–North Guwahati) ↔ Nimati Ghat (Jorhat) ↔ Ilha de Majuli ↔ Dibrugarh",
+        "status": "operacao",
+        "extensao_km": 890,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-sundarbans-delta-namkhana-kachuberia-godkhali-gosaba-pakhiralay-in",
+        "nome": "Rede Hidroviária do Delta dos Sundarbans (UNESCO): Namkhana / Lot 8 ↔ Kachuberia (Sagar) e Godkhali ↔ Gosaba ↔ Pakhiralay (Sajnekhali)",
+        "status": "operacao",
+        "extensao_km": 350,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "mmb-mumbai-water-taxi-belapur-elephanta-rewas-mora-godavari-rajahmundry-papikondalu-udupi-st-marys-island-india",
+    "slug": "mmb-mumbai-water-taxi-belapur-elephanta-rewas-mora-godavari-rajahmundry-papikondalu-udupi-st-marys-island-india",
+    "nome_pt": "Mumbai Water Taxi (Belapur–Elephanta e Bhaucha Dhakka–Mora–Rewas), Hidrovia do Rio Godavari (Rajahmundry–Papikondalu) e St. Mary's Island (Índia)",
+    "nome_en": "Mumbai Water Taxi (Belapur–Elephanta & Bhaucha Dhakka–Mora–Rewas), Godavari River Waterway (Rajahmundry–Papikondalu) & St. Mary's Island (India)",
+    "pais": "Índia",
+    "cidade": "Mumbai / Navi Mumbai (Belapur e Mora/Uran) / Alibaug (Rewas) / Udupi (Malpe) / Rajahmundry e Bhadrachalam",
+    "uf": "Maharashtra, Karnataka, Andhra Pradesh e Telangana",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Maharashtra Maritime Board (MMB) / Navi Mumbai Water Taxi & Gateway Elephanta Launches / Andhra Pradesh Tourism Development Corporation (APTDC — NW-4 Godavari) / Malpe Development Committee",
+    "inauguracao": "1935 (barcas históricas de Bhaucha Dhakka–Rewas e Mora) / 2022 (inauguração do Terminal de Water Taxi de Belapur em Navi Mumbai)",
+    "extensao_km": 680,
+    "bitola": "Táxis Aquáticos Rápidos e Barcas da Baía de Mumbai, Barcas Fluviais da Hidrovia Nacional 4 (Godavari) e Lanchas Costeiras de Karnataka",
+    "eletrificacao": "Catamarãs Rápidos a Diesel de Baixa Emissão e Barcas Híbridas",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 28500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 80 milhões (construção do Belapur Water Taxi Terminal pelo CIDCO/MMB, modernização de Bhaucha Dhakka e píeres fluviais da NW-4 em Rajahmundry e Vijayawada)",
+    "proximas_entregas": "Expansão das rotas de táxi aquático elétrico entre o novo Aeroporto Internacional de Navi Mumbai, Belapur e o sul de Mumbai",
+    "resumo_pt": "Complemento das hidrovias da Índia Peninsular: na Baía de Mumbai, o Maharashtra Maritime Board (MMB) opera o moderno Terminal de Táxis Aquáticos de Belapur em Navi Mumbai (conectado a JNPT e às Cavernas de Elephanta, Patrimônio Mundial da UNESCO) e as tradicionais linhas de passageiros de Bhaucha Dhakka (Ferry Wharf) para Mora (Uran) e Rewas, além da travessia costeira de Malpe (Udupi) para o monumento geológico das Ilhas de St. Mary's em Karnataka; na costa leste (Hidrovia Nacional 4 — NW-4), embarcações fluviais navegam pelos cânions de Papikondalu no Rio Godavari entre Rajahmundry/Pattiseema e Bhadrachalam e até a Ilha de Bhavani no Rio Krishna em Vijayawada.",
+    "resumo_en": "Peninsular India's coastal and river waterways: in Mumbai Harbour, the Maharashtra Maritime Board (MMB) operates the modern Belapur Water Taxi Terminal in Navi Mumbai (linking to JNPT and the UNESCO-listed Elephanta Caves) alongside commuter launches from Bhaucha Dhakka (Ferry Wharf) to Mora (Uran) and Rewas, plus Karnataka's Malpe–St. Mary's Islands ferry; on the east coast (National Waterway 4 — NW-4), river vessels navigate the Papikondalu gorges of the Godavari River between Rajahmundry and Bhadrachalam and serve Bhavani Island on the Krishna River in Vijayawada.",
+    "lat": 19.002,
+    "lon": 73.028,
+    "zoom_inicial": 6,
+    "fontes": [
+      "https://mmb.maharashtra.gov.in/",
+      "https://tourism.ap.gov.in/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "water-taxi",
+      "mumbai",
+      "navi-mumbai",
+      "belapur",
+      "elephanta",
+      "rio-godavari",
+      "rajahmundry",
+      "papikondalu",
+      "udupi",
+      "india"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-mmb-belapur-elephanta-bhaucha-dhakka-mora-rewas-malpe-st-marys-in",
+        "nome": "Baía de Mumbai e Costa Oeste: Belapur (Navi Mumbai) ↔ Ilha de Elephanta, Bhaucha Dhakka ↔ Mora / Rewas e Malpe (Udupi) ↔ St. Mary's Island",
+        "status": "operacao",
+        "extensao_km": 320,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-nw4-rio-godavari-rajahmundry-papikondalu-bhadrachalam-vijayawada-in",
+        "nome": "Hidrovia Nacional 4 (NW-4 Rios Godavari e Krishna): Rajahmundry / Pattiseema ↔ Cânions de Papikondalu ↔ Bhadrachalam e Ilha de Bhavani (Vijayawada)",
+        "status": "operacao",
+        "extensao_km": 360,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "biwtc-chittagong-guptachhara-sandwip-kutubdia-hatiya-lago-kaptai-rangamati-haor-sunamganj-narayanganj-bangladesh",
+    "slug": "biwtc-chittagong-guptachhara-sandwip-kutubdia-hatiya-lago-kaptai-rangamati-haor-sunamganj-narayanganj-bangladesh",
+    "nome_pt": "BIWTC na Baía de Bengala (Chittagong–Ilha de Sandwip–Kutubdia–Hatiya), Hidrovia do Lago Kaptai (Rangamati) e Bacia de Meghna/Haor (Bangladesh)",
+    "nome_en": "BIWTC Bay of Bengal Ferries (Chittagong–Sandwip Island–Kutubdia–Hatiya), Kaptai Lake Waterway (Rangamati) & Meghna/Haor Basin (Bangladesh)",
+    "pais": "Bangladesh",
+    "cidade": "Chittagong (Kumira) / Ilha de Sandwip / Ilha de Kutubdia / Hatiya / Rangamati (Lago Kaptai) / Narayanganj / Ashuganj / Sunamganj",
+    "uf": "Chittagong, Dhaka e Sylhet",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Bangladesh Inland Water Transport Corporation (BIWTC) / Bangladesh Inland Water Transport Authority (BIWTA) / Kaptai Lake Launch Owners Association",
+    "inauguracao": "1961 (formação do Lago Kaptai e início das linhas lacustres em Rangamati) / 1972 (BIWTC nas ilhas da Baía de Bengala)",
+    "extensao_km": 1180,
+    "bitola": "Navios Costeiros Reforçados para Marés da Baía de Bengala (BIWTC), Lanchas Lacustres do Lago Kaptai e Barcas Fluviais de Meghna/Haor",
+    "eletrificacao": "Navios Costeiros e Fluviais a Diesel",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 74000,
+    "ano_referencia": 2026,
+    "investimento": "US$ 90 milhões (novos navios costeiros de passageiros e Ro-Pax para o Canal de Sandwip e Hatiya e modernização do porto fluvial de Narayanganj e Ashuganj)",
+    "proximas_entregas": "Entrada em operação de novos ferries Ro-Pax no canal Kumira–Guptachhara (Ilha de Sandwip)",
+    "resumo_pt": "Expansão das rotas costeiras, lacustres e fluviais de Bangladesh: na Baía de Bengala, a estatal BIWTC opera os navios costeiros e barcas que vencem as fortes correntes de maré do Canal de Sandwip entre Kumira (Chittagong) e o píer de Guptachhara na Ilha de Sandwip (com mais de 400.000 habitantes), além das travessias de Magnama Ghat para a Ilha de Kutubdia e de Charchenga (Hatiya) para Monpura; nas Colinas de Chittagong (Chittagong Hill Tracts), o Lago Kaptai (maior lago da região, com 725 km²) funciona como a única via de transporte entre Rangamati, Kaptai, Shuvolong, Barkal, Juraichhari e Belaichhari, somado ao corredor fluvial de Narayanganj–Bhairab/Ashuganj–Sunamganj na bacia de Meghna e nas zonas úmidas de Haor.",
+    "resumo_en": "Coastal, lake, and river waterways of Bangladesh: in the Bay of Bengal, state-owned BIWTC operates coastal passenger ships and launches across the tidal Sandwip Channel between Kumira (Chittagong) and Guptachhara Jetty on Sandwip Island, alongside crossings to Kutubdia Island and Hatiya–Monpura; in the Chittagong Hill Tracts, Kaptai Lake serves as the primary highway linking Rangamati, Kaptai, Shuvolong, Barkal, and Belaichhari, complemented by the Meghna/Surma river corridor from Narayanganj and Ashuganj to the Haor wetlands of Sunamganj.",
+    "lat": 22.495,
+    "lon": 91.635,
+    "zoom_inicial": 7,
+    "fontes": [
+      "https://biwtc.gov.bd/",
+      "https://biwta.gov.bd/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "biwtc",
+      "sandwip",
+      "chittagong",
+      "kutubdia",
+      "hatiya",
+      "lago-kaptai",
+      "rangamati",
+      "narayanganj",
+      "bangladesh"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-biwtc-kumira-sandwip-kutubdia-hatiya-monpura-baia-de-bengala-bd",
+        "nome": "Ilhas Costeiras da Baía de Bengala (BIWTC): Kumira (Chittagong) ↔ Guptachhara (Ilha de Sandwip), Magnama ↔ Ilha de Kutubdia e Hatiya ↔ Monpura",
+        "status": "operacao",
+        "extensao_km": 460,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-lago-kaptai-rangamati-barkal-bacia-meghna-narayanganj-ashuganj-sunamganj-bd",
+        "nome": "Hidrovia do Lago Kaptai (Rangamati ↔ Shuvolong ↔ Barkal ↔ Belaichhari) e Corredor Fluvial Meghna/Surma (Narayanganj ↔ Ashuganj ↔ Sunamganj)",
+        "status": "operacao",
+        "extensao_km": 720,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "mtcc-rtl-zone1-kulhudhuffushi-hanimaadhoo-hdh-ha-shaviyani-noonu-lhaviyani-rasdhoo-ukulhas-mahibadhoo-maldivas",
+    "slug": "mtcc-rtl-zone1-kulhudhuffushi-hanimaadhoo-hdh-ha-shaviyani-noonu-lhaviyani-rasdhoo-ukulhas-mahibadhoo-maldivas",
+    "nome_pt": "MTCC Raajje Transport Link (RTL) — Rede de Ferries Rápidos dos Atóis do Norte (Kulhudhuffushi–Hanimaadhoo–Naifaru) e Atol de Ari (Rasdhoo–Ukulhas–Mahibadhoo, Maldivas)",
+    "nome_en": "MTCC Raajje Transport Link (RTL) — Northern Atolls High-Speed Ferry Network (Kulhudhuffushi–Hanimaadhoo–Naifaru) & Ari Atoll Ferries (Rasdhoo–Ukulhas–Mahibadhoo, Maldives)",
+    "pais": "Maldivas",
+    "cidade": "Kulhudhuffushi / Hanimaadhoo / Hoarafushi / Funadhoo / Manadhoo / Naifaru / Rasdhoo / Ukulhas / Mahibadhoo",
+    "uf": "Haa Alif, Haa Dhaalu, Shaviyani, Noonu, Lhaviyani, Alif Alif, Alif Dhaalu e Vaavu",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Maldives Transport and Contracting Company (MTCC — Raajje Transport Link RTL Zones 1, 2 & 4)",
+    "inauguracao": "2022 (inauguração da Zona 1 da rede RTL nos atóis de Haa Alif, Haa Dhaalu e Shaviyani) / 2023–2025 (expansão para Noonu, Lhaviyani e Atóis Centrais)",
+    "extensao_km": 940,
+    "bitola": "Lanchas Catamarãs de Alta Velocidade de 50 Lugares (RTL High-Speed Ferries) e Ferries Inter-Atóis",
+    "eletrificacao": "Catamarãs Rápidos de Baixo Consumo com Cabine Climatizada e Acessibilidade Universal",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 8400,
+    "ano_referencia": 2026,
+    "investimento": "US$ 65 milhões (Programa Nacional Integrated National Public Ferry Network da MTCC construindo mais de 80 lanchas rápidas RTL e terminais insulares)",
+    "proximas_entregas": "Conclusão da integração tarifária por aplicativo RTL em 100% dos 20 atóis administrativos das Maldivas",
+    "resumo_pt": "Zonas Norte e Central do Sistema Nacional Integrado de Ferries Públicos das Maldivas (Raajje Transport Link — RTL), operado pela estatal MTCC com catamarãs rápidos climatizados de 30 nós: no extremo norte (Zonas 1 e 2), a malha conecta 41 ilhas habitadas nos atóis de Haa Alif, Haa Dhaalu, Shaviyani, Noonu e Lhaviyani em torno do hub regional de Kulhudhuffushi City e do Aeroporto Internacional de Hanimaadhoo até Funadhoo, Manadhoo e Naifaru; nos atóis centrais (Alif Alif, Alif Dhaalu e Vaavu), lanchas rápidas e ferries conectam Malé às ilhas de Rasdhoo, Ukulhas, Toddoo, Mahibadhoo, Maamigili e Fulidhoo.",
+    "resumo_en": "Northern and Central Zones of the Maldives Integrated National Public Ferry Network (Raajje Transport Link — RTL), operated by MTCC with 30-knot air-conditioned high-speed catamarans: in the north (Zones 1 & 2), the network links 41 inhabited islands across Haa Alif, Haa Dhaalu, Shaviyani, Noonu, and Lhaviyani Atolls centered on Kulhudhuffushi City and Hanimaadhoo International Airport down to Funadhoo, Manadhoo, and Naifaru; in the central atolls (Ari and Vaavu), high-speed ferries connect Malé with Rasdhoo, Ukulhas, Toddoo, Mahibadhoo, Maamigili, and Fulidhoo.",
+    "lat": 6.622,
+    "lon": 73.07,
+    "zoom_inicial": 6,
+    "fontes": [
+      "https://rtl.mv/",
+      "https://mtcc.mv/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "mtcc",
+      "rtl",
+      "raajje-transport-link",
+      "kulhudhuffushi",
+      "hanimaadhoo",
+      "naifaru",
+      "rasdhoo",
+      "ukulhas",
+      "mahibadhoo",
+      "maldivas"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-mtcc-rtl-zonas-1-2-hoarafushi-hanimaadhoo-kulhudhuffushi-funadhoo-manadhoo-naifaru-mv",
+        "nome": "MTCC RTL Zonas 1 e 2 (Atóis do Norte): Hoarafushi / Ihavandhoo ↔ Hanimaadhoo ↔ Kulhudhuffushi City ↔ Funadhoo (Shaviyani) ↔ Manadhoo (Noonu) ↔ Naifaru (Lhaviyani)",
+        "status": "operacao",
+        "extensao_km": 560,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-mtcc-ferries-atois-ari-vaavu-male-rasdhoo-ukulhas-mahibadhoo-fulidhoo-mv",
+        "nome": "Atóis Centrais (Ari e Vaavu): Malé ↔ Toddoo / Rasdhoo / Ukulhas (Alif Alif) ↔ Mahibadhoo / Maamigili (Alif Dhaalu) ↔ Fulidhoo (Vaavu)",
+        "status": "operacao",
+        "extensao_km": 380,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "nainativu-nagadeepa-analaitivu-eluvaitivu-jaffna-ferries-trincomalee-muttur-batticaloa-kalpitiya-sri-lanka",
+    "slug": "nainativu-nagadeepa-analaitivu-eluvaitivu-jaffna-ferries-trincomalee-muttur-batticaloa-kalpitiya-sri-lanka",
+    "nome_pt": "Ferries de Nainativu/Nagadeepa, Analaitivu e Kayts (Península de Jaffna) e Travessias de Trincomalee–Muttur, Batticaloa e Kalpitiya (Sri Lanka)",
+    "nome_en": "Nainativu/Nagadeepa, Analaitivu & Kayts Island Ferries (Jaffna Peninsula) & Trincomalee–Muttur, Batticaloa & Kalpitiya Crossings (Sri Lanka)",
+    "pais": "Sri Lanka",
+    "cidade": "Jaffna (Kurikadduwan, Ilha de Nainativu/Nagadeepa, Analaitivu e Kayts) / Trincomalee / Muttur / Batticaloa / Kalpitiya",
+    "uf": "Província do Norte, Província Oriental e Província Noroeste",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Road Development Authority (RDA Sri Lanka) & Sri Lanka Navy Passenger Ferries / Jaffna District Secretariat / Trincomalee Harbour Ferries",
+    "inauguracao": "1950 (serviços públicos de barcas de Kurikadduwan para Nainativu/Nagadeepa e Kayts–Karainagar)",
+    "extensao_km": 420,
+    "bitola": "Barcas de Passageiros do Estreito de Palk / Ilhas de Jaffna e Travessias de Baía e Lagoas Costeiras",
+    "eletrificacao": "Barcas Costeiras a Diesel",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 11500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 35 milhões (modernização dos píeres de Kurikadduwan e Nainativu e novas embarcações de passageiros para as ilhas do norte do Sri Lanka)",
+    "proximas_entregas": "Novos catamarãs de passageiros para as ilhas de Nainativu, Analaitivu e Eluvaitivu em Jaffna",
+    "resumo_pt": "Rede de barcas insulares e costeiras do Sri Lanka: na Península de Jaffna (Província do Norte), além da rota de Delft, milhares de peregrinos e moradores cruzam diariamente do píer de Kurikadduwan (na ilha de Punkudutivu) até a histórica Ilha de Nainativu/Nagadeepa — sagrada tanto para o budismo (Nagadeepa Purana Viharaya) quanto para o hinduísmo (Templo Nainativu Nagapooshani Amman) —, além das travessias para Analaitivu, Eluvaitivu e o ferry de Kayts–Karainagar; na costa oriental e ocidental, barcas regulares cruzam a Baía de Koddiyar entre o grande porto natural de Trincomalee e Muttur, as lagoas de Batticaloa e Kinniya, e o arquipélago da Lagoa de Puttalam/Kalpitiya.",
+    "resumo_en": "Island and lagoon passenger ferries of Sri Lanka: in the Jaffna Peninsula (Northern Province), thousands of pilgrims and residents cross daily from Kurikadduwan Jetty (on Punkudutivu Island) to historic Nainativu/Nagadeepa Island — sacred to both Buddhists (Nagadeepa Purana Viharaya) and Hindus (Nagapooshani Amman Temple) — alongside routes to Analaitivu, Eluvaitivu, and the Kayts–Karainagar ferry; on the eastern and western coasts, regular boats cross Koddiyar Bay between Trincomalee natural harbor and Muttur, the Batticaloa Lagoon, and the islands of Kalpitiya/Puttalam Lagoon.",
+    "lat": 9.605,
+    "lon": 79.772,
+    "zoom_inicial": 7,
+    "fontes": [
+      "https://www.rda.gov.lk/",
+      "https://www.jaffna.dist.gov.lk/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "nainativu",
+      "nagadeepa",
+      "jaffna",
+      "kayts",
+      "analaitivu",
+      "trincomalee",
+      "muttur",
+      "kalpitiya",
+      "sri-lanka"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-jaffna-kurikadduwan-nainativu-nagadeepa-analaitivu-kayts-karainagar-lk",
+        "nome": "Arquipélago de Jaffna: Píer de Kurikadduwan ↔ Ilha de Nainativu (Nagadeepa) ↔ Analaitivu ↔ Eluvaitivu e Ferry Kayts ↔ Karainagar",
+        "status": "operacao",
+        "extensao_km": 160,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-trincomalee-muttur-koddiyar-bay-batticaloa-kalpitiya-lagoons-lk",
+        "nome": "Baía de Trincomalee e Lagoas Costeiras: Porto de Trincomalee ↔ Muttur, Lagoa de Batticaloa e Península de Kalpitiya ↔ Ilhas de Dutch Bay",
+        "status": "operacao",
+        "extensao_km": 260,
+        "estacoes": 2
+      }
+    ]
   }
 ]
