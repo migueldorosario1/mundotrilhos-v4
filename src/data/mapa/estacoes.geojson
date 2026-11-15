@@ -53483,6 +53483,506 @@
           33.116
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-izmit-korfez-ulasim-iskele-tr",
+        "nome": "İzmit & Gölcük Piers — Kocaeli Körfez Ulaşım",
+        "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "linha_id": "linha-kocaeli-izmit-eskihisar-topcular-van-golu-feribot-tr",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminal central das barcas metropolitanas do Golfo de İzmit (Kocaeli), interligando İzmit, Gölcük, Derince, Değirmendere e Karamürsel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.921,
+          40.761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-eskihisar-topcular-feribot-iskele-tr",
+        "nome": "Eskihisar & Topçular Ferry Terminals — İDO Golfo de İzmit",
+        "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "linha_id": "linha-kocaeli-izmit-eskihisar-topcular-van-golu-feribot-tr",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Eixo rodo-hidroviário 24 horas entre Gebze/Eskihisar e Yalova/Topçular no Golfo de İzmit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.425,
+          40.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tatvan-van-tcdd-feribot-iskele-tr",
+        "nome": "Tatvan & Van Feribot İskelesi — Ferry Ferroviário TCDD do Lago de Van",
+        "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "linha_id": "linha-kocaeli-izmit-eskihisar-topcular-van-golu-feribot-tr",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminal dos maiores ferries ferroviários da Turquia (Sultan Alparslan e İdris-i Bitlisi), transportando composições ferroviárias inteiras pelos 91 km do Lago de Van a 1.640 m de altitude."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.296,
+          38.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bodrum-marmaris-cruise-ferry-port-tr",
+        "nome": "Bodrum & Marmaris International Ferry Ports — Costa Turca do Egeu",
+        "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "linha_id": "linha-ferries-costa-turca-bodrum-kos-marmaris-rodes-tasucu-girne-tr",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Portos internacionais de catamarãs e hidrofólios ligando a Riviera Turca às ilhas gregas de Kos, Rodes, Symi e Kalymnos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.429,
+          37.032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tasucu-girne-kyrenia-ferry-port-tr",
+        "nome": "Taşucu & Girne (Kyrenia) Ferry Terminals — Corredor Marítimo Mediterrâneo",
+        "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "linha_id": "linha-ferries-costa-turca-bodrum-kos-marmaris-rodes-tasucu-girne-tr",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminais de ferries Ro-Pax e catamarãs rápidos entre a costa da Cilícia (Mersin/Taşucu) e o porto histórico de Girne (Kyrenia)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.884,
+          36.315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muttrah-sultan-qaboos-port-muscat-om",
+        "nome": "Port Sultan Qaboos (Muttrah) — Mascate (Mwasalat / NFC)",
+        "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "linha_id": "linha-mwasalat-nfc-muscat-shinas-dibba-lima-khasab-musandam-om",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Porto histórico de Mascate (Muttrah), base dos catamarãs de alta velocidade da National Ferries Company (Mwasalat)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.567,
+          23.626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-shinas-ferry-terminal-al-batinah-om",
+        "nome": "Shinas Ferry Terminal — Costa de Al Batinah (Omã)",
+        "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "linha_id": "linha-mwasalat-nfc-muscat-shinas-dibba-lima-khasab-musandam-om",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Principal terminal de embarque de veículos e passageiros no norte de Omã para a travessia marítima direta até a Península de Musandam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.478,
+          24.745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-khasab-port-musandam-strait-of-hormuz-om",
+        "nome": "Khasab Port — Península de Musandam (Estreito de Ormuz)",
+        "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "linha_id": "linha-mwasalat-nfc-muscat-shinas-dibba-lima-khasab-musandam-om",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminal estratégico na capital da província de Musandam, junto ao Estreito de Ormuz e aos fiordes da Arábia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.241,
+          26.198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lima-dibba-ports-musandam-om",
+        "nome": "Lima & Dibba Ferry Terminals — Musandam Oriental",
+        "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "linha_id": "linha-mwasalat-nfc-muscat-shinas-dibba-lima-khasab-musandam-om",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Portos costeiros de Lima e Dibba, onde os ferries da Mwasalat garantem a ligação essencial com as comunidades costeiras de Musandam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.452,
+          25.938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-shannah-masirah-island-ferry-terminals-om",
+        "nome": "Shannah & Masirah Island (Hilf) Ferry Terminals — Mar Arábico",
+        "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "linha_id": "linha-mwasalat-nfc-shannah-masirah-island-mar-arabico-om",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminais Ro-Pax ligando o continente omanense (Shannah) a Hilf, na maior ilha de Omã (Masirah), no Mar Arábico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.871,
+          20.668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-said-port-fouad-suez-canal-ferry-eg",
+        "nome": "Port Said & Port Fouad Ferry Terminals — Entrada Norte do Canal de Suez",
+        "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "linha_id": "linha-suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-bus-eg",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Travessia contínua 24h operada pela Autoridade do Canal de Suez entre Port Said (África) e Port Fouad (Ásia/Sinai), transportando dezenas de milhares de passageiros e veículos diariamente."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.311,
+          31.262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ismailia-qantara-suez-canal-ferry-eg",
+        "nome": "Ismailia & El Qantara Ferry Crossings — Canal de Suez Central",
+        "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "linha_id": "linha-suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-bus-eg",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminais de balsas transcontinentais da Autoridade do Canal de Suez em Ismailia e El Qantara."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.278,
+          30.588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-maspero-maadi-cairo-nile-river-bus-eg",
+        "nome": "Maspero, Zamalek & Maadi Wharves — CTA Cairo Nile River Bus",
+        "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "linha_id": "linha-suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-bus-eg",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Cais centrais do Ônibus Fluvial do Nilo (CTA) no coração do Cairo, conectando Maspero (Centro), Zamalek, Giza, Manial, Maadi e El Qanater El Khayreya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.229,
+          30.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-luxor-west-bank-public-ferry-nile-eg",
+        "nome": "Luxor East & West Bank Ferry Terminals — Travessia do Nilo em Tebas",
+        "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "linha_id": "linha-alto-nilo-luxor-aswan-elephantine-lago-nasser-abu-simbel-wadi-halfa-eg",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Barca pública 24 horas de Luxor, ligando o Templo de Luxor na margem leste à necrópole tebana e ao Vale dos Reis na margem oeste."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.639,
+          25.699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-aswan-elephantine-island-lake-nasser-port-eg",
+        "nome": "Aswan — Elephantine Island Ferry & High Dam Port (Lago Nasser)",
+        "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "linha_id": "linha-alto-nilo-luxor-aswan-elephantine-lago-nasser-abu-simbel-wadi-halfa-eg",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Complexo de barcas núbias para a Ilha Elefantina, Templo de Philae e o Porto da Alta Barragem de Aswan no Lago Nasser (rota para Abu Simbel e Wadi Halfa)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.89,
+          24.089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-jebel-dhanna-ferry-terminal-al-dhafra-ae",
+        "nome": "Jebel Dhanna Ferry Terminal — Al Dhafra (Abu Dhabi Maritime)",
+        "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "linha_id": "linha-ad-maritime-jebel-dhanna-delma-island-sir-bani-yas-ae",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminal continental de ferries Ro-Pax na região ocidental de Abu Dhabi (Al Dhafra), porta de entrada para as ilhas de Delma e Sir Bani Yas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.642,
+          24.192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-delma-island-ferry-terminal-abu-dhabi-ae",
+        "nome": "Delma Island Ferry Terminal — Ilha de Delma (Abu Dhabi)",
+        "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "linha_id": "linha-ad-maritime-jebel-dhanna-delma-island-sir-bani-yas-ae",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Porto insular de Delma, uma das ilhas habitadas mais antigas do Golfo Pérsico, atendido pelos modernos ferries Ro-Pax da Abu Dhabi Maritime."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.332,
+          24.482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sir-bani-yas-island-jetty-abu-dhabi-ae",
+        "nome": "Sir Bani Yas Island Terminal — Reserva Natural de Sir Bani Yas",
+        "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "linha_id": "linha-ad-maritime-jebel-dhanna-delma-island-sir-bani-yas-ae",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminal hidroviário da Ilha de Sir Bani Yas, famoso santuário da vida selvagem árabe e polo de ecoturismo de Abu Dhabi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.592,
+          24.285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sharjah-aquarium-marine-station-al-khan-ae",
+        "nome": "Aquarium Marine Station (Al Khan) — Sharjah Ferry Terminal (SRTA / RTA)",
+        "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "linha_id": "linha-rta-srta-sharjah-aquarium-al-khan-dubai-al-ghubaiba-fr5-ae",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Estação marítima junto ao Aquário e Museu Marítimo de Sharjah em Al Khan, terminal norte do catamarã interemirados FR5 para Dubai."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.358,
+          25.328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-al-ghubaiba-interemirate-ferry-hub-dubai-ae",
+        "nome": "Al Ghubaiba Inter-Emirate Marine Hub — Conexão Sharjah–Dubai (FR5)",
+        "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "linha_id": "linha-rta-srta-sharjah-aquarium-al-khan-dubai-al-ghubaiba-fr5-ae",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Hub multimodal de Al Ghubaiba em Dubai (Metrô Linha Verde, Ônibus, Abra, Water Bus e o Ferry Interemirados FR5 para Sharjah)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.289,
+          25.265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-de-peche-ferry-terminal-djibouti-dj",
+        "nome": "Port de Djibouti (L'Escale) — Terminal de Ferries do Golfo de Tadjourah",
+        "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "linha_id": "linha-djibouti-tadjourah-obock-massawa-dahlak-socotra-mar-vermelho-aden",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminal de embarque dos ferries Ro-Pax e lanchas rápidas da APZFD que cruzam o Golfo de Tadjourah até as cidades históricas de Tadjourah e Obock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.148,
+          11.595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tadjourah-obock-ferry-ports-djibouti-dj",
+        "nome": "Portos de Tadjourah e Obock — Costa Norte do Golfo de Tadjourah (Djibuti)",
+        "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "linha_id": "linha-djibouti-tadjourah-obock-massawa-dahlak-socotra-mar-vermelho-aden",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Terminais marítimos de Tadjourah ('A Cidade Branca') e Obock na entrada do Estreito de Bab el-Mandeb."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.885,
+          11.785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-massawa-dahlak-archipelago-port-er",
+        "nome": "Porto de Massawa & Ilha de Dahlak Kebir — Mar Vermelho (Eritreia)",
+        "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "linha_id": "linha-djibouti-tadjourah-obock-massawa-dahlak-socotra-mar-vermelho-aden",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Porto insular histórico de Massawa, base das embarcações que atendem o Parque Nacional Marinho do Arquipélago de Dahlak."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.475,
+          15.608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hadibu-hawlaf-port-socotra-unesco-ye",
+        "nome": "Porto de Hadibu (Hawlaf) — Arquipélago de Socotra (UNESCO)",
+        "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "linha_id": "linha-djibouti-tadjourah-obock-massawa-dahlak-socotra-mar-vermelho-aden",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Porto marítimo de Hadibu/Hawlaf na Ilha de Socotra (Patrimônio Mundial Natural da UNESCO), no encontro do Golfo de Áden com o Oceano Índico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.988,
+          12.652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bandar-anzali-amirabad-astrakhan-caspio-ir",
+        "nome": "Portos de Bandar Anzali, Amirabad e Astrakhan — Hidrovia do Mar Cáspio",
+        "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "linha_id": "linha-caspio-sul-norte-bandar-anzali-amirabad-baku-olya-astrakhan",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "descricao": "Principais portos iranianos na costa sul do Mar Cáspio (Bandar Anzali em Gilan e Amirabad em Mazandaran, com conexão ferroviária direta), ligados ao corredor marítimo de Baku e Olya/Astrakhan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.472,
+          37.475
+        ]
+      }
     }
   ]
 }
