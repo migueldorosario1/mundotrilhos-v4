@@ -1462,6 +1462,23 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.604 páginas estáticas geradas** — superando **2.600+ páginas estáticas** (`npm run build` com código 0).
 - **Próxima Ronda (#151 / Ordem 147 da Fila)**: `HIDRO-AMERICA-DO-NORTE-ARTICO-ALASCA-MISSISSIPI-III` (Fase Hidroviária Mundial #37 — América do Norte Fluvial, Ártico Canadense, Baía de Chesapeake e Golfo do México III).
 
+### #152 — 15/11/2026 14:18 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #151 CONCLUÍDA EM PRODUÇÃO (`commit` na `main`, `2614 page(s) built`): ORDEM 147 DA FILA — FASE HIDROVIÁRIA MUNDIAL #37 (AMÉRICA DO NORTE FLUVIAL, ÁRTICO CANADENSE, OUTER BANKS, NOVA INGLATERRA E GOLFO DO MÉXICO III: ESTADOS UNIDOS E CANADÁ — MARCO HISTÓRICO DE 900+ TERMINAIS HIDROVIÁRIOS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 147 Concluída (`HIDRO-AMERICA-DO-NORTE-ARTICO-ALASCA-MISSISSIPI-III`) — 5 sistemas hidroviários de barcos, catamarãs e ferries (`3.700 km`, 10 linhas, 25 terminais)**:
+  1. `txdot-galveston-port-bolivar-port-aransas-ferries-mobile-bay-dauphin-island-key-west-express-golfo-do-mexico-eua` (🇺🇸 Estados Unidos — Golfo do México: TxDOT Galveston–Port Bolivar & Port Aransas Ferries no Texas, Mobile Bay Ferry no Alabama e Key West Express & Yankee Freedom III Fort Myers/Marco Island–Key West–Dry Tortugas na Flórida, `580 km`, 2 linhas, 5 terminais)
+  2. `nc-dot-outer-banks-ferries-hatteras-ocracoke-cedar-island-jamestown-scotland-ferry-potomac-water-taxi-va-nc-md-dc-eua` (🇺🇸 Estados Unidos — Carolina do Norte, Virgínia, Maryland e Washington D.C.: NCDOT Ferry Division Hatteras–Ocracoke–Cedar Island–Swan Quarter nos Outer Banks, VDOT Jamestown–Scotland Ferry no Rio James e Potomac Water Taxi The Wharf D.C.–Alexandria–National Harbor, `390 km`, 2 linhas, 5 terminais)
+  3. `mbta-boston-harbor-ferries-hingham-hull-charlestown-lynn-provincetown-fast-ferry-champlain-ferries-vt-ny-ma-eua` (🇺🇸 Estados Unidos — Massachusetts, Vermont e Nova York: MBTA Boat & Provincetown Fast Ferry no Porto de Boston e Lake Champlain Ferries Grand Isle–Plattsburgh e Charlotte–Essex, `310 km`, 2 linhas, 5 terminais)
+  4. `stq-sorel-tracy-saint-ignace-isle-aux-coudres-riviere-du-loup-blanc-sablon-ctma-iles-de-la-madeleine-quebec-canada` (🇨🇦 Canadá — Quebec, Ilha do Príncipe Eduardo e Terra Nova: Société des traversiers du Québec STQ Sorel-Tracy, Île-aux-Coudres, Rivière-du-Loup, Ilha Anticosti e Basse-Côte-Nord/Blanc-Sablon e CTMA Souris–Îles-de-la-Madeleine, `1.280 km`, 2 linhas, 5 terminais)
+  5. `nwt-mackenzie-liard-peel-river-ferries-fort-providence-fort-simpson-inuvik-yukon-george-black-ferry-dawson-city-canada` (🇨🇦 Canadá — Territórios do Noroeste, Yukon e Colúmbia Britânica: Ferries Fluviais Árticos das Rodovias Dempster e Mackenzie em Tsiigehtchic e Fort Simpson, George Black Ferry em Dawson City no Rio Yukon e BC Inland Ferries no Lago Kootenay e Upper Arrow Lake, `1.140 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa**:
+  - **959 sistemas no banco** (**943 em operação**, sendo **223 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.359 linhas mapeadas** (**1.340 em operação**, sendo **445 linhas hidroviárias de barcos/ferries**)
+  - **2.350 estações e terminais geolocalizados** (**916 terminais hidroviários de barcos/ferries** — superando a marca histórica de **900+ terminais hidroviários**!)
+  - **2.614 páginas estáticas geradas** (`npm run build` com código 0).
+- **Próxima Ronda (#152 / Ordem 148 da Fila)**: `HIDRO-SUDESTE-ASIATICO-MEKONG-BORNEU-CELEBES-III` (Fase Hidroviária Mundial #38 — Sudeste Asiático Fluvial e Insular III: Rio Mekong, Bornéu, Molucas e Filipinas Meridionais).
+
+
 
 
 
