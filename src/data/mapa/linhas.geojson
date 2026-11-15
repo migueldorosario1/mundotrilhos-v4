@@ -52240,6 +52240,396 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-atlanticoline-triangulo-acores-horta-madalena-velas-porto-santo-funchal",
+        "nome": "Linhas do Triângulo dos Açores & Madeira (Horta / Faial – Madalena / Pico – Velas / São Jorge e Funchal – Porto Santo)",
+        "sistema_id": "atlanticoline-acores-porto-santo-line-madeira-ria-de-aveiro-ferries-douro-minho-portugal",
+        "sistema_nome": "Atlânticoline (Açores), Porto Santo Line (Madeira) e Ferries da Ria de Aveiro e Rio Douro (Portugal)",
+        "pais": "Portugal",
+        "cidade": "Horta / Madalena / Velas / Funchal / Porto Santo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 540,
+        "bitola": "Cabotagem Insular Atlântica Ro-Pax",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -28.6231,
+            38.5369
+          ],
+          [
+            -28.5289,
+            38.5356
+          ],
+          [
+            -28.2067,
+            38.68
+          ],
+          [
+            -16.9056,
+            32.6431
+          ],
+          [
+            -16.3189,
+            33.0589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ferry-eletrico-ria-de-aveiro-sao-jacinto-forte-da-barra-rio-douro",
+        "nome": "Travessias da Ria de Aveiro & Rio Douro (Forte da Barra / Ílhavo – São Jacinto e Afurada – Lordelo do Ouro / Porto)",
+        "sistema_id": "atlanticoline-acores-porto-santo-line-madeira-ria-de-aveiro-ferries-douro-minho-portugal",
+        "sistema_nome": "Atlânticoline (Açores), Porto Santo Line (Madeira) e Ferries da Ria de Aveiro e Rio Douro (Portugal)",
+        "pais": "Portugal",
+        "cidade": "Aveiro / Ílhavo / Porto / Vila Nova de Gaia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 80,
+        "bitola": "Travessias Estuarinas Elétricas",
+        "eletrificacao": "Zero Emissões 100% Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7364,
+            40.6447
+          ],
+          [
+            -8.7289,
+            40.6694
+          ],
+          [
+            -8.6472,
+            41.1436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ria-de-vigo-cangas-moana-ilhas-cies-ons-galicia",
+        "nome": "Rede Metropolitana da Ría de Vigo & Ilhas Atlânticas (Vigo – Cangas – Moaña – Ilhas Cíes – Bueu / Ilha de Ons)",
+        "sistema_id": "mar-de-ons-piratas-de-nabia-ria-de-vigo-cangas-moana-ilhas-cies-ons-formentera-ibiza-trasmapi-espanha",
+        "sistema_nome": "Transporte de Ría de Vigo e Ponte Marítima Ibiza–Formentera (Espanha)",
+        "pais": "Espanha",
+        "cidade": "Vigo / Cangas / Moaña / Ilhas Cíes",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 145,
+        "bitola": "Catamarãs Metropolitanos de Ría",
+        "eletrificacao": "Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7267,
+            42.2428
+          ],
+          [
+            -8.7819,
+            42.2614
+          ],
+          [
+            -8.7369,
+            42.2831
+          ],
+          [
+            -8.9022,
+            42.2239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ponte-maritima-pitiusa-ibiza-la-savina-formentera",
+        "nome": "Ponte Marítima das Ilhas Pitiusas (Porto de Ibiza – Porto de La Savina / Formentera)",
+        "sistema_id": "mar-de-ons-piratas-de-nabia-ria-de-vigo-cangas-moana-ilhas-cies-ons-formentera-ibiza-trasmapi-espanha",
+        "sistema_nome": "Transporte de Ría de Vigo e Ponte Marítima Ibiza–Formentera (Espanha)",
+        "pais": "Espanha",
+        "cidade": "Ibiza / Formentera",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 145,
+        "bitola": "Fast Ferries Insulares",
+        "eletrificacao": "Diesel Marítimo de Baixa Emissão"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.4394,
+            38.9125
+          ],
+          [
+            1.4167,
+            38.7336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-liberty-lines-siremar-milazzo-lipari-salina-stromboli-trapani-favignana",
+        "nome": "Hidroglissadores e Ferries das Ilhas Eólias & Égadi (Milazzo – Vulcano – Lipari – Salina – Stromboli e Trapani – Favignana)",
+        "sistema_id": "delcomar-maddalena-carloforte-sardenha-siremar-liberty-lines-ilhas-eolias-milazzo-lipari-stromboli-egadi-trapani-italia",
+        "sistema_nome": "Ferries da Sardenha e Hidroglissadores da Sicília (Ilhas Eólias e Égadi, Itália)",
+        "pais": "Itália",
+        "cidade": "Milazzo / Lipari / Stromboli / Trapani / Favignana",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 360,
+        "bitola": "Hidroglissadores (Aliscafi) e Monocascos Híbridos",
+        "eletrificacao": "Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2458,
+            38.2189
+          ],
+          [
+            14.9561,
+            38.4675
+          ],
+          [
+            15.2367,
+            38.8031
+          ],
+          [
+            12.5028,
+            38.0119
+          ],
+          [
+            12.3278,
+            37.9325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-delcomar-sardenha-palau-la-maddalena-portovesme-calasetta-carloforte",
+        "nome": "Travessias Insulares da Sardenha (Palau – La Maddalena e Portovesme / Calasetta – Carloforte / Ilha de San Pietro)",
+        "sistema_id": "delcomar-maddalena-carloforte-sardenha-siremar-liberty-lines-ilhas-eolias-milazzo-lipari-stromboli-egadi-trapani-italia",
+        "sistema_nome": "Ferries da Sardenha e Hidroglissadores da Sicília (Ilhas Eólias e Égadi, Itália)",
+        "pais": "Itália",
+        "cidade": "Palau / La Maddalena / Carloforte / Portovesme",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 220,
+        "bitola": "Ferries Ro-Pax Insulares 24h",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.3836,
+            41.1819
+          ],
+          [
+            9.4064,
+            41.2119
+          ],
+          [
+            8.4019,
+            39.2039
+          ],
+          [
+            8.3081,
+            39.1456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-dodekanisos-seaways-rodes-symi-kos-kalymnos-leros-patmos",
+        "nome": "Expresso do Dodecaneso (Rodes – Symi – Tilos – Nisyros – Kos – Kalymnos – Leros – Patmos)",
+        "sistema_id": "dodekanisos-seaways-anem-rodes-symi-kos-kalymnos-leros-patmos-seajets-esporades-volos-skiathos-skopelos-alonissos-grecia",
+        "sistema_nome": "Catamarãs do Dodecaneso e Ferries das Ilhas Espórades (Grécia)",
+        "pais": "Grécia",
+        "cidade": "Rodes / Symi / Kos / Kalymnos / Patmos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 410,
+        "bitola": "Catamarãs de Alta Velocidade do Mar Egeu",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.2278,
+            36.4467
+          ],
+          [
+            27.8369,
+            36.6164
+          ],
+          [
+            27.2894,
+            36.8961
+          ],
+          [
+            26.9853,
+            36.9489
+          ],
+          [
+            26.5481,
+            37.3239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ferries-ilhas-esporades-volos-skiathos-skopelos-alonissos",
+        "nome": "Corredor Marítimo das Ilhas Espórades (Porto de Volos – Skiathos – Skopelos – Alonissos)",
+        "sistema_id": "dodekanisos-seaways-anem-rodes-symi-kos-kalymnos-leros-patmos-seajets-esporades-volos-skiathos-skopelos-alonissos-grecia",
+        "sistema_nome": "Catamarãs do Dodecaneso e Ferries das Ilhas Espórades (Grécia)",
+        "pais": "Grécia",
+        "cidade": "Volos / Skiathos / Skopelos / Alonissos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 260,
+        "bitola": "Ferries Ro-Pax e Flying Dolphins",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.9419,
+            39.3578
+          ],
+          [
+            23.4922,
+            39.1636
+          ],
+          [
+            23.7294,
+            39.1239
+          ],
+          [
+            23.8639,
+            39.1464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-boka-bay-ferry-kamenari-lepetane-kotor-montenegro",
+        "nome": "Travessia Ro-Ro da Baía de Kotor & Adriático Sul (Kamenari / Herceg Novi – Lepetane / Tivat – Kotor)",
+        "sistema_id": "boka-bay-ferry-kamenari-lepetane-kotor-montenegro-ionian-seaways-corfu-sarande-igoumenitsa-paxos-levkada-albania-grecia",
+        "sistema_nome": "Boka Bay Ferry (Montenegro) e Ferries do Canal de Corfu e Mar Jônico (Albânia / Grécia)",
+        "pais": "Montenegro",
+        "cidade": "Herceg Novi / Tivat / Kotor",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 85,
+        "bitola": "Ferries Anfíbios Ro-Ro de Fiorde",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.6742,
+            42.4561
+          ],
+          [
+            18.6836,
+            42.4631
+          ],
+          [
+            18.7683,
+            42.4247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-de-corfu-mar-jonico-sarande-corfu-igoumenitsa-paxos-cefalonia",
+        "nome": "Eixo Internacional do Canal de Corfu & Ilhas Jônicas (Sarandë AL – Corfu – Igoumenitsa – Paxos – Cefalônia)",
+        "sistema_id": "boka-bay-ferry-kamenari-lepetane-kotor-montenegro-ionian-seaways-corfu-sarande-igoumenitsa-paxos-levkada-albania-grecia",
+        "sistema_nome": "Boka Bay Ferry (Montenegro) e Ferries do Canal de Corfu e Mar Jônico (Albânia / Grécia)",
+        "pais": "Albânia / Grécia",
+        "cidade": "Sarandë / Corfu / Igoumenitsa / Cefalônia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 305,
+        "bitola": "Hidroglissadores Internacionais e Ferries Ro-Pax Jônicos",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.0019,
+            39.8719
+          ],
+          [
+            19.9086,
+            39.6289
+          ],
+          [
+            20.2631,
+            39.5019
+          ],
+          [
+            20.1872,
+            39.2014
+          ],
+          [
+            20.4892,
+            38.1794
+          ]
+        ]
+      }
     }
   ]
 }
