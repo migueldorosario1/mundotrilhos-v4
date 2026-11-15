@@ -48022,6 +48022,394 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-catalina-express-long-beach-san-pedro-avalon-two-harbors",
+        "nome": "Corredor Norte do Canal de Santa Catalina: San Pedro / Long Beach Downtown – Avalon & Two Harbors (Catalina Express)",
+        "sistema_slug": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_id": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_nome": "Catamarãs Rápidos da Califórnia — Catalina Express & Catalina Flyer (Long Beach, San Pedro, Newport Beach e Dana Point – Ilha de Santa Catalina) e Angel Island–Tiburon Ferry (EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 105.0,
+        "bitola": "Catamarãs de Alta Velocidade Incat Crowther / Nichols Brothers a jato d'água (Jet Cat, Starship Express, Catalina Jet — 37 nós) e Ferry Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2764,
+            33.7486
+          ],
+          [
+            -118.1969,
+            33.7606
+          ],
+          [
+            -118.3264,
+            33.3428
+          ],
+          [
+            -118.4961,
+            33.4422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-catalina-sul-newport-dana-point-avalon-angel-island",
+        "nome": "Corredor Orange County – Catalina (Newport Beach / Dana Point – Avalon) e Travessia Elétrica Tiburon – Angel Island",
+        "sistema_slug": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_id": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_nome": "Catamarãs Rápidos da Califórnia — Catalina Express & Catalina Flyer (Long Beach, San Pedro, Newport Beach e Dana Point – Ilha de Santa Catalina) e Angel Island–Tiburon Ferry (EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 80.0,
+        "bitola": "Catamarãs de Alta Velocidade Incat Crowther / Nichols Brothers a jato d'água (Jet Cat, Starship Express, Catalina Jet — 37 nós) e Ferry Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.6978,
+            33.4608
+          ],
+          [
+            -117.9289,
+            33.6025
+          ],
+          [
+            -118.3264,
+            33.3428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-steamship-hyline-woods-hole-hyannis-vineyard-nantucket",
+        "nome": "Cape Cod & Islands: Woods Hole – Martha's Vineyard (Vineyard Haven / Oak Bluffs) e Hyannis – Nantucket (Steamship Authority & Hy-Line)",
+        "sistema_slug": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_id": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_nome": "Ferries da Nova Inglaterra — The Steamship Authority e Hy-Line Cruises (Woods Hole e Hyannis – Martha's Vineyard e Nantucket, MA) e Casco Bay Lines (Portland – Peaks Island, Maine, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 165.0,
+        "bitola": "Ferry Ro-Pax Oceânico (MV Island Home, MV Woods Hole), Catamarã de Alta Velocidade (MV Iyanough, Grey Lady IV) e Ferry Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.6711,
+            41.5236
+          ],
+          [
+            -70.6008,
+            41.4547
+          ],
+          [
+            -70.5539,
+            41.4567
+          ],
+          [
+            -70.2781,
+            41.65
+          ],
+          [
+            -70.0967,
+            41.2856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-casco-bay-lines-portland-peaks-island-bailey-island-maine",
+        "nome": "Rede Insular de Casco Bay (Maine): Portland Casco Bay Ferry Terminal – Peaks Island – Long Island – Chebeague – Bailey Island",
+        "sistema_slug": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_id": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_nome": "Ferries da Nova Inglaterra — The Steamship Authority e Hy-Line Cruises (Woods Hole e Hyannis – Martha's Vineyard e Nantucket, MA) e Casco Bay Lines (Portland – Peaks Island, Maine, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 80.0,
+        "bitola": "Ferry Ro-Pax Oceânico (MV Island Home, MV Woods Hole), Catamarã de Alta Velocidade (MV Iyanough, Grey Lady IV) e Ferry Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.2469,
+            43.6572
+          ],
+          [
+            -70.1972,
+            43.6556
+          ],
+          [
+            -70.1656,
+            43.6889
+          ],
+          [
+            -70.1189,
+            43.7136
+          ],
+          [
+            -69.9964,
+            43.7297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ny-waterway-hudson-weehawken-hoboken-jersey-city-manhattan",
+        "nome": "Corredor Trans-Hudson NY Waterway: Weehawken Port Imperial / Hoboken Terminal / Paulus Hook – Midtown W 39th St & Brookfield Place / Wall St",
+        "sistema_slug": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_id": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_nome": "Ferries do Rio Hudson e Long Island Sul — NY Waterway (Weehawken, Hoboken e Jersey City – Manhattan) e Fire Island Ferries (Bay Shore, Sayville e Patchogue – Fire Island, NY/NJ, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Catamarã Urbano de Alta Capacidade do Rio Hudson e Ferry de Baixo Calado da Great South Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0094,
+            40.7767
+          ],
+          [
+            -74.0056,
+            40.7611
+          ],
+          [
+            -74.0267,
+            40.7347
+          ],
+          [
+            -74.0333,
+            40.7131
+          ],
+          [
+            -74.0175,
+            40.7133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach",
+        "nome": "Travessias da Great South Bay para Fire Island: Bay Shore – Ocean Beach / Saltaire e Sayville – Cherry Grove / Fire Island Pines",
+        "sistema_slug": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_id": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_nome": "Ferries do Rio Hudson e Long Island Sul — NY Waterway (Weehawken, Hoboken e Jersey City – Manhattan) e Fire Island Ferries (Bay Shore, Sayville e Patchogue – Fire Island, NY/NJ, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 55.0,
+        "bitola": "Catamarã Urbano de Alta Capacidade do Rio Hudson e Ferry de Baixo Calado da Great South Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.245,
+            40.7139
+          ],
+          [
+            -73.1567,
+            40.6475
+          ],
+          [
+            -73.0764,
+            40.7222
+          ],
+          [
+            -73.0692,
+            40.6631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-michigan-lake-express-milwaukee-muskegon-ss-badger-manitowoc-ludington",
+        "nome": "Travessias Trans-Lago Michigan: Milwaukee – Muskegon (Catamarã Rápido Lake Express) e Manitowoc – Ludington (SS Badger US-10)",
+        "sistema_slug": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_id": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_nome": "Ferries dos Grandes Lagos dos EUA — Lake Express Catamaran (Milwaukee–Muskegon), SS Badger (Ludington–Manitowoc no Lago Michigan) e Mackinac Island Ferries (Michigan e Wisconsin, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 235.0,
+        "bitola": "Catamarã Ro-Pax de Alta Velocidade Austal USA (Lake Express, 34 nós), Carferry Histórico SS Badger (Rota US 10) e Ferries Hidroplanadores de Mackinac"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8931,
+            43.0114
+          ],
+          [
+            -86.3069,
+            43.2147
+          ],
+          [
+            -86.4533,
+            43.9511
+          ],
+          [
+            -87.6531,
+            44.0886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-mackinac-st-ignace-mackinaw-city-mackinac-island",
+        "nome": "Estreito de Mackinac (Lagos Michigan e Huron): Mackinaw City e St. Ignace – Ilha Sem Carros de Mackinac Island",
+        "sistema_slug": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_id": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_nome": "Ferries dos Grandes Lagos dos EUA — Lake Express Catamaran (Milwaukee–Muskegon), SS Badger (Ludington–Manitowoc no Lago Michigan) e Mackinac Island Ferries (Michigan e Wisconsin, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 75.0,
+        "bitola": "Catamarã Ro-Pax de Alta Velocidade Austal USA (Lake Express, 34 nós), Carferry Histórico SS Badger (Rota US 10) e Ferries Hidroplanadores de Mackinac"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.725,
+            45.7789
+          ],
+          [
+            -84.6167,
+            45.8481
+          ],
+          [
+            -84.7222,
+            45.8669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ostc-chi-cheemaun-tobermory-manitoulin-pelee-island-ontario",
+        "nome": "Grandes Lagos de Ontário: Tobermory – South Baymouth Ilha Manitoulin (MS Chi-Cheemaun Lago Huron) e Leamington/Kingsville – Pelee Island (Lago Erie)",
+        "sistema_slug": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_id": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_nome": "Ferries dos Grandes Lagos Canadenses e Estuário do São Lourenço — MS Chi-Cheemaun (Tobermory–Ilha Manitoulin), Pelee Island Ferry (Lago Erie) e STQ Matane–Baie-Comeau–Godbout (Ontário e Quebec, Canadá)",
+        "pais": "Canadá",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115.0,
+        "bitola": "Ferry Ro-Pax Lacustre (MS Chi-Cheemaun, MV Pelee Islander II) e Ferry Ro-Pax Quebra-Gelo a GNL do Estuário do São Lourenço (NM F.-A.-Gauthier)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.6647,
+            45.2561
+          ],
+          [
+            -82.0156,
+            45.5597
+          ],
+          [
+            -82.6019,
+            42.0267
+          ],
+          [
+            -82.6847,
+            41.7519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-stq-estuario-sao-lourenco-matane-baie-comeau-godbout-rdl",
+        "nome": "Baixo Estuário do Rio São Lourenço (Quebec): Matane – Baie-Comeau / Godbout (NM F.-A.-Gauthier a GNL) e Rivière-du-Loup – Saint-Siméon",
+        "sistema_slug": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_id": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_nome": "Ferries dos Grandes Lagos Canadenses e Estuário do São Lourenço — MS Chi-Cheemaun (Tobermory–Ilha Manitoulin), Pelee Island Ferry (Lago Erie) e STQ Matane–Baie-Comeau–Godbout (Ontário e Quebec, Canadá)",
+        "pais": "Canadá",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 145.0,
+        "bitola": "Ferry Ro-Pax Lacustre (MS Chi-Cheemaun, MV Pelee Islander II) e Ferry Ro-Pax Quebra-Gelo a GNL do Estuário do São Lourenço (NM F.-A.-Gauthier)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.5536,
+            48.8436
+          ],
+          [
+            -67.7128,
+            49.3189
+          ],
+          [
+            -68.1369,
+            49.2314
+          ],
+          [
+            -69.5581,
+            47.8442
+          ],
+          [
+            -69.8736,
+            47.8389
+          ]
+        ]
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T10:49:49Z",
+  "atualizado_em": "2026-11-15T11:19:00Z",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2155,16 +2155,24 @@
         "laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca",
         "alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 135,
       "pais": "Fase Hidroviária Mundial #27 — Grandes Lagos, Costa Leste, Califórnia e Pacífico Noroeste II (Catalina Express Long Beach/San Pedro/Dana Point–Avalon Santa Catalina Island e Angel Island–Tiburon Ferry na Califórnia; Casco Bay Lines Portland–Peaks Island no Maine e Fire Island Ferries Bay Shore–Ocean Beach em NY nos EUA; e Owen Sound Transportation MS Chi-Cheemaun Tobermory–Manitoulin Island, Pelee Island Ferry no Lago Erie e STQ Tadoussac–Baie-Sainte-Catherine e Matane–Baie-Comeau no Canadá)",
       "codigo": "HIDRO-AMERICA-NORTE-GRANDES-LAGOS-COSTA-LESTE-OESTE-II",
       "continente": "América do Norte",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T11:19:00Z",
+      "sistemas_adicionados": [
+        "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 136,
       "pais": "Fase Hidroviária Brasil #8 — Travessias Fluviais, Insulares e Lacustres Complementares do Brasil (Travessias da Balsa Internacional do Rio Uruguai São Borja/Porto Mauá–Alba Posse/Porto Xavier no RS; Hidrovia do Rio Paraná e Lago de Itaipu Guaíra/Porto Rico no PR/MS; Lanchas de Ilha Grande Mangaratiba/Conceição de Jacareí–Vila do Abraão e Paraty–Saco do Mamanguá no RJ; Travessia de Boipeba e Morro de São Paulo Valença/Torrinhas–Cairu na BA; e Travessia de Atins–Caburé–Barreirinhas no Rio Preguiças / Lençóis Maranhenses no MA)",

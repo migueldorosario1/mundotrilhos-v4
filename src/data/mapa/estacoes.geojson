@@ -41118,6 +41118,481 @@
           60.1819
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-long-beach-downtown-catalina-landing-us",
+        "nome": "Long Beach Downtown Catalina Landing (Terminal Principal Catalina Express, CA)",
+        "sistema_id": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_slug": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "linha_id": "linha-catalina-express-long-beach-san-pedro-avalon-two-harbors",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1969,
+          33.7606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-san-pedro-catalina-sea-air-terminal-us",
+        "nome": "San Pedro Catalina Sea & Air Terminal (Port of Los Angeles, CA)",
+        "sistema_id": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_slug": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "linha_id": "linha-catalina-express-long-beach-san-pedro-avalon-two-harbors",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2764,
+          33.7486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-avalon-cabrillo-mole-santa-catalina-us",
+        "nome": "Avalon Cabrillo Mole Ferry Terminal (Ilha de Santa Catalina, CA)",
+        "sistema_id": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_slug": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "linha_id": "linha-catalina-express-long-beach-san-pedro-avalon-two-harbors",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3264,
+          33.3428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-two-harbors-pier-santa-catalina-us",
+        "nome": "Two Harbors Isthmus Pier (Ilha de Santa Catalina, CA)",
+        "sistema_id": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_slug": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "linha_id": "linha-catalina-express-long-beach-san-pedro-avalon-two-harbors",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4961,
+          33.4422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dana-point-newport-catalina-terminals-us",
+        "nome": "Dana Point Harbor & Newport Beach Balboa Pavilion (Catalina Express & Catalina Flyer, CA)",
+        "sistema_id": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "sistema_slug": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+        "linha_id": "linha-catalina-sul-newport-dana-point-avalon-angel-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6978,
+          33.4608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-woods-hole-steamship-terminal-ma-us",
+        "nome": "Woods Hole Ferry Terminal (The Steamship Authority — Falmouth / Cape Cod, MA)",
+        "sistema_id": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_slug": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "linha_id": "linha-steamship-hyline-woods-hole-hyannis-vineyard-nantucket",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6711,
+          41.5236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vineyard-haven-oak-bluffs-marthas-vineyard-us",
+        "nome": "Vineyard Haven & Oak Bluffs Ferry Terminals (Ilha de Martha's Vineyard, MA)",
+        "sistema_id": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_slug": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "linha_id": "linha-steamship-hyline-woods-hole-hyannis-vineyard-nantucket",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6008,
+          41.4547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hyannis-harbor-ferry-terminals-ma-us",
+        "nome": "Hyannis Harbor Ferry Terminals (Steamship Authority & Hy-Line Cruises, MA)",
+        "sistema_id": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_slug": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "linha_id": "linha-steamship-hyline-woods-hole-hyannis-vineyard-nantucket",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2781,
+          41.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nantucket-steamboat-straight-wharf-ma-us",
+        "nome": "Nantucket Steamboat Wharf & Straight Wharf (Ilha de Nantucket, MA)",
+        "sistema_id": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_slug": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "linha_id": "linha-steamship-hyline-woods-hole-hyannis-vineyard-nantucket",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0967,
+          41.2856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-portland-casco-bay-peaks-island-me-us",
+        "nome": "Portland Casco Bay Ferry Terminal & Peaks Island Landing (Casco Bay Lines, Maine)",
+        "sistema_id": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "sistema_slug": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+        "linha_id": "linha-casco-bay-lines-portland-peaks-island-bailey-island-maine",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2469,
+          43.6572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-weehawken-port-imperial-ny-waterway-nj-us",
+        "nome": "Weehawken Port Imperial Ferry Terminal (Hub NY Waterway / Integração VLT Hudson-Bergen, NJ)",
+        "sistema_id": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_slug": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "linha_id": "linha-ny-waterway-hudson-weehawken-hoboken-jersey-city-manhattan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0094,
+          40.7767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-midtown-west-39th-st-ferry-terminal-ny-us",
+        "nome": "Midtown / West 39th Street Ferry Terminal (Terminal NY Waterway em Manhattan, NY)",
+        "sistema_id": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_slug": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "linha_id": "linha-ny-waterway-hudson-weehawken-hoboken-jersey-city-manhattan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0056,
+          40.7611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hoboken-paulus-hook-ny-waterway-nj-us",
+        "nome": "Hoboken Terminal & Paulus Hook Jersey City Ferry Terminals (Integração NJ Transit / PATH, NJ)",
+        "sistema_id": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_slug": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "linha_id": "linha-ny-waterway-hudson-weehawken-hoboken-jersey-city-manhattan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0267,
+          40.7347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bay-shore-fire-island-ferry-terminal-ny-us",
+        "nome": "Bay Shore Fire Island Ferries Terminal (Long Island / Integração LIRR Bay Shore, NY)",
+        "sistema_id": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_slug": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "linha_id": "linha-fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.245,
+          40.7139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ocean-beach-cherry-grove-fire-island-ny-us",
+        "nome": "Ocean Beach & Cherry Grove / Fire Island Pines Ferry Terminals (Ilha Sem Carros de Fire Island, NY)",
+        "sistema_id": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "sistema_slug": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+        "linha_id": "linha-fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1567,
+          40.6475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-milwaukee-lake-express-ferry-terminal-wi-us",
+        "nome": "Milwaukee Lake Express High-Speed Ferry Terminal (Porto de Milwaukee, WI)",
+        "sistema_id": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_slug": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "linha_id": "linha-lago-michigan-lake-express-milwaukee-muskegon-ss-badger-manitowoc-ludington",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8931,
+          43.0114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muskegon-lake-express-ferry-terminal-mi-us",
+        "nome": "Muskegon Lake Express High-Speed Ferry Terminal (Muskegon, MI)",
+        "sistema_id": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_slug": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "linha_id": "linha-lago-michigan-lake-express-milwaukee-muskegon-ss-badger-manitowoc-ludington",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3069,
+          43.2147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ludington-ss-badger-carferry-dock-mi-us",
+        "nome": "Ludington SS Badger Carferry Terminal (Elo Marítimo da US-10 em Michigan)",
+        "sistema_id": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_slug": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "linha_id": "linha-lago-michigan-lake-express-milwaukee-muskegon-ss-badger-manitowoc-ludington",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4533,
+          43.9511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-manitowoc-ss-badger-carferry-dock-wi-us",
+        "nome": "Manitowoc SS Badger Carferry Terminal (Elo Marítimo da US-10 em Wisconsin)",
+        "sistema_id": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_slug": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "linha_id": "linha-lago-michigan-lake-express-milwaukee-muskegon-ss-badger-manitowoc-ludington",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6531,
+          44.0886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mackinac-island-st-ignace-mackinaw-city-mi-us",
+        "nome": "Mackinac Island, Mackinaw City & St. Ignace Ferry Docks (Estreito de Mackinac, MI)",
+        "sistema_id": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "sistema_slug": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+        "linha_id": "linha-estreito-de-mackinac-st-ignace-mackinaw-city-mackinac-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6167,
+          45.8481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tobermory-chi-cheemaun-ferry-terminal-on-ca",
+        "nome": "Tobermory Ferry Terminal (Base Sul do MS Chi-Cheemaun — Península de Bruce, Ontário)",
+        "sistema_id": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_slug": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "linha_id": "linha-ostc-chi-cheemaun-tobermory-manitoulin-pelee-island-ontario",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6647,
+          45.2561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-south-baymouth-manitoulin-ferry-terminal-on-ca",
+        "nome": "South Baymouth Ferry Terminal (Ilha Manitoulin — Lago Huron, Ontário)",
+        "sistema_id": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_slug": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "linha_id": "linha-ostc-chi-cheemaun-tobermory-manitoulin-pelee-island-ontario",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0156,
+          45.5597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pelee-island-leamington-kingsville-ferry-on-ca",
+        "nome": "Pelee Island West Dock & Leamington / Kingsville Ferry Terminals (Lago Erie, Ontário)",
+        "sistema_id": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_slug": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "linha_id": "linha-ostc-chi-cheemaun-tobermory-manitoulin-pelee-island-ontario",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6847,
+          41.7519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-fluviale-de-matane-stq-qc-ca",
+        "nome": "Gare fluviale de Matane (Terminal STQ do NM F.-A.-Gauthier a GNL — Gaspésie, Quebec)",
+        "sistema_id": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_slug": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "linha_id": "linha-stq-estuario-sao-lourenco-matane-baie-comeau-godbout-rdl",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5536,
+          48.8436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-fluviale-baie-comeau-godbout-stq-qc-ca",
+        "nome": "Gares fluviales de Baie-Comeau et Godbout (STQ Côte-Nord — Estuário do São Lourenço, Quebec)",
+        "sistema_id": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "sistema_slug": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+        "linha_id": "linha-stq-estuario-sao-lourenco-matane-baie-comeau-godbout-rdl",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1369,
+          49.2314
+        ]
+      }
     }
   ]
 }
