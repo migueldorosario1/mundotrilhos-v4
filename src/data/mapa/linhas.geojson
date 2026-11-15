@@ -40429,6 +40429,380 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-thames-clippers-rb1-rb6-putney-westminster-canary-wharf-barking",
+        "nome": "TfL River Bus RB1/RB6 (Putney – Battersea – Westminster – London Bridge – Canary Wharf – Greenwich – Barking Riverside)",
+        "sistema_id": "uber-boat-thames-clippers-woolwich-ferry-rio-tamisa-londres-reino-unido",
+        "sistema_nome": "Uber Boat by Thames Clippers e Woolwich Ferry no Rio Tâmisa em Londres (Reino Unido)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 38.0,
+        "bitola": "Hidrovia fluvial metropolitana (TfL River Bus)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2155,
+            51.467
+          ],
+          [
+            -0.145,
+            51.4835
+          ],
+          [
+            -0.124,
+            51.5015
+          ],
+          [
+            -0.0865,
+            51.5075
+          ],
+          [
+            -0.0255,
+            51.505
+          ],
+          [
+            -0.009,
+            51.4835
+          ],
+          [
+            0.0035,
+            51.503
+          ],
+          [
+            0.1155,
+            51.5175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-woolwich-ferry-travessia-rio-tamisa-londres",
+        "nome": "TfL Woolwich Ferry (North Woolwich – Woolwich Arsenal, Leste de Londres)",
+        "sistema_id": "uber-boat-thames-clippers-woolwich-ferry-rio-tamisa-londres-reino-unido",
+        "sistema_nome": "Uber Boat by Thames Clippers e Woolwich Ferry no Rio Tâmisa em Londres (Reino Unido)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 4.0,
+        "bitola": "Travessia fluvial ro-pax gratuita (Woolwich Ferry)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0615,
+            51.4992
+          ],
+          [
+            0.0628,
+            51.4952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mersey-ferry-liverpool-pier-head-seacombe-woodside",
+        "nome": "Mersey Ferry Commuter & River Explorer (Liverpool Pier Head – Seacombe Wallasey – Woodside Birkenhead)",
+        "sistema_id": "mersey-ferries-liverpool-wightlink-red-funnel-hovertravel-ilha-de-wight-reino-unido",
+        "sistema_nome": "Mersey Ferries (Liverpool–Birkenhead) e Ferries / Hovercraft do Solent para a Ilha de Wight (Wightlink, Red Funnel e Hovertravel, Reino Unido)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 12.0,
+        "bitola": "Hidrovia estuarina metropolitana (Rio Mersey)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9985,
+            53.4048
+          ],
+          [
+            -3.0155,
+            53.4095
+          ],
+          [
+            -3.0095,
+            53.3952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-solent-ferries-portsmouth-southampton-ryde-cowes-ilha-de-wight",
+        "nome": "Corredor Marítimo do Solent — Ilha de Wight (Portsmouth Harbour – Ryde Pier Head / Fishbourne & Southampton – Cowes)",
+        "sistema_id": "mersey-ferries-liverpool-wightlink-red-funnel-hovertravel-ilha-de-wight-reino-unido",
+        "sistema_nome": "Mersey Ferries (Liverpool–Birkenhead) e Ferries / Hovercraft do Solent para a Ilha de Wight (Wightlink, Red Funnel e Hovertravel, Reino Unido)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 62.0,
+        "bitola": "Hidrovia marítima (Catamarãs, Hovercraft e Ferries do Solent)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.4045,
+            50.8965
+          ],
+          [
+            -1.32,
+            50.815
+          ],
+          [
+            -1.2955,
+            50.7615
+          ],
+          [
+            -1.1615,
+            50.7392
+          ],
+          [
+            -1.1085,
+            50.795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-calmac-oban-mull-barra-firth-of-clyde-arran-bute",
+        "nome": "Malha CalMac Firth of Clyde & Argyll (Wemyss Bay – Rothesay, Ardrossan – Arran & Oban – Ilha de Mull – Barra)",
+        "sistema_id": "caledonian-macbrayne-calmac-hebridas-firth-of-clyde-escocia-reino-unido",
+        "sistema_nome": "Caledonian MacBrayne (CalMac) e Western Ferries no Estuário do Clyde e Ilhas Hébridas da Escócia (Reino Unido)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 265.0,
+        "bitola": "Hidrovia marítima inter-ilhas (Caledonian MacBrayne)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.8935,
+            55.8765
+          ],
+          [
+            -5.051,
+            55.838
+          ],
+          [
+            -5.138,
+            55.5815
+          ],
+          [
+            -5.4745,
+            56.4125
+          ],
+          [
+            -5.704,
+            56.471
+          ],
+          [
+            -7.425,
+            56.9535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-calmac-ullapool-stornoway-hebridas-externas",
+        "nome": "Travessia do Minch — Hébridas Externas (Ullapool – Stornoway, Ilha de Lewis, Escócia)",
+        "sistema_id": "caledonian-macbrayne-calmac-hebridas-firth-of-clyde-escocia-reino-unido",
+        "sistema_nome": "Caledonian MacBrayne (CalMac) e Western Ferries no Estuário do Clyde e Ilhas Hébridas da Escócia (Reino Unido)",
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 145.0,
+        "bitola": "Hidrovia oceânica do Minch (CalMac MV Loch Seaforth)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.161,
+            57.895
+          ],
+          [
+            -5.82,
+            58.05
+          ],
+          [
+            -6.3845,
+            58.2085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-da-mancha-dover-calais-dunkerque",
+        "nome": "Ponte Marítima do Estreito de Dover (Porto de Dover, Reino Unido – Portos de Calais e Dunquerque, França)",
+        "sistema_id": "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
+        "sistema_nome": "Ponte Marítima do Canal da Mancha (Dover–Calais / Dunkerque), Ferries Costeiros da Bretanha / Normandia e Batobus do Rio Sena em Paris (França e Reino Unido)",
+        "pais": "França",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Hidrovia internacional do Canal da Mancha (DFDS / Irish Ferries / P&O)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.3315,
+            51.1245
+          ],
+          [
+            1.8565,
+            50.968
+          ],
+          [
+            2.192,
+            51.0185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-normandia-bretanha-portsmouth-caen-batobus-sena-paris",
+        "nome": "Corredor Canal Ocidental (Portsmouth – Ouistreham/Caen) & Hidrovia Urbana do Rio Sena em Paris",
+        "sistema_id": "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
+        "sistema_nome": "Ponte Marítima do Canal da Mancha (Dover–Calais / Dunkerque), Ferries Costeiros da Bretanha / Normandia e Batobus do Rio Sena em Paris (França e Reino Unido)",
+        "pais": "França",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 130.0,
+        "bitola": "Hidrovia marítima (Brittany Ferries) e fluvial (Rio Sena)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.091,
+            50.812
+          ],
+          [
+            -0.2515,
+            49.2825
+          ],
+          [
+            2.293,
+            48.8595
+          ],
+          [
+            2.3625,
+            48.8445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mar-da-irlanda-dublin-holyhead-rosslare-fishguard",
+        "nome": "Corredor Central e Sul do Mar da Irlanda (Porto de Dublin – Holyhead, Gales & Rosslare Europort – Fishguard)",
+        "sistema_id": "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido",
+        "sistema_nome": "Corredores do Mar da Irlanda (Dublin–Holyhead, Rosslare–Fishguard/Pembroke e Belfast–Cairnryan) e Ferries das Ilhas de Aran (Irlanda e Reino Unido)",
+        "pais": "Irlanda",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 225.0,
+        "bitola": "Hidrovia internacional do Mar da Irlanda (Irish Ferries / Stena Line)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.1955,
+            53.3458
+          ],
+          [
+            -4.6295,
+            53.3095
+          ],
+          [
+            -4.9885,
+            52.011
+          ],
+          [
+            -6.3365,
+            52.2535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-do-norte-belfast-cairnryan-escocia",
+        "nome": "Corredor do Canal do Norte (Porto de Belfast, Irlanda do Norte – Cairnryan / Loch Ryan, Escócia)",
+        "sistema_id": "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido",
+        "sistema_nome": "Corredores do Mar da Irlanda (Dublin–Holyhead, Rosslare–Fishguard/Pembroke e Belfast–Cairnryan) e Ferries das Ilhas de Aran (Irlanda e Reino Unido)",
+        "pais": "Irlanda",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Hidrovia marítima do Canal do Norte (Stena Line / P&O)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.8815,
+            54.6365
+          ],
+          [
+            -5.45,
+            54.82
+          ],
+          [
+            -5.0165,
+            54.9715
+          ]
+        ]
+      }
     }
   ]
 }
