@@ -1286,3 +1286,19 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.494 páginas estáticas geradas** (`npm run build` com código 0 em `141.93s`).
 - **Próxima Ronda (#140 / Ordem 136 da Fila)**: `HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-VIII` (Fase Hidroviária Brasil #8 — Travessias Fluviais, Insulares e Lacustres Complementares do Brasil).
 
+### #141 — 15/11/2026 08:50 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #140 CONCLUÍDA EM PRODUÇÃO (`commit a942362` na `main`, `2504 page(s) built`): ORDEM 136 DA FILA — FASE HIDROVIÁRIA BRASIL #8 (TRAVESSIAS FLUVIAIS, INSULARES E LACUSTRES COMPLEMENTARES DO BRASIL: RIO PREGUIÇAS MA, TINHARÉ/BOIPEBA BA, LAGO DE FURNAS MG, RIO XINGU PA E ILHA GRANDE RJ — MARCOS HISTÓRICOS DE 904 SISTEMAS E 2.504 PÁGINAS ESTÁTICAS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 136 Concluída (`HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-VIII`) — 5 sistemas hidroviários brasileiros de barcos, lanchas e balsas (`880 km`, 10 linhas, 25 terminais)**:
+  1. `hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil` (🇧🇷 Maranhão — Hidrovia do Rio Preguiças nos Lençóis Maranhenses Barreirinhas–Vassouras–Mandacaru–Caburé–Atins e Travessias Costeiras de Raposa e São José de Ribamar, `115 km`, 2 linhas, 5 terminais)
+  2. `travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil` (🇧🇷 Bahia — Rede Hidroviária do Arquipélago de Tinharé e Boipeba: Lanchas Rápidas de Valença e Atracadouro Bom Jardim para Morro de São Paulo, Gamboa, Velha Boipeba, Cova da Onça e Cairu, `140 km`, 2 linhas, 5 terminais)
+  3. `travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil` (🇧🇷 Minas Gerais — Rede de Balsas do Lago de Furnas e Represa de Peixoto "Mar de Minas": Cássia–Delfinópolis, Cânions de Capitólio–São José da Barra–Guapé, Carmo do Rio Claro e Fama–Alfenas, `155 km`, 2 linhas, 5 terminais)
+  4. `hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil` (🇧🇷 Pará — Hidrovia do Rio Xingu e Travessia de Balsas da Transamazônica BR-230 em Belo Monte: Altamira–Vitória do Xingu–Senador José Porfírio–Porto de Moz, `340 km`, 2 linhas, 5 terminais)
+  5. `travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil` (🇧🇷 Rio de Janeiro — Rede de Lanchas Rápidas e Escunas da Baía da Ilha Grande: Conceição de Jacareí, Estação Santa Luzia em Angra dos Reis e Mangaratiba para Vila do Abraão, Araçatiba, Bananal, Palmas e Aventureiro, `130 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa (`commit a942362` na `main`)**:
+  - **904 sistemas no banco** — superando a marca histórica de **900+ sistemas** (**888 em operação**, sendo **168 sistemas de transporte por barco/ferries** — **43 redes hidroviárias no Brasil**! + 16 não-operacionais preservados intactos)
+  - **1.249 linhas mapeadas** (**1.230 em operação**, sendo **335 linhas hidroviárias de barcos/ferries**)
+  - **2.075 estações e terminais geolocalizados** (**641 terminais hidroviários de barcos/ferries**)
+  - **2.504 páginas estáticas geradas** — superando a marca histórica de **2.500+ páginas estáticas** (`npm run build` com código 0 em `86.74s`).
+- **Próxima Ronda (#141 / Ordem 137 da Fila)**: `HIDRO-OCEANIA-NOVA-ZELANDIA-FIJI-SAMOA-POLINESIA-II` (Fase Hidroviária Mundial #28 — Oceania Insular, Estreito de Cook e Pacífico Sul II: Nova Zelândia, Fiji, Samoa e Polinésia Francesa).
+
