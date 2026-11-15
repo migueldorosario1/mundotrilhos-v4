@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T06:15:00-03:00",
+  "atualizado_em": "2026-11-15T06:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2110,16 +2110,24 @@
         "shannon-ferry-killimer-tarbert-cross-river-ferry-cobh-passage-west-cape-clear-baltimore-irlanda",
         "compagnie-oceane-breizhgo-brest-ouessant-molene-lorient-groix-quiberon-belle-ile-en-mer-bretanha-franca"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 132,
       "pais": "Fase Hidroviária Mundial #24 — Mediterrâneo Central, Ilhas Italianas, Adriático e Egeu II (Toremar/Moby Piombino–Ilha de Elba Portoferraio e Caremar/Medmar Nápoles–Procida–Ischia e Golfo de Gaeta–Ponza na Itália; Gozo Highspeed e Gozo Channel Valletta/Čirkewwa–Mġarr Gozo em Malta; Krilo/Jadrolinija Zadar–Dugi Otok/Lošinj na Croácia; e Saronic Ferries/Blue Star Piraeus–Aegina–Poros–Hydra–Spetses e Rafina–Andros–Tinos–Mykonos na Grécia)",
       "codigo": "HIDRO-MEDITERRANEO-ITALIA-ADRIATICO-GRECIA-II",
       "continente": "Europa",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "toremar-moby-blunavy-piombino-ilha-de-elba-portoferraio-rio-marina-giglio-capraia-toscana-italia",
+        "caremar-medmar-snav-alilauro-napoles-pozzuoli-procida-ischia-formia-ponza-ventotene-italia",
+        "gozo-highspeed-valletta-mgarr-gozo-channel-cirkewwa-comino-sliema-three-cities-ferries-malta",
+        "jadrolinija-krilo-mia-ferries-zadar-preko-ugljan-dugi-otok-losinj-sibenik-zlarin-kaprije-croacia",
+        "saronic-ferries-blue-star-aero-highspeed-piraeus-aegina-poros-hydra-spetses-rafina-andros-tinos-mykonos-grecia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 133,
       "pais": "Fase Hidroviária Mundial #25 — Sudeste Asiático Insular e Estreitos II (ASDP Ferries Merak–Bakauheni no Estreito de Sunda, Ketapang–Gilimanuk Bali–Java e Padangbai–Lembar Lombok–Nusa Penida na Indonésia; Montenegro/OceanJet Batangas–Calapan Mindoro, Dumaguete–Siquijor e Iloilo–Guimaras nas Filipinas; e Ferries de Langkawi Kuala Perlis/Kuala Kedah–Kuah, Labuan–Menumbok e Ilha de Tioman na Malásia)",

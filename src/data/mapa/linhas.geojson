@@ -46906,6 +46906,376 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-toremar-moby-piombino-marittima-portoferraio-rio-marina-cavo-ilha-de-elba",
+        "nome": "Ponte Ferro-Marítima do Canal de Piombino (Estação/Porto de Piombino Marittima – Portoferraio, Rio Marina e Cavo, Ilha de Elba)",
+        "sistema_id": "toremar-moby-blunavy-piombino-ilha-de-elba-portoferraio-rio-marina-giglio-capraia-toscana-italia",
+        "sistema_nome": "Ferries do Arquipélago Toscano — Toremar, Moby e Blu Navy (Piombino Marittima – Ilha de Elba: Portoferraio, Rio Marina e Cavo; Livorno–Capraia e Porto Santo Stefano–Ilha de Giglio, Itália)",
+        "pais": "Itália",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Travessia de alta frequência Piombino–Ilha de Elba (Toremar / Moby)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5415,
+            42.9275
+          ],
+          [
+            10.4225,
+            42.8615
+          ],
+          [
+            10.4315,
+            42.8155
+          ],
+          [
+            10.3285,
+            42.8155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-arquipelago-toscano-livorno-capraia-porto-santo-stefano-ilha-de-giglio",
+        "nome": "Rotas Insulares da Toscana Norte e Sul (Porto Mediceo de Livorno – Ilha de Capraia & Porto Santo Stefano – Giglio Porto, Ilha de Giglio)",
+        "sistema_id": "toremar-moby-blunavy-piombino-ilha-de-elba-portoferraio-rio-marina-giglio-capraia-toscana-italia",
+        "sistema_nome": "Ferries do Arquipélago Toscano — Toremar, Moby e Blu Navy (Piombino Marittima – Ilha de Elba: Portoferraio, Rio Marina e Cavo; Livorno–Capraia e Porto Santo Stefano–Ilha de Giglio, Itália)",
+        "pais": "Itália",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 120.0,
+        "bitola": "Rotas regionais Toremar para Capraia e Giglio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3015,
+            43.5515
+          ],
+          [
+            9.8435,
+            43.0495
+          ],
+          [
+            11.1165,
+            42.4355
+          ],
+          [
+            10.9275,
+            42.3605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-golfo-de-napoles-pozzuoli-procida-ischia-porto-casamicciola-forio",
+        "nome": "Expresso das Ilhas Flegreas — Caremar, Medmar, SNAV & Alilauro (Nápoles Beverello/Porta di Massa & Pozzuoli – Marina Grande de Procida – Ischia Porto, Casamicciola e Forio)",
+        "sistema_id": "caremar-medmar-snav-alilauro-napoles-pozzuoli-procida-ischia-formia-ponza-ventotene-italia",
+        "sistema_nome": "Ferries e Hidrofólios das Ilhas Flegreas e Ponzianas — Caremar, Medmar, SNAV e Alilauro (Nápoles e Pozzuoli – Procida e Ischia) e Laziomar (Formia/Anzio – Ponza e Ventotene, Itália)",
+        "pais": "Itália",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 60.0,
+        "bitola": "Rede metropolitana de hidrofólios e ferries de Procida e Ischia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2585,
+            40.8385
+          ],
+          [
+            14.1185,
+            40.8215
+          ],
+          [
+            14.0265,
+            40.7615
+          ],
+          [
+            13.9495,
+            40.7445
+          ],
+          [
+            13.8615,
+            40.7385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-laziomar-golfo-de-gaeta-formia-ponza-ventotene-lacio",
+        "nome": "Ponte Marítima das Ilhas Ponzianas — Laziomar (Porto de Formia – Ilha de Ventotene – Porto de Ponza, Lácio)",
+        "sistema_id": "caremar-medmar-snav-alilauro-napoles-pozzuoli-procida-ischia-formia-ponza-ventotene-italia",
+        "sistema_nome": "Ferries e Hidrofólios das Ilhas Flegreas e Ponzianas — Caremar, Medmar, SNAV e Alilauro (Nápoles e Pozzuoli – Procida e Ischia) e Laziomar (Formia/Anzio – Ponza e Ventotene, Itália)",
+        "pais": "Itália",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115.0,
+        "bitola": "Serviço marítimo regional do Lácio para Ponza e Ventotene (Laziomar)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6065,
+            41.2535
+          ],
+          [
+            13.4335,
+            40.7965
+          ],
+          [
+            12.9665,
+            40.8965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-gozo-highspeed-valletta-grand-harbour-mgarr-gozo-malta",
+        "nome": "Expresso Costa Leste de Malta — Gozo Highspeed Catamarans (Lascaris Wharf, Grand Harbour de Valletta – Porto de Mġarr, Ilha de Gozo)",
+        "sistema_id": "gozo-highspeed-valletta-mgarr-gozo-channel-cirkewwa-comino-sliema-three-cities-ferries-malta",
+        "sistema_nome": "Gozo Highspeed (Catamarãs Valletta Grand Harbour – Mġarr Gozo), Gozo Channel (Ċirkewwa–Gozo) e Barcas de Comino (Malta)",
+        "pais": "Malta",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 48.0,
+        "bitola": "Catamarãs rápidos de 45 minutos Valletta–Gozo (Tallinja)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5135,
+            35.8945
+          ],
+          [
+            14.3755,
+            35.9865
+          ],
+          [
+            14.2985,
+            36.0245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-de-gozo-cirkewwa-comino-blue-lagoon-mgarr-gozo",
+        "nome": "Ponte Ro-Pax 24h do Canal de Gozo e Travessia de Comino (Terminal de Ċirkewwa / Marfa, Malta – Ilha de Comino / Blue Lagoon – Porto de Mġarr, Gozo)",
+        "sistema_id": "gozo-highspeed-valletta-mgarr-gozo-channel-cirkewwa-comino-sliema-three-cities-ferries-malta",
+        "sistema_nome": "Gozo Highspeed (Catamarãs Valletta Grand Harbour – Mġarr Gozo), Gozo Channel (Ċirkewwa–Gozo) e Barcas de Comino (Malta)",
+        "pais": "Malta",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 24.0,
+        "bitola": "Ponte ro-pax 24h da Gozo Channel Line e barcas de Comino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3285,
+            35.9885
+          ],
+          [
+            14.3235,
+            36.0135
+          ],
+          [
+            14.2985,
+            36.0245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-jadrolinija-miatours-zadar-preko-ugljan-dugi-otok-silba-mali-losinj",
+        "nome": "Rede do Arquipélago de Zadar e Kvarner Sul (Zadar Gaženica/Poluotok – Preko, Ugljan – Brbinj/Sali, Dugi Otok – Ilha de Silba – Mali Lošinj)",
+        "sistema_id": "jadrolinija-krilo-mia-ferries-zadar-preko-ugljan-dugi-otok-losinj-sibenik-zlarin-kaprije-croacia",
+        "sistema_nome": "Ferries e Catamarãs dos Arquipélagos de Zadar e Šibenik — Jadrolinija, Krilo e Miatours (Zadar – Preko/Ugljan, Dugi Otok, Silba e Mali Lošinj; e Šibenik – Zlarin, Prvić e Kaprije, Croácia)",
+        "pais": "Croácia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 175.0,
+        "bitola": "Ferries ro-pax e catamarãs de Zadar para Ugljan, Dugi Otok e Lošinj"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2585,
+            44.0885
+          ],
+          [
+            15.1885,
+            44.0815
+          ],
+          [
+            14.9985,
+            44.0825
+          ],
+          [
+            14.6965,
+            44.3765
+          ],
+          [
+            14.4685,
+            44.5305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-jadrolinija-arquipelago-de-sibenik-vodice-prvic-zlarin-kaprije-zirje",
+        "nome": "Corredor Insular de Šibenik — Linha 505 & Catamarãs (Porto de Šibenik – Ilha de Zlarin – Prvić Luka/Šepurine – Ilha de Kaprije – Ilha de Žirje)",
+        "sistema_id": "jadrolinija-krilo-mia-ferries-zadar-preko-ugljan-dugi-otok-losinj-sibenik-zlarin-kaprije-croacia",
+        "sistema_nome": "Ferries e Catamarãs dos Arquipélagos de Zadar e Šibenik — Jadrolinija, Krilo e Miatours (Zadar – Preko/Ugljan, Dugi Otok, Silba e Mali Lošinj; e Šibenik – Zlarin, Prvić e Kaprije, Croácia)",
+        "pais": "Croácia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Barcas insulares para as ilhas sem carros de Šibenik (Jadrolinija)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.8925,
+            43.7325
+          ],
+          [
+            15.8365,
+            43.6985
+          ],
+          [
+            15.7985,
+            43.7225
+          ],
+          [
+            15.7085,
+            43.6885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-golfo-saronico-pireu-e8-egina-agistri-poros-hidra-spetses",
+        "nome": "Expresso do Golfo Sarônico — Saronic Ferries & Aero Highspeed (Porto do Pireu Portão E8 – Ilha de Egina – Agistri – Poros – Ilha de Hidra – Ilha de Spetses)",
+        "sistema_id": "saronic-ferries-blue-star-aero-highspeed-piraeus-aegina-poros-hydra-spetses-rafina-andros-tinos-mykonos-grecia",
+        "sistema_nome": "Ferries e Catamarãs do Golfo Sarônico e Ática Oriental — Saronic Ferries & Blue Star Aero Highspeed (Pireu–Egina–Poros–Hidra–Spetses) e Ferries de Rafina (Andros–Tinos–Mykonos, Grécia)",
+        "pais": "Grécia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150.0,
+        "bitola": "Catamarãs Aero Highspeed e ferries suburbanos do Golfo Sarônico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.6385,
+            37.9465
+          ],
+          [
+            23.4285,
+            37.7475
+          ],
+          [
+            23.4565,
+            37.5035
+          ],
+          [
+            23.4655,
+            37.3505
+          ],
+          [
+            23.1625,
+            37.2695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-porto-de-rafina-atica-andros-gavrio-tinos-mykonos-ciclades",
+        "nome": "Corredor da Ática Oriental e Cíclades do Norte (Porto de Rafina – Porto de Gavrio, Ilha de Andros – Ilha de Tinos – Porto de Tourlos, Mykonos)",
+        "sistema_id": "saronic-ferries-blue-star-aero-highspeed-piraeus-aegina-poros-hydra-spetses-rafina-andros-tinos-mykonos-grecia",
+        "sistema_nome": "Ferries e Catamarãs do Golfo Sarônico e Ática Oriental — Saronic Ferries & Blue Star Aero Highspeed (Pireu–Egina–Poros–Hidra–Spetses) e Ferries de Rafina (Andros–Tinos–Mykonos, Grécia)",
+        "pais": "Grécia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 205.0,
+        "bitola": "Ponte marítima de Rafina para Andros, Tinos e Mykonos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.0115,
+            38.0225
+          ],
+          [
+            24.7365,
+            37.8825
+          ],
+          [
+            25.1595,
+            37.5375
+          ],
+          [
+            25.3255,
+            37.4645
+          ]
+        ]
+      }
     }
   ]
 }
