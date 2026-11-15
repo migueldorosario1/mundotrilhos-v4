@@ -47043,6 +47043,581 @@
           -54.8072
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-maritimo-horta-faial-acores-portugal",
+        "nome": "Terminal Marítimo da Horta (Ilha do Faial — Açores)",
+        "sistema_id": "atlanticoline-acores-porto-santo-line-madeira-ria-de-aveiro-ferries-douro-minho-portugal",
+        "linha_id": "linha-atlanticoline-triangulo-acores-horta-madalena-velas-porto-santo-funchal",
+        "cidade": "Horta",
+        "pais": "Portugal",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal gare marítima do Grupo Central dos Açores para os ferries da Atlânticoline."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.6231,
+          38.5369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gare-maritima-madalena-pico-velas-sao-jorge-acores-portugal",
+        "nome": "Gare Marítima da Madalena (Ilha do Pico) & Velas (São Jorge — Açores)",
+        "sistema_id": "atlanticoline-acores-porto-santo-line-madeira-ria-de-aveiro-ferries-douro-minho-portugal",
+        "linha_id": "linha-atlanticoline-triangulo-acores-horta-madalena-velas-porto-santo-funchal",
+        "cidade": "Madalena / Velas",
+        "pais": "Portugal",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Polos marítimos do Triângulo dos Açores com múltiplas travessias diárias Horta–Madalena–Velas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.5289,
+          38.5356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-ferry-funchal-porto-santo-madeira-portugal",
+        "nome": "Terminais do Funchal & Porto Santo (Navio Lobo Marinho — Madeira)",
+        "sistema_id": "atlanticoline-acores-porto-santo-line-madeira-ria-de-aveiro-ferries-douro-minho-portugal",
+        "linha_id": "linha-atlanticoline-triangulo-acores-horta-madalena-velas-porto-santo-funchal",
+        "cidade": "Funchal / Porto Santo",
+        "pais": "Portugal",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ligação regular Ro-Pax entre a Ilha da Madeira e a Ilha de Porto Santo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9056,
+          32.6431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cais-ferry-eletrico-sao-jacinto-forte-da-barra-ria-de-aveiro-portugal",
+        "nome": "Terminais do Ferry Elétrico de São Jacinto & Forte da Barra (Ria de Aveiro)",
+        "sistema_id": "atlanticoline-acores-porto-santo-line-madeira-ria-de-aveiro-ferries-douro-minho-portugal",
+        "linha_id": "linha-ferry-eletrico-ria-de-aveiro-sao-jacinto-forte-da-barra-rio-douro",
+        "cidade": "Aveiro / Ílhavo",
+        "pais": "Portugal",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Primeira travessia de ferry 100% elétrico de veículos e passageiros de Portugal (navio Salicórnia)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7289,
+          40.6694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cais-afurada-lordelo-do-ouro-rio-douro-porto-portugal",
+        "nome": "Cais da Afurada (Vila Nova de Gaia) – Lordelo do Ouro (Porto — Foz do Rio Douro)",
+        "sistema_id": "atlanticoline-acores-porto-santo-line-madeira-ria-de-aveiro-ferries-douro-minho-portugal",
+        "linha_id": "linha-ferry-eletrico-ria-de-aveiro-sao-jacinto-forte-da-barra-rio-douro",
+        "cidade": "Porto / Vila Nova de Gaia",
+        "pais": "Portugal",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Tradicional travessia fluvial de barcos de passageiros na foz do Rio Douro."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6472,
+          41.1436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "estacao-maritima-ria-de-vigo-galicia-espanha",
+        "nome": "Estação Marítima de Ría de Vigo (Muelle de Trasatlánticos — Galícia)",
+        "sistema_id": "mar-de-ons-piratas-de-nabia-ria-de-vigo-cangas-moana-ilhas-cies-ons-formentera-ibiza-trasmapi-espanha",
+        "linha_id": "linha-ria-de-vigo-cangas-moana-ilhas-cies-ons-galicia",
+        "cidade": "Vigo",
+        "pais": "Espanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal central metropolitano de catamarãs para Cangas, Moaña e o Parque Nacional das Ilhas Cíes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7267,
+          42.2428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "estacao-maritima-cangas-moana-morrazo-galicia-espanha",
+        "nome": "Estações Marítimas de Cangas do Morrazo & Moaña",
+        "sistema_id": "mar-de-ons-piratas-de-nabia-ria-de-vigo-cangas-moana-ilhas-cies-ons-formentera-ibiza-trasmapi-espanha",
+        "linha_id": "linha-ria-de-vigo-cangas-moana-ilhas-cies-ons-galicia",
+        "cidade": "Cangas / Moaña",
+        "pais": "Espanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de alta frequência (a cada 15 minutos) na península do Morrazo integrados ao transporte metropolitano de Vigo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7819,
+          42.2614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "muelle-de-rodas-ilhas-cies-parque-nacional-galicia-espanha",
+        "nome": "Muelle de Rodas (Arquipélago das Ilhas Cíes — Parque Nacional das Ilhas Atlânticas)",
+        "sistema_id": "mar-de-ons-piratas-de-nabia-ria-de-vigo-cangas-moana-ilhas-cies-ons-formentera-ibiza-trasmapi-espanha",
+        "linha_id": "linha-ria-de-vigo-cangas-moana-ilhas-cies-ons-galicia",
+        "cidade": "Vigo (Ilhas Cíes)",
+        "pais": "Espanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píer insular da Praia de Rodas na entrada da Ría de Vigo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9022,
+          42.2239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "estacao-maritima-formentera-porto-de-ibiza-baleares-espanha",
+        "nome": "Estação Marítima de Formentera no Porto de Ibiza (Eivissa)",
+        "sistema_id": "mar-de-ons-piratas-de-nabia-ria-de-vigo-cangas-moana-ilhas-cies-ons-formentera-ibiza-trasmapi-espanha",
+        "linha_id": "linha-ponte-maritima-pitiusa-ibiza-la-savina-formentera",
+        "cidade": "Ibiza",
+        "pais": "Espanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal dedicado aos fast ferries de alta frequência (30 minutos de travessia) entre Ibiza e Formentera."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4394,
+          38.9125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "estacao-maritima-la-savina-formentera-baleares-espanha",
+        "nome": "Estação Marítima de La Savina (Ilha de Formentera — Baleares)",
+        "sistema_id": "mar-de-ons-piratas-de-nabia-ria-de-vigo-cangas-moana-ilhas-cies-ons-formentera-ibiza-trasmapi-espanha",
+        "linha_id": "linha-ponte-maritima-pitiusa-ibiza-la-savina-formentera",
+        "cidade": "Formentera",
+        "pais": "Espanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Única porta de entrada marítima de passageiros e cargas da ilha de Formentera."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4167,
+          38.7336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "porto-aliscafi-milazzo-ilhas-eolias-sicilia-italia",
+        "nome": "Terminal de Hidroglissadores e Ferries de Milazzo (Sicília)",
+        "sistema_id": "delcomar-maddalena-carloforte-sardenha-siremar-liberty-lines-ilhas-eolias-milazzo-lipari-stromboli-egadi-trapani-italia",
+        "linha_id": "linha-liberty-lines-siremar-milazzo-lipari-salina-stromboli-trapani-favignana",
+        "cidade": "Milazzo",
+        "pais": "Itália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto continental siciliano para as 7 Ilhas Eólias (Patrimônio Mundial UNESCO)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2458,
+          38.2189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "porto-sottomonastero-lipari-stromboli-ilhas-eolias-italia",
+        "nome": "Porto de Sottomonastero (Lipari) & Scari (Stromboli — Ilhas Eólias)",
+        "sistema_id": "delcomar-maddalena-carloforte-sardenha-siremar-liberty-lines-ilhas-eolias-milazzo-lipari-stromboli-egadi-trapani-italia",
+        "linha_id": "linha-liberty-lines-siremar-milazzo-lipari-salina-stromboli-trapani-favignana",
+        "cidade": "Lipari / Stromboli",
+        "pais": "Itália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Hub central dos aliscafi da Liberty Lines e navios da Siremar no Arquipélago Eólio."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9561,
+          38.4675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "porto-aliscafi-trapani-favignana-ilhas-egadi-sicilia-italia",
+        "nome": "Terminais de Trapani & Cala Principale de Favignana (Ilhas Égadi — Sicília)",
+        "sistema_id": "delcomar-maddalena-carloforte-sardenha-siremar-liberty-lines-ilhas-eolias-milazzo-lipari-stromboli-egadi-trapani-italia",
+        "linha_id": "linha-liberty-lines-siremar-milazzo-lipari-salina-stromboli-trapani-favignana",
+        "cidade": "Trapani / Favignana",
+        "pais": "Itália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Corredor de alta frequência de hidroglissadores entre o oeste da Sicília e as Ilhas Égadi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3278,
+          37.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "stazione-marittima-palau-la-maddalena-sardenha-italia",
+        "nome": "Estações Marítimas de Palau & Cala Gavetta (La Maddalena — Sardenha)",
+        "sistema_id": "delcomar-maddalena-carloforte-sardenha-siremar-liberty-lines-ilhas-eolias-milazzo-lipari-stromboli-egadi-trapani-italia",
+        "linha_id": "linha-delcomar-sardenha-palau-la-maddalena-portovesme-calasetta-carloforte",
+        "cidade": "Palau / La Maddalena",
+        "pais": "Itália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia Ro-Pax 24h entre o norte da Sardenha e o Arquipélago de La Maddalena."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4064,
+          41.2119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "porto-carloforte-isola-di-san-pietro-portovesme-sardenha-italia",
+        "nome": "Porto de Carloforte (Ilha de San Pietro) & Portovesme/Calasetta (Sul da Sardenha)",
+        "sistema_id": "delcomar-maddalena-carloforte-sardenha-siremar-liberty-lines-ilhas-eolias-milazzo-lipari-stromboli-egadi-trapani-italia",
+        "linha_id": "linha-delcomar-sardenha-palau-la-maddalena-portovesme-calasetta-carloforte",
+        "cidade": "Carloforte",
+        "pais": "Itália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ponte marítima permanente da Delcomar para a ilha lígure-sarda de San Pietro."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3081,
+          39.1456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kolona-port-tourist-port-rhodes-dodecanese-greece",
+        "nome": "Porto de Kolona & Porto Turístico de Rodes (Base da Dodekanisos Seaways)",
+        "sistema_id": "dodekanisos-seaways-anem-rodes-symi-kos-kalymnos-leros-patmos-seajets-esporades-volos-skiathos-skopelos-alonissos-grecia",
+        "linha_id": "linha-dodekanisos-seaways-rodes-symi-kos-kalymnos-leros-patmos",
+        "cidade": "Rodes",
+        "pais": "Grécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Hub meridional do Dodecaneso com partidas diárias de catamarãs rápidos para Symi, Kos, Kalymnos e Patmos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2278,
+          36.4467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "port-of-kos-kalymnos-pothia-dodecanese-greece",
+        "nome": "Portos de Kos & Pothia (Ilha de Kalymnos — Dodecaneso)",
+        "sistema_id": "dodekanisos-seaways-anem-rodes-symi-kos-kalymnos-leros-patmos-seajets-esporades-volos-skiathos-skopelos-alonissos-grecia",
+        "linha_id": "linha-dodekanisos-seaways-rodes-symi-kos-kalymnos-leros-patmos",
+        "cidade": "Kos / Kalymnos",
+        "pais": "Grécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais escalas centrais do Dodecaneso servidas pela Dodekanisos Seaways, ANEM e Blue Star Ferries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2894,
+          36.8961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "skala-port-patmos-leros-dodecanese-greece",
+        "nome": "Porto de Skala (Ilha de Patmos) & Lakki (Leros)",
+        "sistema_id": "dodekanisos-seaways-anem-rodes-symi-kos-kalymnos-leros-patmos-seajets-esporades-volos-skiathos-skopelos-alonissos-grecia",
+        "linha_id": "linha-dodekanisos-seaways-rodes-symi-kos-kalymnos-leros-patmos",
+        "cidade": "Patmos",
+        "pais": "Grécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal setentrional do Dodecaneso na histórica ilha de Patmos UNESCO."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5481,
+          37.3239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "passenger-ferry-port-volos-thessaly-greece",
+        "nome": "Terminal de Ferries de Passageiros do Porto de Volos (Tessália)",
+        "sistema_id": "dodekanisos-seaways-anem-rodes-symi-kos-kalymnos-leros-patmos-seajets-esporades-volos-skiathos-skopelos-alonissos-grecia",
+        "linha_id": "linha-ferries-ilhas-esporades-volos-skiathos-skopelos-alonissos",
+        "cidade": "Volos",
+        "pais": "Grécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porta de embarque continental para o arquipélago das Ilhas Espórades."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9419,
+          39.3578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ports-of-skiathos-skopelos-alonissos-sporades-greece",
+        "nome": "Portos de Skiathos, Skopelos & Patitiri (Alonissos — Ilhas Espórades)",
+        "sistema_id": "dodekanisos-seaways-anem-rodes-symi-kos-kalymnos-leros-patmos-seajets-esporades-volos-skiathos-skopelos-alonissos-grecia",
+        "linha_id": "linha-ferries-ilhas-esporades-volos-skiathos-skopelos-alonissos",
+        "cidade": "Skiathos / Skopelos",
+        "pais": "Grécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais insulares das Espórades no Parque Nacional Marinho do Egeu Setentrional."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4922,
+          39.1636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ferry-terminal-kamenari-herceg-novi-boka-bay-montenegro",
+        "nome": "Terminal de Ferry de Kamenari (Herceg Novi — Estreito de Verige, Montenegro)",
+        "sistema_id": "boka-bay-ferry-kamenari-lepetane-kotor-montenegro-ionian-seaways-corfu-sarande-igoumenitsa-paxos-levkada-albania-grecia",
+        "linha_id": "linha-boka-bay-ferry-kamenari-lepetane-kotor-montenegro",
+        "cidade": "Herceg Novi",
+        "pais": "Montenegro",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Rampa oeste da travessia Ro-Ro 24 horas sobre o Estreito de Verige na Baía de Kotor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6742,
+          42.4561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ferry-terminal-lepetane-tivat-kotor-boka-bay-montenegro",
+        "nome": "Terminal de Ferry de Lepetane (Tivat) & Porto de Kotor (Baía de Kotor UNESCO)",
+        "sistema_id": "boka-bay-ferry-kamenari-lepetane-kotor-montenegro-ionian-seaways-corfu-sarande-igoumenitsa-paxos-levkada-albania-grecia",
+        "linha_id": "linha-boka-bay-ferry-kamenari-lepetane-kotor-montenegro",
+        "cidade": "Tivat / Kotor",
+        "pais": "Montenegro",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Rampa leste do Boka Bay Ferry próxima ao Aeroporto de Tivat e à cidade murada de Kotor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6836,
+          42.4631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "international-seaport-sarande-albania",
+        "nome": "Terminal Internacional de Ferries e Hidroglissadores de Sarandë (Riviera Albanesa)",
+        "sistema_id": "boka-bay-ferry-kamenari-lepetane-kotor-montenegro-ionian-seaways-corfu-sarande-igoumenitsa-paxos-levkada-albania-grecia",
+        "linha_id": "linha-canal-de-corfu-mar-jonico-sarande-corfu-igoumenitsa-paxos-cefalonia",
+        "cidade": "Sarandë",
+        "pais": "Albânia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto internacional do sul da Albânia a 30 minutos de hidroglissador da Ilha de Corfu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0019,
+          39.8719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "new-port-corfu-kerkyra-igoumenitsa-greece",
+        "nome": "Novo Porto de Corfu (Kerkyra) & Porto de Igoumenitsa (Grécia)",
+        "sistema_id": "boka-bay-ferry-kamenari-lepetane-kotor-montenegro-ionian-seaways-corfu-sarande-igoumenitsa-paxos-levkada-albania-grecia",
+        "linha_id": "linha-canal-de-corfu-mar-jonico-sarande-corfu-igoumenitsa-paxos-cefalonia",
+        "cidade": "Corfu / Igoumenitsa",
+        "pais": "Grécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Elo marítimo internacional e doméstico do norte do Mar Jônico entre Albânia, Corfu, Paxos e o Épiro."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9086,
+          39.6289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ports-of-argostoli-sami-poros-kefalonia-ithaca-ionian-greece",
+        "nome": "Portos de Argostoli, Sami & Poros (Cefalônia e Ítaca — Ilhas Jônicas)",
+        "sistema_id": "boka-bay-ferry-kamenari-lepetane-kotor-montenegro-ionian-seaways-corfu-sarande-igoumenitsa-paxos-levkada-albania-grecia",
+        "linha_id": "linha-canal-de-corfu-mar-jonico-sarande-corfu-igoumenitsa-paxos-cefalonia",
+        "cidade": "Argostoli / Sami (Cefalônia)",
+        "pais": "Grécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais terminais insulares das Ilhas Jônicas centrais atendidos pela Levante Ferries e Ionian Pelagos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4892,
+          38.1794
+        ]
+      }
     }
   ]
 }
