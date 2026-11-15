@@ -49182,6 +49182,382 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-antilhas-internacional-pointe-a-pitre-roseau-fort-de-france-castries",
+        "nome": "Expresso Internacional das Antilhas (L'Express des Îles): Pointe-à-Pitre (Guadalupe) – Roseau (Dominica) – Fort-de-France (Martinica) – Castries (Santa Lúcia)",
+        "sistema_slug": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_id": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_nome": "Catamarãs Rápidos das Pequenas Antilhas — L'Express des Îles & Val'Ferry (Pointe-à-Pitre – Marie-Galante – Les Saintes – Dominica – Martinica – Santa Lúcia)",
+        "pais": "França (Guadalupe e Martinica), Dominica e Santa Lúcia",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 285.0,
+        "bitola": "Catamarã Oceânico de Alta Velocidade Austal / Damen (HSC Gold Express, HSC Perle Express, HSC Rubis Express — até 38 nós)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.5356,
+            16.2389
+          ],
+          [
+            -61.3889,
+            15.2992
+          ],
+          [
+            -61.1789,
+            14.7419
+          ],
+          [
+            -61.0692,
+            14.6019
+          ],
+          [
+            -60.9969,
+            14.0119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-arquipelago-guadalupe-pointe-a-pitre-marie-galante-les-saintes",
+        "nome": "Arquipélago de Guadalupe: Pointe-à-Pitre Bergevin – Grand-Bourg (Marie-Galante) – Terre-de-Haut (Les Saintes)",
+        "sistema_slug": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_id": "lexpress-des-iles-pointe-a-pitre-marie-galante-les-saintes-dominica-fort-de-france-santa-lucia-antilhas",
+        "sistema_nome": "Catamarãs Rápidos das Pequenas Antilhas — L'Express des Îles & Val'Ferry (Pointe-à-Pitre – Marie-Galante – Les Saintes – Dominica – Martinica – Santa Lúcia)",
+        "pais": "França (Guadalupe e Martinica), Dominica e Santa Lúcia",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Catamarã Oceânico de Alta Velocidade Austal / Damen (HSC Gold Express, HSC Perle Express, HSC Rubis Express — até 38 nós)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.5356,
+            16.2389
+          ],
+          [
+            -61.3189,
+            15.8819
+          ],
+          [
+            -61.5842,
+            15.8669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baja-ferries-la-paz-pichilingue-topolobampo-los-mochis",
+        "nome": "Ponte Marítima Norte (Mar de Cortés): La Paz (Porto de Pichilingue, BCS) – Topolobampo / Los Mochis (Sinaloa — Conexão Trem El Chepe)",
+        "sistema_slug": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_id": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_nome": "Autoestradas Marítimas do Golfo da Califórnia (Mar de Cortés) — Baja Ferries e TMC (La Paz Pichilingue – Topolobampo / Los Mochis e Mazatlán, México)",
+        "pais": "México",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 220.0,
+        "bitola": "Superferry Ro-Pax Oceânico de Grande Capacidade (Cabo Star, California Star e México Star — até 200 metros de comprimento)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.3219,
+            24.2689
+          ],
+          [
+            -109.7,
+            24.95
+          ],
+          [
+            -109.0569,
+            25.5889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baja-ferries-la-paz-mazatlan-santa-rosalia-guaymas",
+        "nome": "Ponte Marítima Sul e Central: La Paz (Pichilingue) – Mazatlán (Sinaloa) e Travessia Santa Rosalía (BCS) – Guaymas (Sonora)",
+        "sistema_slug": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_id": "baja-ferries-tmc-mazatlan-topolobampo-la-paz-santa-rosalia-guaymas-mar-de-cortes-mexico",
+        "sistema_nome": "Autoestradas Marítimas do Golfo da Califórnia (Mar de Cortés) — Baja Ferries e TMC (La Paz Pichilingue – Topolobampo / Los Mochis e Mazatlán, México)",
+        "pais": "México",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 400.0,
+        "bitola": "Superferry Ro-Pax Oceânico de Grande Capacidade (Cabo Star, California Star e México Star — até 200 metros de comprimento)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.2639,
+            27.3389
+          ],
+          [
+            -110.8969,
+            27.9189
+          ],
+          [
+            -110.3219,
+            24.2689
+          ],
+          [
+            -106.4169,
+            23.1889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-belize-express-belize-city-caye-caulker-san-pedro-chetumal",
+        "nome": "Expresso da Barreira de Corais de Belize: Belize City Terminal – Caye Caulker – San Pedro (Ambergris Caye) – Chetumal (Conexão Tren Maya)",
+        "sistema_slug": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_id": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_nome": "Ferries da Barreira de Corais Mesoamericana — San Pedro Belize Express (Belize City–Caye Caulker–Ambergris Caye–Chetumal) e Galaxy Wave / Utila Dream (La Ceiba–Roatán–Utila, Belize e Honduras)",
+        "pais": "Belize e Honduras",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 140.0,
+        "bitola": "Water Taxi Rápido da Barreira de Corais e Catamarã Oceânico de Alta Velocidade (MV Galaxy Wave de 46 metros)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1856,
+            17.4939
+          ],
+          [
+            -88.0239,
+            17.7428
+          ],
+          [
+            -87.9619,
+            17.9189
+          ],
+          [
+            -88.2969,
+            18.4939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-islas-de-la-bahia-la-ceiba-utila-roatan-honduras",
+        "nome": "Corredor das Ilhas da Baía de Honduras (Galaxy Wave & Utila Dream): La Ceiba – Ilha de Utila – Roatán (Dixon Cove)",
+        "sistema_slug": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_id": "san-pedro-belize-express-belize-city-caye-caulker-san-pedro-galaxy-wave-la-ceiba-roatan-utila-belize-honduras",
+        "sistema_nome": "Ferries da Barreira de Corais Mesoamericana — San Pedro Belize Express (Belize City–Caye Caulker–Ambergris Caye–Chetumal) e Galaxy Wave / Utila Dream (La Ceiba–Roatán–Utila, Belize e Honduras)",
+        "pais": "Belize e Honduras",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150.0,
+        "bitola": "Water Taxi Rápido da Barreira de Corais e Catamarã Oceânico de Alta Velocidade (MV Galaxy Wave de 46 metros)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7519,
+            15.7956
+          ],
+          [
+            -86.8969,
+            16.0969
+          ],
+          [
+            -86.5169,
+            16.3269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bahamas-ferries-nassau-eleuthera-harbour-island-exuma",
+        "nome": "Expresso das Family Islands (Bahamas Ferries): Nassau Potter's Cay – Spanish Wells / Harbour Island (Eleuthera) – George Town (Great Exuma)",
+        "sistema_slug": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_id": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_nome": "Catamarãs Interinsulares Bahamas Ferries (Nassau–Eleuthera/Harbour Island–Exuma–Abaco, Bahamas) e Rede Pública SeaExpress Bermuda (Hamilton–Dockyard–St. George's, Bermudas)",
+        "pais": "Bahamas e Bermudas (Reino Unido)",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 350.0,
+        "bitola": "Catamarã Rápido Ro-Pax Interinsular (MV Bo Hengy II, MV Seawind) e Catamarãs Urbanos das Rotas Azul, Laranja, Rosa e Verde (SeaExpress Bermuda)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.3219,
+            25.0789
+          ],
+          [
+            -76.7519,
+            25.5439
+          ],
+          [
+            -76.6369,
+            25.5019
+          ],
+          [
+            -75.7819,
+            23.5039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-seaexpress-bermuda-hamilton-dockyard-st-georges",
+        "nome": "Rede Pública SeaExpress das Bermudas (Rotas Azul, Laranja, Rosa e Verde): Royal Naval Dockyard – Hamilton Ferry Terminal – St. George's",
+        "sistema_slug": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_id": "bahamas-ferries-nassau-spanish-wells-harbour-island-eleuthera-exuma-seaexpress-hamilton-dockyard-st-george-bermuda-bahamas",
+        "sistema_nome": "Catamarãs Interinsulares Bahamas Ferries (Nassau–Eleuthera/Harbour Island–Exuma–Abaco, Bahamas) e Rede Pública SeaExpress Bermuda (Hamilton–Dockyard–St. George's, Bermudas)",
+        "pais": "Bahamas e Bermudas (Reino Unido)",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 60.0,
+        "bitola": "Catamarã Rápido Ro-Pax Interinsular (MV Bo Hengy II, MV Seawind) e Catamarãs Urbanos das Rotas Azul, Laranja, Rosa e Verde (SeaExpress Bermuda)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.8339,
+            32.3269
+          ],
+          [
+            -64.7869,
+            32.2919
+          ],
+          [
+            -64.6769,
+            32.3806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ilhas-virgens-st-thomas-st-john-tortola-virgin-gorda",
+        "nome": "Corredor das Ilhas Virgens (USVI & BVI): Charlotte Amalie / Red Hook (St. Thomas) – Cruz Bay (St. John) – Road Town (Tortola) – Virgin Gorda",
+        "sistema_slug": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_id": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_nome": "Ferries das Ilhas Virgens e Antilhas do Norte — St. Thomas–St. John–Tortola–Virgin Gorda (USVI / BVI) e Catamarãs St. Martin–Anguilla–St. Barth–Saba",
+        "pais": "Ilhas Virgens (EUA e Reino Unido), São Martinho, Anguilla, São Bartolomeu e Saba",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Catamarã Rápido Interinsular e Car Ferry Ro-Pax do Canal de Pillsbury Sound e Sir Francis Drake Channel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.9339,
+            18.3389
+          ],
+          [
+            -64.8539,
+            18.3256
+          ],
+          [
+            -64.7956,
+            18.3319
+          ],
+          [
+            -64.6189,
+            18.4219
+          ],
+          [
+            -64.4408,
+            18.4469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-antilhas-norte-anguilla-st-martin-st-barth-saba",
+        "nome": "Triângulo de São Martinho (Voyager & Great Bay Express): Blowing Point (Anguilla) – Marigot / Philipsburg (St. Martin) – Gustavia (St. Barth) – Saba",
+        "sistema_slug": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_id": "inter-island-ferries-st-thomas-st-john-tortola-virgin-gorda-voyager-st-martin-st-barth-saba-ilhas-virgens-antilhas",
+        "sistema_nome": "Ferries das Ilhas Virgens e Antilhas do Norte — St. Thomas–St. John–Tortola–Virgin Gorda (USVI / BVI) e Catamarãs St. Martin–Anguilla–St. Barth–Saba",
+        "pais": "Ilhas Virgens (EUA e Reino Unido), São Martinho, Anguilla, São Bartolomeu e Saba",
+        "continente": "América Central e Caribe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 100.0,
+        "bitola": "Catamarã Rápido Interinsular e Car Ferry Ro-Pax do Canal de Pillsbury Sound e Sir Francis Drake Channel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.0939,
+            18.1739
+          ],
+          [
+            -63.0869,
+            18.0689
+          ],
+          [
+            -63.0456,
+            18.0189
+          ],
+          [
+            -62.8519,
+            17.8969
+          ],
+          [
+            -63.2489,
+            17.6156
+          ]
+        ]
+      }
     }
   ]
 }
