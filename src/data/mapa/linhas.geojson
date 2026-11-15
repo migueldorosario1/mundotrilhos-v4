@@ -41861,6 +41861,368 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cta-nile-river-bus-cairo-qanatir-maspero-maadi",
+        "nome": "CTA Cairo Nile River Bus (El-Qanatir – Shubra – Maspero Central – Zamalek – Giza – Maadi)",
+        "sistema_id": "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+        "sistema_nome": "Ônibus Fluviais do Nilo (CTA Cairo River Bus) e Travessias Públicas de Luxor, Assuã / Philae e Lago Nasser (Egito)",
+        "pais": "Egito",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 45.0,
+        "bitola": "Hidrovia fluvial metropolitana do Rio Nilo (CTA River Bus)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.1385,
+            30.1865
+          ],
+          [
+            31.2285,
+            30.0525
+          ],
+          [
+            31.2195,
+            30.0155
+          ],
+          [
+            31.2495,
+            29.9585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-egito-ferries-luxor-aswan-elefantina-philae",
+        "nome": "Travessias Públicas do Alto Nilo (Luxor East/West Bank & Assuã Corniche – Ilha Elefantina – Philae)",
+        "sistema_id": "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+        "sistema_nome": "Ônibus Fluviais do Nilo (CTA Cairo River Bus) e Travessias Públicas de Luxor, Assuã / Philae e Lago Nasser (Egito)",
+        "pais": "Egito",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150.0,
+        "bitola": "Hidrovia fluvial do Alto Egito (Luxor e Assuã)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6395,
+            25.6995
+          ],
+          [
+            32.6315,
+            25.7025
+          ],
+          [
+            32.8895,
+            24.0885
+          ],
+          [
+            32.8845,
+            24.0255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lagferry-lagoa-de-lagos-cms-marina-falomo-bariga-ikorodu",
+        "nome": "Expresso Lagunar Norte–Sul LAGFERRY (Marina CMS / Five Cowries Falomo – Bariga – Terminal de Ikorodu, Lagos)",
+        "sistema_id": "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+        "sistema_nome": "Lagos Ferry Services (LAGFERRY / LASWA) na Lagoa de Lagos e Corredor Badagry (Marina/CMS – Ikorodu – Victoria Island – Apapa – Mile 2, Nigéria)",
+        "pais": "Nigéria",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 35.0,
+        "bitola": "Hidrovia lagunar metropolitana (LAGFERRY / LASWA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.3945,
+            6.4485
+          ],
+          [
+            3.4245,
+            6.4425
+          ],
+          [
+            3.3985,
+            6.5285
+          ],
+          [
+            3.4865,
+            6.6025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lagferry-corredor-oeste-cms-apapa-mile-2-ojo-badagry",
+        "nome": "Corredor Hidroviário Oeste (Marina CMS – Apapa – Mile 2 Metro Interchange – Ojo – Badagry)",
+        "sistema_id": "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+        "sistema_nome": "Lagos Ferry Services (LAGFERRY / LASWA) na Lagoa de Lagos e Corredor Badagry (Marina/CMS – Ikorodu – Victoria Island – Apapa – Mile 2, Nigéria)",
+        "pais": "Nigéria",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 60.0,
+        "bitola": "Hidrovia metropolitana costeira (Badagry Creek)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.3945,
+            6.4485
+          ],
+          [
+            3.3645,
+            6.4455
+          ],
+          [
+            3.3145,
+            6.4585
+          ],
+          [
+            3.1855,
+            6.4425
+          ],
+          [
+            2.8855,
+            6.4155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-chaloupe-dakar-ilha-de-goree-senegal",
+        "nome": "Liaison Maritime Dacar – Ilha de Gorée (Gare Maritime de Dakar – Embarcadouro de Gorée)",
+        "sistema_id": "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+        "sistema_nome": "Chaloupe de Gorée (Dacar–Ilha de Gorée) e Ferry Costeiro Aline Sitoé Diatta (Dacar–Carabane–Ziguinchor / Rio Casamance, Senegal)",
+        "pais": "Senegal",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 15.0,
+        "bitola": "Hidrovia metropolitana da Baía de Dacar (Chaloupe de Gorée)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -17.4285,
+            14.6785
+          ],
+          [
+            -17.3995,
+            14.6675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cosama-aline-sitoe-diatta-dakar-carabane-ziguinchor",
+        "nome": "Corredor Atlântico e Rio Casamance — COSAMA (Porto de Dacar – Ilha de Carabane – Porto de Ziguinchor)",
+        "sistema_id": "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+        "sistema_nome": "Chaloupe de Gorée (Dacar–Ilha de Gorée) e Ferry Costeiro Aline Sitoé Diatta (Dacar–Carabane–Ziguinchor / Rio Casamance, Senegal)",
+        "pais": "Senegal",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 450.0,
+        "bitola": "Hidrovia marítima costeira e fluvial (Ferry Aline Sitoé Diatta)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -17.4285,
+            14.6785
+          ],
+          [
+            -17.15,
+            13.5
+          ],
+          [
+            -16.7055,
+            12.5555
+          ],
+          [
+            -16.2715,
+            12.5855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessia-pool-malebo-kinshasa-beach-ngobila-brazzaville",
+        "nome": "Ponte Fluvial Internacional do Pool Malebo (Beach Ngobila, Kinshasa – Port Fluvial / Beach de Brazzaville)",
+        "sistema_id": "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+        "sistema_nome": "Travessia Internacional Kinshasa–Brazzaville (Pool Malebo) e Hidrovia Arterial do Rio Congo Kinshasa–Mbandaka–Kisangani (RD Congo e República do Congo)",
+        "pais": "República Democrática do Congo",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 12.0,
+        "bitola": "Travessia fluvial internacional do Rio Congo (Pool Malebo)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2985,
+            -4.3015
+          ],
+          [
+            15.2855,
+            -4.2725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-congo-kinshasa-mbandaka-bumba-kisangani",
+        "nome": "Hidrovia Arterial do Rio Congo (Porto de Kinshasa – Mbandaka – Lisala – Bumba – Porto de Kisangani)",
+        "sistema_id": "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+        "sistema_nome": "Travessia Internacional Kinshasa–Brazzaville (Pool Malebo) e Hidrovia Arterial do Rio Congo Kinshasa–Mbandaka–Kisangani (RD Congo e República do Congo)",
+        "pais": "República Democrática do Congo",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1728.0,
+        "bitola": "Hidrovia principal da Bacia do Rio Congo (1.734 km navegáveis)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2985,
+            -4.3015
+          ],
+          [
+            16.2,
+            -3.18
+          ],
+          [
+            18.2605,
+            0.0485
+          ],
+          [
+            21.515,
+            2.15
+          ],
+          [
+            22.465,
+            2.185
+          ],
+          [
+            25.1915,
+            0.5125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-vitoria-mscl-mwanza-ukerewe-bukoba-tanzania",
+        "nome": "Corredor Sul do Lago Vitória — MSCL (Porto de Mwanza – Ilha de Ukerewe/Nansio & Mwanza – Porto de Bukoba, Tanzânia)",
+        "sistema_id": "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia",
+        "sistema_nome": "Rede de Ferries do Lago Vitória (MV Mwanza Hapa Kazi Tu Mwanza–Bukoba–Ukerewe, MV Kalangala Entebbe–Ilhas Ssese e Mbita–Mfangano, Tanzânia, Uganda e Quênia)",
+        "pais": "Tanzânia",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 225.0,
+        "bitola": "Hidrovia lacustre (MSCL MV Mwanza / MV Victoria)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0155,
+            -2.1055
+          ],
+          [
+            32.8985,
+            -2.5125
+          ],
+          [
+            31.8185,
+            -1.3285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-vitoria-norte-entebbe-kalangala-ssese-kisumu-mbita",
+        "nome": "Corredor Norte do Lago Vitória (Entebbe Nakiwogo – Ilhas Ssese/Kalangala, Uganda & Mbita – Mfangano – Kisumu, Quênia)",
+        "sistema_id": "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia",
+        "sistema_nome": "Rede de Ferries do Lago Vitória (MV Mwanza Hapa Kazi Tu Mwanza–Bukoba–Ukerewe, MV Kalangala Entebbe–Ilhas Ssese e Mbita–Mfangano, Tanzânia, Uganda e Quênia)",
+        "pais": "Uganda",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 195.0,
+        "bitola": "Hidrovia lacustre internacional (MV Kalangala & Golfo de Winam)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4485,
+            0.0525
+          ],
+          [
+            32.2925,
+            -0.3215
+          ],
+          [
+            34.2025,
+            -0.4285
+          ],
+          [
+            34.7495,
+            -0.1025
+          ]
+        ]
+      }
     }
   ]
 }

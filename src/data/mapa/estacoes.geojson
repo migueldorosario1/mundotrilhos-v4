@@ -34451,6 +34451,366 @@
           20.6645
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-maspero-nile-river-bus-cairo",
+        "nome": "Terminal Fluvial Central de Maspero (CTA Nile River Bus, Cairo)",
+        "sistema_id": "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+        "linha_id": "linha-cta-nile-river-bus-cairo-qanatir-maspero-maadi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2285,
+          30.0525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-maadi-nile-ferry-pier-cairo",
+        "nome": "Estação Fluvial de Maadi (CTA River Bus / Nile Taxi, Cairo)",
+        "sistema_id": "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+        "linha_id": "linha-cta-nile-river-bus-cairo-qanatir-maspero-maadi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2495,
+          29.9585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-luxor-nile-public-ferry-terminal",
+        "nome": "Terminal de Barcas Públicas de Luxor (East Bank – West Bank, Egito)",
+        "sistema_id": "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+        "linha_id": "linha-alto-egito-ferries-luxor-aswan-elefantina-philae",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6395,
+          25.6995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-aswan-elephantine-ferry-pier",
+        "nome": "Embarcadouro Fluvial de Assuã / Ilha Elefantina (Alto Nilo, Egito)",
+        "sistema_id": "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+        "linha_id": "linha-alto-egito-ferries-luxor-aswan-elefantina-philae",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8895,
+          24.0885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cms-marina-ferry-terminal-lagos",
+        "nome": "Terminal Intermodal CMS / Marina (Conexão Linha Azul Metrô + LAGFERRY, Lagos)",
+        "sistema_id": "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+        "linha_id": "linha-lagferry-lagoa-de-lagos-cms-marina-falomo-bariga-ikorodu",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3945,
+          6.4485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-five-cowries-falomo-terminal-lagos",
+        "nome": "Terminal Hidroviário Five Cowries — Falomo / Ikoyi (LASWA Sede, Lagos)",
+        "sistema_id": "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+        "linha_id": "linha-lagferry-lagoa-de-lagos-cms-marina-falomo-bariga-ikorodu",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4245,
+          6.4425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ikorodu-ferry-terminal-lagos",
+        "nome": "Terminal Hidroviário Metropolitano de Ikorodu (Lagoa de Lagos, Nigéria)",
+        "sistema_id": "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+        "linha_id": "linha-lagferry-lagoa-de-lagos-cms-marina-falomo-bariga-ikorodu",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4865,
+          6.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mile-2-ferry-terminal-lagos",
+        "nome": "Terminal Intermodal Ferro-Hidroviário de Mile 2 (Linha Azul + LAGFERRY, Lagos)",
+        "sistema_id": "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+        "linha_id": "linha-lagferry-corredor-oeste-cms-apapa-mile-2-ojo-badagry",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3145,
+          6.4585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-internationale-dakar",
+        "nome": "Gare Maritime Internationale de Dakar (Chaloupe de Gorée & COSAMA, Senegal)",
+        "sistema_id": "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+        "linha_id": "linha-chaloupe-dakar-ilha-de-goree-senegal",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4285,
+          14.6785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-embarcadere-ile-de-goree-senegal",
+        "nome": "Embarcadouro da Ilha de Gorée (Patrimônio Mundial UNESCO, Dacar)",
+        "sistema_id": "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+        "linha_id": "linha-chaloupe-dakar-ilha-de-goree-senegal",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3995,
+          14.6675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-escale-carabane-casamance-senegal",
+        "nome": "Píer Insular de Carabane (Foz do Rio Casamance, Senegal)",
+        "sistema_id": "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+        "linha_id": "linha-cosama-aline-sitoe-diatta-dakar-carabane-ziguinchor",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7055,
+          12.5555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-ziguinchor-senegal",
+        "nome": "Gare Maritime de Ziguinchor (Ferry Aline Sitoé Diatta, Casamance, Senegal)",
+        "sistema_id": "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+        "linha_id": "linha-cosama-aline-sitoe-diatta-dakar-carabane-ziguinchor",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2715,
+          12.5855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-beach-ngobila-kinshasa-rdc",
+        "nome": "Terminal Fluvial Internacional Beach Ngobila (SCTP/ONATRA, Kinshasa, RD Congo)",
+        "sistema_id": "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+        "linha_id": "linha-travessia-pool-malebo-kinshasa-beach-ngobila-brazzaville",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2985,
+          -4.3015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-beach-brazzaville-congo",
+        "nome": "Port Fluvial / Beach de Brazzaville (Pool Malebo, República do Congo)",
+        "sistema_id": "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+        "linha_id": "linha-travessia-pool-malebo-kinshasa-beach-ngobila-brazzaville",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2855,
+          -4.2725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-fluvial-mbandaka-rio-congo",
+        "nome": "Porto Fluvial de Mbandaka (Equador, Rio Congo, RD Congo)",
+        "sistema_id": "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+        "linha_id": "linha-hidrovia-rio-congo-kinshasa-mbandaka-bumba-kisangani",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2605,
+          0.0485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-fluvial-kisangani-rdc",
+        "nome": "Porto Fluvial e Ferroviário de Kisangani (Tshopo, Rio Congo, RD Congo)",
+        "sistema_id": "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+        "linha_id": "linha-hidrovia-rio-congo-kinshasa-mbandaka-bumba-kisangani",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1915,
+          0.5125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mwanza-north-port-lago-vitoria",
+        "nome": "Terminal Portuário de Mwanza (MSCL MV Mwanza / MV Victoria, Tanzânia)",
+        "sistema_id": "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia",
+        "linha_id": "linha-lago-vitoria-mscl-mwanza-ukerewe-bukoba-tanzania",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8985,
+          -2.5125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bukoba-port-lago-vitoria-tz",
+        "nome": "Porto Lacustre de Bukoba (Kagera, Lago Vitória, Tanzânia)",
+        "sistema_id": "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia",
+        "linha_id": "linha-lago-vitoria-mscl-mwanza-ukerewe-bukoba-tanzania",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8185,
+          -1.3285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nakiwogo-entebbe-ferry-pier-uganda",
+        "nome": "Píer de Nakiwogo / Entebbe (MV Kalangala — Ilhas Ssese, Uganda)",
+        "sistema_id": "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia",
+        "linha_id": "linha-lago-vitoria-norte-entebbe-kalangala-ssese-kisumu-mbita",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4485,
+          0.0525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kisumu-port-mbita-lago-vitoria-ke",
+        "nome": "Porto Ferro-Hidroviário de Kisumu / Golfo de Winam (Lago Vitória, Quênia)",
+        "sistema_id": "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia",
+        "linha_id": "linha-lago-vitoria-norte-entebbe-kalangala-ssese-kisumu-mbita",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7495,
+          -0.1025
+        ]
+      }
     }
   ]
 }
