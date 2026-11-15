@@ -1382,6 +1382,23 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.554 páginas estáticas geradas** (`npm run build` com código 0).
 - **Próxima Ronda (#146 / Ordem 142 da Fila)**: `HIDRO-ORIENTE-MEDIO-GOLFO-MAR-VERMELHO-NORTE-AFRICA-II` (Fase Hidroviária Mundial #33 — Oriente Médio, Golfo Pérsico, Mar Vermelho e Mediterrâneo Oriental II).
 
+### #147 — 15/11/2026 11:52 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #146 CONCLUÍDA EM PRODUÇÃO (`commit` na `main`, `2564 page(s) built`): ORDEM 142 DA FILA — FASE HIDROVIÁRIA MUNDIAL #33 (ORIENTE MÉDIO, GOLFO PÉRSICO, MAR VERMELHO, TURQUIA, MAR CÁSPIO E MAGREBE II — MARCO HISTÓRICO DE 1.300+ LINHAS MAPEADAS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 142 Concluída (`HIDRO-ORIENTE-MEDIO-GOLFO-MAR-VERMELHO-NORTE-AFRICA-II`) — 5 sistemas hidroviários de barcos e ferries (`3.410 km`, 10 linhas, 25 terminais)**:
+  1. `izdeniz-izmir-konak-karsiyaka-bostanli-gestas-canakkale-dardanelos-budo-bursa-marmara-turquia` (🇹🇷 Turquia — Rede Metropolitana İZDENİZ de Catamarãs de Fibra de Carbono do Golfo de Esmirna Konak–Karşıyaka–Bostanlı–Üçkuyular, Travessias Intercontinentais GESTAŞ de Dardanelos Çanakkale–Eceabat/Kilitbahir e Bozcaada e Catamarãs BUDO de Mudanya/Bursa–Eminönü no Mar de Mármara, `440 km`, 2 linhas, 5 terminais)
+  2. `jazan-farasan-islands-ferries-arabia-saudita-arab-bridge-maritime-aqaba-nuweiba-safaga-suakin-mar-vermelho` (🇸🇦🇯🇴🇪🇬 Arábia Saudita, Jordânia e Egito — Ferries de Alta Velocidade TGA de Jazan–Ilhas Farasan UNESCO, Ponte Marítima Trinacional Arab Bridge Maritime Aqaba–Nuweiba e Hurghada–Sharm el-Sheikh e Balsas Intercontinentais SCA do Canal de Suez Port Said–Port Fouad, `780 km`, 2 linhas, 5 terminais)
+  3. `valfajr-hormoz-qeshm-kish-bandar-abbas-khorramshahr-kuwait-failaka-kbus-doha-pearl-al-safliya-golfo-persico` (🇮🇷🇰🇼🇶🇦🇧🇭 Irã, Kuwait, Catar e Bahrein — Catamarãs do Estreito de Ormuz Bandar Abbas Shahid Haqqani–Ilha de Qeshm–Ilha de Hormuz e Bandar Charak–Ilha de Kish, Ferries KPTC Ras Salmiya–Ilha de Failaka no Kuwait, Doha Corniche/The Pearl–Banana Island no Catar e Ilhas Hawar no Bahrein, `590 km`, 2 linhas, 5 terminais)
+  4. `africa-morocco-link-aml-intershipping-tanger-med-tanger-ville-nador-al-hoceima-entmv-algerie-ferries-argel-orao-bejaia` (🇲🇦🇩🇿 Marrocos e Argélia — Autoestradas Marítimas do Magrebe Africa Morocco Link AML e FRS em Tanger Ville, Tanger Med e Nador, Barcas Rabat–Salé e Rede Costeira e Mediterrânea da Algérie Ferries ENTMV Argel–Orão–Béjaïa–Skikda, `920 km`, 2 linhas, 5 terminais)
+  5. `asco-baku-alat-turkmenbashi-aktau-mar-caspio-basra-shatt-al-arab-bagda-rio-tigre-caspio-mesopotamia` (🇦🇿🇹🇲🇰🇿🇮🇶 Azerbaijão, Turcomenistão, Cazaquistão e Iraque — Ponte Ferro-Marítima Trans-Cáspia ASCO Baku/Alat–Türkmenbaşy e Baku/Alat–Kuryk/Aktau no Mar Cáspio e Táxis Aquáticos do Rio Tigre em Bagdá e Shatt al-Arab em Basra, `680 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa**:
+  - **934 sistemas no banco** (**918 em operação**, sendo **198 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.309 linhas mapeadas** — superando a marca histórica de **1.300+ linhas mapeadas** (**1.290 em operação**, sendo **395 linhas hidroviárias de barcos/ferries**!)
+  - **2.225 estações e terminais geolocalizados** (**791 terminais hidroviários de barcos/ferries**)
+  - **2.564 páginas estáticas geradas** (`npm run build` com código 0).
+- **Próxima Ronda (#147 / Ordem 143 da Fila)**: `HIDRO-ASIA-ORIENTAL-URBANA-ESTUARIOS-ESTREITOS-III` (Fase Hidroviária Mundial #34 — Ásia Oriental Fluvial, Baía de Tóquio, Baía de Osaka e Estreito de Taiwan II).
+
+
 
 
 
