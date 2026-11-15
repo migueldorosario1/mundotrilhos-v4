@@ -35897,5 +35897,439 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+    "slug": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+    "nome": "Catamarãs Metropolitanos Translink CityCat do Rio Brisbane, Ferries da Baía de Moreton (North Stradbroke e Southern Bay Islands) e SeaLink Magnetic Island (Queensland, Austrália)",
+    "nome_pt": "Catamarãs Metropolitanos Translink CityCat do Rio Brisbane, Ferries da Baía de Moreton (North Stradbroke e Southern Bay Islands) e SeaLink Magnetic Island (Queensland, Austrália)",
+    "nome_en": "Brisbane River Translink CityCat Catamarans, Moreton Bay Ferries (North Stradbroke & Southern Bay Islands) & SeaLink Magnetic Island (Queensland, Australia)",
+    "pais": "Austrália",
+    "codigo_pais": "AU",
+    "continente": "Oceania",
+    "cidade": "Brisbane / Cleveland / Redland Bay / North Stradbroke Island / Townsville / Magnetic Island (Queensland)",
+    "cidade_principal": "Brisbane / Moreton Bay / Townsville / Magnetic Island (Queensland)",
+    "uf": "Queensland (QLD)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "RiverCity Ferries / Translink (Brisbane City Council) e SeaLink Queensland (Kelsian Group — Moreton Bay & Magnetic Island)",
+    "inauguracao": "1996 (Frota de catamarãs rápidos CityCat no Rio Brisbane) / 1964 (Ferries de North Stradbroke Island)",
+    "extensao_km": 215.0,
+    "bitola": "Catamarã Urbano de Alta Velocidade de Dois Convés (CityCat 4ª Geração — 26 nós), Ferry Ro-Pax Insular e Catamarã Rápido do Mar de Coral",
+    "eletrificacao": "Programa de eletrificação e biocombustível dos terminais e embarcações da rede Translink para os Jogos Olímpicos de Brisbane 2032",
+    "velocidade_max_kmh": 48,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 24500,
+    "passageiros_ano": 8900000,
+    "ano_referencia": 2026,
+    "resumo_pt": "No estado de Queensland, o sistema hidroviário metropolitano Translink CityCat opera 27 catamarãs rápidos de alumínio ao longo de 22 km do sinuoso Rio Brisbane entre University of Queensland (St Lucia), South Bank, Riverside (CBD), New Farm Park e Northshore Hamilton (com tarifa integrada de 50 centavos de dólar australiano da Translink). Na vizinha Baía de Moreton, a SeaLink opera os ferries Ro-Pax e táxis aquáticos entre Toondah Harbour (Cleveland) e Dunwich em North Stradbroke Island (Minjerribah), além do serviço de comutação de Redland Bay para as ilhas residenciais de Coochiemudlo, Macleay, Lamb, Karragarra e Russell Island. No norte tropical, em Townsville, os catamarãs rápidos da SeaLink conectam o Breakwater Terminal a Nelly Bay na Ilha Magnetic em 20 minutos no Parque Marinho da Grande Barreira de Corais.",
+    "resumo_en": "In Queensland, the metropolitan Translink CityCat network operates 27 high-speed aluminum catamarans along 22 km of the winding Brisbane River between the University of Queensland (St Lucia), South Bank, Riverside (CBD), New Farm Park, and Northshore Hamilton under Queensland's integrated 50-cent public transport fare. In neighboring Moreton Bay, SeaLink operates Ro-Pax vehicle ferries and water taxis between Cleveland (Toondah Harbour) and Dunwich on North Stradbroke Island (Minjerribah), alongside the commuter ferry network from Redland Bay to Russell, Macleay, Lamb, and Karragarra Islands. In Tropical North Queensland, SeaLink high-speed catamarans connect Townsville Breakwater Terminal to Nelly Bay on Magnetic Island in 20 minutes within the Great Barrier Reef Marine Park.",
+    "investimento": {
+      "valor": "AUD 185 milhões na construção dos novos CityCats de dois convés em Brisbane e reconstrução resiliente a inundações dos terminais flutuantes do Rio Brisbane e Baía de Moreton",
+      "moeda": "AUD",
+      "fonte_id": "citycat-qld-1"
+    },
+    "proximas_entregas": {
+      "pt": "Novos terminais de integração para os Jogos Olímpicos e Paralímpicos de Brisbane 2032 e expansão da frota de catamarãs elétricos/híbridos no Rio Brisbane e Southern Moreton Bay Islands.",
+      "en": "New intermodal ferry terminals for the Brisbane 2032 Olympic and Paralympic Games and fleet expansion with hybrid/electric catamarans on the Brisbane River and Southern Moreton Bay Islands."
+    },
+    "lat": -27.47,
+    "lon": 153.15,
+    "zoom_inicial": 8,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "citycat",
+      "translink",
+      "brisbane",
+      "moreton-bay",
+      "stradbroke-island",
+      "magnetic-island",
+      "townsville",
+      "queensland",
+      "australia"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yoogera_CityCat_on_Brisbane_River.jpg/1280px-Yoogera_CityCat_on_Brisbane_River.jpg",
+      "credito": "Brisbane City Council / Wikimedia Commons",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Yoogera_CityCat_on_Brisbane_River.jpg"
+    },
+    "fontes": [
+      {
+        "id": "citycat-qld-1",
+        "titulo": "Translink Queensland & SeaLink — Brisbane River CityCat, North Stradbroke Island & Magnetic Island Ferries",
+        "url": "https://translink.com.au/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-translink-citycat-rio-brisbane-st-lucia-south-bank-hamilton",
+        "nome": "Corredor Fluvial Translink CityCat (Rio Brisbane): UQ St Lucia – West End – South Bank – Riverside CBD – Bulimba – Northshore Hamilton",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 45.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-moreton-bay-stradbroke-bay-islands-townsville-magnetic-island",
+        "nome": "Ferries de Moreton Bay e Grande Barreira: Cleveland – North Stradbroke Island, Redland Bay – Russell/Macleay Island e Townsville – Magnetic Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 170.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+    "slug": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+    "nome": "Ferries de Port Phillip em Melbourne/Victoria (Searoad Ferries Queenscliff–Sorrento e Port Phillip Ferries Docklands–Geelong) e Ferries do Rio Derwent e Bruny Island (Tasmânia, Austrália)",
+    "nome_pt": "Ferries de Port Phillip em Melbourne/Victoria (Searoad Ferries Queenscliff–Sorrento e Port Phillip Ferries Docklands–Geelong) e Ferries do Rio Derwent e Bruny Island (Tasmânia, Austrália)",
+    "nome_en": "Port Phillip Bay Ferries in Victoria (Searoad Ferries Queenscliff–Sorrento & Port Phillip Ferries Melbourne Docklands–Geelong) & Derwent River / Bruny Island Ferries (Tasmania, Australia)",
+    "pais": "Austrália",
+    "codigo_pais": "AU",
+    "continente": "Oceania",
+    "cidade": "Melbourne (Docklands) / Geelong / Portarlington / Queenscliff / Sorrento (Victoria) e Hobart / Kettering / Bruny Island (Tasmânia)",
+    "cidade_principal": "Melbourne / Geelong / Queenscliff–Sorrento (Victoria) & Hobart / Bruny Island (Tasmânia)",
+    "uf": "Victoria (VIC) / Tasmânia (TAS)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Searoad Ferries, Port Phillip Ferries, Western Port Ferries (Stony Point–French Island–Phillip Island), Derwent Ferries (Metro Tasmania / Navigators) e SeaLink Bruny Island",
+    "inauguracao": "1987 (Searoad Ferries Queenscliff–Sorrento) / 2016 (Port Phillip Ferries Melbourne–Geelong/Portarlington) / 2021 (Novo Derwent Ferry em Hobart)",
+    "extensao_km": 195.0,
+    "bitola": "Catamarã Ro-Pax All-Weather (MV Queenscliff / MV Sorrento), Catamarã Comuter Incat de 35m e Ferry Ro-Pax de Dupla Proa (Bruny Island)",
+    "eletrificacao": "Terminais de embarque de emissões zero remodelados em Queenscliff e Sorrento e estudos de ferries elétricos da Incat Tasmania no Rio Derwent",
+    "velocidade_max_kmh": 50,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6800,
+    "passageiros_ano": 2480000,
+    "ano_referencia": 2026,
+    "resumo_pt": "Em Victoria, a Searoad Ferries opera a travessia Ro-Pax mais movimentada da Austrália na boca da Baía de Port Phillip ('The Rip'), conectando Queenscliff (Península Bellarine e início da Great Ocean Road) a Sorrento (Península Mornington) em 40 minutos a bordo dos navios MV Queenscliff e MV Sorrento. No interior da baía, os catamarãs rápidos da Port Phillip Ferries ligam o Victoria Harbour em Melbourne Docklands (integrado à zona de bondes gratuitos de Melbourne) diretamente a Geelong Waterfront e Portarlington. Na Tasmânia, o serviço público Derwent Ferry liga Bellerive ao Brooke Street Pier no centro de Hobart (mais o catamarã do museu MONA), enquanto a SeaLink opera a ponte flutuante entre Kettering e Roberts Point em Bruny Island.",
+    "resumo_en": "In Victoria, Searoad Ferries operates Australia's busiest Ro-Pax vehicular ferry across the entrance of Port Phillip Bay ('The Rip'), connecting Queenscliff (Bellarine Peninsula and gateway to the Great Ocean Road) with Sorrento (Mornington Peninsula) in 40 minutes aboard MV Queenscliff and MV Sorrento. Inside the bay, Port Phillip Ferries high-speed catamarans link Victoria Harbour in Melbourne Docklands (integrated with Melbourne's Free Tram Zone) directly to Geelong Waterfront and Portarlington. In Tasmania, the public Derwent Ferry links Bellerive to Brooke Street Pier in downtown Hobart (alongside the MONA Roma catamaran), while SeaLink operates the lifeline vehicular crossing between Kettering and Roberts Point on Bruny Island.",
+    "investimento": {
+      "valor": "AUD 140 milhões no novo terminal de Queenscliff, expansão dos catamarãs de Port Phillip Ferries e Plano Diretor de Ferries do Rio Derwent em Hobart (Governo da Tasmânia)",
+      "moeda": "AUD",
+      "fonte_id": "portphillip-tas-1"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão do serviço Derwent Ferry em Hobart com novos terminais em Sandy Bay, Lindisfarne e Wilkinsons Point e introdução de catamarãs elétricos construídos pela Incat em Hobart.",
+      "en": "Expansion of the Derwent Ferry network in Hobart with new terminals at Sandy Bay, Lindisfarne, and Wilkinsons Point and deployment of locally built Incat battery-electric catamarans."
+    },
+    "lat": -38.15,
+    "lon": 144.68,
+    "zoom_inicial": 7,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "melbourne",
+      "geelong",
+      "queenscliff",
+      "sorrento",
+      "port-phillip",
+      "hobart",
+      "bruny-island",
+      "tasmania",
+      "victoria",
+      "australia"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/MV_Queenscliff_entering_Queenscliff_Harbour.jpg/1280px-MV_Queenscliff_entering_Queenscliff_Harbour.jpg",
+      "credito": "Searoad Ferries / Wikimedia Commons",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MV_Queenscliff_entering_Queenscliff_Harbour.jpg"
+    },
+    "fontes": [
+      {
+        "id": "portphillip-tas-1",
+        "titulo": "Searoad Ferries, Port Phillip Ferries & Metro Tasmania Derwent Ferry",
+        "url": "https://www.searoad.com.au/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-port-phillip-docklands-geelong-portarlington-queenscliff-sorrento",
+        "nome": "Baía de Port Phillip (Victoria): Melbourne Docklands – Portarlington – Geelong Waterfront & Travessia Ro-Pax Queenscliff – Sorrento",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 125.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-tasmania-hobart-derwent-bellerive-kettering-bruny-island",
+        "nome": "Rio Derwent e Canal D'Entrecasteaux (Tasmânia): Bellerive – Hobart Brooke St Pier – MONA e Kettering – Bruny Island (Roberts Point)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 70.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+    "slug": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+    "nome": "Ferries Elétricos da Baía de Wellington (East by West / Metlink Ikaroa), Travessia do Estreito de Foveaux (Bluff–Ilha Stewart / Rakiura) e Bay of Islands (Nova Zelândia)",
+    "nome_pt": "Ferries Elétricos da Baía de Wellington (East by West / Metlink Ikaroa), Travessia do Estreito de Foveaux (Bluff–Ilha Stewart / Rakiura) e Bay of Islands (Nova Zelândia)",
+    "nome_en": "Wellington Harbour Electric Ferries (East by West / Metlink Ikaroa), Foveaux Strait Ferry (Bluff–Stewart Island / Rakiura) & Bay of Islands Ferries (New Zealand)",
+    "pais": "Nova Zelândia",
+    "codigo_pais": "NZ",
+    "continente": "Oceania",
+    "cidade": "Wellington / Lower Hutt (Days Bay) / Bluff (Invercargill) / Oban (Stewart Island / Rakiura) / Opua e Russell (Northland)",
+    "cidade_principal": "Wellington / Bluff–Ilha Stewart (Rakiura) / Bay of Islands (Nova Zelândia)",
+    "uf": "Wellington / Southland / Northland",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "East by West Ferries (rede pública Metlink Wellington), RealNZ (Stewart Island Ferry Services) e Bay of Islands Vehicular Ferry / Fullers GreatSights",
+    "inauguracao": "1989 (East by West Ferries em Wellington) / 2022 (Inauguração do catamarã 100% elétrico Ikaroa em Wellington)",
+    "extensao_km": 165.0,
+    "bitola": "Catamarã 100% Elétrico em Fibra de Carbono (EV Ikaroa — 1º ferry elétrico rápido do Hemisfério Sul) e Catamarã Oceânico do Estreito de Foveaux",
+    "eletrificacao": "100% Elétrico a Bateria com recarga de 1 MW em Queens Wharf (EV Ikaroa projetado e construído em Wellington pela Wellington Electric Boat Building Company)",
+    "velocidade_max_kmh": 42,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 2900,
+    "passageiros_ano": 1050000,
+    "ano_referencia": 2026,
+    "resumo_pt": "Na capital da Nova Zelândia, a East by West Ferries (integrada à rede de transporte público Metlink com cartão Snapper) opera a travessia da Baía de Wellington (Te Whanganui-a-Tara) entre Queens Wharf (centro de Wellington), a reserva insular de Matiu / Somes Island, Seatoun e Days Bay (Eastbourne / Lower Hutt), liderada pelo EV Ikaroa — o primeiro ferry rápido de passageiros 100% elétrico de fibra de carbono do Hemisfério Sul. No extremo sul da Ilha Sul, os catamarãs oceânicos da Stewart Island Ferry Services (RealNZ) cruzam os 36 km das águas subantárticas do Estreito de Foveaux em 1 hora entre o Porto de Bluff e Oban (Halfmoon Bay) em Rakiura / Ilha Stewart (a terceira maior ilha da Nova Zelândia), enquanto no extremo norte operam os ferries de Opua–Okiato e Paihia–Russell na Bay of Islands.",
+    "resumo_en": "In New Zealand's capital, East by West Ferries (integrated into the Metlink public transit network with Snapper card ticketing) operates crossings of Wellington Harbour (Te Whanganui-a-Tara) between Queens Wharf, Matiu / Somes Island scientific reserve, Seatoun, and Days Bay (Eastbourne / Lower Hutt), led by EV Ikaroa — the Southern Hemisphere's first all-electric carbon-fiber high-speed passenger ferry. At the southern tip of the South Island, Stewart Island Ferry Services (RealNZ) ocean-going catamarans cross the 36 km of Foveaux Strait in 1 hour between Bluff and Oban (Halfmoon Bay) on Stewart Island / Rakiura (New Zealand's third-largest island), while in Northland vehicular and passenger ferries connect Opua–Okiato and Paihia–Russell in the Bay of Islands.",
+    "investimento": {
+      "valor": "NZD 65 milhões no programa de ferries elétricos de Wellington (EV Ikaroa e carregador de alta potência em Queens Wharf) e modernização dos terminais de Bluff e Oban",
+      "moeda": "NZD",
+      "fonte_id": "ebw-foveaux-1"
+    },
+    "proximas_entregas": {
+      "pt": "Construção do segundo catamarã 100% elétrico para a frota da Metlink na Baía de Wellington e integração do sistema nacional de bilhetagem Motu Move.",
+      "en": "Construction of a second all-electric catamaran for the Metlink Wellington Harbour fleet and rollout of New Zealand's national Motu Move ticketing system."
+    },
+    "lat": -41.28,
+    "lon": 174.83,
+    "zoom_inicial": 6,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "ikaroa",
+      "ferry-eletrico",
+      "wellington",
+      "stewart-island",
+      "rakiura",
+      "bluff",
+      "foveaux-strait",
+      "nova-zelandia"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ikaroa_electric_ferry_Wellington.jpg/1280px-Ikaroa_electric_ferry_Wellington.jpg",
+      "credito": "East by West Ferries / Wikimedia Commons",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ikaroa_electric_ferry_Wellington.jpg"
+    },
+    "fontes": [
+      {
+        "id": "ebw-foveaux-1",
+        "titulo": "East by West Ferries (Metlink Wellington) & Stewart Island Ferry Services (Bluff–Oban)",
+        "url": "https://www.eastbywest.co.nz/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-wellington-harbour-queens-wharf-matiu-somes-days-bay-seatoun",
+        "nome": "Baía de Wellington (Metlink East by West): Queens Wharf CBD – Matiu / Somes Island – Days Bay (Eastbourne) – Seatoun (EV Ikaroa Elétrico)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 45.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-estreito-foveaux-bluff-oban-stewart-island-bay-of-islands",
+        "nome": "Estreito de Foveaux e Northland: Bluff Ferry Terminal – Oban Halfmoon Bay (Ilha Stewart / Rakiura) e Travessias Paihia / Opua – Russell",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 120.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+    "slug": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+    "nome": "Ferries Interinsulares de Tonga e Vanuatu — Friendly Islands Shipping Agency FISA (Nuku'alofa–'Eua–Ha'apai–Vava'u, Tonga) e Vanuatu Ferry / Big Sista (Port Vila–Malekula–Espiritu Santo–Tanna, Vanuatu)",
+    "nome_pt": "Ferries Interinsulares de Tonga e Vanuatu — Friendly Islands Shipping Agency FISA (Nuku'alofa–'Eua–Ha'apai–Vava'u, Tonga) e Vanuatu Ferry / Big Sista (Port Vila–Malekula–Espiritu Santo–Tanna, Vanuatu)",
+    "nome_en": "Tonga & Vanuatu Inter-Island Ferries — Friendly Islands Shipping Agency FISA (Nuku'alofa–'Eua–Ha'apai–Vava'u, Tonga) & Vanuatu Ferry / Big Sista (Port Vila–Malekula–Espiritu Santo–Tanna, Vanuatu)",
+    "pais": "Tonga e Vanuatu",
+    "codigo_pais": "TO",
+    "continente": "Oceania",
+    "cidade": "Nuku'alofa (Tongatapu) / 'Eua / Pangai (Ha'apai) / Neiafu (Vava'u, Tonga) e Port Vila (Efate) / Lakatoro (Malekula) / Luganville (Espiritu Santo) / Lenakel (Tanna, Vanuatu)",
+    "cidade_principal": "Nuku'alofa / Vava'u (Tonga) & Port Vila / Luganville (Vanuatu)",
+    "uf": "Tongatapu / Ha'apai / Vava'u / Shefa / Malampa / Sanma / Tafea",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Friendly Islands Shipping Agency Ltd. (FISA — empresa pública do Reino de Tonga) e Vanuatu Ferry Ltd. / Big Sista Shipping (Vanuatu)",
+    "inauguracao": "2010 (Entrada em operação do ferry MV 'Otuanga'ofa doado pelo Japão/JICA ao Reino de Tonga)",
+    "extensao_km": 680.0,
+    "bitola": "Ferry Oceânico Ro-Pax Interinsular (MV 'Otuanga'ofa, MV Maui e Vanuatu Ferry)",
+    "eletrificacao": "Navios Ro-Pax oceânicos diesel construídos sob normas internacionais de segurança marítima da JICA / IMO para travessias do Pacífico Sul",
+    "velocidade_max_kmh": 32,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 1400,
+    "passageiros_ano": 510000,
+    "ano_referencia": 2026,
+    "resumo_pt": "No Reino de Tonga (Polinésia), a estatal Friendly Islands Shipping Agency (FISA) opera a espinha dorsal marítima nacional com o ferry oceânico MV 'Otuanga'ofa (construído no Japão com apoio da JICA) e o MV Maui, conectando o Queen Salote Wharf na capital Nuku'alofa (ilha de Tongatapu) à vizinha ilha de 'Eua e, rumo ao norte, aos grupos insulares de Ha'apai (Pangai/Lifuka), Vava'u (Neiafu) e às remotas ilhas Niuas. Na República de Vanuatu (Melanésia), onde 83 ilhas se estendem por 800 km, os navios Ro-Pax da Vanuatu Ferry e da Big Sista conectam a capital Port Vila (ilha de Efate) a Epi, Ambrym, Lakatoro (Malekula) e Luganville (Espiritu Santo) ao norte, bem como a Erromango e Lenakel (Tanna, lar do vulcão Monte Yasur) ao sul.",
+    "resumo_en": "In the Kingdom of Tonga, state-owned Friendly Islands Shipping Agency (FISA) operates the national maritime backbone with the Japanese-built Ro-Pax vessel MV 'Otuanga'ofa and MV Maui, linking Queen Salote Wharf in the capital Nuku'alofa (Tongatapu) with neighboring 'Eua Island and northward to the Ha'apai group (Pangai/Lifuka), Vava'u (Neiafu), and the remote Niuas. In the Republic of Vanuatu, spanning 83 islands across 800 km of the Coral Sea, Ro-Pax vessels of Vanuatu Ferry and Big Sista connect the capital Port Vila (Efate) northward to Epi, Ambrym, Lakatoro (Malekula), and Luganville (Espiritu Santo), as well as southward to Erromango and Lenakel on Tanna Island.",
+    "investimento": {
+      "valor": "US$ 95 milhões na modernização dos portos domésticos de Nuku'alofa, 'Eua, Lifuka e Vava'u (Banco Asiático de Desenvolvimento / JICA) e no South Paray Domestic Wharf em Port Vila (Vanuatu)",
+      "moeda": "USD",
+      "fonte_id": "tonga-vanuatu-1"
+    },
+    "proximas_entregas": {
+      "pt": "Conclusão da reabilitação resiliente ao clima dos píeres interinsulares de Tonga (Nuku'alofa e Ha'apai) e ampliação dos terminais domésticos de Port Vila e Luganville em Vanuatu.",
+      "en": "Completion of climate-resilient rehabilitation of Tonga's domestic inter-island wharves (Nuku'alofa and Ha'apai) and expansion of Port Vila and Luganville domestic terminals in Vanuatu."
+    },
+    "lat": -19.5,
+    "lon": -175.0,
+    "zoom_inicial": 5,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "tonga",
+      "vanuatu",
+      "nukualofa",
+      "vavau",
+      "port-vila",
+      "espiritu-santo",
+      "pacifico-sul",
+      "oceania"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/MV_Otuangaofa_in_Nukualofa.jpg/1280px-MV_Otuangaofa_in_Nukualofa.jpg",
+      "credito": "JICA / Friendly Islands Shipping Agency / Wikimedia Commons",
+      "licenca": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MV_Otuangaofa_in_Nukualofa.jpg"
+    },
+    "fontes": [
+      {
+        "id": "tonga-vanuatu-1",
+        "titulo": "Friendly Islands Shipping Agency (FISA Tonga) & Vanuatu Inter-Island Shipping Support Project (ADB)",
+        "url": "https://www.fisa.to/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-fisa-tonga-nukualofa-eua-haapai-vavau",
+        "nome": "Corredor Real de Tonga (FISA MV 'Otuanga'ofa): Nuku'alofa (Tongatapu) – 'Eua – Pangai (Ha'apai) – Neiafu (Vava'u)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 340.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-vanuatu-ferry-port-vila-malekula-luganville-santo-tanna",
+        "nome": "Eixo Insular de Vanuatu (Vanuatu Ferry & Big Sista): Lenakel (Tanna) – Port Vila (Efate) – Lakatoro (Malekula) – Luganville (Espiritu Santo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 340.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+    "slug": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+    "nome": "Catamarãs e Ferries da Melanésia Ocidental — Pelican Express & Auki Express (Honiara–Auki–Gizo, Ilhas Salomão) e Lutheran Shipping / Star Ships (Lae–Kimbe–Rabaul, Papua-Nova Guiné)",
+    "nome_pt": "Catamarãs e Ferries da Melanésia Ocidental — Pelican Express & Auki Express (Honiara–Auki–Gizo, Ilhas Salomão) e Lutheran Shipping / Star Ships (Lae–Kimbe–Rabaul, Papua-Nova Guiné)",
+    "nome_en": "Western Melanesia Ferries & Fast Craft — Pelican Express & Auki Express (Honiara–Auki–Gizo, Solomon Islands) & Star Ships / Lutheran Shipping (Lae–Kimbe–Rabaul, Papua New Guinea)",
+    "pais": "Ilhas Salomão e Papua-Nova Guiné",
+    "codigo_pais": "SB",
+    "continente": "Oceania",
+    "cidade": "Honiara (Guadalcanal) / Tulagi / Auki (Malaita) / Noro e Gizo (Ilhas Salomão) e Lae (Morobe) / Finschhafen / Kimbe e Rabaul (Nova Bretanha, Papua-Nova Guiné)",
+    "cidade_principal": "Honiara / Auki / Gizo (Ilhas Salomão) & Lae / Kimbe / Rabaul (Papua-Nova Guiné)",
+    "uf": "Guadalcanal / Malaita / Western Province / Morobe / Nova Bretanha",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Pelican Express / Auki Express / Fairwest Shipping (Ilhas Salomão, regulados pela SIMSA) e PNGNMSA / Star Ships (Papua-Nova Guiné)",
+    "inauguracao": "1965 (Serviços regulares de passageiros no Mar de Salomão e Estreito de Vitiaz)",
+    "extensao_km": 720.0,
+    "bitola": "Catamarã Rápido de Alumínio (MV Pelican Express, MV Auki Express) e Ferry Costeiro de Passageiros do Mar de Bismarck",
+    "eletrificacao": "Embarcações rápidas a diesel marítimo operando sob o programa de segurança de navegação doméstica do Banco Asiático de Desenvolvimento (ADB)",
+    "velocidade_max_kmh": 48,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 2600,
+    "passageiros_ano": 950000,
+    "ano_referencia": 2026,
+    "resumo_pt": "No arquipélago das Ilhas Salomão (mais de 900 ilhas), o transporte marítimo a partir do Porto de Point Cruz na capital Honiara (ilha de Guadalcanal) é a principal ligação entre as províncias: os catamarãs rápidos MV Auki Express e MV Pelican Express cruzam o Ironbottom Sound diariamente em 2h30 até Tulagi (Ilhas Florida) e Auki (capital da populosa ilha de Malaita), além de realizar a rota semanal de 400 km através do Mar de Nova Geórgia até Seghe, Noro e Gizo na Província Ocidental. Na vizinha Papua-Nova Guiné, os ferries costeiros de passageiros conectam o porto de Lae (terminal da Highlands Highway na Província de Morobe) e Finschhafen através do Estreito de Vitiaz e do Mar de Bismarck até Kimbe e Rabaul/Kokopo na ilha de Nova Bretanha, além de Alotau e das ilhas de Milne Bay.",
+    "resumo_en": "Across the Solomon Islands archipelago (over 900 islands), maritime passenger transport departing Point Cruz Port in the capital Honiara (Guadalcanal) serves as the primary inter-provincial link: fast catamarans MV Auki Express and MV Pelican Express cross Ironbottom Sound daily in 2.5 hours to Tulagi (Florida Islands) and Auki (capital of populous Malaita Island), alongside the weekly 400 km western route across New Georgia Sound ('The Slot') to Seghe, Noro, and Gizo in Western Province. In neighboring Papua New Guinea, coastal passenger ferries link the port city of Lae (terminus of the Highlands Highway in Morobe Province) and Finschhafen across the Vitiaz Strait and Bismarck Sea to Kimbe and Rabaul/Kokopo on New Britain Island.",
+    "investimento": {
+      "valor": "US$ 110 milhões na reconstrução dos portos domésticos de Honiara, Auki, Noro e Gizo (Solomon Islands Roads and Aviation / Maritime Project — Banco Mundial e ADB) e terminais da PNG Ports em Lae e Kimbe",
+      "moeda": "USD",
+      "fonte_id": "solomons-png-1"
+    },
+    "proximas_entregas": {
+      "pt": "Novos cais de passageiros dedicados em Point Cruz (Honiara) e Auki (Malaita) e sistemas de rastreamento AIS e segurança marítima nas Ilhas Salomão e Papua-Nova Guiné.",
+      "en": "New dedicated domestic passenger wharves at Point Cruz (Honiara) and Auki (Malaita) alongside AIS vessel tracking and maritime safety upgrades across the Solomon Islands and Papua New Guinea."
+    },
+    "lat": -9.05,
+    "lon": 159.5,
+    "zoom_inicial": 6,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "ilhas-salomao",
+      "honiara",
+      "auki",
+      "gizo",
+      "papua-nova-guine",
+      "lae",
+      "rabaul",
+      "oceania"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Honiara_Port_Point_Cruz_Solomon_Islands.jpg/1280px-Honiara_Port_Point_Cruz_Solomon_Islands.jpg",
+      "credito": "Solomon Islands Ports Authority / Wikimedia Commons",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Honiara_Port_Point_Cruz_Solomon_Islands.jpg"
+    },
+    "fontes": [
+      {
+        "id": "solomons-png-1",
+        "titulo": "Solomon Islands Maritime Safety Administration (SIMSA) & PNG National Maritime Safety Authority — Domestic Ferry Routes",
+        "url": "https://www.simsa.gov.sb/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-salomao-pelican-auki-express-honiara-tulagi-auki-noro-gizo",
+        "nome": "Expresso das Ilhas Salomão (Pelican & Auki Express): Honiara Point Cruz – Tulagi – Auki (Malaita) e Honiara – Seghe – Noro – Gizo",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 410.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-png-estreito-vitiaz-mar-bismarck-lae-finschhafen-kimbe-rabaul",
+        "nome": "Corredor do Estreito de Vitiaz e Mar de Bismarck (PNG): Porto de Lae – Finschhafen – Kimbe (Nova Bretanha Ocidental) – Rabaul / Kokopo",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 310.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

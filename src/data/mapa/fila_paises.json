@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T11:47:24Z",
+  "atualizado_em": "2026-11-15T12:17:59Z",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2185,16 +2185,24 @@
         "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
         "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 137,
       "pais": "Fase Hidroviária Mundial #28 — Oceania Insular, Estreito de Cook e Pacífico Sul II (Bluebridge & Interislander Wellington–Picton no Estreito de Cook e Fullers360 Waiheke/Devonport e Stewart Island Ferry Bluff–Oban na Nova Zelândia; South Sea Cruises Port Denarau–Mamanuca e Yasawa Islands em Fiji; Samoa Shipping Corporation Mulifanua–Salelologa Upolu–Savai'i em Samoa; e Aremiti / Terevau Papeete–Moorea na Polinésia Francesa)",
       "codigo": "HIDRO-OCEANIA-NOVA-ZELANDIA-FIJI-SAMOA-POLINESIA-II",
       "continente": "Oceania",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T12:17:59Z",
+      "sistemas_adicionados": [
+        "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 138,
       "pais": "Fase Hidroviária Mundial #29 — Caribe, Antilhas, Bahamas e Mesoamérica II (L'Express des Îles Pointe-à-Pitre–Marie-Galante–Les Saintes–Dominica–Martinica–Santa Lúcia; Cabo Rojo / Ceiba–Vieques e Culebra em Porto Rico; Bahamas Ferries Nassau–Harbour Island/Eleuthera–Exuma; Ultramar Cozumel–Playa del Carmen e Isla Mujeres–Cancún no México; e San Pedro Belize Express Belize City–Caye Caulker–Ambergris Caye)",
