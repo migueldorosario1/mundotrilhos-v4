@@ -28721,5 +28721,394 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+    "slug": "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+    "nome_pt": "Hidrovia da Foz do Amazonas e Estreitos de Breves (Porto de Santana / Macapá – Afuá – Chaves – Breves – Belém, Amapá e Pará, Brasil)",
+    "nome_en": "Amazon Mouth & Breves Straits Waterway (Santana Port / Macapá – Afuá – Chaves – Breves – Belém, Amapá & Pará, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Santana e Macapá (Amapá); Afuá, Chaves, Gurupá, Melgaço, Portel e Breves (Arquipélago do Marajó, Pará)",
+    "uf": "AP / PA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Operadores Hidroviários Regulares da Foz do Amazonas (Navios Santana, Anna Karoline, Expresso Anamã e Lanchas Rápidas Amapá–Marajó–Belém fiscalizados pela ANTAQ / CDSA / CPAH)",
+    "inauguracao": "1957 (Integração hidroviária do Porto de Santana à Estrada de Ferro do Amapá e regularização das linhas interestaduais Santana–Afuá–Breves–Belém pela ANTAQ)",
+    "extensao_km": 590.0,
+    "bitola": "Canal Norte do Rio Amazonas, Canal de Santana e Furos / Estreitos de Breves no Arquipélago do Marajó",
+    "eletrificacao": "Navios-motor regionais de múltiplos conveses, ferries ro-pax, catamarãs/lanchas expressas e catraias urbanas na travessia Santana–Ilha de Santana",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 14500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 165 milhões (construção e modernização das Instalações Portuárias Públicas de Pequeno Porte — IP4 do DNIT em Santana, Afuá, Chaves, Gurupá e Breves)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-dnit-hidrovia-amapa-marajo"
+    },
+    "proximas_entregas": {
+      "pt": "Novo Terminal Hidroviário de Passageiros do Canal do Jandiá em Macapá e ampliação do Terminal Hidroviário de Santana integrado à área portuária da CDSA.",
+      "en": "New Jandiá Canal Passenger River Terminal in Macapá and expansion of the Santana Waterway Terminal integrated with the CDSA port complex."
+    },
+    "resumo_pt": "Sem ligação rodoviária com o restante do Brasil, o estado do Amapá (Macapá e Santana) tem na Hidrovia da Foz do Amazonas e dos Estreitos de Breves a sua grande autoestrada interestadual de passageiros e abastecimento, regulada pela ANTAQ. A partir das rampas e píeres hidroviários do Porto de Santana (ao lado do antigo terminal da Estrada de Ferro do Amapá) e da orla de Macapá, duas rotas estruturais operam diariamente: a travessia metropolitana contínua pelo Canal do Norte até a Ilha de Santana e a movimentada conexão de lanchas rápidas (1h30) e barcos regionais com a cidade palafita de Afuá (a 'Veneza Marajoara', no Pará, onde não circulam automóveis), além da linha tronco de 24 horas que cruza o Rio Amazonas e serpenteia pelos Furos de Breves (Gurupá, Melgaço, Portel e Breves) até o Terminal Hidroviário de Belém.",
+    "resumo_en": "With no road connection to the rest of Brazil, the state of Amapá (Macapá and Santana) relies on the Amazon Mouth and Breves Straits Waterway as its primary interstate passenger and cargo lifeline, regulated by ANTAQ. Operating out of the Port of Santana terminals, high-frequency boats cross to Santana Island and connect in 90 minutes to the stilt city of Afuá ('the Marajó Venice', where motor vehicles are banned), while large multi-deck river vessels and ro-pax ferries sail 24 hours across the Amazon River and through the scenic Breves Narrows (Gurupá, Portel and Breves) to Belém.",
+    "lat": -0.0585,
+    "lon": -51.1815,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "antaq-dnit-hidrovia-amapa-marajo",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "amapá",
+      "pará",
+      "macapá",
+      "santana",
+      "afuá",
+      "breves",
+      "marajó",
+      "foz do amazonas",
+      "estreitos de breves",
+      "antaq",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Porto_de_Santana_Amapa_barcos.jpg/800px-Porto_de_Santana_Amapa_barcos.jpg",
+      "credito": "Wikimedia Commons — Embarcações regionais e lanchas de passageiros no Porto de Santana (Amapá) e em Afuá / Breves (Pará, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Santana_(Amap%C3%A1)"
+    },
+    "linhas": [
+      {
+        "id": "linha-hidrovia-santana-ilha-de-santana-afua-chaves-marajo",
+        "nome": "Eixo Metropolitano e Marajó Setentrional (Porto de Santana / Macapá – Ilha de Santana – Afuá – Chaves)",
+        "status": "operacao",
+        "extensao_km": 170.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-hidrovia-interestadual-santana-gurupa-portel-breves-belem",
+        "nome": "Tronco Interestadual Foz do Amazonas – Estreitos de Breves (Porto de Santana – Gurupá – Breves – Belém)",
+        "status": "operacao",
+        "extensao_km": 420.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+    "slug": "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+    "nome_pt": "Hidrovia Federal do Rio Madeira (Porto Velho Cai n'Água – Calama – Humaitá – Manicoré – Novo Aripuanã – Borba – Manaus / Itacoatiara, Rondônia e Amazonas, Brasil)",
+    "nome_en": "Madeira River Federal Waterway (Porto Velho Cai n'Água – Calama – Humaitá – Manicoré – Novo Aripuanã – Borba – Manaus / Itacoatiara, Rondônia & Amazonas, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Porto Velho e Calama (Rondônia); Humaitá, Manicoré, Novo Aripuanã, Borba, Nova Olinda do Norte, Autazes, Itacoatiara e Manaus (Amazonas)",
+    "uf": "RO / AM",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Navegação de Passageiros e Mista do Rio Madeira (IP4 DNIT / Sociedade de Portos e Hidrovias de Rondônia SOPH / ANTAQ / ARSEPAM)",
+    "inauguracao": "1912 (Conexão histórica entre o terminal da Estrada de Ferro Madeira-Mamoré em Porto Velho e a navegação a vapor do Rio Madeira até o Rio Amazonas)",
+    "extensao_km": 1080.0,
+    "bitola": "Calha navegável de 1.060 km do Rio Madeira (Classe I da ANTAQ/DNIT com balizamento noturno entre Porto Velho e a foz no Rio Amazonas)",
+    "eletrificacao": "Navios-motor regionais de passageiros e carga mista ('recreios'), lanchas rápidas a jato (Expresso Rio Madeira) e grandes comboios de barcaças ao longo da hidrovia",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 9500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 310 milhões (dragagem plurianual e sinalização náutica do DNIT no Rio Madeira + operação das 9 instalações portuárias públicas IP4 entre Cai n'Água e Borba)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-antaq-soph-hidrovia-rio-madeira"
+    },
+    "proximas_entregas": {
+      "pt": "Requalificação do Terminal Hidroviário do Cai n'Água (ao lado do Complexo da Estrada de Ferro Madeira-Mamoré em Porto Velho) e novas IP4 no Baixo Madeira.",
+      "en": "Upgrading of the Cai n'Água Passenger River Terminal (adjacent to the historic Madeira-Mamoré Railway complex in Porto Velho) and new IP4 floating terminals on the Lower Madeira."
+    },
+    "resumo_pt": "Principal afluente da margem direita do Rio Amazonas, o Rio Madeira forma um corredor hidroviário de 1.060 km ininterruptamente navegáveis entre Porto Velho (Rondônia) e a sua foz próxima a Itacoatiara e Manaus (Amazonas). Nascida historicamente em 1912 como a continuação fluvial da célebre Estrada de Ferro Madeira-Mamoré (cujo pátio ferroviário fica exatamente ao lado do Porto do Cai n'Água, em Porto Velho), a Hidrovia do Rio Madeira conta com uma rede de modernas Instalações Portuárias Públicas de Pequeno Porte (IP4) flutuantes implantadas pelo DNIT. Enquanto a rodovia BR-319 enfrenta restrições sazonais, os barcos-recreio e lanchas expressas do Rio Madeira garantem o transporte regular de passageiros e cargas abastecendo os distritos ribeirinhos de São Carlos e Calama (RO) e os municípios amazonenses de Humaitá, Manicoré, Novo Aripuanã, Borba e Nova Olinda do Norte até a Roadway de Manaus.",
+    "resumo_en": "Stretching 1,060 km from Porto Velho (Rondônia) to its confluence with the Amazon River near Itacoatiara and Manaus (Amazonas), the Madeira River Federal Waterway is one of South America's most important inland navigation arteries. Originating at the Cai n'Água River Terminal — directly adjacent to the historic 1912 Madeira-Mamoré Railway station in Porto Velho — the waterway features a chain of modern DNIT floating passenger terminals (IP4) serving Calama, Humaitá, Manicoré, Novo Aripuanã, Borba and Nova Olinda do Norte all the way to the Port of Manaus.",
+    "lat": -5.8095,
+    "lon": -61.2985,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "dnit-antaq-soph-hidrovia-rio-madeira",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "rondônia",
+      "amazonas",
+      "rio madeira",
+      "porto velho",
+      "cai n'água",
+      "madeira-mamoré",
+      "humaitá",
+      "manicoré",
+      "borba",
+      "novo aripuanã",
+      "dnit ip4",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Porto_Cai_n_Agua_Porto_Velho_Rio_Madeira.jpg/800px-Porto_Cai_n_Agua_Porto_Velho_Rio_Madeira.jpg",
+      "credito": "Wikimedia Commons — Terminal Hidroviário do Cai n'Água em Porto Velho (Rondônia) e navegação de passageiros na Hidrovia do Rio Madeira (Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Madeira_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-hidrovia-alto-medio-madeira-porto-velho-calama-humaita-manicore",
+        "nome": "Eixo Alto e Médio Rio Madeira (Terminal Cai n'Água, Porto Velho – Calama – Humaitá – Manicoré)",
+        "status": "operacao",
+        "extensao_km": 560.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-hidrovia-baixo-madeira-manicore-novo-aripuana-borba-manaus",
+        "nome": "Eixo Baixo Rio Madeira – Amazonas (Manicoré – Novo Aripuanã – Borba – Nova Olinda do Norte – Porto de Manaus)",
+        "status": "operacao",
+        "extensao_km": 520.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+    "slug": "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+    "nome_pt": "Hidrovia do Rio Negro (Manaus – Novo Airão – Barcelos – Santa Isabel do Rio Negro – São Gabriel da Cachoeira, Amazonas, Brasil)",
+    "nome_en": "Rio Negro Waterway (Manaus – Novo Airão – Barcelos – Santa Isabel do Rio Negro – São Gabriel da Cachoeira, Amazonas, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Manaus, Iranduba, Novo Airão, Barcelos, Santa Isabel do Rio Negro e São Gabriel da Cachoeira (Porto de Camanaus, Amazonas)",
+    "uf": "AM",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Frota de Navios Regionais e Lanchas Expressas do Rio Negro (Expresso Rio Negro, Navio Tanaka, M. Monteiro e Cooperativas Indígenas/Ribeirinhas — ARSEPAM / ANTAQ / DNIT)",
+    "inauguracao": "1874 (Linhas regulares da Companhia de Navegação do Amazonas no Rio Negro entre Manaus, Barcelos e o Alto Rio Negro)",
+    "extensao_km": 920.0,
+    "bitola": "Hidrovia natural da Bacia do Rio Negro (Arquipélago de Anavilhanas, Mariuá e trecho até o Porto de Camanaus em São Gabriel da Cachoeira)",
+    "eletrificacao": "Lanchas a jato de alta velocidade (Expresso Rio Negro / Ajato) e barcos-motor regionais de três conveses com camarotes e carga mista",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 6800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 145 milhões (implantação e reforma dos terminais flutuantes IP4 do DNIT em Barcelos, Santa Isabel do Rio Negro, Camanaus/São Gabriel da Cachoeira e São Raimundo em Manaus)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-arsepam-antaq-hidrovia-rio-negro"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização do Terminal Hidroviário de Camanaus em São Gabriel da Cachoeira e sinalização eletrônica dos canais de Anavilhanas e Mariuá.",
+      "en": "Modernization of the Camanaus Waterway Terminal in São Gabriel da Cachoeira and electronic fairway signaling through the Anavilhanas and Mariuá archipelagos."
+    },
+    "resumo_pt": "A Hidrovia do Rio Negro é a única via de transporte de superfície que conecta a capital Manaus aos vastos municípios do Médio e Alto Rio Negro — Barcelos, Santa Isabel do Rio Negro e São Gabriel da Cachoeira (o município mais indígena do Brasil, na tríplice fronteira com a Colômbia e a Venezuela). Partindo do Porto de Manaus (Roadway) e do Terminal Hidroviário de São Raimundo, as lanchas expressas a jato e os navios regionais cruzam os dois maiores arquipélagos fluviais do planeta — Anavilhanas (em Novo Airão) e Mariuá (em Barcelos) — percorrendo mais de 900 km de águas escuras até o Porto de Camanaus, a jusante das corredeiras de São Gabriel da Cachoeira.",
+    "resumo_en": "The Rio Negro Waterway is the sole surface transport artery linking Manaus to the vast municipalities of the Middle and Upper Rio Negro — Novo Airão, Barcelos, Santa Isabel do Rio Negro and São Gabriel da Cachoeira near the Colombian and Venezuelan borders. Departing from the Port of Manaus (Roadway) and São Raimundo Terminal, high-speed jet launches and three-deck regional riverboats navigate through the world's two largest river archipelagos — Anavilhanas and Mariuá — covering over 900 km to the Port of Camanaus in São Gabriel da Cachoeira.",
+    "lat": -0.9745,
+    "lon": -62.9245,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "dnit-arsepam-antaq-hidrovia-rio-negro",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "amazonas",
+      "rio negro",
+      "manaus",
+      "novo airão",
+      "anavilhanas",
+      "barcelos",
+      "santa isabel do rio negro",
+      "são gabriel da cachoeira",
+      "camanaus",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Barcelos_Amazonas_Orla_Rio_Negro.jpg/800px-Barcelos_Amazonas_Orla_Rio_Negro.jpg",
+      "credito": "Wikimedia Commons — Orla e terminal hidroviário de Barcelos e navegação de passageiros na Hidrovia do Rio Negro (Amazonas, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Rio_Negro_(Amazon)"
+    },
+    "linhas": [
+      {
+        "id": "linha-hidrovia-baixo-medio-rio-negro-manaus-novo-airao-barcelos",
+        "nome": "Corredor Manaus – Anavilhanas – Mariuá (Porto de Manaus / São Raimundo – Novo Airão – Terminal IP4 de Barcelos)",
+        "status": "operacao",
+        "extensao_km": 440.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-hidrovia-alto-rio-negro-barcelos-santa-isabel-camanaus-sao-gabriel",
+        "nome": "Corredor Alto Rio Negro (Barcelos – Santa Isabel do Rio Negro – Porto de Camanaus / São Gabriel da Cachoeira)",
+        "status": "operacao",
+        "extensao_km": 480.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+    "slug": "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+    "nome_pt": "Hidrovias Federais do Rio Juruá (Cruzeiro do Sul–Eirunepé–Carauari–Juruá) e do Rio Purus (Boca do Acre–Lábrea–Tapauá–Beruri, Acre e Amazonas, Brasil)",
+    "nome_en": "Juruá River (Cruzeiro do Sul–Eirunepé–Carauari) & Purus River (Boca do Acre–Lábrea–Tapauá–Beruri) Federal Waterways (Acre & Amazonas, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Cruzeiro do Sul, Marechal Thaumaturgo e Porto Walter (Acre); Guajará, Ipixuna, Eirunepé, Itamarati, Carauari, Juruá, Boca do Acre, Pauini, Lábrea, Canutama, Tapauá e Beruri (Amazonas)",
+    "uf": "AC / AM",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Navegação Regional e Lanchas Expressas das Bacias do Juruá e do Purus (Terminais Flutuantes IP4 DNIT / DERACRE / ARSEPAM / ANTAQ)",
+    "inauguracao": "1890 (Abertura das linhas regulares de navegação dos rios Juruá e Purus durante o ciclo da borracha e instalação da rede de terminais IP4 do DNIT a partir de 2012)",
+    "extensao_km": 1650.0,
+    "bitola": "Calhas meândricas navegáveis dos rios Juruá e Purus (Amazônia Ocidental — Acre e Sudoeste do Amazonas até o Rio Solimões)",
+    "eletrificacao": "Navios-motor regionais de passageiros e carga mista ('recreios' de longo curso até Manaus) e lanchas rápidas intermunicipais",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 8200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 220 milhões (construção e operação de 14 terminais hidroviários flutuantes IP4 do DNIT nas calhas do Juruá e do Purus em Eirunepé, Carauari, Guajará, Ipixuna, Lábrea, Tapauá e Beruri)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-antaq-hidrovias-jurua-purus"
+    },
+    "proximas_entregas": {
+      "pt": "Novos terminais hidroviários em Cruzeiro do Sul / Marechal Thaumaturgo (Acre) e ampliação das rampas flutuantes das IP4 do Médio Juruá e Médio Purus.",
+      "en": "New passenger river terminals in Cruzeiro do Sul and Marechal Thaumaturgo (Acre) and expansion of DNIT IP4 floating terminals along the Middle Juruá and Purus rivers."
+    },
+    "resumo_pt": "Os rios Juruá e Purus — dois dos rios mais sinuosos do planeta — formam as duas grandes hidrovias vitais do sudoeste da Amazônia, interligando dezenas de municípios isolados do Acre e do Amazonas ao Rio Solimões e à capital Manaus. Na Bacia do Juruá, a hidrovia conecta Cruzeiro do Sul, Porto Walter e Marechal Thaumaturgo (no Acre) a Guajará, Ipixuna, Eirunepé, Itamarati, Carauari e Juruá (no Amazonas), com intenso tráfego de lanchas rápidas e barcos regionais operando nos terminais flutuantes IP4 do DNIT. Na Bacia do Purus, a navegação regular liga Boca do Acre, Pauini, Lábrea, Canutama, Tapauá e Beruri até o encontro com o Solimões e Manaus.",
+    "resumo_en": "The Juruá and Purus rivers — two of the most meandering waterways on Earth — form the essential transport lifelines of southwestern Amazonia across the states of Acre and Amazonas. Along the Juruá basin, passenger launches and regional river vessels link Cruzeiro do Sul, Porto Walter and Marechal Thaumaturgo (Acre) with Guajará, Ipixuna, Eirunepé and Carauari (Amazonas) via DNIT's floating IP4 terminals. Parallel to the east, the Purus River waterway connects Boca do Acre, Pauini, Lábrea, Canutama, Tapauá and Beruri downstream to the Solimões River and Manaus.",
+    "lat": -5.6615,
+    "lon": -67.8755,
+    "zoom_inicial": 5.8,
+    "fontes": [
+      "dnit-antaq-hidrovias-jurua-purus",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "acre",
+      "amazonas",
+      "rio juruá",
+      "rio purus",
+      "cruzeiro do sul",
+      "eirunepé",
+      "carauari",
+      "lábrea",
+      "tapauá",
+      "boca do acre",
+      "dnit ip4",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rio_Jurua_Cruzeiro_do_Sul_Acre.jpg/800px-Rio_Jurua_Cruzeiro_do_Sul_Acre.jpg",
+      "credito": "Wikimedia Commons — Navegação de passageiros e cargas no Rio Juruá em Cruzeiro do Sul / Eirunepé e no Rio Purus em Lábrea (Acre e Amazonas, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Juru%C3%A1_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-hidrovia-rio-jurua-cruzeiro-do-sul-eirunepe-carauari",
+        "nome": "Hidrovia Federal do Rio Juruá (Cruzeiro do Sul, AC – Guajará – Ipixuna – Eirunepé – Carauari, AM)",
+        "status": "operacao",
+        "extensao_km": 880.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-hidrovia-rio-purus-boca-do-acre-labrea-tapaua-beruri",
+        "nome": "Hidrovia Federal do Rio Purus (Boca do Acre – Pauini – Lábrea – Canutama – Tapauá – Beruri, AM)",
+        "status": "operacao",
+        "extensao_km": 770.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil",
+    "slug": "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil",
+    "nome_pt": "Travessias Hidroviárias da Bacia Tocantins–Araguaia (Pedro Afonso–Tupirama, Filadélfia–Carolina, Xambioá–São Geraldo e Caseara–Santana do Araguaia, TO/MA/PA/MT, Brasil)",
+    "nome_en": "Tocantins–Araguaia Basin Ferry Crossings & Waterway (Pedro Afonso–Tupirama, Filadélfia–Carolina, Xambioá–São Geraldo & Caseara–Santana do Araguaia, TO/MA/PA/MT, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Porto Nacional, Pedro Afonso, Tupirama, Filadélfia, Xambioá e Caseara (Tocantins); Carolina (Maranhão); São Geraldo do Araguaia e Santana do Araguaia (Pará); São Félix do Araguaia (Mato Grosso)",
+    "uf": "TO / PA / MA / MT",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Grupo PIPES Navegação / AGETO (Agência de Transportes, Obras e Infraestrutura do Tocantins) & Operadores Autorizados pela ANTAQ nas Travessias Interestaduais do Tocantins e Araguaia",
+    "inauguracao": "1974 (Regularização das travessias de balsas ro-pax nos rios Tocantins e Araguaia integradas às rodovias estaduais e federais e à Ferrovia Norte-Sul)",
+    "extensao_km": 640.0,
+    "bitola": "Travessias fluviais interestaduais e calhas navegáveis do Rio Tocantins e do Rio Araguaia (conexão com o corredor da Ferrovia Norte-Sul)",
+    "eletrificacao": "Ferries ro-pax e conjuntos empurrador-balsa de grande porte para passageiros, ônibus e veículos e lanchas rápidas de travessia",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 19000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 180 milhões (modernização das rampas de atracação da AGETO/DNIT e obras de derrocamento e sinalização da Hidrovia Tocantins-Araguaia)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-ageto-pipes-tocantins-araguaia"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação dos terminais hidroviários de passageiros e cargas nas travessias do Rio Araguaia (Caseara–Barreira da Cruz e Araguatins) e no Médio Tocantins.",
+      "en": "Expansion of passenger and ro-pax ferry terminals across the Araguaia River (Caseara–Barreira da Cruz and Araguatins) and along the Middle Tocantins River."
+    },
+    "resumo_pt": "No coração do Brasil Central e da Amazônia Oriental, os rios Tocantins e Araguaia contam com uma extensa rede de travessias hidroviárias de balsas ro-pax e lanchas de passageiros (reguladas pela ANTAQ nas divisas interestaduais e pela AGETO no Tocantins, com forte presença operacional do Grupo PIPES), correndo em paralelo ao eixo da Ferrovia Norte-Sul (FNS). No Rio Tocantins, destacam-se as travessias históricas de Pedro Afonso–Tupirama, Bela Vista–Itaguatins e a ligação interestadual Filadélfia (TO)–Carolina (MA, vizinha ao pátio ferroviário da FNS). Já no Rio Araguaia, operam as estratégicas travessias de Xambioá (TO)–São Geraldo do Araguaia (PA, na BR-153), Caseara (TO)–Barreira da Cruz / Santana do Araguaia (PA, porta de entrada da Ilha do Bananal), Couto Magalhães (TO)–Conceição do Araguaia (PA) e a hidrovia sazonal de São Félix do Araguaia–Luciara (MT).",
+    "resumo_en": "Across Central Brazil and Eastern Amazonia, the Tocantins and Araguaia rivers sustain a network of regulated interstate ro-pax ferry crossings and passenger launches overseen by ANTAQ and AGETO, running parallel to the North–South Railway (FNS). On the Tocantins River, key ferries link Pedro Afonso–Tupirama and the interstate crossing between Filadélfia (Tocantins) and Carolina (Maranhão). On the Araguaia River, major ro-pax ferries connect Xambioá (TO)–São Geraldo do Araguaia (PA), Caseara (TO)–Barreira da Cruz / Santana do Araguaia (PA, gateway to Bananal Island), and São Félix do Araguaia–Luciara (Mato Grosso).",
+    "lat": -7.3515,
+    "lon": -47.9215,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "antaq-ageto-pipes-tocantins-araguaia",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "tocantins",
+      "pará",
+      "maranhão",
+      "mato grosso",
+      "rio tocantins",
+      "rio araguaia",
+      "pedro afonso",
+      "carolina",
+      "filadélfia",
+      "xambioá",
+      "são geraldo do araguaia",
+      "caseara",
+      "ilha do bananal",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Balsa_Rio_Tocantins_Carolina_Filadelfia.jpg/800px-Balsa_Rio_Tocantins_Carolina_Filadelfia.jpg",
+      "credito": "Wikimedia Commons — Travessia de balsa ro-pax no Rio Tocantins (Filadélfia–Carolina) e no Rio Araguaia (Xambioá–São Geraldo e Caseara, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Tocantins_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-travessias-hidrovia-rio-tocantins-pedro-afonso-filadelfia-carolina",
+        "nome": "Eixo Rio Tocantins (Travessias de Pedro Afonso–Tupirama e Filadélfia, TO – Carolina, MA)",
+        "status": "operacao",
+        "extensao_km": 280.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-travessias-hidrovia-rio-araguaia-caseara-xambioa-sao-geraldo",
+        "nome": "Eixo Rio Araguaia e Ilha do Bananal (Caseara, TO – Santana do Araguaia, PA & Xambioá, TO – São Geraldo do Araguaia, PA)",
+        "status": "operacao",
+        "extensao_km": 360.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

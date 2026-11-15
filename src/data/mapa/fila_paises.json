@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-14T23:44:00-03:00",
+  "atualizado_em": "2026-11-15T00:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1915,16 +1915,24 @@
         "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
         "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 119,
       "pais": "Fase Hidroviária Brasil #5 — Amazônia Ocidental, Amapá e Tocantins (Santana–Macapá–Afuá–Breves no Amapá/Pará, Hidrovia do Rio Madeira Porto Velho–Humaitá–Manicoré, Hidrovia do Rio Negro Manaus–Novo Airão–Barcelos–São Gabriel da Cachoeira, Hidrovia do Rio Purus e Juruá Acre/Amazonas e Travessias do Rio Tocantins/Araguaia)",
       "codigo": "HIDRO-BR-NORTE-II",
       "continente": "América do Sul",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+        "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+        "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+        "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+        "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 120,
       "pais": "Fase Hidroviária Brasil #6 — Travessias Litorâneas, Lagunares e Fluviais do Sul, Sudeste e Nordeste (Baía de Guaratuba e Paranaguá–Ilha do Mel no Paraná, São Francisco do Sul–Vila da Glória e Laguna em Santa Catarina, Lagoa dos Patos Pelotas–Rio Grande–São José do Norte no RS, Litoral Sul de SP Cananéia–Ilha Comprida–Iguape e Travessias do Rio São Francisco Penedo–Neópolis e Petrolina–Juazeiro)",
