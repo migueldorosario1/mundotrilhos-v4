@@ -33371,6 +33371,366 @@
           54.6365
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-split-jadrolinija",
+        "nome": "Terminal Marítimo e Ferroviário do Porto de Split (Jadrolinija, Croácia)",
+        "sistema_id": "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+        "linha_id": "linha-jadrolinija-krilo-split-brac-hvar-korcula-dubrovnik",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4425,
+          43.5038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-hvar-dalmacia",
+        "nome": "Terminal de Catamarãs do Porto de Hvar (Ilha de Hvar, Croácia)",
+        "sistema_id": "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+        "linha_id": "linha-jadrolinija-krilo-split-brac-hvar-korcula-dubrovnik",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.441,
+          43.172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-gruz-dubrovnik",
+        "nome": "Terminal de Ferries do Porto de Gruž (Dubrovnik, Croácia)",
+        "sistema_id": "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+        "linha_id": "linha-jadrolinija-krilo-split-brac-hvar-korcula-dubrovnik",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.085,
+          42.6585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-zadar-gazenica",
+        "nome": "Terminal Portuário de Zadar Gaženica (Croácia)",
+        "sistema_id": "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+        "linha_id": "linha-adriatico-zadar-split-ancona-italia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.258,
+          44.0885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-viena-schwedenplatz-twin-city-liner",
+        "nome": "Estação Fluvial Viena City / Schwedenplatz (Twin City Liner, Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+        "linha_id": "linha-twin-city-liner-danubio-viena-bratislava",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3785,
+          48.2122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bratislava-osobny-pristav-danubio",
+        "nome": "Terminal de Passageiros do Danúbio de Bratislava (Fajnorovo nábrežie, Eslováquia)",
+        "sistema_id": "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+        "linha_id": "linha-twin-city-liner-danubio-viena-bratislava",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1115,
+          48.1395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-budapeste-vigado-ter-mahart",
+        "nome": "Estação Fluvial Central Vigadó tér (MAHART / BKK, Budapeste)",
+        "sistema_id": "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+        "linha_id": "linha-danubio-budapeste-mahart-lago-balaton-szantod-tihany",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.045,
+          47.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balaton-szantod-tihany-ferry",
+        "nome": "Terminal de Ferry Szántód–Tihany (BAHART Lago Balaton, Hungria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+        "linha_id": "linha-danubio-budapeste-mahart-lago-balaton-szantod-tihany",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8985,
+          46.8855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-helsingor-ferry-terminal-dk",
+        "nome": "Terminal Ferro-Hidroviário de Helsingør (Øresundslinjen, Dinamarca)",
+        "sistema_id": "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+        "linha_id": "linha-oresundslinjen-helsingor-helsingborg-havnebus-copenhague",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6155,
+          56.0365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-helsingborg-knutpunkten-se",
+        "nome": "Terminal Intermodal de Helsingborg C / Knutpunkten (Suécia)",
+        "sistema_id": "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+        "linha_id": "linha-oresundslinjen-helsingor-helsingborg-havnebus-copenhague",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6915,
+          56.0425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-copenhague-nyhavn-havnebus",
+        "nome": "Terminal Havnebus Nyhavn / Kongens Nytorv (Porto de Copenhague)",
+        "sistema_id": "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+        "linha_id": "linha-oresundslinjen-helsingor-helsingborg-havnebus-copenhague",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5925,
+          55.6795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rodbyhavn-scandlines-terminal",
+        "nome": "Terminal de Ferries de Rødbyhavn (Scandlines, Dinamarca)",
+        "sistema_id": "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+        "linha_id": "linha-scandlines-fehmarn-rodby-puttgarden-dinamarca-alemanha",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3515,
+          54.6545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-aarhus-molslinjen-ferry-terminal",
+        "nome": "Terminal de Catamarãs Rápidos do Porto de Aarhus (Molslinjen, Dinamarca)",
+        "sistema_id": "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+        "linha_id": "linha-molslinjen-kattegat-aarhus-sjaellands-odde",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2255,
+          56.1615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sjaellands-odde-ferry-terminal",
+        "nome": "Terminal de Ferry de Sjællands Odde (Zelândia, Dinamarca)",
+        "sistema_id": "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+        "linha_id": "linha-molslinjen-kattegat-aarhus-sjaellands-odde",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3745,
+          55.9685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ronne-bornholm-ferry-terminal",
+        "nome": "Porto de Rønne — Terminal Bornholmslinjen (Ilha de Bornholm, Dinamarca)",
+        "sistema_id": "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+        "linha_id": "linha-bornholmslinjen-ronne-ystad-koge-baltico",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6935,
+          55.0985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ystad-ferry-terminal-suecia",
+        "nome": "Terminal Ferro-Hidroviário do Porto de Ystad (Escânia, Suécia)",
+        "sistema_id": "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+        "linha_id": "linha-bornholmslinjen-ronne-ystad-koge-baltico",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8255,
+          55.4245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gdansk-targ-rybny-tramwaj-wodny",
+        "nome": "Píer de Gdańsk Targ Rybny (Tramwaj Wodny / Żegluga Gdańska, Polônia)",
+        "sistema_id": "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia",
+        "linha_id": "linha-tramwaj-wodny-baia-de-gdansk-gdynia-hel",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6585,
+          54.352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-hel-peninsula-polonia",
+        "nome": "Porto de Passageiros de Hel (Península de Hel, Baía de Gdańsk)",
+        "sistema_id": "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia",
+        "linha_id": "linha-tramwaj-wodny-baia-de-gdansk-gdynia-hel",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8015,
+          54.602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-swinoujscie-ferry-terminal-polonia",
+        "nome": "Terminal de Ferries Marítimos e Urbanos (Bielik) de Świnoujście (Polônia)",
+        "sistema_id": "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia",
+        "linha_id": "linha-baltico-swinoujscie-ystad-trelleborg-polonia-suecia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2595,
+          53.9045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-trelleborg-ferry-port-suecia",
+        "nome": "Porto Ferro-Hidroviário de Trelleborg (Escânia, Suécia)",
+        "sistema_id": "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia",
+        "linha_id": "linha-baltico-swinoujscie-ystad-trelleborg-polonia-suecia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1555,
+          55.3685
+        ]
+      }
     }
   ]
 }

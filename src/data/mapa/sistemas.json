@@ -26807,5 +26807,391 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+    "slug": "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+    "nome_pt": "Jadrolinija e Krilo (Kapetan Luka) na Costa Dálmata e Mar Adriático (Split–Hvar–Brač–Korčula–Dubrovnik e Zadar–Ancona, Croácia)",
+    "nome_en": "Jadrolinija & Krilo (Kapetan Luka) on the Dalmatian Coast & Adriatic Sea (Split–Hvar–Brač–Korčula–Dubrovnik & Zadar–Ancona, Croatia)",
+    "pais": "Croácia",
+    "cidade": "Split, Hvar, Supetar (Brač), Korčula, Dubrovnik, Zadar e Rijeka (Croácia); Ancona e Bari (Itália)",
+    "uf": "Split-Dalmácia / Dubrovnik-Neretva / Zadar / Primorje-Gorski Kotar",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Jadrolinija (Companhia Estatal de Navegação da Croácia) & Krilo — Kapetan Luka High-Speed Catamarans",
+    "inauguracao": "1947 (Fundação da estatal Jadrolinija em Rijeka, sucessora das linhas a vapor adriáticas de 1872)",
+    "extensao_km": 465.0,
+    "bitola": "Hidrovia costeira, arquipelágica e internacional do Mar Adriático (Mais de 50 linhas conectando as ilhas dálmatas)",
+    "eletrificacao": "Frota de 57 navios da Jadrolinija (catamarãs rápidos, ferries ro-pax e novos ferries elétricos/ solares) e catamarãs Krilo",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 68000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 220 milhões (renovação verde da frota da Jadrolinija com catamarãs de zero emissão e ferries elétricos para as ilhas dálmatas e modernização do Porto de Split)",
+      "moeda": "EUR",
+      "fonte_id": "mmmpi-jadrolinija-port-split-croatia"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação de novos ferries de passageiros 100% elétricos alimentados por energia solar nas rotas insulares de Dubrovnik, Šibenik e Zadar.",
+      "en": "Deployment of new solar-assisted all-electric passenger ferries on island routes out of Dubrovnik, Šibenik and Zadar."
+    },
+    "resumo_pt": "Com mais de 1.200 ilhas ao longo da costa do Mar Adriático, a Croácia depende visceralmente de sua rede pública de transporte hidroviário comandada pela estatal Jadrolinija (sediada em Rijeka) e complementada pelos catamarãs rápidos da Krilo (Kapetan Luka). O Porto de Split — onde os terminais de ferries ficam lado a lado com a estação ferroviária terminal da HŽ Putnički prijevoz — é o mais movimentado hub de passageiros do Adriático Oriental, irradiando linhas de alta frequência de ferries ro-pax e catamarãs para Supetar (Ilha de Brač), Stari Grad e Hvar (Ilha de Hvar), Vis, Vela Luka e Korčula, prosseguindo até o Porto de Gruž em Dubrovnik. Mais a norte, Zadar e Rijeka operam redes insulares densas no Golfo de Kvarner, além das travessias internacionais noturnas que cruzam o Adriático de Split e Zadar até Ancona e de Dubrovnik até Bari (Itália).",
+    "resumo_en": "With over 1,200 islands along the Adriatic coast, Croatia relies on the public maritime network operated by state company Jadrolinija alongside Krilo (Kapetan Luka) high-speed catamarans. The Port of Split — directly adjacent to Split's main HŽ railway station — serves as the busiest passenger ferry hub in the eastern Adriatic, connecting Supetar (Brač), Hvar, Vis and Korčula down to Dubrovnik, while Zadar and Rijeka anchor the northern island corridors as well as international Adriatic crossings to Ancona and Bari in Italy.",
+    "lat": 43.5038,
+    "lon": 16.4425,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "mmmpi-jadrolinija-port-split-croatia",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "croácia",
+      "jadrolinija",
+      "krilo",
+      "split",
+      "hvar",
+      "brač",
+      "korčula",
+      "dubrovnik",
+      "zadar",
+      "mar adriático",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jadrolinija_ferries_in_Split_harbour.jpg/800px-Jadrolinija_ferries_in_Split_harbour.jpg",
+      "credito": "Wikimedia Commons — Frota de ferries e catamarãs da Jadrolinija no Porto de Split (Costa Dálmata, Croácia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Jadrolinija"
+    },
+    "linhas": [
+      {
+        "id": "linha-jadrolinija-krilo-split-brac-hvar-korcula-dubrovnik",
+        "nome": "Eixo Insular da Dalmácia (Porto de Split – Supetar/Brač – Hvar – Korčula – Porto de Gruž, Dubrovnik)",
+        "status": "operacao",
+        "extensao_km": 215.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-adriatico-zadar-split-ancona-italia",
+        "nome": "Corredor Transadriático & Arquipélago de Zadar (Zadar Gaženica – Split – Ancona, Itália)",
+        "status": "operacao",
+        "extensao_km": 250.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+    "slug": "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+    "nome_pt": "Catamarã Rápido Twin City Liner (Viena–Bratislava), Barcos Urbanos BKK / MAHART no Rio Danúbio (Budapeste) e Ferries BAHART do Lago Balaton (Áustria, Eslováquia e Hungria)",
+    "nome_en": "Twin City Liner High-Speed Catamaran (Vienna–Bratislava), BKK / MAHART Danube River Boats (Budapest) & BAHART Lake Balaton Ferries (Austria, Slovakia & Hungary)",
+    "pais": "Hungria",
+    "cidade": "Budapeste, Visegrád, Esztergom, Szántód e Tihany (Hungria); Viena (Áustria) e Bratislava (Eslováquia)",
+    "uf": "Budapeste / Somogy / Veszprém / Viena / Bratislava",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Central Danube Region (Twin City Liner), BKK / MAHART PassNave (Budapeste) & BAHART — Balatoni Hajózási Zrt.",
+    "inauguracao": "1846 (Navegação regular de passageiros no Lago Balaton e no Rio Danúbio entre Viena, Bratislava e Budapeste; Twin City Liner inaugurado em 2006)",
+    "extensao_km": 210.0,
+    "bitola": "Hidrovia internacional do Rio Danúbio (Canal do Danúbio em Viena – Bratislava – Curva do Danúbio – Budapeste) e Lago Balaton",
+    "eletrificacao": "Catamarã de alta velocidade Twin City Liner (38 nós), barcos urbanos do Danúbio em Budapeste e novos ferries híbridos BAHART (Szántód e Tihany) no Lago Balaton",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 26000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 110 milhões (entrega dos 4 novos ferries e catamarãs de baixa emissão da BAHART no Lago Balaton e modernização dos píeres fluviais do Danúbio em Budapeste e Viena)",
+      "moeda": "EUR",
+      "fonte_id": "twin-city-liner-mahart-bahart-danube"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão das linhas metropolitanas de barcos da BKK/MAHART no trecho urbano do Danúbio em Budapeste e modernização dos terminais da Curva do Danúbio.",
+      "en": "Expansion of BKK/MAHART urban riverboat services along the Budapest Danube corridor and terminal upgrades on the Danube Bend."
+    },
+    "resumo_pt": "O Rio Danúbio forma a principal hidrovia internacional de passageiros da Europa Central, conectando três capitais vizinhas. Entre a Áustria e a Eslováquia — as duas capitais mais próximas da Europa —, o catamarã de alta velocidade Twin City Liner parte da estação Schwedenplatz (integrada às linhas U1 e U4 do Metrô de Viena no Donaukanal) e chega ao centro histórico de Bratislava em apenas 75 minutos. Já na Hungria, a estatal MAHART PassNave e a BKK operam os barcos urbanos e hidrofólios no coração de Budapeste (conectando Vigadó tér, Batthyány tér/Parlamento e Ilha Margarida até Szentendre, Visegrád e Esztergom na Curva do Danúbio), enquanto no Lago Balaton — o maior lago da Europa Central — a BAHART opera a travessia contínua de ferries ro-pax entre Szántód e a Península de Tihany (com os novos ferries híbridos Szántód e Tihany), além de catamarãs entre Siófok, Balatonfüred e Badacsony.",
+    "resumo_en": "The Danube River serves as Central Europe's premier international passenger waterway, linking three capital cities. Between Austria and Slovakia, the high-speed Twin City Liner catamaran connects Vienna Schwedenplatz (integrated with U-Bahn lines U1 and U4 on the Donaukanal) to downtown Bratislava in 75 minutes. In Hungary, MAHART PassNave and BKK run urban riverboats along the Danube through central Budapest (Vigadó tér, Parliament/Batthyány tér, Margaret Island) and the Danube Bend, while on Lake Balaton BAHART operates the continuous Szántód–Tihany ferry crossing and newly delivered hybrid catamarans.",
+    "lat": 47.498,
+    "lon": 19.045,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "twin-city-liner-mahart-bahart-danube",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "rio danúbio",
+      "twin city liner",
+      "viena",
+      "bratislava",
+      "budapeste",
+      "mahart",
+      "bkk",
+      "lago balaton",
+      "bahart",
+      "hungria",
+      "áustria",
+      "eslováquia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Twin_City_Liner_in_Bratislava.jpg/800px-Twin_City_Liner_in_Bratislava.jpg",
+      "credito": "Wikimedia Commons — Catamarã rápido Twin City Liner no Rio Danúbio (Viena–Bratislava) e barcos de Budapeste / Lago Balaton",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Twin_City_Liner"
+    },
+    "linhas": [
+      {
+        "id": "linha-twin-city-liner-danubio-viena-bratislava",
+        "nome": "Expresso Fluvial do Danúbio Twin City Liner (Viena Schwedenplatz, Áustria – Porto de Passageiros de Bratislava, Eslováquia)",
+        "status": "operacao",
+        "extensao_km": 68.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-danubio-budapeste-mahart-lago-balaton-szantod-tihany",
+        "nome": "Hidrovia Metropolitana do Danúbio em Budapeste (Esztergom – Visegrád – Vigadó tér) & Ferry do Lago Balaton (Szántód – Tihany)",
+        "status": "operacao",
+        "extensao_km": 142.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+    "slug": "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+    "nome_pt": "Ferries 100% Elétricos Øresundslinjen (Helsingør–Helsingborg), Movia Havnebus de Copenhague e Scandlines Rødby–Puttgarden (Dinamarca, Suécia e Alemanha)",
+    "nome_en": "Øresundslinjen 100% Electric Ferries (Helsingør–Helsingborg), Copenhagen Movia Harbour Bus & Scandlines Rødby–Puttgarden (Denmark, Sweden & Germany)",
+    "pais": "Dinamarca",
+    "cidade": "Copenhague, Helsingør e Rødbyhavn (Dinamarca); Helsingborg (Suécia) e Puttgarden / Fehmarn (Alemanha)",
+    "uf": "Hovedstaden / Sjælland / Skåne / Schleswig-Holstein",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Øresundslinjen (Molslinjen — ferries elétricos Aurora e Tycho Brahe), Movia (Copenhagen Harbour Bus 991/992) & Scandlines",
+    "inauguracao": "1892 (Travessia ferroviária-marítima Helsingør–Helsingborg no Estreito de Øresund e eletrificação 100% por baterias em 2018)",
+    "extensao_km": 58.0,
+    "bitola": "Estreito de Øresund (Helsingør–Helsingborg), Canal Portuário de Copenhague (Inderhavnen) e Estreito de Fehmarn (Rødby–Puttgarden)",
+    "eletrificacao": "Ferries 100% elétricos a bateria com recarga robótica automatizada de 10 MW nos portos (Aurora e Tycho Brahe), barcos elétricos Damen em Copenhague e ferries híbridos/elétricos da Scandlines",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 38000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 260 milhões (automação de recarga megawatt da Øresundslinjen, frota 100% elétrica do Havnebus de Copenhague e novo ferry elétrico Futura da Scandlines em Rødby–Puttgarden)",
+      "moeda": "EUR",
+      "fonte_id": "oresundslinjen-movia-scandlines-dk"
+    },
+    "proximas_entregas": {
+      "pt": "Operação plena do novo ferry ro-pax zero emissão PR24 'Futura' da Scandlines na rota Rødby–Puttgarden e expansão do Havnebus em Copenhague.",
+      "en": "Full commercial service of Scandlines' new PR24 zero-emission ferry 'Futura' on the Rødby–Puttgarden route and Havnebus expansion in Copenhagen."
+    },
+    "resumo_pt": "A Dinamarca é referência mundial absoluta na eletrificação de ferries de alta capacidade e ônibus aquáticos urbanos. No ponto mais estreito do Estreito de Øresund (apenas 4 km entre a Dinamarca e a Suécia), a Øresundslinjen opera a cada 15 minutos os grandes ferries ro-pax 100% elétricos Aurora af Helsingborg e Tycho Brahe entre Helsingør (integrado à estação da DSB/Lokaltog ao lado do Castelo de Kronborg) e Helsingborg Knutpunkten (hub ferroviário sueco), utilizando braços robóticos automáticos a laser que recarregam as baterias com 10 MW em apenas 5 a 9 minutos de atracação. No centro de Copenhague, a rede pública Movia opera as linhas 991 e 992 do Havnebus (ônibus aquáticos 100% elétricos com a mesma tarifa do Metrô de Copenhague) entre Refshaleøen, Nyhavn, Ópera, Biblioteca Real (Diamante Negro) e Teglholmen, enquanto ao sul a Scandlines opera a ponte marítima híbrida/elétrica Rødby–Puttgarden entre a Dinamarca e a Alemanha.",
+    "resumo_en": "Denmark is a global pioneer in all-electric high-capacity ferries and urban harbour buses. Across the 4 km narrows of the Øresund Strait between Helsingør (Denmark) and Helsingborg Knutpunkten (Sweden), Øresundslinjen runs the large 100% battery-electric ferries Aurora and Tycho Brahe every 15 minutes using automated 10 MW laser-guided shore-charging arms. In central Copenhagen, public transit agency Movia operates the all-electric Harbour Bus lines 991/992 integrated with the Copenhagen Metro fare system from Refshaleøen and Nyhavn to Teglholmen, while to the south Scandlines runs the hybrid/electric Rødby–Puttgarden corridor between Denmark and Germany.",
+    "lat": 56.0365,
+    "lon": 12.6155,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "oresundslinjen-movia-scandlines-dk",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "dinamarca",
+      "suécia",
+      "øresundslinjen",
+      "helsingør",
+      "helsingborg",
+      "copenhague",
+      "havnebus",
+      "scandlines",
+      "rødby",
+      "puttgarden",
+      "ferry elétrico",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tycho_Brahe_ferry_in_Helsingor.jpg/800px-Tycho_Brahe_ferry_in_Helsingor.jpg",
+      "credito": "Wikimedia Commons — Ferry 100% elétrico Tycho Brahe na travessia Helsingør–Helsingborg e Havnebus de Copenhague (Dinamarca/Suécia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Tycho_Brahe_(ship,_1991)"
+    },
+    "linhas": [
+      {
+        "id": "linha-oresundslinjen-helsingor-helsingborg-havnebus-copenhague",
+        "nome": "Ponte Elétrica do Øresund (Helsingør – Helsingborg) & Havnebus 991/992 do Porto de Copenhague (Refshaleøen – Nyhavn – Teglholmen)",
+        "status": "operacao",
+        "extensao_km": 28.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-scandlines-fehmarn-rodby-puttgarden-dinamarca-alemanha",
+        "nome": "Corredor Híbrido/Elétrico do Estreito de Fehmarn (Rødbyhavn, Dinamarca – Puttgarden, Alemanha)",
+        "status": "operacao",
+        "extensao_km": 30.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+    "slug": "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+    "nome_pt": "Mega-Catamarãs Rápidos Molslinjen no Kattegat (Aarhus–Sjællands Odde) e Bornholmslinjen no Mar Báltico (Rønne–Ystad / Køge, Dinamarca e Suécia)",
+    "nome_en": "Molslinjen High-Speed Mega-Catamarans on the Kattegat (Aarhus–Sjællands Odde) & Bornholmslinjen on the Baltic Sea (Rønne–Ystad / Køge, Denmark & Sweden)",
+    "pais": "Dinamarca",
+    "cidade": "Aarhus, Ebeltoft, Sjællands Odde, Køge e Rønne / Ilha de Bornholm (Dinamarca); Ystad (Suécia)",
+    "uf": "Midtjylland / Sjælland / Bornholm / Skåne",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Molslinjen A/S (Nordic Ferry Infrastructure — Express 1 a Express 5, os maiores catamarãs rápidos do mundo) & Bornholmslinjen / Alslinjen / Samsølinjen",
+    "inauguracao": "1966 (Mols-Linien no Mar de Kattegat e entrada em operação do Express 5 de 115 metros em Bornholm em 2023)",
+    "extensao_km": 245.0,
+    "bitola": "Hidrovia marítima de alta velocidade do Mar de Kattegat (Jutlândia–Zelândia) e do Mar Báltico Meridional (Bornholm–Suécia/Dinamarca)",
+    "eletrificacao": "Mega-catamarãs de alta velocidade Austal/Incat (Express 1 a Express 5, até 40 nós / 74 km/h) e ferries 100% elétricos Ellen (Ærø) e Nerthus/Tyrfing",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 29000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 310 milhões (incorporação do mega-catamarã Express 5 para Bornholm e encomenda dos novos ferries 100% elétricos da Alslinjen e Samsølinjen)",
+      "moeda": "EUR",
+      "fonte_id": "molslinjen-bornholmslinjen-dk"
+    },
+    "proximas_entregas": {
+      "pt": "Projetos de catamarãs rápidos movidos a hidrogênio/e-metanol e expansão dos ferries 100% elétricos nas rotas domésticas dinamarquesas.",
+      "en": "Hydrogen/e-methanol high-speed catamaran projects and expansion of all-electric ferries across domestic Danish island routes."
+    },
+    "resumo_pt": "Operada pelo grupo Molslinjen, a malha de catamarãs de alta velocidade da Dinamarca utiliza os maiores catamarãs ro-pax do planeta (série Express 1 a Express 5, com até 115 metros de comprimento, capacidade para 1.610 passageiros e 450 carros a 74 km/h) como verdadeiras pontes flutuantes entre as regiões do país. No Mar de Kattegat, a rota principal conecta o porto de Aarhus (segunda maior cidade dinamarquesa, na Jutlândia) a Sjællands Odde (Ilha da Zelândia) em apenas 70 minutos, economizando mais de 150 km de viagem terrestre. Já no Mar Báltico, a Bornholmslinjen utiliza o gigantesco Express 5 e o ferry Hammershus para ligar Rønne (capital da ilha dinamarquesa de Bornholm) ao porto sueco de Ystad (em 80 minutos, com conexão direta de trem para Copenhague pela Ponte de Øresund) e ao porto dinamarquês de Køge.",
+    "resumo_en": "Operated by Molslinjen, Denmark's high-speed maritime network deploys the world's largest roll-on/roll-off fast catamarans (Express 1 through Express 5, up to 115 meters long carrying 1,610 passengers and 450 cars at 74 km/h). Across the Kattegat Sea, Molslinjen connects Aarhus (Jutland) with Sjællands Odde (Zealand) in just 70 minutes, while in the Baltic Sea Bornholmslinjen links Rønne on Bornholm Island with Ystad in Sweden (80 minutes, with direct rail connections to Copenhagen) and Køge in Denmark.",
+    "lat": 56.1615,
+    "lon": 10.2255,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "molslinjen-bornholmslinjen-dk",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "molslinjen",
+      "bornholmslinjen",
+      "aarhus",
+      "sjællands odde",
+      "bornholm",
+      "rønne",
+      "ystad",
+      "express 5",
+      "kattegat",
+      "dinamarca",
+      "suécia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/KatExpress_1_Aarhus.jpg/800px-KatExpress_1_Aarhus.jpg",
+      "credito": "Wikimedia Commons — Mega-catamarã de alta velocidade da Molslinjen / Bornholmslinjen em Aarhus e Bornholm (Dinamarca)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Molslinjen"
+    },
+    "linhas": [
+      {
+        "id": "linha-molslinjen-kattegat-aarhus-sjaellands-odde",
+        "nome": "Ponte Rápida do Kattegat — Molslinjen (Porto de Aarhus, Jutlândia – Sjællands Odde, Zelândia)",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-bornholmslinjen-ronne-ystad-koge-baltico",
+        "nome": "Corredor de Alta Velocidade de Bornholm (Rønne, Ilha de Bornholm – Ystad, Suécia & Køge, Dinamarca)",
+        "status": "operacao",
+        "extensao_km": 150.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia",
+    "slug": "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia",
+    "nome_pt": "Tramwaj Wodny da Baía de Gdańsk (Gdańsk–Sopot–Gdynia–Hel) e Corredor de Ferries Ferro-Marítimos Świnoujście–Ystad / Trelleborg (Polônia e Suécia)",
+    "nome_en": "Bay of Gdańsk Water Tram (Gdańsk–Sopot–Gdynia–Hel) & Świnoujście–Ystad / Trelleborg Rail-Sea Ferry Corridor (Poland & Sweden)",
+    "pais": "Polônia",
+    "cidade": "Gdańsk, Sopot, Gdynia, Hel e Świnoujście (Polônia); Ystad, Trelleborg e Karlskrona (Suécia)",
+    "uf": "Pomerânia / Pomerânia Ocidental / Skåne / Blekinge",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Żegluga Gdańska / ZTM Gdańsk (Tramwaj Wodny F5/F6), Miejska Komunikacja Wodna Świnoujście (Bielik) & Unity Line / Polferries / TT-Line / Stena Line",
+    "inauguracao": "1946 (Fundação da Żegluga Gdańska na Baía de Gdańsk e inauguração da linha de ferries ferroviários Świnoujście–Ystad em 1964)",
+    "extensao_km": 285.0,
+    "bitola": "Baía de Gdańsk / Rio Motława (Tricidade), Canal do Rio Świna (Świnoujście) e hidrovia internacional do Mar Báltico Sul",
+    "eletrificacao": "Novos ferries ro-pax movidos a GNL/híbridos (Jantar Unity / Varsovia), barcas urbanas Bielik e catamarãs da Baía de Gdańsk",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 25000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 480 milhões (construção dos 3 novos ferries ro-pax híbridos GNL no Estaleiro de Gdańsk para o corredor Świnoujście–Ystad/Trelleborg e modernização intermodal do Porto de Świnoujście)",
+      "moeda": "EUR",
+      "fonte_id": "zegluga-gdanska-unity-line-polferries-pl"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação comercial da nova geração de ro-pax poloneses híbridos a GNL na rota Świnoujście–Ystad/Trelleborg.",
+      "en": "Entry into service of Poland's new generation of LNG-hybrid ro-pax ferries on the Świnoujście–Ystad/Trelleborg Baltic corridor."
+    },
+    "resumo_pt": "Na costa báltica da Polônia, o transporte aquaviário combina linhas urbanas e turísticas de alta demanda na Tricidade (Trójmiasto: Gdańsk, Sopot e Gdynia) com um dos mais importantes corredores de ferries ferroviários e ro-pax do Mar Báltico. Na Baía de Gdańsk e no Rio Motława, a Żegluga Gdańska e a ZTM Gdańsk operam os catamarãs e o 'Tramwaj Wodny' (Bonde Aquático linhas F5 e F6), conectando o centro histórico de Gdańsk (Targ Rybny) a Westerplatte, Sopot, Gdynia e à Península de Hel. Já no extremo noroeste polonês, o Porto de Świnoujście conta com as barcas municipais gratuitas 'Bielik' e 'Karsibór' (cruzando o canal do Rio Świna) e abriga o grande terminal intermodal de onde partem os navios da Unity Line, Polferries e TT-Line — incluindo ferries ferroviários que transportam vagões de trem — rumo a Ystad e Trelleborg, na Suécia, além da rota Gdynia–Karlskrona operada pela Stena Line.",
+    "resumo_en": "Along Poland's Baltic coast, water transport combines urban water trams and catamarans in the Tricity (Gdańsk, Sopot and Gdynia) with a strategic rail-and-road ferry corridor to Sweden. In the Bay of Gdańsk and on the Motława River, Żegluga Gdańska and ZTM Gdańsk operate the 'Tramwaj Wodny' (Water Tram) and fast catamarans linking historic Gdańsk, Westerplatte, Sopot, Gdynia and the Hel Peninsula. In northwestern Poland, the Port of Świnoujście runs free municipal 'Bielik' urban ferries across the Świna channel alongside the major Unity Line, Polferries and TT-Line ro-pax and rail-ferry hub linking Świnoujście with Ystad and Trelleborg in Sweden.",
+    "lat": 54.352,
+    "lon": 18.6585,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "zegluga-gdanska-unity-line-polferries-pl",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "polônia",
+      "gdańsk",
+      "gdynia",
+      "sopot",
+      "península de hel",
+      "tramwaj wodny",
+      "świnoujście",
+      "ystad",
+      "trelleborg",
+      "unity line",
+      "polferries",
+      "mar báltico",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Zegluga_Gdanska_catamaran_Opal_in_Gdansk.jpg/800px-Zegluga_Gdanska_catamaran_Opal_in_Gdansk.jpg",
+      "credito": "Wikimedia Commons — Catamarã da Żegluga Gdańska / Tramwaj Wodny em Gdańsk e ferries do Báltico em Świnoujście (Polônia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:%C5%BBegluga_Gda%C5%84ska"
+    },
+    "linhas": [
+      {
+        "id": "linha-tramwaj-wodny-baia-de-gdansk-gdynia-hel",
+        "nome": "Tramwaj Wodny & Catamarãs da Baía de Gdańsk (Gdańsk Targ Rybny – Westerplatte – Sopot – Gdynia – Península de Hel)",
+        "status": "operacao",
+        "extensao_km": 65.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-baltico-swinoujscie-ystad-trelleborg-polonia-suecia",
+        "nome": "Corredor Ferro-Marítimo do Báltico Sul (Terminal de Ferries de Świnoujście, Polônia – Ystad / Trelleborg, Suécia)",
+        "status": "operacao",
+        "extensao_km": 220.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
