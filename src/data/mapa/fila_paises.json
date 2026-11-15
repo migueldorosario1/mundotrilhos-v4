@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T12:45:00-03:00",
+  "atualizado_em": "2026-11-15T13:16:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2269,17 +2269,18 @@
       "status": "concluido",
       "concluido_em": "2026-11-15T12:45:00-03:00",
       "ronda": 148
+    },
+    {
+      "ordem": 145,
+      "pais": "Fase Hidroviária Mundial #35 — América do Sul Fluvial, Estuarina e Insular III (Hidrovia dos Rios Mamoré, Beni e Madre de Dios Trinidad–Guayaramerín–Riberalta na Bolívia; Hidrovia do Alto Paraguai e Pantanal Concepcion–Fuerte Olimpo–Bahía Negra com o navio Aquidabán no Paraguai; Lanchas de Tumaco–Guapi–Buenaventura e Rio Atrato Quibdó–Turbo no Pacífico/Caribe da Colômbia; Travessia de Chacao Pargua–Chacao na Ilha Grande de Chiloé e Quellón–Chaitén no Chile; e Travessia de Cumaná–Punta de Piedras Ilha de Margarita e Rio Orinoco Ciudad Bolívar–Soledad na Venezuela)",
+      "codigo": "HIDRO-AMERICA-DO-SUL-FLUVIAL-MARITIMA-III",
+      "continente": "América do Sul",
+      "status": "concluido",
+      "concluido_em": "2026-11-15T13:16:00-03:00",
+      "ronda": 149
     }
   ],
   "fila_proximas_rondas": [
-    {
-      "ordem": 145,
-      "codigo": "HIDRO-AMERICA-DO-SUL-FLUVIAL-MARITIMA-III",
-      "pais": "Fase Hidroviária Mundial #35 — América do Sul Fluvial, Estuarina e Insular III (Hidrovia dos Rios Mamoré, Beni e Madre de Dios Trinidad–Guayaramerín–Riberalta na Bolívia; Hidrovia do Alto Paraguai e Pantanal Concepcion–Fuerte Olimpo–Bahía Negra com o navio Aquidabán no Paraguai; Lanchas de Tumaco–Guapi–Buenaventura e Rio Atrato Quibdó–Turbo no Pacífico/Caribe da Colômbia; Travessia de Chacao Pargua–Chacao na Ilha Grande de Chiloé e Quellón–Chaitén no Chile; e Travessia de Cumaná–Punta de Piedras Ilha de Margarita e Rio Orinoco Ciudad Bolívar–Soledad na Venezuela)",
-      "continente": "América do Sul",
-      "prioridade": "alta",
-      "status": "pendente"
-    },
     {
       "ordem": 146,
       "codigo": "HIDRO-MEDITERRANEO-EGEU-ADRIATICO-IBERIA-III",
@@ -2309,6 +2310,14 @@
       "codigo": "HIDRO-OCEANIA-MELANESIA-MICRONESIA-POLINESIA-NOVA-ZELANDIA-III",
       "pais": "Fase Hidroviária Mundial #39 — Oceania, Melanésia, Micronésia, Polinésia e Nova Zelândia III (Interislander & BlueBridge Wellington–Picton no Estreito de Cook, Stewart Island Experience Bluff–Oban e East by West Ferry Wellington na Nova Zelândia; Spencer Gulf Searoads Wallaroo–Lucky Bay e Kangaroo Island Connect na Austrália; Aremiti / Terevau Tahiti–Moorea e Apetahi Express Bora Bora–Raiatea–Huahine na Polinésia Francesa; e Patterson Brothers / Goundar Shipping Natovi–Nabouwalu em Fiji e Lady Naomi Apia–Pago Pago em Samoa)",
       "continente": "Oceania",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 150,
+      "codigo": "HIDRO-ESCANDINAVIA-BALTICO-FIORDES-ARTICO-EUROPEU-III",
+      "pais": "Fase Hidroviária Mundial #40 — Escandinávia, Fiordes da Noruega, Mar Báltico e Ártico Europeu III (Hurtigruten & Havila Kystruten Bergen–Trondheim–Bodø–Tromsø–Kirkenes, Ferries Elétricos Norled/Fjord1 de Sognefjord/Geirangerfjord e Bodø–Moskenes/Lofoten na Noruega; Waxholmsbolaget & SL Pendelbåtar 80/82/89 no Arquipélago de Estocolmo e Styrsöbolaget em Gotemburgo na Suécia; Ålandstrafiken nos Arquipélagos de Åland e Turku Saaristo na Finlândia; e Molslinjen Aarhus–Odden, Samsø, Bornholm e Smyril Line Norröna Dinamarca–Ilhas Faroé–Islândia)",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     }
