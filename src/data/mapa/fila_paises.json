@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T06:45:00-03:00",
+  "atualizado_em": "2026-11-15T07:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2125,16 +2125,24 @@
         "jadrolinija-krilo-mia-ferries-zadar-preko-ugljan-dugi-otok-losinj-sibenik-zlarin-kaprije-croacia",
         "saronic-ferries-blue-star-aero-highspeed-piraeus-aegina-poros-hydra-spetses-rafina-andros-tinos-mykonos-grecia"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 133,
       "pais": "Fase Hidroviária Mundial #25 — Sudeste Asiático Insular e Estreitos II (ASDP Ferries Merak–Bakauheni no Estreito de Sunda, Ketapang–Gilimanuk Bali–Java e Padangbai–Lembar Lombok–Nusa Penida na Indonésia; Montenegro/OceanJet Batangas–Calapan Mindoro, Dumaguete–Siquijor e Iloilo–Guimaras nas Filipinas; e Ferries de Langkawi Kuala Perlis/Kuala Kedah–Kuah, Labuan–Menumbok e Ilha de Tioman na Malásia)",
       "codigo": "HIDRO-SUDESTE-ASIATICO-INDONESIA-FILIPINAS-MALASIA-II",
       "continente": "Ásia",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "asdp-indonesia-ferry-estreito-de-sunda-merak-bakauheni-estreito-de-bali-ketapang-gilimanuk-indonesia",
+        "ferries-estreito-de-lombok-padangbai-lembar-fast-boats-sanur-nusa-penida-nusa-lembongan-gili-indonesia",
+        "batangas-calapan-puerto-galera-mindoro-ferries-montenegro-fastcat-starlite-2go-filipinas",
+        "visayas-ferries-iloilo-guimaras-dumaguete-siquijor-cebu-bohol-oceanjet-supercat-lite-filipinas",
+        "langkawi-ferry-line-kuala-perlis-kuala-kedah-kuah-labuan-menumbok-tioman-mersing-malasia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 134,
       "pais": "Fase Hidroviária Mundial #26 — Escandinávia, Mar Báltico e Ártico Europeu II (Torghatten Nord Bodø–Moskenes/Lofoten, Ferries de Geiranger–Hellesylt e Lysefjord na Noruega; Destination Gotland Nynäshamn/Oskarshamn–Visby e Ventrafiken Landskrona–Ilha de Ven na Suécia; Bornholmslinjen Ystad/Køge–Rønne e Læsøfærgen Frederikshavn–Læsø na Dinamarca; e Eckerö Line Helsinque–Tallinn e Finferries Korpo–Houtskär–Nagu na Finlândia/Estônia)",

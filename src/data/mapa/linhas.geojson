@@ -47276,6 +47276,336 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-asdp-estreito-de-sunda-merak-java-bakauheni-sumatra",
+        "nome": "Ponte Ro-Pax 24h do Estreito de Sunda — ASDP Reguler & Eksekutif (Porto e Estação KAI de Merak, Java – Terminal de Bakauheni, Lampung, Sumatra)",
+        "sistema_id": "asdp-indonesia-ferry-estreito-de-sunda-merak-bakauheni-estreito-de-bali-ketapang-gilimanuk-indonesia",
+        "sistema_nome": "Ponte Ro-Pax Nacional da Indonésia — ASDP Indonesia Ferry no Estreito de Sunda (Merak–Bakauheni: Java–Sumatra) e no Estreito de Bali (Ketapang–Gilimanuk: Java–Bali)",
+        "pais": "Indonésia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Ponte marítima ro-pax 24h Java–Sumatra (ASDP Indonesia Ferry)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.9985,
+            -5.9315
+          ],
+          [
+            105.7535,
+            -5.8715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-asdp-estreito-de-bali-ketapang-banyuwangi-gilimanuk-bali",
+        "nome": "Ponte Ferro-Marítima 24h do Estreito de Bali — ASDP Indonesia Ferry (Porto e Estação KAI de Ketapang, Banyuwangi, Java Oriental – Porto de Gilimanuk, Bali)",
+        "sistema_id": "asdp-indonesia-ferry-estreito-de-sunda-merak-bakauheni-estreito-de-bali-ketapang-gilimanuk-indonesia",
+        "sistema_nome": "Ponte Ro-Pax Nacional da Indonésia — ASDP Indonesia Ferry no Estreito de Sunda (Merak–Bakauheni: Java–Sumatra) e no Estreito de Bali (Ketapang–Gilimanuk: Java–Bali)",
+        "pais": "Indonésia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 30.0,
+        "bitola": "Ponte marítima ro-pax 24h Java–Bali (ASDP Indonesia Ferry)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.3985,
+            -8.1445
+          ],
+          [
+            114.4355,
+            -8.1635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-badung-sanur-harbour-nusa-lembongan-nusa-penida-bali",
+        "nome": "Expresso do Estreito de Badung (Terminal Marítimo Pelabuhan Sanur, Denpasar – Jungutbatu, Nusa Lembongan – Banjar Nyuh / Sampalan, Nusa Penida)",
+        "sistema_id": "ferries-estreito-de-lombok-padangbai-lembar-fast-boats-sanur-nusa-penida-nusa-lembongan-gili-indonesia",
+        "sistema_nome": "Ferries do Estreito de Lombok (Padangbai–Lembar / Nusa Penida) e Lanchas Rápidas de Sanur Harbour (Bali – Nusa Penida, Nusa Lembongan e Ilhas Gili, Indonésia)",
+        "pais": "Indonésia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 55.0,
+        "bitola": "Lanchas rápidas do Estreito de Badung (Pelabuhan Sanur–Nusa Penida)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.2635,
+            -8.6725
+          ],
+          [
+            115.4425,
+            -8.6745
+          ],
+          [
+            115.5125,
+            -8.6795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-lombok-padangbai-lembar-ilhas-gili-trawangan-bangsal",
+        "nome": "Ponte Marítima do Estreito de Lombok e Ilhas Gili (Porto de Padangbai, Bali – Porto de Lembar, Lombok & Gili Trawangan / Gili Air – Bangsal)",
+        "sistema_id": "ferries-estreito-de-lombok-padangbai-lembar-fast-boats-sanur-nusa-penida-nusa-lembongan-gili-indonesia",
+        "sistema_nome": "Ferries do Estreito de Lombok (Padangbai–Lembar / Nusa Penida) e Lanchas Rápidas de Sanur Harbour (Bali – Nusa Penida, Nusa Lembongan e Ilhas Gili, Indonésia)",
+        "pais": "Indonésia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 130.0,
+        "bitola": "Ferries ro-pax ASDP e lanchas rápidas no Estreito de Lombok"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.5095,
+            -8.5325
+          ],
+          [
+            116.0745,
+            -8.7275
+          ],
+          [
+            116.0425,
+            -8.3525
+          ],
+          [
+            116.0995,
+            -8.3935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-batangas-port-calapan-puerto-galera-abra-de-ilog-mindoro",
+        "nome": "Tronco da Passagem da Ilha Verde — FastCat, Montenegro, Starlite & OceanJet (Porto de Batangas, Luzon – Porto de Calapan, Puerto Galera e Abra de Ilog, Mindoro)",
+        "sistema_id": "batangas-calapan-puerto-galera-mindoro-ferries-montenegro-fastcat-starlite-2go-filipinas",
+        "sistema_nome": "Autoestrada Náutica de Luzon–Mindoro — Porto Internacional de Batangas para Calapan, Puerto Galera e Romblon (FastCat, Montenegro, Starlite, OceanJet e 2GO, Filipinas)",
+        "pais": "Filipinas",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Autoestrada Náutica Ocidental das Filipinas (Batangas–Mindoro)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.0445,
+            13.7545
+          ],
+          [
+            121.1795,
+            13.4285
+          ],
+          [
+            120.9545,
+            13.5025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-batangas-port-odiongan-tablas-romblon-mar-de-sibuyan",
+        "nome": "Corredor de MIMAROPA e Mar de Sibuyan — 2GO Travel & Starlite Ferries (Porto de Batangas – Porto de Poctoy, Odiongan, Ilha de Tablas / Romblon)",
+        "sistema_id": "batangas-calapan-puerto-galera-mindoro-ferries-montenegro-fastcat-starlite-2go-filipinas",
+        "sistema_nome": "Autoestrada Náutica de Luzon–Mindoro — Porto Internacional de Batangas para Calapan, Puerto Galera e Romblon (FastCat, Montenegro, Starlite, OceanJet e 2GO, Filipinas)",
+        "pais": "Filipinas",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115.0,
+        "bitola": "Rota ro-pax de Batangas para a Província de Romblon"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.0445,
+            13.7545
+          ],
+          [
+            121.9845,
+            12.4045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-iloilo-parola-wharf-jordan-buenavista-guimaras-bacolod",
+        "nome": "Travessia Metropolitana do Estreito de Iloilo e Guimaras (Parola Wharf & Fast Craft Terminal, Iloilo City – Portos de Jordan e Buenavista, Ilha de Guimaras)",
+        "sistema_id": "visayas-ferries-iloilo-guimaras-dumaguete-siquijor-cebu-bohol-oceanjet-supercat-lite-filipinas",
+        "sistema_nome": "Ferries e Catamarãs das Ilhas Visayas — Iloilo–Guimaras (Parola–Jordan/Buenavista) e Triângulo Cebu–Bohol–Dumaguete–Siquijor (OceanJet, SuperCat e Lite Ferries, Filipinas)",
+        "pais": "Filipinas",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 35.0,
+        "bitola": "Barcas metropolitanas do Estreito de Iloilo (Panay–Guimaras)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.5735,
+            10.6945
+          ],
+          [
+            122.5895,
+            10.6625
+          ],
+          [
+            122.6285,
+            10.6985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-visayas-centrais-oceanjet-cebu-tagbilaran-bohol-siquijor-dumaguete",
+        "nome": "Expresso do Mar de Bohol — OceanJet & Lite Ferries (Porto de Dumaguete, Negros – Porto de Siquijor/Larena – Porto de Tagbilaran, Bohol – Cebu Pier 1)",
+        "sistema_id": "visayas-ferries-iloilo-guimaras-dumaguete-siquijor-cebu-bohol-oceanjet-supercat-lite-filipinas",
+        "sistema_nome": "Ferries e Catamarãs das Ilhas Visayas — Iloilo–Guimaras (Parola–Jordan/Buenavista) e Triângulo Cebu–Bohol–Dumaguete–Siquijor (OceanJet, SuperCat e Lite Ferries, Filipinas)",
+        "pais": "Filipinas",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 190.0,
+        "bitola": "Catamarãs rápidos OceanJet no Mar de Bohol e Estreito de Cebu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.3115,
+            9.3085
+          ],
+          [
+            123.5125,
+            9.2165
+          ],
+          [
+            123.8515,
+            9.6485
+          ],
+          [
+            123.9085,
+            10.2925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-langkawi-ferry-line-kuala-perlis-kuala-kedah-kuah-jetty-malasia",
+        "nome": "Pontes Marítimas de Langkawi — Langkawi Ferry Line & Ro-Ro (Terminais de Kuala Perlis e Kuala Kedah – Kuah Jetty Point & Porto de Tanjung Lembung, Ilha de Langkawi)",
+        "sistema_id": "langkawi-ferry-line-kuala-perlis-kuala-kedah-kuah-labuan-menumbok-tioman-mersing-malasia",
+        "sistema_nome": "Ferries Insulares da Malásia — Langkawi Ferry Line (Kuala Perlis e Kuala Kedah – Kuah), Ferries de Labuan–Menumbok/Brunei (Bornéu) e Mersing–Ilha de Tioman",
+        "pais": "Malásia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115.0,
+        "bitola": "Ferries expressos e ro-ro para o Arquipélago de Langkawi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.1295,
+            6.4005
+          ],
+          [
+            99.8515,
+            6.3065
+          ],
+          [
+            100.2885,
+            6.1055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-tioman-mersing-labuan-menumbok-sabah-borneu-malasia",
+        "nome": "Rotas do Mar do Sul da China e Baía de Brunei (Mersing – Ilha de Tioman Tekek & Terminal Ro-Pax de Labuan – Menumbok, Sabah / Muara, Brunei)",
+        "sistema_id": "langkawi-ferry-line-kuala-perlis-kuala-kedah-kuah-labuan-menumbok-tioman-mersing-malasia",
+        "sistema_nome": "Ferries Insulares da Malásia — Langkawi Ferry Line (Kuala Perlis e Kuala Kedah – Kuah), Ferries de Labuan–Menumbok/Brunei (Bornéu) e Mersing–Ilha de Tioman",
+        "pais": "Malásia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 175.0,
+        "bitola": "Catamarãs de Tioman e ferries ro-pax da Ilha de Labuan em Bornéu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.8445,
+            2.4345
+          ],
+          [
+            104.1585,
+            2.8165
+          ],
+          [
+            115.2425,
+            5.2765
+          ],
+          [
+            115.3625,
+            5.3085
+          ]
+        ]
+      }
     }
   ]
 }
