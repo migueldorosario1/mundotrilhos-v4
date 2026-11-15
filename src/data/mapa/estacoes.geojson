@@ -35531,6 +35531,366 @@
           -6.4115
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-aquatico-sp-cantinho-do-ceu-grajau",
+        "nome": "Terminal Hidroviário Cantinho do Céu — Grajaú (Aquático-SP / SPTrans, São Paulo)",
+        "sistema_id": "sistema-aquaviario-represa-billings-aquatico-sp-cantinho-do-ceu-parque-marajoara-sao-paulo-brasil",
+        "linha_id": "linha-aquatico-sp-sptrans-cantinho-do-ceu-parque-marajoara-billings",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6625,
+          -23.7435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-aquatico-sp-parque-marajoara-pedreira",
+        "nome": "Terminal Hidroviário Parque Marajoara — Pedreira (Aquático-SP / SPTrans, São Paulo)",
+        "sistema_id": "sistema-aquaviario-represa-billings-aquatico-sp-cantinho-do-ceu-parque-marajoara-sao-paulo-brasil",
+        "linha_id": "linha-aquatico-sp-sptrans-cantinho-do-ceu-parque-marajoara-billings",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6585,
+          -23.6945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-balsa-emae-ilha-do-borore-sp",
+        "nome": "Terminal da Balsa da Ilha do Bororé (EMAE — Represa Billings, São Paulo)",
+        "sistema_id": "sistema-aquaviario-represa-billings-aquatico-sp-cantinho-do-ceu-parque-marajoara-sao-paulo-brasil",
+        "linha_id": "linha-travessias-balsas-emae-ilha-do-borore-taquacetuba-billings",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6825,
+          -23.7655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-balsa-emae-taquacetuba-sbc",
+        "nome": "Terminal da Balsa do Taquacetuba (EMAE — Represa Billings, São Bernardo do Campo)",
+        "sistema_id": "sistema-aquaviario-represa-billings-aquatico-sp-cantinho-do-ceu-parque-marajoara-sao-paulo-brasil",
+        "linha_id": "linha-travessias-balsas-emae-ilha-do-borore-taquacetuba-billings",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6215,
+          -23.8025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-metro-jardim-oceanico-lagoa-da-tijuca-rj",
+        "nome": "Deck Hidroviário Metrô Jardim Oceânico (Conexão Linha 4 MetrôRio, Barra da Tijuca, RJ)",
+        "sistema_id": "barcas-taxis-maritimos-lagoa-da-tijuca-jardim-oceanico-barra-da-tijuca-sepetiba-itacuruca-rio-de-janeiro-brasil",
+        "linha_id": "linha-hidroviaria-lagunar-barra-da-tijuca-jardim-oceanico-ilha-da-gigoia-marapendi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3095,
+          -23.0055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-ilha-da-gigoia-barra-da-tijuca-rj",
+        "nome": "Embarcadouro Central da Ilha da Gigóia (Lagoa da Tijuca, Rio de Janeiro)",
+        "sistema_id": "barcas-taxis-maritimos-lagoa-da-tijuca-jardim-oceanico-barra-da-tijuca-sepetiba-itacuruca-rio-de-janeiro-brasil",
+        "linha_id": "linha-hidroviaria-lagunar-barra-da-tijuca-jardim-oceanico-ilha-da-gigoia-marapendi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3145,
+          -23.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-itacuruca-baia-de-sepetiba-rj",
+        "nome": "Píer Hidroviário de Itacuruçá (Baía de Sepetiba, Mangaratiba, RJ)",
+        "sistema_id": "barcas-taxis-maritimos-lagoa-da-tijuca-jardim-oceanico-barra-da-tijuca-sepetiba-itacuruca-rio-de-janeiro-brasil",
+        "linha_id": "linha-travessias-baia-de-sepetiba-itacuruca-ilha-de-itacuruca-jaguanum",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.8895,
+          -22.9315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-ilha-de-jaguanum-baia-sepetiba-rj",
+        "nome": "Atracadouro da Ilha de Jaguanum (Baía de Sepetiba, Mangaratiba, RJ)",
+        "sistema_id": "barcas-taxis-maritimos-lagoa-da-tijuca-jardim-oceanico-barra-da-tijuca-sepetiba-itacuruca-rio-de-janeiro-brasil",
+        "linha_id": "linha-travessias-baia-de-sepetiba-itacuruca-ilha-de-itacuruca-jaguanum",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9285,
+          -23.0015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-tototos-mercados-aracaju-se",
+        "nome": "Atracadouro dos Tototós — Mercados Centrais de Aracaju (Rio Sergipe, SE)",
+        "sistema_id": "travessias-hidroviarias-estuario-sergipe-aracaju-barra-dos-coqueiros-indias-santa-luzia-mangue-seco-se-ba-brasil",
+        "linha_id": "linha-tototos-rio-sergipe-mercados-aracaju-barra-dos-coqueiros",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0485,
+          -10.9095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-atracadouro-barra-dos-coqueiros-se",
+        "nome": "Terminal Hidroviário dos Tototós da Barra dos Coqueiros (Sergipe)",
+        "sistema_id": "travessias-hidroviarias-estuario-sergipe-aracaju-barra-dos-coqueiros-indias-santa-luzia-mangue-seco-se-ba-brasil",
+        "linha_id": "linha-tototos-rio-sergipe-mercados-aracaju-barra-dos-coqueiros",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0385,
+          -10.9055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-atracadouro-terra-caida-indiaroba-se",
+        "nome": "Terminal Hidroviário de Terra Caída / Pontal (Indiaroba, Rio Real, Sergipe)",
+        "sistema_id": "travessias-hidroviarias-estuario-sergipe-aracaju-barra-dos-coqueiros-indias-santa-luzia-mangue-seco-se-ba-brasil",
+        "linha_id": "linha-hidrovia-estuario-rio-real-porto-do-mato-terra-caida-mangue-seco",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.3925,
+          -11.4985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-mangue-seco-jandaira-ba",
+        "nome": "Píer Hidroviário de Mangue Seco (Jandaíra, Divisa BA/SE, Bahia)",
+        "sistema_id": "travessias-hidroviarias-estuario-sergipe-aracaju-barra-dos-coqueiros-indias-santa-luzia-mangue-seco-se-ba-brasil",
+        "linha_id": "linha-hidrovia-estuario-rio-real-porto-do-mato-terra-caida-mangue-seco",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.3685,
+          -11.4585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferry-boat-cabedelo-vlt-pb",
+        "nome": "Terminal do Ferry-Boat de Cabedelo (Ao lado da Estação VLT Cabedelo CBTU, Paraíba)",
+        "sistema_id": "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
+        "linha_id": "linha-ferry-boat-estuario-rio-paraiba-cabedelo-costinha-lucena-forte-velho",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8395,
+          -6.9745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ferry-boat-costinha-lucena-pb",
+        "nome": "Terminal Hidroviário de Costinha — Lucena (Foz do Rio Paraíba, Paraíba)",
+        "sistema_id": "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
+        "linha_id": "linha-ferry-boat-estuario-rio-paraiba-cabedelo-costinha-lucena-forte-velho",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8625,
+          -6.9655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-forte-orange-itamaraca-coroa-do-aviao-pe",
+        "nome": "Atracadouro do Forte Orange — Ilha de Itamaracá / Coroa do Avião (Pernambuco)",
+        "sistema_id": "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
+        "linha_id": "linha-travessias-costeiras-pernambuco-itamaraca-coroa-do-aviao-tamandare-carneiros",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8285,
+          -7.8095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-tamandare-carneiros-santo-aleixo-pe",
+        "nome": "Embarcadouro de Tamandaré e Praia dos Carneiros (Litoral Sul de Pernambuco)",
+        "sistema_id": "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
+        "linha_id": "linha-travessias-costeiras-pernambuco-itamaraca-coroa-do-aviao-tamandare-carneiros",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0915,
+          -8.7055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-balsa-itapiranga-barra-do-guarita-sc-rs",
+        "nome": "Terminal da Balsa Interestadual Itapiranga (SC) – Barra do Guarita (RS) (Rio Uruguai)",
+        "sistema_id": "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina",
+        "linha_id": "linha-travessias-interestaduais-alto-uruguai-itapiranga-barra-do-guarita-porto-soberbo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7125,
+          -27.1695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-soberbo-tiradentes-do-sul-el-soberbio-rs",
+        "nome": "Porto Internacional de Balsas de Porto Soberbo (RS) – El Soberbio (Misiones, AR)",
+        "sistema_id": "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina",
+        "linha_id": "linha-travessias-interestaduais-alto-uruguai-itapiranga-barra-do-guarita-porto-soberbo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1985,
+          -27.2985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-internacional-porto-maua-alba-posse-rs",
+        "nome": "Porto Internacional de Balsas de Porto Mauá (RS) – Alba Posse (Misiones, AR)",
+        "sistema_id": "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina",
+        "linha_id": "linha-travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6685,
+          -27.5755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-internacional-porto-xavier-san-javier-rs",
+        "nome": "Porto Internacional de Balsas de Porto Xavier (RS) – San Javier (Misiones, AR)",
+        "sistema_id": "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina",
+        "linha_id": "linha-travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1385,
+          -27.9055
+        ]
+      }
     }
   ]
 }
