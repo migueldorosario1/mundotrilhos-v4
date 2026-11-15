@@ -1366,6 +1366,23 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.544 páginas estáticas geradas** (`npm run build` com código 0).
 - **Próxima Ronda (#145 / Ordem 141 da Fila)**: `HIDRO-ASIA-MERIDIONAL-INDIA-BANGLADESH-MALDIVAS-II` (Fase Hidroviária Mundial #32 — Ásia Meridional, Golfo de Bengala e Oceano Índico II: Índia, Bangladesh e Maldivas).
 
+### #146 — 15/11/2026 11:19 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #145 CONCLUÍDA EM PRODUÇÃO (`commit` na `main`, `2554 page(s) built`): ORDEM 141 DA FILA — FASE HIDROVIÁRIA MUNDIAL #32 (ÁSIA MERIDIONAL, GOLFO DE BENGALA, ARQUIPÉLAGOS INDIANOS E BACIA INDO-GANGÉTICA II — MARCO HISTÓRICO DE 2.200 ESTAÇÕES E TERMINAIS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 141 Concluída (`HIDRO-ASIA-MERIDIONAL-INDIA-BANGLADESH-MALDIVAS-II`) — 5 sistemas hidroviários de barcos e ferries (`3.380 km`, 10 linhas, 25 terminais)**:
+  1. `dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india` (🇮🇳 Índia — Frota Pública DSS e Catamarãs Makruzz/Nautika nas Ilhas Andaman e Nicobar Port Blair/Sri Vijaya Puram–Swaraj Dweep/Havelock–Shaheed Dweep/Neil–Diglipur e Navios-Ferries dos Atóis de Lakshadweep Kochi–Kavaratti–Agatti–Minicoy, `1.120 km`, 2 linhas, 5 terminais)
+  2. `river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india` (🇮🇳 Índia — Rede Pública de Ferry-Boats RND de Goa nos Rios Mandovi e Zuari Panaji–Betim, Ribandar–Ilha de Chorão e São Pedro–Ilha de Divar e Balsas Ro-Ro da Suvarnadurg Shipping na Costa de Konkan em Maharashtra Dighi–Agardanda, Dabhol–Dhopave e Jaigad–Tawsal, `380 km`, 2 linhas, 5 terminais)
+  3. `nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india` (🇮🇳 Índia — Hidrovia Nacional 1 do Rio Ganges Varanasi–Patna–Sahibganj, Travessia Ro-Pax de Kakdwip–Kachuberia na Ilha Sagar nos Sundarbans e Ferries Ro-Pax do Lago Chilika Satapada–Janikuda em Odisha, `690 km`, 2 linhas, 5 terminais)
+  4. `biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar` (🇧🇩🇲🇲 Bangladesh e Mianmar — Travessias Ro-Ro BIWTC da Confluência Padma–Jamuna Paturia–Daulatdia e Aricha–Kazirhat, Lanchas de Cox's Bazar–Ilha de Moheshkhali e Ferries IWT do Rio Yangon Pansodan–Dala e Rio Irrawaddy Mandalay–Bagan, `560 km`, 2 linhas, 5 terminais)
+  5. `jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao` (🇱🇰🇲🇻🇵🇰 Sri Lanka, Maldivas e Paquistão — Ferries do Arquipélago de Jaffna Kurikadduwan–Nainativu–Ilha de Delft, Expresso RTL das Maldivas Austrais Addu City–Fuvahmulah–Atol de Huvadhu e Travessia Portuária de Karachi Kemari–Ilha de Manora, `630 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa**:
+  - **929 sistemas no banco** (**913 em operação**, sendo **193 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.299 linhas mapeadas** (**1.280 em operação**, sendo **385 linhas hidroviárias de barcos/ferries**)
+  - **2.200 estações e terminais geolocalizados** — marco histórico exato de **2.200 estações e terminais** (**766 terminais hidroviários de barcos/ferries**!)
+  - **2.554 páginas estáticas geradas** (`npm run build` com código 0).
+- **Próxima Ronda (#146 / Ordem 142 da Fila)**: `HIDRO-ORIENTE-MEDIO-GOLFO-MAR-VERMELHO-NORTE-AFRICA-II` (Fase Hidroviária Mundial #33 — Oriente Médio, Golfo Pérsico, Mar Vermelho e Mediterrâneo Oriental II).
+
+
 
 
 
