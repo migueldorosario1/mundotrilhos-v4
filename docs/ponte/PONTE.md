@@ -1414,6 +1414,23 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.574 páginas estáticas geradas** (`npm run build` com código 0).
 - **Próxima Ronda (#148 / Ordem 144 da Fila)**: `HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-IX` (Fase Hidroviária Brasil #9 — Travessias Costeiras, Estuarinas e Fluviais Complementares do Brasil).
 
+### #149 — 15/11/2026 12:50 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #148 CONCLUÍDA EM PRODUÇÃO (`commit` na `main`, `2584 page(s) built`): ORDEM 144 DA FILA — FASE HIDROVIÁRIA BRASIL #9 (TRAVESSIAS COSTEIRAS, ESTUARINAS E FLUVIAIS COMPLEMENTARES DO BRASIL: ALTO SOLIMÕES/JAVARI AM, BAÍA DE PARANAGUÁ/GUARAQUEÇABA PR, LAGO DE SOBRADINHO/MÉDIO SÃO FRANCISCO BA, ALTO RIO PARANÁ PR/MS E APA COSTA DOS CORAIS AL/PE)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 144 Concluída (`HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-IX`) — 5 sistemas hidroviários brasileiros de barcos, lanchas e balsas (`2.070 km`, 10 linhas, 25 terminais)**:
+  1. `hidrovia-alto-solimoes-rio-ica-tefe-fonte-boa-jutai-santo-antonio-do-ica-benjamin-constant-tabatinga-am-brasil` (🇧🇷 Brasil — Amazonas: Lanchas Expressas AJATO e Navios-Recreio do Alto Solimões, Rio Içá e Rio Javari Tefé–Fonte Boa–Jutaí–Tonantins–Santo Antônio do Içá–São Paulo de Olivença–Benjamin Constant–Atalaia do Norte, `920 km`, 2 linhas, 5 terminais)
+  2. `travessias-lanchas-baia-de-paranagua-antonina-guaraquecaba-superagui-ilha-das-pecas-paranagua-pr-brasil` (🇧🇷 Brasil — Paraná: Lanchas Rápidas e Barcos de Linha do Complexo Estuarino de Paranaguá, Antonina e Guaraqueçaba Paranaguá–Antonina–Vila de Sebuí–Guaraqueçaba–Ilha das Peças–Barra do Superagui, `185 km`, 2 linhas, 5 terminais)
+  3. `travessias-balsas-lago-de-sobradinho-medio-sao-francisco-remanso-pilao-arcado-sento-se-casa-nova-bom-jesus-da-lapa-ba-brasil` (🇧🇷 Brasil — Bahia: Travessias de Balsas Ro-Ro e Barcos do Lago de Sobradinho e Médio São Francisco Sento Sé–Remanso–Pilão Arcado–Casa Nova e Sítio do Mato–Bom Jesus da Lapa–Carinhanha/Malhada, `540 km`, 2 linhas, 5 terminais)
+  4. `travessias-balsas-rio-parana-rio-paranapanema-porto-rico-porto-camargo-icaraima-querencia-do-norte-rosana-pr-sp-ms-brasil` (🇧🇷 Brasil — Paraná, Mato Grosso do Sul e São Paulo: Travessias Hidroviárias e Balsas do Alto Rio Paraná e Parque Nacional de Ilha Grande Porto São José–Porto Rico–Porto Felício/Querência do Norte–Bataiporã e Porto Camargo/Icaraíma–Porto Caiuá/Naviraí, `260 km`, 2 linhas, 5 terminais)
+  5. `travessias-hidroviarias-costa-dos-corais-porto-de-pedras-japaratinga-maragogi-tamandare-ilha-de-santo-aleixo-al-pe-brasil` (🇧🇷 Brasil — Alagoas e Pernambuco: Travessia de Balsas do Rio Manguaba Porto de Pedras–Japaratinga, Catamarãs de Maragogi e Travessias Estuarinas do Rio Formoso/Carneiros–Tamandaré–Barra de Sirinhaém–Ilha de Santo Aleixo na APA Costa dos Corais, `165 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa**:
+  - **944 sistemas no banco** (**928 em operação**, sendo **208 sistemas de transporte por barco/ferries** — **48 sistemas hidroviários no Brasil**! + 16 não-operacionais preservados intactos)
+  - **1.329 linhas mapeadas** (**1.310 em operação**, sendo **415 linhas hidroviárias de barcos/ferries**)
+  - **2.275 estações e terminais geolocalizados** (**841 terminais hidroviários de barcos/ferries**)
+  - **2.584 páginas estáticas geradas** (`npm run build` com código 0).
+- **Próxima Ronda (#149 / Ordem 145 da Fila)**: `HIDRO-AMERICA-DO-SUL-FLUVIAL-MARITIMA-III` (Fase Hidroviária Mundial #35 — América do Sul Fluvial, Estuarina e Insular III).
+
+
 
 
 
