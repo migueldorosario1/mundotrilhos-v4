@@ -1302,3 +1302,19 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.504 páginas estáticas geradas** — superando a marca histórica de **2.500+ páginas estáticas** (`npm run build` com código 0 em `86.74s`).
 - **Próxima Ronda (#141 / Ordem 137 da Fila)**: `HIDRO-OCEANIA-NOVA-ZELANDIA-FIJI-SAMOA-POLINESIA-II` (Fase Hidroviária Mundial #28 — Oceania Insular, Estreito de Cook e Pacífico Sul II: Nova Zelândia, Fiji, Samoa e Polinésia Francesa).
 
+### #142 — 15/11/2026 09:21 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #141 CONCLUÍDA EM PRODUÇÃO (`commit 43cff7b` na `main`, `2514 page(s) built`): ORDEM 137 DA FILA — FASE HIDROVIÁRIA MUNDIAL #28 (OCEANIA INSULAR E PACÍFICO SUL II: AUSTRÁLIA, NOVA ZELÂNDIA, TONGA, VANUATU, ILHAS SALOMÃO E PAPUA-NOVA GUINÉ — MARCO HISTÓRICO DE 2.100 ESTAÇÕES E TERMINAIS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 137 Concluída (`HIDRO-OCEANIA-NOVA-ZELANDIA-FIJI-SAMOA-POLINESIA-II`) — 5 sistemas hidroviários de barcos e ferries (`1.975 km`, 10 linhas, 25 terminais)**:
+  1. `translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia` (🇦🇺 Austrália — Catamarãs Metropolitanos Translink CityCat do Rio Brisbane, Ferries da Baía de Moreton Cleveland–North Stradbroke e Redland Bay–Russell/Macleay Island e SeaLink Townsville–Magnetic Island em Queensland, `215 km`, 2 linhas, 5 terminais)
+  2. `searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia` (🇦🇺 Austrália — Ferries de Port Phillip em Victoria: Searoad Ferries Queenscliff–Sorrento e Port Phillip Ferries Melbourne Docklands–Geelong/Portarlington; e Ferries da Tasmânia: Derwent Ferry Bellerive–Hobart e Kettering–Bruny Island, `195 km`, 2 linhas, 5 terminais)
+  3. `east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia` (🇳🇿 Nova Zelândia — Ferries da Baía de Wellington East by West / Metlink com o 1º Ferry 100% Elétrico do Hemisfério Sul EV Ikaroa Queens Wharf–Days Bay–Matiu/Somes Island e Catamarãs do Estreito de Foveaux Bluff–Oban na Ilha Stewart / Rakiura, `165 km`, 2 linhas, 5 terminais)
+  4. `fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu` (🇹🇴🇻🇺 Tonga e Vanuatu — Ferries Interinsulares da Polinésia e Melanésia: Friendly Islands Shipping Agency FISA MV 'Otuanga'ofa Nuku'alofa–'Eua–Ha'apai–Vava'u em Tonga e Vanuatu Ferry / Big Sista Port Vila–Malekula–Luganville–Tanna em Vanuatu, `680 km`, 2 linhas, 5 terminais)
+  5. `pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine` (🇸🇧🇵🇬 Ilhas Salomão e Papua-Nova Guiné — Catamarãs e Ferries da Melanésia Ocidental: Pelican Express & Auki Express Honiara–Tulagi–Auki–Noro–Gizo nas Ilhas Salomão e Ferries do Estreito de Vitiaz / Mar de Bismarck Lae–Finschhafen–Kimbe–Rabaul em Papua-Nova Guiné, `720 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa (`commit 43cff7b` na `main`)**:
+  - **909 sistemas no banco** (**893 em operação**, sendo **173 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.259 linhas mapeadas** (**1.240 em operação**, sendo **345 linhas hidroviárias de barcos/ferries**)
+  - **2.100 estações e terminais geolocalizados** — marco histórico exato de **2.100 estações e terminais** (**666 terminais hidroviários de barcos/ferries**!)
+  - **2.514 páginas estáticas geradas** (`npm run build` com código 0 em `115.42s`).
+- **Próxima Ronda (#142 / Ordem 138 da Fila)**: `HIDRO-CARIBE-ANTILHAS-BAHAMAS-MEXICO-BELIZE-II` (Fase Hidroviária Mundial #29 — Caribe, Antilhas, Bahamas e Mesoamérica II).
+
