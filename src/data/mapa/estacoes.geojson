@@ -38411,6 +38411,366 @@
           -16.9985
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-das-balsas-penedo-sao-francisco-al-br",
+        "nome": "Porto das Balsas e Lanchas de Penedo — Baixo Rio São Francisco (Penedo, Alagoas, Brasil)",
+        "sistema_id": "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+        "linha_id": "linha-baixo-sao-francisco-penedo-neopolis-santana-piacabucu-al-se",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5885,
+          -10.2925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-atracadouro-neopolis-santana-sao-francisco-se-br",
+        "nome": "Terminal Hidroviário de Neópolis & Santana do São Francisco (Baixo São Francisco, Sergipe, Brasil)",
+        "sistema_id": "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+        "linha_id": "linha-baixo-sao-francisco-penedo-neopolis-santana-piacabucu-al-se",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5785,
+          -10.3185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-fluvial-xique-xique-sao-francisco-ba-br",
+        "nome": "Cais Fluvial e Rampa de Balsas de Xique-Xique — Médio Rio São Francisco (Bahia, Brasil)",
+        "sistema_id": "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+        "linha_id": "linha-medio-sao-francisco-xique-xique-barra-ibotirama-bom-jesus-da-lapa-ba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7315,
+          -10.8225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-de-barra-bom-jesus-da-lapa-sao-francisco-ba-br",
+        "nome": "Cais Histórico da Cidade de Barra & Bom Jesus da Lapa (Rio São Francisco, Bahia, Brasil)",
+        "sistema_id": "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+        "linha_id": "linha-medio-sao-francisco-xique-xique-barra-ibotirama-bom-jesus-da-lapa-ba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1415,
+          -11.0885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-geral-de-corumba-ladario-pantanal-ms-br",
+        "nome": "Cais Histórico do Porto Geral de Corumbá e Ladário — Hidrovia do Rio Paraguai (Pantanal, MS, Brasil)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+        "linha_id": "linha-hidrovia-rio-paraguai-sul-corumba-ladario-porto-esperanca-porto-murtinho-ms",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6515,
+          -18.9995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-esperanca-porto-da-manga-pantanal-ms-br",
+        "nome": "Atracadouro Ribeirinho de Porto Esperança e Porto da Manga — Rio Paraguai (Corumbá, MS, Brasil)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+        "linha_id": "linha-hidrovia-rio-paraguai-sul-corumba-ladario-porto-esperanca-porto-murtinho-ms",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4425,
+          -19.6055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-porto-murtinho-paraguai-ms-br",
+        "nome": "Terminal Hidroviário Internacional de Porto Murtinho — Travessia para Carmelo Peralta (Rio Paraguai, MS, Brasil)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+        "linha_id": "linha-hidrovia-rio-paraguai-sul-corumba-ladario-porto-esperanca-porto-murtinho-ms",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8865,
+          -21.6985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-marechal-rondon-caceres-alto-paraguai-mt-br",
+        "nome": "Cais do Porto de Cáceres & Porto Jofre — Alto Rio Paraguai (Pantanal Norte, Mato Grosso, Brasil)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+        "linha_id": "linha-hidrovia-rio-paraguai-norte-corumba-amolar-porto-jofre-caceres-ms-mt",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6845,
+          -16.0715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-atracadouro-balsa-bertioga-centro-dh-sp-br",
+        "nome": "Atracadouro de Balsas de Bertioga Centro — DH / Semil-SP (Canal de Bertioga, SP, Brasil)",
+        "sistema_id": "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+        "linha_id": "linha-dh-sp-travessia-bertioga-guaruja-rabo-do-dragao",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1385,
+          -23.8545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-atracadouro-rabo-do-dragao-guaruja-dh-sp-br",
+        "nome": "Atracadouro Rabo do Dragão — Guarujá / Serra do Guararu SP-061 (DH / Semil-SP, Brasil)",
+        "sistema_id": "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+        "linha_id": "linha-dh-sp-travessia-bertioga-guaruja-rabo-do-dragao",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1355,
+          -23.8585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-cananeia-mar-pequeno-sp-br",
+        "nome": "Terminal de Balsas e Lanchas de Cananéia — DH / Semil-SP (Mar Pequeno / Lagamar, SP, Brasil)",
+        "sistema_id": "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+        "linha_id": "linha-dh-sp-lagamar-cananeia-ilha-comprida-ilha-do-cardoso-ariri",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9255,
+          -25.0145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-boqueirao-sul-ilha-comprida-cardoso-dh-sp-br",
+        "nome": "Atracadouro Boqueirão Sul de Ilha Comprida & Píer do Marujá / Ilha do Cardoso (DH / Semil-SP, Brasil)",
+        "sistema_id": "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+        "linha_id": "linha-dh-sp-lagamar-cananeia-ilha-comprida-ilha-do-cardoso-ariri",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9125,
+          -25.0165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-do-porto-de-camocim-rio-coreau-ce-br",
+        "nome": "Cais das Barcas e Rampa de Balsas de Camocim — Estuário do Rio Coreaú (Camocim, Ceará, Brasil)",
+        "sistema_id": "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+        "linha_id": "linha-camocim-ilha-do-amor-tatajuba-guriu-rio-coreau-ce",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8415,
+          -2.9005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rampa-ilha-do-amor-testa-branca-camocim-ce-br",
+        "nome": "Atracadouro da Ilha do Amor (Testa Branca) — Rota de Dunas para Tatajuba e Jericoacoara (Camocim, CE, Brasil)",
+        "sistema_id": "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+        "linha_id": "linha-camocim-ilha-do-amor-tatajuba-guriu-rio-coreau-ce",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8295,
+          -2.8935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-porto-dos-tatus-parnaiba-pi-br",
+        "nome": "Terminal Hidroviário do Porto dos Tatus — Ilha Grande / Parnaíba (Delta do Rio Parnaíba, Piauí, Brasil)",
+        "sistema_id": "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+        "linha_id": "linha-hidrovia-delta-do-parnaiba-porto-dos-tatus-ilha-das-canarias-tutoia-pi-ma",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8215,
+          -2.8485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-ilha-das-canarias-tutoia-delta-ma-br",
+        "nome": "Cais da Ilha das Canárias (Araioses) & Porto de Tutoia — Delta do Parnaíba (Maranhão, Brasil)",
+        "sistema_id": "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+        "linha_id": "linha-hidrovia-delta-do-parnaiba-porto-dos-tatus-ilha-das-canarias-tutoia-pi-ma",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8625,
+          -2.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-estacao-hidroviaria-historica-rio-grande-rs-br",
+        "nome": "Estação Hidroviária Histórica de Rio Grande — Lanchas de Passageiros (Lagoa dos Patos, RS, Brasil)",
+        "sistema_id": "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil",
+        "linha_id": "linha-lanchas-passageiros-rio-grande-sao-jose-do-norte-lagoa-dos-patos-rs",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0945,
+          -32.0285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-estacao-hidroviaria-sao-jose-do-norte-rs-br",
+        "nome": "Estação Hidroviária Central de São José do Norte — Lanchas de Passageiros (Lagoa dos Patos, RS, Brasil)",
+        "sistema_id": "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil",
+        "linha_id": "linha-lanchas-passageiros-rio-grande-sao-jose-do-norte-lagoa-dos-patos-rs",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0425,
+          -32.0145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsas-henrique-pancada-rio-grande-rs-br",
+        "nome": "Terminal de Balsas de Veículos da Rua Henrique Pancada — Rio Grande (Estuário da Lagoa dos Patos, RS, Brasil)",
+        "sistema_id": "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil",
+        "linha_id": "linha-balsas-veiculos-rio-grande-henrique-pancada-sao-jose-do-norte-ilha-marinheiros-rs",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1125,
+          -32.0365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsas-ponta-da-praia-sao-jose-do-norte-rs-br",
+        "nome": "Terminal de Balsas da Ponta da Praia — Início da BR-101 em São José do Norte (RS, Brasil)",
+        "sistema_id": "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil",
+        "linha_id": "linha-balsas-veiculos-rio-grande-henrique-pancada-sao-jose-do-norte-ilha-marinheiros-rs",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0495,
+          -32.0195
+        ]
+      }
     }
   ]
 }
