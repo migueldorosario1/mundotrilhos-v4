@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T00:45:00-03:00",
+  "atualizado_em": "2026-11-15T01:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1945,16 +1945,24 @@
         "travessias-hidroviarias-cabedelo-lucena-costinha-forte-velho-rio-paraiba-pernambuco-fernando-de-noronha-pb-pe-brasil",
         "travessias-internacionais-rio-uruguai-porto-maua-alba-posse-porto-xavier-san-javier-sao-borja-itapiranga-rs-sc-argentina"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 121,
       "pais": "Fase Hidroviária Mundial #14 — Atlântico Norte, Ilhas Faroé, Islândia e Báltico Oriental (Strandfaraskip Landsins SSL e Smyril Line nas Ilhas Faroé, Herjólfur Vestmannaeyjar e Baldur Breiðafjörður na Islândia, TS Laevad / Kihnu Veeteed Saaremaa–Hiiumaa–Kihnu na Estônia, Smiltynės Perkėla Klaipėda–Neringa na Lituânia e Destination Gotland Nynäshamn–Visby na Suécia)",
       "codigo": "HIDRO-EUROPA-NORTE-ATLANTICO",
       "continente": "Europa",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "strandfaraskip-landsins-ssl-torshavn-suduroy-smyril-line-norrona-ilhas-faroe-dinamarca-islandia",
+        "herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-hrisey-islandia",
+        "ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-heltermaa-hiiumaa-estonia",
+        "smiltynes-perkela-klaipeda-curonian-spit-neringa-nida-nemunas-delta-lituania",
+        "destination-gotland-nynashamn-oskarshamn-visby-olandsbron-ventrafiken-hven-suecia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 122,
       "pais": "Fase Hidroviária Mundial #15 — Mediterrâneo Ocidental, Ilhas Baleares, Canárias, Córsega, Malta e Tunísia (Baleària e Trasmediterránea Maiorca–Ibiza–Formentera–Menorca, Fred. Olsen e Naviera Armas nas Ilhas Canárias, Corsica Linea e La Méridionale na Córsega, Gozo Channel e Valletta Ferry Services em Malta e Ferries de Djerba/Sfax–Kerkennah na Tunísia)",

@@ -43241,6 +43241,344 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ssl-ilhas-faroe-torshavn-suduroy-klaksvik-kalsoy",
+        "nome": "Rede Inter-Ilhas das Faroé — SSL (Rota 7 Tórshavn – Krambatangi / Suðuroy & Rota 56 Klaksvík – Syðradalur / Kalsoy)",
+        "sistema_id": "strandfaraskip-landsins-ssl-torshavn-suduroy-smyril-line-norrona-ilhas-faroe-dinamarca-islandia",
+        "sistema_nome": "Strandfaraskip Landsins — SSL (Tórshavn–Suðuroy–Ilhas do Norte) e Smyril Line MS Norröna (Hirtshals–Tórshavn–Seyðisfjörður, Ilhas Faroé, Dinamarca e Islândia)",
+        "pais": "Ilhas Faroé (Dinamarca)",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Hidrovia pública inter-ilhas das Faroé (Strandfaraskip Landsins SSL)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.5895,
+            62.2265
+          ],
+          [
+            -6.7715,
+            62.0075
+          ],
+          [
+            -6.8095,
+            61.5545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-smyril-line-norrona-hirtshals-torshavn-seydisfjordur",
+        "nome": "Ponte Marítima do Atlântico Norte — Smyril Line MS Norröna (Hirtshals, Dinamarca – Tórshavn, Ilhas Faroé – Seyðisfjörður, Islândia)",
+        "sistema_id": "strandfaraskip-landsins-ssl-torshavn-suduroy-smyril-line-norrona-ilhas-faroe-dinamarca-islandia",
+        "sistema_nome": "Strandfaraskip Landsins — SSL (Tórshavn–Suðuroy–Ilhas do Norte) e Smyril Line MS Norröna (Hirtshals–Tórshavn–Seyðisfjörður, Ilhas Faroé, Dinamarca e Islândia)",
+        "pais": "Ilhas Faroé (Dinamarca)",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1425.0,
+        "bitola": "Ponte marítima ro-pax do Atlântico Norte (Smyril Line MS Norröna)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9625,
+            57.5925
+          ],
+          [
+            -6.7715,
+            62.0075
+          ],
+          [
+            -14.0015,
+            65.2615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-islandia-sul-oeste-herjolfur-vestmannaeyjar-baldur-breidafjordur",
+        "nome": "Corredor Sul e Oeste da Islândia (Ferry Elétrico Herjólfur Landeyjahöfn – Vestmannaeyjar & Ferry Baldur Stykkishólmur – Flatey – Brjánslækur)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-hrisey-islandia",
+        "sistema_nome": "Ferries Costeiros e Árticos da Islândia (Herjólfur Elétrico Vestmannaeyjar, Baldur Breiðafjörður / Westfjords e Sæfari Hrísey–Grímsey no Círculo Polar Ártico)",
+        "pais": "Islândia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 175.0,
+        "bitola": "Rotas marítimas públicas da Vegagerðin (Herjólfur IV Elétrico & Ferry Baldur)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -20.1215,
+            63.5285
+          ],
+          [
+            -20.2715,
+            63.4425
+          ],
+          [
+            -22.7285,
+            65.0755
+          ],
+          [
+            -23.1885,
+            65.5315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-islandia-artico-saefari-dalvik-hrisey-grimsey-circulo-polar",
+        "nome": "Corredor Ártico do Norte da Islândia — Ferry Sæfari (Dalvík / Árskógssandur – Ilha de Hrísey – Ilha de Grímsey no Círculo Polar Ártico)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-hrisey-islandia",
+        "sistema_nome": "Ferries Costeiros e Árticos da Islândia (Herjólfur Elétrico Vestmannaeyjar, Baldur Breiðafjörður / Westfjords e Sæfari Hrísey–Grímsey no Círculo Polar Ártico)",
+        "pais": "Islândia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 110.0,
+        "bitola": "Hidrovia ártica de Eyjafjörður ao Círculo Polar Ártico (Ferry Sæfari)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -18.5285,
+            65.9715
+          ],
+          [
+            -18.3815,
+            65.9985
+          ],
+          [
+            -18.0175,
+            66.5415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ts-laevad-virtsu-kuivastu-saaremaa-munalaiu-kihnu-estonia",
+        "nome": "Ponte Marítima de Saaremaa e Golfo de Riga (TS Laevad Virtsu – Kuivastu / Muhu–Saaremaa & Kihnu Veeteed Munalaiu – Kihnu)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-heltermaa-hiiumaa-estonia",
+        "sistema_nome": "TS Laevad / Praamid (Virtsu–Kuivastu Muhu/Saaremaa e Rohuküla–Heltermaa Hiiumaa) e Kihnu Veeteed (Arquipélago Ocidental da Estônia)",
+        "pais": "Estônia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Autoestrada marítima de Saaremaa e Kihnu (TS Laevad M/S Tõll Híbrido)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.5085,
+            58.5745
+          ],
+          [
+            23.3925,
+            58.5735
+          ],
+          [
+            23.9885,
+            58.1415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ts-laevad-rohukula-heltermaa-hiiumaa-soru-triigi-estonia",
+        "nome": "Ponte Marítima de Hiiumaa e Mar de Väinameri (TS Laevad Rohuküla – Heltermaa & Kihnu Veeteed Sõru – Triigi)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-heltermaa-hiiumaa-estonia",
+        "sistema_nome": "TS Laevad / Praamid (Virtsu–Kuivastu Muhu/Saaremaa e Rohuküla–Heltermaa Hiiumaa) e Kihnu Veeteed (Arquipélago Ocidental da Estônia)",
+        "pais": "Estônia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 80.0,
+        "bitola": "Autoestrada marítima de Hiiumaa (TS Laevad M/S Leiger / Tiiu)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.4245,
+            58.9055
+          ],
+          [
+            23.0465,
+            58.8665
+          ],
+          [
+            22.5225,
+            58.6935
+          ],
+          [
+            22.7165,
+            58.5915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-smiltynes-perkela-klaipeda-antigo-novo-terminal-smiltyne",
+        "nome": "Travessias Urbanas do Estreito de Klaipėda — Smiltynės Perkėla (Senoji Perkėla – Smiltynė & Naujoji Perkėla – Istmo da Curlândia)",
+        "sistema_id": "smiltynes-perkela-klaipeda-curonian-spit-neringa-nida-nemunas-delta-lituania",
+        "sistema_nome": "Smiltynės Perkėla (Ferries Klaipėda–Istmo da Curlândia / Neringa) e Hidrovias da Lagoa da Curlândia e Delta do Rio Nemunas (Lituânia)",
+        "pais": "Lituânia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 10.0,
+        "bitola": "Travessias urbanas e ro-pax do Estreito de Klaipėda (AB Smiltynės Perkėla)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.1245,
+            55.7065
+          ],
+          [
+            21.1165,
+            55.7045
+          ],
+          [
+            21.1395,
+            55.6695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lagoa-da-curlandia-klaipeda-juodkrante-nida-minge-nemunas",
+        "nome": "Hidrovia da Lagoa da Curlândia e Delta do Nemunas (Klaipėda / Smiltynė – Juodkrantė – Nida – Mingė / Uostadvaris)",
+        "sistema_id": "smiltynes-perkela-klaipeda-curonian-spit-neringa-nida-nemunas-delta-lituania",
+        "sistema_nome": "Smiltynės Perkėla (Ferries Klaipėda–Istmo da Curlândia / Neringa) e Hidrovias da Lagoa da Curlândia e Delta do Rio Nemunas (Lituânia)",
+        "pais": "Lituânia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 85.0,
+        "bitola": "Hidrovia lagunar da Curlândia e Delta do Nemunas (Neringa UNESCO)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.1245,
+            55.7065
+          ],
+          [
+            21.1245,
+            55.5345
+          ],
+          [
+            21.0065,
+            55.3035
+          ],
+          [
+            21.2695,
+            55.3445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-destination-gotland-norte-nynashamn-visby-farosund-faro",
+        "nome": "Corredor Norte de Gotland (Terminal Ferro-Marítimo de Nynäshamn / Estocolmo – Porto de Visby & Travessia Fårösund – Ilha de Fårö)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-olandsbron-ventrafiken-hven-suecia",
+        "sistema_nome": "Destination Gotland (Ferries Rápidos a GNL Nynäshamn / Estocolmo – Visby e Oskarshamn – Visby) e Travessias de Fårö e Ven (Suécia)",
+        "pais": "Suécia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 185.0,
+        "bitola": "Autoestrada marítima nacional sueca (Destination Gotland M/S Visborg GNL)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9515,
+            58.9015
+          ],
+          [
+            18.2845,
+            57.6345
+          ],
+          [
+            19.0625,
+            57.8645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-destination-gotland-sul-oskarshamn-visby-mar-baltico",
+        "nome": "Corredor Sul de Gotland — Destination Gotland (Porto de Oskarshamn, Småland – Terminal de Ferries de Visby, Gotland)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-olandsbron-ventrafiken-hven-suecia",
+        "sistema_nome": "Destination Gotland (Ferries Rápidos a GNL Nynäshamn / Estocolmo – Visby e Oskarshamn – Visby) e Travessias de Fårö e Ven (Suécia)",
+        "pais": "Suécia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150.0,
+        "bitola": "Autoestrada marítima do Báltico Central (Destination Gotland M/S Gotland)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4585,
+            57.2625
+          ],
+          [
+            18.2845,
+            57.6345
+          ]
+        ]
+      }
     }
   ]
 }
