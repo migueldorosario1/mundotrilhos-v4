@@ -2434,7 +2434,15 @@
       "pais": "Fase Hidroviária Mundial #45 — Ásia Oriental, Rio Yangtzé, Delta do Rio das Pérolas, Mar Interior de Seto e Coreia IV (Wuhan Yangtze & Han River Ferries, Chongqing Two Rivers Ferry e Eclusas das Três Gargantas–Yichang na China; Chu Kong Passenger Transport CKS Shenzhen Shekou–Aeroporto de Hong Kong–Macau–Zhuhai Jiuzhou e Xiamen–Gulangyu Ferry na China; Shikoku Ferry Takamatsu–Uno, Meiko Kisen Ise-Wan Ferry Toba–Irago e Sado Kisen Niigata–Ryotsu no Japão; e Mokpo–Hongdo–Heuksando e Yeosu–Geomundo na Coreia do Sul)",
       "continente": "Ásia",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 160,
+      "sistemas_adicionados": [
+        "chongqing-two-rivers-ferry-three-gorges-waterway-yichang-fengjie-wanzhou-nanjing-yangtze-ferry-china",
+        "chu-kong-cks-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-xiamen-gulangyu-electric-ferry-china",
+        "sado-kisen-jetfoil-niigata-ryotsu-ise-wan-ferry-toba-irago-suruga-bay-ferry-shimizu-toi-kyushu-shosen-nagasaki-goto-japao",
+        "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
+        "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao"
+      ]
     },
     {
       "ordem": 157,
@@ -2465,6 +2473,14 @@
       "codigo": "HIDRO-SUL-DA-ASIA-INDIA-BANGLADESH-SRI-LANKA-MALDIVAS-IV",
       "pais": "Fase Hidroviária Mundial #49 — Sul da Ásia, Índia, Bangladesh, Sri Lanka e Maldivas IV (Kochi Water Metro 100% Elétrico e KSINC/SWTD nos Backwaters de Kerala em Alappuzha–Kollam–Kottayam na Índia; Ferries de Mumbai Gateway of India–Elephanta–Mandwa/Alibaug M2M Ro-Pax e Port Blair–Havelock–Neil nas Ilhas Andaman; RTL Raajje Transport Link e MTCC Malé–Hulhumalé–Villingili–Maafushi nas Maldivas; Jaffna Ferries Kurikadduwan–Nainativu–Delft e Ponte Marítima Nagapattinam–Kankesanthurai no Sri Lanka e Índia; e BIWTC Mongla–Khulna–Sundarbans em Bangladesh)",
       "continente": "Ásia",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 161,
+      "codigo": "HIDRO-AMERICA-DO-SUL-ANDINA-PATAGONIA-PRATA-AMAZONIA-IV",
+      "pais": "Fase Hidroviária Mundial #50 — América do Sul Andina, Patagônia, Bacia do Prata e Amazônia Continental IV (Lanchas Colectivas do Delta do Paraná em Tigre e Balsas Internacionais dos Rios Paraná e Paraguai Corpus–Bella Vista e Puerto Pilcomayo–Itá Enramada na Argentina e Paraguai; Transbordadores da Carretera Austral Hornopirén–Leptepu–Fiordo Largo–Caleta Gonzalo, Canal de Chacao Pargua–Chacao e Navimag Puerto Montt–Puerto Natales no Chile; Hidrovias dos Rios Napo e Putumayo Puerto Francisco de Orellana/Coca–Nuevo Rocafuerte–Iquitos no Equador, Colômbia e Peru; e Travessias dos Rios Essequibo, Demerara, Berbice, Corentyne e Maroni na Guiana, Suriname e Guiana Francesa)",
+      "continente": "América do Sul",
       "prioridade": "alta",
       "status": "pendente"
     }

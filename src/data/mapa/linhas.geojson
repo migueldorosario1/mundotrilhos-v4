@@ -56408,6 +56408,446 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-medio-yangtze-chongqing-chaotianmen-wanzhou-fengjie-tres-gargantas-yichang",
+        "nome": "Barcas de Chongqing (Chaotianmen–Jiangbeizui–Danzishi) e Hidrovia das Três Gargantas: Chongqing – Wanzhou – Fengjie – Elevador das Três Gargantas – Yichang",
+        "sistema_id": "chongqing-two-rivers-ferry-three-gorges-waterway-yichang-fengjie-wanzhou-nanjing-yangtze-ferry-china",
+        "sistema_nome": "Barcas de Chongqing, Hidrovia das Três Gargantas e Ferries do Baixo Yangtzé em Nanquim (China)",
+        "pais": "China",
+        "cidade": "Chongqing / Wanzhou / Fengjie / Yichang",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Chongqing Ferry Co. & China Yangtze Shipping Group",
+        "extensao_km": 1120,
+        "bitola": "Hidrovia Fluvial das Três Gargantas",
+        "eletrificacao": "Navios Elétricos (Yangtze Three Gorges 1) e Barcas Urbanas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.5865,
+            29.5667
+          ],
+          [
+            108.385,
+            30.815
+          ],
+          [
+            109.465,
+            31.018
+          ],
+          [
+            111.003,
+            30.823
+          ],
+          [
+            111.2865,
+            30.6918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baixo-yangtze-nanquim-zhongshan-wharf-pukou-yanplu-zhenjiang-guazhou",
+        "nome": "Ferries Metropolitanos do Baixo Yangtzé: Nanquim (Zhongshan Wharf – Pukou Railway Station Wharf) + Travessia Zhenjiang – Guazhou (Yangzhou)",
+        "sistema_id": "chongqing-two-rivers-ferry-three-gorges-waterway-yichang-fengjie-wanzhou-nanjing-yangtze-ferry-china",
+        "sistema_nome": "Barcas de Chongqing, Hidrovia das Três Gargantas e Ferries do Baixo Yangtzé em Nanquim (China)",
+        "pais": "China",
+        "cidade": "Nanquim (Nanjing) / Zhenjiang / Yangzhou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Nanjing Ferry Co. & Zhenjiang–Guazhou Ferry",
+        "extensao_km": 260,
+        "bitola": "Barcas Metropolitanas de Dois Andares e Balsas Ro-Ro",
+        "eletrificacao": "Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.732,
+            32.089
+          ],
+          [
+            118.7185,
+            32.0995
+          ],
+          [
+            119.425,
+            32.221
+          ],
+          [
+            119.392,
+            32.256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cks-grande-baia-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-wanshan",
+        "nome": "Malha de Catamarãs CKS da Grande Baía: Shenzhen Shekou Cruise Homeport – Zhuhai Jiuzhou – Ilha Wailingding – Zhongshan – Guangzhou Nansha – Aeroporto de Hong Kong",
+        "sistema_id": "chu-kong-cks-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-xiamen-gulangyu-electric-ferry-china",
+        "sistema_nome": "Catamarãs CKS de Shenzhen–Zhuhai–Zhongshan e Barcas Elétricas de Xiamen–Gulangyu (China)",
+        "pais": "China",
+        "cidade": "Shenzhen / Zhuhai / Zhongshan / Guangzhou Nansha",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Chu Kong Passenger Transport (CKS) & Pengxing Shipping",
+        "extensao_km": 410,
+        "bitola": "Catamarãs de Alta Velocidade de Fibra de Carbono",
+        "eletrificacao": "Waterjet de Alta Eficiência"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.606,
+            22.768
+          ],
+          [
+            113.501,
+            22.562
+          ],
+          [
+            113.9115,
+            22.4735
+          ],
+          [
+            113.938,
+            22.316
+          ],
+          [
+            113.5825,
+            22.241
+          ],
+          [
+            114.041,
+            22.101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-xiamen-gulangyu-electric-ferry-beihai-weizhou-island-china",
+        "nome": "Barcas Elétricas de Xiamen – Ilha de Gulangyu (Lundu / Dongdu – Sanqiutian / Piano Pier) e Catamarãs de Beihai – Ilha Vulcânica de Weizhou",
+        "sistema_id": "chu-kong-cks-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-xiamen-gulangyu-electric-ferry-china",
+        "sistema_nome": "Catamarãs CKS de Shenzhen–Zhuhai–Zhongshan e Barcas Elétricas de Xiamen–Gulangyu (China)",
+        "pais": "China",
+        "cidade": "Xiamen / Gulangyu / Beihai",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Xiamen Ferry Co. & Beihai Weizhou Ferry",
+        "extensao_km": 270,
+        "bitola": "Barcas Urbanas 100% Elétricas e Catamarãs Costeiros",
+        "eletrificacao": "100% Elétrico a Bateria (Xiamen–Gulangyu)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.0735,
+            24.4552
+          ],
+          [
+            118.0672,
+            24.4485
+          ],
+          [
+            109.132,
+            21.432
+          ],
+          [
+            109.115,
+            21.025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-sado-kisen-niigata-ryotsu-suruga-bay-shimizu-toi-ise-wan-toba-irago",
+        "nome": "Eixo Honshu (Mar do Japão e Pacífico): Sado Kisen Jetfoil & Ferry (Niigata – Ryōtsu na Ilha de Sado) + Suruga Bay Ferry (Shimizu – Toi) + Ise-Wan Ferry (Toba – Cabo Irago)",
+        "sistema_id": "sado-kisen-jetfoil-niigata-ryotsu-ise-wan-ferry-toba-irago-suruga-bay-ferry-shimizu-toi-kyushu-shosen-nagasaki-goto-japao",
+        "sistema_nome": "Hidrofólios Jetfoil Sado Kisen, Ise-Wan Ferry, Suruga Bay Ferry e Kyushu Shosen (Japão)",
+        "pais": "Japão",
+        "cidade": "Niigata / Sado / Shizuoka / Toba",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Sado Kisen, Suruga Bay Ferry & Ise-Wan Ferry",
+        "extensao_km": 480,
+        "bitola": "Hidrofólios Boeing 929 Jetfoil (83 km/h) e Ferries Ro-Pax",
+        "eletrificacao": "Turbina a Gás Waterjet e Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.0715,
+            37.9425
+          ],
+          [
+            138.4385,
+            38.079
+          ],
+          [
+            138.498,
+            35.011
+          ],
+          [
+            138.791,
+            34.912
+          ],
+          [
+            136.845,
+            34.485
+          ],
+          [
+            137.018,
+            34.581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mar-da-china-oriental-kyushu-shosen-nagasaki-fukue-narao-goto-sasebo",
+        "nome": "Eixo Mar de Gotō em Kyushu (Kyushu Shosen Jetfoil Pegasus & Ferries): Porto de Nagasaki – Narao – Fukue (Ilhas Gotō) + Sasebo – Kamigotō",
+        "sistema_id": "sado-kisen-jetfoil-niigata-ryotsu-ise-wan-ferry-toba-irago-suruga-bay-ferry-shimizu-toi-kyushu-shosen-nagasaki-goto-japao",
+        "sistema_nome": "Hidrofólios Jetfoil Sado Kisen, Ise-Wan Ferry, Suruga Bay Ferry e Kyushu Shosen (Japão)",
+        "pais": "Japão",
+        "cidade": "Nagasaki / Sasebo / Gotō (Fukue)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Kyushu Shosen Co., Ltd.",
+        "extensao_km": 460,
+        "bitola": "Hidrofólios Jetfoil Pegasus e Ferries Ro-Pax",
+        "eletrificacao": "Waterjet de Alta Velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.871,
+            32.7435
+          ],
+          [
+            129.062,
+            32.842
+          ],
+          [
+            128.851,
+            32.695
+          ],
+          [
+            129.721,
+            33.164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-seto-long-distance-mol-sunflower-hankyu-osaka-kobe-beppu-oita-kitakyushu",
+        "nome": "Autoestrada Marítima do Mar Interior de Seto (MOL Sunflower GNL & Hankyu Ferry): Osaka Nanko / Kobe Rokko – Beppu / Oita + Osaka / Kobe – Kitakyushu (Shinmoji)",
+        "sistema_id": "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
+        "sistema_nome": "Autoestradas Marítimas de Longa Distância do Japão — MOL Sunflower GNL, Hankyu e Shin Nihonkai (Japão)",
+        "pais": "Japão",
+        "cidade": "Osaka / Kobe / Beppu / Kitakyushu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "MOL Sunflower & Hankyu Ferry",
+        "extensao_km": 950,
+        "bitola": "Superferries Ro-Pax Noturnos a GNL (Sunflower Kurenai & Murasaki)",
+        "eletrificacao": "Propulsão Dual-Fuel a GNL"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.4125,
+            34.6385
+          ],
+          [
+            135.275,
+            34.685
+          ],
+          [
+            134.0,
+            34.35
+          ],
+          [
+            132.5,
+            34.0
+          ],
+          [
+            131.505,
+            33.301
+          ],
+          [
+            131.012,
+            33.868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mar-do-japao-shin-nihonkai-maizuru-tsuruga-niigata-otaru-tomakomai-hokkaido",
+        "nome": "Autoestrada Marítima do Mar do Japão (Shin Nihonkai Ferry): Maizuru (Quioto) / Tsuruga / Niigata – Otaru e Tomakomai (Hokkaido)",
+        "sistema_id": "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
+        "sistema_nome": "Autoestradas Marítimas de Longa Distância do Japão — MOL Sunflower GNL, Hankyu e Shin Nihonkai (Japão)",
+        "pais": "Japão",
+        "cidade": "Maizuru / Tsuruga / Otaru / Tomakomai",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Shin Nihonkai Ferry Co., Ltd.",
+        "extensao_km": 1900,
+        "bitola": "Superferries de Alta Velocidade (28,3 nós)",
+        "eletrificacao": "Propulsão Híbrida / Baixas Emissões"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.391,
+            35.482
+          ],
+          [
+            136.065,
+            35.662
+          ],
+          [
+            139.0715,
+            37.9425
+          ],
+          [
+            141.008,
+            43.191
+          ],
+          [
+            141.635,
+            42.632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-coreia-tsushima-busan-hitakatsu-izuhara-fukuoka-shimonoseki-osaka",
+        "nome": "Corredor Internacional Coreia–Japão: Busan International Terminal – Hitakatsu / Izuhara (Ilha de Tsushima) – Fukuoka (Hakata) – Shimonoseki – Osaka",
+        "sistema_id": "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao",
+        "sistema_nome": "Pontes Marítimas Internacionais Coreia–Japão e Ferries Insulares de Jeju para Udo e Marado (Coreia do Sul e Japão)",
+        "pais": "Coreia do Sul e Japão",
+        "cidade": "Busan / Tsushima / Fukuoka / Shimonoseki",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "PanStar Line, Camellia Line, Pukwan Ferry & Starline",
+        "extensao_km": 940,
+        "bitola": "Catamarãs Internacionais e Cruise Ferries Ro-Pax",
+        "eletrificacao": "Híbrido Diesel-Elétrico (PanStar Miracle)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.0485,
+            35.1152
+          ],
+          [
+            129.475,
+            34.654
+          ],
+          [
+            129.292,
+            34.198
+          ],
+          [
+            130.401,
+            33.606
+          ],
+          [
+            130.928,
+            33.946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-jeju-ilhas-satelites-seongsan-ilha-de-udo-moseulpo-gapado-marado",
+        "nome": "Travessias Insulares de Jeju: Porto de Seongsanpo – Ilha de Udo (Cheonjin / Haumokdong) + Porto de Unjin (Moseulpo) – Ilha de Gapado – Ilha de Marado",
+        "sistema_id": "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao",
+        "sistema_nome": "Pontes Marítimas Internacionais Coreia–Japão e Ferries Insulares de Jeju para Udo e Marado (Coreia do Sul e Japão)",
+        "pais": "Coreia do Sul e Japão",
+        "cidade": "Seogwipo (Seongsan / Udo / Marado, Jeju)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Udo Maritime & Marado Shipping",
+        "extensao_km": 180,
+        "bitola": "Ferries Ro-Ro de Dupla Proa (Udo) e Lanchas Insulares",
+        "eletrificacao": "Diesel-Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.931,
+            33.472
+          ],
+          [
+            126.951,
+            33.495
+          ],
+          [
+            126.251,
+            33.214
+          ],
+          [
+            126.271,
+            33.168
+          ],
+          [
+            126.267,
+            33.116
+          ]
+        ]
+      }
     }
   ]
 }

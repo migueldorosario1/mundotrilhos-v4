@@ -52908,6 +52908,581 @@
           52.461
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-chongqing-chaotianmen-jiangbeizui-danzishi-ferry-terminals",
+        "nome": "Terminais Fluviais de Chaotianmen, Jiangbeizui e Danzishi em Chongqing (Confluência dos Rios Yangtzé e Jialing, China)",
+        "sistema_id": "chongqing-two-rivers-ferry-three-gorges-waterway-yichang-fengjie-wanzhou-nanjing-yangtze-ferry-china",
+        "linha_id": "linha-alto-medio-yangtze-chongqing-chaotianmen-wanzhou-fengjie-tres-gargantas-yichang",
+        "pais": "China",
+        "cidade": "Chongqing",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Histórico complexo portuário na ponta da península de Yuzhong em Chongqing, unindo as barcas urbanas dos dois rios aos navios das Três Gargantas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5865,
+          29.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-wanzhou-fengjie-baidicheng-three-gorges-river-ports",
+        "nome": "Portos Fluviais de Wanzhou e Fengjie / Garganta Qutang (Hidrovia das Três Gargantas, China)",
+        "sistema_id": "chongqing-two-rivers-ferry-three-gorges-waterway-yichang-fengjie-wanzhou-nanjing-yangtze-ferry-china",
+        "linha_id": "linha-alto-medio-yangtze-chongqing-chaotianmen-wanzhou-fengjie-tres-gargantas-yichang",
+        "pais": "China",
+        "cidade": "Wanzhou / Fengjie",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais portos de passageiros no coração do reservatório das Três Gargantas, integrados à ferrovia de alta velocidade Zhengzhou–Wanzhou."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.385,
+          30.815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-yichang-zigui-three-gorges-ship-lift-electric-vessel-terminal",
+        "nome": "Terminal de Zigui / Yichang e Elevador Vertical de Navios da Barragem das Três Gargantas (Hubei, China)",
+        "sistema_id": "chongqing-two-rivers-ferry-three-gorges-waterway-yichang-fengjie-wanzhou-nanjing-yangtze-ferry-china",
+        "linha_id": "linha-alto-medio-yangtze-chongqing-chaotianmen-wanzhou-fengjie-tres-gargantas-yichang",
+        "pais": "China",
+        "cidade": "Yichang",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Base operacional do navio 100% elétrico Yangtze Three Gorges 1 (7.500 kWh) e do elevador hidromecânico que vence 113 metros de desnível em 40 minutos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.003,
+          30.823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nanjing-zhongshan-wharf-pukou-wharf-yangtze-ferry",
+        "nome": "Terminais de Zhongshan Wharf (Xiaguan) e Pukou Wharf em Nanquim (Nanjing Yangtze Ferry, China)",
+        "sistema_id": "chongqing-two-rivers-ferry-three-gorges-waterway-yichang-fengjie-wanzhou-nanjing-yangtze-ferry-china",
+        "linha_id": "linha-baixo-yangtze-nanquim-zhongshan-wharf-pukou-yanplu-zhenjiang-guazhou",
+        "pais": "China",
+        "cidade": "Nanquim (Nanjing)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Centenária travessia pendular de barcas de dois andares sobre o Baixo Yangtzé entre o distrito de Gulou e a histórica Estação Ferroviária de Pukou."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.732,
+          32.089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-zhenjiang-guazhou-yangzhou-automobile-ferry-terminals",
+        "nome": "Terminais da Travessia Zhenjiang – Guazhou (Yangzhou — Interseção do Rio Yangtzé com o Grande Canal da China)",
+        "sistema_id": "chongqing-two-rivers-ferry-three-gorges-waterway-yichang-fengjie-wanzhou-nanjing-yangtze-ferry-china",
+        "linha_id": "linha-baixo-yangtze-nanquim-zhongshan-wharf-pukou-yanplu-zhenjiang-guazhou",
+        "pais": "China",
+        "cidade": "Zhenjiang / Yangzhou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia histórica no ponto exato onde o Grande Canal Pequim–Hangzhou cruza o Rio Yangtzé."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.425,
+          32.221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-shenzhen-shekou-cruise-homeport-fuyong-airport-pier",
+        "nome": "Shenzhen Shekou Cruise Homeport (蛇口邮轮中心 — Conexão Metrô Linha 12) e Terminal do Aeroporto de Shenzhen",
+        "sistema_id": "chu-kong-cks-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-xiamen-gulangyu-electric-ferry-china",
+        "linha_id": "linha-cks-grande-baia-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-wanshan",
+        "pais": "China",
+        "cidade": "Shenzhen",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Megaterminal marítimo de Shenzhen com dezenas de partidas diárias de catamarãs para Zhuhai, Hong Kong, Macau e ilhas do Estuário das Pérolas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9115,
+          22.4735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-zhuhai-jiuzhou-port-wailingding-island-ferry-terminals",
+        "nome": "Porto de Jiuzhou em Zhuhai (九州港) e Terminal da Ilha de Wailingding (Guangdong, China)",
+        "sistema_id": "chu-kong-cks-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-xiamen-gulangyu-electric-ferry-china",
+        "linha_id": "linha-cks-grande-baia-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-wanshan",
+        "pais": "China",
+        "cidade": "Zhuhai",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal terminal de catamarãs rápidos de Zhuhai, conectando a cidade a Shenzhen Shekou em 60 minutos e ao Arquipélago de Wanshan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5825,
+          22.241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-zhongshan-passenger-port-guangzhou-nansha-ferry-terminal",
+        "nome": "Novos Terminais de Catamarãs CKS de Zhongshan (Ma'an Island) e Guangzhou Nansha (Conexão Metrô Linha 4)",
+        "sistema_id": "chu-kong-cks-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-xiamen-gulangyu-electric-ferry-china",
+        "linha_id": "linha-cks-grande-baia-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-wanshan",
+        "pais": "China",
+        "cidade": "Zhongshan / Guangzhou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de alta velocidade na margem oeste do Estuário do Rio das Pérolas com check-in aéreo integrado para o Aeroporto de Hong Kong."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.606,
+          22.768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-xiamen-lundu-dongdu-gulangyu-sanqiutian-piano-piers",
+        "nome": "Terminais de Xiamen (Lundu e Dongdu Cruise Center) e Píeres de Sanqiutian e Piano na Ilha de Gulangyu (Fujian, China)",
+        "sistema_id": "chu-kong-cks-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-xiamen-gulangyu-electric-ferry-china",
+        "linha_id": "linha-xiamen-gulangyu-electric-ferry-beihai-weizhou-island-china",
+        "pais": "China",
+        "cidade": "Xiamen",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia urbana 24h operada por barcas elétricas para a histórica Ilha de Gulangyu (Patrimônio Mundial da UNESCO, totalmente livre de automóveis)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0672,
+          24.4485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-beihai-international-passenger-port-weizhou-island-guangxi",
+        "nome": "Porto Internacional de Passageiros de Beihai e Terminal da Ilha Vulcânica de Weizhou (Golfo de Tonquim, Guangxi)",
+        "sistema_id": "chu-kong-cks-shenzhen-shekou-zhuhai-jiuzhou-zhongshan-nansha-xiamen-gulangyu-electric-ferry-china",
+        "linha_id": "linha-xiamen-gulangyu-electric-ferry-beihai-weizhou-island-china",
+        "pais": "China",
+        "cidade": "Beihai",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ponte marítima de catamarãs de alta velocidade ligando Beihai à maior ilha vulcânica jovem da China no Golfo de Beibu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.132,
+          21.432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-niigata-port-bandaijima-sado-kisen-jetfoil-terminal",
+        "nome": "Terminal Sado Kisen do Porto de Niigata (Bandaijima — Hidrofólios Boeing 929 Jetfoil e Car Ferries)",
+        "sistema_id": "sado-kisen-jetfoil-niigata-ryotsu-ise-wan-ferry-toba-irago-suruga-bay-ferry-shimizu-toi-kyushu-shosen-nagasaki-goto-japao",
+        "linha_id": "linha-sado-kisen-niigata-ryotsu-suruga-bay-shimizu-toi-ise-wan-toba-irago",
+        "pais": "Japão",
+        "cidade": "Niigata",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porta de entrada para a Ilha de Sado, conectado por ônibus expresso à estação do Joetsu Shinkansen de Niigata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0715,
+          37.9425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ryotsu-port-sado-island-ferry-terminal-niigata",
+        "nome": "Terminal Marítimo de Ryōtsu na Ilha de Sado (両津港 — Patrimônio Mundial das Minas de Sado, Japão)",
+        "sistema_id": "sado-kisen-jetfoil-niigata-ryotsu-ise-wan-ferry-toba-irago-suruga-bay-ferry-shimizu-toi-kyushu-shosen-nagasaki-goto-japao",
+        "linha_id": "linha-sado-kisen-niigata-ryotsu-suruga-bay-shimizu-toi-ise-wan-toba-irago",
+        "pais": "Japão",
+        "cidade": "Sado (Ryōtsu)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Maior terminal portuário da Ilha de Sado, recebendo os hidrofólios Jetfoil Ginga, Tsubasa e Suisei a 83 km/h desde Niigata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4385,
+          38.079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-shimizu-port-toi-izu-suruga-bay-ferry-223-toba-irago",
+        "nome": "Terminais do Suruga Bay Ferry (Shimizu–Toi, Rodovia Marítima 223 sob o Monte Fuji) e Ise-Wan Ferry (Toba–Irago)",
+        "sistema_id": "sado-kisen-jetfoil-niigata-ryotsu-ise-wan-ferry-toba-irago-suruga-bay-ferry-shimizu-toi-kyushu-shosen-nagasaki-goto-japao",
+        "linha_id": "linha-sado-kisen-niigata-ryotsu-suruga-bay-shimizu-toi-ise-wan-toba-irago",
+        "pais": "Japão",
+        "cidade": "Shizuoka (Shimizu) / Toba",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessias panorâmicas das baías de Suruga e de Ise, integradas à estação Kintetsu/JR de Toba e ao porto de Shimizu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.498,
+          35.011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nagasaki-port-ohato-terminal-kyushu-shosen",
+        "nome": "Terminal Marítimo de Nagasaki (Ōhato — Conexão Bonde Elétrico e Nishi Kyushu Shinkansen)",
+        "sistema_id": "sado-kisen-jetfoil-niigata-ryotsu-ise-wan-ferry-toba-irago-suruga-bay-ferry-shimizu-toi-kyushu-shosen-nagasaki-goto-japao",
+        "linha_id": "linha-mar-da-china-oriental-kyushu-shosen-nagasaki-fukue-narao-goto-sasebo",
+        "pais": "Japão",
+        "cidade": "Nagasaki",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Base dos hidrofólios Jetfoil Pegasus e ferries da Kyushu Shosen no coração do Porto de Nagasaki."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.871,
+          32.7435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-fukue-port-narao-goto-islands-ferry-terminals",
+        "nome": "Terminais de Fukue e Narao no Arquipélago de Gotō (五島列島 — Nagasaki, Japão)",
+        "sistema_id": "sado-kisen-jetfoil-niigata-ryotsu-ise-wan-ferry-toba-irago-suruga-bay-ferry-shimizu-toi-kyushu-shosen-nagasaki-goto-japao",
+        "linha_id": "linha-mar-da-china-oriental-kyushu-shosen-nagasaki-fukue-narao-goto-sasebo",
+        "pais": "Japão",
+        "cidade": "Gotō (Fukue) / Shinkamigotō",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos principais das Ilhas Gotō no Mar da China Oriental, a 85 minutos de hidrofólio Jetfoil desde Nagasaki."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.851,
+          32.695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-osaka-nanko-cosmo-ferry-terminal-sunflower-hankyu",
+        "nome": "Osaka Nanko Ferry Terminal & Sunflower Terminal (Integração Metrô New Tram Trade Center-mae, Osaka)",
+        "sistema_id": "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
+        "linha_id": "linha-seto-long-distance-mol-sunflower-hankyu-osaka-kobe-beppu-oita-kitakyushu",
+        "pais": "Japão",
+        "cidade": "Osaka",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Maior polo de ferries noturnos de longa distância do oeste do Japão, base dos navios a GNL Sunflower Kurenai e Sunflower Murasaki."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4125,
+          34.6385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-beppu-international-tourist-port-oita-sunflower-terminal",
+        "nome": "Porto Internacional de Beppu e Porto de Oita (Terminais MOL Sunflower em Kyushu, Japão)",
+        "sistema_id": "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
+        "linha_id": "linha-seto-long-distance-mol-sunflower-hankyu-osaka-kobe-beppu-oita-kitakyushu",
+        "pais": "Japão",
+        "cidade": "Beppu / Oita",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais históricos de chegada da frota Sunflower na capital japonesa das águas termais em Kyushu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.505,
+          33.301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-shinmoji-ferry-terminal-kitakyushu-hankyu-meimon",
+        "nome": "Complexo de Terminais de Ferries de Shinmoji em Kitakyushu (Hankyu Ferry, Meimon Taiyo e Tokyo Kyushu Ferry)",
+        "sistema_id": "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
+        "linha_id": "linha-seto-long-distance-mol-sunflower-hankyu-osaka-kobe-beppu-oita-kitakyushu",
+        "pais": "Japão",
+        "cidade": "Kitakyushu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porta marítima do norte de Kyushu no Mar Interior de Seto, conectada por ônibus gratuito à estação Shinkansen de Kokura."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.012,
+          33.868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-maizuru-tsuruga-shin-nihonkai-ferry-terminals-kansai",
+        "nome": "Terminais da Shin Nihonkai Ferry em Maizuru (Quioto) e Tsuruga (Fukui — Conexão Hokuriku Shinkansen)",
+        "sistema_id": "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
+        "linha_id": "linha-mar-do-japao-shin-nihonkai-maizuru-tsuruga-niigata-otaru-tomakomai-hokkaido",
+        "pais": "Japão",
+        "cidade": "Maizuru / Tsuruga",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos de embarque de Kansai/Hokuriku para a travessia rápida de 20 horas pelo Mar do Japão até Hokkaido."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.391,
+          35.482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-otaru-tomakomai-ferry-terminals-hokkaido",
+        "nome": "Terminais de Ferries de Otaru e Tomakomai (Porta Marítima de Sapporo e Hokkaido, Japão)",
+        "sistema_id": "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
+        "linha_id": "linha-mar-do-japao-shin-nihonkai-maizuru-tsuruga-niigata-otaru-tomakomai-hokkaido",
+        "pais": "Japão",
+        "cidade": "Otaru / Tomakomai (Hokkaido)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais terminais Ro-Pax de Hokkaido, recebendo diariamente os superferries procedentes de Maizuru, Tsuruga, Niigata, Nagoya, Sendai e Oarai."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.008,
+          43.191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-busan-port-international-passenger-terminal-ktx-connection",
+        "nome": "Busan Port International Passenger Terminal (부산항국제여객터미널 — Passarela Direta para a Estação KTX de Busan)",
+        "sistema_id": "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao",
+        "linha_id": "linha-estreito-coreia-tsushima-busan-hitakatsu-izuhara-fukuoka-shimonoseki-osaka",
+        "pais": "Coreia do Sul e Japão",
+        "cidade": "Busan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Megaterminal internacional integrado por passarela coberta aos trens de alta velocidade KTX em Busan, com partidas diárias para Tsushima, Fukuoka, Shimonoseki e Osaka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0485,
+          35.1152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hitakatsu-izuhara-international-terminals-tsushima-island",
+        "nome": "Terminais Internacionais de Hitakatsu e Izuhara na Ilha de Tsushima (対馬 — Nagasaki, Japão)",
+        "sistema_id": "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao",
+        "linha_id": "linha-estreito-coreia-tsushima-busan-hitakatsu-izuhara-fukuoka-shimonoseki-osaka",
+        "pais": "Coreia do Sul e Japão",
+        "cidade": "Tsushima",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos insulares japoneses no Estreito da Coreia situados a apenas 49,5 km (70 minutos de catamarã) de Busan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.475,
+          34.654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hakata-port-international-terminal-fukuoka-shimonoseki",
+        "nome": "Hakata Port International Terminal (Fukuoka) e Shimonoseki International Terminal (Japão)",
+        "sistema_id": "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao",
+        "linha_id": "linha-estreito-coreia-tsushima-busan-hitakatsu-izuhara-fukuoka-shimonoseki-osaka",
+        "pais": "Coreia do Sul e Japão",
+        "cidade": "Fukuoka / Shimonoseki",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais internacionais japoneses da Camellia Line (Fukuoka–Busan) e do histórico Pukwan Ferry (Shimonoseki–Busan)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.401,
+          33.606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-seongsanpo-port-udo-island-cheonjin-haumokdong-jeju",
+        "nome": "Porto de Seongsanpo (Jeju) e Terminais de Cheonjin e Haumokdong na Ilha de Udo (우도, Coreia do Sul)",
+        "sistema_id": "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao",
+        "linha_id": "linha-jeju-ilhas-satelites-seongsan-ilha-de-udo-moseulpo-gapado-marado",
+        "pais": "Coreia do Sul e Japão",
+        "cidade": "Seogwipo (Seongsan / Udo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia de ferries de dupla proa a cada 15–30 minutos ao pé do vulcão Seongsan Ilchulbong para a Ilha de Udo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.931,
+          33.472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-unjin-port-moseulpo-gapado-marado-southernmost-korea",
+        "nome": "Porto de Unjin (Moseulpo) e Píeres das Ilhas de Gapado e Marado (Ponto Mais Meridional da Coreia)",
+        "sistema_id": "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao",
+        "linha_id": "linha-jeju-ilhas-satelites-seongsan-ilha-de-udo-moseulpo-gapado-marado",
+        "pais": "Coreia do Sul e Japão",
+        "cidade": "Seogwipo (Moseulpo / Marado)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ligação marítima regular no sudoeste de Jeju para as ilhas de Gapado e Marado."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.267,
+          33.116
+        ]
+      }
     }
   ]
 }
