@@ -50493,6 +50493,581 @@
           50.3519
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-krasnoyarsk-river-terminal-yenisei",
+        "nome": "Terminal Fluvial de Krasnoyarsk (Речной вокзал Красноярск — Rio Ienissei)",
+        "sistema_id": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+        "linha_id": "linha-yenisei-krasnoyarsk-yeniseysk-igarka-dudinka-baikal-irkutsk-olkhon",
+        "pais": "Rússia",
+        "cidade": "Krasnoyarsk",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal histórico do Rio Ienissei em Krasnoyarsk, ponto de partida dos navios polares para Yeniseysk, Igarka e Dudinka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8526,
+          56.0106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dudinka-arctic-river-sea-port-yenisei",
+        "nome": "Porto Ártico Flúvio-Marítimo de Dudinka (Conexão Ferrovia de Norilsk — Rio Ienissei)",
+        "sistema_id": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+        "linha_id": "linha-yenisei-krasnoyarsk-yeniseysk-igarka-dudinka-baikal-irkutsk-olkhon",
+        "pais": "Rússia",
+        "cidade": "Dudinka",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto ártico no Baixo Ienissei (69°N), terminal norte da hidrovia Krasnoyarsk–Dudinka conectado à ferrovia mais setentrional do mundo até Norilsk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.1778,
+          69.4058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-irkutsk-listvyanka-olkhon-baikal-ferry-terminals",
+        "nome": "Terminais do Lago Baikal — Irkutsk Raketa Pier, Listvyanka e Travessia Sakhyurta–Ilha de Olkhon",
+        "sistema_id": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+        "linha_id": "linha-yenisei-krasnoyarsk-yeniseysk-igarka-dudinka-baikal-irkutsk-olkhon",
+        "pais": "Rússia",
+        "cidade": "Irkutsk / Listvyanka / Olkhon",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais da frota VSRPP no Rio Angara e Lago Baikal, incluindo hidrofólios Kometa/Voskhod e os ferries públicos Olkhonskiye Vorota para a Ilha de Olkhon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.868,
+          51.853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-yakutsk-nizhny-bestyakh-lena-river-ferry-terminal",
+        "nome": "Terminais Fluviais de Yakutsk e Nizhny Bestyakh (Conexão Ferrovia Amur–Yakutsk — Rio Lena)",
+        "sistema_id": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+        "linha_id": "linha-lena-yakutsk-nizhny-bestyakh-tiksi-ob-irtysh-khanty-mansiysk-salekhard",
+        "pais": "Rússia",
+        "cidade": "Yakutsk / Nizhny Bestyakh",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia intermodal rodo-ferro-hidroviária do Rio Lena entre a capital Yakutsk e a estação ferroviária de Nizhny Bestyakh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.755,
+          62.0355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-khanty-mansiysk-salekhard-ob-irtysh-river-terminal",
+        "nome": "Estação Fluvial e Rodoviária de Khanty-Mansiysk e Terminal de Salekhard (Bacia do Ob-Irtysh)",
+        "sistema_id": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+        "linha_id": "linha-lena-yakutsk-nizhny-bestyakh-tiksi-ob-irtysh-khanty-mansiysk-salekhard",
+        "pais": "Rússia",
+        "cidade": "Khanty-Mansiysk / Salekhard",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Complexo terminal multimodal na confluência dos rios Irtysh e Ob, base dos hidrofólios Meteor 120R até Salekhard no Círculo Polar Ártico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.002,
+          61.0042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kazan-river-port-meteor-terminal-volga",
+        "nome": "Porto Fluvial de Kazan (Казанский речной порт — Hidrofólios Meteor 120R para Sviyazhsk e Bolgar)",
+        "sistema_id": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+        "linha_id": "linha-volga-hidrofolios-nizhny-novgorod-cheboksary-kazan-sviyazhsk-bolgar-samara",
+        "pais": "Rússia",
+        "cidade": "Kazan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Hub central da Flot RT no Médio Volga, operando hidrofólios Meteor 120R de nova geração para Sviyazhsk, Bolgar, Cheboksary e Ulyanovsk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0967,
+          55.7824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nizhny-novgorod-river-station-valdai-volga-oka",
+        "nome": "Estação Fluvial de Nizhny Novgorod (Речной вокзал — Confluência dos Rios Volga e Oka / Hidrofólios Valdai 45R)",
+        "sistema_id": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+        "linha_id": "linha-volga-hidrofolios-nizhny-novgorod-cheboksary-kazan-sviyazhsk-bolgar-samara",
+        "pais": "Rússia",
+        "cidade": "Nizhny Novgorod",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Sede da operadora Vodolyot e berço dos hidrofólios russos na confluência do Oka com o Volga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9912,
+          56.3315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-samara-river-terminal-rozhdestveno-volga",
+        "nome": "Terminal Fluvial de Samara e Travessia de Rozhdestveno / Shiryayevo (Curva de Samara — Rio Volga)",
+        "sistema_id": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+        "linha_id": "linha-volga-hidrofolios-nizhny-novgorod-cheboksary-kazan-sviyazhsk-bolgar-samara",
+        "pais": "Rússia",
+        "cidade": "Samara",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal metropolitano do Rio Volga em Samara com ferries pendulares para Rozhdestveno e hidrofólios Valdai 45R para Shiryayevo e Tolyatti."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0825,
+          53.1865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-saint-petersburg-hermitage-admiralty-hydrofoil-pier",
+        "nome": "Píer de Hidrofólios do Hermitage e Almirantado em São Petersburgo (Rio Neva)",
+        "sistema_id": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+        "linha_id": "linha-neva-golfo-finlandia-sao-petersburgo-hermitage-peterhof-kronstadt",
+        "pais": "Rússia",
+        "cidade": "São Petersburgo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal de embarque rápido junto ao Museu Hermitage no Rio Neva para os hidrofólios Meteor e catamarãs Kotlin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3135,
+          59.9416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-peterhof-lower-park-kronstadt-island-forts-pier",
+        "nome": "Píer do Parque Inferior de Peterhof e Terminal da Ilha dos Fortes em Kronstadt (Golfo da Finlândia)",
+        "sistema_id": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+        "linha_id": "linha-neva-golfo-finlandia-sao-petersburgo-hermitage-peterhof-kronstadt",
+        "pais": "Rússia",
+        "cidade": "Peterhof / Kronstadt",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píeres marítimos no Golfo da Finlândia atendendo o Palácio de Peterhof e a ilha histórica de Kronstadt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9092,
+          59.8895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bangui-river-port-zongo-ubangi-crossing",
+        "nome": "Porto Fluvial Internacional de Bangui (RCA) e Terminal de Zongo (RD Congo — Rio Ubangui)",
+        "sistema_id": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+        "linha_id": "linha-rio-ubangui-bangui-zongo-impfondo-rio-kasai-kinshasa-bandundu-ilebo",
+        "pais": "RD Congo",
+        "cidade": "Bangui / Zongo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal travessia internacional e terminal fluvial do Rio Ubangui entre a capital da República Centro-Africana e o norte da RD Congo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.555,
+          4.3614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bandundu-kwilu-kasai-confluence-port",
+        "nome": "Porto Fluvial de Bandundu (Confluência dos Rios Kwango, Kwilu e Kasai)",
+        "sistema_id": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+        "linha_id": "linha-rio-ubangui-bangui-zongo-impfondo-rio-kasai-kinshasa-bandundu-ilebo",
+        "pais": "RD Congo",
+        "cidade": "Bandundu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Entroncamento hidroviário estratégico na confluência dos rios Kwango, Kwilu e Kasai a leste de Kinshasa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.368,
+          -3.317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ilebo-intermodal-rail-river-port-kasai",
+        "nome": "Porto Ferro-Hidroviário de Ilebo (Rio Kasai — Integração Direta com a Ferrovia SNCC para Kananga e Lubumbashi)",
+        "sistema_id": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+        "linha_id": "linha-rio-ubangui-bangui-zongo-impfondo-rio-kasai-kinshasa-bandundu-ilebo",
+        "pais": "RD Congo",
+        "cidade": "Ilebo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Grande terminal intermodal onde a hidrovia Kinshasa–Ilebo no Rio Kasai encontra a malha ferroviária da SNCC rumo ao Katanga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.586,
+          -4.331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kindu-sncc-river-rail-port-lualaba",
+        "nome": "Porto Fluvial e Ferroviário SNCC de Kindu (Alto Rio Congo / Rio Lualaba)",
+        "sistema_id": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+        "linha_id": "linha-alto-congo-rio-lualaba-sncc-kindu-kongolo-kabalo-bukama",
+        "pais": "RD Congo",
+        "cidade": "Kindu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Capital da província de Maniema e principal porto ferro-fluvial da SNCC no Rio Lualaba."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.915,
+          -2.952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kabalo-bukama-lualaba-sncc-terminals",
+        "nome": "Terminais Ferro-Fluviais de Kabalo e Bukama (Alto Lualaba — Províncias de Tanganyika e Haut-Lomami)",
+        "sistema_id": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+        "linha_id": "linha-alto-congo-rio-lualaba-sncc-kindu-kongolo-kabalo-bukama",
+        "pais": "RD Congo",
+        "cidade": "Kabalo / Bukama",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos fluviais históricos da SNCC no Alto Lualaba conectados às linhas ferroviárias para Kalemie (Lago Tanganyika) e Kamina."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.915,
+          -6.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-panyimur-wanseko-lake-albert-nile-ferry-terminals",
+        "nome": "Terminais UNRA de Panyimur (Pakwach) e Wanseko (Buliisa — MV Albert Nile 1 no Lago Alberto)",
+        "sistema_id": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+        "linha_id": "linha-unra-lago-alberto-nilo-alberto-wanseko-panyimur-laropi-juba-bor",
+        "pais": "Uganda",
+        "cidade": "Panyimur / Wanseko",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia estratégica da UNRA na foz do Nilo Vitória no Lago Alberto e saída do Nilo Alberto rumo a Pakwach."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.325,
+          2.288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-laropi-umi-albert-nile-ferry-terminals",
+        "nome": "Terminais UNRA de Laropi (Moyo) e Umi (Adjumani — Travessia do Nilo Alberto)",
+        "sistema_id": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+        "linha_id": "linha-unra-lago-alberto-nilo-alberto-wanseko-panyimur-laropi-juba-bor",
+        "pais": "Uganda",
+        "cidade": "Laropi / Adjumani",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal travessia pública Ro-Ro do Nilo Alberto no norte de Uganda, ligando Adjumani a Moyo rumo ao Sudão do Sul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.835,
+          3.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-juba-bor-white-nile-river-ports",
+        "nome": "Portos Fluviais de Juba e Bor no Nilo Branco (Bahr el Jebel — Sudão do Sul)",
+        "sistema_id": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+        "linha_id": "linha-unra-lago-alberto-nilo-alberto-wanseko-panyimur-laropi-juba-bor",
+        "pais": "Uganda",
+        "cidade": "Juba / Bor",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos fluviais vitais ao longo do Nilo Branco (Bahr el Jebel) conectando a capital Juba a Bor e Malakal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.601,
+          4.851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-masindi-port-kungu-victoria-nile-ferry-terminal",
+        "nome": "Terminais UNRA de Masindi Port (Kiryandongo) e Kungu (Apac — Travessia do Nilo Vitória)",
+        "sistema_id": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+        "linha_id": "linha-unra-nilo-vitoria-lago-kyoga-masindi-port-kungu-zengebe-namasale",
+        "pais": "Uganda",
+        "cidade": "Masindi Port / Apac",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia histórica do Nilo Vitória na saída oeste do Lago Kyoga operada pelos ferries públicos da UNRA."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.081,
+          1.694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-zengebe-namasale-lake-kyoga-ferry-terminals",
+        "nome": "Terminais UNRA de Zengebe (Nakasongola) e Namasale (Amolatar — Ferries MV Kyoga 1 & 2 no Lago Kyoga)",
+        "sistema_id": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+        "linha_id": "linha-unra-nilo-vitoria-lago-kyoga-masindi-port-kungu-zengebe-namasale",
+        "pais": "Uganda",
+        "cidade": "Nakasongola / Namasale",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal travessia lacustre do Lago Kyoga operada pelos ferries gêmeos MV Kyoga 1 e MV Kyoga 2."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.615,
+          1.482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kingston-barrack-street-marysville-wolfe-island-electric-ferry-terminals",
+        "nome": "Terminais de Recarga Elétrica de Kingston (Barrack Street) e Marysville (MV Wolfe Islander IV — Wolfe Island)",
+        "sistema_id": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+        "linha_id": "linha-mto-alto-sao-lourenco-kingston-wolfe-island-amherst-island-glenora",
+        "pais": "Canadá",
+        "cidade": "Kingston / Wolfe Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais equipados com recarga rápida de alta potência para o ferry 100% elétrico MV Wolfe Islander IV na cabeceira do Rio São Lourenço."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4775,
+          44.2285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-millhaven-stella-amherst-island-electric-ferry-terminals",
+        "nome": "Terminais Elétricos de Millhaven e Stella (MV Amherst Islander II — Ilha Amherst, Lago Ontário)",
+        "sistema_id": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+        "linha_id": "linha-mto-alto-sao-lourenco-kingston-wolfe-island-amherst-island-glenora",
+        "pais": "Canadá",
+        "cidade": "Millhaven / Stella",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais da travessia 100% elétrica do MTO entre Millhaven e Stella na Ilha Amherst."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.768,
+          44.197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-glenora-adolphustown-cape-vincent-ferry-terminals",
+        "nome": "Terminais de Glenora–Adolphustown (Baía de Quinte) e Horne's Ferry (Wolfe Island–Cape Vincent, NY)",
+        "sistema_id": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+        "linha_id": "linha-mto-alto-sao-lourenco-kingston-wolfe-island-amherst-island-glenora",
+        "pais": "Canadá",
+        "cidade": "Picton / Cape Vincent",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia gratuita da Loyalist Parkway em Glenora (Prince Edward County) e ferry internacional para Cape Vincent (Nova York, EUA)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055,
+          44.041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cumberland-masson-angers-ottawa-gatineau-ferry-terminals",
+        "nome": "Terminais de Cumberland (Ottawa, Ontário) e Masson-Angers (Gatineau, Quebec — Traversiers Bourbonnais no Rio Ottawa)",
+        "sistema_id": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+        "linha_id": "linha-rio-ottawa-cumberland-masson-angers-oka-hudson-ontario-quebec",
+        "pais": "Canadá",
+        "cidade": "Ottawa / Gatineau",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia fluvial contínua de 24h durante todo o ano (inclusive quebra-gelo no inverno) entre Ottawa e Gatineau no Rio Ottawa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.412,
+          45.524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-oka-hudson-lac-des-deux-montagnes-ferry-terminals",
+        "nome": "Terminais do Traversier Oka–Hudson (Lago de Duas Montanhas / Foz do Rio Ottawa, Quebec)",
+        "sistema_id": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+        "linha_id": "linha-rio-ottawa-cumberland-masson-angers-oka-hudson-ontario-quebec",
+        "pais": "Canadá",
+        "cidade": "Oka / Hudson",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia histórica no alargamento do Rio Ottawa (Lac des Deux Montagnes) a oeste de Montreal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.145,
+          45.458
+        ]
+      }
     }
   ]
 }

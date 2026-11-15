@@ -54556,6 +54556,486 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-yenisei-krasnoyarsk-yeniseysk-igarka-dudinka-baikal-irkutsk-olkhon",
+        "nome": "Hidrovia do Rio Ienissei e Lago Baikal: Krasnoyarsk – Yeniseysk – Igarka – Dudinka + Irkutsk – Listvyanka – Ilha de Olkhon",
+        "sistema_id": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+        "sistema_nome": "Grandes Hidrovias Fluviais da Sibéria e Lago Baikal (Rússia)",
+        "pais": "Rússia",
+        "cidade": "Krasnoyarsk / Dudinka / Irkutsk",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "PassaYenisei & VSRPP Lago Baikal",
+        "extensao_km": 2650,
+        "bitola": "Hidrovia Fluvial e Lacustre",
+        "eletrificacao": "Navios Classe A45-90.2 e Ferries do Baikal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.8526,
+            56.0106
+          ],
+          [
+            92.17,
+            58.45
+          ],
+          [
+            87.95,
+            65.79
+          ],
+          [
+            86.57,
+            67.46
+          ],
+          [
+            86.1778,
+            69.4058
+          ],
+          [
+            104.281,
+            52.251
+          ],
+          [
+            104.868,
+            51.853
+          ],
+          [
+            106.885,
+            53.018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lena-yakutsk-nizhny-bestyakh-tiksi-ob-irtysh-khanty-mansiysk-salekhard",
+        "nome": "Hidrovia do Rio Lena e Bacia do Ob-Irtysh: Yakutsk – Nizhny Bestyakh (Terminal Ferroviário AYaM) – Lensk – Tiksi + Khanty-Mansiysk – Salekhard",
+        "sistema_id": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+        "sistema_nome": "Grandes Hidrovias Fluviais da Sibéria e Lago Baikal (Rússia)",
+        "pais": "Rússia",
+        "cidade": "Yakutsk / Nizhny Bestyakh / Khanty-Mansiysk",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "LORP / LenaTurFlot & Severrechflot",
+        "extensao_km": 2200,
+        "bitola": "Hidrovia Fluvial Siberiana",
+        "eletrificacao": "Ferries Quebra-Gelo Ro-Ro e Hidrofólios Meteor 120R"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.755,
+            62.0355
+          ],
+          [
+            129.91,
+            61.96
+          ],
+          [
+            127.35,
+            66.77
+          ],
+          [
+            128.868,
+            71.637
+          ],
+          [
+            69.002,
+            61.0042
+          ],
+          [
+            66.6019,
+            66.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-volga-hidrofolios-nizhny-novgorod-cheboksary-kazan-sviyazhsk-bolgar-samara",
+        "nome": "Corredor de Hidrofólios do Médio Volga (Meteor 120R & Valdai 45R): Nizhny Novgorod – Cheboksary – Kazan – Sviyazhsk – Bolgar – Samara – Rozhdestveno",
+        "sistema_id": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+        "sistema_nome": "Frota de Hidrofólios (Meteor 120R e Valdai 45R) e Ferries da Bacia do Rio Volga, Rio Kama e Rio Neva (Rússia)",
+        "pais": "Rússia",
+        "cidade": "Kazan / Nizhny Novgorod / Samara",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Flot RT (Kazan), Vodolyot (Nizhny Novgorod) & SRPP Samara",
+        "extensao_km": 1180,
+        "bitola": "Hidrovia Fluvial de Alta Velocidade",
+        "eletrificacao": "Hidrofólios Meteor 120R, Valdai 45R e Ferries do Volga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.9912,
+            56.3315
+          ],
+          [
+            47.2519,
+            56.1462
+          ],
+          [
+            48.658,
+            55.771
+          ],
+          [
+            49.0967,
+            55.7824
+          ],
+          [
+            49.035,
+            54.985
+          ],
+          [
+            48.403,
+            54.314
+          ],
+          [
+            50.0825,
+            53.1865
+          ],
+          [
+            50.06,
+            53.235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-neva-golfo-finlandia-sao-petersburgo-hermitage-peterhof-kronstadt",
+        "nome": "Expresso Rio Neva e Golfo da Finlândia (Meteor & Catamarã Kotlin): São Petersburgo (Hermitage) – Peterhof (Palácio Inferior) – Ilha de Kronstadt",
+        "sistema_id": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+        "sistema_nome": "Frota de Hidrofólios (Meteor 120R e Valdai 45R) e Ferries da Bacia do Rio Volga, Rio Kama e Rio Neva (Rússia)",
+        "pais": "Rússia",
+        "cidade": "São Petersburgo / Peterhof / Kronstadt",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Neva Travel & Peterhof Express",
+        "extensao_km": 240,
+        "bitola": "Hidrovia Fluvial e Estuarina",
+        "eletrificacao": "Hidrofólios Meteor e Catamarãs de Alta Velocidade Kotlin"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3135,
+            59.9416
+          ],
+          [
+            30.22,
+            59.93
+          ],
+          [
+            29.9092,
+            59.8895
+          ],
+          [
+            29.745,
+            59.991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rio-ubangui-bangui-zongo-impfondo-rio-kasai-kinshasa-bandundu-ilebo",
+        "nome": "Hidrovias do Rio Ubangui e Rio Kasai: Travessia Binacional Bangui (RCA) – Zongo (RDC) – Impfondo + Corredor Ferro-Fluvial Kinshasa – Bandundu – Ilebo",
+        "sistema_id": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+        "sistema_nome": "Hidrovias dos Grandes Afluentes e Alto Curso da Bacia do Congo (RD Congo e RCA)",
+        "pais": "RD Congo",
+        "cidade": "Bangui / Zongo / Bandundu / Ilebo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "RVF / SCTP / SOCATRAF",
+        "extensao_km": 1750,
+        "bitola": "Hidrovia Fluvial Internacional e Intermodal",
+        "eletrificacao": "Comboios Fluviais e Balsas Transfronteiriças"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.555,
+            4.3614
+          ],
+          [
+            18.598,
+            4.351
+          ],
+          [
+            18.06,
+            1.62
+          ],
+          [
+            17.65,
+            -0.55
+          ],
+          [
+            15.297,
+            -4.298
+          ],
+          [
+            17.368,
+            -3.317
+          ],
+          [
+            20.586,
+            -4.331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-congo-rio-lualaba-sncc-kindu-kongolo-kabalo-bukama",
+        "nome": "Hidrovia do Alto Congo / Rio Lualaba (SNCC Fluvial): Kindu – Kongolo – Kabalo – Ankoro – Bukama",
+        "sistema_id": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+        "sistema_nome": "Hidrovias dos Grandes Afluentes e Alto Curso da Bacia do Congo (RD Congo e RCA)",
+        "pais": "RD Congo",
+        "cidade": "Kindu / Kongolo / Kabalo / Bukama",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SNCC (Divisão Fluvial do Lualaba)",
+        "extensao_km": 900,
+        "bitola": "Hidrovia Fluvial Multimodal",
+        "eletrificacao": "Navios Fluviais SNCC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.915,
+            -2.952
+          ],
+          [
+            27.001,
+            -5.385
+          ],
+          [
+            26.915,
+            -6.052
+          ],
+          [
+            26.95,
+            -6.75
+          ],
+          [
+            25.854,
+            -9.204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-unra-lago-alberto-nilo-alberto-wanseko-panyimur-laropi-juba-bor",
+        "nome": "Eixo Lago Alberto, Nilo Alberto e Nilo Branco: Wanseko – Panyimur (MV Albert Nile 1) + Laropi – Umi (Adjumani/Moyo) + Juba – Bor (Bahr el Jebel)",
+        "sistema_id": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+        "sistema_nome": "Hidrovias do Nilo Branco, Nilo Alberto, Nilo Vitória e Lago Kyoga (Uganda e Sudão do Sul)",
+        "pais": "Uganda",
+        "cidade": "Panyimur / Laropi / Juba / Bor",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "UNRA Ferry Services & Operadores do Nilo Branco",
+        "extensao_km": 740,
+        "bitola": "Hidrovia Fluvial e Lacustre",
+        "eletrificacao": "Ferries Ro-Ro MV Albert Nile 1 e MV Laropi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.385,
+            2.245
+          ],
+          [
+            31.325,
+            2.288
+          ],
+          [
+            31.59,
+            3.22
+          ],
+          [
+            31.835,
+            3.545
+          ],
+          [
+            31.601,
+            4.851
+          ],
+          [
+            31.558,
+            6.206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-unra-nilo-vitoria-lago-kyoga-masindi-port-kungu-zengebe-namasale",
+        "nome": "Eixo Nilo Vitória e Lago Kyoga (UNRA Ferries): Masindi Port – Kungu + Zengebe (Nakasongola) – Namasale (MV Kyoga 1 & 2)",
+        "sistema_id": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+        "sistema_nome": "Hidrovias do Nilo Branco, Nilo Alberto, Nilo Vitória e Lago Kyoga (Uganda e Sudão do Sul)",
+        "pais": "Uganda",
+        "cidade": "Masindi Port / Zengebe / Namasale",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "UNRA Ferry Services (MV Kyoga 1 & 2)",
+        "extensao_km": 440,
+        "bitola": "Hidrovia Lacustre e Fluvial",
+        "eletrificacao": "Ferries Ro-Ro Duplos MV Kyoga 1 e MV Kyoga 2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.081,
+            1.694
+          ],
+          [
+            32.115,
+            1.718
+          ],
+          [
+            32.615,
+            1.482
+          ],
+          [
+            32.658,
+            1.545
+          ],
+          [
+            33.05,
+            1.45
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mto-alto-sao-lourenco-kingston-wolfe-island-amherst-island-glenora",
+        "nome": "Ferries 100% Elétricos do Alto São Lourenço e Baía de Quinte: Kingston – Marysville (Wolfe Island IV) + Cape Vincent (NY) + Millhaven – Stella (Amherst Island II) + Adolphustown – Glenora",
+        "sistema_id": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+        "sistema_nome": "Ferries Elétricos do Alto Rio São Lourenço, Arquipélago das Mil Ilhas (Thousand Islands) e Rio Ottawa (Canadá e EUA)",
+        "pais": "Canadá",
+        "cidade": "Kingston / Wolfe Island / Stella / Glenora",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "MTO Ontario & Horne's Ferry",
+        "extensao_km": 190,
+        "bitola": "Hidrovia Fluvial e Lacustre",
+        "eletrificacao": "100% Elétrico a Bateria (MV Wolfe Islander IV & MV Amherst Islander II)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.055,
+            44.041
+          ],
+          [
+            -76.768,
+            44.197
+          ],
+          [
+            -76.685,
+            44.165
+          ],
+          [
+            -76.4775,
+            44.2285
+          ],
+          [
+            -76.4385,
+            44.1955
+          ],
+          [
+            -76.335,
+            44.129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rio-ottawa-cumberland-masson-angers-oka-hudson-ontario-quebec",
+        "nome": "Travessias do Rio Ottawa (Ontário–Quebec): Cumberland (Ottawa) – Masson-Angers (Gatineau) + Oka – Hudson (Lago de Duas Montanhas)",
+        "sistema_id": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+        "sistema_nome": "Ferries Elétricos do Alto Rio São Lourenço, Arquipélago das Mil Ilhas (Thousand Islands) e Rio Ottawa (Canadá e EUA)",
+        "pais": "Canadá",
+        "cidade": "Ottawa / Gatineau / Oka / Hudson",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Traversiers Bourbonnais & Traversier Oka–Hudson",
+        "extensao_km": 150,
+        "bitola": "Hidrovia Fluvial Interprovincial",
+        "eletrificacao": "Ferries Ro-Ro de Travessia Contínua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.412,
+            45.524
+          ],
+          [
+            -75.418,
+            45.535
+          ],
+          [
+            -74.6,
+            45.6
+          ],
+          [
+            -74.145,
+            45.458
+          ],
+          [
+            -74.095,
+            45.462
+          ]
+        ]
+      }
     }
   ]
 }

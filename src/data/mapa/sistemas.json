@@ -41074,5 +41074,318 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+    "slug": "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+    "nome_pt": "Grandes Hidrovias Fluviais da Sibéria e Lago Baikal — PassaYenisei Krasnoyarsk–Dudinka (Rio Ienissei), LenaTurFlot Yakutsk–Nizhny Bestyakh–Tiksi (Rio Lena), Ob-Irtysh e VSRPP Lago Baikal (Rússia)",
+    "nome_en": "Great Siberian River Waterways & Lake Baikal Ferries — Yenisei (Krasnoyarsk–Dudinka), Lena (Yakutsk–Nizhny Bestyakh–Tiksi), Ob-Irtysh & Baikal VSRPP (Russia)",
+    "pais": "Rússia",
+    "cidade": "Krasnoyarsk / Yakutsk / Irkutsk / Dudinka / Khanty-Mansiysk",
+    "uf": "Sibéria e Extremo Oriente Russo",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "PassaYenisei (ПассажирРечТранс) / LORP & LenaTurFlot / VSRPP (East Siberian River Shipping Company) / Severrechflot (Ob-Irtysh)",
+    "inauguracao": "1885 (navegação a vapor no Ienissei e Lena) / 2024 (novos navios de passageiros Andrey Dubensky e hidrofólios Meteor 120R na Sibéria)",
+    "extensao_km": 4850,
+    "bitola": "Hidrovia Fluvial e Lacustre de Grande Porte (Navios Fluviais, Ferries Quebra-Gelo, Ro-Ro e Hidrofólios Meteor/Kometa)",
+    "eletrificacao": "Propulsão Diesel-Marítima Reforçada para Gelo (Classe Ice/Arc4) e Hidrofólios de Alta Velocidade",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": "RUB 22 bilhões (construção dos navios classe A45-90.2 Andrey Dubensky e Viktor Astafyev para o Ienissei, renovação dos ferries Yakutsk–Nizhny Bestyakh e frota VSRPP do Baikal)",
+    "proximas_entregas": "Entrada em serviço pleno do segundo navio polar de passageiros no corredor Krasnoyarsk–Dudinka e novos ferries quebra-gelo para a travessia ferroviária-fluvial de Yakutsk",
+    "resumo_pt": "Espinha dorsal do transporte de passageiros nas grandes bacias hidrográficas da Sibéria onde não há rodovias permanentes: une a linha tronco de 1.989 km do Rio Ienissei entre Krasnoyarsk, Yeniseysk, Turukhansk, Igarka e o porto ártico de Dudinka (conectado à ferrovia de Norilsk), a travessia vital do Rio Lena entre Yakutsk e o terminal ferroviário da Ferrovia Amur-Yakutsk em Nizhny Bestyakh (além dos hidrofólios para os Pilares do Lena e navios para Tiksi), os hidrofólios Meteor 120R da bacia do Ob-Irtysh (Khanty-Mansiysk–Salekhard) e a frota VSRPP do Lago Baikal (Irkutsk–Listvyanka–Ilha de Olkhon).",
+    "resumo_en": "Backbone of passenger transport across the great river basins of Siberia where all-weather roads are absent: connects the 1,989 km Yenisei River trunk route from Krasnoyarsk to the Arctic port of Dudinka, the vital Lena River crossing linking Yakutsk with the Amur-Yakutsk Railway head at Nizhny Bestyakh, the Ob-Irtysh Meteor 120R hydrofoils, and VSRPP ferries across Lake Baikal to Olkhon Island.",
+    "lat": 56.0106,
+    "lon": 92.8526,
+    "zoom_inicial": 4,
+    "fontes": [
+      "PassaYenisei (AO PassazhirRechTrans Krasnoyarsk) — Horários e Rotas Krasnoyarsk–Dudinka 2026",
+      "LORP / Ferries Yakutsk–Nizhny Bestyakh & VSRPP Lago Baikal — Relatório de Navegação Siberiana 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "hidrovia",
+      "siberia",
+      "russia",
+      "rio-ienissei",
+      "rio-lena",
+      "lago-baikal",
+      "yakutsk",
+      "krasnoyarsk"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-yenisei-krasnoyarsk-yeniseysk-igarka-dudinka-baikal-irkutsk-olkhon",
+        "nome": "Hidrovia do Rio Ienissei e Lago Baikal: Krasnoyarsk – Yeniseysk – Igarka – Dudinka + Irkutsk – Listvyanka – Ilha de Olkhon",
+        "status": "operacao",
+        "extensao_km": 2650,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-lena-yakutsk-nizhny-bestyakh-tiksi-ob-irtysh-khanty-mansiysk-salekhard",
+        "nome": "Hidrovia do Rio Lena e Bacia do Ob-Irtysh: Yakutsk – Nizhny Bestyakh (Terminal Ferroviário AYaM) – Lensk – Tiksi + Khanty-Mansiysk – Salekhard",
+        "status": "operacao",
+        "extensao_km": 2200,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+    "slug": "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+    "nome_pt": "Frota de Hidrofólios (Meteor 120R e Valdai 45R) e Ferries da Bacia do Rio Volga, Rio Kama e Rio Neva — Kazan, Nizhny Novgorod, Samara e São Petersburgo (Rússia)",
+    "nome_en": "Volga, Kama & Neva Basin Hydrofoils (Meteor 120R & Valdai 45R) and River Ferries — Kazan, Nizhny Novgorod, Samara & Saint Petersburg (Russia)",
+    "pais": "Rússia",
+    "cidade": "Kazan / Nizhny Novgorod / Samara / São Petersburgo",
+    "uf": "Rússia Europeia e Bacia do Volga",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Vodolyot (Nizhny Novgorod) / Flot RT (Tartaristão — Kazan) / SRPP Samara / Peterhof Express & Neva Travel (São Petersburgo)",
+    "inauguracao": "1957 (primeiro hidrofólio Raketa de Rostislav Alexeyev no Volga) / 2019–2026 (nova geração Valdai 45R, Meteor 120R e catamarãs Kotlin)",
+    "extensao_km": 1420,
+    "bitola": "Hidrovia Fluvial e Estuarina de Alta Velocidade (Hidrofólios Valdai 45R, Meteor 120R, Catamarãs Kotlin e Ferries Urbanos do Volga)",
+    "eletrificacao": "Propulsão Diesel-Hidrodinâmica de Alta Eficiência sobre Asas Submersas (65 km/h) e Embarcações Elétricas Ecovolt/Ecocruiser",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 46000,
+    "ano_referencia": 2026,
+    "investimento": "RUB 14,5 bilhões (expansão da frota de hidrofólios do Estaleiro Central de Alekseyev em Nizhny Novgorod e Estaleiro de Zelenodolsk no Tartaristão)",
+    "proximas_entregas": "Novas linhas inter-regionais do Meteor 120R ligando Nizhny Novgorod, Cheboksary, Kazan, Ulyanovsk e Samara ao longo do Médio Volga",
+    "resumo_pt": "Berço mundial da navegação comercial por hidrofólios projetados por Rostislav Alexeyev no Rio Volga: reúne a rede inter-regional e metropolitana de hidrofólios de nova geração Valdai 45R e Meteor 120R operando a 65 km/h entre Nizhny Novgorod, Cheboksary, Kazan, a ilha histórica de Sviyazhsk, Bolgar, Ulyanovsk e Samara (incluindo a travessia pendular Samara–Rozhdestveno), em conjunto com os hidrofólios Meteor e catamarãs de alta velocidade Kotlin que conectam o centro de São Petersburgo (Hermitage / Admiralty) a Peterhof e à fortaleza insular de Kronstadt pelo Rio Neva e Golfo da Finlândia.",
+    "resumo_en": "World birthplace of commercial hydrofoil navigation designed by Rostislav Alexeyev on the Volga River: combines the new-generation Valdai 45R and Meteor 120R high-speed hydrofoil network linking Nizhny Novgorod, Cheboksary, Kazan, Sviyazhsk, Bolgar, and Samara with the Meteor hydrofoils and Kotlin catamarans connecting central Saint Petersburg to Peterhof and Kronstadt Island across the Neva River and Gulf of Finland.",
+    "lat": 55.7824,
+    "lon": 49.0967,
+    "zoom_inicial": 5,
+    "fontes": [
+      "AO Flot Respubliki Tatarstan (Kazan) & Vodolyot (Nizhny Novgorod) — Malha de Hidrofólios do Volga 2026",
+      "SRPP Samara & Neva Travel (São Petersburgo–Peterhof–Kronstadt) — Estatísticas Operacionais 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "hidrofolio",
+      "meteor",
+      "valdai",
+      "rio-volga",
+      "rio-neva",
+      "kazan",
+      "nizhny-novgorod",
+      "sao-petersburgo",
+      "russia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-volga-hidrofolios-nizhny-novgorod-cheboksary-kazan-sviyazhsk-bolgar-samara",
+        "nome": "Corredor de Hidrofólios do Médio Volga (Meteor 120R & Valdai 45R): Nizhny Novgorod – Cheboksary – Kazan – Sviyazhsk – Bolgar – Samara – Rozhdestveno",
+        "status": "operacao",
+        "extensao_km": 1180,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-neva-golfo-finlandia-sao-petersburgo-hermitage-peterhof-kronstadt",
+        "nome": "Expresso Rio Neva e Golfo da Finlândia (Meteor & Catamarã Kotlin): São Petersburgo (Hermitage) – Peterhof (Palácio Inferior) – Ilha de Kronstadt",
+        "status": "operacao",
+        "extensao_km": 240,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+    "slug": "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+    "nome_pt": "Hidrovias dos Grandes Afluentes e Alto Curso da Bacia do Congo — Rio Ubangui (Bangui–Zongo–Kinshasa), Rio Kasai (Kinshasa–Ilebo) e Rio Lualaba SNCC (Kindu–Bukama, RD Congo e RCA)",
+    "nome_en": "Congo Basin Major Tributaries & Upper Congo Waterways — Ubangi River (Bangui–Zongo–Kinshasa), Kasai River (Kinshasa–Ilebo) & Lualaba River SNCC (Kindu–Bukama, DR Congo & CAR)",
+    "pais": "RD Congo",
+    "cidade": "Bangui / Zongo / Ilebo / Kindu / Kalemie",
+    "uf": "Bacia do Rio Congo (RD Congo e República Centro-Africana)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "RVF (Régie des Voies Fluviales) / SCTP / SOCATRAF (Bangui) / SNCC (Société Nationale des Chemins de fer du Congo — Divisão Fluvial do Lualaba)",
+    "inauguracao": "1906 (integração multimodal ferro-fluvial da Compagnie du Chemin de fer du Bas-Congo au Katanga e Rio Lualaba)",
+    "extensao_km": 2650,
+    "bitola": "Hidrovia Fluvial Multimodal Ferro-Hidroviária (Comboios Fluviais de Passageiros, Ferries Internacionais e Barcos Expressos)",
+    "eletrificacao": "Propulsão Diesel-Fluvial Pesada e Balsas Motorizadas de Travessia Transfronteiriça",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 34000,
+    "ano_referencia": 2026,
+    "investimento": "US$ 95 milhões (dragagem e balizamento da hidrovia do Rio Ubangui e do Rio Kasai pelo projeto CICOS/Banco Mundial e reabilitação das embarcações fluviais da SNCC no Lualaba)",
+    "proximas_entregas": "Modernização do terminal intermodal rodo-ferro-hidroviário de Ilebo no Rio Kasai e novos ferries para a travessia Bangui–Zongo",
+    "resumo_pt": "Rede de grandes artérias navegáveis tributárias e do alto curso da Bacia do Rio Congo (a segunda maior bacia hidrográfica do planeta, com 15.000 km navegáveis): integra a hidrovia internacional do Rio Ubangui (incluindo a travessia binacional diária entre a capital Bangui na República Centro-Africana e Zongo na RD Congo, descendo por Impfondo até o Congo), a hidrovia nacional do Rio Kasai que liga Kinshasa e Bandundu ao porto ferroviário de Ilebo (ponta de trilhos da ferrovia SNCC para Kananga e Lubumbashi) e o corredor fluvial do Alto Congo / Rio Lualaba operado pela SNCC entre Kindu, Kongolo, Kabalo e Bukama.",
+    "resumo_en": "Network of major navigable tributaries and upper reaches of the Congo River Basin: integrates the international Ubangi River waterway (including the daily cross-border ferry between Bangui in the Central African Republic and Zongo in DR Congo), the Kasai River intermodal corridor linking Kinshasa to the SNCC railhead at Ilebo, and the SNCC Upper Congo / Lualaba River passenger service between Kindu, Kongolo, Kabalo, and Bukama.",
+    "lat": 4.3614,
+    "lon": 18.555,
+    "zoom_inicial": 5,
+    "fontes": [
+      "CICOS (Commission Internationale du Bassin Congo-Oubangui-Sangha) — Atlas da Navegação Fluvial 2026",
+      "RVF & SNCC (Société Nationale des Chemins de fer du Congo) — Operações Ferro-Fluviais Kasai e Lualaba 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "hidrovia",
+      "rio-congo",
+      "rio-ubangui",
+      "rio-kasai",
+      "rio-lualaba",
+      "rd-congo",
+      "bangui",
+      "ilebo",
+      "kindu"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-rio-ubangui-bangui-zongo-impfondo-rio-kasai-kinshasa-bandundu-ilebo",
+        "nome": "Hidrovias do Rio Ubangui e Rio Kasai: Travessia Binacional Bangui (RCA) – Zongo (RDC) – Impfondo + Corredor Ferro-Fluvial Kinshasa – Bandundu – Ilebo",
+        "status": "operacao",
+        "extensao_km": 1750,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-alto-congo-rio-lualaba-sncc-kindu-kongolo-kabalo-bukama",
+        "nome": "Hidrovia do Alto Congo / Rio Lualaba (SNCC Fluvial): Kindu – Kongolo – Kabalo – Ankoro – Bukama",
+        "status": "operacao",
+        "extensao_km": 900,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+    "slug": "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+    "nome_pt": "Hidrovias do Nilo Branco, Nilo Alberto, Nilo Vitória e Lago Kyoga — Ferries UNRA (Wanseko–Panyimur, Laropi–Umi e Lago Kyoga) e Bahr el Jebel Juba–Bor–Malakal (Uganda e Sudão do Sul)",
+    "nome_en": "White Nile, Albert Nile, Victoria Nile & Lake Kyoga Waterways — UNRA Ferries (Wanseko–Panyimur, Laropi–Umi & Lake Kyoga) & Bahr el Jebel Juba–Bor–Malakal (Uganda & South Sudan)",
+    "pais": "Uganda",
+    "cidade": "Panyimur / Laropi / Masindi Port / Namasale / Juba",
+    "uf": "Bacia do Alto Nilo (Uganda e Sudão do Sul)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "UNRA (Uganda National Roads Authority — Ferry Services Division) / Operadores Fluviais do Nilo Branco (Juba–Bor–Malakal)",
+    "inauguracao": "1954 (primeiras balsas públicas do Nilo em Uganda) / 2020–2026 (novos ferries MV Albert Nile 1, MV Kyoga 1 & 2 e MV Sigulu)",
+    "extensao_km": 1180,
+    "bitola": "Hidrovia Fluvial e Lacustre Equatorial (Ferries Ro-Ro Públicos Gratuitos UNRA e Embarcações Fluviais do Nilo Branco)",
+    "eletrificacao": "Propulsão Diesel-Hidráulica Dupla com Hélices Azimutais (Schottel) para Travessias Fluviais de Correnteza",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 31000,
+    "ano_referencia": 2026,
+    "investimento": "US$ 68 milhões (aquisição dos novos ferries MV Kyoga 1 & 2, MV Albert Nile 1 e modernização dos píeres do Lago Kyoga, Lago Alberto e Nilo Alberto)",
+    "proximas_entregas": "Entrada em operação de novos ferries de maior capacidade no Lago Kyoga (Bukungu–Kagwara–Kaberamaido) e dragagem dos portos de Juba e Bor no Nilo Branco",
+    "resumo_pt": "Sistema integrado de travessias fluviais e lacustres da bacia equatorial do Alto Rio Nilo: abrange a frota nacional gratuita de ferries Ro-Ro da UNRA em Uganda que conecta as margens do Lago Alberto e do Nilo Alberto (MV Albert Nile 1 entre Wanseko e Panyimur, além de Laropi–Umi e Obongi–Sinyanya perto da fronteira com o Sudão do Sul), as travessias vitais do Nilo Vitória e do Lago Kyoga (Masindi Port–Kungu e MV Kyoga 1 & 2 entre Zengebe e Namasale) e o corredor fluvial do Nilo Branco (Bahr el Jebel) que liga Juba, Bor e Malakal no Sudão do Sul.",
+    "resumo_en": "Integrated river and lake ferry network across the equatorial Upper Nile Basin: encompasses Uganda's toll-free UNRA Ro-Ro ferries across Lake Albert and the Albert Nile (MV Albert Nile 1 Wanseko–Panyimur and Laropi–Umi), the Victoria Nile and Lake Kyoga crossings (Masindi Port–Kungu and MV Kyoga 1 & 2 Zengebe–Namasale), and the White Nile (Bahr el Jebel) waterway linking Juba, Bor, and Malakal in South Sudan.",
+    "lat": 2.275,
+    "lon": 31.385,
+    "zoom_inicial": 6,
+    "fontes": [
+      "UNRA (Uganda National Roads Authority) — National Ferry Services Operations & Fleet Report 2026",
+      "Nile Basin Initiative (NBI) — Navigational Assessment of Lake Albert, Lake Kyoga & White Nile 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "hidrovia",
+      "rio-nilo",
+      "nilo-branco",
+      "lago-alberto",
+      "lago-kyoga",
+      "uganda",
+      "sudao-do-sul",
+      "unra"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-unra-lago-alberto-nilo-alberto-wanseko-panyimur-laropi-juba-bor",
+        "nome": "Eixo Lago Alberto, Nilo Alberto e Nilo Branco: Wanseko – Panyimur (MV Albert Nile 1) + Laropi – Umi (Adjumani/Moyo) + Juba – Bor (Bahr el Jebel)",
+        "status": "operacao",
+        "extensao_km": 740,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-unra-nilo-vitoria-lago-kyoga-masindi-port-kungu-zengebe-namasale",
+        "nome": "Eixo Nilo Vitória e Lago Kyoga (UNRA Ferries): Masindi Port – Kungu + Zengebe (Nakasongola) – Namasale (MV Kyoga 1 & 2)",
+        "status": "operacao",
+        "extensao_km": 440,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+    "slug": "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada",
+    "nome_pt": "Ferries Elétricos do Alto Rio São Lourenço, Arquipélago das Mil Ilhas (Thousand Islands) e Rio Ottawa — Wolfe Island IV (Kingston), Amherst Island, Glenora e Oka–Hudson (Canadá e EUA)",
+    "nome_en": "Upper St. Lawrence River, Thousand Islands & Ottawa River Electric Ferries — MTO Wolfe Island IV (Kingston), Amherst Island, Glenora & Oka–Hudson (Canada & USA)",
+    "pais": "Canadá",
+    "cidade": "Kingston / Wolfe Island / Stella / Picton / Oka–Hudson",
+    "uf": "Ontário, Quebec e Nova York",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "MTO (Ministry of Transportation of Ontario) / Horne's Ferry (Canadá–EUA) / Traversiers Bourbonnais (Cumberland–Masson-Angers e Oka–Hudson)",
+    "inauguracao": "1802 (primeiras barcas regulares de Kingston–Wolfe Island) / 2024 (entrada em serviço dos ferries 100% elétricos MV Wolfe Islander IV e MV Amherst Islander II construídos pela Damen)",
+    "extensao_km": 340,
+    "bitola": "Hidrovia Fluvial e Lacustre Zero-Emissão (Ferries Ro-Ro 100% Elétricos a Bateria Damen E-Ferry e Balsas Fluviais)",
+    "eletrificacao": "100% Elétrico a Bateria com Recarga Rápida de Alta Potência em Terra (MV Wolfe Islander IV de 98 m / 399 passageiros e MV Amherst Islander II)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 24000,
+    "ano_referencia": 2026,
+    "investimento": "CAD 185 milhões (construção dos dois ferries 100% elétricos Damen Road Ferry 9819 e 6819 e eletrificação dos terminais de Kingston, Marysville, Millhaven e Stella)",
+    "proximas_entregas": "Operação plena dos sistemas automatizados de atracação a vácuo e recarga rápida megawatt nos píeres de Kingston e Marysville",
+    "resumo_pt": "Corredor pioneiro de navegação fluvial 100% elétrica na saída do Lago Ontário e cabeceira do Rio São Lourenço (Arquipélago das Mil Ilhas / Thousand Islands): destaca-se pelo moderno ferry zero-emissão MV Wolfe Islander IV (98 metros, capacidade para 399 passageiros e 75 veículos) que liga gratuitamente o centro histórico de Kingston a Marysville na Ilha Wolfe, pelo ferry elétrico irmão MV Amherst Islander II entre Millhaven e Stella, pelo ferry de Glenora (Baía de Quinte / Prince Edward County), pela travessia internacional Horne's Ferry até Cape Vincent (NY, EUA) e pelas balsas interprovinciais do Rio Ottawa entre Ontário e Quebec (Cumberland–Masson-Angers e Oka–Hudson).",
+    "resumo_en": "Pioneering 100% electric river ferry corridor at the outlet of Lake Ontario and headwaters of the St. Lawrence River (Thousand Islands): features the zero-emission MV Wolfe Islander IV linking historic downtown Kingston to Marysville on Wolfe Island, its sister electric ferry MV Amherst Islander II (Millhaven–Stella), the Glenora Ferry (Bay of Quinte), the international Horne's Ferry to Cape Vincent (NY, USA), and the Ottawa River ferries between Ontario and Quebec (Cumberland–Masson-Angers and Oka–Hudson).",
+    "lat": 44.2285,
+    "lon": -76.4775,
+    "zoom_inicial": 7,
+    "fontes": [
+      "Ministry of Transportation of Ontario (MTO) — Eastern Ontario Electric Ferry Fleet (Wolfe Islander IV & Amherst Islander II) 2026",
+      "Traversiers du Lac des Deux Montagnes & Ottawa River Ferries — Relatório Operacional 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "ferry-eletrico",
+      "rio-sao-lourenco",
+      "thousand-islands",
+      "kingston",
+      "wolfe-island",
+      "rio-ottawa",
+      "ontario",
+      "quebec",
+      "canada"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-mto-alto-sao-lourenco-kingston-wolfe-island-amherst-island-glenora",
+        "nome": "Ferries 100% Elétricos do Alto São Lourenço e Baía de Quinte: Kingston – Marysville (Wolfe Island IV) + Cape Vincent (NY) + Millhaven – Stella (Amherst Island II) + Adolphustown – Glenora",
+        "status": "operacao",
+        "extensao_km": 190,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-rio-ottawa-cumberland-masson-angers-oka-hudson-ontario-quebec",
+        "nome": "Travessias do Rio Ottawa (Ontário–Quebec): Cumberland (Ottawa) – Masson-Angers (Gatineau) + Oka – Hudson (Lago de Duas Montanhas)",
+        "status": "operacao",
+        "extensao_km": 150,
+        "estacoes": 2
+      }
+    ]
   }
 ]
