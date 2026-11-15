@@ -34602,5 +34602,434 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "slug": "torghatten-nord-bodo-moskenes-rost-vaeroy-svolvaer-skutvik-lofoten-noruega",
+    "nome": "Ferries do Vestfjorden e Arquipélago de Lofoten — Torghatten Nord (Bodø–Moskenes/Reine–Værøy–Røst, Bognes–Lødingen e Svolvær–Skrova–Skutvik, Noruega)",
+    "nome_pt": "Ferries do Vestfjorden e Arquipélago de Lofoten — Torghatten Nord (Bodø–Moskenes/Reine–Værøy–Røst, Bognes–Lødingen e Svolvær–Skrova–Skutvik, Noruega)",
+    "nome_en": "Vestfjorden & Lofoten Archipelago Ferries — Torghatten Nord (Bodø–Moskenes/Reine–Værøy–Røst, Bognes–Lødingen & Svolvær–Skrova–Skutvik, Norway)",
+    "pais": "Noruega",
+    "codigo_pais": "NO",
+    "continente": "Europa",
+    "cidade_principal": "Bodø / Moskenes / Svolvær / Lødingen (Nordland — Círculo Polar Ártico)",
+    "tipo": "barco",
+    "status": "operacao",
+    "operador": "Torghatten Nord AS (sob concessão do Ministério dos Transportes da Noruega / Statens vegvesen e Nordland fylkeskommune)",
+    "extensao_km": 310.0,
+    "bitola": "Ferry Ro-Pax Oceânico a GNL (Gás Natural Liquefeito) e Elétrico Híbrido de Travessia Ártica",
+    "eletrificacao": "Propulsão marítima limpa a Gás Natural Liquefeito (MF Landegode, MF Værøy, MF Tranøy, MF Barøy e MF Lødingen) e híbrido-elétrica",
+    "velocidade_max_kmh": 35,
+    "passageiros_ano": 1450000,
+    "inauguracao": "1960 (Rota histórica do Vestfjorden Bodø–Moskenes; frota a GNL introduzida em 2012–2013)",
+    "resumo_pt": "A rede de ferries da Torghatten Nord através do Vestfjorden é o elo marítimo vital da Rodovia Europeia E10 (Rota Rei Olav V) acima do Círculo Polar Ártico. A partir do terminal de Bodø (integrado à estação final da Nordlandsbanen da Vy), os ferries oceânicos a GNL MF Landegode e MF Værøy cruzam o Vestfjorden até Moskenes (próximo a Reine e Å i Lofoten) e as ilhas remotas de Værøy e Røst, enquanto a rota de alta frequência Bognes–Lødingen e a travessia Svolvær–Skrova–Skutvik conectam o continente ao coração do Arquipélago de Lofoten.",
+    "resumo_en": "Torghatten Nord's ferry network across the Vestfjorden forms the vital maritime link of European Route E10 (King Olav V's Road) north of the Arctic Circle. Departing from Bodø Ferry Terminal (adjacent to the northern terminus of the Nordland Railway), LNG-powered ocean-going ferries MF Landegode and MF Værøy cross the Vestfjorden to Moskenes (near Reine and Å in Lofoten) and the outer islands of Værøy and Røst, while the high-frequency Bognes–Lødingen crossing and Svolvær–Skrova–Skutvik link connect the mainland to central Lofoten.",
+    "investimento": {
+      "valor": "NOK 4,5 bilhões em renovação de frota a GNL/hidrogênio (projetos MF Hinnøy elétricos e LH2 Bodø–Moskenes) e modernização de terminais no Ártico",
+      "moeda": "NOK",
+      "fonte_id": "tn-lofoten-1"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação dos novos ferries movidos a hidrogênio verde comprimido/líquido na rota Bodø–Moskenes e eletrificação total da travessia Bognes–Lødingen com o megafarry elétrico MF Hinnøy.",
+      "en": "Entry into service of new green hydrogen-powered ferries on the Bodø–Moskenes route and full electrification of the Bognes–Lødingen crossing with the all-electric mega-ferry MF Hinnøy."
+    },
+    "lat": 67.85,
+    "lon": 13.85,
+    "zoom_inicial": 7,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "noruega",
+      "lofoten",
+      "bodo",
+      "moskenes",
+      "svolvaer",
+      "artico",
+      "torghatten-nord"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MF_Landegode_in_Bod%C3%B8.jpg/1280px-MF_Landegode_in_Bod%C3%B8.jpg",
+      "credito": "Torghatten Nord / Wikimedia Commons",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MF_Landegode_in_Bod%C3%B8.jpg"
+    },
+    "fontes": [
+      {
+        "id": "tn-lofoten-1",
+        "titulo": "Torghatten Nord — Rutetabeller Bodø–Moskenes–Værøy–Røst & Bognes–Lødingen",
+        "url": "https://www.torghatten-nord.no/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-torghatten-vestfjorden-bodo-moskenes-vaeroy-rost",
+        "nome": "Ferry do Vestfjorden Rota 18-782: Bodø – Moskenes (Lofoten) – Værøy – Røst (MF Landegode / MF Værøy)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 165.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-torghatten-lofoten-norte-bognes-lodingen-svolvaer-skutvik",
+        "nome": "Corredor Norte de Lofoten e Tysfjorden: Bognes – Lødingen (Rota E10) e Svolvær – Skrova – Skutvik",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 145.0,
+        "cor": "#00b8d4"
+      }
+    ],
+    "id": "torghatten-nord-bodo-moskenes-rost-vaeroy-svolvaer-skutvik-lofoten-noruega",
+    "cidade": "Bodø / Moskenes / Svolvær / Lødingen (Nordland — Círculo Polar Ártico)",
+    "uf": "Nordland (Círculo Polar Ártico / Lofoten)",
+    "camada": "misto",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 3972,
+    "ano_referencia": 2026
+  },
+  {
+    "slug": "fjord1-norled-geiranger-hellesylt-gudvangen-flam-naeroyfjord-lysefjord-noruega",
+    "nome": "Ferries Elétricos e Híbridos dos Grandes Fiordes Patrimônio Mundial da Noruega — The Fjords, Fjord1 e Norled (Flåm–Gudvangen no Nærøyfjord, Geiranger–Hellesylt e Lysefjord, Noruega)",
+    "nome_pt": "Ferries Elétricos e Híbridos dos Grandes Fiordes Patrimônio Mundial da Noruega — The Fjords, Fjord1 e Norled (Flåm–Gudvangen no Nærøyfjord, Geiranger–Hellesylt e Lysefjord, Noruega)",
+    "nome_en": "Norwegian World Heritage Fjords Electric & Hybrid Ferries — The Fjords, Fjord1 & Norled (Flåm–Gudvangen Nærøyfjord, Geiranger–Hellesylt & Lysefjord, Norway)",
+    "pais": "Noruega",
+    "codigo_pais": "NO",
+    "continente": "Europa",
+    "cidade_principal": "Flåm / Gudvangen / Geiranger / Hellesylt / Lysebotn (Vestland, Møre og Romsdal e Rogaland)",
+    "tipo": "barco",
+    "status": "operacao",
+    "operador": "The Fjords DA, Fjord1 ASA e Norled AS (em integração com a ferrovia alpina Flåmsbana / Vy e rotas Skyss / Kolumbus)",
+    "extensao_km": 240.0,
+    "bitola": "Catamarã 100% Elétrico em Fibra de Carbono (Future of The Fjords / Legacy of The Fjords) e Ferry Elétrico Ro-Pax",
+    "eletrificacao": "100% Elétrico a Bateria (recarregamento ultrarrápido de 2,4 MW no PowerDock flutuante de Gudvangen) e Hidrogênio líquido (MF Hydra)",
+    "velocidade_max_kmh": 37,
+    "passageiros_ano": 3200000,
+    "inauguracao": "1858 (Navegação regular nos fiordes; catamarãs 100% elétricos Future of The Fjords em 2018)",
+    "resumo_pt": "Operando nos fiordes noruegueses listados como Patrimônio Mundial da UNESCO, a frota da The Fjords, Fjord1 e Norled é referência global em navegação emissão-zero. No Nærøyfjord e Aurlandsfjord, os catamarãs 100% elétricos de fibra de carbono Future of The Fjords e Legacy of The Fjords conectam a histórica estação ferroviária da Flåmsbana em Flåm a Aurland e Gudvangen com silêncio absoluto. Mais ao norte, a Fjord1 opera a travessia Geiranger–Hellesylt ao pé das cachoeiras Sete Irmãs, enquanto ao sul a Norled e a Fjord1 conectam Lavik–Oppedal no Sognefjord e Lauvvik–Forsand–Songesand–Lysebotn sob o Preikestolen e Kjerag no Lysefjord.",
+    "resumo_en": "Operating across Norway's UNESCO World Heritage fjords, the fleets of The Fjords, Fjord1, and Norled represent the global benchmark for zero-emission maritime transport. In the Nærøyfjord and Aurlandsfjord, all-electric carbon-fiber catamarans Future of The Fjords and Legacy of The Fjords connect the historic Flåm Railway station to Aurland and Gudvangen in total silence. Further north, Fjord1 operates the Geiranger–Hellesylt crossing beneath the Seven Sisters waterfalls, while to the south Norled and Fjord1 connect Lavik–Oppedal across the Sognefjord and Lauvvik–Forsand–Lysebotn beneath Pulpit Rock (Preikestolen) in the Lysefjord.",
+    "investimento": {
+      "valor": "NOK 3,8 bilhões em catamarãs elétricos de fibra de carbono, PowerDocks flutuantes e ferries a hidrogênio líquido (MF Hydra)",
+      "moeda": "NOK",
+      "fonte_id": "fjords-no-1"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação do mandato de emissão zero total do Parlamento Norueguês (Stortinget) para todas as embarcações nos Fiordes Patrimônio Mundial (Nærøyfjord e Geirangerfjord) a partir de 2026.",
+      "en": "Implementation of the Norwegian Parliament's (Stortinget) zero-emission mandate for all passenger vessels in the World Heritage Fjords (Nærøyfjord and Geirangerfjord) starting in 2026."
+    },
+    "lat": 60.88,
+    "lon": 7.11,
+    "zoom_inicial": 7,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara-eletrico",
+      "noruega",
+      "flam",
+      "gudvangen",
+      "geiranger",
+      "lysefjord",
+      "fjord1",
+      "norled"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Vision_of_the_Fjords_%28ship%2C_2016%29_001.jpg/1280px-Vision_of_the_Fjords_%28ship%2C_2016%29_001.jpg",
+      "credito": "The Fjords / Wikimedia Commons",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vision_of_the_Fjords_(ship,_2016)_001.jpg"
+    },
+    "fontes": [
+      {
+        "id": "fjords-no-1",
+        "titulo": "The Fjords & Fjord1 — Zero-Emission Fjord Cruises Flåm–Gudvangen & Geiranger–Hellesylt",
+        "url": "https://www.thefjords.no/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-the-fjords-flam-gudvangen-geiranger-hellesylt",
+        "nome": "Fiordes Patrimônio Mundial UNESCO: Flåm – Aurland – Gudvangen (Nærøyfjord Elétrico) e Geiranger – Hellesylt",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 125.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-fjord1-norled-sognefjord-lavik-oppedal-lysefjord-lysebotn",
+        "nome": "Eixo E39 Sognefjord e Lysefjord: Lavik – Oppedal (MF Ampere Elétrico) e Lauvvik – Forsand – Lysebotn (Preikestolen)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 115.0,
+        "cor": "#00b8d4"
+      }
+    ],
+    "id": "fjord1-norled-geiranger-hellesylt-gudvangen-flam-naeroyfjord-lysefjord-noruega",
+    "cidade": "Flåm / Gudvangen / Geiranger / Hellesylt / Lysebotn (Vestland, Møre og Romsdal e Rogaland)",
+    "uf": "Vestland / Møre og Romsdal / Rogaland",
+    "camada": "misto",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 8767,
+    "ano_referencia": 2026
+  },
+  {
+    "slug": "color-line-superspeed-kristiansand-larvik-hirtshals-fjord-line-stavanger-bergen-sandefjord-stromstad-noruega-dinamarca-suecia",
+    "nome": "Autoestradas Marítimas do Skagerrak — Color Line SuperSpeed (Kristiansand/Larvik–Hirtshals), Color Hybrid (Sandefjord–Strømstad) e Fjord Line (Bergen–Stavanger–Hirtshals, Noruega, Dinamarca e Suécia)",
+    "nome_pt": "Autoestradas Marítimas do Skagerrak — Color Line SuperSpeed (Kristiansand/Larvik–Hirtshals), Color Hybrid (Sandefjord–Strømstad) e Fjord Line (Bergen–Stavanger–Hirtshals, Noruega, Dinamarca e Suécia)",
+    "nome_en": "Skagerrak Motorways of the Sea — Color Line SuperSpeed (Kristiansand/Larvik–Hirtshals), Color Hybrid (Sandefjord–Strømstad) & Fjord Line (Bergen–Stavanger–Hirtshals, Norway, Denmark & Sweden)",
+    "pais": "Noruega, Dinamarca e Suécia",
+    "codigo_pais": "NO",
+    "continente": "Europa",
+    "cidade_principal": "Kristiansand / Larvik / Sandefjord / Stavanger / Bergen / Hirtshals / Strømstad",
+    "tipo": "barco",
+    "status": "operacao",
+    "operador": "Color Line AS e Fjord Line AS",
+    "extensao_km": 580.0,
+    "bitola": "Superferry Rápido Ro-Pax (MS SuperSpeed 1 & 2, 27 nós), Cruise Ferry a GNL e Maior Ferry Híbrido Plug-in do Mundo (MS Color Hybrid)",
+    "eletrificacao": "Híbrido Plug-in com bateria de 5 MWh (MS Color Hybrid em navegação 100% elétrica no fiorde de Sandefjord) e conexão elétrica em terra (Shore Power) em todos os portos",
+    "velocidade_max_kmh": 55,
+    "passageiros_ano": 4800000,
+    "inauguracao": "1990 (Color Line) / 1993 (Fjord Line) / 2019 (MS Color Hybrid)",
+    "resumo_pt": "As travessias do Estreito de Skagerrak formam a principal ponte rodoviária e de passageiros entre a Noruega, a Dinamarca (Jutlândia) e a Suécia ocidental. A Color Line opera os superferries rápidos MS SuperSpeed 1 (Kristiansand–Hirtshals em 3h15) e MS SuperSpeed 2 (Larvik–Hirtshals em 3h45), além do MS Color Hybrid (o maior ferry híbrido plug-in do mundo, para 2.000 passageiros e 500 veículos) entre Sandefjord (Noruega) e Strømstad (Suécia). Paralelamente, a Fjord Line conecta Bergen, Stavanger (Risavika) e Kristiansand a Hirtshals com os navios gémeos MS Stavangerfjord e MS Bergensfjord e o catamarã rápido FSTR.",
+    "resumo_en": "The crossings of the Skagerrak strait form the primary passenger and vehicular bridge between Norway, Denmark (Jutland), and western Sweden. Color Line operates fast Ro-Pax superferries MS SuperSpeed 1 (Kristiansand–Hirtshals in 3h15) and MS SuperSpeed 2 (Larvik–Hirtshals in 3h45), alongside MS Color Hybrid (the world's largest plug-in hybrid ferry, carrying 2,000 passengers and 500 cars) between Sandefjord (Norway) and Strømstad (Sweden). Meanwhile, Fjord Line connects Bergen, Stavanger (Risavika), and Kristiansand to Hirtshals with sister vessels MS Stavangerfjord and MS Bergensfjord and the high-speed catamaran FSTR.",
+    "investimento": {
+      "valor": "NOK 6,2 bilhões nos navios SuperSpeed, MS Color Hybrid e instalações de energia em terra (Onshore Power Supply) de alta tensão",
+      "moeda": "NOK",
+      "fonte_id": "colorline-1"
+    },
+    "proximas_entregas": {
+      "pt": "Conversão para operação com biocombustível marítimo e metanol verde nos corredores do Skagerrak e ampliação da capacidade ferroviária-portuária nos terminais de Hirtshals, Kristiansand e Larvik.",
+      "en": "Conversion to marine biofuel and green methanol operations across the Skagerrak corridors and expansion of rail-port intermodal capacity at Hirtshals, Kristiansand, and Larvik terminals."
+    },
+    "lat": 58.05,
+    "lon": 9.1,
+    "zoom_inicial": 6,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "superspeed",
+      "color-line",
+      "fjord-line",
+      "noruega",
+      "dinamarca",
+      "suecia",
+      "kristiansand",
+      "hirtshals"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Color_Hybrid_in_Sandefjord_2019.jpg/1280px-Color_Hybrid_in_Sandefjord_2019.jpg",
+      "credito": "Color Line / Wikimedia Commons",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Color_Hybrid_in_Sandefjord_2019.jpg"
+    },
+    "fontes": [
+      {
+        "id": "colorline-1",
+        "titulo": "Color Line & Fjord Line — Skagerrak Ferry Routes Kristiansand/Larvik/Bergen–Hirtshals & Sandefjord–Strømstad",
+        "url": "https://www.colorline.no/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-skagerrak-kristiansand-larvik-stavanger-bergen-hirtshals",
+        "nome": "Ponte Marítima do Skagerrak: Kristiansand / Larvik – Hirtshals (Color Line SuperSpeed) e Bergen – Stavanger – Hirtshals (Fjord Line)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 440.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-color-hybrid-sandefjord-stromstad-oslofjord",
+        "nome": "Corredor Híbrido do Oslofjord Exterior: Sandefjord (Noruega) – Strømstad (Suécia — MS Color Hybrid Plug-in)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 140.0,
+        "cor": "#00b8d4"
+      }
+    ],
+    "id": "color-line-superspeed-kristiansand-larvik-hirtshals-fjord-line-stavanger-bergen-sandefjord-stromstad-noruega-dinamarca-suecia",
+    "cidade": "Kristiansand / Larvik / Sandefjord / Stavanger / Bergen / Hirtshals / Strømstad",
+    "uf": "Agder / Vestfold / Rogaland / Vestland / Jutlândia do Norte / Västra Götaland",
+    "camada": "misto",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 13150,
+    "ano_referencia": 2026
+  },
+  {
+    "slug": "laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca",
+    "nome": "Ferries Elétricos Insulares da Dinamarca — Ærøfærgerne & ÆrøXpressen (Svendborg/Rudkøbing–Ærø), Samsø Rederi (Kalundborg/Hou–Samsø) e Læsøfærgen (Frederikshavn–Læsø, Dinamarca)",
+    "nome_pt": "Ferries Elétricos Insulares da Dinamarca — Ærøfærgerne & ÆrøXpressen (Svendborg/Rudkøbing–Ærø), Samsø Rederi (Kalundborg/Hou–Samsø) e Læsøfærgen (Frederikshavn–Læsø, Dinamarca)",
+    "nome_en": "Danish Island Electric Ferries — Ærøfærgerne & ÆrøXpressen (Svendborg/Rudkøbing–Ærø), Samsø Rederi (Kalundborg/Hou–Samsø) & Læsøfærgen (Frederikshavn–Læsø, Denmark)",
+    "pais": "Dinamarca",
+    "codigo_pais": "DK",
+    "continente": "Europa",
+    "cidade_principal": "Svendborg / Ærøskøbing / Marstal / Kalundborg / Samsø / Frederikshavn / Læsø",
+    "tipo": "barco",
+    "status": "operacao",
+    "operador": "Ærøfærgerne A/S, ÆrøXpressen A/S, Samsø Rederi (Færgen / Molslinjen) e Læsøfærgen I/S",
+    "extensao_km": 220.0,
+    "bitola": "E-Ferry 100% Elétrico a Bateria (4,3 MWh — E-Ferry Ellen) e Ferry Ro-Pax Insular a Biogás Liquefeito (LBG)",
+    "eletrificacao": "100% Elétrico a Bateria (E-Ferry Ellen, recordista mundial de alcance elétrico sem gerador de reserva) e Biogás/Elétrico",
+    "velocidade_max_kmh": 30,
+    "passageiros_ano": 2350000,
+    "inauguracao": "1931 (Ærøfærgerne) / 2019 (E-Ferry Ellen 100% elétrico)",
+    "resumo_pt": "A rede de ferries insulares da Dinamarca é pioneira mundial na transição energética marítima. No Arquipélago do Sul de Fiónia, a ilha de Ærø é servida pelo famoso E-Ferry Ellen (100% elétrico com bateria de 4,3 MWh entre Søby e Fynshav), pelos ferries históricos da Ærøfærgerne (Svendborg–Ærøskøbing) e pelo híbrido ÆrøXpressen (Rudkøbing–Marstal). No Grande Belt e Kattegat central, a ilha autossuficiente em energia renovável de Samsø é ligada a Kalundborg (Zelândia) e Hou (Jutlândia) pelo ferry a biogás Prinsesse Isabella, enquanto ao norte a Læsøfærgen conecta Frederikshavn à ilha de Læsø em 90 minutos.",
+    "resumo_en": "Denmark's domestic island ferry network is a world pioneer in the maritime energy transition. In the South Funen Archipelago, the island of Ærø is served by the renowned E-Ferry Ellen (100% battery-electric with a 4.3 MWh battery pack between Søby and Fynshav), the municipal Ærøfærgerne ferries (Svendborg–Ærøskøbing), and the hybrid ÆrøXpressen (Rudkøbing–Marstal). In the central Kattegat, the renewable-energy island of Samsø is connected to Kalundborg (Zealand) and Hou (Jutland) by the biogas-powered ferry Prinsesse Isabella, while to the north Læsøfærgen links Frederikshavn to the island of Læsø in 90 minutes.",
+    "investimento": {
+      "valor": "DKK 1,9 bilhão no projeto europeu Horizon 2020 E-Ferry Ellen e nos novos ferries gêmeos 100% elétricos para Samsø, Ærø e Læsø",
+      "moeda": "DKK",
+      "fonte_id": "dk-islands-1"
+    },
+    "proximas_entregas": {
+      "pt": "Entrega dos dois novos ferries 100% elétricos para a rota Svendborg–Ærøskøbing (projeto Green Ferry Vision) e eletrificação completa das rotas de Samsø e Læsø.",
+      "en": "Delivery of two new 100% electric ferries for the Svendborg–Ærøskøbing route (Green Ferry Vision project) and full electrification of the Samsø and Læsø crossings."
+    },
+    "lat": 55.85,
+    "lon": 10.6,
+    "zoom_inicial": 7,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "e-ferry-ellen",
+      "dinamarca",
+      "aero",
+      "samso",
+      "laeso",
+      "svendborg",
+      "frederikshavn",
+      "kalundborg"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/E-ferry_Ellen_in_S%C3%B8by.jpg/1280px-E-ferry_Ellen_in_S%C3%B8by.jpg",
+      "credito": "Ærøfærgerne / Wikimedia Commons",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:E-ferry_Ellen_in_S%C3%B8by.jpg"
+    },
+    "fontes": [
+      {
+        "id": "dk-islands-1",
+        "titulo": "Ærøfærgerne, Samsø Rederi & Læsøfærgen — Danish Domestic Island Ferries",
+        "url": "https://www.aeroe-ferry.dk/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-dinamarca-aero-svendborg-marstal-samso-kalundborg",
+        "nome": "Arquipélago do Sul de Fiónia e Samsø: Svendborg – Ærøskøbing / Fynshav – Søby (E-Ferry Ellen) e Kalundborg / Hou – Samsø",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 135.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-dinamarca-kattegat-norte-frederikshavn-laeso",
+        "nome": "Corredor Insular do Norte do Kattegat: Frederikshavn – Vesterø Havn (Ilha de Læsø — MF Margrete Læsø / MF Ane Læsø)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 85.0,
+        "cor": "#00b8d4"
+      }
+    ],
+    "id": "laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca",
+    "cidade": "Svendborg / Ærøskøbing / Marstal / Kalundborg / Samsø / Frederikshavn / Læsø",
+    "uf": "Dinamarca do Sul / Zelândia / Jutlândia Central / Jutlândia do Norte",
+    "camada": "misto",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6438,
+    "ano_referencia": 2026
+  },
+  {
+    "slug": "alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia",
+    "nome": "Rede Insular Ålandstrafiken (Anel do Arquipélago de Åland Hummelvik–Kumlinge–Brändö–Osnäs e Långnäs–Kökar–Galtby) e Eckerö Linjen (Grisslehamn–Eckerö, Ilhas Åland, Finlândia e Suécia)",
+    "nome_pt": "Rede Insular Ålandstrafiken (Anel do Arquipélago de Åland Hummelvik–Kumlinge–Brändö–Osnäs e Långnäs–Kökar–Galtby) e Eckerö Linjen (Grisslehamn–Eckerö, Ilhas Åland, Finlândia e Suécia)",
+    "nome_en": "Ålandstrafiken Island Ferry Network (Åland Archipelago Ring Hummelvik–Kumlinge–Brändö–Osnäs & Långnäs–Kökar–Galtby) & Eckerö Linjen (Grisslehamn–Eckerö, Åland Islands, Finland & Sweden)",
+    "pais": "Finlândia e Suécia",
+    "codigo_pais": "FI",
+    "continente": "Europa",
+    "cidade_principal": "Mariehamn / Eckerö / Grisslehamn / Kumlinge / Kökar / Korpo (Ilhas Åland, Finlândia e Suécia)",
+    "tipo": "barco",
+    "status": "operacao",
+    "operador": "Ålandstrafiken (Governo Autônomo de Åland / Ålands landskapsregering) e Eckerö Linjen AB (Rederiaktiebolaget Eckerö)",
+    "extensao_km": 295.0,
+    "bitola": "Ferry Ro-Pax Quebra-Gelo de Arquipélago (Classe 1A Super do Báltico) e Cruise Ferry Rápido (MS Eckerö)",
+    "eletrificacao": "Propulsão diesel-elétrica híbrida com baterias de armazenamento e sistemas de atracação automática a vácuo",
+    "velocidade_max_kmh": 38,
+    "passageiros_ano": 2600000,
+    "inauguracao": "1960 (Eckerö Linjen) / 1974 (Rede pública integrada Ålandstrafiken)",
+    "resumo_pt": "Situado entre a Suécia e a Finlândia na entrada do Golfo de Bótnia, o arquipélago autônomo de língua sueca das Ilhas Åland conta com 6.700 ilhas conectadas pela rede pública de ferries quebra-gelo Ålandstrafiken e pela Eckerö Linjen. A Oeste, o ferry MS Eckerö realiza a travessia mais curta do Mar de Åland (2 horas) entre Grisslehamn (Uppland, Suécia) e Berghamn em Eckerö. A Leste, as duas grandes linhas troncais da Ålandstrafiken — a Linha Norte (Norra Linjen: Hummelvik–Kumlinge–Brändö–Osnäs/Kustavi) e a Linha Sul (Södra Linjen: Långnäs–Föglö–Sottunga–Kökar–Galtby/Korpo) — formam o famoso Anel do Arquipélago até a costa sudoeste da Finlândia.",
+    "resumo_en": "Situated between Sweden and Finland at the entrance to the Gulf of Bothnia, the autonomous Swedish-speaking archipelago of the Åland Islands comprises 6,700 islands linked by the public ice-class ferry network Ålandstrafiken and Eckerö Linjen. To the west, MS Eckerö operates the shortest crossing of the Sea of Åland (2 hours) between Grisslehamn (Uppland, Sweden) and Berghamn in Eckerö. To the east, Ålandstrafiken's two trunk routes — the Northern Line (Norra Linjen: Hummelvik–Kumlinge–Brändö–Osnäs/Kustavi) and Southern Line (Södra Linjen: Långnäs–Föglö–Sottunga–Kökar–Galtby/Korpo) — complete the renowned Archipelago Ring Trail to southwestern Finland.",
+    "investimento": {
+      "valor": "EUR 180 milhões na modernização híbrida da frota da Ålandstrafiken (MS Skiftet, MS Alfågeln, MS Viggen e novos ferries elétricos de Föglö)",
+      "moeda": "EUR",
+      "fonte_id": "aland-1"
+    },
+    "proximas_entregas": {
+      "pt": "Substituição progressiva dos ferries interinsulares da Linha Transversal e de Föglö (Svinö–Degerby) por embarcações 100% elétricas com carregamento automático nos píeres.",
+      "en": "Progressive replacement of inter-island ferries on the Cross Line and Föglö route (Svinö–Degerby) with 100% battery-electric vessels featuring automated shore charging."
+    },
+    "lat": 60.22,
+    "lon": 20.35,
+    "zoom_inicial": 7,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "alandstrafiken",
+      "eckero-linjen",
+      "ilhas-aland",
+      "finlandia",
+      "suecia",
+      "mariehamn",
+      "korpo",
+      "baltico"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MS_Ecker%C3%B6_at_Grisslehamn.jpg/1280px-MS_Ecker%C3%B6_at_Grisslehamn.jpg",
+      "credito": "Eckerö Linjen / Wikimedia Commons",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MS_Ecker%C3%B6_at_Grisslehamn.jpg"
+    },
+    "fontes": [
+      {
+        "id": "aland-1",
+        "titulo": "Ålandstrafiken & Eckerö Linjen — Archipelago Ferry Timetables Grisslehamn–Eckerö & Åland–Turku Archipelago",
+        "url": "https://www.alandstrafiken.ax/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-aland-norte-grisslehamn-eckero-hummelvik-kumlinge-brando-osnas",
+        "nome": "Mar de Åland e Linha Norte (Norra Linjen): Grisslehamn (Suécia) – Eckerö e Hummelvik – Kumlinge – Brändö – Osnäs (Kustavi)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 170.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-aland-sul-langnas-foglo-sottunga-kokar-galtby-korpo",
+        "nome": "Linha Sul do Arquipélago (Södra Linjen): Långnäs – Föglö – Sottunga – Kökar – Galtby (Korpo / Pargas)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 125.0,
+        "cor": "#00b8d4"
+      }
+    ],
+    "id": "alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia",
+    "cidade": "Mariehamn / Eckerö / Grisslehamn / Kumlinge / Kökar / Korpo (Ilhas Åland, Finlândia e Suécia)",
+    "uf": "Ilhas Åland / Finlândia Própria / Estocolmo (Uppland)",
+    "camada": "misto",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 7123,
+    "ano_referencia": 2026
   }
 ]

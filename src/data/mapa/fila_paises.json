@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T07:15:00-03:00",
+  "atualizado_em": "2026-11-15T10:49:49Z",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2140,16 +2140,24 @@
         "visayas-ferries-iloilo-guimaras-dumaguete-siquijor-cebu-bohol-oceanjet-supercat-lite-filipinas",
         "langkawi-ferry-line-kuala-perlis-kuala-kedah-kuah-labuan-menumbok-tioman-mersing-malasia"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 134,
       "pais": "Fase Hidroviária Mundial #26 — Escandinávia, Mar Báltico e Ártico Europeu II (Torghatten Nord Bodø–Moskenes/Lofoten, Ferries de Geiranger–Hellesylt e Lysefjord na Noruega; Destination Gotland Nynäshamn/Oskarshamn–Visby e Ventrafiken Landskrona–Ilha de Ven na Suécia; Bornholmslinjen Ystad/Køge–Rønne e Læsøfærgen Frederikshavn–Læsø na Dinamarca; e Eckerö Line Helsinque–Tallinn e Finferries Korpo–Houtskär–Nagu na Finlândia/Estônia)",
       "codigo": "HIDRO-ESCANDINAVIA-BALTICO-ARTICO-II",
       "continente": "Europa",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T10:49:49Z",
+      "sistemas_adicionados": [
+        "torghatten-nord-bodo-moskenes-rost-vaeroy-svolvaer-skutvik-lofoten-noruega",
+        "fjord1-norled-geiranger-hellesylt-gudvangen-flam-naeroyfjord-lysefjord-noruega",
+        "color-line-superspeed-kristiansand-larvik-hirtshals-fjord-line-stavanger-bergen-sandefjord-stromstad-noruega-dinamarca-suecia",
+        "laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca",
+        "alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 135,
       "pais": "Fase Hidroviária Mundial #27 — Grandes Lagos, Costa Leste, Califórnia e Pacífico Noroeste II (Catalina Express Long Beach/San Pedro/Dana Point–Avalon Santa Catalina Island e Angel Island–Tiburon Ferry na Califórnia; Casco Bay Lines Portland–Peaks Island no Maine e Fire Island Ferries Bay Shore–Ocean Beach em NY nos EUA; e Owen Sound Transportation MS Chi-Cheemaun Tobermory–Manitoulin Island, Pelee Island Ferry no Lago Erie e STQ Tadoussac–Baie-Sainte-Catherine e Matane–Baie-Comeau no Canadá)",
@@ -2162,6 +2170,27 @@
       "pais": "Fase Hidroviária Brasil #8 — Travessias Fluviais, Insulares e Lacustres Complementares do Brasil (Travessias da Balsa Internacional do Rio Uruguai São Borja/Porto Mauá–Alba Posse/Porto Xavier no RS; Hidrovia do Rio Paraná e Lago de Itaipu Guaíra/Porto Rico no PR/MS; Lanchas de Ilha Grande Mangaratiba/Conceição de Jacareí–Vila do Abraão e Paraty–Saco do Mamanguá no RJ; Travessia de Boipeba e Morro de São Paulo Valença/Torrinhas–Cairu na BA; e Travessia de Atins–Caburé–Barreirinhas no Rio Preguiças / Lençóis Maranhenses no MA)",
       "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-VIII",
       "continente": "América do Sul",
+      "status": "pendente"
+    },
+    {
+      "ordem": 137,
+      "pais": "Fase Hidroviária Mundial #28 — Oceania Insular, Estreito de Cook e Pacífico Sul II (Bluebridge & Interislander Wellington–Picton no Estreito de Cook e Fullers360 Waiheke/Devonport e Stewart Island Ferry Bluff–Oban na Nova Zelândia; South Sea Cruises Port Denarau–Mamanuca e Yasawa Islands em Fiji; Samoa Shipping Corporation Mulifanua–Salelologa Upolu–Savai'i em Samoa; e Aremiti / Terevau Papeete–Moorea na Polinésia Francesa)",
+      "codigo": "HIDRO-OCEANIA-NOVA-ZELANDIA-FIJI-SAMOA-POLINESIA-II",
+      "continente": "Oceania",
+      "status": "pendente"
+    },
+    {
+      "ordem": 138,
+      "pais": "Fase Hidroviária Mundial #29 — Caribe, Antilhas, Bahamas e Mesoamérica II (L'Express des Îles Pointe-à-Pitre–Marie-Galante–Les Saintes–Dominica–Martinica–Santa Lúcia; Cabo Rojo / Ceiba–Vieques e Culebra em Porto Rico; Bahamas Ferries Nassau–Harbour Island/Eleuthera–Exuma; Ultramar Cozumel–Playa del Carmen e Isla Mujeres–Cancún no México; e San Pedro Belize Express Belize City–Caye Caulker–Ambergris Caye)",
+      "codigo": "HIDRO-CARIBE-ANTILHAS-BAHAMAS-MEXICO-BELIZE-II",
+      "continente": "América Central e Caribe",
+      "status": "pendente"
+    },
+    {
+      "ordem": 139,
+      "pais": "Fase Hidroviária Mundial #30 — África Costeira, Grandes Lagos Africanos e Oceano Índico II (Azam Marine Kilimanjaro Fast Ferries Dar es Salaam–Zanzibar–Pemba na Tanzânia; Likoni Ferry Mombasa e Mbita–Mfangano no Lago Vitória no Quênia; Ferries de Gorée Dakar–Île de Gorée e Aline Sitoé Diatta Dakar–Ziguinchor Casamance no Senegal; e Cat Cocos Mahé–Praslin–La Digue em Seychelles e Le Mauricien / Rodrigues no Oceano Índico)",
+      "codigo": "HIDRO-AFRICA-GRANDES-LAGOS-OCEANO-INDICO-II",
+      "continente": "África",
       "status": "pendente"
     }
   ]
