@@ -37331,6 +37331,366 @@
           57.7885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-high-court-water-metro-terminal-kochi-in",
+        "nome": "High Court Water Metro Terminal — KMRL (Ernakulam / Kochi, Kerala, Índia)",
+        "sistema_id": "kochi-water-metro-kerala-mumbai-alibaug-m2m-ro-ro-kolkata-hooghly-ferries-india",
+        "linha_id": "linha-kochi-water-metro-high-court-vypin-fort-kochi-vyttila-kakkanad",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2755,
+          9.9815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-fort-kochi-vypin-water-metro-terminal-in",
+        "nome": "Fort Kochi & Vypin Water Metro Terminals — KMRL (Kochi, Kerala, Índia)",
+        "sistema_id": "kochi-water-metro-kerala-mumbai-alibaug-m2m-ro-ro-kolkata-hooghly-ferries-india",
+        "linha_id": "linha-kochi-water-metro-high-court-vypin-fort-kochi-vyttila-kakkanad",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2425,
+          9.9635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mumbai-ferry-wharf-bhaucha-dhakka-m2m-in",
+        "nome": "Ferry Wharf (Bhaucha Dhakka) Ro-Pax Terminal — M2M Ferries (Porto de Mumbai, Índia)",
+        "sistema_id": "kochi-water-metro-kerala-mumbai-alibaug-m2m-ro-ro-kolkata-hooghly-ferries-india",
+        "linha_id": "linha-mumbai-mandwa-alibaug-m2m-ro-ro-kolkata-howrah-hooghly-ferry",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8495,
+          18.9615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mandwa-alibaug-ro-pax-jetty-maharashtra-in",
+        "nome": "Terminal Ro-Pax de Mandwa / Alibaug — M2M Ferries (Raigad, Maharashtra, Índia)",
+        "sistema_id": "kochi-water-metro-kerala-mumbai-alibaug-m2m-ro-ro-kolkata-hooghly-ferries-india",
+        "linha_id": "linha-mumbai-mandwa-alibaug-m2m-ro-ro-kolkata-howrah-hooghly-ferry",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8825,
+          18.8035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dhaka-sadarghat-launch-terminal-buriganga-bd",
+        "nome": "Terminal Fluvial Nacional de Sadarghat — Rio Buriganga (BIWTA / BIWTC, Dhaka, Bangladesh)",
+        "sistema_id": "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+        "linha_id": "linha-bangladesh-sadarghat-dhaka-chandpur-barisal-bhola",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4095,
+          23.7045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-barisal-river-port-terminal-bd",
+        "nome": "Porto Fluvial de Barisal — Rio Kirtankhola (BIWTA / BIWTC, Barisal, Bangladesh)",
+        "sistema_id": "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+        "linha_id": "linha-bangladesh-sadarghat-dhaka-chandpur-barisal-bhola",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3735,
+          22.7015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-chittagong-sadarghat-kumira-ferry-ghat-bd",
+        "nome": "Terminal Costeiro de Chittagong / Kumira Ghat — BIWTC (Golfo de Bengala, Bangladesh)",
+        "sistema_id": "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+        "linha_id": "linha-bangladesh-costeira-chittagong-sandwip-hatiya-golfo-de-bengala",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8125,
+          22.3185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hatiya-sandwip-island-ferry-ghat-bd",
+        "nome": "Terminais Insulares de Hatiya (Nolchira) e Sandwip — BIWTC (Bangladesh)",
+        "sistema_id": "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+        "linha_id": "linha-bangladesh-costeira-chittagong-sandwip-hatiya-golfo-de-bengala",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1125,
+          22.3685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-male-henveiru-ferry-terminal-mtcc-mv",
+        "nome": "Henveiru & Villingili Ferry Terminals — MTCC / RTL (Ilha de Malé, Maldivas)",
+        "sistema_id": "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+        "linha_id": "linha-mtcc-grande-male-hulhumale-velana-villingili-maafushi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5095,
+          4.1755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hulhumale-ferry-terminal-mtcc-mv",
+        "nome": "Hulhumalé Ferry Terminal — MTCC / RTL (Grande Malé, Maldivas)",
+        "sistema_id": "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+        "linha_id": "linha-mtcc-grande-male-hulhumale-velana-villingili-maafushi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5415,
+          4.2155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-maafushi-island-harbour-kaafu-mv",
+        "nome": "Porto de Ferries de Maafushi — Atol de Malé do Sul / Kaafu (MTCC, Maldivas)",
+        "sistema_id": "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+        "linha_id": "linha-mtcc-grande-male-hulhumale-velana-villingili-maafushi",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4905,
+          3.9425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kulhudhuffushi-rtl-ferry-hub-north-mv",
+        "nome": "Terminal Regional Norte de Kulhudhuffushi — Raajje Transport Link RTL (Atol Haa Dhaalu, Maldivas)",
+        "sistema_id": "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+        "linha_id": "linha-rtl-raajje-transport-link-expresso-atois-maldivas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0695,
+          6.6225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-victoria-inter-island-quay-mahe-sc",
+        "nome": "Victoria Inter-Island Ferry Quay — Cat Cocos (Ilha de Mahé, Seychelles)",
+        "sistema_id": "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+        "linha_id": "linha-seychelles-cat-cocos-cat-rose-victoria-mahe-praslin-la-digue",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4545,
+          -4.6195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-baie-sainte-anne-praslin-jetty-sc",
+        "nome": "Terminal Hidroviário de Baie Sainte Anne — Cat Cocos & Cat Rose (Ilha de Praslin, Seychelles)",
+        "sistema_id": "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+        "linha_id": "linha-seychelles-cat-cocos-cat-rose-victoria-mahe-praslin-la-digue",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7485,
+          -4.3425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-la-passe-harbour-la-digue-sc",
+        "nome": "Cais de La Passe — Cat Rose (Ilha de La Digue, Seychelles)",
+        "sistema_id": "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+        "linha_id": "linha-seychelles-cat-cocos-cat-rose-victoria-mahe-praslin-la-digue",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8295,
+          -4.3485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-louis-mscl-rodrigues-terminal-mu",
+        "nome": "Terminal da Mauritius Shipping Corporation — Porto de Port Louis (Maurício – Ilha Rodrigues)",
+        "sistema_id": "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+        "linha_id": "linha-mauritius-shipping-port-louis-port-mathurin-rodrigues",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4985,
+          -20.1585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nagapattinam-international-passenger-port-tn-in",
+        "nome": "Terminal Internacional de Passageiros de Nagapattinam — HSC Sivaganga (Tamil Nadu, Índia)",
+        "sistema_id": "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari",
+        "linha_id": "linha-palk-strait-internacional-nagapattinam-india-kankesanthurai-sri-lanka",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8515,
+          10.7625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kankesanthurai-port-ferry-terminal-jaffna-lk",
+        "nome": "Terminal Internacional do Porto de Kankesanthurai — KKS (Jaffna, Província do Norte, Sri Lanka)",
+        "sistema_id": "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari",
+        "linha_id": "linha-palk-strait-internacional-nagapattinam-india-kankesanthurai-sri-lanka",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0425,
+          9.8165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kurikadduwan-nainativu-ferry-jetty-jaffna-lk",
+        "nome": "Píer de Kurikadduwan & Ilha de Nainativu — Nagadeepa (Península de Jaffna, Sri Lanka)",
+        "sistema_id": "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari",
+        "linha_id": "linha-jaffna-islands-kurikadduwan-nainativu-delft-kanyakumari-ferries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7985,
+          9.6085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-delft-island-neduntheevu-ferry-pier-lk",
+        "nome": "Porto Insular de Delft Island / Neduntheevu — Estreito de Palk (Sri Lanka)",
+        "sistema_id": "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari",
+        "linha_id": "linha-jaffna-islands-kurikadduwan-nainativu-delft-kanyakumari-ferries",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6855,
+          9.5215
+        ]
+      }
     }
   ]
 }

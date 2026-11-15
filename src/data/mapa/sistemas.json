@@ -31058,5 +31058,393 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "kochi-water-metro-kerala-mumbai-alibaug-m2m-ro-ro-kolkata-hooghly-ferries-india",
+    "slug": "kochi-water-metro-kerala-mumbai-alibaug-m2m-ro-ro-kolkata-hooghly-ferries-india",
+    "nome_pt": "Kochi Water Metro Elétrico (Kerala), Ferries de Mumbai–Alibaug Ro-Ro M2M e Barcas do Rio Hooghly em Calcutá (Índia)",
+    "nome_en": "Kochi Water Metro Electric Network (Kerala), Mumbai–Alibaug M2M Ro-Ro Ferries & Kolkata Hooghly River Ferries (India)",
+    "pais": "Índia",
+    "cidade": "Kochi / Ernakulam (Kerala); Mumbai, Navi Mumbai e Mandwa / Alibaug (Maharashtra); Kolkata / Calcutá e Howrah (Bengala Ocidental, Índia)",
+    "uf": "KL / MH / WB",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Kochi Metro Rail Limited — KMRL (Kochi Water Metro), Maharashtra Maritime Board / M2M Ferries (Mumbai–Mandwa Ro-Pax) & West Bengal Transport Corporation — WBTC (Hooghly River Ferries)",
+    "inauguracao": "1880 (Primeiras barcas a vapor no Rio Hooghly em Calcutá e no Porto de Mumbai; inauguração do M2M Ro-Pax em Mumbai em 2020 e do pioneiro Kochi Water Metro 100% elétrico em abril de 2023)",
+    "extensao_km": 145.0,
+    "bitola": "Backwaters e Lago Vembanad (Kochi, Kerala), Porto de Mumbai ( Baía de Thane / Mar Arábico) e Rio Hooghly (Kolkata–Howrah)",
+    "eletrificacao": "Catamarãs híbridos elétricos a bateria de titanato de lítio (LTO) construídos pelo Cochin Shipyard para o Kochi Water Metro, superferry ro-pax M2M-1 em Mumbai e barcas fluviais WBTC em Kolkata",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 165000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 145 milhões (financiamento KfW/Governo de Kerala para as 78 embarcações elétricas e 38 terminais flutuantes do Kochi Water Metro e terminal ro-pax de Ferry Wharf em Mumbai)",
+      "moeda": "USD",
+      "fonte_id": "kmrl-kochi-water-metro-mmb-wbtc"
+    },
+    "proximas_entregas": {
+      "pt": "Conclusão de todos os 38 terminais e 78 catamarãs elétricos do Kochi Water Metro e expansão dos corredores de táxi aquático elétrico de Mumbai para o novo aeroporto de Navi Mumbai.",
+      "en": "Completion of all 38 floating terminals and 78 electric catamarans of the Kochi Water Metro and expansion of Mumbai's water taxi corridors to Navi Mumbai International Airport."
+    },
+    "resumo_pt": "A Índia protagoniza uma revolução no transporte hidroviário urbano e metropolitano em três frentes principais. No estado de Kerala (sul do país), o Kochi Water Metro — inaugurado em 2023 e operado pela mesma companhia do metrô sobre trilhos (Kochi Metro Rail Limited, KMRL) — é o primeiro sistema de metrô aquaviário 100% elétrico/híbrido a bateria do Sul da Ásia, conectando 10 ilhas do Lago Vembanad (High Court, Vypin, Fort Kochi, Vyttila e Kakkanad) com catamarãs climatizados de carregamento ultrarrápido e bilhete único Kochi1 Card. Na costa oeste, o Porto de Mumbai conta com o serviço ro-pax M2M Ferries entre Ferry Wharf (Bhaucha Dhakka) e Mandwa (Alibaug), que reduziu uma viagem rodoviária de 4 horas para 50 minutos, além das barcas do Gateway of India / Mora / Elephanta. Já no leste da Índia, a West Bengal Transport Corporation (WBTC) opera a gigantesca rede fluvial do Rio Hooghly em Calcutá (Kolkata), cujas barcas entre Fairlie Place / Babu Ghat e o terminal da colossal estação ferroviária de Howrah transportam mais de 120 mil passageiros por dia.",
+    "resumo_en": "India is spearheading a major transformation in urban and metropolitan water transit across three flagship networks. In Kerala, the Kochi Water Metro — inaugurated in 2023 and operated by Kochi Metro Rail Limited (KMRL) — is South Asia's first battery-electric water metro system, linking 10 islands across the Kochi backwaters (High Court, Vypin, Fort Kochi, Vyttila, Kakkanad) with fast-charging LTO-battery catamarans and unified Kochi1 smart ticketing. On the west coast, Mumbai's M2M Ro-Pax ferry links Ferry Wharf (Bhaucha Dhakka) with Mandwa (Alibaug) in 50 minutes across Mumbai Harbour, while in eastern India the West Bengal Transport Corporation (WBTC) operates the high-ridership Hooghly River ferry network connecting central Kolkata (Fairlie Place / Babu Ghat) directly with Howrah Railway Station.",
+    "lat": 9.9815,
+    "lon": 76.2755,
+    "zoom_inicial": 5.5,
+    "fontes": [
+      "kmrl-kochi-water-metro-mmb-wbtc",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "índia",
+      "kochi water metro",
+      "kochi",
+      "kerala",
+      "mumbai",
+      "alibaug",
+      "mandwa",
+      "m2m ferries",
+      "calcutá",
+      "kolkata",
+      "howrah",
+      "rio hooghly",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kochi_Water_Metro_Boat_at_High_Court_Terminal.jpg/800px-Kochi_Water_Metro_Boat_at_High_Court_Terminal.jpg",
+      "credito": "Wikimedia Commons — Catamarã elétrico do Kochi Water Metro no Terminal Flutuante de High Court (Kochi, Kerala, Índia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Kochi_Water_Metro"
+    },
+    "linhas": [
+      {
+        "id": "linha-kochi-water-metro-high-court-vypin-fort-kochi-vyttila-kakkanad",
+        "nome": "Kochi Water Metro Elétrico — KMRL (High Court – Vypin – Fort Kochi & Vyttila Mobility Hub – Kakkanad, Kerala)",
+        "status": "operacao",
+        "extensao_km": 76.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-mumbai-mandwa-alibaug-m2m-ro-ro-kolkata-howrah-hooghly-ferry",
+        "nome": "Ponte Marítima de Mumbai–Mandwa (M2M Ro-Pax) e Travessia Metropolitana do Rio Hooghly (Howrah Station – Fairlie Place, Kolkata)",
+        "status": "operacao",
+        "extensao_km": 69.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+    "slug": "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+    "nome_pt": "Hidrovias Nacionais de Bangladesh — BIWTC & Sadarghat Launches (Dhaka Sadarghat – Chandpur – Barisal – Bhola – Hatiya – Chittagong, Bangladesh)",
+    "nome_en": "Bangladesh National Inland & Coastal Waterways — BIWTC & Sadarghat Launches (Dhaka Sadarghat – Chandpur – Barisal – Bhola – Hatiya – Chittagong, Bangladesh)",
+    "pais": "Bangladesh",
+    "cidade": "Dhaka (Sadarghat), Narayanganj, Chandpur, Barisal, Bhola, Patuakhali, Ilha de Hatiya, Ilha de Sandwip e Chittagong (Bangladesh)",
+    "uf": "Dhaka / Barisal / Chittagong Divisions",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Bangladesh Inland Water Transport Corporation — BIWTC (Frota Estatal de Ferries Ro-Pax, Sea-Trucks e Vapores Históricos Rocket) & Operadoras de Grandes Navios Fluviais ('Launches') supervisionadas pela BIWTA",
+    "inauguracao": "1884 (Início dos vapores postais no Delta de Bengala; fundação da estatal BIWTC em 1972 na independência de Bangladesh)",
+    "extensao_km": 690.0,
+    "bitola": "Rios Buriganga, Padma (Ganges), Meghna e Karnaphuli e Estuário do Golfo de Bengala (Delta de Bengala)",
+    "eletrificacao": "Grandes navios fluviais de passageiros de 3 a 4 conveses ('Launches' para até 1.500 passageiros com cabines), ferries ro-pax da BIWTC (Paturia–Daulatdia) e navios costeiros para Hatiya/Sandwip",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 240000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 310 milhões (Projeto de modernização de portos fluviais de Dhaka Sadarghat, Barisal, Chandpur e Narayanganj financiado pelo Banco Mundial / BIWTA e novos navios costeiros da BIWTC)",
+      "moeda": "USD",
+      "fonte_id": "biwtc-biwta-bangladesh-inland-waterways"
+    },
+    "proximas_entregas": {
+      "pt": "Requalificação dos píeres de Sadarghat e Barisal com passarelas climatizadas e novos ônibus aquáticos metropolitanos no anel fluvial circular de Dhaka.",
+      "en": "Upgrading of the Sadarghat and Barisal river terminals and new metropolitan water buses on the Dhaka Circular Waterway."
+    },
+    "resumo_pt": "Situado no maior delta fluvial do planeta — formado pela confluência dos colossais rios Padma (Ganges), Jamuna (Brahmaputra) e Meghna —, Bangladesh possui uma das redes de transporte hidroviário de passageiros mais intensas do mundo, regulada pela Bangladesh Inland Water Transport Authority (BIWTA) e operada pela estatal BIWTC ao lado de grandes frotas de navios de múltiplos conveses ('Launches'). O coração dessa rede é o monumental Terminal Fluvial de Sadarghat, às margens do Rio Buriganga no centro histórico de Dhaka, por onde passam diariamente mais de 150 mil passageiros e mais de 200 navios de 3 e 4 andares que partem ao entardecer rumo a Chandpur, à cidade hidroviária de Barisal, à grande ilha de Bhola e a Patuakhali. Além do tronco fluvial sul e das balsas ro-pax de Paturia–Daulatdia no Rio Padma, a BIWTC opera rotas costeiras vitais no Golfo de Bengala, ligando Chittagong e Noakhali às grandes ilhas densamente povoadas de Sandwip, Hatiya e Kutubdia.",
+    "resumo_en": "Located across the world's largest river delta — formed by the confluence of the Padma (Ganges), Jamuna (Brahmaputra) and Meghna rivers — Bangladesh operates one of the highest-ridership inland water transport networks on Earth, regulated by BIWTA and operated by state-owned BIWTC alongside private multi-deck river passenger ships ('Launches'). At the heart of the system stands Dhaka's monumental Sadarghat River Terminal on the Buriganga River, handling over 150,000 passengers and 200 multi-deck vessels daily bound for Chandpur, Barisal, Bhola Island and Patuakhali. Complementing the river trunk and the Paturia–Daulatdia ro-pax ferries across the Padma, BIWTC runs vital Bay of Bengal coastal ferries linking Chittagong and Noakhali with Sandwip and Hatiya islands.",
+    "lat": 23.7045,
+    "lon": 90.4095,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "biwtc-biwta-bangladesh-inland-waterways",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "bangladesh",
+      "dhaka",
+      "sadarghat",
+      "barisal",
+      "chandpur",
+      "bhola",
+      "hatiya",
+      "sandwip",
+      "chittagong",
+      "rio padma",
+      "rio meghna",
+      "biwtc",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sadarghat_Launch_Terminal_Dhaka_Bangladesh.jpg/800px-Sadarghat_Launch_Terminal_Dhaka_Bangladesh.jpg",
+      "credito": "Wikimedia Commons — Grandes navios fluviais de passageiros ('Launches') alinhados no Terminal de Sadarghat em Dhaka (Rio Buriganga, Bangladesh)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Port_of_Dhaka"
+    },
+    "linhas": [
+      {
+        "id": "linha-bangladesh-sadarghat-dhaka-chandpur-barisal-bhola",
+        "nome": "Tronco Fluvial Nacional do Delta — BIWTA / BIWTC (Terminal de Sadarghat, Dhaka – Chandpur – Porto Fluvial de Barisal – Ilha de Bhola)",
+        "status": "operacao",
+        "extensao_km": 380.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-bangladesh-costeira-chittagong-sandwip-hatiya-golfo-de-bengala",
+        "nome": "Corredor Costeiro do Golfo de Bengala — BIWTC Sea-Trucks & Ferries (Chittagong / Kumira – Ilha de Sandwip – Ilha de Hatiya)",
+        "status": "operacao",
+        "extensao_km": 310.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+    "slug": "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+    "nome_pt": "Rede Nacional de Ferries Rápidos das Maldivas — RTL / MTCC (Barcas Metropolitanas Malé–Hulhumalé–Aeroporto Velana–Villingili e Expresso dos Atóis)",
+    "nome_en": "Maldives National High-Speed Ferry Network — RTL / MTCC (Malé–Hulhumalé–Velana Airport–Villingili Metro Ferries & Raajje Transport Link Atoll Express)",
+    "pais": "Maldivas",
+    "cidade": "Malé (Capital), Hulhumalé, Hulhulé (Aeroporto Internacional Velana), Villingili, Maafushi (Atol de Kaafu), Kulhudhuffushi (Norte) e Cidade de Addu (Sul, Maldivas)",
+    "uf": "Grande Malé e Zonas 1 a 6 dos Atóis",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Maldives Transport and Contracting Company Plc — MTCC (Rede Pública Metropolitana de Grande Malé e Rede Nacional de Alta Velocidade Raajje Transport Link — RTL)",
+    "inauguracao": "2001 (Estruturação das barcas públicas MTCC entre Malé, Villingili e Hulhumalé; lançamento da rede nacional de lanchas de alta velocidade Raajje Transport Link — RTL em 2022)",
+    "extensao_km": 410.0,
+    "bitola": "Laguna do Atol de Malé do Norte (Grande Malé) e Canais Inter-Atóis do Arquipélago das Maldivas no Oceano Índico",
+    "eletrificacao": "Catamarãs rápidos climatizados de 50 passageiros da frota Raajje Transport Link (RTL, 30 nós de velocidade de cruzeiro) e barcas urbanas de alta capacidade da MTCC",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 68 milhões (construção da frota de mais de 65 lanchas de alta velocidade RTL no estaleiro Al Shaali Marine e novos terminais integrados em Henveiru Malé e Hulhumalé)",
+      "moeda": "USD",
+      "fonte_id": "mtcc-rtl-maldives-ministry-of-transport"
+    },
+    "proximas_entregas": {
+      "pt": "Conclusão da implantação das Zonas 3 e 4 da rede Raajje Transport Link (RTL) nos atóis centrais, integrando 100% das 187 ilhas habitadas das Maldivas.",
+      "en": "Completion of Zones 3 and 4 of the Raajje Transport Link (RTL) high-speed ferry network across the central atolls, linking all 187 inhabited islands of the Maldives."
+    },
+    "resumo_pt": "Com 99% de seu território nacional composto pelo Oceano Índico e 187 ilhas habitadas distribuídas por 26 atóis naturais, a República das Maldivas transformou o transporte público marítimo com a criação da rede integrada Raajje Transport Link (RTL), operada pela estatal Maldives Transport and Contracting Company (MTCC). Na região metropolitana da capital (Grande Malé), as barcas públicas da MTCC cruzam a laguna 24 horas por dia a partir dos terminais de Henveiru e Villingili em Malé rumo à cidade planejada de Hulhumalé, à ilha aeroportuária de Hulhulé (Aeroporto Internacional Velana), a Villingili e às ilhas vizinhas de Thilafushi, Gulhifalhu e Maafushi. Já nos atóis exteriores (do extremo norte em Haa Alif / Kulhudhuffushi até Gaafu e o Atol de Addu no extremo sul, abaixo da Linha do Equador), a frota de catamarãs de alta velocidade climatizados da RTL opera linhas regulares com tarifa subsidiada e bilhetagem por QR Code, funcionando como o 'sistema ferroviário sobre as águas' da nação insular.",
+    "resumo_en": "With 99% of its territory consisting of ocean across 26 natural atolls and 187 inhabited islands, the Republic of Maldives revolutionized public transport by launching the nationwide Raajje Transport Link (RTL), operated by state-owned Maldives Transport and Contracting Company (MTCC). In the Greater Malé metropolitan area, MTCC ferries operate 24/7 linking Henveiru and Villingili terminals on Malé Island with Hulhumalé, Velana International Airport (Hulhulé), Villingili and Maafushi. Across the outer atolls — from Haa Alif / Kulhudhuffushi in the far north to Addu Atoll south of the Equator — RTL's fleet of 30-knot air-conditioned catamarans provides scheduled, QR-ticketed inter-island public transit.",
+    "lat": 4.1755,
+    "lon": 73.5095,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "mtcc-rtl-maldives-ministry-of-transport",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "maldivas",
+      "maldives",
+      "malé",
+      "hulhumalé",
+      "velana airport",
+      "villingili",
+      "maafushi",
+      "raajje transport link",
+      "rtl",
+      "mtcc",
+      "oceano índico",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MTCC_Ferry_at_Male_Harbour_Maldives.jpg/800px-MTCC_Ferry_at_Male_Harbour_Maldives.jpg",
+      "credito": "Wikimedia Commons — Barca pública e catamarã rápido da MTCC / Raajje Transport Link (RTL) no Porto de Malé – Hulhumalé (Maldivas)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_the_Maldives"
+    },
+    "linhas": [
+      {
+        "id": "linha-mtcc-grande-male-hulhumale-velana-villingili-maafushi",
+        "nome": "Rede Metropolitana de Grande Malé — MTCC (Henveiru / Villingili Terminal, Malé – Aeroporto Velana – Hulhumalé – Ilha de Maafushi)",
+        "status": "operacao",
+        "extensao_km": 40.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-rtl-raajje-transport-link-expresso-atois-maldivas",
+        "nome": "Expresso Nacional dos Atóis — Raajje Transport Link RTL (Corredor Rápido Interinsular dos Atóis do Norte, Centro e Sul / Addu)",
+        "status": "operacao",
+        "extensao_km": 370.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+    "slug": "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+    "nome_pt": "Catamarãs Interinsulares Cat Cocos e Cat Rose (Mahé–Praslin–La Digue, Seychelles) e Ponte Marítima Port Louis–Ilha Rodrigues (Maurício)",
+    "nome_en": "Cat Cocos & Cat Rose High-Speed Catamarans (Mahé–Praslin–La Digue, Seychelles) & Port Louis–Rodrigues Island Seabridge (Mauritius)",
+    "pais": "Seychelles e Maurício",
+    "cidade": "Victoria (Ilha de Mahé), Baie Sainte Anne (Ilha de Praslin) e La Passe (Ilha de La Digue, Seychelles); Port Louis / Mahebourg (Maurício) e Port Mathurin (Ilha Rodrigues)",
+    "uf": "Inner Islands (Seychelles) / Mascarene Islands (Maurício)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Inter Island Boats Ltd (Catamarãs de Alta Velocidade Cat Cocos — Isle of Mahe / Isle of Praslin e Cat Rose — Isle of La Digue em Seychelles) & Mauritius Shipping Corporation Ltd — MSCL (Port Louis–Rodrigues)",
+    "inauguracao": "1996 (Inauguração do serviço de catamarãs rápidos Cat Cocos entre Mahé e Praslin em Seychelles e operação contínua da estatal Mauritius Shipping Corporation entre Maurício e Rodrigues)",
+    "extensao_km": 715.0,
+    "bitola": "Platô Oceânico das Ilhas Interiores de Seychelles (Mahé–Praslin–La Digue) e Corredor das Ilhas Mascarenhas (Maurício–Rodrigues)",
+    "eletrificacao": "Catamarãs australianos Austal de alta velocidade (HSC Cat Cocos Isle of Mahe, 36 metros, 35 nós) e navio misto de passageiros e cargas da Mauritius Shipping Corporation (MV Peros Banhos / MV Trochetia)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 3900,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 58 milhões (entrega do novo navio misto MV Peros Banhos para a Mauritius Shipping Corporation e ampliação do terminal interinsular de Victoria e do novo píer de Praslin em Seychelles)",
+      "moeda": "USD",
+      "fonte_id": "seychelles-ports-cat-cocos-mscl-mauritius"
+    },
+    "proximas_entregas": {
+      "pt": "Novo terminal de passageiros interinsular na Baie Sainte Anne (Praslin) e eletrificação das barcas da laguna de Mahebourg–Île aux Cerfs em Maurício.",
+      "en": "New inter-island passenger terminal at Baie Sainte Anne (Praslin) and electrification of lagoon ferries at Mahebourg in Mauritius."
+    },
+    "resumo_pt": "Nas nações insulares do sudoeste do Oceano Índico, os ferries rápidos formam a espinha dorsal da mobilidade entre as ilhas principais. Na República de Seychelles, mais de 98% da população e dos visitantes concentram-se nas três Ilhas Interiores graníticas — Mahé (onde fica a capital Victoria), Praslin e La Digue —, conectadas diariamente pelos catamarãs de alta velocidade da Inter Island Boats: o Cat Cocos ('Isle of Mahe' e 'Isle of Praslin') percorre os 45 km de oceano aberto entre o Victoria Inter-Island Quay e o píer de Baie Sainte Anne (Praslin) em apenas 60 minutos, onde faz conexão imediata com o catamarã Cat Rose ('Isle of La Digue'), que realiza a travessia de 15 minutos (7 km) até o porto de La Passe, na famosa ilha ecológica de La Digue (onde o transporte terrestre é feito de bicicleta). Já na República de Maurício, a estatal Mauritius Shipping Corporation (MSCL) opera a ponte marítima oficial de 650 km entre o Porto de Port Louis (conectado ao VLT Metro Express) e Port Mathurin, na autônoma Ilha Rodrigues.",
+    "resumo_en": "Across the island nations of the southwestern Indian Ocean, inter-island ferries form the backbone of regional mobility. In the Seychelles, the three main granitic Inner Islands — Mahé (home to the capital Victoria), Praslin and La Digue — are linked daily by Inter Island Boats' high-speed catamarans: Cat Cocos ('Isle of Mahe' and 'Isle of Praslin') crosses the 45 km channel between Victoria Inter-Island Quay and Baie Sainte Anne (Praslin) in 60 minutes, connecting directly with the Cat Rose catamaran for the 15-minute crossing to La Passe on bicycle-friendly La Digue Island. In the Republic of Mauritius, state-owned Mauritius Shipping Corporation (MSCL) operates the 650 km maritime bridge between Port Louis Harbour (linked to the Metro Express light rail) and Port Mathurin on autonomous Rodrigues Island.",
+    "lat": -4.6195,
+    "lon": 55.4545,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "seychelles-ports-cat-cocos-mscl-mauritius",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "seychelles",
+      "maurício",
+      "mauritius",
+      "mahé",
+      "victoria",
+      "praslin",
+      "la digue",
+      "cat cocos",
+      "cat rose",
+      "port louis",
+      "ilha rodrigues",
+      "oceano índico",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cat_Cocos_ferry_Victoria_Seychelles.jpg/800px-Cat_Cocos_ferry_Victoria_Seychelles.jpg",
+      "credito": "Wikimedia Commons — Catamarã de alta velocidade Cat Cocos no cais interinsular de Victoria (Mahé – Praslin – La Digue, Seychelles)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Seychelles"
+    },
+    "linhas": [
+      {
+        "id": "linha-seychelles-cat-cocos-cat-rose-victoria-mahe-praslin-la-digue",
+        "nome": "Expresso das Ilhas Interiores de Seychelles — Cat Cocos & Cat Rose (Victoria Quay, Mahé – Baie Sainte Anne, Praslin – La Passe, La Digue)",
+        "status": "operacao",
+        "extensao_km": 65.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-mauritius-shipping-port-louis-port-mathurin-rodrigues",
+        "nome": "Ponte Marítima das Ilhas Mascarenhas — MSCL (Porto de Port Louis, Maurício – Porto de Port Mathurin, Ilha Rodrigues)",
+        "status": "operacao",
+        "extensao_km": 650.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari",
+    "slug": "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari",
+    "nome_pt": "Ponte Marítima Internacional Índia–Sri Lanka no Estreito de Palk (Nagapattinam–Kankesanthurai / Jaffna) e Travessias de Kanyakumari e Nainativu",
+    "nome_en": "India–Sri Lanka Palk Strait International Ferry (Nagapattinam–Kankesanthurai / Jaffna) & Kanyakumari / Jaffna Islands Ferries",
+    "pais": "Índia e Sri Lanka",
+    "cidade": "Nagapattinam, Rameswaram e Kanyakumari (Tamil Nadu, Índia); Kankesanthurai, Jaffna, Kurikadduwan, Ilha de Nainativu e Delft Island / Neduntheevu (Província do Norte, Sri Lanka)",
+    "uf": "Tamil Nadu (IN) / Northern Province (LK)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "IndSri Ferry Services / Subham Group (Catamarã de Alta Velocidade HSC Sivaganga Nagapattinam–Kankesanthurai), Poompuhar Shipping Corporation (Tamil Nadu) & Road Development Authority / Sri Lanka Navy (Jaffna Islands Ferries)",
+    "inauguracao": "1914 (Inauguração histórica do vapor ferroviário Indo-Ceylon Express no Estreito de Palk; retomada moderna da linha internacional Nagapattinam–Kankesanthurai em 2023–2024)",
+    "extensao_km": 165.0,
+    "bitola": "Estreito de Palk e Golfo de Mannar (Índia–Sri Lanka) e Estreito de Kanyakumari (Confluência do Oceano Índico, Mar Arábico e Golfo de Bengala)",
+    "eletrificacao": "Catamarã internacional de alta velocidade HSC Sivaganga (150 passageiros em 2 classes, 3h30 de travessia), ferries públicos da Poompuhar Shipping e navios insulares Neduntharagai em Jaffna",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 8500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 38 milhões (modernização do Porto de Kankesanthurai com financiamento do Governo da Índia, dragagem do Porto de Nagapattinam e entrada em operação do catamarã HSC Sivaganga)",
+      "moeda": "USD",
+      "fonte_id": "indsri-ferry-palk-strait-poompuhar-rda"
+    },
+    "proximas_entregas": {
+      "pt": "Estudos binacionais Índia–Sri Lanka para reativação da histórica rota curta Rameswaram (Dhanushkodi) – Talaimannar (Ilha de Mannar, 30 km).",
+      "en": "Binational India–Sri Lanka plans to reactivate the historic short-sea ferry route between Rameswaram (Dhanushkodi) and Talaimannar (30 km)."
+    },
+    "resumo_pt": "Após mais de quatro décadas de interrupção desde a suspensão do lendário vapor ferroviário 'Indo-Ceylon Boat Mail' (que conectava os trens de Chennai/Rameswaram aos trens de Talaimannar/Colombo), a Índia e o Sri Lanka restabeleceram em 2023–2024 sua ponte marítima internacional regular de passageiros através do Estreito de Palk. Operada pelo catamarã de alta velocidade HSC Sivaganga (IndSri Ferry Services / Subham Group, com apoio oficial dos governos de Nova Délhi e Colombo), a linha percorre 111 km (60 milhas náuticas) em 3h30 entre o Porto de Nagapattinam (no estado indiano de Tamil Nadu) e o renovado Porto de Kankesanthurai (ao norte de Jaffna, no Sri Lanka, integrado ao trem expresso Yal Devi para Colombo). Na mesma região, a rede pública de barcas do extremo norte do Sri Lanka (operada pela RDA a partir do píer de Kurikadduwan, na Península de Jaffna) conecta as ilhas históricas de Nainativu (Nagadeepa) e Delft (Neduntheevu), enquanto no cabo extremo sul da Índia a estatal Poompuhar Shipping Corporation opera a intensa travessia de Kanyakumari, na confluência dos três mares.",
+    "resumo_en": "After more than four decades of suspension since the era of the historic 'Indo-Ceylon Boat Mail' train-ferry, India and Sri Lanka re-established scheduled international passenger ferry service across the Palk Strait in 2023–2024. Operated by the high-speed catamaran HSC Sivaganga (IndSri Ferry Services / Subham Group), the route covers 111 km (60 nautical miles) in 3.5 hours between Nagapattinam Port (Tamil Nadu, India) and Kankesanthurai Port in northern Jaffna (Sri Lanka, near Kankesanthurai railway station). Across the Jaffna Peninsula, public ferries operated from Kurikadduwan Jetty link the inhabited islands of Nainativu and Delft (Neduntheevu), while at India's southernmost tip, Tamil Nadu's Poompuhar Shipping Corporation runs the high-frequency Kanyakumari ferry service.",
+    "lat": 10.2855,
+    "lon": 79.9415,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "indsri-ferry-palk-strait-poompuhar-rda",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "índia",
+      "sri lanka",
+      "estreito de palk",
+      "nagapattinam",
+      "kankesanthurai",
+      "jaffna",
+      "tamil nadu",
+      "nainativu",
+      "delft island",
+      "kanyakumari",
+      "hsc sivaganga",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanyakumari_Ferry_Service_Poompuhar_Shipping.jpg/800px-Kanyakumari_Ferry_Service_Poompuhar_Shipping.jpg",
+      "credito": "Wikimedia Commons — Ferries do Estreito de Palk (Nagapattinam–Kankesanthurai Índia–Sri Lanka) e Poompuhar Shipping em Kanyakumari (Tamil Nadu)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_India"
+    },
+    "linhas": [
+      {
+        "id": "linha-palk-strait-internacional-nagapattinam-india-kankesanthurai-sri-lanka",
+        "nome": "Ponte Marítima Internacional do Estreito de Palk — HSC Sivaganga (Porto de Nagapattinam, Tamil Nadu, Índia – Porto de Kankesanthurai, Jaffna, Sri Lanka)",
+        "status": "operacao",
+        "extensao_km": 115.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-jaffna-islands-kurikadduwan-nainativu-delft-kanyakumari-ferries",
+        "nome": "Travessias Insulares da Península de Jaffna e Kanyakumari (Píer de Kurikadduwan – Ilha de Nainativu – Ilha de Delft / Neduntheevu, Sri Lanka)",
+        "status": "operacao",
+        "extensao_km": 50.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
