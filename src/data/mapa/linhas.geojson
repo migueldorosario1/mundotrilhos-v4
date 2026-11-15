@@ -51858,6 +51858,388 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-ichilo-mamore-puerto-villarroel-trinidad-guayaramerin",
+        "nome": "Eixo Hidroviário Ichilo–Mamoré (Puerto Villarroel – Loma Suárez / Trinidad – Santa Ana del Yacuma – Guayaramerín)",
+        "sistema_id": "hidrovia-rios-mamore-beni-madre-de-dios-trinidad-guayaramerin-riberalta-rurrenabaque-bolivia",
+        "sistema_nome": "Hidrovia Amazônica Boliviana dos Rios Ichilo–Mamoré, Beni e Madre de Dios (Bolívia)",
+        "pais": "Bolívia",
+        "cidade": "Puerto Villarroel / Trinidad / Guayaramerín",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 680,
+        "bitola": "Hidrovia Fluvial Amazônica",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.7931,
+            -16.8369
+          ],
+          [
+            -64.9658,
+            -14.7725
+          ],
+          [
+            -65.4244,
+            -13.7444
+          ],
+          [
+            -65.3567,
+            -10.8258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-beni-madre-de-dios-rurrenabaque-riberalta",
+        "nome": "Eixo Fluvial dos Rios Beni e Madre de Dios (Rurrenabaque / San Buenaventura – Sena – Riberalta – Guayaramerín)",
+        "sistema_id": "hidrovia-rios-mamore-beni-madre-de-dios-trinidad-guayaramerin-riberalta-rurrenabaque-bolivia",
+        "sistema_nome": "Hidrovia Amazônica Boliviana dos Rios Ichilo–Mamoré, Beni e Madre de Dios (Bolívia)",
+        "pais": "Bolívia",
+        "cidade": "Rurrenabaque / Riberalta / Guayaramerín",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 500,
+        "bitola": "Hidrovia Fluvial Amazônica",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.5283,
+            -14.4414
+          ],
+          [
+            -66.5833,
+            -12.5167
+          ],
+          [
+            -66.0631,
+            -11.0067
+          ],
+          [
+            -65.3567,
+            -10.8258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-rio-paraguai-concepcion-vallemi-fuerte-olimpo-bahia-negra",
+        "nome": "Hidrovia do Alto Paraguai & Pantanal (Concepción – Puerto Vallemí – Fuerte Olimpo – Bahía Negra)",
+        "sistema_id": "hidrovia-alto-paraguai-pantanal-concepcion-vallemi-fuerte-olimpo-bahia-negra-assuncao-alberdi-pilar-paraguai-argentina",
+        "sistema_nome": "Hidrovia do Rio Paraguai, Pantanal Paraguaio e Travessias Binacionais (Paraguai / Argentina)",
+        "pais": "Paraguai",
+        "cidade": "Concepción / Vallemí / Fuerte Olimpo / Bahía Negra",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 520,
+        "bitola": "Hidrovia Fluvial Internacional",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.4414,
+            -23.4042
+          ],
+          [
+            -57.9519,
+            -22.1558
+          ],
+          [
+            -57.8739,
+            -21.0419
+          ],
+          [
+            -58.1692,
+            -20.2289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-binacionais-baixo-paraguai-assuncao-clorinda-alberdi-formosa-pilar",
+        "nome": "Travessias Binacionais do Baixo Rio Paraguai (Itá Enramada / Assunção – Clorinda, Alberdi – Formosa e Pilar – Puerto Cano)",
+        "sistema_id": "hidrovia-alto-paraguai-pantanal-concepcion-vallemi-fuerte-olimpo-bahia-negra-assuncao-alberdi-pilar-paraguai-argentina",
+        "sistema_nome": "Hidrovia do Rio Paraguai, Pantanal Paraguaio e Travessias Binacionais (Paraguai / Argentina)",
+        "pais": "Paraguai / Argentina",
+        "cidade": "Assunção / Clorinda / Alberdi / Formosa / Pilar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320,
+        "bitola": "Hidrovia Fluvial Internacional Ro-Ro",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6692,
+            -25.3622
+          ],
+          [
+            -58.1489,
+            -26.1856
+          ],
+          [
+            -58.2994,
+            -26.8681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-pacifico-colombiano-buenaventura-timbiqui-guapi-tumaco",
+        "nome": "Corredor Marítimo-Estuarino do Pacífico Colombiano (Buenaventura – Timbiquí – Guapi – El Charco – Tumaco)",
+        "sistema_id": "lanchas-pacifico-colombiano-buenaventura-guapi-tumaco-timbiqui-rio-atrato-quibdo-riosucio-turbo-colombia",
+        "sistema_nome": "Hidrovias do Litoral Pacífico Colombiano e Rio Atrato (Colômbia)",
+        "pais": "Colômbia",
+        "cidade": "Buenaventura / Guapi / Tumaco",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 520,
+        "bitola": "Cabotagem Marítima-Estuarina",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.0797,
+            3.8883
+          ],
+          [
+            -77.6694,
+            2.7719
+          ],
+          [
+            -77.8856,
+            2.5708
+          ],
+          [
+            -78.7647,
+            1.8067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-atrato-quibdo-bojaya-riosucio-turbo",
+        "nome": "Hidrovia Fluvial do Rio Atrato & Golfo de Urabá (Quibdó – Vigía del Fuerte / Bojayá – Riosucio – Turbo)",
+        "sistema_id": "lanchas-pacifico-colombiano-buenaventura-guapi-tumaco-timbiqui-rio-atrato-quibdo-riosucio-turbo-colombia",
+        "sistema_nome": "Hidrovias do Litoral Pacífico Colombiano e Rio Atrato (Colômbia)",
+        "pais": "Colômbia",
+        "cidade": "Quibdó / Riosucio / Turbo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 440,
+        "bitola": "Hidrovia Fluvial Tropical",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.6611,
+            5.6947
+          ],
+          [
+            -76.8853,
+            6.5561
+          ],
+          [
+            -77.1219,
+            7.4406
+          ],
+          [
+            -76.7314,
+            8.0925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ferries-ilha-de-margarita-puerto-la-cruz-cumana-punta-de-piedras-coche",
+        "nome": "Autoestrada Marítima de Nueva Esparta (Puerto La Cruz / Guanta & Cumaná – Punta de Piedras / Margarita – Ilha de Coche)",
+        "sistema_id": "conferry-naviarca-gran-cacique-puerto-la-cruz-cumana-punta-de-piedras-margarita-coche-rio-orinoco-ciudad-bolivar-venezuela",
+        "sistema_nome": "Ferries da Ilha de Margarita e Hidrovia do Rio Orinoco (Venezuela)",
+        "pais": "Venezuela",
+        "cidade": "Puerto La Cruz / Cumaná / Punta de Piedras / Ilha de Margarita",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 380,
+        "bitola": "Autoestrada Marítima Ro-Pax",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.6328,
+            10.2239
+          ],
+          [
+            -64.1825,
+            10.4636
+          ],
+          [
+            -64.0958,
+            10.8972
+          ],
+          [
+            -63.9819,
+            10.7931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-orinoco-ciudad-bolivar-soledad-san-felix-barrancas",
+        "nome": "Travessias Fluviais do Rio Orinoco (Ciudad Bolívar – Soledad e San Félix / Ciudad Guayana – Los Barrancos / Delta)",
+        "sistema_id": "conferry-naviarca-gran-cacique-puerto-la-cruz-cumana-punta-de-piedras-margarita-coche-rio-orinoco-ciudad-bolivar-venezuela",
+        "sistema_nome": "Ferries da Ilha de Margarita e Hidrovia do Rio Orinoco (Venezuela)",
+        "pais": "Venezuela",
+        "cidade": "Ciudad Bolívar / Soledad / Ciudad Guayana / Barrancas del Orinoco",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 310,
+        "bitola": "Hidrovia Fluvial Ro-Ro",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.5497,
+            8.1436
+          ],
+          [
+            -62.6622,
+            8.3742
+          ],
+          [
+            -62.1869,
+            8.6989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-fiordes-patagonicos-navimag-puerto-montt-chacabuco-puerto-eden-puerto-natales",
+        "nome": "Rota dos Fiordes Patagônicos Navimag (Puerto Montt – Puerto Chacabuco – Canal Messier / Puerto Edén – Puerto Natales)",
+        "sistema_id": "navimag-austral-broom-puerto-montt-chacabuco-puerto-natales-porvenir-canal-beagle-puerto-williams-ushuaia-chile-argentina",
+        "sistema_nome": "Ferries dos Fiordes Patagônicos, Terra do Fogo e Canal de Beagle (Chile / Argentina)",
+        "pais": "Chile",
+        "cidade": "Puerto Montt / Puerto Chacabuco / Puerto Edén / Puerto Natales",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1150,
+        "bitola": "Autoestrada Marítima dos Fiordes Patagônicos",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.9553,
+            -41.4797
+          ],
+          [
+            -72.8253,
+            -45.4667
+          ],
+          [
+            -74.4264,
+            -49.1264
+          ],
+          [
+            -72.5117,
+            -51.7308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-terra-do-fogo-canal-beagle-punta-arenas-porvenir-puerto-williams-ushuaia",
+        "nome": "Travessias da Terra do Fogo & Canal de Beagle (Punta Arenas – Porvenir – Puerto Williams / Ilha Navarino – Ushuaia)",
+        "sistema_id": "navimag-austral-broom-puerto-montt-chacabuco-puerto-natales-porvenir-canal-beagle-puerto-williams-ushuaia-chile-argentina",
+        "sistema_nome": "Ferries dos Fiordes Patagônicos, Terra do Fogo e Canal de Beagle (Chile / Argentina)",
+        "pais": "Chile / Argentina",
+        "cidade": "Punta Arenas / Porvenir / Puerto Williams / Ushuaia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 600,
+        "bitola": "Autoestrada Marítima Subantártica",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.9039,
+            -53.1625
+          ],
+          [
+            -70.3886,
+            -53.3069
+          ],
+          [
+            -68.303,
+            -54.8072
+          ],
+          [
+            -67.6108,
+            -54.9333
+          ]
+        ]
+      }
     }
   ]
 }

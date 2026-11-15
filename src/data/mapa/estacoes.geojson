@@ -46468,6 +46468,581 @@
           -8.6122
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-fluvial-villarroel-ichilo-cochabamba-bolivia",
+        "nome": "Puerto Fluvial Villarroel (Rio Ichilo — Cochabamba)",
+        "sistema_id": "hidrovia-rios-mamore-beni-madre-de-dios-trinidad-guayaramerin-riberalta-rurrenabaque-bolivia",
+        "linha_id": "linha-hidrovia-ichilo-mamore-puerto-villarroel-trinidad-guayaramerin",
+        "cidade": "Puerto Villarroel",
+        "pais": "Bolívia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal fluvial meridional do Eixo Ichilo–Mamoré no trópico de Cochabamba."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7931,
+          -16.8369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-loma-suarez-almacen-trinidad-mamore-bolivia",
+        "nome": "Puerto Loma Suárez & Puerto Almacén (Trinidad — Rio Mamoré)",
+        "sistema_id": "hidrovia-rios-mamore-beni-madre-de-dios-trinidad-guayaramerin-riberalta-rurrenabaque-bolivia",
+        "linha_id": "linha-hidrovia-ichilo-mamore-puerto-villarroel-trinidad-guayaramerin",
+        "cidade": "Trinidad",
+        "pais": "Bolívia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Polos fluviais da capital do departamento de Beni no Médio Rio Mamoré."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9658,
+          -14.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-fluvial-guayaramerin-rio-mamore-bolivia",
+        "nome": "Puerto Fluvial de Guayaramerín (Fronteira Bolívia–Brasil)",
+        "sistema_id": "hidrovia-rios-mamore-beni-madre-de-dios-trinidad-guayaramerin-riberalta-rurrenabaque-bolivia",
+        "linha_id": "linha-hidrovia-ichilo-mamore-puerto-villarroel-trinidad-guayaramerin",
+        "cidade": "Guayaramerín",
+        "pais": "Bolívia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal norte da Hidrovia do Mamoré e ponto da travessia internacional para Guajará-Mirim (Rondônia, Brasil)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3567,
+          -10.8258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-fluvial-rurrenabaque-san-buenaventura-rio-beni-bolivia",
+        "nome": "Atracadouro de Rurrenabaque & San Buenaventura (Rio Beni)",
+        "sistema_id": "hidrovia-rios-mamore-beni-madre-de-dios-trinidad-guayaramerin-riberalta-rurrenabaque-bolivia",
+        "linha_id": "linha-hidrovia-rio-beni-madre-de-dios-rurrenabaque-riberalta",
+        "cidade": "Rurrenabaque",
+        "pais": "Bolívia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portal hidroviário do Parque Nacional Madidi e do Alto Rio Beni na transição andino-amazônica."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5283,
+          -14.4414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-fluvial-riberalta-confluencia-beni-madre-de-dios-bolivia",
+        "nome": "Puerto Fluvial de Riberalta (Confluência Rios Beni e Madre de Dios)",
+        "sistema_id": "hidrovia-rios-mamore-beni-madre-de-dios-trinidad-guayaramerin-riberalta-rurrenabaque-bolivia",
+        "linha_id": "linha-hidrovia-rio-beni-madre-de-dios-rurrenabaque-riberalta",
+        "cidade": "Riberalta",
+        "pais": "Bolívia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Maior centro urbano e portuário da Amazônia norte boliviana na junção dos rios Madre de Dios e Beni."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0631,
+          -11.0067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-fluvial-concepcion-rio-paraguai-py",
+        "nome": "Porto Fluvial de Concepción (Médio Rio Paraguai)",
+        "sistema_id": "hidrovia-alto-paraguai-pantanal-concepcion-vallemi-fuerte-olimpo-bahia-negra-assuncao-alberdi-pilar-paraguai-argentina",
+        "linha_id": "linha-alto-rio-paraguai-concepcion-vallemi-fuerte-olimpo-bahia-negra",
+        "cidade": "Concepción",
+        "pais": "Paraguai",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal histórico de partida dos navios de passageiros e abastecimento (Aquidabán) rumo ao Alto Paraguai."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4414,
+          -23.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-fluvial-fuerte-olimpo-chaco-boreal-py",
+        "nome": "Porto Fluvial de Fuerte Olimpo (Capital do Alto Paraguay)",
+        "sistema_id": "hidrovia-alto-paraguai-pantanal-concepcion-vallemi-fuerte-olimpo-bahia-negra-assuncao-alberdi-pilar-paraguai-argentina",
+        "linha_id": "linha-alto-rio-paraguai-concepcion-vallemi-fuerte-olimpo-bahia-negra",
+        "cidade": "Fuerte Olimpo",
+        "pais": "Paraguai",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto ribeirinho estratégico do Chaco Boreal em frente à foz do Rio Branco (Mato Grosso do Sul)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8739,
+          -21.0419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-fluvial-bahia-negra-pantanal-paraguaio-py",
+        "nome": "Porto Fluvial de Bahía Negra (Pantanal Paraguaio — Tríplice Fronteira PY/BR/BO)",
+        "sistema_id": "hidrovia-alto-paraguai-pantanal-concepcion-vallemi-fuerte-olimpo-bahia-negra-assuncao-alberdi-pilar-paraguai-argentina",
+        "linha_id": "linha-alto-rio-paraguai-concepcion-vallemi-fuerte-olimpo-bahia-negra",
+        "cidade": "Bahía Negra",
+        "pais": "Paraguai",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal setentrional do transporte fluvial paraguaio de passageiros no coração do Pantanal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1692,
+          -20.2289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-balsa-ita-enramada-assuncao-puerto-pilcomayo-clorinda-py-ar",
+        "nome": "Terminal Binacional de Balsa Itá Enramada (Assunção) – Puerto Pilcomayo (Clorinda)",
+        "sistema_id": "hidrovia-alto-paraguai-pantanal-concepcion-vallemi-fuerte-olimpo-bahia-negra-assuncao-alberdi-pilar-paraguai-argentina",
+        "linha_id": "linha-travessias-binacionais-baixo-paraguai-assuncao-clorinda-alberdi-formosa-pilar",
+        "cidade": "Assunção / Clorinda",
+        "pais": "Paraguai / Argentina",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia binacional de balsas Ro-Ro e lanchas sobre o Rio Paraguai na região metropolitana de Assunção."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6692,
+          -25.3622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-fluvial-alberdi-formosa-pilar-baixo-paraguai-py-ar",
+        "nome": "Terminais Fluviais Binacionais de Alberdi–Formosa & Pilar–Puerto Cano",
+        "sistema_id": "hidrovia-alto-paraguai-pantanal-concepcion-vallemi-fuerte-olimpo-bahia-negra-assuncao-alberdi-pilar-paraguai-argentina",
+        "linha_id": "linha-travessias-binacionais-baixo-paraguai-assuncao-clorinda-alberdi-formosa-pilar",
+        "cidade": "Alberdi / Formosa / Pilar",
+        "pais": "Paraguai / Argentina",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Intenso corredor de lanchas de passageiros e balsas entre os departamentos de Central/Ñeembucú (Paraguai) e a província de Formosa (Argentina)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1489,
+          -26.1856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "muelle-turistico-fluvial-buenaventura-pacifico-colombia",
+        "nome": "Muelle Turístico e de Cabotagem de Buenaventura (Valle del Cauca)",
+        "sistema_id": "lanchas-pacifico-colombiano-buenaventura-guapi-tumaco-timbiqui-rio-atrato-quibdo-riosucio-turbo-colombia",
+        "linha_id": "linha-pacifico-colombiano-buenaventura-timbiqui-guapi-tumaco",
+        "cidade": "Buenaventura",
+        "pais": "Colômbia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal terminal de lanchas rápidas e navios de cabotagem de passageiros do litoral Pacífico colombiano."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0797,
+          3.8883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "muelle-fluvial-guapi-timbiqui-cauca-colombia",
+        "nome": "Muelles Fluviais de Guapi & Timbiquí (Costa Pacífica do Cauca)",
+        "sistema_id": "lanchas-pacifico-colombiano-buenaventura-guapi-tumaco-timbiqui-rio-atrato-quibdo-riosucio-turbo-colombia",
+        "linha_id": "linha-pacifico-colombiano-buenaventura-timbiqui-guapi-tumaco",
+        "cidade": "Guapi / Timbiquí",
+        "pais": "Colômbia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais estuarinos essenciais que conectam os rios Guapi e Timbiquí a Buenaventura e à Ilha Gorgona."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8856,
+          2.5708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "muelle-maritimo-residencial-tumaco-narino-colombia",
+        "nome": "Muelle de Cabotagem e Lanchas de Tumaco (Perla del Pacífico — Nariño)",
+        "sistema_id": "lanchas-pacifico-colombiano-buenaventura-guapi-tumaco-timbiqui-rio-atrato-quibdo-riosucio-turbo-colombia",
+        "linha_id": "linha-pacifico-colombiano-buenaventura-timbiqui-guapi-tumaco",
+        "cidade": "Tumaco",
+        "pais": "Colômbia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Pólo hidroviário meridional da Colômbia que atende os esteros de Salahonda, Mosquera e El Charco."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7647,
+          1.8067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "malecon-muelle-fluvial-quibdo-rio-atrato-choco-colombia",
+        "nome": "Muelle Fluvial de Quibdó (Malecón del Río Atrato — Chocó)",
+        "sistema_id": "lanchas-pacifico-colombiano-buenaventura-guapi-tumaco-timbiqui-rio-atrato-quibdo-riosucio-turbo-colombia",
+        "linha_id": "linha-hidrovia-rio-atrato-quibdo-bojaya-riosucio-turbo",
+        "cidade": "Quibdó",
+        "pais": "Colômbia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Estação fluvial central da capital do Chocó, ponto de partida das lanchas rápidas pelo Rio Atrato."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6611,
+          5.6947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "muelle-fluvial-riosucio-bojaya-bajo-atrato-colombia",
+        "nome": "Muelle Fluvial de Riosucio & Vigía del Fuerte (Baixo Rio Atrato)",
+        "sistema_id": "lanchas-pacifico-colombiano-buenaventura-guapi-tumaco-timbiqui-rio-atrato-quibdo-riosucio-turbo-colombia",
+        "linha_id": "linha-hidrovia-rio-atrato-quibdo-bojaya-riosucio-turbo",
+        "cidade": "Riosucio",
+        "pais": "Colômbia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Entroncamento hidroviário do Baixo Atrato na ligação com o Golfo de Urabá (Turbo)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1219,
+          7.4406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-ferry-punta-de-piedras-isla-de-margarita-venezuela",
+        "nome": "Terminal de Ferry de Punta de Piedras (Ilha de Margarita — Nueva Esparta)",
+        "sistema_id": "conferry-naviarca-gran-cacique-puerto-la-cruz-cumana-punta-de-piedras-margarita-coche-rio-orinoco-ciudad-bolivar-venezuela",
+        "linha_id": "linha-ferries-ilha-de-margarita-puerto-la-cruz-cumana-punta-de-piedras-coche",
+        "cidade": "Punta de Piedras / Porlamar",
+        "pais": "Venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal complexo portuário Ro-Pax e de catamarãs de alta velocidade da Ilha de Margarita."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0958,
+          10.8972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-ferry-puerto-la-cruz-guanta-anzoategui-venezuela",
+        "nome": "Terminal Marítimo de Ferries de Puerto La Cruz & Guanta (Anzoátegui)",
+        "sistema_id": "conferry-naviarca-gran-cacique-puerto-la-cruz-cumana-punta-de-piedras-margarita-coche-rio-orinoco-ciudad-bolivar-venezuela",
+        "linha_id": "linha-ferries-ilha-de-margarita-puerto-la-cruz-cumana-punta-de-piedras-coche",
+        "cidade": "Puerto La Cruz / Guanta",
+        "pais": "Venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto continental de embarque de veículos e passageiros para a Ilha de Margarita."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6328,
+          10.2239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-ferry-cumana-puerto-sucre-ilha-de-coche-venezuela",
+        "nome": "Terminal de Ferry Puerto Sucre de Cumaná & San Pedro de Coche",
+        "sistema_id": "conferry-naviarca-gran-cacique-puerto-la-cruz-cumana-punta-de-piedras-margarita-coche-rio-orinoco-ciudad-bolivar-venezuela",
+        "linha_id": "linha-ferries-ilha-de-margarita-puerto-la-cruz-cumana-punta-de-piedras-coche",
+        "cidade": "Cumaná / Ilha de Coche",
+        "pais": "Venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Conexão marítima direta da Naviarca e Gran Cacique entre o estado Sucre, a Ilha de Coche e Margarita."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1825,
+          10.4636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-fluvial-ciudad-bolivar-soledad-rio-orinoco-venezuela",
+        "nome": "Puerto Blohm de Ciudad Bolívar & Soledad (Paseo Orinoco)",
+        "sistema_id": "conferry-naviarca-gran-cacique-puerto-la-cruz-cumana-punta-de-piedras-margarita-coche-rio-orinoco-ciudad-bolivar-venezuela",
+        "linha_id": "linha-hidrovia-rio-orinoco-ciudad-bolivar-soledad-san-felix-barrancas",
+        "cidade": "Ciudad Bolívar",
+        "pais": "Venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Tradicional travessia de lanchas de passageiros (curiaras motorizadas) entre o centro histórico de Ciudad Bolívar e Soledad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5497,
+          8.1436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-chalana-san-felix-ciudad-guayana-los-barrancos-orinoco-venezuela",
+        "nome": "Terminal de Chalanas e Lanchas de San Félix (Ciudad Guayana – Los Barrancos de Fajardo)",
+        "sistema_id": "conferry-naviarca-gran-cacique-puerto-la-cruz-cumana-punta-de-piedras-margarita-coche-rio-orinoco-ciudad-bolivar-venezuela",
+        "linha_id": "linha-hidrovia-rio-orinoco-ciudad-bolivar-soledad-san-felix-barrancas",
+        "cidade": "Ciudad Guayana",
+        "pais": "Venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia de balsas Ro-Ro (chalanas) e lanchas sobre o Baixo Rio Orinoco na confluência com o Rio Caroní."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6622,
+          8.3742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-ferry-puerto-natales-navimag-tabsa-chile",
+        "nome": "Terminal Marítimo de Ferries de Puerto Natales (Seno Última Esperanza — Magallanes)",
+        "sistema_id": "navimag-austral-broom-puerto-montt-chacabuco-puerto-natales-porvenir-canal-beagle-puerto-williams-ushuaia-chile-argentina",
+        "linha_id": "linha-fiordes-patagonicos-navimag-puerto-montt-chacabuco-puerto-eden-puerto-natales",
+        "cidade": "Puerto Natales",
+        "pais": "Chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal austral da rota de 4 dias da Navimag desde Puerto Montt e da rota Kawésqar até Caleta Tortel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5117,
+          -51.7308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rampa-fluvial-maritima-puerto-eden-isla-wellington-chile",
+        "nome": "Pontón Marítimo de Puerto Edén (Ilha Wellington — Canal Messier)",
+        "sistema_id": "navimag-austral-broom-puerto-montt-chacabuco-puerto-natales-porvenir-canal-beagle-puerto-williams-ushuaia-chile-argentina",
+        "linha_id": "linha-fiordes-patagonicos-navimag-puerto-montt-chacabuco-puerto-eden-puerto-natales",
+        "cidade": "Puerto Edén",
+        "pais": "Chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Escala insular isolada nos fiordes patagônicos, acessível exclusivamente por via marítima."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4264,
+          -49.1264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-tabsa-tres-puentes-punta-arenas-bahia-chilota-porvenir-chile",
+        "nome": "Terminais TABSA de Tres Puentes (Punta Arenas) & Bahía Chilota (Porvenir — Terra do Fogo)",
+        "sistema_id": "navimag-austral-broom-puerto-montt-chacabuco-puerto-natales-porvenir-canal-beagle-puerto-williams-ushuaia-chile-argentina",
+        "linha_id": "linha-terra-do-fogo-canal-beagle-punta-arenas-porvenir-puerto-williams-ushuaia",
+        "cidade": "Punta Arenas / Porvenir",
+        "pais": "Chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia principal sobre o Estreito de Magalhães ligando a capital de Magallanes à Ilha Grande da Terra do Fogo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9039,
+          -53.1625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rampa-maritima-puerto-williams-puerto-navarino-canal-beagle-chile",
+        "nome": "Terminal Marítimo de Puerto Williams & Rampa de Puerto Navarino (Ilha Navarino — Chile)",
+        "sistema_id": "navimag-austral-broom-puerto-montt-chacabuco-puerto-natales-porvenir-canal-beagle-puerto-williams-ushuaia-chile-argentina",
+        "linha_id": "linha-terra-do-fogo-canal-beagle-punta-arenas-porvenir-puerto-williams-ushuaia",
+        "cidade": "Puerto Williams",
+        "pais": "Chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto de ferries e lanchas rápidas da cidade mais austral do planeta na margem sul do Canal de Beagle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6108,
+          -54.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "muelle-turistico-comercial-ushuaia-canal-beagle-argentina",
+        "nome": "Porto de Ushuaia (Travessia Internacional do Canal de Beagle — Terra do Fogo, Argentina)",
+        "sistema_id": "navimag-austral-broom-puerto-montt-chacabuco-puerto-natales-porvenir-canal-beagle-puerto-williams-ushuaia-chile-argentina",
+        "linha_id": "linha-terra-do-fogo-canal-beagle-punta-arenas-porvenir-puerto-williams-ushuaia",
+        "cidade": "Ushuaia",
+        "pais": "Argentina",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo argentino no Canal de Beagle com travessia binacional de lanchas rápidas para Puerto Navarino e Puerto Williams."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.303,
+          -54.8072
+        ]
+      }
     }
   ]
 }
