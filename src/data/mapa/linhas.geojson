@@ -55464,6 +55464,418 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baia-de-havana-muelle-de-luz-regla-casablanca-cienfuegos-jagua",
+        "nome": "Travessias Urbanas da Baía de Havana e Baía de Cienfuegos: Muelle de Luz (Habana Vieja) – Regla + Muelle de Luz – Casablanca + Cienfuegos – Castillo de Jagua",
+        "sistema_id": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+        "sistema_nome": "Lanchas Urbanas da Baía de Havana e Ferry Perseverancia Batabanó–Nueva Gerona (Cuba)",
+        "pais": "Cuba",
+        "cidade": "Havana / Regla / Casablanca",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Empresa Provincial de Transporte de La Habana",
+        "extensao_km": 45,
+        "bitola": "Lanchas Urbanas de Baía",
+        "eletrificacao": "Diesel-Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.3475,
+            23.1338
+          ],
+          [
+            -82.336,
+            23.1325
+          ],
+          [
+            -82.3475,
+            23.1338
+          ],
+          [
+            -82.3358,
+            23.1456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-golfo-de-batabano-ferry-perseverancia-batabano-nueva-gerona-ilha-da-juventud",
+        "nome": "Ponte Marítima do Golfo de Batabanó (Ferry Perseverancia & Catamarãs VIJUSA): Surgidero de Batabanó – Nueva Gerona (Isla de la Juventud)",
+        "sistema_id": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+        "sistema_nome": "Lanchas Urbanas da Baía de Havana e Ferry Perseverancia Batabanó–Nueva Gerona (Cuba)",
+        "pais": "Cuba",
+        "cidade": "Surgidero de Batabanó / Nueva Gerona",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "VIJUSA / Empresa Viajero (Ferry Perseverancia)",
+        "extensao_km": 165,
+        "bitola": "Ferry Ro-Ro e Catamarãs Rápidos",
+        "eletrificacao": "Diesel-Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.294,
+            22.6845
+          ],
+          [
+            -82.45,
+            22.25
+          ],
+          [
+            -82.798,
+            21.889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ferries-del-caribe-canal-de-la-mona-santo-domingo-san-juan-porto-rico",
+        "nome": "Ponte Marítima Internacional das Grandes Antilhas (Ferries del Caribe): Santo Domingo (Terminal Don Diego, RD) – San Juan (Muelle Panamericano, Porto Rico)",
+        "sistema_id": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+        "sistema_nome": "Ferries del Caribe (Santo Domingo–San Juan), Baía de Samaná e Ilha Saona (República Dominicana e Porto Rico)",
+        "pais": "República Dominicana",
+        "cidade": "Santo Domingo / San Juan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Ferries del Caribe (M/V Kydon)",
+        "extensao_km": 430,
+        "bitola": "Autoestrada Marítima Internacional Ro-Pax",
+        "eletrificacao": "Navio Ro-Pax Oceânico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.8808,
+            18.4719
+          ],
+          [
+            -68.3,
+            18.25
+          ],
+          [
+            -67.2,
+            18.55
+          ],
+          [
+            -66.098,
+            18.458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baia-de-samana-sabana-de-la-mar-bayahibe-ilha-saona-rd",
+        "nome": "Travessias da Baía de Samaná e Canal de Catuano: Santa Bárbara de Samaná – Sabana de la Mar + Bayahibe – Ilha Saona (Mano Juan)",
+        "sistema_id": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+        "sistema_nome": "Ferries del Caribe (Santo Domingo–San Juan), Baía de Samaná e Ilha Saona (República Dominicana e Porto Rico)",
+        "pais": "República Dominicana",
+        "cidade": "Samaná / Sabana de la Mar / Bayahibe",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Moto Marina Samaná & Cooperativa Marítima de Bayahibe",
+        "extensao_km": 190,
+        "bitola": "Ferries de Baía e Catamarãs Costeiros",
+        "eletrificacao": "Diesel-Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.3325,
+            19.2025
+          ],
+          [
+            -69.388,
+            19.061
+          ],
+          [
+            -68.84,
+            18.368
+          ],
+          [
+            -68.705,
+            18.14
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-de-anguilla-saint-barth-blowing-point-marigot-philipsburg-gustavia",
+        "nome": "Eixo Norte (Anguilla – Saint-Martin/Sint Maarten – Saint-Barthélemy): Blowing Point (Anguilla) – Marigot – Philipsburg – Gustavia (St. Barth)",
+        "sistema_id": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+        "sistema_nome": "Rede de Catamarãs Rápidos das Ilhas de Sotavento (São Martinho, St. Barth, Anguilla, Saba, Statia e St. Kitts)",
+        "pais": "São Martinho e Antilhas",
+        "cidade": "Marigot / Philipsburg / Gustavia / Blowing Point",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Voyager St-Barth, Great Bay Express & Anguilla Ferries",
+        "extensao_km": 140,
+        "bitola": "Catamarãs Rápidos Internacionais",
+        "eletrificacao": "Jato d'Água de Alta Velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.092,
+            18.172
+          ],
+          [
+            -63.085,
+            18.068
+          ],
+          [
+            -63.045,
+            18.018
+          ],
+          [
+            -62.852,
+            17.896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-makana-ferry-sint-maarten-saba-statia-st-kitts-nevis",
+        "nome": "Eixo Sul (Makana Ferry & Sea Bridge): Bobby's Marina (Sint Maarten) – Fort Bay (Saba) – Gallows Bay (Statia) – Basseterre (St. Kitts) – Charlestown (Nevis)",
+        "sistema_id": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+        "sistema_nome": "Rede de Catamarãs Rápidos das Ilhas de Sotavento (São Martinho, St. Barth, Anguilla, Saba, Statia e St. Kitts)",
+        "pais": "São Martinho e Antilhas",
+        "cidade": "Philipsburg / Saba / Statia / Basseterre / Charlestown",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Makana Ferry Service & St. Kitts–Nevis Sea Bridge",
+        "extensao_km": 250,
+        "bitola": "Catamarãs Interinsulares e Ferry Ro-Ro",
+        "eletrificacao": "Diesel-Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.045,
+            18.018
+          ],
+          [
+            -63.249,
+            17.615
+          ],
+          [
+            -62.985,
+            17.482
+          ],
+          [
+            -62.723,
+            17.294
+          ],
+          [
+            -62.628,
+            17.142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-martinique-transport-vedettes-fort-de-france-trois-ilets-case-pilote",
+        "nome": "Rede Metropolitana da Baía de Fort-de-France (Martinique Transport): Fort-de-France – Pointe du Bout – Anse Mitan – Anse-à-l'Âne + Case-Pilote – Saint-Pierre",
+        "sistema_id": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+        "sistema_nome": "Barcas Urbanas de Fort-de-France (Martinica) e Ferries das Ilhas de Barlavento (São Vicente e Granada)",
+        "pais": "Martinica, São Vicente e Granada",
+        "cidade": "Fort-de-France / Les Trois-Îlets",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Martinique Transport — Vedettes Tropicales",
+        "extensao_km": 110,
+        "bitola": "Catamarãs Urbanos Metropolitanos",
+        "eletrificacao": "Diesel-Híbrido"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.139,
+            14.642
+          ],
+          [
+            -61.0695,
+            14.6025
+          ],
+          [
+            -61.059,
+            14.557
+          ],
+          [
+            -61.045,
+            14.538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-granadinas-bequia-express-kingstown-bequia-canouan-union-osprey-granada-carriacou",
+        "nome": "Corredor das Ilhas Granadinas (Bequia Express, Jaden Sun & Osprey Lines): Kingstown (São Vicente) – Port Elizabeth (Bequia) – Mustique – Canouan – Union Island – Carriacou – St. George's (Granada)",
+        "sistema_id": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+        "sistema_nome": "Barcas Urbanas de Fort-de-France (Martinica) e Ferries das Ilhas de Barlavento (São Vicente e Granada)",
+        "pais": "Martinica, São Vicente e Granada",
+        "cidade": "Kingstown / Bequia / Union Island / Carriacou / St. George's",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Bequia Express, Jaden Sun & Osprey Lines",
+        "extensao_km": 370,
+        "bitola": "Ferries Ro-Pax e Catamarãs das Granadinas",
+        "eletrificacao": "Diesel-Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.226,
+            13.155
+          ],
+          [
+            -61.236,
+            13.011
+          ],
+          [
+            -61.332,
+            12.712
+          ],
+          [
+            -61.418,
+            12.596
+          ],
+          [
+            -61.458,
+            12.478
+          ],
+          [
+            -61.751,
+            12.052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-water-taxis-bahia-de-banderas-puerto-vallarta-boca-de-tomatlan-yelapa-mazatlan",
+        "nome": "Eixo Pacífico Mexicano: Puerto Vallarta (Muelle Los Muertos) – Boca de Tomatlán – Las Ánimas – Quimixto – Yelapa + Travessia Mazatlán – Isla de la Piedra",
+        "sistema_id": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+        "sistema_nome": "Táxis Aquáticos e Lanchas da Costa do Pacífico Mexicano e Lagos de Michoacán/Jalisco (México)",
+        "pais": "México",
+        "cidade": "Puerto Vallarta / Yelapa / Mazatlán",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Cooperativas de Taxis Acuáticos de Puerto Vallarta e Mazatlán",
+        "extensao_km": 220,
+        "bitola": "Táxis Aquáticos Costeiros (Pangas)",
+        "eletrificacao": "Motores Marítimos de Alta Velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.406,
+            23.186
+          ],
+          [
+            -105.2397,
+            20.5994
+          ],
+          [
+            -105.3015,
+            20.5125
+          ],
+          [
+            -105.362,
+            20.504
+          ],
+          [
+            -105.446,
+            20.489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lagos-patzcuaro-janitzio-chapala-isla-de-los-alacranes-michoacan-jalisco",
+        "nome": "Eixo Grandes Lagos do Altiplano Mexicano: Pátzcuaro (Muelle General) – Ilha de Janitzio – Ilha de Yunuen (Michoacán) + Chapala – Isla de los Alacranes (Jalisco)",
+        "sistema_id": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+        "sistema_nome": "Táxis Aquáticos e Lanchas da Costa do Pacífico Mexicano e Lagos de Michoacán/Jalisco (México)",
+        "pais": "México",
+        "cidade": "Pátzcuaro / Janitzio / Chapala",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Cooperativas de Lancheros de Pátzcuaro e Chapala",
+        "extensao_km": 110,
+        "bitola": "Lanchas Coletivas Lacustres",
+        "eletrificacao": "Diesel e Propulsão Solar-Elétrica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.191,
+            20.286
+          ],
+          [
+            -103.172,
+            20.245
+          ],
+          [
+            -101.622,
+            19.551
+          ],
+          [
+            -101.6518,
+            19.5742
+          ]
+        ]
+      }
     }
   ]
 }

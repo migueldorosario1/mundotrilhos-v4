@@ -41701,5 +41701,319 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+    "slug": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+    "nome_pt": "Lanchas Urbanas da Baía de Havana (Regla e Casablanca) e Ferry Perseverancia Batabanó–Nueva Gerona (Ilha da Juventude, Cuba)",
+    "nome_en": "Havana Bay Urban Ferries (Regla & Casablanca) & Perseverancia Ro-Ro Ferry Batabanó–Nueva Gerona (Isla de la Juventud, Cuba)",
+    "pais": "Cuba",
+    "cidade": "Havana / Regla / Casablanca / Surgidero de Batabanó / Nueva Gerona",
+    "uf": "La Habana / Mayabeque / Isla de la Juventud",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Empresa Provincial de Transporte de La Habana (Lanchitas de la Bahía) / VIJUSA — Viajero & Prácticos de Cuba (Ferry Perseverancia)",
+    "inauguracao": "1843 (primeiros vapores da Baía de Havana para Regla) / 2023 (entrada em operação do novo ferry Ro-Ro Perseverancia no Golfo de Batabanó)",
+    "extensao_km": 210,
+    "bitola": "Travessia Metropolitana de Baía e Hidrovia Insular do Mar do Caribe (Lanchas Urbanas, Catamarãs Rápidos e Ferry Ro-Ro Perseverancia)",
+    "eletrificacao": "Propulsão Diesel-Marítima (Ferry Perseverancia para 430 passageiros e Lanchas de Havana)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 26000,
+    "ano_referencia": 2026,
+    "investimento": "US$ 18 milhões (aquisição e adaptação do ferry Ro-Ro Perseverancia e dragagem do canal de acesso ao porto de Surgidero de Batabanó e Nueva Gerona)",
+    "proximas_entregas": "Remodelação do Emboque de Luz na Habana Vieja e reforço da frota de lanchas para Regla e Casablanca",
+    "resumo_pt": "Principal sistema público de transporte hidroviário urbano e interinsular de Cuba: na capital Havana, as tradicionais 'Lanchitas de la Bahía' partem do Muelle de Luz (Habana Vieja) cruzando o canal de entrada da Baía de Havana até Regla e até Casablanca (onde se conecta diretamente com a estação terminal do único trem interurbano elétrico de Cuba, o Trem de Hershey), enquanto no litoral sul a empresa estatal Viajero / VIJUSA opera a ponte marítima vital de 130 km através do Golfo de Batabanó entre Surgidero de Batabanó (conectado por trem a Havana) e Nueva Gerona na Ilha da Juventude com o moderno ferry Ro-Ro Perseverancia.",
+    "resumo_en": "Cuba's primary urban and inter-island passenger water transport network: in Havana, the iconic 'Lanchitas de la Bahía' cross Havana Bay from Muelle de Luz (Old Havana) to Regla and Casablanca (adjacent to the Hershey Electric Railway terminal), while on the southern coast the Ro-Ro ferry Perseverancia and high-speed catamarans connect the railhead port of Surgidero de Batabanó across the Gulf of Batabanó to Nueva Gerona on Isla de la Juventud.",
+    "lat": 23.1338,
+    "lon": -82.3475,
+    "zoom_inicial": 7,
+    "fontes": [
+      "Ministerio del Transporte de Cuba (MITRANS) & Empresa Viajero — Operación del Ferry Perseverancia Batabanó–Nueva Gerona 2026",
+      "Empresa Provincial de Transporte de La Habana — Lanchas de la Bahía (Luz–Regla–Casablanca) 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "lancha",
+      "havana",
+      "regla",
+      "casablanca",
+      "batabano",
+      "nueva-gerona",
+      "ilha-da-juventude",
+      "cuba",
+      "caribe"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-baia-de-havana-muelle-de-luz-regla-casablanca-cienfuegos-jagua",
+        "nome": "Travessias Urbanas da Baía de Havana e Baía de Cienfuegos: Muelle de Luz (Habana Vieja) – Regla + Muelle de Luz – Casablanca + Cienfuegos – Castillo de Jagua",
+        "status": "operacao",
+        "extensao_km": 45,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-golfo-de-batabano-ferry-perseverancia-batabano-nueva-gerona-ilha-da-juventud",
+        "nome": "Ponte Marítima do Golfo de Batabanó (Ferry Perseverancia & Catamarãs VIJUSA): Surgidero de Batabanó – Nueva Gerona (Isla de la Juventud)",
+        "status": "operacao",
+        "extensao_km": 165,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+    "slug": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+    "nome_pt": "Ferries del Caribe (Santo Domingo–San Juan no Canal de la Mona), Travessia da Baía de Samaná e Catamarãs de Ilha Saona (República Dominicana e Porto Rico)",
+    "nome_en": "Ferries del Caribe (Santo Domingo–San Juan across Mona Passage), Samaná Bay Ferry & Saona Island Catamarans (Dominican Republic & Puerto Rico)",
+    "pais": "República Dominicana",
+    "cidade": "Santo Domingo / San Juan / Samaná / Sabana de la Mar / Bayahibe",
+    "uf": "Distrito Nacional / Samaná / La Altagracia / Porto Rico",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Ferries del Caribe (Naviera Kydon) / Moto Marina Samaná–Sabana de la Mar / Cooperativa de Embarcaciones de Bayahibe–Isla Saona",
+    "inauguracao": "1998 (inauguração da linha internacional de ferry Ro-Pax entre a República Dominicana e Porto Rico)",
+    "extensao_km": 620,
+    "bitola": "Autoestrada Marítima Internacional do Canal de la Mona e Travessias Costeiras (Navio Ro-Pax Kydon de 1.500 passageiros e Barcas Regionais)",
+    "eletrificacao": "Propulsão Diesel-Marítima Oceânica e Catamarãs Costeiros",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 14500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 35 milhões (modernização do terminal Don Diego no Porto de Santo Domingo, Muelle Panamericano em San Juan e novos píeres de Samaná e Sabana de la Mar)",
+    "proximas_entregas": "Ampliação da capacidade de cabines e veículos no serviço noturno Santo Domingo–San Juan e novo terminal de passageiros em Sabana de la Mar",
+    "resumo_pt": "Principal corredor marítimo internacional das Grandes Antilhas e rede de travessias costeiras da República Dominicana: liderado pelo navio Ro-Pax da Ferries del Caribe que cruza três vezes por semana o Canal de la Mona (390 km) ligando o Porto de Santo Domingo (Terminal Don Diego) a San Juan em Porto Rico com passageiros, automóveis e carga rodoviária, complementado internamente pela travessia diária da Baía de Samaná entre Santa Bárbara de Samaná e Sabana de la Mar (evitando um contorno rodoviário de 3 horas) e pelo corredor de catamarãs e lanchas de Bayahibe para Mano Juan e Catuano na Ilha Saona.",
+    "resumo_en": "Primary international maritime highway of the Greater Antilles and coastal ferry network of the Dominican Republic: led by the Ferries del Caribe Ro-Pax vessel crossing the Mona Passage (390 km) between Santo Domingo (Don Diego Terminal) and San Juan, Puerto Rico, complemented domestically by the daily Samaná Bay passenger ferry linking Santa Bárbara de Samaná with Sabana de la Mar and the high-volume catamaran corridor from Bayahibe to Saona Island.",
+    "lat": 18.4719,
+    "lon": -69.8808,
+    "zoom_inicial": 6,
+    "fontes": [
+      "Autoridad Portuaria Dominicana (APORDOM) & Ferries del Caribe — Estadísticas Santo Domingo–San Juan 2026",
+      "Ministerio de Turismo de la República Dominicana — Terminales Marítimas de Samaná, Sabana de la Mar y Bayahibe 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "ferries-del-caribe",
+      "santo-domingo",
+      "san-juan",
+      "canal-de-la-mona",
+      "samana",
+      "ilha-saona",
+      "republica-dominicana",
+      "porto-rico",
+      "caribe"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-ferries-del-caribe-canal-de-la-mona-santo-domingo-san-juan-porto-rico",
+        "nome": "Ponte Marítima Internacional das Grandes Antilhas (Ferries del Caribe): Santo Domingo (Terminal Don Diego, RD) – San Juan (Muelle Panamericano, Porto Rico)",
+        "status": "operacao",
+        "extensao_km": 430,
+        "estacoes": 2
+      },
+      {
+        "id": "linha-baia-de-samana-sabana-de-la-mar-bayahibe-ilha-saona-rd",
+        "nome": "Travessias da Baía de Samaná e Canal de Catuano: Santa Bárbara de Samaná – Sabana de la Mar + Bayahibe – Ilha Saona (Mano Juan)",
+        "status": "operacao",
+        "extensao_km": 190,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+    "slug": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+    "nome_pt": "Rede de Catamarãs Rápidos das Ilhas de Sotavento — Voyager & Great Bay Express (São Martinho–St. Barth), Anguilla Ferry, Makana Ferry (Saba–Statia–St. Kitts) e Sea Bridge Nevis",
+    "nome_en": "Leeward Islands High-Speed Catamaran Network — Voyager & Great Bay Express (St. Martin–St. Barth), Anguilla Ferry, Makana Ferry (Saba–Statia–St. Kitts) & Sea Bridge Nevis",
+    "pais": "São Martinho e Antilhas",
+    "cidade": "Marigot / Philipsburg / Gustavia (St. Barth) / Blowing Point (Anguilla) / Basseterre (St. Kitts)",
+    "uf": "Ilhas de Sotavento (Antilhas Francesas, Holandesas e Britânicas)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Voyager St-Barth / Great Bay Express / Calypso & Funtime Charters (Anguilla–St. Martin) / Makana Ferry Service / Sea Bridge St. Kitts–Nevis",
+    "inauguracao": "1986 (primeiros catamarãs rápidos regulares entre Marigot, Philipsburg, Anguilla e Gustavia em São Bartolomeu)",
+    "extensao_km": 390,
+    "bitola": "Hidrovia Interinsular Internacional de Alta Velocidade (Catamarãs Rápidos de Alumínio e Ferries Ro-Ro do Estreito de Narrows)",
+    "eletrificacao": "Propulsão Diesel-Jato d'Água (Waterjet) de Alta Velocidade (32 nós)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 16800,
+    "ano_referencia": 2026,
+    "investimento": "US$ 24 milhões (renovação dos catamarãs Voyager 3 Dreamliner, expansão do serviço regional Makana Ferry para Saba/Statia/St. Kitts e modernização de Blowing Point em Anguilla)",
+    "proximas_entregas": "Novo terminal de passageiros binacional em Marigot/Simpson Bay e ampliação das frequências entre Sint Maarten, Saba, Santo Eustáquio e St. Kitts",
+    "resumo_pt": "Malha internacional de ferries e catamarãs de alta velocidade que interliga seis territórios insulares vizinhos nas Ilhas de Sotavento (Leeward Islands) do Caribe Oriental: conecta a cada 30 minutos Blowing Point em Anguilla a Marigot (Saint-Martin francês) e ao Aeroporto Princess Juliana (Sint Maarten holandês), opera as linhas rápidas Voyager e Great Bay Express de Marigot e Philipsburg para Gustavia em São Bartolomeu (St. Barth), e estende-se ao sul com o serviço Makana Ferry e The Edge ligando Sint Maarten às ilhas vulcânicas holandesas de Saba e Santo Eustáquio (Statia) até Basseterre em São Cristóvão e Charlestown na Ilha de Névis.",
+    "resumo_en": "High-density international fast ferry and catamaran network linking six neighboring island territories in the Caribbean's Leeward Islands: connects Blowing Point (Anguilla) with Marigot (French Saint-Martin) and Simpson Bay (Dutch Sint Maarten), operates the Voyager and Great Bay Express catamarans from Marigot and Philipsburg to Gustavia (St. Barth), and extends south via the Makana Ferry linking Sint Maarten, Saba, Sint Eustatius (Statia), Basseterre (St. Kitts), and Charlestown (Nevis).",
+    "lat": 18.068,
+    "lon": -63.085,
+    "zoom_inicial": 8,
+    "fontes": [
+      "Port de Galisbay (Saint-Martin) & Port St. Maarten — Tráfego Interinsular de Passageiros (Anguilla, St. Barth, Saba, Statia) 2026",
+      "Makana Ferry Service & St. Kitts–Nevis Sea Bridge — Horários e Rotas das Ilhas de Sotavento 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "sao-martinho",
+      "saint-barth",
+      "anguilla",
+      "saba",
+      "statia",
+      "saint-kitts",
+      "nevis",
+      "caribe"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-canal-de-anguilla-saint-barth-blowing-point-marigot-philipsburg-gustavia",
+        "nome": "Eixo Norte (Anguilla – Saint-Martin/Sint Maarten – Saint-Barthélemy): Blowing Point (Anguilla) – Marigot – Philipsburg – Gustavia (St. Barth)",
+        "status": "operacao",
+        "extensao_km": 140,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-makana-ferry-sint-maarten-saba-statia-st-kitts-nevis",
+        "nome": "Eixo Sul (Makana Ferry & Sea Bridge): Bobby's Marina (Sint Maarten) – Fort Bay (Saba) – Gallows Bay (Statia) – Basseterre (St. Kitts) – Charlestown (Nevis)",
+        "status": "operacao",
+        "extensao_km": 250,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+    "slug": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+    "nome_pt": "Barcas Urbanas de Fort-de-France (Martinica) e Ferries das Ilhas de Barlavento — Bequia Express & Jaden Sun (São Vicente e Granadinas) e Osprey Lines (Granada–Carriacou)",
+    "nome_en": "Fort-de-France Urban Ferries (Martinique) & Windward Islands Ferries — Bequia Express & Jaden Sun (St. Vincent & the Grenadines) & Osprey Lines (Grenada–Carriacou)",
+    "pais": "Martinica, São Vicente e Granada",
+    "cidade": "Fort-de-France / Les Trois-Îlets / Kingstown / Bequia / St. George's / Carriacou",
+    "uf": "Ilhas de Barlavento (Windward Islands — Caribe Oriental)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Martinique Transport — Vedettes Tropicales (Blue Lines) / Bequia Express & Jaden Sun Fast Ferry (SVG) / Osprey Lines Ltd. (Granada)",
+    "inauguracao": "1968 (barcas regulares da Baía de Fort-de-France e ferries postais das Granadinas)",
+    "extensao_km": 480,
+    "bitola": "Transporte Aquaviário Metropolitano Integrado (Martinique Transport) e Ferries Interinsulares das Granadinas",
+    "eletrificacao": "Catamarãs Urbanos Diesel-Híbridos e Ferries Ro-Pax Interinsulares",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 19500,
+    "ano_referencia": 2026,
+    "investimento": "€ 28 milhões (integração tarifária bilhete único das Vedettes Tropicales com o TCSP BRT de Fort-de-France e novas embarcações para Carriacou e Bequia)",
+    "proximas_entregas": "Eletrificação da frota urbana de catamarãs da Baía de Fort-de-France pela autoridade Martinique Transport",
+    "resumo_pt": "Sistema hidroviário metropolitano e arquipelágico do arco sul das Pequenas Antilhas (Ilhas de Barlavento): na Martinica, a rede pública de catamarãs Vedettes Tropicales (integrada ao Martinique Transport) cruza a Baía de Fort-de-France ligando o centro da capital a Pointe du Bout, Anse Mitan e Anse-à-l'Âne (Les Trois-Îlets), além da linha costeira norte para Case-Pilote e Saint-Pierre; mais ao sul, os ferries Bequia Express, Admiral Ferries e o catamarã rápido Jaden Sun conectam Kingstown (São Vicente) à cadeia das Granadinas (Bequia, Mustique, Canouan, Mayreau e Union Island), enquanto a Osprey Lines une St. George's (Granada) às ilhas de Carriacou e Petite Martinique.",
+    "resumo_en": "Metropolitan and archipelagic water transit across the southern Lesser Antilles (Windward Islands): in Martinique, the public Vedettes Tropicales catamaran network crosses Fort-de-France Bay linking the capital with Les Trois-Îlets (Pointe du Bout, Anse Mitan, Anse-à-l'Âne) and Case-Pilote; further south, Bequia Express and Jaden Sun connect Kingstown (St. Vincent) along the Grenadines chain (Bequia, Mustique, Canouan, Mayreau, Union Island), while Osprey Lines links St. George's (Grenada) to Carriacou and Petite Martinique.",
+    "lat": 14.6025,
+    "lon": -61.0695,
+    "zoom_inicial": 7,
+    "fontes": [
+      "Martinique Transport & Vedettes Tropicales — Réseau Maritime de la Baie de Fort-de-France 2026",
+      "SVG Port Authority (Kingstown) & Osprey Lines Grenada — Grenadines Inter-Island Ferry Operations 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "martinica",
+      "fort-de-france",
+      "sao-vicente-e-granadinas",
+      "bequia",
+      "granada",
+      "carriacou",
+      "caribe"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-martinique-transport-vedettes-fort-de-france-trois-ilets-case-pilote",
+        "nome": "Rede Metropolitana da Baía de Fort-de-France (Martinique Transport): Fort-de-France – Pointe du Bout – Anse Mitan – Anse-à-l'Âne + Case-Pilote – Saint-Pierre",
+        "status": "operacao",
+        "extensao_km": 110,
+        "estacoes": 2
+      },
+      {
+        "id": "linha-granadinas-bequia-express-kingstown-bequia-canouan-union-osprey-granada-carriacou",
+        "nome": "Corredor das Ilhas Granadinas (Bequia Express, Jaden Sun & Osprey Lines): Kingstown (São Vicente) – Port Elizabeth (Bequia) – Mustique – Canouan – Union Island – Carriacou – St. George's (Granada)",
+        "status": "operacao",
+        "extensao_km": 370,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+    "slug": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+    "nome_pt": "Táxis Aquáticos e Lanchas da Costa do Pacífico Mexicano e Lagos de Michoacán/Jalisco — Baía de Banderas (Puerto Vallarta–Yelapa), Mazatlán–Isla de la Piedra e Lago de Pátzcuaro–Janitzio (México)",
+    "nome_en": "Mexican Pacific Coast Water Taxis & Highland Lake Ferries — Bahía de Banderas (Puerto Vallarta–Yelapa), Mazatlán–Isla de la Piedra & Lake Pátzcuaro–Janitzio (Mexico)",
+    "pais": "México",
+    "cidade": "Puerto Vallarta / Cabo Corrientes (Yelapa) / Mazatlán / Pátzcuaro / Chapala",
+    "uf": "Jalisco / Nayarit / Sinaloa / Michoacán",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Cooperativa de Transportes Marítimos de Boca de Tomatlán y Puerto Vallarta / Unión de Lancheros de Mazatlán (Isla de la Piedra) / Cooperativa del Lago de Pátzcuaro",
+    "inauguracao": "1955 (serviço regular de lanchas costeiras de Puerto Vallarta/Boca de Tomatlán para Yelapa e lanchas do Lago de Pátzcuaro)",
+    "extensao_km": 330,
+    "bitola": "Transporte Aquaviário Costeiro (Pangões / Water Taxis Oceânicos) e Lanchas Tradicionais Lacustres",
+    "eletrificacao": "Propulsão Marítima de Alta Potência e Barcas Lacustres",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 21000,
+    "ano_referencia": 2026,
+    "investimento": "MXN 380 milhões (reforma do Muelle de Playa Los Muertos em Puerto Vallarta, dragagem e reabilitação dos píeres do Lago de Pátzcuaro/Janitzio e atracadouros de Mazatlán)",
+    "proximas_entregas": "Modernização dos píeres costeiros de Quimixto, Las Ánimas e Yelapa em Cabo Corrientes (Jalisco) e embarcações solares no Lago de Pátzcuaro",
+    "resumo_pt": "Rede de transporte aquaviário costeiro e lacustre do centro-oeste e Pacífico do México: na Baía de Banderas (Jalisco/Nayarit), dezenas de táxis aquáticos partem diariamente do icônico Muelle de Los Muertos em Puerto Vallarta e de Boca de Tomatlán para atender povoados costeiros sem acesso rodoviário — Las Ánimas, Quimixto, Majahuitas, Pisota e Yelapa, além de Chimo e Corrales —; mais ao norte em Sinaloa, lanchas pendulares cruzam a cada 10 minutos o canal portuário de Mazatlán até a Isla de la Piedra; e no altiplano de Michoacán e Jalisco, frotas de lanchas públicas conectam Pátzcuaro à ilha habitada de Janitzio (e Yunuen/Pacanda) e Chapala à Isla de los Alacranes.",
+    "resumo_en": "Coastal water taxi and highland lake ferry network across western and Pacific Mexico: in Bahía de Banderas (Jalisco), frequent water taxis depart Puerto Vallarta's Los Muertos Pier and Boca de Tomatlán to serve roadless coastal towns including Las Ánimas, Quimixto, Majahuitas, and Yelapa; in Sinaloa, commuter launches cross every 10 minutes between Mazatlán and Isla de la Piedra; and in the highlands of Michoacán and Jalisco, public boats connect Pátzcuaro with the island town of Janitzio and Chapala with Isla de los Alacranes.",
+    "lat": 20.5994,
+    "lon": -105.2397,
+    "zoom_inicial": 6,
+    "fontes": [
+      "ASIPONA Puerto Vallarta & Secretaría de Marina (SEMAR) — Rutas de Taxis Acuáticos de Bahía de Banderas (Los Muertos–Boca de Tomatlán–Yelapa) 2026",
+      "Gobierno de Michoacán & ASIPONA Mazatlán — Navegación del Lago de Pátzcuaro–Janitzio y Cruce Mazatlán–Isla de la Piedra 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "water-taxi",
+      "lancha",
+      "puerto-vallarta",
+      "yelapa",
+      "mazatlan",
+      "lago-de-patzcuaro",
+      "janitzio",
+      "jalisco",
+      "michoacan",
+      "mexico"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-water-taxis-bahia-de-banderas-puerto-vallarta-boca-de-tomatlan-yelapa-mazatlan",
+        "nome": "Eixo Pacífico Mexicano: Puerto Vallarta (Muelle Los Muertos) – Boca de Tomatlán – Las Ánimas – Quimixto – Yelapa + Travessia Mazatlán – Isla de la Piedra",
+        "status": "operacao",
+        "extensao_km": 220,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-lagos-patzcuaro-janitzio-chapala-isla-de-los-alacranes-michoacan-jalisco",
+        "nome": "Eixo Grandes Lagos do Altiplano Mexicano: Pátzcuaro (Muelle General) – Ilha de Janitzio – Ilha de Yunuen (Michoacán) + Chapala – Isla de los Alacranes (Jalisco)",
+        "status": "operacao",
+        "extensao_km": 110,
+        "estacoes": 2
+      }
+    ]
   }
 ]

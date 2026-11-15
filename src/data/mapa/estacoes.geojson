@@ -51643,6 +51643,581 @@
           -29.145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-de-luz-habana-vieja-lanchas-bahia-cuba",
+        "nome": "Terminal Marítimo Muelle de Luz (Habana Vieja — Lanchas de la Bahía de La Habana, Cuba)",
+        "sistema_id": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+        "linha_id": "linha-baia-de-havana-muelle-de-luz-regla-casablanca-cienfuegos-jagua",
+        "pais": "Cuba",
+        "cidade": "Havana",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Histórico terminal hidroviário no centro antigo de Havana de onde partem as lanchas urbanas para Regla e Casablanca."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3475,
+          23.1338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-emboque-de-regla-baia-de-havana-cuba",
+        "nome": "Terminal Hidroviário Emboque de Regla (Santuário de Regla — Baía de Havana, Cuba)",
+        "sistema_id": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+        "linha_id": "linha-baia-de-havana-muelle-de-luz-regla-casablanca-cienfuegos-jagua",
+        "pais": "Cuba",
+        "cidade": "Regla (Havana)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Atracadouro urbano no município de Regla, na margem oriental da Baía de Havana."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.336,
+          23.1325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-de-casablanca-conexao-trem-hershey-havana-cuba",
+        "nome": "Terminal de Lanchas de Casablanca (Integração com a Estação do Trem Elétrico de Hershey — Havana, Cuba)",
+        "sistema_id": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+        "linha_id": "linha-baia-de-havana-muelle-de-luz-regla-casablanca-cienfuegos-jagua",
+        "pais": "Cuba",
+        "cidade": "Casablanca (Havana)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal multimodal ao pé do Cristo de Havana, conectando as lanchas da baía à estação ferroviária de Casablanca (Ferrocarril Eléctrico de Hershey)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3358,
+          23.1456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-maritimo-surgidero-de-batabano-mayabeque-cuba",
+        "nome": "Terminal Ferro-Marítimo de Surgidero de Batabanó (Embarque do Ferry Perseverancia — Mayabeque, Cuba)",
+        "sistema_id": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+        "linha_id": "linha-golfo-de-batabano-ferry-perseverancia-batabano-nueva-gerona-ilha-da-juventud",
+        "pais": "Cuba",
+        "cidade": "Surgidero de Batabanó",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto no Golfo de Batabanó integrado aos ônibus e trens procedentes da Estação Central de Havana para embarque rumo à Ilha da Juventude."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.294,
+          22.6845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-maritimo-nueva-gerona-isla-de-la-juventud-cuba",
+        "nome": "Terminal Marítimo de Nueva Gerona (Rio Las Casas — Isla de la Juventud, Cuba)",
+        "sistema_id": "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+        "linha_id": "linha-golfo-de-batabano-ferry-perseverancia-batabano-nueva-gerona-ilha-da-juventud",
+        "pais": "Cuba",
+        "cidade": "Nueva Gerona",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto de passageiros e carga Ro-Ro da Ilha da Juventude, segunda maior ilha do arquipélago cubano."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.798,
+          21.889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-don-diego-puerto-de-santo-domingo-ferries-del-caribe",
+        "nome": "Terminal Internacional Don Diego — Puerto de Santo Domingo (Ferries del Caribe, República Dominicana)",
+        "sistema_id": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+        "linha_id": "linha-ferries-del-caribe-canal-de-la-mona-santo-domingo-san-juan-porto-rico",
+        "pais": "República Dominicana",
+        "cidade": "Santo Domingo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo internacional na foz do Rio Ozama ao lado da Zona Colonial de Santo Domingo, base do navio Ro-Pax para Porto Rico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8808,
+          18.4719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-panamericano-san-juan-ferries-del-caribe-porto-rico",
+        "nome": "Terminal Muelle Panamericano de San Juan (Ferries del Caribe — Porto Rico)",
+        "sistema_id": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+        "linha_id": "linha-ferries-del-caribe-canal-de-la-mona-santo-domingo-san-juan-porto-rico",
+        "pais": "República Dominicana",
+        "cidade": "San Juan (Porto Rico)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal internacional Ro-Pax em Isla Grande (Baía de San Juan) que recebe o ferry vindo da República Dominicana."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.098,
+          18.458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-publico-santa-barbara-de-samana-rd",
+        "nome": "Muelle Público de Santa Bárbara de Samaná (Baía de Samaná, República Dominicana)",
+        "sistema_id": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+        "linha_id": "linha-baia-de-samana-sabana-de-la-mar-bayahibe-ilha-saona-rd",
+        "pais": "República Dominicana",
+        "cidade": "Samaná",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal píer da península de Samaná, conectando a cidade a Sabana de la Mar e Cayo Levantado."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3325,
+          19.2025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-sabana-de-la-mar-los-haitises-rd",
+        "nome": "Muelle de Sabana de la Mar (Parque Nacional Los Haitises — Baía de Samaná, RD)",
+        "sistema_id": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+        "linha_id": "linha-baia-de-samana-sabana-de-la-mar-bayahibe-ilha-saona-rd",
+        "pais": "República Dominicana",
+        "cidade": "Sabana de la Mar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal na margem sul da Baía de Samaná para a travessia de passageiros até Santa Bárbara de Samaná."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.388,
+          19.061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-de-bayahibe-mano-juan-isla-saona-rd",
+        "nome": "Porto de Embarque de Bayahibe e Píer de Mano Juan (Ilha Saona — La Altagracia, RD)",
+        "sistema_id": "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+        "linha_id": "linha-baia-de-samana-sabana-de-la-mar-bayahibe-ilha-saona-rd",
+        "pais": "República Dominicana",
+        "cidade": "Bayahibe / Ilha Saona",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Pólo marítimo no sudeste dominicano com centenas de partidas semanais de catamarãs e lanchas para a Ilha Saona."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.84,
+          18.368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-de-marigot-saint-martin",
+        "nome": "Gare Maritime Internationale de Marigot (Saint-Martin — Catamarãs para Anguilla e St. Barth)",
+        "sistema_id": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+        "linha_id": "linha-canal-de-anguilla-saint-barth-blowing-point-marigot-philipsburg-gustavia",
+        "pais": "São Martinho e Antilhas",
+        "cidade": "Marigot (Saint-Martin)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal terminal internacional de ferries da parte francesa de São Martinho, com partidas a cada 30 min para Anguilla e catamarãs Voyager para St. Barth."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.085,
+          18.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-blowing-point-ferry-terminal-anguilla",
+        "nome": "Blowing Point Ferry Terminal (Anguilla — Travessia do Canal de Anguilla)",
+        "sistema_id": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+        "linha_id": "linha-canal-de-anguilla-saint-barth-blowing-point-marigot-philipsburg-gustavia",
+        "pais": "São Martinho e Antilhas",
+        "cidade": "Blowing Point (Anguilla)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porta de entrada marítima internacional de Anguilla, a apenas 20 minutos de lancha rápida de Saint-Martin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.092,
+          18.172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-de-gustavia-saint-barthelemy",
+        "nome": "Gare Maritime de Gustavia (Saint-Barthélemy — Catamarãs Voyager e Great Bay Express)",
+        "sistema_id": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+        "linha_id": "linha-canal-de-anguilla-saint-barth-blowing-point-marigot-philipsburg-gustavia",
+        "pais": "São Martinho e Antilhas",
+        "cidade": "Gustavia (St. Barth)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal portuário no coração de Gustavia, recebendo os catamarãs de alta velocidade procedentes de Philipsburg e Marigot."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.852,
+          17.896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-philipsburg-bobbys-marina-great-bay-sint-maarten",
+        "nome": "Philipsburg Bobby's Marina & Great Bay Ferry Terminal (Sint Maarten — Makana Ferry & Great Bay Express)",
+        "sistema_id": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+        "linha_id": "linha-makana-ferry-sint-maarten-saba-statia-st-kitts-nevis",
+        "pais": "São Martinho e Antilhas",
+        "cidade": "Philipsburg (Sint Maarten)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Hub internacional de catamarãs na capital da parte holandesa de São Martinho para St. Barth, Saba, Statia e St. Kitts."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.045,
+          18.018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-basseterre-port-zante-charlestown-nevis-ferry-terminals",
+        "nome": "Terminais de Basseterre (São Cristóvão) e Charlestown (Névis) + Fort Bay (Saba) / Gallows Bay (Statia)",
+        "sistema_id": "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+        "linha_id": "linha-makana-ferry-sint-maarten-saba-statia-st-kitts-nevis",
+        "pais": "São Martinho e Antilhas",
+        "cidade": "Basseterre / Charlestown / Saba",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais marítimos da ponte interinsular St. Kitts–Nevis e ponto sul da rota internacional Makana Ferry via Saba e Santo Eustáquio."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.723,
+          17.294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-front-de-mer-fort-de-france-martinica",
+        "nome": "Terminal Marítimo Front de Mer de Fort-de-France (Integração TCSP BRT — Martinica)",
+        "sistema_id": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+        "linha_id": "linha-martinique-transport-vedettes-fort-de-france-trois-ilets-case-pilote",
+        "pais": "Martinica, São Vicente e Granada",
+        "cidade": "Fort-de-France",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal central das barcas urbanas Vedettes Tropicales no centro de Fort-de-France, integrado tarifariamente à rede de transporte público da Martinica."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0695,
+          14.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pontons-les-trois-ilets-pointe-du-bout-anse-mitan-martinica",
+        "nome": "Píeres de Les Trois-Îlets — Pointe du Bout, Anse Mitan e Anse-à-l'Âne (Baía de Fort-de-France, Martinica)",
+        "sistema_id": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+        "linha_id": "linha-martinique-transport-vedettes-fort-de-france-trois-ilets-case-pilote",
+        "pais": "Martinica, São Vicente e Granada",
+        "cidade": "Les Trois-Îlets",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Conjunto de três terminais de barcas no município de Les Trois-Îlets, na margem sul da Baía de Fort-de-France."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.059,
+          14.557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kingstown-grenadines-wharf-st-vincent",
+        "nome": "Kingstown Grenadines Wharf (Terminal dos Ferries Bequia Express e Jaden Sun — São Vicente)",
+        "sistema_id": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+        "linha_id": "linha-granadinas-bequia-express-kingstown-bequia-canouan-union-osprey-granada-carriacou",
+        "pais": "Martinica, São Vicente e Granada",
+        "cidade": "Kingstown (São Vicente)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal dedicado aos ferries interinsulares na capital de São Vicente e Granadinas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.226,
+          13.155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-elizabeth-bequia-clifton-union-island-grenadines",
+        "nome": "Terminais de Port Elizabeth (Ilha de Bequia), Canouan e Clifton (Union Island — Granadinas)",
+        "sistema_id": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+        "linha_id": "linha-granadinas-bequia-express-kingstown-bequia-canouan-union-osprey-granada-carriacou",
+        "pais": "Martinica, São Vicente e Granada",
+        "cidade": "Bequia / Canouan / Union Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos insulares ao longo do arquipélago das Granadinas atendidos diariamente pelos ferries de Kingstown."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.236,
+          13.011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-st-georges-carenage-tyrell-bay-carriacou-osprey-granada",
+        "nome": "Terminais Osprey Lines de St. George's Carenage (Granada), Tyrell Bay (Carriacou) e Petite Martinique",
+        "sistema_id": "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+        "linha_id": "linha-granadinas-bequia-express-kingstown-bequia-canouan-union-osprey-granada-carriacou",
+        "pais": "Martinica, São Vicente e Granada",
+        "cidade": "St. George's / Carriacou (Granada)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Conexão marítima diária de alta velocidade entre a ilha principal de Granada e suas ilhas irmãs de Carriacou e Petite Martinique."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.751,
+          12.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-playa-los-muertos-puerto-vallarta-jalisco",
+        "nome": "Muelle de Playa Los Muertos e Terminal Marítima de Puerto Vallarta (Baía de Banderas, Jalisco, México)",
+        "sistema_id": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+        "linha_id": "linha-water-taxis-bahia-de-banderas-puerto-vallarta-boca-de-tomatlan-yelapa-mazatlan",
+        "pais": "México",
+        "cidade": "Puerto Vallarta",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píer arquitetônico em forma de vela em Puerto Vallarta, ponto central de embarque dos táxis aquáticos para a costa sul da Baía de Banderas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2397,
+          20.5994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelles-boca-de-tomatlan-quimixto-yelapa-cabo-corrientes",
+        "nome": "Píeres Costeiros de Boca de Tomatlán, Las Ánimas, Quimixto e Yelapa (Cabo Corrientes, Jalisco, México)",
+        "sistema_id": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+        "linha_id": "linha-water-taxis-bahia-de-banderas-puerto-vallarta-boca-de-tomatlan-yelapa-mazatlan",
+        "pais": "México",
+        "cidade": "Cabo Corrientes (Yelapa / Boca de Tomatlán)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de táxis aquáticos que servem as comunidades costeiras sem estradas do município de Cabo Corrientes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.446,
+          20.489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-embarcadero-isla-de-la-piedra-mazatlan-sinaloa",
+        "nome": "Embarcadero Playa Sur / Puntilla – Isla de la Piedra em Mazatlán (Sinaloa, México)",
+        "sistema_id": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+        "linha_id": "linha-water-taxis-bahia-de-banderas-puerto-vallarta-boca-de-tomatlan-yelapa-mazatlan",
+        "pais": "México",
+        "cidade": "Mazatlán",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia pendular contínua de lanchas através do canal de navegação do porto de Mazatlán até a península da Isla de la Piedra."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.406,
+          23.186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-general-patzcuaro-isla-de-janitzio-michoacan",
+        "nome": "Muelle General & San Pedrito (Pátzcuaro) e Píeres das Ilhas de Janitzio e Yunuen (Lago de Pátzcuaro, Michoacán)",
+        "sistema_id": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+        "linha_id": "linha-lagos-patzcuaro-janitzio-chapala-isla-de-los-alacranes-michoacan-jalisco",
+        "pais": "México",
+        "cidade": "Pátzcuaro / Janitzio",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Histórica hidrovia lacustre purépecha a 2.040 metros de altitude ligando Pátzcuaro à ilha habitada de Janitzio."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6518,
+          19.5742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-muelle-de-chapala-isla-de-los-alacranes-jalisco",
+        "nome": "Muelle de Chapala e Embarcadero da Isla de los Alacranes / Mezcala (Lago de Chapala, Jalisco, México)",
+        "sistema_id": "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico",
+        "linha_id": "linha-lagos-patzcuaro-janitzio-chapala-isla-de-los-alacranes-michoacan-jalisco",
+        "pais": "México",
+        "cidade": "Chapala",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal terminal de lanchas do maior lago natural do México, ligando o Malecón de Chapala às ilhas de Los Alacranes e Mezcala."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.191,
+          20.286
+        ]
+      }
     }
   ]
 }
