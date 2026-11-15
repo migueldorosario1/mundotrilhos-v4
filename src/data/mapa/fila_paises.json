@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T15:46:00-03:00",
+  "atualizado_em": "2026-11-15T16:17:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2353,7 +2353,15 @@
       "pais": "Fase Hidroviária Mundial #41 — Reino Unido, Escócia, Ilhas Hébridas, Órcadas, Shetland e Irlanda III (Caledonian MacBrayne CalMac Oban–Mull, Ullapool–Stornoway, Uig–Tarbert/Lochmaddy e Mallaig–Armadale/Skye na Escócia; NorthLink Ferries & Pentland Ferries Aberdeen–Kirkwall–Lerwick nas Órcadas e Shetland; Red Funnel & Wightlink Southampton/Portsmouth–Ilha de Wight e Isles of Scilly Steamship Scillonian III Penzance–St Mary's na Inglaterra; e Aran Island Ferries Rossaveel–Inishmore e Doolin–Inisheer na Irlanda)",
       "continente": "Europa",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 155,
+      "sistemas_adicionados": [
+        "northlink-pentland-orkney-shetland-ferries-aberdeen-scrabster-stromness-kirkwall-lerwick-escocia",
+        "calmac-outer-hebrides-skye-islay-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-kennraig-escocia",
+        "condor-ferries-manche-iles-express-poole-portsmouth-saint-malo-guernsey-jersey-sark-alderney-ilhas-do-canal",
+        "strangford-lough-rathlin-island-lough-foyle-carlingford-lough-ferries-irlanda-do-norte-irlanda",
+        "gosport-ferry-portsmouth-hythe-ferry-southampton-plymouth-torpoint-sandbanks-poole-inglaterra-reino-unido"
+      ]
     },
     {
       "ordem": 152,
@@ -2384,6 +2392,14 @@
       "codigo": "HIDRO-EUROPA-OCIDENTAL-RENO-SENA-TAMISA-CANAL-DA-MANCHA-IV",
       "pais": "Fase Hidroviária Mundial #44 — Europa Ocidental, Estuários, Canais e Rios Navegáveis IV (DeWaterbus Antuérpia no Rio Escalda e Ferries Riveo/Vlissingen–Breskens Westerschelde Ferry na Bélgica e Países Baixos; Rederij Doeksen Harlingen–Terschelling–Vlieland e Wagenborg Ameland–Schiermonnikoog nas Ilhas Frísias Holandesas; BKV/BKK Danúbio D11/D12 em Budapeste e Mahart PassNave Curva do Danúbio Visegrád–Szentendre–Esztergom na Hungria; Ferries dos Estuários Franceses Royan–Le Verdon na Gironda, Bac de Barcarin no Ródano/Camargue e Compagnie Yeu Continent Fromentine–Île d'Yeu; e KD Köln-Düsseldorfer e Bingen-Rüdesheimer no Vale do Médio Reno na Alemanha)",
       "continente": "Europa",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 156,
+      "codigo": "HIDRO-ASIA-ORIENTAL-YANGTZE-PEROLA-SETO-INLAND-SEA-IV",
+      "pais": "Fase Hidroviária Mundial #45 — Ásia Oriental, Rio Yangtzé, Delta do Rio das Pérolas, Mar Interior de Seto e Coreia IV (Wuhan Yangtze & Han River Ferries, Chongqing Two Rivers Ferry e Eclusas das Três Gargantas–Yichang na China; Chu Kong Passenger Transport CKS Shenzhen Shekou–Aeroporto de Hong Kong–Macau–Zhuhai Jiuzhou e Xiamen–Gulangyu Ferry na China; Shikoku Ferry Takamatsu–Uno, Meiko Kisen Ise-Wan Ferry Toba–Irago e Sado Kisen Niigata–Ryotsu no Japão; e Mokpo–Hongdo–Heuksando e Yeosu–Geomundo na Coreia do Sul)",
+      "continente": "Ásia",
       "prioridade": "alta",
       "status": "pendente"
     }

@@ -54158,6 +54158,404 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-northlink-aberdeen-kirkwall-lerwick-shetland",
+        "nome": "Eixo Mar do Norte (NorthLink & SIC Ferries) — Aberdeen – Kirkwall (Órcadas) – Lerwick – Yell – Unst (Shetland)",
+        "sistema_id": "northlink-pentland-orkney-shetland-ferries-aberdeen-scrabster-stromness-kirkwall-lerwick-escocia",
+        "sistema_nome": "Ferries das Ilhas Órcadas e Shetland — NorthLink, Pentland & Orkney/Shetland Ferries (Escócia)",
+        "pais": "Reino Unido",
+        "cidade": "Aberdeen / Kirkwall / Lerwick",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 780,
+        "bitola": "Cruise-Ferries MV Hjaltland & MV Hrossey (NorthLink) e SIC Ferries",
+        "eletrificacao": "Diesel Marítimo com Shore Power"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0789,
+            57.145
+          ],
+          [
+            -2.9569,
+            58.995
+          ],
+          [
+            -1.145,
+            60.1619
+          ],
+          [
+            -1.095,
+            60.695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-pentland-firth-scrabster-stromness-gills-bay-orkney-ferries",
+        "nome": "Eixo Pentland Firth e Ilhas Órcadas — Scrabster–Stromness (NorthLink), Gills Bay–St Margaret's Hope (Pentland) e Kirkwall–Westray",
+        "sistema_id": "northlink-pentland-orkney-shetland-ferries-aberdeen-scrabster-stromness-kirkwall-lerwick-escocia",
+        "sistema_nome": "Ferries das Ilhas Órcadas e Shetland — NorthLink, Pentland & Orkney/Shetland Ferries (Escócia)",
+        "pais": "Reino Unido",
+        "cidade": "Scrabster / Stromness / St Margaret's Hope / Kirkwall",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 400,
+        "bitola": "Ferry MV Hamnavoe, Catamarã MV Alfred e Orkney Ferries",
+        "eletrificacao": "Diesel Marítimo de Baixa Emissão"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5489,
+            58.6119
+          ],
+          [
+            -3.295,
+            58.9619
+          ],
+          [
+            -2.9569,
+            58.995
+          ],
+          [
+            -2.8619,
+            59.285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-the-minch-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-skye",
+        "nome": "Eixo The Minch e Ilha de Skye — Ullapool–Stornoway (Lewis), Uig (Skye)–Tarbert (Harris)–Lochmaddy (North Uist) e Mallaig–Armadale",
+        "sistema_id": "calmac-outer-hebrides-skye-islay-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-kennraig-escocia",
+        "sistema_nome": "Grandes Rotas Atlânticas das Ilhas Hébridas Exteriores e Interiores (CalMac, Escócia)",
+        "pais": "Reino Unido",
+        "cidade": "Ullapool / Stornoway / Uig (Skye) / Tarbert / Mallaig",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 460,
+        "bitola": "Ferries Oceânicos CalMac (MV Loch Seaforth & Nova Frota Little Minch)",
+        "eletrificacao": "Híbrido Diesel-Elétrico e Dual-Fuel GNL"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.1611,
+            57.895
+          ],
+          [
+            -6.385,
+            58.2081
+          ],
+          [
+            -6.7981,
+            57.8961
+          ],
+          [
+            -6.3589,
+            57.5861
+          ],
+          [
+            -7.1581,
+            57.5981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mar-das-hebridas-oban-mull-barra-kennacraig-islay",
+        "nome": "Eixo Mar das Hébridas e Argyll — Oban–Craignure (Mull)–Castlebay (Barra) e Kennacraig–Port Askaig / Port Ellen (Islay)",
+        "sistema_id": "calmac-outer-hebrides-skye-islay-ullapool-stornoway-uig-tarbert-lochmaddy-mallaig-kennraig-escocia",
+        "sistema_nome": "Grandes Rotas Atlânticas das Ilhas Hébridas Exteriores e Interiores (CalMac, Escócia)",
+        "pais": "Reino Unido",
+        "cidade": "Oban / Craignure (Mull) / Castlebay (Barra) / Kennacraig / Islay",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 400,
+        "bitola": "Ferries Oceânicos CalMac (MV Isle of Mull, MV Clansman & MV Isle of Islay)",
+        "eletrificacao": "Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.475,
+            56.4122
+          ],
+          [
+            -5.7069,
+            56.4711
+          ],
+          [
+            -7.4869,
+            56.9531
+          ],
+          [
+            -6.1889,
+            55.6281
+          ],
+          [
+            -5.485,
+            55.8019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-channel-islands-poole-portsmouth-guernsey-jersey-saint-malo",
+        "nome": "Eixo Canal da Mancha — Poole / Portsmouth (Inglaterra) – St Peter Port (Guernsey) – St Helier (Jersey) – Saint-Malo (França)",
+        "sistema_id": "condor-ferries-manche-iles-express-poole-portsmouth-saint-malo-guernsey-jersey-sark-alderney-ilhas-do-canal",
+        "sistema_nome": "Ferries das Ilhas do Canal (Guernsey, Jersey, Sark, Herm e Alderney)",
+        "pais": "Ilhas do Canal / Reino Unido / França",
+        "cidade": "Poole / St Peter Port (Guernsey) / St Helier (Jersey) / Saint-Malo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 460,
+        "bitola": "Catamarãs de Alta Velocidade e Ferries Ro-Pax",
+        "eletrificacao": "Diesel Marítimo de Baixa Emissão"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9881,
+            50.7089
+          ],
+          [
+            -2.5331,
+            49.4558
+          ],
+          [
+            -2.1119,
+            49.1789
+          ],
+          [
+            -2.0258,
+            48.6431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-interinsular-guernsey-sark-herm-alderney-granville-carteret",
+        "nome": "Eixo Interinsular e Normandia — St Peter Port (Guernsey)–Sark–Herm–Alderney e Jersey–Carteret/Granville (Manche Îles Express)",
+        "sistema_id": "condor-ferries-manche-iles-express-poole-portsmouth-saint-malo-guernsey-jersey-sark-alderney-ilhas-do-canal",
+        "sistema_nome": "Ferries das Ilhas do Canal (Guernsey, Jersey, Sark, Herm e Alderney)",
+        "pais": "Ilhas do Canal / França",
+        "cidade": "Guernsey / Sark / Jersey / Granville / Carteret",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 180,
+        "bitola": "Catamarãs Manche Îles Express e Barcas de Sark",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.5331,
+            49.4558
+          ],
+          [
+            -2.3481,
+            49.4319
+          ],
+          [
+            -2.1119,
+            49.1789
+          ],
+          [
+            -1.5989,
+            48.835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-strangford-lough-portaferry-carlingford-lough-greenore",
+        "nome": "Eixo Condado de Down e Fronteira Leste — Strangford–Portaferry Ferry e Carlingford Lough Ferry (Greencastle–Greenore)",
+        "sistema_id": "strangford-lough-rathlin-island-lough-foyle-carlingford-lough-ferries-irlanda-do-norte-irlanda",
+        "sistema_nome": "Ferries Costeiros e de Loughs da Irlanda do Norte e Fronteira Irlandesa",
+        "pais": "Reino Unido / Irlanda",
+        "cidade": "Strangford / Portaferry / Greencastle / Greenore",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 140,
+        "bitola": "Ferries Ro-Pax de Lough (MV Strangford II & Carlingford Lough Ferry)",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.5469,
+            54.3811
+          ],
+          [
+            -5.5539,
+            54.3722
+          ],
+          [
+            -6.105,
+            54.0369
+          ],
+          [
+            -6.1319,
+            54.0339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-costa-norte-ballycastle-rathlin-island-lough-foyle-magilligan-greencastle",
+        "nome": "Eixo Costa Norte do Ulster e Donegal — Ballycastle–Ilha Rathlin (Church Bay) e Lough Foyle Ferry (Magilligan–Greencastle)",
+        "sistema_id": "strangford-lough-rathlin-island-lough-foyle-carlingford-lough-ferries-irlanda-do-norte-irlanda",
+        "sistema_nome": "Ferries Costeiros e de Loughs da Irlanda do Norte e Fronteira Irlandesa",
+        "pais": "Reino Unido / Irlanda",
+        "cidade": "Ballycastle / Ilha Rathlin / Magilligan / Greencastle (Donegal)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150,
+        "bitola": "Catamarã Rathlin Express, MV Spirit of Rathlin e Lough Foyle Ferry",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.2389,
+            55.2069
+          ],
+          [
+            -6.195,
+            55.2919
+          ],
+          [
+            -6.9569,
+            55.1939
+          ],
+          [
+            -6.9789,
+            55.2019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-solent-dorset-gosport-ferry-portsmouth-hythe-ferry-southampton-sandbanks",
+        "nome": "Eixo Solent e Dorset — Gosport Ferry (Portsmouth Harbour–Gosport), Hythe Ferry (Southampton–Hythe Pier) e Sandbanks–Studland Ferry (Poole)",
+        "sistema_id": "gosport-ferry-portsmouth-hythe-ferry-southampton-plymouth-torpoint-sandbanks-poole-inglaterra-reino-unido",
+        "sistema_nome": "Barcas Urbanas e Ferries Estuarinos do Sul da Inglaterra (Reino Unido)",
+        "pais": "Reino Unido",
+        "cidade": "Portsmouth / Gosport / Southampton / Poole",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 130,
+        "bitola": "Barcas Urbanas Gosport/Hythe e Ferry de Corrente de Sandbanks",
+        "eletrificacao": "Diesel Marítimo Urbano"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.1069,
+            50.7969
+          ],
+          [
+            -1.1169,
+            50.795
+          ],
+          [
+            -1.4042,
+            50.8961
+          ],
+          [
+            -1.3889,
+            50.8731
+          ],
+          [
+            -1.9469,
+            50.6819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-devon-cornualha-plymouth-torpoint-cremyll-dartmouth-ferries",
+        "nome": "Eixo Devon e Cornualha — Torpoint Ferry & Cremyll Ferry (Plymouth Sound / Rio Tamar) e Dartmouth Lower & Higher Ferries",
+        "sistema_id": "gosport-ferry-portsmouth-hythe-ferry-southampton-plymouth-torpoint-sandbanks-poole-inglaterra-reino-unido",
+        "sistema_nome": "Barcas Urbanas e Ferries Estuarinos do Sul da Inglaterra (Reino Unido)",
+        "pais": "Reino Unido",
+        "cidade": "Plymouth / Torpoint / Dartmouth",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 110,
+        "bitola": "Ferries de Corrente Tamar Crossings (73 veículos) e Barcas do Rio Tamar/Dart",
+        "eletrificacao": "Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.185,
+            50.3758
+          ],
+          [
+            -4.1969,
+            50.3742
+          ],
+          [
+            -3.5769,
+            50.3519
+          ]
+        ]
+      }
     }
   ]
 }
