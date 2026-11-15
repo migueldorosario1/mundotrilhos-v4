@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-14T21:14:00-03:00",
+  "atualizado_em": "2026-11-14T21:44:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1840,17 +1840,24 @@
         "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
         "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 114,
       "pais": "Fase Hidroviária Mundial #9 — Adriático, Báltico Sul e Danúbio (Jadrolinija Croácia, BKK D11/D12 Budapeste, Twin City Liner Viena–Bratislava, Ferries Dinamarca–Suécia Helsingør–Helsingborg e Bornholm)",
       "codigo": "HIDRO-ADRIATICO-DANUBIO",
       "continente": "Europa",
-      "prioridade": "alta",
-      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) a malha de ferries e catamarãs da Jadrolinija na costa dálmata da Croácia (Split, Hvar, Brač, Dubrovnik, Zadar), os barcos urbanos no Rio Danúbio em Budapeste e o catamarã rápido Twin City Liner (Viena–Bratislava), além dos ferries elétricos Øresundslinjen (Helsingør–Helsingborg) e Rønne–Ystad na Dinamarca e Suécia"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-14",
+      "sistemas_adicionados": [
+        "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+        "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+        "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+        "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+        "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 115,
       "pais": "Fase Hidroviária Mundial #10 — Ásia Oriental e Sudeste Asiático II (Incheon e Ilha Jeju Coreia do Sul, Cingapura–Batam–Bintan, Penang Ferry e Langkawi Malásia, SuperCat Filipinas e Water Bus Saigon Vietnã)",

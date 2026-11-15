@@ -40803,6 +40803,368 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-jadrolinija-krilo-split-brac-hvar-korcula-dubrovnik",
+        "nome": "Eixo Insular da Dalmácia (Porto de Split – Supetar/Brač – Hvar – Korčula – Porto de Gruž, Dubrovnik)",
+        "sistema_id": "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+        "sistema_nome": "Jadrolinija e Krilo (Kapetan Luka) na Costa Dálmata e Mar Adriático (Split–Hvar–Brač–Korčula–Dubrovnik e Zadar–Ancona, Croácia)",
+        "pais": "Croácia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 215.0,
+        "bitola": "Hidrovia marítima insular (Jadrolinija / Krilo)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4425,
+            43.5038
+          ],
+          [
+            16.555,
+            43.3855
+          ],
+          [
+            16.441,
+            43.172
+          ],
+          [
+            17.1355,
+            42.9615
+          ],
+          [
+            18.085,
+            42.6585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-adriatico-zadar-split-ancona-italia",
+        "nome": "Corredor Transadriático & Arquipélago de Zadar (Zadar Gaženica – Split – Ancona, Itália)",
+        "sistema_id": "jadrolinija-krilo-ferries-costa-dalmata-split-hvar-brac-dubrovnik-zadar-croacia",
+        "sistema_nome": "Jadrolinija e Krilo (Kapetan Luka) na Costa Dálmata e Mar Adriático (Split–Hvar–Brač–Korčula–Dubrovnik e Zadar–Ancona, Croácia)",
+        "pais": "Croácia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 250.0,
+        "bitola": "Hidrovia internacional do Mar Adriático (Jadrolinija)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.258,
+            44.0885
+          ],
+          [
+            16.4425,
+            43.5038
+          ],
+          [
+            13.5085,
+            43.6185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-twin-city-liner-danubio-viena-bratislava",
+        "nome": "Expresso Fluvial do Danúbio Twin City Liner (Viena Schwedenplatz, Áustria – Porto de Passageiros de Bratislava, Eslováquia)",
+        "sistema_id": "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+        "sistema_nome": "Catamarã Rápido Twin City Liner (Viena–Bratislava), Barcos Urbanos BKK / MAHART no Rio Danúbio (Budapeste) e Ferries BAHART do Lago Balaton (Áustria, Eslováquia e Hungria)",
+        "pais": "Áustria",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 68.0,
+        "bitola": "Hidrovia internacional do Rio Danúbio (Twin City Liner)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3785,
+            48.2122
+          ],
+          [
+            16.65,
+            48.13
+          ],
+          [
+            16.98,
+            48.14
+          ],
+          [
+            17.1115,
+            48.1395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-danubio-budapeste-mahart-lago-balaton-szantod-tihany",
+        "nome": "Hidrovia Metropolitana do Danúbio em Budapeste (Esztergom – Visegrád – Vigadó tér) & Ferry do Lago Balaton (Szántód – Tihany)",
+        "sistema_id": "twin-city-liner-viena-bratislava-mahart-bkk-danubio-budapeste-lago-balaton-austria-eslovaquia-hungria",
+        "sistema_nome": "Catamarã Rápido Twin City Liner (Viena–Bratislava), Barcos Urbanos BKK / MAHART no Rio Danúbio (Budapeste) e Ferries BAHART do Lago Balaton (Áustria, Eslováquia e Hungria)",
+        "pais": "Hungria",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 142.0,
+        "bitola": "Hidrovia fluvial do Danúbio e lacustre do Lago Balaton"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.7365,
+            47.7925
+          ],
+          [
+            18.9755,
+            47.7915
+          ],
+          [
+            19.045,
+            47.498
+          ],
+          [
+            17.8985,
+            46.8855
+          ],
+          [
+            17.8895,
+            46.8985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-oresundslinjen-helsingor-helsingborg-havnebus-copenhague",
+        "nome": "Ponte Elétrica do Øresund (Helsingør – Helsingborg) & Havnebus 991/992 do Porto de Copenhague (Refshaleøen – Nyhavn – Teglholmen)",
+        "sistema_id": "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+        "sistema_nome": "Ferries 100% Elétricos Øresundslinjen (Helsingør–Helsingborg), Movia Havnebus de Copenhague e Scandlines Rødby–Puttgarden (Dinamarca, Suécia e Alemanha)",
+        "pais": "Dinamarca",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 28.0,
+        "bitola": "Hidrovia 100% elétrica a bateria (Øresundslinjen & Movia Havnebus)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6915,
+            56.0425
+          ],
+          [
+            12.6155,
+            56.0365
+          ],
+          [
+            12.5925,
+            55.6795
+          ],
+          [
+            12.5515,
+            55.6475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-scandlines-fehmarn-rodby-puttgarden-dinamarca-alemanha",
+        "nome": "Corredor Híbrido/Elétrico do Estreito de Fehmarn (Rødbyhavn, Dinamarca – Puttgarden, Alemanha)",
+        "sistema_id": "oresundslinjen-ferries-eletricos-helsingor-helsingborg-havnebus-copenhague-dinamarca-suecia",
+        "sistema_nome": "Ferries 100% Elétricos Øresundslinjen (Helsingør–Helsingborg), Movia Havnebus de Copenhague e Scandlines Rødby–Puttgarden (Dinamarca, Suécia e Alemanha)",
+        "pais": "Dinamarca",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 30.0,
+        "bitola": "Hidrovia internacional híbrida/elétrica (Scandlines)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3515,
+            54.6545
+          ],
+          [
+            11.2265,
+            54.5015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-molslinjen-kattegat-aarhus-sjaellands-odde",
+        "nome": "Ponte Rápida do Kattegat — Molslinjen (Porto de Aarhus, Jutlândia – Sjællands Odde, Zelândia)",
+        "sistema_id": "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+        "sistema_nome": "Mega-Catamarãs Rápidos Molslinjen no Kattegat (Aarhus–Sjællands Odde) e Bornholmslinjen no Mar Báltico (Rønne–Ystad / Køge, Dinamarca e Suécia)",
+        "pais": "Dinamarca",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95.0,
+        "bitola": "Hidrovia marítima de alta velocidade (Mega-catamarãs Express)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.2255,
+            56.1615
+          ],
+          [
+            10.75,
+            56.08
+          ],
+          [
+            11.3745,
+            55.9685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bornholmslinjen-ronne-ystad-koge-baltico",
+        "nome": "Corredor de Alta Velocidade de Bornholm (Rønne, Ilha de Bornholm – Ystad, Suécia & Køge, Dinamarca)",
+        "sistema_id": "molslinjen-kattegat-aarhus-odden-bornholmslinjen-ronne-ystad-dinamarca-suecia",
+        "sistema_nome": "Mega-Catamarãs Rápidos Molslinjen no Kattegat (Aarhus–Sjællands Odde) e Bornholmslinjen no Mar Báltico (Rønne–Ystad / Køge, Dinamarca e Suécia)",
+        "pais": "Dinamarca",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150.0,
+        "bitola": "Hidrovia marítima do Báltico (Bornholmslinjen Express 5)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.6935,
+            55.0985
+          ],
+          [
+            13.8255,
+            55.4245
+          ],
+          [
+            12.1955,
+            55.4525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-tramwaj-wodny-baia-de-gdansk-gdynia-hel",
+        "nome": "Tramwaj Wodny & Catamarãs da Baía de Gdańsk (Gdańsk Targ Rybny – Westerplatte – Sopot – Gdynia – Península de Hel)",
+        "sistema_id": "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia",
+        "sistema_nome": "Tramwaj Wodny da Baía de Gdańsk (Gdańsk–Sopot–Gdynia–Hel) e Corredor de Ferries Ferro-Marítimos Świnoujście–Ystad / Trelleborg (Polônia e Suécia)",
+        "pais": "Polônia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Hidrovia metropolitana da Baía de Gdańsk (Żegluga Gdańska / ZTM)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.6585,
+            54.352
+          ],
+          [
+            18.668,
+            54.4075
+          ],
+          [
+            18.575,
+            54.4455
+          ],
+          [
+            18.5525,
+            54.5185
+          ],
+          [
+            18.8015,
+            54.602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baltico-swinoujscie-ystad-trelleborg-polonia-suecia",
+        "nome": "Corredor Ferro-Marítimo do Báltico Sul (Terminal de Ferries de Świnoujście, Polônia – Ystad / Trelleborg, Suécia)",
+        "sistema_id": "tramwaj-wodny-ztm-gdansk-sopot-gdynia-heL-swinoujscie-ystad-polonia-suecia",
+        "sistema_nome": "Tramwaj Wodny da Baía de Gdańsk (Gdańsk–Sopot–Gdynia–Hel) e Corredor de Ferries Ferro-Marítimos Świnoujście–Ystad / Trelleborg (Polônia e Suécia)",
+        "pais": "Polônia",
+        "continente": "Europa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 220.0,
+        "bitola": "Hidrovia ferroviária e ro-pax do Mar Báltico (Unity Line / Polferries)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2595,
+            53.9045
+          ],
+          [
+            13.65,
+            54.7
+          ],
+          [
+            13.1555,
+            55.3685
+          ],
+          [
+            13.8255,
+            55.4245
+          ]
+        ]
+      }
     }
   ]
 }
