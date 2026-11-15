@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-14T22:44:00-03:00",
+  "atualizado_em": "2026-11-14T23:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1885,17 +1885,24 @@
         "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
         "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 117,
       "pais": "Fase Hidroviária Mundial #12 — África Fluvial, Lacustre e Atlântica (Ferry do Nilo Cairo/Assuã Egito, Lagos Ferry Services Lagferry Nigéria, Travessia Gorée e Rio Casamance Senegal, Hidrovia do Rio Congo Kinshasa–Brazzaville e Ferries do Lago Vitória)",
       "codigo": "HIDRO-AFRICA-II",
       "continente": "África",
-      "prioridade": "alta",
-      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) o transporte fluvial público no Rio Nilo (Cairo Water Bus e travessias de Luxor/Assuã), a rede Lagferry na Lagoa de Lagos (Nigéria), a travessia Dacar–Ilha de Gorée e o ferry Dacar–Ziguinchor (Senegal), a travessia fluvial mais movimentada da África Central entre Kinshasa e Brazzaville no Rio Congo e os ferries do Lago Vitória (Mwanza, Entebbe e Kisumu)"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-14",
+      "sistemas_adicionados": [
+        "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+        "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+        "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+        "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+        "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 118,
       "pais": "Fase Hidroviária Mundial #13 — Caribe, América Central e México (Ultramar Cancún–Isla Mujeres e Playa del Carmen–Cozumel, Ferry de Cataño San Juan Porto Rico, Ferries de Trinidad e Tobago Port of Spain–Scarborough, Canal do Panamá/Taboga e Golfo de Nicoya Costa Rica)",

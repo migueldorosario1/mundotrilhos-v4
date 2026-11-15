@@ -27954,5 +27954,390 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+    "slug": "cairo-nile-river-bus-cta-ferries-luxor-aswan-rio-nilo-egito",
+    "nome_pt": "Ônibus Fluviais do Nilo (CTA Cairo River Bus) e Travessias Públicas de Luxor, Assuã / Philae e Lago Nasser (Egito)",
+    "nome_en": "Nile River Bus (CTA Cairo River Bus) & Public River Crossings of Luxor, Aswan / Philae & Lake Nasser (Egypt)",
+    "pais": "Egito",
+    "cidade": "Cairo, Gizé e Qanatir; Luxor, Assuã e Abu Simbel",
+    "uf": "Cairo / Gizé / Luxor / Assuã",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Cairo Transport Authority (CTA Nile River Bus / Nile Taxi) & Autoridades Fluviais de Luxor e Assuã / Nile Valley Navigation",
+    "inauguracao": "1962 (Inauguração da divisão de Ônibus Fluviais da Cairo Transport Authority no Rio Nilo e barcas públicas de Luxor/Assuã)",
+    "extensao_km": 195.0,
+    "bitola": "Hidrovia metropolitana e histórica do Rio Nilo (Grande Cairo, Alto Egito em Luxor e Primeira Catarata / Lago Nasser em Assuã)",
+    "eletrificacao": "Barcas urbanas de dois conveses da CTA, lanchas rápidas Nile Taxi e novos barcos elétricos/híbridos em implantação no Cairo e Assuã",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 65000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 125 milhões (modernização dos 16 terminais fluviais da CTA no Cairo, integração ao Metrô do Cairo em Maspero/Shubra e novos barcos híbridos no Nilo)",
+      "moeda": "USD",
+      "fonte_id": "cta-rta-egypt-nile-river-bus"
+    },
+    "proximas_entregas": {
+      "pt": "Renovação da frota da CTA River Bus com embarcações movidas a gás natural e propulsão elétrica no trecho Maspero – Maadi – Helwan.",
+      "en": "Fleet renewal of the CTA River Bus with CNG and electric vessels along the Maspero – Maadi – Helwan corridor in Greater Cairo."
+    },
+    "resumo_pt": "O Rio Nilo é a espinha dorsal milenar do Egito e continua sendo uma via essencial de transporte público urbano. Na Região Metropolitana do Cairo (mais de 22 milhões de habitantes), a estatal Cairo Transport Authority (CTA) e o serviço rápido Nile Taxi operam 16 píeres fluviais ao longo de 35 km entre El-Qanatir El-Khayreya (no início do Delta), Shubra, Imbaba, Maspero (no centro do Cairo, ao lado do edifício da TV Estatal e da estação do Metrô), Zamalek, Manial, Giza/Universidade do Cairo e Maadi. Já no Alto Egito, onde poucas pontes cruzam o Nilo, as barcas públicas municipais operam 24 horas por dia ligando a margem leste de Luxor (Templo de Luxor e estação ferroviária ENR) à margem oeste (Geziret el-Bairat / Vale dos Reis), enquanto em Assuã as barcas conectam a Corniche à Ilha Elefantina, à vila núbia de Gharb Soheil e ao complexo insular do Templo de Philae.",
+    "resumo_en": "The Nile River remains a vital public transit artery across Egypt. In Greater Cairo, the Cairo Transport Authority (CTA) and Nile Taxi operate 16 river piers along a 35 km corridor linking El-Qanatir, Shubra, Maspero (central Cairo, integrated with the Cairo Metro), Zamalek, Giza and Maadi. In Upper Egypt, 24-hour municipal ferries link Luxor's East Bank (Luxor Temple and ENR railway station) with the West Bank (Valley of the Kings), while in Aswan public ferries connect the East Bank Corniche with Elephantine Island, West Aswan and the island temple complex of Philae.",
+    "lat": 30.0525,
+    "lon": 31.2285,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "cta-rta-egypt-nile-river-bus",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "egito",
+      "rio nilo",
+      "cairo",
+      "cta river bus",
+      "nile taxi",
+      "maspero",
+      "maadi",
+      "luxor",
+      "assuã",
+      "ilha elefantina",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nile_ferry_in_Cairo.jpg/800px-Nile_ferry_in_Cairo.jpg",
+      "credito": "Wikimedia Commons — Ônibus fluvial da CTA no Rio Nilo no Cairo e travessias públicas de Luxor e Assuã (Egito)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Egypt"
+    },
+    "linhas": [
+      {
+        "id": "linha-cta-nile-river-bus-cairo-qanatir-maspero-maadi",
+        "nome": "CTA Cairo Nile River Bus (El-Qanatir – Shubra – Maspero Central – Zamalek – Giza – Maadi)",
+        "status": "operacao",
+        "extensao_km": 45.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-alto-egito-ferries-luxor-aswan-elefantina-philae",
+        "nome": "Travessias Públicas do Alto Nilo (Luxor East/West Bank & Assuã Corniche – Ilha Elefantina – Philae)",
+        "status": "operacao",
+        "extensao_km": 150.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+    "slug": "lagferry-lagos-ferry-services-lagoa-de-lagos-cms-ikorodu-apapa-badagry-nigeria",
+    "nome_pt": "Lagos Ferry Services (LAGFERRY / LASWA) na Lagoa de Lagos e Corredor Badagry (Marina/CMS – Ikorodu – Victoria Island – Apapa – Mile 2, Nigéria)",
+    "nome_en": "Lagos Ferry Services (LAGFERRY / LASWA) on Lagos Lagoon & Badagry Creek (Marina/CMS – Ikorodu – Victoria Island – Apapa – Mile 2, Nigeria)",
+    "pais": "Nigéria",
+    "cidade": "Lagos (Marina/CMS, Falomo/Ikoyi, Victoria Island, Ikorodu, Apapa, Mile 2, Baiyeku, Ajah e Badagry)",
+    "uf": "Estado de Lagos",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Lagos Ferry Services Corporation (LAGFERRY), Lagos State Waterways Authority (LASWA) & Texas Connection Ferries / Metroferry",
+    "inauguracao": "2020 (Relançamento comercial em larga escala da estatal LAGFERRY integrada ao cartão Cowry e à Linha Azul do Metrô de Lagos em Marina e Mile 2)",
+    "extensao_km": 95.0,
+    "bitola": "Hidrovia lagunar metropolitana da Lagoa de Lagos (Lagos Lagoon), Five Cowrie Creek e canal costeiro de Badagry Creek",
+    "eletrificacao": "Barcas rápidas climatizadas da LAGFERRY (MF Itesiwaju Eko, MF Ipakodo) e novos catamarãs 100% elétricos do projeto Omi Eko",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 72000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 410 milhões (Projeto Omi Eko da LASWA/LAMATA financiado pela AFD, BEI e União Europeia para 78 ferries elétricos e 25 terminais hidroviários em Lagos)",
+      "moeda": "EUR",
+      "fonte_id": "laswa-lagferry-lamata-omi-eko-nigeria"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação de 15 rotas prioritárias e 78 barcos 100% elétricos do programa Omi Eko integrados às Linhas Azul e Vermelha do Metrô de Lagos.",
+      "en": "Deployment of 15 priority routes and 78 all-electric ferries under the Omi Eko program integrated with the Lagos Rail Mass Transit Blue and Red Lines."
+    },
+    "resumo_pt": "Com mais de 20 milhões de habitantes e cercada por águas (Lagoa de Lagos, Oceano Atlântico e canais costeiros), a megacidade de Lagos, na Nigéria, construiu a mais ambiciosa rede hidroviária metropolitana da África Subsaariana sob coordenação da LASWA e operação da estatal LAGFERRY. Utilizando o mesmo cartão inteligente Cowry do VLT/Metrô de Lagos (Lagos Rail Mass Transit — Linhas Azul e Vermelha) e dos corredores de BRT, os barcos rápidos climatizados da LAGFERRY partem do terminal central de Marina / CMS (integrado à estação Marina da Linha Azul) e do moderno terminal de Falomo (Ikoyi), cruzando a Lagoa de Lagos em apenas 25 minutos até o grande terminal de Ikorodu (viagem que levaria mais de 2 a 3 horas por estrada), além das linhas para Five Cowries (Victoria Island), Bariga, Takwa Bay, Apapa, Mile 2 (intercâmbio com a Linha Azul), Ojo e Badagry.",
+    "resumo_en": "Surrounded by the Lagos Lagoon, Atlantic Ocean and coastal creeks, the megacity of Lagos (Nigeria) operates Sub-Saharan Africa's largest urban water transit network under LASWA and state operator LAGFERRY. Fully integrated with the Cowry smartcard shared with the Lagos Rail Mass Transit (Blue and Red Lines), LAGFERRY fast boats connect Marina/CMS Terminal (Blue Line interchange) and Falomo (Ikoyi) across Lagos Lagoon to Ikorodu in just 25 minutes, alongside high-ridership routes serving Five Cowries (Victoria Island), Apapa, Mile 2 (Blue Line interchange), Ojo and Badagry.",
+    "lat": 6.4485,
+    "lon": 3.3945,
+    "zoom_inicial": 10.0,
+    "fontes": [
+      "laswa-lagferry-lamata-omi-eko-nigeria",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "nigéria",
+      "lagos",
+      "lagferry",
+      "laswa",
+      "lagoa de lagos",
+      "ikorodu",
+      "marina cms",
+      "victoria island",
+      "falomo",
+      "mile 2",
+      "badagry",
+      "omi eko",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Five_Cowries_Terminal_LASWA_Lagos.jpg/800px-Five_Cowries_Terminal_LASWA_Lagos.jpg",
+      "credito": "Wikimedia Commons — Terminal Hidroviário Five Cowries (LASWA / LAGFERRY) na Lagoa de Lagos (Nigéria)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Lagos"
+    },
+    "linhas": [
+      {
+        "id": "linha-lagferry-lagoa-de-lagos-cms-marina-falomo-bariga-ikorodu",
+        "nome": "Expresso Lagunar Norte–Sul LAGFERRY (Marina CMS / Five Cowries Falomo – Bariga – Terminal de Ikorodu, Lagos)",
+        "status": "operacao",
+        "extensao_km": 35.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-lagferry-corredor-oeste-cms-apapa-mile-2-ojo-badagry",
+        "nome": "Corredor Hidroviário Oeste (Marina CMS – Apapa – Mile 2 Metro Interchange – Ojo – Badagry)",
+        "status": "operacao",
+        "extensao_km": 60.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+    "slug": "liaison-maritime-dakar-goree-ferry-aline-sitoe-diatta-casamance-senegal",
+    "nome_pt": "Chaloupe de Gorée (Dacar–Ilha de Gorée) e Ferry Costeiro Aline Sitoé Diatta (Dacar–Carabane–Ziguinchor / Rio Casamance, Senegal)",
+    "nome_en": "Gorée Island Ferry (Dakar–Gorée Island) & Coastal Ro-Pax Ferry Aline Sitoé Diatta (Dakar–Carabane–Ziguinchor / Casamance River, Senegal)",
+    "pais": "Senegal",
+    "cidade": "Dacar, Ilha de Gorée, Ilha de Carabane e Ziguinchor (Senegal); Banjul e Barra (Gâmbia)",
+    "uf": "Dacar / Ziguinchor (Casamance)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "COSAMA — Consortium Sénégalais d'Activités Maritimes (Navios Aline Sitoé Diatta, Aguène e Diambogne) & Liaison Maritime Dakar–Gorée (Port Autonome de Dakar)",
+    "inauguracao": "1950 (Liaison Maritime Dakar–Gorée e entrada em operação do moderno navio ro-pax Aline Sitoé Diatta na linha Dacar–Ziguinchor em 2008)",
+    "extensao_km": 465.0,
+    "bitola": "Baía de Dacar (Travessia UNESCO Ilha de Gorée), Oceano Atlântico e estuário navegável do Rio Casamance até Ziguinchor",
+    "eletrificacao": "Barcas urbanas de passageiros (Chaloupes Coumba Castel e Beer) na rota de Gorée e ferries oceânicos ro-pax (Aline Sitoé Diatta, Aguène e Diambogne)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 18000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 95 milhões (modernização da Gare Maritime Internationale de Dakar integrada ao TER Dacar e dragagem/sinalização do canal do Rio Casamance)",
+      "moeda": "USD",
+      "fonte_id": "cosama-pad-dakar-goree-ziguinchor"
+    },
+    "proximas_entregas": {
+      "pt": "Novas embarcações para a travessia Dacar–Gorée e expansão da linha marítima costeira Dacar–Foundiougne–Ziguinchor.",
+      "en": "New passenger vessels for the Dakar–Gorée shuttle and expansion of coastal maritime links between Dakar, Foundiougne and Ziguinchor."
+    },
+    "resumo_pt": "No Senegal, duas linhas marítimas públicas administradas a partir do Porto Autônomo de Dacar — localizado a poucos metros da histórica Estação Ferroviária de Dacar, terminal do moderno Trem Expresso Regional (TER) — cumprem papel vital na coesão territorial e histórica do país. A primeira é a célebre 'Chaloupe de Gorée' (Liaison Maritime Dakar–Gorée, operada pelos navios Coumba Castel e Beer), que realiza dezenas de travessias diárias de 20 minutos entre o embarcadouro de Dacar e a Ilha de Gorée (Patrimônio Mundial da UNESCO). A segunda é a estratégica linha costeira operada pelo consórcio estatal COSAMA com o famoso navio ro-pax 'Aline Sitoé Diatta' (além dos navios Aguène e Diambogne), que contorna a Gâmbia pelo Oceano Atlântico e sobe 70 km pelo Rio Casamance, fazendo escala no píer insular de Carabane até atracar no Porto de Ziguinchor, capital do sul do Senegal.",
+    "resumo_en": "In Senegal, two flagship public maritime services operating out of the Port of Dakar — just steps from Dakar Central Station, terminus of the electric Regional Express Train (TER) — play a vital national role. The 'Chaloupe de Gorée' (vessels Coumba Castel and Beer) operates high-frequency 20-minute crossings across Dakar Bay to UNESCO-listed Gorée Island. Alongside it, state consortium COSAMA operates the coastal ro-pax ship 'Aline Sitoé Diatta' (along with Aguène and Diambogne), sailing down the Atlantic coast past The Gambia and 70 km up the Casamance River via Carabane Island to the southern port city of Ziguinchor.",
+    "lat": 14.6785,
+    "lon": -17.4285,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "cosama-pad-dakar-goree-ziguinchor",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "senegal",
+      "dacar",
+      "ilha de gorée",
+      "chaloupe de gorée",
+      "aline sitoé diatta",
+      "ziguinchor",
+      "carabane",
+      "rio casamance",
+      "cosama",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aline_Sitoe_Diatta_ferry_in_Ziguinchor.jpg/800px-Aline_Sitoe_Diatta_ferry_in_Ziguinchor.jpg",
+      "credito": "Wikimedia Commons — Navio Aline Sitoé Diatta no Rio Casamance em Ziguinchor e Chaloupe da Ilha de Gorée em Dacar (Senegal)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Aline_Sito%C3%A9_Diatta_(ship,_2007)"
+    },
+    "linhas": [
+      {
+        "id": "linha-chaloupe-dakar-ilha-de-goree-senegal",
+        "nome": "Liaison Maritime Dacar – Ilha de Gorée (Gare Maritime de Dakar – Embarcadouro de Gorée)",
+        "status": "operacao",
+        "extensao_km": 15.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-cosama-aline-sitoe-diatta-dakar-carabane-ziguinchor",
+        "nome": "Corredor Atlântico e Rio Casamance — COSAMA (Porto de Dacar – Ilha de Carabane – Porto de Ziguinchor)",
+        "status": "operacao",
+        "extensao_km": 450.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+    "slug": "travessia-rio-congo-kinshasa-brazzaville-hidrovia-mbandaka-kisangani-rd-congo-congo",
+    "nome_pt": "Travessia Internacional Kinshasa–Brazzaville (Pool Malebo) e Hidrovia Arterial do Rio Congo Kinshasa–Mbandaka–Kisangani (RD Congo e República do Congo)",
+    "nome_en": "Kinshasa–Brazzaville International Crossing (Pool Malebo) & Congo River Arterial Waterway Kinshasa–Mbandaka–Kisangani (DR Congo & Republic of the Congo)",
+    "pais": "República Democrática do Congo",
+    "cidade": "Kinshasa, Mbandaka, Lisala, Bumba e Kisangani (RD Congo); Brazzaville e Impfondo (República do Congo)",
+    "uf": "Kinshasa / Équateur / Mongala / Tshopo / Brazzaville",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "ONATRA / SCTP — Société Commerciale des Transports et des Ports (RD Congo), Port Autonome de Brazzaville & Operadores Fluviais do Rio Congo",
+    "inauguracao": "1881 (Início da navegação a vapor no Pool Malebo entre Kinshasa e Brazzaville e no eixo fluvial de 1.734 km até Kisangani)",
+    "extensao_km": 1740.0,
+    "bitola": "Pool Malebo (4 km de largura entre as duas capitais) e calha principal navegável de 1.734 km do Rio Congo entre Kinshasa e as Cataratas Boyoma (Kisangani)",
+    "eletrificacao": "Barcas internacionais ro-pax ('Bacs' da SCTP/ONATRA), lanchas rápidas ('Canots Rapides') no Pool Malebo e comboios fluviais de passageiros no Rio Congo",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 45000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 180 milhões (modernização dos terminais fluviais Beach Ngobila em Kinshasa e Beach de Brazzaville e reabilitação da sinalização da bacia Congo-Oubangui pela CICOS)",
+      "moeda": "USD",
+      "fonte_id": "sctp-onatra-cicos-congo-river"
+    },
+    "proximas_entregas": {
+      "pt": "Novos ônibus aquáticos urbanos ('Bateaux-Bus') para a orla metropolitana de Kinshasa (Kinkole – Gombe – Ngaliema) no Pool Malebo.",
+      "en": "New urban river buses ('Bateaux-Bus') along the Kinshasa metropolitan waterfront (Kinkole – Gombe – Ngaliema) on Pool Malebo."
+    },
+    "resumo_pt": "Kinshasa (capital da República Democrática do Congo, com mais de 17 milhões de habitantes) e Brazzaville (capital da República do Congo, com 2,5 milhões) formam as duas capitais nacionais mais próximas do planeta, separadas apenas pelos 4 km de largura do Rio Congo no Pool Malebo — sem nenhuma ponte entre elas. Diariamente, milhares de passageiros cruzam essa fronteira fluvial entre o terminal de Beach Ngobila (Kinshasa, conectado à ferrovia Matadi–Kinshasa da SCTP) e o Beach de Brazzaville (conectado à ferrovia Congo-Océan CFCO) a bordo das barcas oficiais ('Bacs') e das lanchas rápidas ('Canots Rapides'). A montante de Kinshasa, onde o Rio Congo se torna plenamente navegável por 1.734 km ininterruptos até Kisangani, o rio funciona como a grande autoestrada federal da África Central, ligando Kwamouth, Bolobo, Lukolela, Mbandaka, Lisala e Bumba até o porto ferroviário-fluvial de Kisangani.",
+    "resumo_en": "Kinshasa (capital of the Democratic Republic of the Congo) and Brazzaville (capital of the Republic of the Congo) are the world's two closest national capitals, facing each other across the 4 km expanse of Pool Malebo on the Congo River with no bridge between them. Every day, thousands of passengers cross between Beach Ngobila (Kinshasa) and Beach de Brazzaville aboard official SCTP/ONATRA ferries ('Bacs') and high-speed launches ('Canots Rapides'). Upstream from Kinshasa, the Congo River is continuously navigable for 1,734 km to Kisangani, serving as Central Africa's primary transport artery through Mbandaka, Lisala and Bumba.",
+    "lat": -4.3015,
+    "lon": 15.2985,
+    "zoom_inicial": 5.5,
+    "fontes": [
+      "sctp-onatra-cicos-congo-river",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "rio congo",
+      "kinshasa",
+      "brazzaville",
+      "pool malebo",
+      "beach ngobila",
+      "mbandaka",
+      "kisangani",
+      "onatra",
+      "sctp",
+      "república democrática do congo",
+      "república do congo",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Congo_River_between_Kinshasa_and_Brazzaville.jpg/800px-Congo_River_between_Kinshasa_and_Brazzaville.jpg",
+      "credito": "Wikimedia Commons — Travessia fluvial internacional do Pool Malebo entre Kinshasa (RD Congo) e Brazzaville (República do Congo)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Transport_in_Kinshasa"
+    },
+    "linhas": [
+      {
+        "id": "linha-travessia-pool-malebo-kinshasa-beach-ngobila-brazzaville",
+        "nome": "Ponte Fluvial Internacional do Pool Malebo (Beach Ngobila, Kinshasa – Port Fluvial / Beach de Brazzaville)",
+        "status": "operacao",
+        "extensao_km": 12.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-hidrovia-rio-congo-kinshasa-mbandaka-bumba-kisangani",
+        "nome": "Hidrovia Arterial do Rio Congo (Porto de Kinshasa – Mbandaka – Lisala – Bumba – Porto de Kisangani)",
+        "status": "operacao",
+        "extensao_km": 1728.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia",
+    "slug": "ferries-lago-vitoria-mwanza-ukerewe-bukoba-entebbe-kalangala-kisumu-tanzania-uganda-quenia",
+    "nome_pt": "Rede de Ferries do Lago Vitória (MV Mwanza Hapa Kazi Tu Mwanza–Bukoba–Ukerewe, MV Kalangala Entebbe–Ilhas Ssese e Mbita–Mfangano, Tanzânia, Uganda e Quênia)",
+    "nome_en": "Lake Victoria Ferry Network (MV Mwanza Hapa Kazi Tu Mwanza–Bukoba–Ukerewe, MV Kalangala Entebbe–Ssese Islands & Mbita–Mfangano, Tanzania, Uganda & Kenya)",
+    "pais": "Uganda",
+    "cidade": "Mwanza, Nansio (Ilha Ukerewe) e Bukoba (Tanzânia); Entebbe, Bukakata, Jinja e Kalangala / Ilhas Ssese (Uganda); Kisumu, Luanda Kotieno e Mbita (Quênia)",
+    "uf": "Mwanza / Kagera / Wakiso / Kalangala / Kisumu / Homa Bay",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "MSCL — Marine Services Company Limited / TEMESA (Tanzânia), Nation Oil Distributors / Kalangala Infrastructure Services — KIS (Uganda) & Kenya Railways Marine / Mbita Ferry Services (Quênia)",
+    "inauguracao": "1901 (Inauguração da navegação ferroviária-lacustre da Uganda Railway no Lago Vitória e lançamento do novo superferry MV Mwanza em 2024–2025)",
+    "extensao_km": 420.0,
+    "bitola": "Hidrovia lacustre e intermodal do Lago Vitória (68.800 km², o maior lago da África e o maior lago tropical do planeta)",
+    "eletrificacao": "Novo superferry MV Mwanza 'Hapa Kazi Tu' (1.200 passageiros, o maior navio já construído nos Grandes Lagos Africanos), MV Victoria, MV Kalangala e ferries ro-pax da KIS",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 36000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 215 milhões (construção do mega-ferry MV Mwanza 'Hapa Kazi Tu', reabilitação do MV Victoria e modernização dos portos de Mwanza, Bukoba, Port Bell/Jinja e Kisumu)",
+      "moeda": "USD",
+      "fonte_id": "mscl-tanzania-kis-uganda-krc-lake-victoria"
+    },
+    "proximas_entregas": {
+      "pt": "Expansão das rotas internacionais de passageiros e carga do MV Mwanza entre Mwanza (Tanzânia), Port Bell/Entebbe (Uganda) e Kisumu (Quênia).",
+      "en": "Expansion of international passenger and ro-pax routes of MV Mwanza linking Mwanza (Tanzania), Port Bell/Entebbe (Uganda) and Kisumu (Kenya)."
+    },
+    "resumo_pt": "Com 68.800 km² de superfície compartilhados por Tanzânia, Uganda e Quênia, o Lago Vitória — maior lago da África — possui uma malha histórica e moderna de ferries de passageiros e trens-barco ('wagon ferries'). Na costa sul (Tanzânia), a estatal MSCL e a TEMESA operam a partir do Porto de Mwanza (terminal da ferrovia SGR e MGR da TRC) com o recém-construído MV Mwanza 'Hapa Kazi Tu' (capacidade para 1.200 passageiros e 400 toneladas, o maior navio de passageiros da história dos Grandes Lagos Africanos) e o clássico MV Victoria rumo a Bukoba, além dos ferries diários para Nansio, na Ilha de Ukerewe, e da travessia Kigongo–Busisi. Ao norte, em Uganda, o navio MV Kalangala (partindo de Nakiwogo/Entebbe) e os ferries da KIS (Bukakata–Luku) conectam o continente ao arquipélago das Ilhas Ssese (Ilha Bugala), enquanto no Quênia os ferries do Golfo de Winam ligam Luanda Kotieno, Mbita, Rusinga e a Ilha Mfangano até Kisumu.",
+    "resumo_en": "Spanning 68,800 km² across Tanzania, Uganda and Kenya, Lake Victoria — Africa's largest lake — hosts a vital network of passenger and ro-pax ferries. In Tanzania, state operator MSCL and TEMESA link Mwanza Port (interchange with Tanzania's SGR and metre-gauge railways) to Bukoba and Ukerewe Island using the newly built flagship MV Mwanza 'Hapa Kazi Tu' (1,200 passengers, the largest passenger vessel ever built on the African Great Lakes) alongside the MV Victoria. In Uganda, MV Kalangala (from Nakiwogo/Entebbe) and KIS ferries (Bukakata–Luku) serve the Ssese Islands, while in Kenya ferries across the Winam Gulf link Luanda Kotieno, Mbita, Mfangano Island and Kisumu.",
+    "lat": -1.2585,
+    "lon": 32.8515,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "mscl-tanzania-kis-uganda-krc-lake-victoria",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "lago vitória",
+      "mwanza",
+      "bukoba",
+      "ilha ukerewe",
+      "mv mwanza",
+      "entebbe",
+      "ilhas ssese",
+      "kalangala",
+      "kisumu",
+      "mbita",
+      "tanzânia",
+      "uganda",
+      "quênia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MV_Kalangala_at_Lutoboka_Bay_Ssese_Islands.jpg/800px-MV_Kalangala_at_Lutoboka_Bay_Ssese_Islands.jpg",
+      "credito": "Wikimedia Commons — Navio MV Kalangala nas Ilhas Ssese (Uganda) e ferries da MSCL em Mwanza no Lago Vitória (Tanzânia/Quênia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_on_Lake_Victoria"
+    },
+    "linhas": [
+      {
+        "id": "linha-lago-vitoria-mscl-mwanza-ukerewe-bukoba-tanzania",
+        "nome": "Corredor Sul do Lago Vitória — MSCL (Porto de Mwanza – Ilha de Ukerewe/Nansio & Mwanza – Porto de Bukoba, Tanzânia)",
+        "status": "operacao",
+        "extensao_km": 225.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-lago-vitoria-norte-entebbe-kalangala-ssese-kisumu-mbita",
+        "nome": "Corredor Norte do Lago Vitória (Entebbe Nakiwogo – Ilhas Ssese/Kalangala, Uganda & Mbita – Mfangano – Kisumu, Quênia)",
+        "status": "operacao",
+        "extensao_km": 195.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
