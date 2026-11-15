@@ -2401,7 +2401,15 @@
       "pais": "Fase Hidroviária Mundial #43 — Caribe, América Central, Golfo da Califórnia e Pacífico Mexicano III (Baja Ferries & TMC Topolobampo–La Paz e Mazatlán–La Paz no Mar de Cortés e Water Taxis de Puerto Vallarta–Yelapa no México; Ferries de Utila & Roatán Dream Ferries La Ceiba–Roatán–Utila em Honduras e Bluefields–Corn Islands na Nicarágua; L'Express des Îles Pointe-à-Pitre–Les Saintes–Marie-Galante–Dominica–Santa Lúcia nas Antilhas; Ferries del Caribe San Juan–Santo Domingo entre Porto Rico e República Dominicana; e Cayo Largo / Batabanó–Nueva Gerona em Cuba e Port-au-Prince–Jérémie/Île de la Gonâve no Haiti)",
       "continente": "América Central e do Norte",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 158,
+      "sistemas_adicionados": [
+        "lanchas-baia-de-havana-regla-casablanca-ferry-perseverancia-batabano-nueva-gerona-isla-de-la-juventud-cuba",
+        "ferries-del-caribe-santo-domingo-san-juan-samana-sabana-de-la-mar-isla-saona-republica-dominicana-porto-rico",
+        "voyager-great-bay-express-sint-maarten-marigot-st-barth-anguilla-saba-statia-makana-ferry-antilhas-holandesas-francesas",
+        "vedettes-madinina-fort-de-france-trois-ilets-anse-mitan-osprey-lines-carriacou-petite-martinique-bequia-express-martinica-granada-sao-vicente",
+        "water-taxis-bahia-de-banderas-puerto-vallarta-yelapa-las-animas-mazatlan-isla-de-la-piedra-lago-de-chapala-pacifico-mexico"
+      ]
     },
     {
       "ordem": 155,
@@ -2432,6 +2440,14 @@
       "codigo": "HIDRO-MEDITERRANEO-EGEU-ADRIATICO-BALEARES-SICILIA-IV",
       "pais": "Fase Hidroviária Mundial #47 — Mar Mediterrâneo, Mar Egeu, Mar Adriático, Baleares e Sicília/Sardenha IV (Baleària & Trasmediterránea Dénia/Valência–Ibiza–Formentera–Maiorca–Menorca e Algeciras–Ceuta–Tânger na Espanha e Marrocos; Jadrolinija Split–Hvar–Korčula–Dubrovnik e Zadar–Dugi Otok na Croácia; Blue Star Ferries & SeaJets Pireu–Cíclades–Dodecaneso–Creta e Corfu–Igoumenitsa na Grécia; Caremar / SNAV / NLG Nápoles–Capri–Ischia–Procida e Costa Amalfitana na Itália; e Gozo Channel Ferry Ċirkewwa–Mġarr e Valletta Fast Ferry em Malta)",
       "continente": "Europa e Norte da África",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 159,
+      "codigo": "HIDRO-AFRICA-OCIDENTAL-ORIENTAL-OCEANO-INDICO-MADAGASCAR-COMORES-IV",
+      "pais": "Fase Hidroviária Mundial #48 — África Ocidental, África Oriental e Ilhas do Oceano Índico IV (Azam Marine & ZanFast Ferries Dar es Salaam–Zanzibar–Pemba e Likoni Ferry em Mombaça na Tanzânia e Quênia; Cat Cocos & Cat Rose Mahe–Praslin–La Digue em Seicheles e Mauritius Trochetia / L'Express des Îles nas Ilhas Maurício e Reunião; Travessias de Nosy Be–Ankify, Sainte-Marie e Canal dos Pangalanes em Madagascar; Freetown–Lungi Tagrin Ferry em Serra Leoa e Banjul–Barra Ferry na Gâmbia; e Cabo Verde Interilhas São Vicente–Santo Antão–Santiago–Fogo)",
+      "continente": "África e Oceano Índico",
       "prioridade": "alta",
       "status": "pendente"
     }
