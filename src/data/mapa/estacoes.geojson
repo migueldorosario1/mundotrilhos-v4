@@ -49343,6 +49343,581 @@
           1.3569
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bergen-hurtigruteterminalen-noruega",
+        "nome": "Bergen Hurtigruteterminalen (Jekteviken — Noruega)",
+        "sistema_id": "hurtigruten-havila-kystruten-bergen-alesund-trondheim-bodo-lofoten-tromso-kirkenes-noruega",
+        "linha_id": "linha-kystruten-hurtigruten-havila-bergen-trondheim-bodo-tromso-kirkenes",
+        "cidade": "Bergen",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal meridional de partida da lendária rota costeira norueguesa Kystruten (Hurtigruten & Havila Voyages) em Bergen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3128,
+          60.3919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-trondheim-brattora-kystruten-noruega",
+        "nome": "Trondheim Hurtigrutekaia & Pirterminalen (Trøndelag — Noruega)",
+        "sistema_id": "hurtigruten-havila-kystruten-bergen-alesund-trondheim-bodo-lofoten-tromso-kirkenes-noruega",
+        "linha_id": "linha-kystruten-hurtigruten-havila-bergen-trondheim-bodo-tromso-kirkenes",
+        "cidade": "Trondheim",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal portuário de Trondheim para os navios costeiros da Hurtigruten/Havila e catamarãs rápidos AtB do Trondheimsfjord."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4019,
+          63.4389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bodo-ferry-kystruten-moskenes-lofoten",
+        "nome": "Bodø Ferry & Coastal Express Terminal / Moskenes Lofoten (Nordland — Noruega)",
+        "sistema_id": "hurtigruten-havila-kystruten-bergen-alesund-trondheim-bodo-lofoten-tromso-kirkenes-noruega",
+        "linha_id": "linha-vestfjorden-ferry-bodo-rost-vaeroy-moskenes-lofoten",
+        "cidade": "Bodø / Moskenes",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Hub marítimo ao norte do Círculo Polar Ártico integrado à Estação Ferroviária de Bodø, com ferries para Moskenes, Værøy e Røst nas Ilhas Lofoten."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3881,
+          67.2858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tromso-prostneset-havneterminal-noruega",
+        "nome": "Tromsø Prostneset Havneterminal (Ártico Norueguês — Noruega)",
+        "sistema_id": "hurtigruten-havila-kystruten-bergen-alesund-trondheim-bodo-lofoten-tromso-kirkenes-noruega",
+        "linha_id": "linha-kystruten-hurtigruten-havila-bergen-trondheim-bodo-tromso-kirkenes",
+        "cidade": "Tromsø",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Moderno terminal multimodal ártico de Prostneset no centro de Tromsø, atendendo a Kystruten e os catamarãs rápidos para Finnsnes e Harstad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9619,
+          69.6489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kirkenes-honningsvag-north-cape-quays",
+        "nome": "Kirkenes & Honningsvåg (Cabo Norte) Hurtigruten Quays (Finnmark — Noruega)",
+        "sistema_id": "hurtigruten-havila-kystruten-bergen-alesund-trondheim-bodo-lofoten-tromso-kirkenes-noruega",
+        "linha_id": "linha-kystruten-hurtigruten-havila-bergen-trondheim-bodo-tromso-kirkenes",
+        "cidade": "Kirkenes / Honningsvåg",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais do extremo norte da Europa em Honningsvåg (Ilha Magerøya / Cabo Norte) e ponto final da Kystruten em Kirkenes, no Mar de Barents."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.045,
+          69.7278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lavik-oppedal-mf-ampere-sognefjord",
+        "nome": "Lavik & Oppedal Electric Ferry Terminals — MF Ampere (Sognefjord E39 — Noruega)",
+        "sistema_id": "norled-fjord1-electric-hydrogen-ferries-sognefjord-lavik-oppedal-geiranger-stavanger-hjelmeland-noruega",
+        "linha_id": "linha-sognefjord-lavik-oppedal-flam-gudvangen-geirangerfjord",
+        "cidade": "Lavik / Oppedal",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais pioneiros com bancos de baterias costeiras no Sognefjord onde estreou em 2015 o MF Ampere, 1º ferry elétrico de automóveis do mundo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5028,
+          61.1031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-flam-ferry-pier-flamsbana-noruega",
+        "nome": "Flåm Cruise & Electric Ferry Pier (Aurlandsfjord / Flåmsbana — Noruega)",
+        "sistema_id": "norled-fjord1-electric-hydrogen-ferries-sognefjord-lavik-oppedal-geiranger-stavanger-hjelmeland-noruega",
+        "linha_id": "linha-sognefjord-lavik-oppedal-flam-gudvangen-geirangerfjord",
+        "cidade": "Flåm",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal intermodal diretamente conectado à famosa ferrovia alpina Flåmsbana, base dos catamarãs 100% elétricos Future of The Fjords."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1142,
+          60.8639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gudvangen-naeroyfjord-pier-noruega",
+        "nome": "Gudvangen Ferry Terminal (Nærøyfjord Patrimônio UNESCO — Noruega)",
+        "sistema_id": "norled-fjord1-electric-hydrogen-ferries-sognefjord-lavik-oppedal-geiranger-stavanger-hjelmeland-noruega",
+        "linha_id": "linha-sognefjord-lavik-oppedal-flam-gudvangen-geirangerfjord",
+        "cidade": "Gudvangen",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píer na cabeceira do estreito Nærøyfjord (Patrimônio Mundial da UNESCO) com estação flutuante de recarga elétrica Power Dock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8406,
+          60.8819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-geiranger-hellesylt-fjord1-terminals",
+        "nome": "Geiranger & Hellesylt Ferry Terminals (Geirangerfjord — Noruega)",
+        "sistema_id": "norled-fjord1-electric-hydrogen-ferries-sognefjord-lavik-oppedal-geiranger-stavanger-hjelmeland-noruega",
+        "linha_id": "linha-sognefjord-lavik-oppedal-flam-gudvangen-geirangerfjord",
+        "cidade": "Geiranger / Hellesylt",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais no coração do Geirangerfjord (Patrimônio Mundial da UNESCO) com operação zero-emissão ao pé das cachoeiras Sete Irmãs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2058,
+          62.1011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hjelmeland-nesvik-mf-hydra-hydrogen",
+        "nome": "Hjelmeland, Nesvik & Skipavik Hydrogen Ferry Terminals — MF Hydra (Rogaland — Noruega)",
+        "sistema_id": "norled-fjord1-electric-hydrogen-ferries-sognefjord-lavik-oppedal-geiranger-stavanger-hjelmeland-noruega",
+        "linha_id": "linha-rogaland-mf-hydra-hjelmeland-nesvik-stavanger-tau",
+        "cidade": "Hjelmeland (Stavanger)",
+        "pais": "Noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais com torre de abastecimento de hidrogênio líquido em Hjelmeland para o MF Hydra da Norled, 1º ferry a hidrogênio líquido do mundo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1739,
+          59.2369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-stockholm-nybroplan-stromkajen-sl-waxholm",
+        "nome": "Nybroplan & Strömkajen Ferry Terminals (SL Linha 80 & Waxholmsbolaget — Estocolmo, Suécia)",
+        "sistema_id": "sl-pendelbatar-waxholmsbolaget-estocolmo-styrsobolaget-vasttrafik-gotemburgo-suecia",
+        "linha_id": "linha-estocolmo-sl-pendelbatar-80-82-89-waxholmsbolaget-vaxholm-sandhamn",
+        "cidade": "Estocolmo",
+        "pais": "Suécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais terminais hidroviários do centro de Estocolmo para a Linha 80 da SL e os navios clássicos e rápidos da Waxholmsbolaget."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0769,
+          59.3311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-stadshuskajen-ekero-candela-p12-stockholm",
+        "nome": "Klara Mälarstrand / Stadshuskajen & Tappström Ekerö (SL Linha 89 Hidrofólio Candela P-12 — Estocolmo)",
+        "sistema_id": "sl-pendelbatar-waxholmsbolaget-estocolmo-styrsobolaget-vasttrafik-gotemburgo-suecia",
+        "linha_id": "linha-estocolmo-sl-pendelbatar-80-82-89-waxholmsbolaget-vaxholm-sandhamn",
+        "cidade": "Estocolmo / Ekerö",
+        "pais": "Suécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais no Lago Mälaren em frente à Prefeitura de Estocolmo e em Ekerö onde opera o hidrofólio voador 100% elétrico Candela P-12 Nova."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0558,
+          59.3269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vaxholm-sandhamn-archipelago-piers-suecia",
+        "nome": "Vaxholm & Sandhamn Archipelago Ferry Terminals (Arquipélago de Estocolmo — Suécia)",
+        "sistema_id": "sl-pendelbatar-waxholmsbolaget-estocolmo-styrsobolaget-vasttrafik-gotemburgo-suecia",
+        "linha_id": "linha-estocolmo-sl-pendelbatar-80-82-89-waxholmsbolaget-vaxholm-sandhamn",
+        "cidade": "Vaxholm / Sandhamn",
+        "pais": "Suécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais hubs insulares da Waxholmsbolaget na fortaleza histórica de Vaxholm e na ilha oceânica de Sandhamn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3519,
+          59.4019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gotemburgo-stenpiren-lindholmen-alvsnabben",
+        "nome": "Stenpiren Resecentrum & Lindholmen Pier (Västtrafik Älvsnabben 285/286 — Gotemburgo, Suécia)",
+        "sistema_id": "sl-pendelbatar-waxholmsbolaget-estocolmo-styrsobolaget-vasttrafik-gotemburgo-suecia",
+        "linha_id": "linha-gotemburgo-vasttrafik-alvsnabben-285-286-saltholmen-styrso-vrango",
+        "cidade": "Gotemburgo",
+        "pais": "Suécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal multimodal de Stenpiren integrado aos bondes de Gotemburgo com barcas elétricas gratuitas (Linha 286) cruzando o Rio Göta älv até Lindholmen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9581,
+          57.7058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-saltholmen-styrso-vrango-gotemburgo",
+        "nome": "Saltholmen Ferry Terminal & Ilhas de Styrsö, Donsö e Vrångö (Gotemburgo — Suécia)",
+        "sistema_id": "sl-pendelbatar-waxholmsbolaget-estocolmo-styrsobolaget-vasttrafik-gotemburgo-suecia",
+        "linha_id": "linha-gotemburgo-vasttrafik-alvsnabben-285-286-saltholmen-styrso-vrango",
+        "cidade": "Gotemburgo (Saltholmen)",
+        "pais": "Suécia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal onde o bonde Linha 11 de Gotemburgo encontra os ferries da Styrsöbolaget para as ilhas sem carros do Arquipélago Sul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8419,
+          57.6606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-parainen-nauvo-elektra-finferries",
+        "nome": "Parainen (Lillmälö) & Nauvo (Prostvik) Electric Ferry Terminals — Elektra & Altera (Finlândia)",
+        "sistema_id": "finferries-alandstrafiken-turku-archipelago-ring-road-parainen-nauvo-korppoo-mariehamn-finlandia",
+        "linha_id": "linha-finferries-turku-archipelago-parainen-nauvo-korppoo-houtskari",
+        "cidade": "Parainen / Nauvo",
+        "pais": "Finlândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Mais movimentada travessia de ferries da Finlândia na Rodovia 180, operada pelos ferries gêmeos 100% elétricos Elektra e Altera da Finferries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1039,
+          60.2339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-korppoo-parnainen-retais-finferries",
+        "nome": "Pärnäinen (Nauvo) & Retais / Galtby (Korppoo) Ferry Terminals (Arquipélago de Turku — Finlândia)",
+        "sistema_id": "finferries-alandstrafiken-turku-archipelago-ring-road-parainen-nauvo-korppoo-mariehamn-finlandia",
+        "linha_id": "linha-finferries-turku-archipelago-parainen-nauvo-korppoo-houtskari",
+        "cidade": "Nauvo / Korppoo",
+        "pais": "Finlândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de conexão em Nauvo e Korppoo que interligam o Anel do Arquipélago de Turku e a Linha Sul da Ålandstrafiken."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6631,
+          60.1619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-houtskari-kittuis-ini-ferry-finlandia",
+        "nome": "Kittuis & Mossala Ferry Piers (Ilha de Houtskari / Iniö — Finlândia)",
+        "sistema_id": "finferries-alandstrafiken-turku-archipelago-ring-road-parainen-nauvo-korppoo-mariehamn-finlandia",
+        "linha_id": "linha-finferries-turku-archipelago-parainen-nauvo-korppoo-houtskari",
+        "cidade": "Houtskari",
+        "pais": "Finlândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais insulares de Houtskari e Iniö no coração do Mar do Arquipélago finlandês."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3719,
+          60.2211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kustavi-vuosnainen-brando-kumlinge-aland",
+        "nome": "Vuosnainen (Kustavi), Torsholma (Brändö) & Kumlinge Ferry Harbours (Ålandstrafiken — Finlândia)",
+        "sistema_id": "finferries-alandstrafiken-turku-archipelago-ring-road-parainen-nauvo-korppoo-mariehamn-finlandia",
+        "linha_id": "linha-alandstrafiken-kustavi-brando-kumlinge-vard-langnas-kokar",
+        "cidade": "Kustavi / Brändö / Kumlinge",
+        "pais": "Finlândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos da Linha Norte da Ålandstrafiken conectando Kustavi às ilhas orientais de Åland (Brändö, Kumlinge e Enklinge)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785,
+          60.2681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-langnas-hummelvik-foglo-kokar-aland",
+        "nome": "Långnäs, Hummelvik (Vårdö), Degerby (Föglö) & Kökar Ferry Terminals (Ilhas Åland — Finlândia)",
+        "sistema_id": "finferries-alandstrafiken-turku-archipelago-ring-road-parainen-nauvo-korppoo-mariehamn-finlandia",
+        "linha_id": "linha-alandstrafiken-kustavi-brando-kumlinge-vard-langnas-kokar",
+        "cidade": "Långnäs / Föglö / Kökar (Åland)",
+        "pais": "Finlândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais portos da ilha principal de Åland (Långnäs e Hummelvik) e das ilhas meridionais de Föglö, Sottunga e Kökar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2981,
+          60.1169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-torshavn-ferry-terminal-smyril-faroe",
+        "nome": "Tórshavn Ferry Terminal — Smyril Line & Strandfaraskip Landsins (Ilhas Faroé)",
+        "sistema_id": "smyril-line-norrona-hirtshals-torshavn-seydisfjordur-strandfaraskip-landsins-faroe-islandia-dinamarca",
+        "linha_id": "linha-smyril-line-norrona-hirtshals-torshavn-seydisfjordur-suduroy",
+        "cidade": "Tórshavn",
+        "pais": "Ilhas Faroé",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto central da capital das Ilhas Faroé, sede da Smyril Line (M/S Norröna para Dinamarca e Islândia) e do ferry M/S Smyril para Suðuroy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7669,
+          62.0079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tvoroyri-krambatangi-suduroy-faroe",
+        "nome": "Krambatangi / Tvøroyri Ferry Port (Ilha de Suðuroy — Ilhas Faroé)",
+        "sistema_id": "smyril-line-norrona-hirtshals-torshavn-seydisfjordur-strandfaraskip-landsins-faroe-islandia-dinamarca",
+        "linha_id": "linha-smyril-line-norrona-hirtshals-torshavn-seydisfjordur-suduroy",
+        "cidade": "Tvøroyri (Suðuroy)",
+        "pais": "Ilhas Faroé",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal do ferry M/S Smyril na ilha meridional de Suðuroy nas Ilhas Faroé."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7919,
+          61.5539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-seydisfjordur-norrona-terminal-islandia",
+        "nome": "Seyðisfjörður International Ferry Port — M/S Norröna (Fiordes Orientais — Islândia)",
+        "sistema_id": "smyril-line-norrona-hirtshals-torshavn-seydisfjordur-strandfaraskip-landsins-faroe-islandia-dinamarca",
+        "linha_id": "linha-smyril-line-norrona-hirtshals-torshavn-seydisfjordur-suduroy",
+        "cidade": "Seyðisfjörður",
+        "pais": "Islândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Único porto internacional de ferries de automóveis da Islândia, situado no fundo do fiorde de Seyðisfjörður."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0089,
+          65.2619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vestmannaeyjar-landeyjahofn-herjolfur-islandia",
+        "nome": "Vestmannaeyjar (Heimaey) & Landeyjahöfn Electric Ferry Terminals — Herjólfur (Islândia)",
+        "sistema_id": "smyril-line-norrona-hirtshals-torshavn-seydisfjordur-strandfaraskip-landsins-faroe-islandia-dinamarca",
+        "linha_id": "linha-islandia-herjolfur-vestmannaeyjar-baldur-stykkisholmur-westfjords",
+        "cidade": "Vestmannaeyjar / Landeyjahöfn",
+        "pais": "Islândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais do ferry 100% elétrico Herjólfur IV que liga a costa sul da Islândia à ilha vulcânica de Heimaey (Vestmannaeyjar)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2689,
+          63.4439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-stykkisholmur-flatey-brjanslaekur-baldur-islandia",
+        "nome": "Stykkishólmur, Ilha Flatey & Brjánslækur Ferry Harbours — Ferry Baldur (Breiðafjörður — Islândia)",
+        "sistema_id": "smyril-line-norrona-hirtshals-torshavn-seydisfjordur-strandfaraskip-landsins-faroe-islandia-dinamarca",
+        "linha_id": "linha-islandia-herjolfur-vestmannaeyjar-baldur-stykkisholmur-westfjords",
+        "cidade": "Stykkishólmur / Westfjords",
+        "pais": "Islândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos da travessia do ferry Baldur entre a Península de Snæfellsnes, a histórica Ilha Flatey e os Fiordes Ocidentais da Islândia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7281,
+          65.0758
+        ]
+      }
     }
   ]
 }

@@ -53764,6 +53764,400 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-kystruten-hurtigruten-havila-bergen-trondheim-bodo-tromso-kirkenes",
+        "nome": "Rota Costeira Expressa Kystruten — Bergen–Ålesund–Trondheim–Bodø–Svolvær (Lofoten)–Tromsø–Honningsvåg–Kirkenes",
+        "sistema_id": "hurtigruten-havila-kystruten-bergen-alesund-trondheim-bodo-lofoten-tromso-kirkenes-noruega",
+        "sistema_nome": "Expresso Costeiro da Noruega Kystruten (Hurtigruten & Havila Voyages)",
+        "pais": "Noruega",
+        "cidade": "Bergen / Trondheim / Bodø / Tromsø / Kirkenes",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 2500,
+        "bitola": "Navios Costeiros Híbridos GNL-Bateria (Hurtigruten & Havila)",
+        "eletrificacao": "Híbrido Plug-in GNL + Bateria 6,1 MWh"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3128,
+            60.3919
+          ],
+          [
+            6.1519,
+            62.4722
+          ],
+          [
+            10.4019,
+            63.4389
+          ],
+          [
+            14.3881,
+            67.2858
+          ],
+          [
+            14.5681,
+            68.2319
+          ],
+          [
+            18.9619,
+            69.6489
+          ],
+          [
+            25.975,
+            70.9819
+          ],
+          [
+            30.045,
+            69.7278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-vestfjorden-ferry-bodo-rost-vaeroy-moskenes-lofoten",
+        "nome": "Eixo Vestfjorden e Ilhas Lofoten — Bodø Ferry Terminal – Værøy – Røst – Moskenes (Lofoten)",
+        "sistema_id": "hurtigruten-havila-kystruten-bergen-alesund-trondheim-bodo-lofoten-tromso-kirkenes-noruega",
+        "sistema_nome": "Expresso Costeiro da Noruega Kystruten (Hurtigruten & Havila Voyages)",
+        "pais": "Noruega",
+        "cidade": "Bodø / Moskenes (Lofoten)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 200,
+        "bitola": "Ferries Oceânicos Torghatten Nord (Vestfjorden)",
+        "eletrificacao": "Hidrogênio / Híbrido GNL"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3881,
+            67.2858
+          ],
+          [
+            12.695,
+            67.665
+          ],
+          [
+            13.0469,
+            67.8989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-sognefjord-lavik-oppedal-flam-gudvangen-geirangerfjord",
+        "nome": "Eixo Sognefjord, Nærøyfjord e Geirangerfjord — Lavik–Oppedal (MF Ampere E39), Flåm–Gudvangen (Future of The Fjords) e Hellesylt–Geiranger",
+        "sistema_id": "norled-fjord1-electric-hydrogen-ferries-sognefjord-lavik-oppedal-geiranger-stavanger-hjelmeland-noruega",
+        "sistema_nome": "Ferries 100% Elétricos e a Hidrogênio Líquido dos Fiordes da Noruega",
+        "pais": "Noruega",
+        "cidade": "Lavik / Oppedal / Flåm / Gudvangen / Geiranger",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 260,
+        "bitola": "Ferry 100% Elétrico MF Ampere e Catamarãs Elétricos The Fjords",
+        "eletrificacao": "100% Elétrico a Bateria Zero-Emissão"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.5028,
+            61.1031
+          ],
+          [
+            5.5131,
+            61.0558
+          ],
+          [
+            6.8406,
+            60.8819
+          ],
+          [
+            7.1142,
+            60.8639
+          ],
+          [
+            7.2058,
+            62.1011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rogaland-mf-hydra-hjelmeland-nesvik-stavanger-tau",
+        "nome": "Eixo Fiordes de Rogaland (Hidrogênio Líquido & Elétrico) — Hjelmeland–Nesvik–Skipavik (MF Hydra) e Stavanger–Vassøy",
+        "sistema_id": "norled-fjord1-electric-hydrogen-ferries-sognefjord-lavik-oppedal-geiranger-stavanger-hjelmeland-noruega",
+        "sistema_nome": "Ferries 100% Elétricos e a Hidrogênio Líquido dos Fiordes da Noruega",
+        "pais": "Noruega",
+        "cidade": "Hjelmeland / Nesvik / Stavanger",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150,
+        "bitola": "1º Ferry a Hidrogênio Líquido do Mundo (MF Hydra)",
+        "eletrificacao": "Hidrogênio Líquido (LH2) e Bateria"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1739,
+            59.2369
+          ],
+          [
+            6.1519,
+            59.2619
+          ],
+          [
+            5.7331,
+            58.9719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estocolmo-sl-pendelbatar-80-82-89-waxholmsbolaget-vaxholm-sandhamn",
+        "nome": "Eixo Estocolmo e Arquipélago — SL Pendelbåtar 80/82/89 (Ekerö–Stadshuskajen / Nybroplan–Ropsten) e Waxholmsbolaget Strömkajen–Vaxholm–Sandhamn",
+        "sistema_id": "sl-pendelbatar-waxholmsbolaget-estocolmo-styrsobolaget-vasttrafik-gotemburgo-suecia",
+        "sistema_nome": "Barcas Urbanas, Hidrofólio Elétrico Candela P-12 e Arquipélagos de Estocolmo e Gotemburgo (Suécia)",
+        "pais": "Suécia",
+        "cidade": "Estocolmo / Ekerö / Vaxholm / Sandhamn",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 240,
+        "bitola": "Barcas Pendulares SL, Hidrofólio Candela P-12 e Waxholmsbolaget",
+        "eletrificacao": "100% Elétrico (Candela P-12) e Híbrido HVO100"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8089,
+            59.2889
+          ],
+          [
+            18.0558,
+            59.3269
+          ],
+          [
+            18.0769,
+            59.3311
+          ],
+          [
+            18.3519,
+            59.4019
+          ],
+          [
+            18.9139,
+            59.2889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-gotemburgo-vasttrafik-alvsnabben-285-286-saltholmen-styrso-vrango",
+        "nome": "Eixo Gotemburgo — Västtrafik Älvsnabben 285/286 (Stenpiren–Lindholmen–Eriksberg) e Saltholmen–Styrsö–Donsö–Vrångö (Linhas 281–284)",
+        "sistema_id": "sl-pendelbatar-waxholmsbolaget-estocolmo-styrsobolaget-vasttrafik-gotemburgo-suecia",
+        "sistema_nome": "Barcas Urbanas, Hidrofólio Elétrico Candela P-12 e Arquipélagos de Estocolmo e Gotemburgo (Suécia)",
+        "pais": "Suécia",
+        "cidade": "Gotemburgo / Saltholmen / Styrsö",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 140,
+        "bitola": "Barcas Fluviais Elétricas Älvsnabben e Ferries do Arquipélago Sul",
+        "eletrificacao": "100% Elétrico e Híbrido"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9581,
+            57.7058
+          ],
+          [
+            11.8981,
+            57.6889
+          ],
+          [
+            11.8419,
+            57.6606
+          ],
+          [
+            11.7869,
+            57.6119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-finferries-turku-archipelago-parainen-nauvo-korppoo-houtskari",
+        "nome": "Eixo Anel do Arquipélago de Turku (Finferries) — Parainen (Lillmälö) – Nauvo (Prostvik / Pärnäinen) – Korppoo – Houtskari (Kittuis)",
+        "sistema_id": "finferries-alandstrafiken-turku-archipelago-ring-road-parainen-nauvo-korppoo-mariehamn-finlandia",
+        "sistema_nome": "Ferries Elétricos do Arquipélago de Turku e Ilhas Åland (Finlândia)",
+        "pais": "Finlândia",
+        "cidade": "Parainen / Nauvo / Korppoo / Houtskari",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 220,
+        "bitola": "Ferries Ro-Pax 100% Elétricos Elektra & Altera (Finferries)",
+        "eletrificacao": "100% Elétrico a Bateria com Recarga no Píer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.1039,
+            60.2339
+          ],
+          [
+            21.995,
+            60.2158
+          ],
+          [
+            21.6631,
+            60.1619
+          ],
+          [
+            21.3719,
+            60.2211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alandstrafiken-kustavi-brando-kumlinge-vard-langnas-kokar",
+        "nome": "Eixo Arquipélago de Åland (Ålandstrafiken) — Kustavi (Vuosnainen) – Brändö – Kumlinge – Hummelvik (Vårdö) e Långnäs – Föglö – Kökar – Galtby",
+        "sistema_id": "finferries-alandstrafiken-turku-archipelago-ring-road-parainen-nauvo-korppoo-mariehamn-finlandia",
+        "sistema_nome": "Ferries Elétricos do Arquipélago de Turku e Ilhas Åland (Finlândia)",
+        "pais": "Finlândia (Ilhas Åland)",
+        "cidade": "Kustavi / Kumlinge / Långnäs / Mariehamn",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320,
+        "bitola": "Ferries Interinsulares Quebra-Gelo Ålandstrafiken",
+        "eletrificacao": "Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.2289,
+            60.5089
+          ],
+          [
+            20.785,
+            60.2681
+          ],
+          [
+            20.2981,
+            60.1169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-smyril-line-norrona-hirtshals-torshavn-seydisfjordur-suduroy",
+        "nome": "Eixo Atlântico Norte e Ilhas Faroé — Hirtshals (Dinamarca) – Tórshavn – Suðuroy (Ilhas Faroé) – Seyðisfjörður (Islândia)",
+        "sistema_id": "smyril-line-norrona-hirtshals-torshavn-seydisfjordur-strandfaraskip-landsins-faroe-islandia-dinamarca",
+        "sistema_nome": "Ponte Marítima do Atlântico Norte e Ferries das Ilhas Faroé e Islândia",
+        "pais": "Dinamarca / Ilhas Faroé / Islândia",
+        "cidade": "Hirtshals / Tórshavn / Tvøroyri / Seyðisfjörður",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1750,
+        "bitola": "Cruise-Ferry M/S Norröna (Smyril Line) e Ferry M/S Smyril (SSL)",
+        "eletrificacao": "Diesel Marítimo Oceânico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9619,
+            57.5931
+          ],
+          [
+            -6.7919,
+            61.5539
+          ],
+          [
+            -6.7669,
+            62.0079
+          ],
+          [
+            -14.0089,
+            65.2619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-islandia-herjolfur-vestmannaeyjar-baldur-stykkisholmur-westfjords",
+        "nome": "Eixo Ferries Costeiros da Islândia — Landeyjahöfn–Vestmannaeyjar (Herjólfur Elétrico) e Stykkishólmur–Flatey–Brjánslækur (Breiðafjörður)",
+        "sistema_id": "smyril-line-norrona-hirtshals-torshavn-seydisfjordur-strandfaraskip-landsins-faroe-islandia-dinamarca",
+        "sistema_nome": "Ponte Marítima do Atlântico Norte e Ferries das Ilhas Faroé e Islândia",
+        "pais": "Islândia",
+        "cidade": "Vestmannaeyjar / Landeyjahöfn / Stykkishólmur",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 200,
+        "bitola": "Ferry 100% Elétrico Herjólfur IV e Ferry Baldur",
+        "eletrificacao": "100% Elétrico a Bateria (Herjólfur IV)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -20.1181,
+            63.5311
+          ],
+          [
+            -20.2689,
+            63.4439
+          ]
+        ]
+      }
     }
   ]
 }
