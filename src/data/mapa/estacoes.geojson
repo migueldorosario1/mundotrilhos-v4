@@ -41593,6 +41593,481 @@
           49.2314
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-beira-rio-barreirinhas-preguicas-ma-br",
+        "nome": "Cais da Beira-Rio de Barreirinhas (Terminal Principal da Hidrovia do Rio Preguiças — Lençóis Maranhenses, MA)",
+        "sistema_id": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_slug": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "linha_id": "linha-hidrovia-rio-preguicas-barreirinhas-mandacaru-cabure-atins",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8256,
+          -2.7486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-mandacaru-farol-preguicas-ma-br",
+        "nome": "Porto de Mandacaru (Farol das Preguiças — Barreirinhas, MA)",
+        "sistema_id": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_slug": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "linha_id": "linha-hidrovia-rio-preguicas-barreirinhas-mandacaru-cabure-atins",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6889,
+          -2.5936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-peninsula-de-cabure-ma-br",
+        "nome": "Píer Flutuante da Península de Caburé (Rio Preguiças / Oceano Atlântico, MA)",
+        "sistema_id": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_slug": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "linha_id": "linha-hidrovia-rio-preguicas-barreirinhas-mandacaru-cabure-atins",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6681,
+          -2.5878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-atins-foz-preguicas-ma-br",
+        "nome": "Porto de Atins (Portal Leste do Parque Nacional dos Lençóis Maranhenses, MA)",
+        "sistema_id": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_slug": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "linha_id": "linha-hidrovia-rio-preguicas-barreirinhas-mandacaru-cabure-atins",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7419,
+          -2.5694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-do-braga-raposa-ribamar-ma-br",
+        "nome": "Porto do Braga (Raposa) e Cais de São José de Ribamar (Travessia das Fronhas Maranhenses, MA)",
+        "sistema_id": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "sistema_slug": "hidrovia-rio-preguicas-barreirinhas-cabure-atins-sao-jose-de-ribamar-raposa-maranhao-brasil",
+        "linha_id": "linha-travessias-raposa-fronhas-maranhenses-sao-jose-de-ribamar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0981,
+          -2.4239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-de-valenca-rio-una-ba-br",
+        "nome": "Terminal Hidroviário de Valença (Cais do Rio Una — Hub para Morro de São Paulo e Boipeba, BA)",
+        "sistema_id": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_slug": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "linha_id": "linha-valenca-bom-jardim-gamboa-morro-de-sao-paulo-tinhare",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0706,
+          -13.3708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-atracadouro-bom-jardim-ponta-do-curral-ba-br",
+        "nome": "Atracadouro Bom Jardim / Ponta do Curral (Travessia Rápida de 12 min para Morro de São Paulo, Valença, BA)",
+        "sistema_id": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_slug": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "linha_id": "linha-valenca-bom-jardim-gamboa-morro-de-sao-paulo-tinhare",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9614,
+          -13.3853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-gamboa-do-morro-tinhare-ba-br",
+        "nome": "Píer da Gamboa do Morro (Ilha de Tinharé — Cairu, BA)",
+        "sistema_id": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_slug": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "linha_id": "linha-valenca-bom-jardim-gamboa-morro-de-sao-paulo-tinhare",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9369,
+          -13.3936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-cairu-sede-torrinhas-ba-br",
+        "nome": "Terminais Hidroviários de Cairu-Sede, Graciosa e Torrinhas (Canal de Taperoá / Rio do Inferno, BA)",
+        "sistema_id": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_slug": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "linha_id": "linha-valenca-graciosa-torrinhas-cairu-velha-boipeba-cova-da-onca",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0264,
+          -13.5508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-velha-boipeba-cova-da-onca-ba-br",
+        "nome": "Píer de Velha Boipeba e Cais de Cova da Onça (Ilha Sem Carros de Boipeba — Cairu, BA)",
+        "sistema_id": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "sistema_slug": "travessias-lanchas-valenca-atracadouro-bom-jardim-morro-de-sao-paulo-ilha-de-boipeba-cairu-galeao-bahia-brasil",
+        "linha_id": "linha-valenca-graciosa-torrinhas-cairu-velha-boipeba-cova-da-onca",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9158,
+          -13.5789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-balsa-cassia-delfinopolis-peixoto-mg-br",
+        "nome": "Porto das Balsas de Cássia e Delfinópolis / Olhos d'Água (Portal da Serra da Canastra no Rio Grande, MG)",
+        "sistema_id": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_slug": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "linha_id": "linha-furnas-peixoto-cassia-delfinopolis-capitolio-guape",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8519,
+          -20.5119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-marina-turvo-canions-de-capitolio-mg-br",
+        "nome": "Píer da Ponte do Rio Turvo e Cânions de Capitólio (Lago de Furnas — MG-050, MG)",
+        "sistema_id": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_slug": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "linha_id": "linha-furnas-peixoto-cassia-delfinopolis-capitolio-guape",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2764,
+          -20.6256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-balsa-guape-sao-jose-da-barra-mg-br",
+        "nome": "Terminais de Balsas de Guapé e São José da Barra (Eixo Central do Lago de Furnas, MG)",
+        "sistema_id": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_slug": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "linha_id": "linha-furnas-peixoto-cassia-delfinopolis-capitolio-guape",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9258,
+          -20.7619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-itaci-carmo-do-rio-claro-ponte-preta-mg-br",
+        "nome": "Portos das Balsas de Itaci (Carmo do Rio Claro) e Ponte Preta (Campos Gerais, MG)",
+        "sistema_id": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_slug": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "linha_id": "linha-furnas-sapucai-carmo-do-rio-claro-fama-alfenas-campos-gerais",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1219,
+          -20.9711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-balsa-fama-alfenas-harmonia-sapucai-mg-br",
+        "nome": "Portos da Balsa Fama – Alfenas / Harmonia (Braço do Rio Sapucaí no Lago de Furnas, MG)",
+        "sistema_id": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "sistema_slug": "travessias-balsas-lago-de-furnas-guape-capitao-de-minas-delfinopolis-cassia-fama-alfenas-minas-gerais-brasil",
+        "linha_id": "linha-furnas-sapucai-carmo-do-rio-claro-fama-alfenas-campos-gerais",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.8289,
+          -21.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-orla-de-altamira-medio-xingu-pa-br",
+        "nome": "Cais da Orla de Altamira (Médio Rio Xingu / Reserva Extrativista do Xingu, PA)",
+        "sistema_id": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_slug": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "linha_id": "linha-medio-xingu-altamira-volta-grande-balsa-br-230-belo-monte",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2056,
+          -3.2089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-balsas-belo-monte-br-230-pa-br",
+        "nome": "Terminal da Travessia de Balsas de Belo Monte na Rodovia Transamazônica BR-230 (Anapu / Vitória do Xingu, PA)",
+        "sistema_id": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_slug": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "linha_id": "linha-medio-xingu-altamira-volta-grande-balsa-br-230-belo-monte",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7728,
+          -3.0978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-vitoria-do-xingu-pa-br",
+        "nome": "Terminal Hidroviário de Passageiros de Vitória do Xingu (IP4 DNIT / CPH-PA)",
+        "sistema_id": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_slug": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "linha_id": "linha-baixo-xingu-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0114,
+          -2.8794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-senador-jose-porfirio-pa-br",
+        "nome": "Terminal Hidroviário de Senador José Porfírio / Souzel (IP4 DNIT / CPH-PA no Baixo Xingu)",
+        "sistema_id": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_slug": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "linha_id": "linha-baixo-xingu-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9542,
+          -2.5908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-porto-de-moz-xingu-pa-br",
+        "nome": "Terminal Hidroviário de Porto de Moz (IP4 DNIT / CPH-PA na Foz do Rio Xingu, PA)",
+        "sistema_id": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "sistema_slug": "hidrovia-rio-xingu-belo-monte-altamira-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz-para-brasil",
+        "linha_id": "linha-baixo-xingu-vitoria-do-xingu-senador-jose-porfirio-porto-de-moz",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2383,
+          -1.7483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pier-conceicao-de-jacarei-mangaratiba-rj-br",
+        "nome": "Píer Turístico de Conceição de Jacareí (Travessia Rápida de 15 min para a Ilha Grande — Mangaratiba, RJ)",
+        "sistema_id": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_slug": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "linha_id": "linha-conceicao-de-jacarei-mangaratiba-abraao-palmas-aventureiro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1722,
+          -23.0389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-estacao-santa-luzia-cais-lapa-angra-rj-br",
+        "nome": "Estação Santa Luzia e Cais da Lapa (Terminal Turístico e Comunitário de Angra dos Reis, RJ)",
+        "sistema_id": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_slug": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "linha_id": "linha-angra-santa-luzia-abraao-saco-do-ceu-bananal-aracatiba-proveta",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3167,
+          -23.0114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-turismo-vila-do-abraao-ilha-grande-rj-br",
+        "nome": "Cais de Turismo da Vila do Abraão (Hub de Lanchas e Escunas da Ilha Grande, Angra dos Reis, RJ)",
+        "sistema_id": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_slug": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "linha_id": "linha-conceicao-de-jacarei-mangaratiba-abraao-palmas-aventureiro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1669,
+          -23.1394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-aracatiba-bananal-saco-do-ceu-rj-br",
+        "nome": "Cais de Araçatiba, Enseada do Bananal e Saco do Céu (Costa Oeste da Ilha Grande, RJ)",
+        "sistema_id": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_slug": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "linha_id": "linha-angra-santa-luzia-abraao-saco-do-ceu-bananal-aracatiba-proveta",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3319,
+          -23.1558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-palmas-proveta-aventureiro-ilha-grande-rj-br",
+        "nome": "Cais da Enseada de Palmas, Provetá e Praia do Aventureiro (Costa Sul da Ilha Grande, RJ)",
+        "sistema_id": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "sistema_slug": "travessias-lanchas-angra-dos-reis-conceicao-de-jacarei-mangaratiba-vila-do-abraao-aracatiba-aventureiro-ilha-grande-rj-brasil",
+        "linha_id": "linha-conceicao-de-jacarei-mangaratiba-abraao-palmas-aventureiro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3147,
+          -23.1889
+        ]
+      }
     }
   ]
 }
