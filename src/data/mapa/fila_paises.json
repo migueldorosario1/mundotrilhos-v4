@@ -2417,7 +2417,16 @@
       "pais": "Fase Hidroviária Mundial #44 — Europa Ocidental, Estuários, Canais e Rios Navegáveis IV (DeWaterbus Antuérpia no Rio Escalda e Ferries Riveo/Vlissingen–Breskens Westerschelde Ferry na Bélgica e Países Baixos; Rederij Doeksen Harlingen–Terschelling–Vlieland e Wagenborg Ameland–Schiermonnikoog nas Ilhas Frísias Holandesas; BKV/BKK Danúbio D11/D12 em Budapeste e Mahart PassNave Curva do Danúbio Visegrád–Szentendre–Esztergom na Hungria; Ferries dos Estuários Franceses Royan–Le Verdon na Gironda, Bac de Barcarin no Ródano/Camargue e Compagnie Yeu Continent Fromentine–Île d'Yeu; e KD Köln-Düsseldorfer e Bingen-Rüdesheimer no Vale do Médio Reno na Alemanha)",
       "continente": "Europa",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 159,
+      "sistemas_adicionados": [
+        "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+        "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+        "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+        "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+        "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa"
+      ]
     },
     {
       "ordem": 156,
@@ -2448,6 +2457,14 @@
       "codigo": "HIDRO-AFRICA-OCIDENTAL-ORIENTAL-OCEANO-INDICO-MADAGASCAR-COMORES-IV",
       "pais": "Fase Hidroviária Mundial #48 — África Ocidental, África Oriental e Ilhas do Oceano Índico IV (Azam Marine & ZanFast Ferries Dar es Salaam–Zanzibar–Pemba e Likoni Ferry em Mombaça na Tanzânia e Quênia; Cat Cocos & Cat Rose Mahe–Praslin–La Digue em Seicheles e Mauritius Trochetia / L'Express des Îles nas Ilhas Maurício e Reunião; Travessias de Nosy Be–Ankify, Sainte-Marie e Canal dos Pangalanes em Madagascar; Freetown–Lungi Tagrin Ferry em Serra Leoa e Banjul–Barra Ferry na Gâmbia; e Cabo Verde Interilhas São Vicente–Santo Antão–Santiago–Fogo)",
       "continente": "África e Oceano Índico",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 160,
+      "codigo": "HIDRO-SUL-DA-ASIA-INDIA-BANGLADESH-SRI-LANKA-MALDIVAS-IV",
+      "pais": "Fase Hidroviária Mundial #49 — Sul da Ásia, Índia, Bangladesh, Sri Lanka e Maldivas IV (Kochi Water Metro 100% Elétrico e KSINC/SWTD nos Backwaters de Kerala em Alappuzha–Kollam–Kottayam na Índia; Ferries de Mumbai Gateway of India–Elephanta–Mandwa/Alibaug M2M Ro-Pax e Port Blair–Havelock–Neil nas Ilhas Andaman; RTL Raajje Transport Link e MTCC Malé–Hulhumalé–Villingili–Maafushi nas Maldivas; Jaffna Ferries Kurikadduwan–Nainativu–Delft e Ponte Marítima Nagapattinam–Kankesanthurai no Sri Lanka e Índia; e BIWTC Mongla–Khulna–Sundarbans em Bangladesh)",
+      "continente": "Ásia",
       "prioridade": "alta",
       "status": "pendente"
     }

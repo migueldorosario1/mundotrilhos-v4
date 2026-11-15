@@ -55876,6 +55876,538 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-garona-gironda-bat3-bordeaux-blaye-lamarque-royan-le-verdon",
+        "nome": "Eixo Rio Garona e Estuário da Gironda: Catamarãs Bat³ TBM Bordeaux (Stalingrad–Quinconces–Lormont) + Ferries Blaye–Lamarque e Royan–Le Verdon-sur-Mer",
+        "sistema_id": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+        "sistema_nome": "Ônibus Fluviais Bat³ TBM de Bordeaux, Ferries da Gironda e Bacs de Loire em Nantes (França)",
+        "pais": "França",
+        "cidade": "Bordeaux / Blaye / Royan / Le Verdon",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "TBM Bordeaux (Keolis) & TransGironde",
+        "extensao_km": 195,
+        "bitola": "Catamarãs Fluviais Bat³ e Ferries Ro-Pax da Gironda",
+        "eletrificacao": "Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.561,
+            44.839
+          ],
+          [
+            -0.5695,
+            44.8412
+          ],
+          [
+            -0.551,
+            44.862
+          ],
+          [
+            -0.665,
+            45.126
+          ],
+          [
+            -0.712,
+            45.101
+          ],
+          [
+            -1.031,
+            45.621
+          ],
+          [
+            -1.0615,
+            45.561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estuario-loire-navibus-nantes-trentemoult-bacs-de-loire-indret-coueron",
+        "nome": "Eixo Estuário do Loire (Nantes): Navibus N1/N2 (Gare Maritime – Trentemoult) + Bacs de Loire (Indret – Basse-Indre e Couëron – Le Pellerin)",
+        "sistema_id": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+        "sistema_nome": "Ônibus Fluviais Bat³ TBM de Bordeaux, Ferries da Gironda e Bacs de Loire em Nantes (França)",
+        "pais": "França",
+        "cidade": "Nantes / Rezé / Couëron",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Naolib Nantes (Navibus) & Loire-Atlantique",
+        "extensao_km": 115,
+        "bitola": "Catamarãs Urbanos Navibus e Balsas do Loire",
+        "eletrificacao": "Elétrico e Híbrido"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.574,
+            47.2065
+          ],
+          [
+            -1.582,
+            47.1955
+          ],
+          [
+            -1.675,
+            47.197
+          ],
+          [
+            -1.762,
+            47.203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bacs-de-seine-normandia-quillebeuf-jumieges-duclair-val-de-la-haye-camargue-barcarin",
+        "nome": "Balsas Fluviais do Baixo Sena e Delta do Ródano: Bacs de Seine (Quillebeuf – Port-Jérôme, Jumièges, Duclair e Val-de-la-Haye/Rouen) + Bac de Barcarin (Salin-de-Giraud – Port-Saint-Louis-du-Rhône)",
+        "sistema_id": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "sistema_nome": "Bacs de Seine da Normandia, Compagnie Yeu Continent, Fouras–Île d'Aix e Bac de Barcarin (França)",
+        "pais": "França",
+        "cidade": "Rouen / Duclair / Quillebeuf / Salin-de-Giraud",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Département de la Seine-Maritime & SMTDR Camargue",
+        "extensao_km": 170,
+        "bitola": "Balsas Anfíbias Fluviais Gratuitas",
+        "eletrificacao": "Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.528,
+            49.473
+          ],
+          [
+            0.819,
+            49.429
+          ],
+          [
+            0.8742,
+            49.4795
+          ],
+          [
+            0.998,
+            49.376
+          ],
+          [
+            4.742,
+            43.412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ilhas-atlanticas-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "nome": "Travessias Insulares de Vendeia e Charente-Maritime: Fromentine (La Barre-de-Monts) – Port-Joinville (Île d'Yeu) + Fouras (Pointe de la Fumée) – Île d'Aix",
+        "sistema_id": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "sistema_nome": "Bacs de Seine da Normandia, Compagnie Yeu Continent, Fouras–Île d'Aix e Bac de Barcarin (França)",
+        "pais": "França",
+        "cidade": "Fromentine / L'Île-d'Yeu / Fouras / Île-d'Aix",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Compagnie Yeu Continent & Service Maritime Île d'Aix",
+        "extensao_km": 210,
+        "bitola": "Catamarãs de Alta Velocidade e Ferries Insulares",
+        "eletrificacao": "Diesel-Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.148,
+            46.889
+          ],
+          [
+            -2.348,
+            46.726
+          ],
+          [
+            -1.121,
+            46.002
+          ],
+          [
+            -1.174,
+            46.012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-helgoland-baixo-elba-hamburgo-cuxhaven-helgoland-gluckstadt-wischhafen",
+        "nome": "Expresso do Baixo Elba e Mar do Norte (Halunder Jet & MS Helgoland): Hamburgo (Landungsbrücken) – Wedel – Cuxhaven – Ilha de Helgoland + Elbfähre Glückstadt – Wischhafen",
+        "sistema_id": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+        "sistema_nome": "Catamarã FRS Helgoline Halunder Jet (Helgoland), Ferries da Frísia do Norte W.D.R., FRS Syltfähre e Elbfähre (Alemanha e Dinamarca)",
+        "pais": "Alemanha",
+        "cidade": "Hamburgo / Cuxhaven / Helgoland / Glückstadt",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "FRS Helgoline, Cassen Eils & FRS Elbfähre",
+        "extensao_km": 290,
+        "bitola": "Catamarã Oceânico Halunder Jet e Ferries do Elba",
+        "eletrificacao": "GNL e Diesel de Baixas Emissões"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.969,
+            53.545
+          ],
+          [
+            9.412,
+            53.782
+          ],
+          [
+            9.345,
+            53.765
+          ],
+          [
+            8.707,
+            53.869
+          ],
+          [
+            7.8889,
+            54.1805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-frisia-do-norte-dagebull-fohr-amrum-romo-list-auf-sylt",
+        "nome": "Ferries das Ilhas Frísias do Norte (W.D.R. & FRS Syltfähre): Dagebüll Mole – Wyk auf Föhr – Wittdün auf Amrum + Havneby (Rømø, Dinamarca) – List auf Sylt",
+        "sistema_id": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+        "sistema_nome": "Catamarã FRS Helgoline Halunder Jet (Helgoland), Ferries da Frísia do Norte W.D.R., FRS Syltfähre e Elbfähre (Alemanha e Dinamarca)",
+        "pais": "Alemanha",
+        "cidade": "Dagebüll / Wyk auf Föhr / Wittdün / List auf Sylt",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "W.D.R. & FRS Syltfähre",
+        "extensao_km": 230,
+        "bitola": "Ferries Ro-Pax de Dupla Proa",
+        "eletrificacao": "Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.688,
+            54.73
+          ],
+          [
+            8.574,
+            54.689
+          ],
+          [
+            8.395,
+            54.631
+          ],
+          [
+            8.562,
+            55.088
+          ],
+          [
+            8.438,
+            55.016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-sfk-fiorde-de-kiel-f1-f2-canal-de-kiel-nok-holtenau-rendsburg-brunsbuttel",
+        "nome": "Fiorde de Kiel (SFK F1 Bahnhof–Reventlou–Heikendorf–Laboe & F2) e Travessias Gratuitas do Canal de Kiel (Kiel-Holtenau, Schwebefähre Rendsburg e Brunsbüttel)",
+        "sistema_id": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+        "sistema_nome": "Barcas Híbridas SFK de Kiel, Canal de Kiel, Rostock e Lübeck-Travemünde (Alemanha)",
+        "pais": "Alemanha",
+        "cidade": "Kiel / Rendsburg / Brunsbüttel",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SFK Kiel & WSV Nord-Ostsee-Kanal",
+        "extensao_km": 175,
+        "bitola": "Catamarãs Elétricos/Híbridos SFK e Balsas do Canal de Kiel",
+        "eletrificacao": "100% Elétrico e Híbrido Plug-in"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.221,
+            54.404
+          ],
+          [
+            10.145,
+            54.369
+          ],
+          [
+            10.1365,
+            54.3168
+          ],
+          [
+            9.682,
+            54.293
+          ],
+          [
+            9.141,
+            53.892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baltico-alemao-lubeck-travemunde-priwall-rostock-warnow-warnemunde-hohe-dune",
+        "nome": "Travessias Portuárias do Báltico Alemão: Lübeck-Travemünde – Península de Priwall + Rostock (Kabutzenhof–Gehlsdorf e Warnemünde–Hohe Düne no Rio Warnow)",
+        "sistema_id": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+        "sistema_nome": "Barcas Híbridas SFK de Kiel, Canal de Kiel, Rostock e Lübeck-Travemünde (Alemanha)",
+        "pais": "Alemanha",
+        "cidade": "Lübeck-Travemünde / Rostock / Warnemünde",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Stadtverkehr Lübeck & Weiße Flotte / RSAG Rostock",
+        "extensao_km": 105,
+        "bitola": "Ferries Estuarinos Bálticos",
+        "eletrificacao": "Elétrico e Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.871,
+            53.957
+          ],
+          [
+            10.879,
+            53.955
+          ],
+          [
+            12.092,
+            54.178
+          ],
+          [
+            12.115,
+            54.098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-navigazione-laghi-lago-di-como-bellagio-varenna-lago-di-garda-desenzano-riva",
+        "nome": "Redes do Lago de Como (Como – Cernobbio – Bellagio – Varenna – Menaggio – Colico) e Lago de Garda (Desenzano – Sirmione – Malcesine – Riva del Garda)",
+        "sistema_id": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+        "sistema_nome": "Frota dos Grandes Lagos Insubrianos e do Jura — Maggiore, Como, Garda, Lugano e Neuchâtel (Suíça e Itália)",
+        "pais": "Suíça e Itália",
+        "cidade": "Como / Bellagio / Varenna / Desenzano / Riva del Garda",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Gestione Governativa Navigazione Laghi",
+        "extensao_km": 360,
+        "bitola": "Hidrovia Lacustre Alpina (Navios, Hidrofólios e Ferries Ro-Ro)",
+        "eletrificacao": "Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0815,
+            45.8125
+          ],
+          [
+            9.2618,
+            45.9865
+          ],
+          [
+            9.283,
+            46.011
+          ],
+          [
+            9.373,
+            46.136
+          ],
+          [
+            10.539,
+            45.471
+          ],
+          [
+            10.606,
+            45.492
+          ],
+          [
+            10.841,
+            45.885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-binacional-lago-maggiore-locarno-stresa-lago-de-lugano-lago-de-neuchatel",
+        "nome": "Redes Binacionais do Lago Maggiore (Locarno – Ascona – Intra – Laveno – Ilhas Borromeu – Stresa), Lago de Lugano (SNL) e Três Lagos do Jura (Neuchâtel – Biel – Murten)",
+        "sistema_id": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+        "sistema_nome": "Frota dos Grandes Lagos Insubrianos e do Jura — Maggiore, Como, Garda, Lugano e Neuchâtel (Suíça e Itália)",
+        "pais": "Suíça e Itália",
+        "cidade": "Locarno / Stresa / Lugano / Neuchâtel / Biel",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Navigazione Lago Maggiore, SNL Lugano & LNM Neuchâtel",
+        "extensao_km": 280,
+        "bitola": "Hidrovia Lacustre Binacional Suíça–Itália",
+        "eletrificacao": "Elétrico (Ceresio 1931) e Híbrido"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.931,
+            46.991
+          ],
+          [
+            7.242,
+            47.132
+          ],
+          [
+            8.798,
+            46.168
+          ],
+          [
+            8.554,
+            45.936
+          ],
+          [
+            8.538,
+            45.884
+          ],
+          [
+            8.953,
+            46.003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estreito-de-dover-canal-da-mancha-dover-calais-dunkerque-newhaven-dieppe",
+        "nome": "Eixo Estreito de Dover e Canal da Mancha (DFDS, P&O & Irish Ferries): Dover – Calais + Dover – Dunkerque + Newhaven – Dieppe",
+        "sistema_id": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+        "sistema_nome": "Grandes Pontes Marítimas do Canal da Mancha e Mar do Norte (Reino Unido, França e Países Baixos)",
+        "pais": "Reino Unido, França e Países Baixos",
+        "cidade": "Dover / Calais / Dunkerque / Newhaven / Dieppe",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "DFDS, P&O Ferries & Irish Ferries",
+        "extensao_km": 270,
+        "bitola": "Superferries Híbridos de Dupla Proa (P&O Pioneer / Liberté)",
+        "eletrificacao": "Híbrido Diesel-Bateria (8,8 MWh)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.055,
+            50.789
+          ],
+          [
+            1.082,
+            49.932
+          ],
+          [
+            1.3398,
+            51.1279
+          ],
+          [
+            1.856,
+            50.968
+          ],
+          [
+            2.192,
+            51.018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mar-do-norte-anglo-holandesa-harwich-hoek-van-holland-ijmuiden-newcastle",
+        "nome": "Eixo Anglo-Holandês do Mar do Norte (Stena Line Rail & Sail e DFDS): Harwich International – Hoek van Holland (Roterdã) + IJmuiden (Amsterdã) – Newcastle (North Shields)",
+        "sistema_id": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+        "sistema_nome": "Grandes Pontes Marítimas do Canal da Mancha e Mar do Norte (Reino Unido, França e Países Baixos)",
+        "pais": "Reino Unido, França e Países Baixos",
+        "cidade": "Harwich / Hoek van Holland / IJmuiden / Newcastle",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Stena Line & DFDS Seaways",
+        "extensao_km": 920,
+        "bitola": "Superferries Ro-Pax Internacionais (Stena Hollandica / Britannica)",
+        "eletrificacao": "Shore Power Elétrico em Terra e Propulsão de Baixas Emissões"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.253,
+            51.946
+          ],
+          [
+            4.122,
+            51.976
+          ],
+          [
+            4.576,
+            52.461
+          ],
+          [
+            -1.439,
+            54.996
+          ]
+        ]
+      }
     }
   ]
 }

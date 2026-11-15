@@ -52218,6 +52218,696 @@
           20.286
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pontons-bat3-stalingrad-quinconces-cite-du-vin-bordeaux",
+        "nome": "Pontons Bat³ TBM de Stalingrad, Quinconces e Cité du Vin em Bordeaux (Rio Garona, França)",
+        "sistema_id": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+        "linha_id": "linha-garona-gironda-bat3-bordeaux-blaye-lamarque-royan-le-verdon",
+        "pais": "França",
+        "cidade": "Bordeaux",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais fluviais dos catamarãs híbridos Bat³ ao longo do Rio Garona, integrados às linhas A, B, C e D do VLT de Bordeaux."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5695,
+          44.8412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-embarcaderes-royan-le-verdon-pointe-de-grave-gironda",
+        "nome": "Terminais dos Ferries TransGironde de Royan e Le Verdon-sur-Mer / Pointe de Grave (Foz da Gironda, França)",
+        "sistema_id": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+        "linha_id": "linha-garona-gironda-bat3-bordeaux-blaye-lamarque-royan-le-verdon",
+        "pais": "França",
+        "cidade": "Royan / Le Verdon-sur-Mer",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia marítimo-estuarina de 20 minutos pelos ferries anfíbios La Cordouan e L'Estuaire na boca do estuário da Gironda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.031,
+          45.621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-embarcaderes-blaye-citadelle-lamarque-medoc-gironda",
+        "nome": "Terminais do Ferry Blaye (Cidadela UNESCO) – Lamarque (Médoc — Estuário da Gironda, França)",
+        "sistema_id": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+        "linha_id": "linha-garona-gironda-bat3-bordeaux-blaye-lamarque-royan-le-verdon",
+        "pais": "França",
+        "cidade": "Blaye / Lamarque",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia do médio estuário da Gironda entre a fortaleza de Vauban em Blaye e os vinhedos do Médoc em Lamarque."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.665,
+          45.126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-nantes-trentemoult-navibus-loire",
+        "nome": "Gare Maritime de Nantes (Conexão VLT Linha 1) e Ponton de Trentemoult (Navibus N1/N2 — Rio Loire, França)",
+        "sistema_id": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+        "linha_id": "linha-estuario-loire-navibus-nantes-trentemoult-bacs-de-loire-indret-coueron",
+        "pais": "França",
+        "cidade": "Nantes / Rezé",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal travessia urbana de catamarãs elétricos/híbridos Navibus entre o centro de Nantes e a vila portuária de Trentemoult."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.574,
+          47.2065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bacs-de-loire-indret-basse-indre-coueron-le-pellerin",
+        "nome": "Terminais das Balsas Gratuitas Bacs de Loire — Indret–Basse-Indre e Couëron–Le Pellerin (Loire-Atlantique)",
+        "sistema_id": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+        "linha_id": "linha-estuario-loire-navibus-nantes-trentemoult-bacs-de-loire-indret-coueron",
+        "pais": "França",
+        "cidade": "Indre / Couëron / Le Pellerin",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Duas travessias rodoviárias e cicloviárias gratuitas operadas pelo departamento de Loire-Atlantique a oeste de Nantes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.675,
+          47.197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bacs-de-seine-duclair-jumieges-val-de-la-haye-rouen",
+        "nome": "Terminais dos Bacs de Seine — Duclair, Jumièges e Val-de-la-Haye (Meandros do Baixo Sena, Normandia)",
+        "sistema_id": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "linha_id": "linha-bacs-de-seine-normandia-quillebeuf-jumieges-duclair-val-de-la-haye-camargue-barcarin",
+        "pais": "França",
+        "cidade": "Duclair / Jumièges / Rouen",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Balsas fluviais gratuitas operadas pelo Departamento de Seine-Maritime nos meandros do Sena a oeste de Rouen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8742,
+          49.4795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bac-de-quillebeuf-port-jerome-estuario-do-sena",
+        "nome": "Terminal da Balsa Quillebeuf-sur-Seine – Port-Jérôme (Estuário do Sena, Normandia)",
+        "sistema_id": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "linha_id": "linha-bacs-de-seine-normandia-quillebeuf-jumieges-duclair-val-de-la-haye-camargue-barcarin",
+        "pais": "França",
+        "cidade": "Quillebeuf-sur-Seine / Port-Jérôme",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Balsa de grande porte para veículos e pedestres mais próxima do estuário do Sena entre as pontes de Brotonne e Tancarville."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.528,
+          49.473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bac-de-barcarin-salin-de-giraud-camargue-rodano",
+        "nome": "Terminais do Bac de Barcarin e Bac du Sauvage (Salin-de-Giraud – Port-Saint-Louis-du-Rhône, Camargue)",
+        "sistema_id": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "linha_id": "linha-bacs-de-seine-normandia-quillebeuf-jumieges-duclair-val-de-la-haye-camargue-barcarin",
+        "pais": "França",
+        "cidade": "Arles (Salin-de-Giraud) / Port-Saint-Louis",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia essencial 24h do Grande Ródano na ausência de pontes nos últimos 50 km antes da foz no Mediterrâneo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.742,
+          43.412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-fromentine-port-joinville-ile-dyeu",
+        "nome": "Gares Maritimes de Fromentine e Port-Joinville (Compagnie Yeu Continent — Île d'Yeu, Vendeia)",
+        "sistema_id": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "linha_id": "linha-ilhas-atlanticas-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "pais": "França",
+        "cidade": "La Barre-de-Monts / L'Île-d'Yeu",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ligação marítima de 30 minutos em catamarãs de alta velocidade entre o continente e Port-Joinville na Île d'Yeu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.348,
+          46.726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-embarcadere-pointe-de-la-fumee-fouras-ile-daix",
+        "nome": "Embarcadères de Pointe de la Fumée (Fouras) e da Île d'Aix (Charente-Maritime, França)",
+        "sistema_id": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "linha_id": "linha-ilhas-atlanticas-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "pais": "França",
+        "cidade": "Fouras / Île-d'Aix",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia marítima permanente ao lado do Forte Boyard para a ilha histórica sem automóveis de Île d'Aix."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.174,
+          46.012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-helgoland-binnenhafen-landungsbrucken-halunder-jet",
+        "nome": "Porto de Helgoland (Südhafen / Landungsbrücken — Catamarã Halunder Jet e Navio GNL MS Helgoland)",
+        "sistema_id": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+        "linha_id": "linha-helgoland-baixo-elba-hamburgo-cuxhaven-helgoland-gluckstadt-wischhafen",
+        "pais": "Alemanha",
+        "cidade": "Helgoland",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo do arquipélago oceânico de Helgoland a 65 km da costa alemã no Mar do Norte, incluindo o ferry para a ilha vizinha de Düne."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8889,
+          54.1805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cuxhaven-alte-liebe-st-pauli-landungsbrucken-helgoline",
+        "nome": "Terminal Marítimo Alte Liebe em Cuxhaven e Píer de Wedel / Hamburgo (FRS Helgoline & Cassen Eils)",
+        "sistema_id": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+        "linha_id": "linha-helgoland-baixo-elba-hamburgo-cuxhaven-helgoland-gluckstadt-wischhafen",
+        "pais": "Alemanha",
+        "cidade": "Cuxhaven / Wedel",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto de embarque na foz do Rio Elba para Helgoland e escala do catamarã rápido Halunder Jet vindo de Hamburgo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.707,
+          53.869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-elbfahre-gluckstadt-wischhafen-baixo-elba",
+        "nome": "Terminais da Elbfähre Glückstadt (Schleswig-Holstein) – Wischhafen (Baixa Saxônia — Baixo Rio Elba)",
+        "sistema_id": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+        "linha_id": "linha-helgoland-baixo-elba-hamburgo-cuxhaven-helgoland-gluckstadt-wischhafen",
+        "pais": "Alemanha",
+        "cidade": "Glückstadt / Wischhafen",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia rodoviária contínua de 4 ferries através do estuário do Elba na rodovia federal B495 a noroeste de Hamburgo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.412,
+          53.782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dagebull-mole-wyk-auf-fohr-wittdun-amrum-wdr",
+        "nome": "Terminal Ferro-Marítimo de Dagebüll Mole e Portos de Wyk auf Föhr e Wittdün auf Amrum (W.D.R.)",
+        "sistema_id": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+        "linha_id": "linha-frisia-do-norte-dagebull-fohr-amrum-romo-list-auf-sylt",
+        "pais": "Alemanha",
+        "cidade": "Dagebüll / Föhr / Amrum",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Estação onde os trens Intercity da Deutsche Bahn param diretamente no píer marítimo ao lado dos ferries W.D.R. para Föhr e Amrum."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688,
+          54.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-list-auf-sylt-havneby-romo-frs-syltfahre",
+        "nome": "Terminais Binacionais da FRS Syltfähre — List auf Sylt (Alemanha) e Havneby em Rømø (Dinamarca)",
+        "sistema_id": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+        "linha_id": "linha-frisia-do-norte-dagebull-fohr-amrum-romo-list-auf-sylt",
+        "pais": "Alemanha",
+        "cidade": "List auf Sylt / Rømø",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ponte marítima de veículos e passageiros entre a ilha dinamarquesa de Rømø e o extremo norte da ilha alemã de Sylt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.438,
+          55.016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kiel-bahnhofskai-reventloubrucke-laboe-sfk-fordelinie",
+        "nome": "Terminais SFK de Kiel Bahnhofskai (Estação Central), Reventloubrücke e Laboe (Fiorde de Kiel, Alemanha)",
+        "sistema_id": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+        "linha_id": "linha-sfk-fiorde-de-kiel-f1-f2-canal-de-kiel-nok-holtenau-rendsburg-brunsbuttel",
+        "pais": "Alemanha",
+        "cidade": "Kiel / Laboe",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píeres urbanos dotados de recarga elétrica para a frota zero-emissão das linhas F1 e F2 da SFK no Fiorde de Kiel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1365,
+          54.3168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rendsburg-schwebefahre-hochbrucke-canal-de-kiel",
+        "nome": "Ponte Transportadora Suspensa Elétrica de Rendsburg (Schwebefähre Rendsburg — Canal de Kiel, Alemanha)",
+        "sistema_id": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+        "linha_id": "linha-sfk-fiorde-de-kiel-f1-f2-canal-de-kiel-nok-holtenau-rendsburg-brunsbuttel",
+        "pais": "Alemanha",
+        "cidade": "Rendsburg / Osterrönfeld",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ícone mundial da engenharia ferro-hidroviária: balsa suspensa por cabos sob a histórica Ponte Ferroviária Elevada de Rendsburg, cruzando gratuitamente o Canal de Kiel a cada 15 minutos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.682,
+          54.293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kiel-holtenau-brunsbuttel-nok-canal-ferries",
+        "nome": "Terminais das Balsas Gratuitas das Eclusas de Kiel-Holtenau e Brunsbüttel (Nord-Ostsee-Kanal)",
+        "sistema_id": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+        "linha_id": "linha-sfk-fiorde-de-kiel-f1-f2-canal-de-kiel-nok-holtenau-rendsburg-brunsbuttel",
+        "pais": "Alemanha",
+        "cidade": "Kiel-Holtenau / Brunsbüttel",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessias gratuitas de 24h nos dois extremos do Canal de Kiel (Mar Báltico em Holtenau e Rio Elba em Brunsbüttel)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.141,
+          53.892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lubeck-travemunde-priwallfahre-trave",
+        "nome": "Terminais das Balsas Priwallfähre e Norderfähre em Lübeck-Travemünde (Foz do Rio Trave, Alemanha)",
+        "sistema_id": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+        "linha_id": "linha-baltico-alemao-lubeck-travemunde-priwall-rostock-warnow-warnemunde-hohe-dune",
+        "pais": "Alemanha",
+        "cidade": "Lübeck-Travemünde",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Duas travessias urbanas contínuas ao lado do veleiro-museu Passat conectando Travemünde à península de Priwall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.871,
+          53.957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rostock-warnemunde-hohe-dune-kabutzenhof-warnowfahre",
+        "nome": "Terminais das Barcas do Rio Warnow — Warnemünde–Hohe Düne e Kabutzenhof–Gehlsdorf em Rostock (Alemanha)",
+        "sistema_id": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+        "linha_id": "linha-baltico-alemao-lubeck-travemunde-priwall-rostock-warnow-warnemunde-hohe-dune",
+        "pais": "Alemanha",
+        "cidade": "Rostock / Warnemünde",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessias fluviais e portuárias integradas ao S-Bahn e VLT da rede VVW/RSAG de Rostock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.092,
+          54.178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-como-piazza-cavour-bellagio-varenna-menaggio-lago-di-como",
+        "nome": "Terminais de Como (Piazza Cavour), Bellagio, Varenna-Esino e Menaggio (Navigazione Lago di Como, Itália)",
+        "sistema_id": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+        "linha_id": "linha-navigazione-laghi-lago-di-como-bellagio-varenna-lago-di-garda-desenzano-riva",
+        "pais": "Suíça e Itália",
+        "cidade": "Como / Bellagio / Varenna",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Coração do Lago de Como, reunindo os píeres de hidrofólios de Como e o quadrilátero de ferries de veículos e passageiros Bellagio–Varenna–Menaggio–Cadenabbia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2618,
+          45.9865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-desenzano-sirmione-riva-del-garda-navigazione-garda",
+        "nome": "Terminais de Desenzano, Sirmione, Malcesine e Riva del Garda (Navigazione Lago di Garda, Itália)",
+        "sistema_id": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+        "linha_id": "linha-navigazione-laghi-lago-di-como-bellagio-varenna-lago-di-garda-desenzano-riva",
+        "pais": "Suíça e Itália",
+        "cidade": "Desenzano / Sirmione / Riva del Garda",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais terminais da frota de navios, catamarãs e hidrofólios do maior lago da Itália, integrados à ferrovia Milão–Veneza em Desenzano e Peschiera."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.539,
+          45.471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-locarno-stresa-intra-laveno-lago-maggiore",
+        "nome": "Terminais Binacionais de Locarno (Suíça), Intra–Laveno e Stresa / Ilhas Borromeu (Lago Maggiore, Suíça e Itália)",
+        "sistema_id": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+        "linha_id": "linha-binacional-lago-maggiore-locarno-stresa-lago-de-lugano-lago-de-neuchatel",
+        "pais": "Suíça e Itália",
+        "cidade": "Locarno / Stresa / Verbania (Intra)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Rede transfronteiriça entre o cantão suíço do Ticino (Locarno/Ascona) e o Piemonte/Lombardia na Itália, incluindo o ferry rodoviário Intra–Laveno."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538,
+          45.884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lugano-centrale-morcote-snl-lago-di-lugano",
+        "nome": "Debarcadero Lugano Centrale, Paradiso e Morcote (SNL Lago de Lugano — Ticino, Suíça)",
+        "sistema_id": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+        "linha_id": "linha-binacional-lago-maggiore-locarno-stresa-lago-de-lugano-lago-de-neuchatel",
+        "pais": "Suíça e Itália",
+        "cidade": "Lugano",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Base da Società Navigazione del Lago di Lugano (SNL), pioneira na conversão de navios históricos como o MN Ceresio 1931 para propulsão 100% elétrica."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.953,
+          46.003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-neuchatel-port-biel-bienne-murten-lnm-suica",
+        "nome": "Portos de Neuchâtel, Biel/Bienne e Murten/Morat (Navegação dos Três Lagos do Jura LNM / BSG, Suíça)",
+        "sistema_id": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+        "linha_id": "linha-binacional-lago-maggiore-locarno-stresa-lago-de-lugano-lago-de-neuchatel",
+        "pais": "Suíça e Itália",
+        "cidade": "Neuchâtel / Biel / Murten",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Sistema integrado de navegação através dos canais da Broye e da Thielle unindo os lagos de Neuchâtel, Biel e Murten."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931,
+          46.991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-of-dover-eastern-docks-ferry-terminal-uk",
+        "nome": "Port of Dover Eastern Docks Ferry Terminal (Estreito de Dover — Inglaterra, Reino Unido)",
+        "sistema_id": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+        "linha_id": "linha-estreito-de-dover-canal-da-mancha-dover-calais-dunkerque-newhaven-dieppe",
+        "pais": "Reino Unido, França e Países Baixos",
+        "cidade": "Dover",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Um dos terminais de ferries mais movimentados do planeta ao pé das Falésias Brancas de Dover, com partidas a cada 30 minutos para Calais e Dunkerque."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3398,
+          51.1279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-de-calais-dunkerque-car-ferry-terminals-franca",
+        "nome": "Terminais de Ferries do Porto de Calais e Porto de Dunkerque-Loon-Plage (Pas-de-Calais, França)",
+        "sistema_id": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+        "linha_id": "linha-estreito-de-dover-canal-da-mancha-dover-calais-dunkerque-newhaven-dieppe",
+        "pais": "Reino Unido, França e Países Baixos",
+        "cidade": "Calais / Dunkerque",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Megaterminais franceses do Estreito de Dover recebendo os superferries híbridos da P&O, DFDS e Irish Ferries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.856,
+          50.968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-newhaven-dieppe-transmanche-ferry-terminals",
+        "nome": "Terminais Ferro-Marítimos de Newhaven Harbour (Inglaterra) e Dieppe (Normandia, França — DFDS Transmanche)",
+        "sistema_id": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+        "linha_id": "linha-estreito-de-dover-canal-da-mancha-dover-calais-dunkerque-newhaven-dieppe",
+        "pais": "Reino Unido, França e Países Baixos",
+        "cidade": "Newhaven / Dieppe",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Histórica rota mais direta entre Londres e Paris pelo Canal da Mancha, integrada diretamente à estação ferroviária de Newhaven Harbour."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.082,
+          49.932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-harwich-international-hoek-van-holland-haven-stena-line",
+        "nome": "Terminais Ferro-Marítimos de Harwich International (Reino Unido) e Hoek van Holland Haven (Roterdã, Países Baixos — Stena Line)",
+        "sistema_id": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+        "linha_id": "linha-mar-do-norte-anglo-holandesa-harwich-hoek-van-holland-ijmuiden-newcastle",
+        "pais": "Reino Unido, França e Países Baixos",
+        "cidade": "Harwich / Hoek van Holland (Roterdã)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais do serviço integrado trem+barco Dutchflyer, conectando os trens Greater Anglia de Londres Liverpool Street ao metrô RET Linha B de Roterdã."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.122,
+          51.976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ijmuiden-amsterdam-newcastle-north-shields-dfds-terminals",
+        "nome": "Terminais DFDS de IJmuiden / Amsterdã (Países Baixos) e Port of Tyne / Newcastle North Shields (Reino Unido)",
+        "sistema_id": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+        "linha_id": "linha-mar-do-norte-anglo-holandesa-harwich-hoek-van-holland-ijmuiden-newcastle",
+        "pais": "Reino Unido, França e Países Baixos",
+        "cidade": "IJmuiden (Amsterdã) / Newcastle",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais da ponte marítima diária entre Amsterdã/IJmuiden e o nordeste da Inglaterra (conectado ao Tyne and Wear Metro)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.576,
+          52.461
+        ]
+      }
     }
   ]
 }

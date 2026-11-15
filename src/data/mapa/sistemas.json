@@ -42015,5 +42015,387 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+    "slug": "bat3-tbm-bordeaux-garonne-transgironde-royan-le-verdon-blaye-lamarque-bacs-de-loire-nantes-franca",
+    "nome_pt": "Ônibus Fluviais Bat³ TBM de Bordeaux (Rio Garona), Ferries da Gironda TransGironde (Royan–Le Verdon e Blaye–Lamarque) e Bacs de Loire em Nantes (França)",
+    "nome_en": "Bordeaux Bat³ TBM River Buses (Garonne), Gironde Estuary Ferries (Royan–Le Verdon & Blaye–Lamarque) & Nantes Loire Ferries (France)",
+    "pais": "França",
+    "cidade": "Bordeaux / Royan / Le Verdon-sur-Mer / Blaye / Nantes",
+    "uf": "Nova Aquitânia e País do Loire",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "TBM (Transports Bordeaux Métropole — Keolis Bat³) / TransGironde (Département de la Gironde) / Département de Loire-Atlantique & Naolib Nantes (Navibus)",
+    "inauguracao": "1934 (travessia moderna de balsas Royan–Le Verdon na foz da Gironda) / 2005 (Navibus de Nantes) / 2013 (catamarãs Bat³ de Bordeaux)",
+    "extensao_km": 310,
+    "bitola": "Transporte Aquaviário Metropolitano Integrado (Catamarãs Híbridos Bat³ e Navibus) e Ferries Anfíbios Ro-Pax Estuarinos",
+    "eletrificacao": "Catamarãs Híbridos Diesel-Elétricos e 100% Elétricos (Navibus N1/N2 Nantes e nova frota Bat³ Bordeaux)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 29000,
+    "ano_referencia": 2026,
+    "investimento": "€ 46 milhões (ampliação da frota de catamarãs Bat³ para 6 embarcações em Bordeaux, navios elétricos Navibus em Nantes e modernização dos ferries da Gironda)",
+    "proximas_entregas": "Novos píeres fluviais do Bat³ em Bordeaux-Bègles e eletrificação dos ferries estuarinos do Baixo Loire",
+    "resumo_pt": "Eixo de transporte hidroviário urbano e estuarino da fachada atlântica francesa: em Bordeaux, os catamarãs híbridos Bat³ da rede TBM percorrem o Rio Garona integrados ao VLT (Stalingrad, Quinconces, Cité du Vin e Lormont); na foz e no estuário da Gironda, os grandes ferries Ro-Pax da TransGironde conectam Royan (Charente-Maritime) à Pointe de Grave / Le Verdon-sur-Mer (Médoc) e a cidadela UNESCO de Blaye a Lamarque; e no estuário do Loire, em Nantes, os catamarãs urbanos Navibus (Gare Maritime–Trentemoult e Erdre) operam lado a lado com as balsas gratuitas de veículos Bacs de Loire em Indret–Basse-Indre e Couëron–Le Pellerin.",
+    "resumo_en": "Urban and estuarine water transit along France's Atlantic facade: in Bordeaux, TBM's hybrid Bat³ catamarans ply the Garonne River integrated with the tram network; across the Gironde estuary, TransGironde Ro-Pax ferries link Royan to Le Verdon-sur-Mer (Pointe de Grave) and Blaye to Lamarque; and on the Loire estuary in Nantes, urban Navibus water buses operate alongside the toll-free Bacs de Loire vehicle ferries at Indret and Couëron.",
+    "lat": 44.8412,
+    "lon": -0.5695,
+    "zoom_inicial": 6,
+    "fontes": [
+      "TBM Bordeaux Métropole & Département de la Gironde (TransGironde) — Bilan des Navettes Fluviales Bat³ et Bacs Girondins 2026",
+      "Naolib Nantes Métropole & Département de Loire-Atlantique — Navibus et Bacs de Loire 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "bordeaux",
+      "bat3",
+      "gironda",
+      "royan",
+      "nantes",
+      "navibus",
+      "loire",
+      "franca"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-garona-gironda-bat3-bordeaux-blaye-lamarque-royan-le-verdon",
+        "nome": "Eixo Rio Garona e Estuário da Gironda: Catamarãs Bat³ TBM Bordeaux (Stalingrad–Quinconces–Lormont) + Ferries Blaye–Lamarque e Royan–Le Verdon-sur-Mer",
+        "status": "operacao",
+        "extensao_km": 195,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-estuario-loire-navibus-nantes-trentemoult-bacs-de-loire-indret-coueron",
+        "nome": "Eixo Estuário do Loire (Nantes): Navibus N1/N2 (Gare Maritime – Trentemoult) + Bacs de Loire (Indret – Basse-Indre e Couëron – Le Pellerin)",
+        "status": "operacao",
+        "extensao_km": 115,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+    "slug": "bacs-de-seine-rouen-quillebeuf-duclair-compagnie-yeu-continent-fromentine-ile-dyeu-fouras-ile-daix-franca",
+    "nome_pt": "Bacs de Seine da Normandia (Rouen–Le Havre), Compagnie Yeu Continent (Fromentine–Île d'Yeu), Fouras–Île d'Aix e Bac de Barcarin no Ródano (França)",
+    "nome_en": "Normandy Seine River Ferries (Bacs de Seine), Compagnie Yeu Continent (Fromentine–Île d'Yeu), Fouras–Île d'Aix & Rhône Camargue Ferries (France)",
+    "pais": "França",
+    "cidade": "Duclair / Quillebeuf-sur-Seine / L'Île-d'Yeu / Fouras / Salin-de-Giraud",
+    "uf": "Normandia, Vendeia, Nova Aquitânia e Provença",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Département de la Seine-Maritime (Bacs de Seine) / Compagnie Yeu Continent (Région Pays de la Loire) / Service Maritime Île d'Aix / SMTDR (Bacs de Camargue)",
+    "inauguracao": "1860 (primeiras balsas a vapor do Baixo Sena e travessia regular para a Île d'Yeu)",
+    "extensao_km": 380,
+    "bitola": "Balsas Fluviais Gratuitas de Alta Capacidade (Bacs de Seine e Bacs du Rhône) e Catamarãs de Alta Velocidade Insulares",
+    "eletrificacao": "Propulsão Diesel-Elétrica e Híbrida",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 23500,
+    "ano_referencia": 2026,
+    "investimento": "€ 52 milhões (renovação das balsas anfíbias do Baixo Sena pelo Departamento de Seine-Maritime e modernização dos catamarãs Pont d'Yeu e Châtelet para a Île d'Yeu)",
+    "proximas_entregas": "Entrada em operação de novas balsas elétricas nos meandros do Sena (Val-de-la-Haye e Duclair) e no Grande Ródano em Barcarin",
+    "resumo_pt": "Rede pública de travessias fluviais gratuitas e ligações insulares costeiras da França: ao longo dos meandros do Baixo Rio Sena entre Rouen e o estuário de Le Havre, o Departamento de Seine-Maritime opera 8 travessias gratuitas de balsas rodoviárias e de passageiros (Bacs de Seine em Quillebeuf, Caudebec, Yainville, Jumièges, Duclair, Sahurs e Val-de-la-Haye); na costa da Vendeia e Charente-Maritime, os catamarãs rápidos da Compagnie Yeu Continent ligam Fromentine a Port-Joinville na Île d'Yeu e os ferries de Pointe de la Fumée (Fouras) atendem a Île d'Aix (sem carros); e no delta do Ródano (Camargue), os Bacs de Barcarin e du Sauvage garantem a travessia contínua do Grande e do Pequeno Ródano.",
+    "resumo_en": "Public river ferry and island shipping network in France: along the meanders of the Lower Seine between Rouen and Le Havre, Seine-Maritime operates 8 toll-free vehicle and passenger ferries (Bacs de Seine at Quillebeuf, Jumièges, Duclair, Val-de-la-Haye); on the Vendée and Charente coast, Compagnie Yeu Continent high-speed catamarans connect Fromentine with Port-Joinville on Île d'Yeu while Fouras ferries serve car-free Île d'Aix; and in the Rhône Delta (Camargue), the Barcarin and Sauvage ferries cross the Grand and Petit Rhône.",
+    "lat": 49.4795,
+    "lon": 0.8742,
+    "zoom_inicial": 6,
+    "fontes": [
+      "Département de la Seine-Maritime — exploitation des 8 passages d'eau des Bacs de Seine 2026",
+      "Compagnie Yeu Continent (Pays de la Loire) & SMTDR Bacs de Camargue — Rapport Annuel 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "balsa",
+      "ferry",
+      "rio-sena",
+      "bacs-de-seine",
+      "ile-dyeu",
+      "ile-daix",
+      "camargue",
+      "rio-rodano",
+      "normandia",
+      "franca"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-bacs-de-seine-normandia-quillebeuf-jumieges-duclair-val-de-la-haye-camargue-barcarin",
+        "nome": "Balsas Fluviais do Baixo Sena e Delta do Ródano: Bacs de Seine (Quillebeuf – Port-Jérôme, Jumièges, Duclair e Val-de-la-Haye/Rouen) + Bac de Barcarin (Salin-de-Giraud – Port-Saint-Louis-du-Rhône)",
+        "status": "operacao",
+        "extensao_km": 170,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-ilhas-atlanticas-fromentine-ile-dyeu-fouras-ile-daix-franca",
+        "nome": "Travessias Insulares de Vendeia e Charente-Maritime: Fromentine (La Barre-de-Monts) – Port-Joinville (Île d'Yeu) + Fouras (Pointe de la Fumée) – Île d'Aix",
+        "status": "operacao",
+        "extensao_km": 210,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+    "slug": "frs-helgoline-halunder-jet-hamburgo-cuxhaven-helgoland-frs-syltfahre-romo-list-wd-r-fohr-amrum-alemanha-dinamarca",
+    "nome_pt": "Catamarã FRS Helgoline Halunder Jet (Hamburgo–Cuxhaven–Helgoland), Ferries da Frísia do Norte W.D.R. (Dagebüll–Föhr–Amrum), FRS Syltfähre (Rømø–Sylt) e Elbfähre Glückstadt–Wischhafen (Alemanha e Dinamarca)",
+    "nome_en": "FRS Helgoline Halunder Jet (Hamburg–Cuxhaven–Helgoland), North Frisian Ferries W.D.R. (Dagebüll–Föhr–Amrum), FRS Syltfähre (Rømø–Sylt) & Elbfähre Glückstadt–Wischhafen (Germany & Denmark)",
+    "pais": "Alemanha",
+    "cidade": "Hamburgo / Cuxhaven / Helgoland / Dagebüll / Wyk auf Föhr / List auf Sylt",
+    "uf": "Schleswig-Holstein, Hamburgo, Baixa Saxônia e Dinamarca do Sul",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "FRS Helgoline & FRS Syltfähre / W.D.R. (Wyker Dampfschiffs-Reederei) / Reederei Cassen Eils / FRS Elbfähre Glückstadt–Wischhafen",
+    "inauguracao": "1885 (fundação da W.D.R. nas Ilhas Frísias do Norte) / 2018 (lançamento do novo catamarã de alta velocidade Halunder Jet de 680 lugares)",
+    "extensao_km": 520,
+    "bitola": "Hidrovia Estuarina e Marítima do Mar do Norte (Catamarã Oceânico de Alta Velocidade Halunder Jet a 36 nós e Ferries Ro-Pax de Dupla Proa)",
+    "eletrificacao": "Propulsão Diesel-Marítima de Baixas Emissões e GNL (MS Helgoland da Cassen Eils movido a GNL)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 32000,
+    "ano_referencia": 2026,
+    "investimento": "€ 75 milhões (construção dos modernos ferries de dupla proa Uthlande, Schleswig-Holstein e Norderaue da W.D.R., segundo ferry RømøExpress na linha de Sylt e navio GNL MS Helgoland)",
+    "proximas_entregas": "Hibridização das balsas da travessia do Baixo Elba entre Glückstadt e Wischhafen e modernização dos píeres mole de Dagebüll",
+    "resumo_pt": "Malha marítima do Mar do Norte alemão, Baixo Elba e arquipélago da Frísia do Norte: reúne o famoso catamarã de alta velocidade Halunder Jet (FRS Helgoline) e o navio a GNL MS Helgoland (Cassen Eils) que ligam Hamburgo (St. Pauli Landungsbrücken), Wedel e Cuxhaven ao único arquipélago oceânico da Alemanha, a ilha de Helgoland; a travessia rodoviária permanente do Baixo Elba entre Glückstadt (Schleswig-Holstein) e Wischhafen (Baixa Saxônia); os ferries da W.D.R. que partem do terminal ferroviário-marítimo de Dagebüll Mole para Wyk auf Föhr, Wittdün auf Amrum e as ilhas Halligen; e a ponte marítima binacional FRS Syltfähre entre Havneby (Ilha de Rømø, Dinamarca) e List na ilha alemã de Sylt.",
+    "resumo_en": "Maritime network of the German North Sea, Lower Elbe, and North Frisian Archipelago: combines the high-speed catamaran Halunder Jet (FRS Helgoline) and LNG vessel MS Helgoland linking Hamburg, Wedel, and Cuxhaven to the offshore island of Helgoland; the Lower Elbe vehicle ferry between Glückstadt and Wischhafen; the W.D.R. ferries connecting the Dagebüll Mole rail-ferry terminal with Wyk auf Föhr and Wittdün auf Amrum; and the binational FRS Syltfähre between Rømø (Denmark) and List on Sylt.",
+    "lat": 54.1805,
+    "lon": 7.8889,
+    "zoom_inicial": 6,
+    "fontes": [
+      "FRS Helgoline & FRS Syltfähre — Halunder Jet & Syltfähre Operations Report 2026",
+      "Wyker Dampfschiffs-Reederei (W.D.R.) & Elbfähre Glückstadt–Wischhafen — Nordfriesland Ferry Network 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "helgoland",
+      "halunder-jet",
+      "sylt",
+      "fohr",
+      "amrum",
+      "dagebull",
+      "rio-elba",
+      "alemanha",
+      "dinamarca"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-helgoland-baixo-elba-hamburgo-cuxhaven-helgoland-gluckstadt-wischhafen",
+        "nome": "Expresso do Baixo Elba e Mar do Norte (Halunder Jet & MS Helgoland): Hamburgo (Landungsbrücken) – Wedel – Cuxhaven – Ilha de Helgoland + Elbfähre Glückstadt – Wischhafen",
+        "status": "operacao",
+        "extensao_km": 290,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-frisia-do-norte-dagebull-fohr-amrum-romo-list-auf-sylt",
+        "nome": "Ferries das Ilhas Frísias do Norte (W.D.R. & FRS Syltfähre): Dagebüll Mole – Wyk auf Föhr – Wittdün auf Amrum + Havneby (Rømø, Dinamarca) – List auf Sylt",
+        "status": "operacao",
+        "extensao_km": 230,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+    "slug": "sfk-schlepp-und-fahrgesellschaft-kiel-kiellinie-canal-de-kiel-rsag-warnow-rostock-warnemunde-priwall-travemunde-alemanha",
+    "nome_pt": "Barcas Híbridas SFK do Fiorde de Kiel, Travessias Gratuitas do Canal de Kiel (NOK), Barcas RSAG do Rio Warnow (Rostock–Warnemünde) e Priwall-Fähre em Lübeck-Travemünde (Alemanha)",
+    "nome_en": "SFK Kiel Fjord Hybrid Ferries, Kiel Canal Toll-Free Crossings (NOK), RSAG Warnow Ferries (Rostock–Warnemünde) & Priwall Ferry in Lübeck-Travemünde (Germany)",
+    "pais": "Alemanha",
+    "cidade": "Kiel / Rendsburg / Brunsbüttel / Lübeck-Travemünde / Rostock",
+    "uf": "Schleswig-Holstein e Mecklemburgo-Pomerânia Ocidental",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "SFK (Schlepp- und Fahrgesellschaft Kiel mbH) / WSV.de (Nord-Ostsee-Kanal Fähren) / Stadtverkehr Lübeck (Priwallfähre) / Weiße Flotte & RSAG Rostock",
+    "inauguracao": "1895 (abertura do Canal de Kiel com travessias públicas obrigatórias gratuitas e fundação das barcas do Fiorde de Kiel)",
+    "extensao_km": 280,
+    "bitola": "Transporte Aquaviário Urbano Zero-Emissão, Balsas Gratuitas do Canal de Kiel e Ponte Transportadora Suspensa Ferroviária de Rendsburg (Schwebefähre)",
+    "eletrificacao": "100% Elétrico a Bateria e Híbrido Plug-in (Frota SFK MS Gaarden, Düsternbrook, Friedrichsort e Laboe em Kiel e barca elétrica de Rostock)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 38000,
+    "ano_referencia": 2026,
+    "investimento": "€ 64 milhões (renovação completa da frota SFK de Kiel com catamarãs híbridos/elétricos construídos pela Holland Shipyards e novas balsas elétricas para o Canal de Kiel)",
+    "proximas_entregas": "Substituição integral das 14 balsas gratuitas do Canal de Kiel (Nord-Ostsee-Kanal) por embarcações híbridas plug-in padronizadas pela WSV",
+    "resumo_pt": "Rede hidroviária urbana e de canais da costa báltica alemã: em Kiel, a operadora municipal SFK opera as linhas F1 (Fördelinie Bahnhof–Reventlou–Bellevue–Mönkeberg–Heikendorf–Laboe) e F2 (Schwentinelinie) com uma frota ultramoderna de navios híbridos plug-in e 100% elétricos; ao longo dos 98 km do Canal de Kiel (Nord-Ostsee-Kanal, o canal artificial mais movimentado do mundo), a autoridade federal WSV opera 14 travessias gratuitas 24h (incluindo Brunsbüttel, Kiel-Holtenau e a histórica ponte transportadora suspensa elétrica Schwebefähre sob a ponte ferroviária de Rendsburg); e mais a leste no Báltico, operam as balsas de Travemünde–Priwall em Lübeck e as barcas integradas do Rio Warnow entre Kabutzenhof/Gehlsdorf e Warnemünde–Hohe Düne em Rostock.",
+    "resumo_en": "Urban and canal ferry network along Germany's Baltic coast: in Kiel, municipal operator SFK runs the F1 Fördelinie (Bahnhof–Laboe) and F2 Schwentinelinie with a modern fleet of plug-in hybrid and all-electric vessels; along the 98 km Kiel Canal (Nord-Ostsee-Kanal), federal authority WSV operates 14 toll-free 24/7 crossings (including Brunsbüttel, Holtenau, and the historic electric transporter bridge under the Rendsburg High Bridge); and further east on the Baltic operate Lübeck's Travemünde–Priwall ferries and Rostock's Warnow River ferries.",
+    "lat": 54.3168,
+    "lon": 10.1365,
+    "zoom_inicial": 7,
+    "fontes": [
+      "SFK Kiel (Schlepp- und Fahrgesellschaft Kiel) & WSV Nord-Ostsee-Kanal — Jahresbericht Elektro- und Hybridfähren 2026",
+      "Stadtverkehr Lübeck (Travemünde–Priwall) & VVW / RSAG Rostock (Warnowfähren) — Statistik 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "ferry-eletrico",
+      "kiel",
+      "canal-de-kiel",
+      "rendsburg",
+      "lubeck",
+      "travemunde",
+      "rostock",
+      "warnemunde",
+      "alemanha"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-sfk-fiorde-de-kiel-f1-f2-canal-de-kiel-nok-holtenau-rendsburg-brunsbuttel",
+        "nome": "Fiorde de Kiel (SFK F1 Bahnhof–Reventlou–Heikendorf–Laboe & F2) e Travessias Gratuitas do Canal de Kiel (Kiel-Holtenau, Schwebefähre Rendsburg e Brunsbüttel)",
+        "status": "operacao",
+        "extensao_km": 175,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-baltico-alemao-lubeck-travemunde-priwall-rostock-warnow-warnemunde-hohe-dune",
+        "nome": "Travessias Portuárias do Báltico Alemão: Lübeck-Travemünde – Península de Priwall + Rostock (Kabutzenhof–Gehlsdorf e Warnemünde–Hohe Düne no Rio Warnow)",
+        "status": "operacao",
+        "extensao_km": 105,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+    "slug": "lago-maggiore-lago-di-como-lago-di-garda-navigazione-laghi-lago-de-lugano-snl-neuchatel-suica-italia",
+    "nome_pt": "Frota dos Grandes Lagos Insubrianos e do Jura — Navigazione Laghi (Lago Maggiore, Lago de Como e Lago de Garda), SNL Lago de Lugano e LNM Lago de Neuchâtel (Suíça e Itália)",
+    "nome_en": "Great Insubrian & Jura Lakes Fleet — Navigazione Laghi (Lake Maggiore, Lake Como & Lake Garda), SNL Lake Lugano & LNM Lake Neuchâtel (Switzerland & Italy)",
+    "pais": "Suíça e Itália",
+    "cidade": "Locarno / Stresa / Como / Bellagio / Desenzano del Garda / Lugano / Neuchâtel",
+    "uf": "Ticino, Neuchâtel, Lombardia, Piemonte e Vêneto",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Gestione Governativa Navigazione Laghi (Ministero delle Infrastrutture e dei Trasporti — Itália) / SNL (Società Navigazione del Lago di Lugano) / LNM (Navigation sur les Lacs de Neuchâtel et Morat)",
+    "inauguracao": "1826 (primeiro vapor Verbano no Lago Maggiore e Lario no Lago de Como)",
+    "extensao_km": 640,
+    "bitola": "Hidrovia Lacustre Alpina e Subalpina Integrada ao Swiss Travel System e Trenord (Navios Híbridos, Hidrofólios, Catamarãs, Vapores Históricos e Traghetto Ro-Ro)",
+    "eletrificacao": "Navios Híbridos Diesel-Elétricos (Classe Topazio/Smeraldo no Lago Maggiore e Como) e Barca 100% Elétrica Ceresio 1931 em Lugano",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 48000,
+    "ano_referencia": 2026,
+    "investimento": "€ 92 milhões (renovação da frota da Navigazione Laghi com novas embarcações híbridas e elétricas para Como, Maggiore e Garda e eletrificação da frota SNL do Lago de Lugano)",
+    "proximas_entregas": "Entrada em operação de novos ferries híbridos Ro-Ro nas travessias de Bellagio–Varenna–Menaggio (Como) e Intra–Laveno (Maggiore)",
+    "resumo_pt": "Gigantesco sistema público de navegação lacustre alpina que transporta mais de 15 milhões de passageiros por ano entre a Suíça e o norte da Itália: abrange as três grandes redes da estatal italiana Navigazione Laghi — no Lago Maggiore (unindo Locarno e Ascona no cantão suíço do Ticino a Cannobio, Intra, Laveno, as Ilhas Borromeu, Stresa e Arona), no Lago de Como (conectando Como San Giovanni a Cernobbio, Tremezzo, Bellagio, Varenna, Menaggio e Colico com navios, hidrofólios e ferries de veículos) e no Lago de Garda (Desenzano–Sirmione–Peschiera–Malcesine–Limone–Riva del Garda) —, além da SNL no Lago de Lugano (Lugano–Morcote–Ponte Tresa e Campione d'Italia) e da LNM nos Três Lagos do Jura suíço (Neuchâtel, Biel/Bienne e Murten/Morat).",
+    "resumo_en": "Massive public alpine lake navigation network carrying over 15 million passengers annually across Switzerland and northern Italy: encompasses the three fleets of Italy's state-run Navigazione Laghi—on Lake Maggiore (linking Locarno and Ascona in Switzerland with Intra, Laveno, the Borromean Islands, and Stresa in Italy), Lake Como (Como–Bellagio–Varenna–Menaggio–Colico passenger boats, hydrofoils, and car ferries), and Lake Garda (Desenzano–Sirmione–Riva del Garda)—plus SNL on Lake Lugano and LNM across the Three Lakes of the Swiss Jura (Neuchâtel, Biel, and Murten).",
+    "lat": 45.9865,
+    "lon": 9.2618,
+    "zoom_inicial": 7,
+    "fontes": [
+      "Gestione Governativa Navigazione Laghi (Laghi Maggiore, di Como e di Garda) — Relazione Operativa 2026",
+      "SNL Lago di Lugano & LNM Navigation Lacs de Neuchâtel, Bienne et Morat (Swiss Travel System) — 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "hidrofolio",
+      "lago-de-como",
+      "lago-maggiore",
+      "lago-de-garda",
+      "lago-de-lugano",
+      "lago-de-neuchatel",
+      "bellagio",
+      "locarno",
+      "suica",
+      "italia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-navigazione-laghi-lago-di-como-bellagio-varenna-lago-di-garda-desenzano-riva",
+        "nome": "Redes do Lago de Como (Como – Cernobbio – Bellagio – Varenna – Menaggio – Colico) e Lago de Garda (Desenzano – Sirmione – Malcesine – Riva del Garda)",
+        "status": "operacao",
+        "extensao_km": 360,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-binacional-lago-maggiore-locarno-stresa-lago-de-lugano-lago-de-neuchatel",
+        "nome": "Redes Binacionais do Lago Maggiore (Locarno – Ascona – Intra – Laveno – Ilhas Borromeu – Stresa), Lago de Lugano (SNL) e Três Lagos do Jura (Neuchâtel – Biel – Murten)",
+        "status": "operacao",
+        "extensao_km": 280,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+    "slug": "dfds-p-o-irish-ferries-dover-calais-dunkerque-newhaven-dieppe-canal-da-mancha-ijmuiden-newcastle-hoek-van-holland-harwich-europa",
+    "nome_pt": "Grandes Pontes Marítimas do Canal da Mancha e Mar do Norte — Dover–Calais/Dunkerque (DFDS, P&O e Irish Ferries), Newhaven–Dieppe, Hoek van Holland–Harwich (Stena Line) e Amsterdã/IJmuiden–Newcastle (Reino Unido, França e Países Baixos)",
+    "nome_en": "English Channel & North Sea Maritime Highways — Dover–Calais/Dunkirk (DFDS, P&O & Irish Ferries), Newhaven–Dieppe, Hook of Holland–Harwich (Stena Line) & Amsterdam/IJmuiden–Newcastle (UK, France & Netherlands)",
+    "pais": "Reino Unido, França e Países Baixos",
+    "cidade": "Dover / Calais / Dunkerque / Dieppe / Hoek van Holland / Harwich",
+    "uf": "Canal da Mancha e Mar do Norte",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "DFDS Seaways / P&O Ferries / Irish Ferries / Stena Line (Dutchflyer Rail & Sail) / Transmanche Ferries",
+    "inauguracao": "1854 (primeiros vapores ferroviários regulares no Estreito de Dover e rota Harwich–Holanda)",
+    "extensao_km": 1190,
+    "bitola": "Autoestrada Marítima Intercontinental de Alta Capacidade (Superferries Híbridos P&O Pioneer/Liberté de 230 m e Stena Hollandica/Britannica de 240 m)",
+    "eletrificacao": "Superferries Híbridos Diesel-Bateria de Dupla Proa (P&O Pioneer e P&O Liberté de 8,8 MWh no Estreito de Dover) e Conexão Elétrica de Terra (Shore Power)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 45000,
+    "ano_referencia": 2026,
+    "investimento": "€ 420 milhões (entrada em operação dos maiores ferries híbridos de dupla proa do mundo P&O Pioneer e P&O Liberté na rota Dover–Calais e expansão do terminal de Calais)",
+    "proximas_entregas": "Implantação de infraestrutura megawatt de recarga elétrica nos portos de Dover e Calais para operação zero-emissão no Estreito de Dover",
+    "resumo_pt": "O corredor marítimo internacional de passageiros e veículos mais movimentado da Europa Ocidental através do Estreito de Dover (Pas-de-Calais), Canal da Mancha e sul do Mar do Norte: concentra até 50 travessias diárias entre o Porto de Dover (Inglaterra) e os portos franceses de Calais e Dunkerque operadas pela DFDS, Irish Ferries e pelos novos superferries híbridos de dupla proa P&O Pioneer e P&O Liberté, somadas à ligação clássica Newhaven–Dieppe (integrada aos trens Londres–Paris) e às duas grandes pontes ferro-marítimas anglo-holandesas do Mar do Norte — o serviço integrado Rail & Sail ('Dutchflyer') da Stena Line entre Harwich International e Hoek van Holland (conectado diretamente ao metrô RET de Roterdã) e a linha DFDS entre IJmuiden (Amsterdã) e Newcastle (North Shields).",
+    "resumo_en": "Western Europe's busiest international passenger and vehicle maritime corridor across the Strait of Dover, English Channel, and southern North Sea: features up to 50 daily sailings between Dover and Calais/Dunkirk operated by DFDS, Irish Ferries, and P&O's new 230 m double-ended hybrid superferries (P&O Pioneer and P&O Liberté), alongside the Newhaven–Dieppe crossing and the two major Anglo-Dutch North Sea routes—Stena Line's Rail & Sail service between Harwich International and Hook of Holland and DFDS between Amsterdam (IJmuiden) and Newcastle.",
+    "lat": 51.1279,
+    "lon": 1.3398,
+    "zoom_inicial": 6,
+    "fontes": [
+      "Port of Dover & Port Boulogne Calais — Cross-Channel Ferry Traffic & Hybrid Fleet Report 2026",
+      "Stena Line (Harwich–Hoek van Holland) & DFDS (IJmuiden–Newcastle / Newhaven–Dieppe) — 2026"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "ferry-hibrido",
+      "canal-da-mancha",
+      "dover",
+      "calais",
+      "dunkerque",
+      "dieppe",
+      "harwich",
+      "hoek-van-holland",
+      "reino-unido",
+      "franca",
+      "paises-baixos"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-estreito-de-dover-canal-da-mancha-dover-calais-dunkerque-newhaven-dieppe",
+        "nome": "Eixo Estreito de Dover e Canal da Mancha (DFDS, P&O & Irish Ferries): Dover – Calais + Dover – Dunkerque + Newhaven – Dieppe",
+        "status": "operacao",
+        "extensao_km": 270,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-mar-do-norte-anglo-holandesa-harwich-hoek-van-holland-ijmuiden-newcastle",
+        "nome": "Eixo Anglo-Holandês do Mar do Norte (Stena Line Rail & Sail e DFDS): Harwich International – Hoek van Holland (Roterdã) + IJmuiden (Amsterdã) – Newcastle (North Shields)",
+        "status": "operacao",
+        "extensao_km": 920,
+        "estacoes": 2
+      }
+    ]
   }
 ]
