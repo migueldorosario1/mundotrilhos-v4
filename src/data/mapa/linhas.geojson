@@ -52630,6 +52630,400 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-txdot-galveston-port-bolivar-port-aransas-mobile-bay-ferry",
+        "nome": "Travessias Ro-Ro do Texas & Baía de Mobile (Galveston – Port Bolivar, Port Aransas – Harbor Island e Fort Morgan – Dauphin Island)",
+        "sistema_id": "txdot-galveston-port-bolivar-port-aransas-ferries-mobile-bay-dauphin-island-key-west-express-golfo-do-mexico-eua",
+        "sistema_nome": "Ferries Costeiros do Golfo do México (Texas, Alabama e Flórida, EUA)",
+        "pais": "Estados Unidos",
+        "cidade": "Galveston / Port Aransas / Dauphin Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 190,
+        "bitola": "Ferries Rodoviários Ro-Ro 24h",
+        "eletrificacao": "Híbrido Diesel-Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.0686,
+            27.8406
+          ],
+          [
+            -94.7794,
+            29.3631
+          ],
+          [
+            -94.7694,
+            29.3908
+          ],
+          [
+            -88.0758,
+            30.2489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-key-west-express-fort-myers-marco-island-key-west-dry-tortugas",
+        "nome": "Expresso do Sudoeste da Flórida & Dry Tortugas (Fort Myers Beach – Marco Island – Key West – Fort Jefferson / Dry Tortugas)",
+        "sistema_id": "txdot-galveston-port-bolivar-port-aransas-ferries-mobile-bay-dauphin-island-key-west-express-golfo-do-mexico-eua",
+        "sistema_nome": "Ferries Costeiros do Golfo do México (Texas, Alabama e Flórida, EUA)",
+        "pais": "Estados Unidos",
+        "cidade": "Fort Myers Beach / Marco Island / Key West / Dry Tortugas",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 390,
+        "bitola": "Catamarãs a Jato de Alta Velocidade",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.9469,
+            26.4569
+          ],
+          [
+            -81.7322,
+            25.9597
+          ],
+          [
+            -81.8022,
+            24.5614
+          ],
+          [
+            -82.8733,
+            24.6286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ncdot-outer-banks-hatteras-ocracoke-cedar-island-swan-quarter",
+        "nome": "Autoestrada Marítima dos Outer Banks NC-12 (Hatteras – Ilha de Ocracoke – Cedar Island / Swan Quarter)",
+        "sistema_id": "nc-dot-outer-banks-ferries-hatteras-ocracoke-cedar-island-jamestown-scotland-ferry-potomac-water-taxi-va-nc-md-dc-eua",
+        "sistema_nome": "North Carolina Ferry System, Jamestown–Scotland Ferry e Potomac Water Taxi (EUA)",
+        "pais": "Estados Unidos",
+        "cidade": "Hatteras / Ocracoke / Cedar Island / Swan Quarter",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 240,
+        "bitola": "Autoestrada Marítima de Ilhas-Barreira Ro-Pax",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.7025,
+            35.2078
+          ],
+          [
+            -75.9869,
+            35.1158
+          ],
+          [
+            -76.3142,
+            35.0189
+          ],
+          [
+            -76.3408,
+            35.3886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-jamestown-scotland-ferry-james-river-potomac-water-taxi-dc-alexandria",
+        "nome": "Travessias do Rio James & Rio Potomac (Jamestown – Scotland VA e Georgetown / The Wharf D.C. – Alexandria – National Harbor)",
+        "sistema_id": "nc-dot-outer-banks-ferries-hatteras-ocracoke-cedar-island-jamestown-scotland-ferry-potomac-water-taxi-va-nc-md-dc-eua",
+        "sistema_nome": "North Carolina Ferry System, Jamestown–Scotland Ferry e Potomac Water Taxi (EUA)",
+        "pais": "Estados Unidos",
+        "cidade": "Williamsburg / Washington D.C. / Alexandria / National Harbor",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150,
+        "bitola": "Ferry Fluvial Ro-Ro 24h e Catamarãs Fluviais",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.7867,
+            37.2219
+          ],
+          [
+            -76.7989,
+            37.1878
+          ],
+          [
+            -77.0392,
+            38.8039
+          ],
+          [
+            -77.0261,
+            38.8789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mbta-boston-harbor-hingham-hull-charlestown-salem-provincetown",
+        "nome": "MBTA Boat & Cape Cod Fast Ferry (Hingham / Hull – Long Wharf / Boston – Charlestown – Salem – Provincetown)",
+        "sistema_id": "mbta-boston-harbor-ferries-hingham-hull-charlestown-lynn-provincetown-fast-ferry-champlain-ferries-vt-ny-ma-eua",
+        "sistema_nome": "MBTA Boat & Provincetown Fast Ferry e Lake Champlain Ferries (EUA)",
+        "pais": "Estados Unidos",
+        "cidade": "Boston / Hingham / Hull / Salem / Provincetown",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 185,
+        "bitola": "Catamarãs Metropolitanos de Alta Velocidade",
+        "eletrificacao": "Diesel Marítimo EPA Tier 4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.9197,
+            42.2531
+          ],
+          [
+            -71.0489,
+            42.3592
+          ],
+          [
+            -71.0519,
+            42.3736
+          ],
+          [
+            -70.8808,
+            42.5214
+          ],
+          [
+            -70.1819,
+            42.0503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lake-champlain-ferries-grand-isle-plattsburgh-burlington-charlotte-essex",
+        "nome": "Travessias Interestaduais do Lago Champlain (Grand Isle VT – Plattsburgh NY e Charlotte VT – Essex NY)",
+        "sistema_id": "mbta-boston-harbor-ferries-hingham-hull-charlestown-lynn-provincetown-fast-ferry-champlain-ferries-vt-ny-ma-eua",
+        "sistema_nome": "MBTA Boat & Provincetown Fast Ferry e Lake Champlain Ferries (EUA)",
+        "pais": "Estados Unidos",
+        "cidade": "Grand Isle / Plattsburgh / Charlotte / Essex",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 125,
+        "bitola": "Ferries Quebra-Gelo Ro-Pax 24h",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.3489,
+            44.6914
+          ],
+          [
+            -73.3853,
+            44.6858
+          ],
+          [
+            -73.28,
+            44.3019
+          ],
+          [
+            -73.3508,
+            44.3106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-stq-rio-sao-lourenco-sorel-tracy-ile-aux-coudres-riviere-du-loup-saint-simeon",
+        "nome": "Travessias do Rio e Estuário de São Lourenço (Sorel-Tracy – Saint-Ignace, Saint-Joseph – Île-aux-Coudres e Rivière-du-Loup – Saint-Siméon)",
+        "sistema_id": "stq-sorel-tracy-saint-ignace-isle-aux-coudres-riviere-du-loup-blanc-sablon-ctma-iles-de-la-madeleine-quebec-canada",
+        "sistema_nome": "Société des traversiers du Québec (STQ) e CTMA Îles-de-la-Madeleine (Canadá)",
+        "pais": "Canadá",
+        "cidade": "Sorel-Tracy / Île-aux-Coudres / Rivière-du-Loup / Saint-Siméon",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320,
+        "bitola": "Ferries Quebra-Gelo Ro-Pax STQ",
+        "eletrificacao": "GNL e Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.1169,
+            46.0469
+          ],
+          [
+            -70.3719,
+            47.4208
+          ],
+          [
+            -69.5586,
+            47.8442
+          ],
+          [
+            -69.8736,
+            47.8386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-golfo-sao-lourenco-anticosti-basse-cote-nord-blanc-sablon-ctma-madeleine",
+        "nome": "Golfo de São Lourenço, Anticosti & Ilhas da Madalena (Sept-Îles – Havre-Saint-Pierre – Anticosti – Blanc-Sablon e Souris PEI – Cap-aux-Meules)",
+        "sistema_id": "stq-sorel-tracy-saint-ignace-isle-aux-coudres-riviere-du-loup-blanc-sablon-ctma-iles-de-la-madeleine-quebec-canada",
+        "sistema_nome": "Société des traversiers du Québec (STQ) e CTMA Îles-de-la-Madeleine (Canadá)",
+        "pais": "Canadá",
+        "cidade": "Sept-Îles / Port-Menier / Blanc-Sablon / Cap-aux-Meules",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 960,
+        "bitola": "Cabotagem Subártica e Ferry Insular Ro-Pax",
+        "eletrificacao": "Diesel Marítimo Polar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.3758,
+            50.2019
+          ],
+          [
+            -64.3519,
+            49.8186
+          ],
+          [
+            -57.1456,
+            51.4189
+          ],
+          [
+            -61.8572,
+            47.3794
+          ],
+          [
+            -62.2489,
+            46.3514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-dempster-mackenzie-yukon-river-ferries-tsiigehtchic-fort-simpson-dawson-city",
+        "nome": "Travessias Fluviais Árticas da Dempster, Mackenzie & Top of the World Highways (Fort Simpson – Tsiigehtchic / Inuvik – Dawson City)",
+        "sistema_id": "nwt-mackenzie-liard-peel-river-ferries-fort-providence-fort-simpson-inuvik-yukon-george-black-ferry-dawson-city-canada",
+        "sistema_nome": "Ferries Subárticos e Árticos dos Rios Mackenzie, Liard, Peel e Yukon e Kootenay Lake Ferry (Canadá)",
+        "pais": "Canadá",
+        "cidade": "Fort Simpson / Tsiigehtchic / Fort McPherson / Dawson City",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 920,
+        "bitola": "Ferries Fluviais Árticos de Rodovia",
+        "eletrificacao": "Diesel Ártico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.3397,
+            61.8489
+          ],
+          [
+            -133.7492,
+            67.4439
+          ],
+          [
+            -134.8819,
+            67.3394
+          ],
+          [
+            -139.4389,
+            64.0631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bc-inland-ferries-kootenay-lake-balfour-kootenay-bay-upper-arrow-lake",
+        "nome": "BC Inland Ferries — Lago Kootenay & Lago Upper Arrow (Balfour – Kootenay Bay e Shelter Bay – Galena Bay)",
+        "sistema_id": "nwt-mackenzie-liard-peel-river-ferries-fort-providence-fort-simpson-inuvik-yukon-george-black-ferry-dawson-city-canada",
+        "sistema_nome": "Ferries Subárticos e Árticos dos Rios Mackenzie, Liard, Peel e Yukon e Kootenay Lake Ferry (Canadá)",
+        "pais": "Canadá",
+        "cidade": "Balfour / Kootenay Bay / Nakusp / Revelstoke",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 220,
+        "bitola": "Ferries Lacustres Internos Gratuitos",
+        "eletrificacao": "Híbrido / Futuro 100% Elétrico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.9539,
+            49.6242
+          ],
+          [
+            -116.8672,
+            49.6694
+          ],
+          [
+            -117.8825,
+            50.6358
+          ]
+        ]
+      }
     }
   ]
 }
