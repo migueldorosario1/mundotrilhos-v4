@@ -1478,13 +1478,13 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.614 páginas estáticas geradas** (`npm run build` com código 0).
 - **Próxima Ronda (#152 / Ordem 148 da Fila)**: `HIDRO-SUDESTE-ASIATICO-MEKONG-BORNEU-CELEBES-III` (Fase Hidroviária Mundial #38 — Sudeste Asiático Fluvial e Insular III: Rio Mekong, Bornéu, Molucas e Filipinas Meridionais).
 
-
-
-
-
-
-
-
-
-
-
+- [2026-11-15 14:53 BRT] [ANTIGRAVITY] #153 Ronda #152 — Fase Hidroviária Mundial #38 (`HIDRO-SUDESTE-ASIATICO-MEKONG-BORNEU-CELEBES-III` — Ordem 148 da Fila: Sudeste Asiático Fluvial e Insular III: Rio Mekong, Bornéu, Molucas e Filipinas Meridionais — Marco Histórico Exato de 1.350 Linhas em Operação!):
+  - **Sistemas adicionados em operação (`tipo: 'barco'`, cor `#00b8d4` Ciano-Turquesa Marítimo Vivo, `+4.110 km`, `+10 linhas`, `+25 terminais`)**:
+    1. `mekong-river-express-phnom-penh-chau-doc-luang-prabang-huay-xai-tonle-sap-camboja-vietna-laos` (🇰🇭🇻🇳🇱🇦 Camboja, Vietnã e Laos — Expresso Fluvial do Rio Mekong Phnom Penh–Châu Đốc, Lago Tonlé Sap Phnom Penh–Siem Reap e Alto Mekong Luang Prabang–Pakbeng–Huay Xai, `980 km`, 2 linhas, 5 terminais)
+    2. `sarawak-rajang-river-express-boats-sibu-kapit-kuching-tawau-nunukan-tarakan-borneu-malasia-indonesia` (🇲🇾🇮🇩 Malásia e Indonésia — Express Boats do Rio Rajang Sibu–Kanowit–Song–Kapit e Kuching em Sarawak e Ferries Internacionais do Mar de Celebes Tawau–Nunukan–Tarakan em Bornéu, `740 km`, 2 linhas, 5 terminais)
+    3. `pelni-asdp-molucas-bitung-ternate-tidore-ambon-banda-kupang-rote-larantuka-indonesia` (🇮🇩 Indonésia — Ferries ASDP/PELNI das Ilhas Molucas, Sulawesi do Norte e Sonda Oriental Bitung–Ternate–Tidore, Ambon–Saparua–Banda Neira e Kupang–Ilha de Rote–Larantuka, `1.450 km`, 2 linhas, 5 terminais)
+    4. `aleson-montenegro-zamboanga-basilan-jolo-tawi-tawi-bongao-davao-samal-island-ferries-filipinas` (🇵🇭 Filipinas — Ferries de Mindanau e Arquipélago de Sulu Zamboanga–Isabela/Lamitan (Basilan)–Jolo (Sulu)–Bongao (Tawi-Tawi) e Balsas Ro-Ro Davao–Ilha de Samal, `680 km`, 2 linhas, 5 terminais)
+    5. `sihanoukville-koh-rong-koh-rong-samloem-kampot-kep-koh-tonsay-speed-ferries-camboja` (🇰🇭 Camboja — Speed Ferries do Golfo da Tailândia Sihanoukville–Koh Rong–Koh Rong Samloem, Porto Turístico Internacional de Kampot e Barcas Kep–Ilha Koh Tonsay, `260 km`, 2 linhas, 5 terminais)
+  - **Fila reabastecida**: adicionada a **Ordem 153 (`HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-X` — Fase Hidroviária Brasil #10: Hidrovias do Rio Xingu, Rio Uruguai RS, Litoral CE/RN/PB, Pantanal Norte MT e Lago de Furnas MG)**.
+  - **Totais em produção**: **964 sistemas** (**948 em operação**, sendo **228 sistemas de barcos/ferries**), **1.369 linhas** (**1.350 em operação** — marco histórico exato de **1.350 linhas em operação**!, sendo **455 hidroviárias**), **2.375 estações e terminais** (**941 terminais hidroviários**) e **2.624 páginas estáticas geradas**.
+  - **Próxima ronda (#153)**: **Ordem 149 (`HIDRO-OCEANIA-MELANESIA-MICRONESIA-POLINESIA-NOVA-ZELANDIA-III` — Fase Hidroviária Mundial #39: Oceania, Melanésia, Micronésia, Polinésia e Nova Zelândia III)**.
