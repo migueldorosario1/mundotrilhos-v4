@@ -43921,6 +43921,344 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-spirit-of-tasmania-estreito-de-bass-geelong-devonport-kangaroo-island",
+        "nome": "Ponte Marítima do Estreito de Bass e Kangaroo Island (Spirit of Tasmania Geelong – Devonport & SeaLink Cape Jervis – Penneshaw)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-sealink-kangaroo-island-rottnest-express-perth-australia",
+        "sistema_nome": "Spirit of Tasmania (Geelong/Melbourne–Devonport), SeaLink Kangaroo Island (Adelaide) e Transperth Ferry / Rottnest Express (Perth, Austrália)",
+        "pais": "Austrália",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 485.0,
+        "bitola": "Autoestrada marítima nacional do Estreito de Bass (TT-Line Spirit of Tasmania)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.3655,
+            -38.1085
+          ],
+          [
+            145.5,
+            -39.5
+          ],
+          [
+            146.3625,
+            -41.1785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-transperth-swan-river-elizabeth-quay-fremantle-rottnest-island",
+        "nome": "Hidrovia do Rio Swan e Ilha de Rottnest (Elizabeth Quay, Perth – South Perth – Porto de Fremantle – Thompson Bay, Rottnest Island)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-sealink-kangaroo-island-rottnest-express-perth-australia",
+        "sistema_nome": "Spirit of Tasmania (Geelong/Melbourne–Devonport), SeaLink Kangaroo Island (Adelaide) e Transperth Ferry / Rottnest Express (Perth, Austrália)",
+        "pais": "Austrália",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 55.0,
+        "bitola": "Hidrovia metropolitana do Rio Swan e Rottnest Island (Transperth / Rottnest Express)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.8565,
+            -31.9585
+          ],
+          [
+            115.8515,
+            -31.9725
+          ],
+          [
+            115.7415,
+            -32.0525
+          ],
+          [
+            115.5415,
+            -31.9965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ponte-maritima-tahiti-moorea-papeete-vaiare-aremiti-terevau",
+        "nome": "Expresso Metropolitano Tahiti–Moorea — Aremiti / Terevau / Vaeara'i (Gare Maritime de Papeete – Terminal de Vaiare, Moorea)",
+        "sistema_id": "aremiti-terevau-vaearai-papeete-moorea-apetahi-express-bora-bora-raiatea-huahine-polinesia-francesa",
+        "sistema_nome": "Ferries Rápidos de Tahiti–Moorea (Aremiti, Terevau e Vaeara'i) e Expresso das Ilhas de Sotavento Apetahi Express (Papeete–Huahine–Raiatea–Bora Bora, Polinésia Francesa)",
+        "pais": "Polinésia Francesa (França)",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 25.0,
+        "bitola": "Ponte marítima de alta frequência do Canal de Moorea (Aremiti / Terevau)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -149.5695,
+            -17.5355
+          ],
+          [
+            -149.7765,
+            -17.5235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-apetahi-express-ilhas-de-sotavento-papeete-huahine-raiatea-bora-bora",
+        "nome": "Expresso das Ilhas de Sotavento — Apetahi Express (Papeete, Tahiti – Huahine – Uturoa, Raiatea – Taha'a – Vaitape, Bora Bora)",
+        "sistema_id": "aremiti-terevau-vaearai-papeete-moorea-apetahi-express-bora-bora-raiatea-huahine-polinesia-francesa",
+        "sistema_nome": "Ferries Rápidos de Tahiti–Moorea (Aremiti, Terevau e Vaeara'i) e Expresso das Ilhas de Sotavento Apetahi Express (Papeete–Huahine–Raiatea–Bora Bora, Polinésia Francesa)",
+        "pais": "Polinésia Francesa (França)",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 290.0,
+        "bitola": "Corredor marítimo de alta velocidade das Ilhas da Sociedade (Apetahi Express)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -149.5695,
+            -17.5355
+          ],
+          [
+            -151.0285,
+            -16.7095
+          ],
+          [
+            -151.4425,
+            -16.7285
+          ],
+          [
+            -151.7515,
+            -16.5045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-fiji-ro-pax-suva-natovi-nabouwalu-savusavu-taveuni",
+        "nome": "Tronco Interinsular de Fiji (Porto de Suva / Natovi, Viti Levu – Nabouwalu / Savusavu, Vanua Levu – Ilha de Taveuni)",
+        "sistema_id": "goundar-shipping-patterson-brothers-suva-natovi-savusavu-taveuni-yasawa-flyer-denarau-fiji",
+        "sistema_nome": "Ferries Interinsulares de Fiji — Goundar, Patterson Brothers e Interlink (Suva/Natovi–Vanua Levu–Savusavu–Taveuni) e Yasawa Flyer (Port Denarau, Fiji)",
+        "pais": "Fiji",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320.0,
+        "bitola": "Autoestrada marítima interinsular do Mar de Koro (Goundar / Patterson Brothers)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            178.4235,
+            -18.1325
+          ],
+          [
+            178.6855,
+            -17.6785
+          ],
+          [
+            178.6985,
+            -16.9925
+          ],
+          [
+            179.2815,
+            -16.7785
+          ],
+          [
+            179.9685,
+            -16.7985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-fiji-yasawa-flyer-port-denarau-ilhas-mamanuca-yasawa",
+        "nome": "Expresso de Catamarãs do Oeste — Yasawa Flyer (Terminal de Port Denarau, Nadi – Ilhas Mamanuca – Cadeia das Ilhas Yasawa)",
+        "sistema_id": "goundar-shipping-patterson-brothers-suva-natovi-savusavu-taveuni-yasawa-flyer-denarau-fiji",
+        "sistema_nome": "Ferries Interinsulares de Fiji — Goundar, Patterson Brothers e Interlink (Suva/Natovi–Vanua Levu–Savusavu–Taveuni) e Yasawa Flyer (Port Denarau, Fiji)",
+        "pais": "Fiji",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 160.0,
+        "bitola": "Corredor de catamarãs rápidos de Mamanuca e Yasawa (South Sea Cruises)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            177.3715,
+            -17.7725
+          ],
+          [
+            177.1985,
+            -17.6525
+          ],
+          [
+            177.2685,
+            -17.1685
+          ],
+          [
+            177.5185,
+            -16.8825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ssc-estreito-de-apolima-mulifanua-upolu-salelologa-savaii-samoa",
+        "nome": "Ponte Marítima do Estreito de Apolima — SSC (Terminal de Mulifanua, Upolu – Terminal de Salelologa, Savai'i)",
+        "sistema_id": "samoa-shipping-corporation-mulifanua-upolu-salelologa-savaii-lady-samoa-pago-pago-samoa",
+        "sistema_nome": "Samoa Shipping Corporation — SSC (Ponte Marítima Mulifanua Upolu–Salelologa Savai'i e Linha Internacional Apia–Pago Pago, Samoa e Samoa Americana)",
+        "pais": "Samoa",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 30.0,
+        "bitola": "Travessia pública ro-pax do Estreito de Apolima (MV Lady Samoa III / IV)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -172.0365,
+            -13.8315
+          ],
+          [
+            -172.2215,
+            -13.7395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ssc-internacional-apia-samoa-pago-pago-samoa-americana",
+        "nome": "Linha Internacional da Linha de Data — MV Lady Naomi (Porto de Apia, Samoa – Porto de Pago Pago, Tutuila, Samoa Americana)",
+        "sistema_id": "samoa-shipping-corporation-mulifanua-upolu-salelologa-savaii-lady-samoa-pago-pago-samoa",
+        "sistema_nome": "Samoa Shipping Corporation — SSC (Ponte Marítima Mulifanua Upolu–Salelologa Savai'i e Linha Internacional Apia–Pago Pago, Samoa e Samoa Americana)",
+        "pais": "Samoa",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 165.0,
+        "bitola": "Rota marítima internacional das Ilhas Samoanas (MV Lady Naomi)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -171.7585,
+            -13.8285
+          ],
+          [
+            -170.7015,
+            -14.2755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-betico-2-sul-noumea-kuto-ile-des-pins-nova-caledonia",
+        "nome": "Expresso da Grande Lagoa Sul — HSC Betico 2 (Gare Maritime des Îles, Nouméa – Baía de Kuto, Île des Pins)",
+        "sistema_id": "betico-2-noumea-ile-des-pins-ilhas-loyalty-lifou-mare-ouvea-nova-caledonia",
+        "sistema_nome": "Catamarã de Alta Velocidade Betico 2 (Nouméa – Île des Pins – Ilhas Loyalty: Maré, Lifou e Ouvéa, Nova Caledônia)",
+        "pais": "Nova Caledônia (França)",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 110.0,
+        "bitola": "Hidrovia rápida da Grande Lagoa da Nova Caledônia UNESCO (HSC Betico 2)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            166.4415,
+            -22.2735
+          ],
+          [
+            167.4425,
+            -22.6585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-betico-2-ilhas-loyalty-noumea-mare-lifou-ouvea",
+        "nome": "Corredor das Ilhas Loyalty — HSC Betico 2 (Nouméa – Porto de Tadine, Maré – Porto de Wé, Lifou – Atol de Ouvéa)",
+        "sistema_id": "betico-2-noumea-ile-des-pins-ilhas-loyalty-lifou-mare-ouvea-nova-caledonia",
+        "sistema_nome": "Catamarã de Alta Velocidade Betico 2 (Nouméa – Île des Pins – Ilhas Loyalty: Maré, Lifou e Ouvéa, Nova Caledônia)",
+        "pais": "Nova Caledônia (França)",
+        "continente": "Oceania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 315.0,
+        "bitola": "Corredor marítimo de alta velocidade das Ilhas Loyalty (HSC Betico 2)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            166.4415,
+            -22.2735
+          ],
+          [
+            167.8785,
+            -21.5515
+          ],
+          [
+            167.2585,
+            -20.9165
+          ],
+          [
+            166.5685,
+            -20.6425
+          ]
+        ]
+      }
     }
   ]
 }

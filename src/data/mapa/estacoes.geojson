@@ -36611,6 +36611,366 @@
           33.7025
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-spirit-of-tasmania-quay-geelong-au",
+        "nome": "Spirit of Tasmania Quay — Porto de Geelong / Grande Melbourne (Victoria, Austrália)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-sealink-kangaroo-island-rottnest-express-perth-australia",
+        "linha_id": "linha-spirit-of-tasmania-estreito-de-bass-geelong-devonport-kangaroo-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3655,
+          -38.1085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-devonport-ferry-terminal-tasmania-au",
+        "nome": "Terminal Marítimo de Devonport — Spirit of Tasmania (Norte da Tasmânia, Austrália)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-sealink-kangaroo-island-rottnest-express-perth-australia",
+        "linha_id": "linha-spirit-of-tasmania-estreito-de-bass-geelong-devonport-kangaroo-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3625,
+          -41.1785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-elizabeth-quay-ferry-terminal-perth-au",
+        "nome": "Elizabeth Quay Ferry Terminal (Transperth & Rottnest Express — Rio Swan, Perth, Austrália)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-sealink-kangaroo-island-rottnest-express-perth-australia",
+        "linha_id": "linha-transperth-swan-river-elizabeth-quay-fremantle-rottnest-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8565,
+          -31.9585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rottnest-island-thompson-bay-jetty-au",
+        "nome": "Píer de Thompson Bay — Rottnest Island (Fremantle / Perth, Austrália Ocidental)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-sealink-kangaroo-island-rottnest-express-perth-australia",
+        "linha_id": "linha-transperth-swan-river-elizabeth-quay-fremantle-rottnest-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5415,
+          -31.9965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-papeete-tahiti-pf",
+        "nome": "Gare Maritime de Papeete (Aremiti, Terevau & Apetahi Express — Tahiti, Polinésia Francesa)",
+        "sistema_id": "aremiti-terevau-vaearai-papeete-moorea-apetahi-express-bora-bora-raiatea-huahine-polinesia-francesa",
+        "linha_id": "linha-ponte-maritima-tahiti-moorea-papeete-vaiare-aremiti-terevau",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5695,
+          -17.5355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-quai-de-vaiare-moorea-pf",
+        "nome": "Terminal de Ferries de Vaiare — Ilha de Moorea (Polinésia Francesa)",
+        "sistema_id": "aremiti-terevau-vaearai-papeete-moorea-apetahi-express-bora-bora-raiatea-huahine-polinesia-francesa",
+        "linha_id": "linha-ponte-maritima-tahiti-moorea-papeete-vaiare-aremiti-terevau",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7765,
+          -17.5235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-uturoa-raiatea-pf",
+        "nome": "Gare Maritime d'Uturoa — Ilha de Raiatea (Ilhas de Sotavento, Polinésia Francesa)",
+        "sistema_id": "aremiti-terevau-vaearai-papeete-moorea-apetahi-express-bora-bora-raiatea-huahine-polinesia-francesa",
+        "linha_id": "linha-apetahi-express-ilhas-de-sotavento-papeete-huahine-raiatea-bora-bora",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4425,
+          -16.7285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-quai-de-vaitape-bora-bora-pf",
+        "nome": "Embarcadouro Central de Vaitape — Ilha de Bora Bora (Apetahi Express, Polinésia Francesa)",
+        "sistema_id": "aremiti-terevau-vaearai-papeete-moorea-apetahi-express-bora-bora-raiatea-huahine-polinesia-francesa",
+        "linha_id": "linha-apetahi-express-ilhas-de-sotavento-papeete-huahine-raiatea-bora-bora",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.7515,
+          -16.5045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-suva-narain-jetty-ferry-port-fj",
+        "nome": "Porto de Ferries de Suva — Narain Jetty & Natovi (Viti Levu, Fiji)",
+        "sistema_id": "goundar-shipping-patterson-brothers-suva-natovi-savusavu-taveuni-yasawa-flyer-denarau-fiji",
+        "linha_id": "linha-fiji-ro-pax-suva-natovi-nabouwalu-savusavu-taveuni",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.4235,
+          -18.1325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-savusavu-nabouwalu-ferry-wharf-vanua-levu-fj",
+        "nome": "Terminais Marítimos de Savusavu e Nabouwalu — Ilha de Vanua Levu (Fiji)",
+        "sistema_id": "goundar-shipping-patterson-brothers-suva-natovi-savusavu-taveuni-yasawa-flyer-denarau-fiji",
+        "linha_id": "linha-fiji-ro-pax-suva-natovi-nabouwalu-savusavu-taveuni",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.2815,
+          -16.7785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-denarau-passenger-terminal-nadi-fj",
+        "nome": "Terminal de Passageiros de Port Denarau — Nadi (Yasawa Flyer / South Sea Cruises, Fiji)",
+        "sistema_id": "goundar-shipping-patterson-brothers-suva-natovi-savusavu-taveuni-yasawa-flyer-denarau-fiji",
+        "linha_id": "linha-fiji-yasawa-flyer-port-denarau-ilhas-mamanuca-yasawa",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3715,
+          -17.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nanuya-lailai-blue-lagoon-yasawa-fj",
+        "nome": "Escala Insular de Nanuya Lailai / Waya — Cadeia das Ilhas Yasawa (Fiji)",
+        "sistema_id": "goundar-shipping-patterson-brothers-suva-natovi-savusavu-taveuni-yasawa-flyer-denarau-fiji",
+        "linha_id": "linha-fiji-yasawa-flyer-port-denarau-ilhas-mamanuca-yasawa",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.5185,
+          -16.8825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mulifanua-ferry-wharf-upolu-ws",
+        "nome": "Terminal de Ferries de Mulifanua — Ilha de Upolu (Samoa Shipping Corporation, Samoa)",
+        "sistema_id": "samoa-shipping-corporation-mulifanua-upolu-salelologa-savaii-lady-samoa-pago-pago-samoa",
+        "linha_id": "linha-ssc-estreito-de-apolima-mulifanua-upolu-salelologa-savaii-samoa",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.0365,
+          -13.8315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-salelologa-ferry-wharf-savaii-ws",
+        "nome": "Terminal de Ferries de Salelologa — Ilha de Savai'i (Samoa Shipping Corporation, Samoa)",
+        "sistema_id": "samoa-shipping-corporation-mulifanua-upolu-salelologa-savaii-lady-samoa-pago-pago-samoa",
+        "linha_id": "linha-ssc-estreito-de-apolima-mulifanua-upolu-salelologa-savaii-samoa",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.2215,
+          -13.7395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-apia-international-ferry-harbour-ws",
+        "nome": "Porto Internacional de Apia (MV Lady Naomi — Ilha de Upolu, Samoa)",
+        "sistema_id": "samoa-shipping-corporation-mulifanua-upolu-salelologa-savaii-lady-samoa-pago-pago-samoa",
+        "linha_id": "linha-ssc-internacional-apia-samoa-pago-pago-samoa-americana",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7585,
+          -13.8285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pago-pago-ferry-wharf-tutuila-as",
+        "nome": "Terminal Marítimo de Pago Pago — Ilha de Tutuila (Samoa Americana)",
+        "sistema_id": "samoa-shipping-corporation-mulifanua-upolu-salelologa-savaii-lady-samoa-pago-pago-samoa",
+        "linha_id": "linha-ssc-internacional-apia-samoa-pago-pago-samoa-americana",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.7015,
+          -14.2755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-des-iles-noumea-nc",
+        "nome": "Gare Maritime des Îles — Porto de Nouméa (HSC Betico 2, Nova Caledônia)",
+        "sistema_id": "betico-2-noumea-ile-des-pins-ilhas-loyalty-lifou-mare-ouvea-nova-caledonia",
+        "linha_id": "linha-betico-2-sul-noumea-kuto-ile-des-pins-nova-caledonia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4415,
+          -22.2735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-quai-de-kuto-ile-des-pins-nc",
+        "nome": "Cais da Baía de Kuto — Île des Pins / Ilha dos Pinheiros (Nova Caledônia)",
+        "sistema_id": "betico-2-noumea-ile-des-pins-ilhas-loyalty-lifou-mare-ouvea-nova-caledonia",
+        "linha_id": "linha-betico-2-sul-noumea-kuto-ile-des-pins-nova-caledonia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.4425,
+          -22.6585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-de-tadine-mare-loyalty-nc",
+        "nome": "Porto de Tadine — Ilha de Maré (Província das Ilhas Loyalty, Nova Caledônia)",
+        "sistema_id": "betico-2-noumea-ile-des-pins-ilhas-loyalty-lifou-mare-ouvea-nova-caledonia",
+        "linha_id": "linha-betico-2-ilhas-loyalty-noumea-mare-lifou-ouvea",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.8785,
+          -21.5515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-de-we-lifou-loyalty-nc",
+        "nome": "Porto de Wé — Ilha de Lifou (Província das Ilhas Loyalty, Nova Caledônia)",
+        "sistema_id": "betico-2-noumea-ile-des-pins-ilhas-loyalty-lifou-mare-ouvea-nova-caledonia",
+        "linha_id": "linha-betico-2-ilhas-loyalty-noumea-mare-lifou-ouvea",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.2585,
+          -20.9165
+        ]
+      }
     }
   ]
 }
