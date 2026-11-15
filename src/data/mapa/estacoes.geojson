@@ -48768,6 +48768,581 @@
           10.4789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bluff-ferry-terminal-stewart-island-nz",
+        "nome": "Bluff Ferry Terminal (Foveaux Strait / Southland — Nova Zelândia)",
+        "sistema_id": "stewart-island-experience-bluff-oban-east-by-west-wellington-whanganui-taupo-nova-zelandia",
+        "linha_id": "linha-foveaux-strait-bluff-oban-stewart-island-rakiura",
+        "cidade": "Bluff",
+        "pais": "Nova Zelândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal continental no porto de Bluff (extremo sul da Ilha Sul da Nova Zelândia) para os catamarãs rápidos rumo a Stewart Island / Rakiura."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3472,
+          -46.6011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-oban-halfmoon-bay-stewart-island-nz",
+        "nome": "Oban / Halfmoon Bay Ferry Terminal (Stewart Island / Rakiura — Nova Zelândia)",
+        "sistema_id": "stewart-island-experience-bluff-oban-east-by-west-wellington-whanganui-taupo-nova-zelandia",
+        "linha_id": "linha-foveaux-strait-bluff-oban-stewart-island-rakiura",
+        "cidade": "Oban (Stewart Island)",
+        "pais": "Nova Zelândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal insular em Halfmoon Bay (Oban), porta de entrada para o Parque Nacional Rakiura na terceira maior ilha da Nova Zelândia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.1286,
+          -46.8986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-wellington-queens-wharf-east-by-west-nz",
+        "nome": "Queens Wharf Ferry Terminal (East by West Electric Ferry Ika Rere — Wellington, NZ)",
+        "sistema_id": "stewart-island-experience-bluff-oban-east-by-west-wellington-whanganui-taupo-nova-zelandia",
+        "linha_id": "linha-wellington-harbour-electric-ferry-bay-of-islands-paihia-russell",
+        "cidade": "Wellington",
+        "pais": "Nova Zelândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal central no coração da orla de Wellington com carregador rápido de alta potência para o catamarã 100% elétrico Ika Rere."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7797,
+          -41.2842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-days-bay-matiu-somes-island-wharf-wellington",
+        "nome": "Days Bay Wharf & Matiu/Somes Island (Lower Hutt / Baía de Wellington — NZ)",
+        "sistema_id": "stewart-island-experience-bluff-oban-east-by-west-wellington-whanganui-taupo-nova-zelandia",
+        "linha_id": "linha-wellington-harbour-electric-ferry-bay-of-islands-paihia-russell",
+        "cidade": "Lower Hutt (Wellington)",
+        "pais": "Nova Zelândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píer histórico de Days Bay em Eastbourne (Lower Hutt) e escala na reserva científica insular de Matiu/Somes Island na Baía de Wellington."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9061,
+          -41.2811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-paihia-russell-opua-bay-of-islands-nz",
+        "nome": "Paihia, Russell & Opua Ferry Terminals (Bay of Islands, Northland — Nova Zelândia)",
+        "sistema_id": "stewart-island-experience-bluff-oban-east-by-west-wellington-whanganui-taupo-nova-zelandia",
+        "linha_id": "linha-wellington-harbour-electric-ferry-bay-of-islands-paihia-russell",
+        "cidade": "Paihia / Russell",
+        "pais": "Nova Zelândia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de barcas de passageiros e balsas de veículos que cruzam a Baía das Ilhas entre Paihia/Opua e a histórica vila de Russell (Kororāreka)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.0919,
+          -35.2811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cleveland-toondah-dunwich-stradbroke-qld",
+        "nome": "Toondah Harbour (Cleveland) & Dunwich Ferry Terminals (North Stradbroke Island — QLD, Austrália)",
+        "sistema_id": "spencer-gulf-searoads-wallaroo-lucky-bay-stradbroke-ferries-moreton-bay-tiwi-islands-darwin-australia",
+        "linha_id": "linha-moreton-bay-cleveland-dunwich-stradbroke-redland-bay-russell-island",
+        "cidade": "Cleveland / North Stradbroke Island",
+        "pais": "Austrália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de ferries Ro-Pax e water taxis da SeaLink SEQ conectando a Grande Brisbane à Ilha North Stradbroke (Minjerribah)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2719,
+          -27.5256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-redland-bay-russell-macleay-island-qld",
+        "nome": "Redland Bay, Macleay Island & Russell Island Ferry Terminals (Moreton Bay — QLD, Austrália)",
+        "sistema_id": "spencer-gulf-searoads-wallaroo-lucky-bay-stradbroke-ferries-moreton-bay-tiwi-islands-darwin-australia",
+        "linha_id": "linha-moreton-bay-cleveland-dunwich-stradbroke-redland-bay-russell-island",
+        "cidade": "Redland Bay / Russell Island",
+        "pais": "Austrália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Novos terminais integrados à rede tarifária Translink que atendem as quatro ilhas habitadas do sul da Baía de Moreton."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3069,
+          -27.6131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-wallaroo-ferry-terminal-spencer-gulf-sa",
+        "nome": "Wallaroo Ferry Terminal (Spencer Gulf Searoads / Yorke Peninsula — SA, Austrália)",
+        "sistema_id": "spencer-gulf-searoads-wallaroo-lucky-bay-stradbroke-ferries-moreton-bay-tiwi-islands-darwin-australia",
+        "linha_id": "linha-spencer-gulf-wallaroo-lucky-bay-darwin-mandorah-tiwi-islands",
+        "cidade": "Wallaroo",
+        "pais": "Austrália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal de ferries Ro-Pax de Wallaroo na Península Yorke para a travessia do Golfo Spencer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.6211,
+          -33.9278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lucky-bay-ferry-terminal-eyre-peninsula-sa",
+        "nome": "Lucky Bay Ferry Terminal (Cowell / Eyre Peninsula — SA, Austrália)",
+        "sistema_id": "spencer-gulf-searoads-wallaroo-lucky-bay-stradbroke-ferries-moreton-bay-tiwi-islands-darwin-australia",
+        "linha_id": "linha-spencer-gulf-wallaroo-lucky-bay-darwin-mandorah-tiwi-islands",
+        "cidade": "Lucky Bay (Cowell)",
+        "pais": "Austrália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal portuário de Lucky Bay na Península Eyre, Austrália Meridional."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0469,
+          -33.7061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-darwin-cullen-bay-mandorah-tiwi-islands-nt",
+        "nome": "Cullen Bay Ferry Terminal (Darwin), Mandorah & Wurrumiyanga (Ilhas Tiwi — NT, Austrália)",
+        "sistema_id": "spencer-gulf-searoads-wallaroo-lucky-bay-stradbroke-ferries-moreton-bay-tiwi-islands-darwin-australia",
+        "linha_id": "linha-spencer-gulf-wallaroo-lucky-bay-darwin-mandorah-tiwi-islands",
+        "cidade": "Darwin / Ilhas Tiwi",
+        "pais": "Austrália",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo de Cullen Bay em Darwin para a travessia de 15 minutos até Mandorah e de 2h30 até Bathurst Island nas Ilhas Tiwi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8211,
+          -12.4528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-papeete-gare-maritime-apetahi-taiti",
+        "nome": "Gare Maritime de Papeete — Terminal Apetahi Express (Ilha do Taiti — Polinésia Francesa)",
+        "sistema_id": "apetahi-express-maupiti-express-papeete-huahine-raiatea-tahaa-bora-bora-tuamotu-polinesia-francesa",
+        "linha_id": "linha-apetahi-express-papeete-huahine-raiatea-tahaa-bora-bora",
+        "cidade": "Papeete (Taiti)",
+        "pais": "Polinésia Francesa (França)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal estação hidroviária da Polinésia Francesa em Papeete, base dos catamarãs Apetahi Express, Terevau e Aremiti."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5694,
+          -17.5372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-huahine-fare-wharf-polinesia-francesa",
+        "nome": "Quai de Fare (Ilha de Huahine — Polinésia Francesa)",
+        "sistema_id": "apetahi-express-maupiti-express-papeete-huahine-raiatea-tahaa-bora-bora-tuamotu-polinesia-francesa",
+        "linha_id": "linha-apetahi-express-papeete-huahine-raiatea-tahaa-bora-bora",
+        "cidade": "Fare (Huahine)",
+        "pais": "Polinésia Francesa (França)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Cais marítimo de Fare na Ilha de Huahine, primeira escala do catamarã Apetahi Express nas Ilhas de Sotavento."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0319,
+          -16.7092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-raiatea-uturoa-gare-maritime-polinesia",
+        "nome": "Gare Maritime d'Uturoa (Ilha de Raiatea & Lagoa de Taha'a — Polinésia Francesa)",
+        "sistema_id": "apetahi-express-maupiti-express-papeete-huahine-raiatea-tahaa-bora-bora-tuamotu-polinesia-francesa",
+        "linha_id": "linha-apetahi-express-papeete-huahine-raiatea-tahaa-bora-bora",
+        "cidade": "Uturoa (Raiatea)",
+        "pais": "Polinésia Francesa (França)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Centro administrativo e portuário das Ilhas de Sotavento em Uturoa (Raiatea), compartilhando a mesma lagoa de recife com a ilha de Taha'a."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4442,
+          -16.7311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bora-bora-vaitape-ferry-wharf-polinesia",
+        "nome": "Quai de Vaitape (Ilha de Bora Bora — Polinésia Francesa)",
+        "sistema_id": "apetahi-express-maupiti-express-papeete-huahine-raiatea-tahaa-bora-bora-tuamotu-polinesia-francesa",
+        "linha_id": "linha-apetahi-express-papeete-huahine-raiatea-tahaa-bora-bora",
+        "cidade": "Vaitape (Bora Bora)",
+        "pais": "Polinésia Francesa (França)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal de catamarãs interinsulares e navettes lagunares em Vaitape, centro principal da Ilha de Bora Bora."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.7519,
+          -16.5042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-maupiti-vaiea-wharf-polinesia-francesa",
+        "nome": "Quai de Vaiea (Ilha de Maupiti — Polinésia Francesa)",
+        "sistema_id": "apetahi-express-maupiti-express-papeete-huahine-raiatea-tahaa-bora-bora-tuamotu-polinesia-francesa",
+        "linha_id": "linha-maupiti-express-raiatea-bora-bora-maupiti-tuamotu",
+        "cidade": "Maupiti",
+        "pais": "Polinésia Francesa (França)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Cais insular de Maupiti, conectado a Bora Bora e Raiatea pelo catamarã Maupiti Express através da passagem de recife de Onoiau."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2569,
+          -16.445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-suva-narain-jetty-goundar-fiji",
+        "nome": "Port of Suva — Narain Jetty (Viti Levu — Fiji)",
+        "sistema_id": "fiji-link-patterson-brothers-goundar-shipping-natovi-nabouwalu-savusavu-taveuni-kadavu-rotuma-fiji",
+        "linha_id": "linha-fiji-suva-natovi-nabouwalu-savusavu-taveuni-kadavu",
+        "cidade": "Suva",
+        "pais": "Fiji",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal principal dos grandes ferries Ro-Pax interinsulares em Suva, com saídas para Vanua Levu (Savusavu), Taveuni, Koro e Kadavu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.4256,
+          -18.1331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-natovi-jetty-patterson-fiji",
+        "nome": "Natovi Ferry Landing (Tailevu, Viti Levu — Fiji)",
+        "sistema_id": "fiji-link-patterson-brothers-goundar-shipping-natovi-nabouwalu-savusavu-taveuni-kadavu-rotuma-fiji",
+        "linha_id": "linha-fiji-suva-natovi-nabouwalu-savusavu-taveuni-kadavu",
+        "cidade": "Natovi",
+        "pais": "Fiji",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto Ro-Ro na costa leste de Viti Levu, ponto de embarque de ônibus e caminhões para a travessia até Vanua Levu e Ovalau."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.575,
+          -17.6731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nabouwalu-savusavu-ferry-jetties-vanua-levu",
+        "nome": "Nabouwalu & Savusavu Ferry Jetties (Ilha de Vanua Levu — Fiji)",
+        "sistema_id": "fiji-link-patterson-brothers-goundar-shipping-natovi-nabouwalu-savusavu-taveuni-kadavu-rotuma-fiji",
+        "linha_id": "linha-fiji-suva-natovi-nabouwalu-savusavu-taveuni-kadavu",
+        "cidade": "Nabouwalu / Savusavu",
+        "pais": "Fiji",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais portos de ferries Ro-Pax da segunda maior ilha de Fiji (Vanua Levu)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.6969,
+          -16.9931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-taveuni-waiyevo-ferry-jetty-fiji",
+        "nome": "Waiyevo / Somosomo Ferry Jetty (Ilha de Taveuni — Fiji)",
+        "sistema_id": "fiji-link-patterson-brothers-goundar-shipping-natovi-nabouwalu-savusavu-taveuni-kadavu-rotuma-fiji",
+        "linha_id": "linha-fiji-suva-natovi-nabouwalu-savusavu-taveuni-kadavu",
+        "cidade": "Taveuni",
+        "pais": "Fiji",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal portuário na 'Ilha Jardim' de Taveuni, terceira maior ilha do arquipélago fijiano."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8831,
+          -16.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-denarau-marina-yasawa-flyer-fiji",
+        "nome": "Port Denarau Passenger Terminal (Nadi / Ilhas Mamanuca & Yasawa — Fiji)",
+        "sistema_id": "fiji-link-patterson-brothers-goundar-shipping-natovi-nabouwalu-savusavu-taveuni-kadavu-rotuma-fiji",
+        "linha_id": "linha-port-denarau-mamanuca-yasawa-flyer-fiji",
+        "cidade": "Nadi (Port Denarau)",
+        "pais": "Fiji",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Mais movimentado terminal de catamarãs rápidos do Pacífico Sul, conectando Nadi às cadeias insulares de Mamanuca e Yasawa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3711,
+          -17.7719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-koror-malakal-port-palau-ferry",
+        "nome": "Malakal Port Ferry Terminal (Koror — República de Palau)",
+        "sistema_id": "micronesia-palau-state-ferries-koror-peleliu-angaur-majuro-ebeye-kwajalein-chuuk-pohnpei-pacifico",
+        "linha_id": "linha-palau-koror-malakal-peleliu-angaur-chuuk-lagoon-weno",
+        "cidade": "Koror",
+        "pais": "Palau",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto marítimo de Koror de onde partem os ferries estaduais para as ilhas históricas de Peleliu e Angaur."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4556,
+          7.3306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-peleliu-angaur-state-docks-palau",
+        "nome": "Peleliu North Dock & Angaur State Harbor (Ilhas de Peleliu e Angaur — Palau)",
+        "sistema_id": "micronesia-palau-state-ferries-koror-peleliu-angaur-majuro-ebeye-kwajalein-chuuk-pohnpei-pacifico",
+        "linha_id": "linha-palau-koror-malakal-peleliu-angaur-chuuk-lagoon-weno",
+        "cidade": "Peleliu / Angaur",
+        "pais": "Palau",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos insulares dos estados meridionais de Peleliu e Angaur na República de Palau."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2569,
+          7.0269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-weno-tonoas-chuuk-lagoon-docks-fsm",
+        "nome": "Weno, Tonoas & Fefan Lagoon Docks (Lagoa de Chuuk — Estados Federados da Micronésia)",
+        "sistema_id": "micronesia-palau-state-ferries-koror-peleliu-angaur-majuro-ebeye-kwajalein-chuuk-pohnpei-pacifico",
+        "linha_id": "linha-palau-koror-malakal-peleliu-angaur-chuuk-lagoon-weno",
+        "cidade": "Weno (Chuuk)",
+        "pais": "Micronésia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píeres de barcas pendulares que conectam as ilhas vulcânicas do interior da grande Lagoa de Chuuk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8431,
+          7.4469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ebeye-kwajalein-majuro-ferry-docks-rmi",
+        "nome": "Ebeye & Kwajalein Ferry Docks / Majuro Uliga Dock (Ilhas Marshall)",
+        "sistema_id": "micronesia-palau-state-ferries-koror-peleliu-angaur-majuro-ebeye-kwajalein-chuuk-pohnpei-pacifico",
+        "linha_id": "linha-marshall-islands-ebeye-kwajalein-majuro-tarawa-kiribati",
+        "cidade": "Ebeye / Kwajalein / Majuro",
+        "pais": "Ilhas Marshall",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais das balsas diárias de trabalhadores e moradores entre a Ilha de Ebeye e Kwajalein e píer de Uliga em Majuro."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.7372,
+          8.7806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-betio-bairiki-north-tarawa-ferry-kiribati",
+        "nome": "Betio Port & Bairiki Lagoon Ferry Wharf (Atol de Tarawa — Kiribati)",
+        "sistema_id": "micronesia-palau-state-ferries-koror-peleliu-angaur-majuro-ebeye-kwajalein-chuuk-pohnpei-pacifico",
+        "linha_id": "linha-marshall-islands-ebeye-kwajalein-majuro-tarawa-kiribati",
+        "cidade": "Tarawa",
+        "pais": "Kiribati",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de barcas e catamarãs no Atol de Tarawa conectando Betio e Bairiki às ilhotas de North Tarawa e ao Atol de Abaiang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.9269,
+          1.3569
+        ]
+      }
     }
   ]
 }

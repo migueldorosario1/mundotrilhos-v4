@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T14:51:00-03:00",
+  "atualizado_em": "2026-11-15T15:16:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2321,7 +2321,15 @@
       "pais": "Fase Hidroviária Mundial #39 — Oceania, Melanésia, Micronésia, Polinésia e Nova Zelândia III (Interislander & BlueBridge Wellington–Picton no Estreito de Cook, Stewart Island Experience Bluff–Oban e East by West Ferry Wellington na Nova Zelândia; Spencer Gulf Searoads Wallaroo–Lucky Bay e Kangaroo Island Connect na Austrália; Aremiti / Terevau Tahiti–Moorea e Apetahi Express Bora Bora–Raiatea–Huahine na Polinésia Francesa; e Patterson Brothers / Goundar Shipping Natovi–Nabouwalu em Fiji e Lady Naomi Apia–Pago Pago em Samoa)",
       "continente": "Oceania",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 153,
+      "sistemas_adicionados": [
+        "stewart-island-experience-bluff-oban-east-by-west-wellington-whanganui-taupo-nova-zelandia",
+        "spencer-gulf-searoads-wallaroo-lucky-bay-stradbroke-ferries-moreton-bay-tiwi-islands-darwin-australia",
+        "apetahi-express-maupiti-express-papeete-huahine-raiatea-tahaa-bora-bora-tuamotu-polinesia-francesa",
+        "fiji-link-patterson-brothers-goundar-shipping-natovi-nabouwalu-savusavu-taveuni-kadavu-rotuma-fiji",
+        "micronesia-palau-state-ferries-koror-peleliu-angaur-majuro-ebeye-kwajalein-chuuk-pohnpei-pacifico"
+      ]
     },
     {
       "ordem": 150,
@@ -2352,6 +2360,14 @@
       "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-X",
       "pais": "Fase Hidroviária Brasil #10 — Hidrovias, Travessias e Barcas Complementares do Brasil (Hidrovia do Rio Xingu e Baixo Amazonas Vitória do Xingu–Senador José Porfírio–Porto de Moz–Gurupá no Pará; Travessias de Balsas do Rio Uruguai na Fronteira Brasil–Argentina São Borja–Porto Mauá–Porto Soberbo–El Soberbio e Porto Xavier–San Javier no RS; Travessias Hidroviárias do Litoral do Ceará, Rio Grande do Norte e Paraíba Galinhos–Guamaré e Cabedelo–Costinha/Lucena; Lanchas e Barcas do Pantanal Norte e Rio Cuiabá/São Lourenço Barão de Melgaço–Porto Jofre em MT; e Travessias do Reservatório de Furnas e Mar de Minas Guapé–São José da Barra–Capitólio–Carmo do Rio Claro em MG)",
       "continente": "América do Sul",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 154,
+      "codigo": "HIDRO-CARIBE-AMERICA-CENTRAL-GOLFO-DO-MEXICO-PACIFICO-III",
+      "pais": "Fase Hidroviária Mundial #43 — Caribe, América Central, Golfo da Califórnia e Pacífico Mexicano III (Baja Ferries & TMC Topolobampo–La Paz e Mazatlán–La Paz no Mar de Cortés e Water Taxis de Puerto Vallarta–Yelapa no México; Ferries de Utila & Roatán Dream Ferries La Ceiba–Roatán–Utila em Honduras e Bluefields–Corn Islands na Nicarágua; L'Express des Îles Pointe-à-Pitre–Les Saintes–Marie-Galante–Dominica–Santa Lúcia nas Antilhas; Ferries del Caribe San Juan–Santo Domingo entre Porto Rico e República Dominicana; e Cayo Largo / Batabanó–Nueva Gerona em Cuba e Port-au-Prince–Jérémie/Île de la Gonâve no Haiti)",
+      "continente": "América Central e do Norte",
       "prioridade": "alta",
       "status": "pendente"
     }
