@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T04:14:00-03:00",
+  "atualizado_em": "2026-11-15T04:44:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2050,16 +2050,24 @@
         "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
         "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar"
       ]
+    },
+    {
+      "ordem": 128,
+      "pais": "Fase Hidroviária Brasil #7 — Hidrovias Regionais, Pantanal, São Francisco e Travessias Litorâneas Complementares (Travessias do Rio São Francisco Penedo–Neópolis AL/SE, Xique-Xique–Barra e Ibotirama BA, Hidrovia do Rio Paraguai Corumbá–Ladário–Porto Murtinho–Cáceres no Pantanal MS/MT, Travessias de Cananéia–Ilha Comprida–Iguape e Bertioga–Guarujá SP, Travessias de Camocim–Ilha do Amor e Delta do Parnaíba CE/PI/MA e Travessia de Rio Grande–São José do Norte no Estuário da Lagoa dos Patos RS)",
+      "codigo": "HIDRO-BRASIL-7",
+      "continente": "América do Sul",
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+        "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+        "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+        "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+        "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil"
+      ]
     }
   ],
   "fila_proximas_rondas": [
-    {
-      "ordem": 128,
-      "pais": "Fase Hidroviária Brasil #7 — Hidrovias Regionais, Pantanal, São Francisco e Travessias Litorâneas Complementares (Travessias do Rio São Francisco Penedo–Neópolis AL/SE, Xique-Xique–Barra e Ibotirama BA, Hidrovia do Rio Paraguai Corumbá–Ladário–Porto Murtinho–Cáceres no Pantanal MS/MT, Travessias de Cananéia–Ilha Comprida–Iguape e Bertioga–Guarujá SP, Travessias de Camocim–Ilha do Amor e Jijoca de Jericoacoara CE e Travessia de Rio Grande–São José do Norte no Estuário da Lagoa dos Patos RS)",
-      "codigo": "HIDRO-BRASIL-7",
-      "continente": "América do Sul",
-      "status": "pendente"
-    },
     {
       "ordem": 129,
       "pais": "Fase Hidroviária Mundial #21 — Ásia Oriental Insular e Estreitos Costeiros II (Shikoku Ferry, Jumbo Ferry Kobe–Takamatsu–Shodoshima, Nankai Ferry Wakayama–Tokushima e Tokyo-Wan Ferry Kurihama–Kanaya no Japão; Ferries de Incheon–Baengnyeongdo–Yeonpyeongdo, Mokpo–Hongdo–Heuksando e Pohang–Ulleungdo na Coreia do Sul; e Ferries de Taiwan Kaohsiung–Cijin Island, Tamsui–Bali em Taipei e Pingtung Donggang–Xiaoliuqiu em Taiwan)",

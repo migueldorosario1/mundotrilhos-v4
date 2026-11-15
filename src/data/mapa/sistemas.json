@@ -32226,5 +32226,395 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+    "slug": "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+    "nome_pt": "Travessias Hidroviárias do Rio São Francisco (Balsas Penedo–Neópolis AL/SE, Santana do São Francisco–Penedo e Xique-Xique–Barra / Ibotirama BA, Brasil)",
+    "nome_en": "São Francisco River Ferry Crossings (Penedo–Neópolis AL/SE, Santana do São Francisco & Xique-Xique–Barra / Ibotirama BA, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Penedo e Piaçabuçu (Alagoas); Neópolis, Santana do São Francisco e Brejo Grande (Sergipe); Xique-Xique, Barra, Ibotirama e Bom Jesus da Lapa (Bahia, Brasil)",
+    "uf": "AL / SE / BA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Operadoras Autorizadas pela ANTAQ / Marinha do Brasil (Balsas Ro-Pax e Lanchas Penedo–Neópolis e Santana do São Francisco) & Navegação do Médio São Francisco (Xique-Xique–Barra BA)",
+    "inauguracao": "1867 (Navegação a vapor imperial no Baixo e Médio Rio São Francisco; operação contínua de balsas veiculares e lanchas entre Penedo AL e Neópolis/Carrapicho SE)",
+    "extensao_km": 420.0,
+    "bitola": "Calha do Baixo Rio São Francisco (Divisa Alagoas–Sergipe) e Médio Rio São Francisco (Oeste e Vale São-Franciscano da Bahia)",
+    "eletrificacao": "Conjuntos empurrador-balsa ro-pax para caminhões, ônibus e automóveis e lanchas rápidas e barcos de madeira tradicionais de passageiros ('voadeiras' e tototós)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 14200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 65 milhões (requalificação das rampas hidroviárias de Penedo, Neópolis e Santana do São Francisco pelo DNIT/Codevasf e dragagem do canal navegável do Médio São Francisco)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-dnit-codevasf-hidrovia-sao-francisco"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização dos atracadouros flutuantes da Codevasf/DNIT no Baixo São Francisco (Penedo, Neópolis e Piaçabuçu) e sinalização náutica entre Barra e Xique-Xique.",
+      "en": "Modernization of floating ferry docks on the Lower São Francisco (Penedo, Neópolis and Piaçabuçu) and navigation aids between Barra and Xique-Xique."
+    },
+    "resumo_pt": "Ao longo dos 2.800 km do Rio São Francisco ('Velho Chico', o rio da integração nacional), as travessias hidroviárias de balsas e lanchas cumprem papel vital na união dos estados de Alagoas, Sergipe e Bahia. No Baixo São Francisco, onde o rio atinge mais de 1,5 km de largura sem pontes nos seus últimos 70 km até a foz no Oceano Atlântico, a principal ligação interestadual ocorre entre a histórica cidade colonial de Penedo (AL) e os municípios sergipanos de Neópolis e Santana do São Francisco (antigo Carrapicho): balsas ro-pax de grande porte e lanchas de passageiros cruzam o rio a cada 15 a 30 minutos em uma travessia de 15 minutos, complementadas a jusante pela travessia entre Piaçabuçu (AL) e Brejo Grande (SE). Já no Médio São Francisco, no interior da Bahia, balsas e lanchas regulares conectam Xique-Xique à histórica cidade de Barra (na foz do Rio Grande) e atendem o corredor ribeirinho entre Bom Jesus da Lapa, Muquém do São Francisco e Ibotirama.",
+    "resumo_en": "Along the São Francisco River ('Velho Chico'), passenger boats and vehicular ro-pax ferries provide essential links across the states of Alagoas, Sergipe and Bahia. On the Lower São Francisco, where the river widens to over 1.5 km with no bridges along its final 70 km to the Atlantic Ocean, the primary interstate crossing links historic Penedo (Alagoas) with Neópolis and Santana do São Francisco (Sergipe) via ro-pax ferries and passenger boats departing every 15–30 minutes, complemented near the river mouth by the Piaçabuçu (AL) – Brejo Grande (SE) crossing. Along the Middle São Francisco in inland Bahia, regular ferries and river launches link Xique-Xique with historic Barra (at the confluence of the Grande River) and serve the river corridor between Bom Jesus da Lapa and Ibotirama.",
+    "lat": -10.2925,
+    "lon": -36.5885,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "antaq-dnit-codevasf-hidrovia-sao-francisco",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "rio são francisco",
+      "velho chico",
+      "penedo",
+      "neópolis",
+      "santana do são francisco",
+      "piaçabuçu",
+      "alagoas",
+      "sergipe",
+      "xique-xique",
+      "barra",
+      "bom jesus da lapa",
+      "bahia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Balsa_Penedo_Neopolis_Rio_Sao_Francisco.jpg/800px-Balsa_Penedo_Neopolis_Rio_Sao_Francisco.jpg",
+      "credito": "Wikimedia Commons — Balsas ro-pax e lanchas de passageiros na travessia interestadual do Rio São Francisco entre Penedo (AL) e Neópolis / Santana do São Francisco (SE, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:São_Francisco_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-baixo-sao-francisco-penedo-neopolis-santana-piacabucu-al-se",
+        "nome": "Travessias Interestaduais do Baixo São Francisco (Porto das Balsas de Penedo, AL – Neópolis / Santana do São Francisco, SE & Piaçabuçu – Brejo Grande)",
+        "status": "operacao",
+        "extensao_km": 65.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-medio-sao-francisco-xique-xique-barra-ibotirama-bom-jesus-da-lapa-ba",
+        "nome": "Hidrovia e Travessias do Médio São Francisco (Xique-Xique – Barra – Ibotirama – Bom Jesus da Lapa, Bahia)",
+        "status": "operacao",
+        "extensao_km": 355.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+    "slug": "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+    "nome_pt": "Hidrovia do Rio Paraguai no Pantanal (Corumbá – Ladário – Porto Esperança – Porto Murtinho – Cáceres, MS/MT, Brasil, Bolívia e Paraguai)",
+    "nome_en": "Paraguay River Pantanal Waterway (Corumbá – Ladário – Porto Esperança – Porto Murtinho – Cáceres, MS/MT, Brazil, Bolivia & Paraguay)",
+    "pais": "Brasil",
+    "cidade": "Corumbá, Ladário, Porto Esperança e Porto Murtinho (Mato Grosso do Sul); Cáceres e Poconé / Porto Jofre (Mato Grosso, Brasil); Puerto Quijarro / Puerto Suárez (Bolívia); Carmelo Peralta (Paraguai)",
+    "uf": "MS / MT",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Administração da Hidrovia do Paraguai — AHIPAR / DNIT, Prefeituras de Corumbá e Porto Murtinho (Lanchas Escolares e Ribeirinhas) & Travessia Internacional Porto Murtinho–Carmelo Peralta",
+    "inauguracao": "1856 (Abertura internacional da navegação a vapor no Rio Paraguai até Corumbá e Cáceres pelo Império do Brasil)",
+    "extensao_km": 980.0,
+    "bitola": "Tramo Norte e Tramo Sul Brasileiro da Hidrovia Paraguai–Paraná (Planície Alagável do Pantanal Mato-Grossense)",
+    "eletrificacao": "Embarcações regionais mistas de passageiros e cargas ('chalaneiros' e barcos pantaneiros), lanchas de transporte público ribeirinho e balsa internacional em Porto Murtinho",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 3800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 110 milhões (requalificação do Porto Geral de Corumbá, terminais hidroviários de Ladário e Porto Murtinho pelo DNIT e dragagem/balizamento da Hidrovia do Paraguai)",
+      "moeda": "BRL",
+      "fonte_id": "dnit-ahipar-antaq-hidrovia-rio-paraguai"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização dos flutuantes públicos de Corumbá, Porto Esperança e Porto da Manga e integração multimodal na Rota Bioceânica em Porto Murtinho.",
+      "en": "Upgrading of public river terminals at Corumbá, Porto Esperança and Porto da Manga and multimodal integration at Porto Murtinho."
+    },
+    "resumo_pt": "Atravessando o coração do Pantanal — a maior planície alagável contínua do planeta, Patrimônio Natural Mundial da UNESCO —, a Hidrovia do Rio Paraguai é a mais antiga e estratégica via de transporte dos estados de Mato Grosso e Mato Grosso do Sul. Como durante a cheia pantaneira vastas áreas da planície ficam inacessíveis por estradas de terra, o Rio Paraguai funciona como a única via de transporte público, abastecimento, saúde (com os célebres Navios de Assistência Hospitalar da Marinha do Brasil sediados em Ladário) e educação (barcos-escola) para dezenas de comunidades ribeirinhas e indígenas (como Barra do São Lourenço, Paraguai Mirim, Amolar, Porto da Manga, Albuquerque e a histórica vila ferroviária de Porto Esperança). O centro nervoso da hidrovia é o histórico Cais do Porto Geral de Corumbá (MS, na fronteira com Puerto Quijarro/Bolívia), de onde partem embarcações para o norte rumo à Serra do Amolar e Cáceres (MT) e para o sul rumo a Porto Esperança, Forte Coimbra e Porto Murtinho (MS, onde balsas e lanchas realizam a travessia internacional para Carmelo Peralta, no Chaco Paraguaio).",
+    "resumo_en": "Flowing through the heart of the Pantanal — the world's largest tropical wetland and a UNESCO World Heritage Site — the Paraguay River Waterway is the oldest and most vital transport artery of Mato Grosso and Mato Grosso do Sul. Because seasonal flooding renders overland dirt tracks impassable for months, the Paraguay River serves as the sole public transport, supply, healthcare and school-boat lifeline for dozens of riverside and indigenous communities (including Barra do São Lourenço, Paraguai Mirim, Amolar, Porto da Manga and the historic railway village of Porto Esperança). Centered on the historic Porto Geral of Corumbá and Ladário (MS, bordering Bolivia), the waterway extends 680 km north to Cáceres (MT) and 440 km south to Porto Murtinho (MS, where international ferries cross to Carmelo Peralta in Paraguay).",
+    "lat": -18.9995,
+    "lon": -57.6515,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "dnit-ahipar-antaq-hidrovia-rio-paraguai",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "mato grosso do sul",
+      "mato grosso",
+      "pantanal",
+      "rio paraguai",
+      "corumbá",
+      "ladário",
+      "porto esperança",
+      "porto murtinho",
+      "cáceres",
+      "carmelo peralta",
+      "hidrovia paraguai-paraná",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Porto_Geral_de_Corumba_Rio_Paraguai_Pantanal.jpg/800px-Porto_Geral_de_Corumba_Rio_Paraguai_Pantanal.jpg",
+      "credito": "Wikimedia Commons — Embarcações no histórico Cais do Porto Geral de Corumbá às margens do Rio Paraguai no Pantanal (Mato Grosso do Sul, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Port_of_Corumbá"
+    },
+    "linhas": [
+      {
+        "id": "linha-hidrovia-rio-paraguai-sul-corumba-ladario-porto-esperanca-porto-murtinho-ms",
+        "nome": "Tronco Sul Pantaneiro do Rio Paraguai (Porto Geral de Corumbá / Ladário – Porto da Manga – Porto Esperança – Porto Murtinho / Carmelo Peralta, MS)",
+        "status": "operacao",
+        "extensao_km": 440.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-hidrovia-rio-paraguai-norte-corumba-amolar-porto-jofre-caceres-ms-mt",
+        "nome": "Tronco Norte do Pantanal — Alto Rio Paraguai (Porto Geral de Corumbá – Paraguai Mirim / Serra do Amolar – Porto Jofre – Cais de Cáceres, MS/MT)",
+        "status": "operacao",
+        "extensao_km": 540.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+    "slug": "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+    "nome_pt": "Travessias Litorâneas de Bertioga–Guarujá e Lagamar de Cananéia–Ilha Comprida–Ilha do Cardoso–Iguape (DH / Semil São Paulo, SP, Brasil)",
+    "nome_en": "Bertioga–Guarujá & Cananéia–Ilha Comprida–Ilha do Cardoso Coastal Ferries (DH / Semil State of São Paulo, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Bertioga e Guarujá (Baixada Santista); Cananéia, Ilha Comprida, Ariri / Marujá (Ilha do Cardoso) e Iguape (Litoral Sul / Vale do Ribeira, São Paulo, Brasil)",
+    "uf": "SP",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Departamento Hidroviário do Estado de São Paulo — DH / Secretaria de Meio Ambiente, Infraestrutura e Logística (Semil-SP)",
+    "inauguracao": "1958 (Inauguração das travessias públicas estaduais de balsas no Canal de Bertioga e no Lagamar de Cananéia pelo Governo do Estado de São Paulo)",
+    "extensao_km": 58.0,
+    "bitola": "Canal de Bertioga (Baixada Santista) e Complexo Estuarino-Lagunar de Cananéia–Iguape–Ilha Comprida (Lagamar / Mar Pequeno)",
+    "eletrificacao": "Balsas estaduais ro-pax bidirecionais de operação 24h (FB-11, FB-14 e FB-26 em Bertioga e Cananéia) e lanchas de passageiros climatizadas (LS-03 e LS-04 para Ariri / Ilha do Cardoso)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 11800,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 82 milhões (reforma das balsas e flutuantes de Bertioga–Guarujá e Cananéia–Ilha Comprida e novas lanchas acessíveis para a linha Cananéia–Ariri pelo DH/Semil-SP)",
+      "moeda": "BRL",
+      "fonte_id": "dh-semil-sp-travessias-litoraneas-cananeia-bertioga"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização dos atracadouros de Bertioga e Rabo do Dragão (Guarujá) e implantação de balsas híbridas diesel-elétricas no Lagamar de Cananéia.",
+      "en": "Upgrading of the Bertioga and Guarujá ferry slips and introduction of diesel-electric hybrid ferries in the Cananéia lagoon system."
+    },
+    "resumo_pt": "Completando o sistema estadual de 8 Travessias Litorâneas operadas pelo Departamento Hidroviário (DH / Semil) do Governo do Estado de São Paulo — ao lado de Santos–Guarujá, São Sebastião–Ilhabela e Santos–Vicente de Carvalho —, dois grandes complexos hidroviários garantem a mobilidade na extremidade norte da Ilha de Santo Amaro e no extremo sul do litoral paulista. Na Baixada Santista, a travessia Bertioga – Guarujá (Rabo do Dragão) opera 24 horas por dia e gratuitamente para pedestres e ciclistas através dos 400 metros do Canal de Bertioga, conectando o centro histórico de Bertioga (Forte São João) à rodovia SP-061 na Serra do Guararu (próximo às praias de Iporanga e Prainha Branca). Já no Litoral Sul (Vale do Ribeira), no coração do Complexo Estuarino-Lagunar de Cananéia-Iguape (Patrimônio Natural da Humanidade pela UNESCO), o DH-SP opera 24 horas por dia a travessia de balsas de 1,4 km pelo Mar Pequeno entre Cananéia e o Boqueirão Sul de Ilha Comprida, além das linhas de lanchas e balsas Cananéia – Continente (Porto Cubatão), Cananéia – Ilha do Cardoso (Marujá e Ariri, de 50 km) e Iguape – Juréia.",
+    "resumo_en": "Completing the 8 coastal ferry crossings operated by the State of São Paulo's Waterway Department (DH / Semil-SP), two key networks serve the northern tip of Guarujá and the southern São Paulo coast. In the Baixada Santista metropolitan region, the 24/7 Bertioga–Guarujá (Rabo do Dragão) ro-pax ferry crosses the Bertioga Channel in 5 minutes, linking historic downtown Bertioga with the SP-061 coastal highway on Santo Amaro Island. In southern São Paulo's UNESCO-listed Lagamar estuary, DH-SP operates the 24/7 Cananéia–Ilha Comprida ro-pax ferry across the Mar Pequeno channel alongside the 50 km public passenger launch route linking Cananéia with the car-free communities of Marujá (Ilha do Cardoso State Park) and Ariri.",
+    "lat": -25.0145,
+    "lon": -47.9255,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "dh-semil-sp-travessias-litoraneas-cananeia-bertioga",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "são paulo",
+      "bertioga",
+      "guarujá",
+      "cananéia",
+      "ilha comprida",
+      "ilha do cardoso",
+      "ariri",
+      "marujá",
+      "iguape",
+      "departamento hidroviário",
+      "semil-sp",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Balsa_Cananeia_Ilha_Comprida_SP.jpg/800px-Balsa_Cananeia_Ilha_Comprida_SP.jpg",
+      "credito": "Wikimedia Commons — Balsa estadual do Departamento Hidroviário (DH-SP) na travessia entre Cananéia e Ilha Comprida e no Canal de Bertioga–Guarujá (SP, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_São_Paulo_(state)"
+    },
+    "linhas": [
+      {
+        "id": "linha-dh-sp-travessia-bertioga-guaruja-rabo-do-dragao",
+        "nome": "Travessia Litorânea Bertioga – Guarujá — DH / Semil-SP (Atracadouro Central de Bertioga – Atracadouro Rabo do Dragão / SP-061, Guarujá)",
+        "status": "operacao",
+        "extensao_km": 4.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-dh-sp-lagamar-cananeia-ilha-comprida-ilha-do-cardoso-ariri",
+        "nome": "Rede Hidroviária do Lagamar — DH / Semil-SP (Cananéia – Boqueirão Sul de Ilha Comprida & Linha de Lanchas Cananéia – Marujá / Ilha do Cardoso – Ariri)",
+        "status": "operacao",
+        "extensao_km": 54.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+    "slug": "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+    "nome_pt": "Travessias Hidroviárias de Camocim–Ilha do Amor / Tatajuba (Rio Coreaú, Ceará) e Hidrovias do Delta do Rio Parnaíba (Porto dos Tatus–Ilha das Canárias–Tutoia, PI/MA, Brasil)",
+    "nome_en": "Camocim–Ilha do Amor / Tatajuba Estuary Ferries (Coreaú River, Ceará) & Parnaíba River Delta Waterways (Porto dos Tatus–Canárias Island–Tutoia, PI/MA, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Camocim, Ilha do Amor e Tatajuba / Jijoca de Jericoacoara (Ceará); Parnaíba e Ilha Grande / Porto dos Tatus (Piauí); Araioses (Ilha das Canárias), Água Doce do Maranhão e Tutoia (Maranhão, Brasil)",
+    "uf": "CE / PI / MA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Cooperativa de Balsas e Barcos de Passageiros do Rio Coreaú (Camocim, CE) & Cooperativas de Lanchas e Barcos de Linha do Delta do Parnaíba (Porto dos Tatus PI – Ilha das Canárias / Tutoia MA)",
+    "inauguracao": "1970 (Regularização das travessias de balsas e barcas no estuário do Rio Coreaú em Camocim e das linhas regulares de barcos e lanchas nas mais de 70 ilhas do Delta do Parnaíba)",
+    "extensao_km": 135.0,
+    "bitola": "Estuário do Rio Coreaú (Camocim, Litoral Oeste do Ceará) e Braços Fluviais de Igaraçu, Santa Rosa e Canárias no Delta do Rio Parnaíba (Divisa PI–MA)",
+    "eletrificacao": "Balsas veiculares (transportando veículos 4x4, buggies e caminhonetes na rota Camocim–Jericoacoara), barcas de madeira de passageiros em Camocim e lanchas rápidas no Delta do Parnaíba",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 7600,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 32 milhões (requalificação do Terminal Hidroviário do Porto dos Tatus no Piauí e urbanização da Beira-Mar e rampas de balsas de Camocim no Ceará)",
+      "moeda": "BRL",
+      "fonte_id": "antaq-setur-pi-ce-delta-parnaiba-camocim"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação dos píeres flutuantes do Porto dos Tatus (Ilha Grande, PI), Ilha das Canárias (Araioses, MA) e Porto de Tutoia na Rota das Emoções.",
+      "en": "Expansion of floating piers at Porto dos Tatus (Piauí), Canárias Island and Tutoia Harbour (Maranhão) along the Rota das Emoções corridor."
+    },
+    "resumo_pt": "No litoral setentrional do Nordeste brasileiro — ao longo do célebre corredor interestadual da 'Rota das Emoções' que une o Ceará, o Piauí e o Maranhão —, duas redes hidroviárias estuarinas desempenham papel fundamental no transporte diário de moradores e viajantes. Em Camocim (no litoral oeste do Ceará), o largo estuário do Rio Coreaú separa o centro histórico portuário (onde ficava a estação inicial da antiga Estrada de Ferro de Sobral) da famosa Ilha do Amor (Testa Branca) e do caminho litorâneo para Tatajuba e Jericoacoara: durante todo o dia, barcas de passageiros e balsas veiculares realizam a travessia em 10 minutos a partir do Cais de Camocim. Já a oeste, na divisa entre o Piauí e o Maranhão, estende-se o monumental Delta do Rio Parnaíba (o único delta em mar aberto das Américas, com mais de 70 ilhas e cinco grandes barras fluviais): a partir do moderno Terminal Hidroviário do Porto dos Tatus (em Ilha Grande/Parnaíba, PI), dezenas de lanchas rápidas e barcos de linha regulares navegam pelos igarapés conectando a populosa Ilha das Canárias (município de Araioses, MA), Caiçara, Água Doce e o Porto de Tutoia (MA).",
+    "resumo_en": "Along Brazil's northern Northeast coast — spanning the tri-state 'Rota das Emoções' corridor across Ceará, Piauí and Maranhão — two major estuarine ferry networks are vital to daily passenger and vehicle mobility. In Camocim (western Ceará), the wide Coreaú River estuary separates the historic port center from Ilha do Amor (Testa Branca) and the coastal dune corridor toward Tatajuba and Jericoacoara, with passenger launches and vehicular ferries making the 10-minute crossing all day. Further west across the Piauí–Maranhão border lies the Parnaíba River Delta (the only open-sea river delta in the Americas, encompassing over 70 islands): departing from the Porto dos Tatus Waterway Terminal (Ilha Grande/Parnaíba, Piauí), scheduled fast launches and riverboats link the inhabited islands of Canárias (Araioses, Maranhão) and the port of Tutoia.",
+    "lat": -2.9005,
+    "lon": -40.8415,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "antaq-setur-pi-ce-delta-parnaiba-camocim",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "ceará",
+      "piauí",
+      "maranhão",
+      "camocim",
+      "ilha do amor",
+      "tatajuba",
+      "jericoacoara",
+      "rio coreaú",
+      "delta do parnaíba",
+      "porto dos tatus",
+      "parnaíba",
+      "ilha das canárias",
+      "tutoia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Balsa_Camocim_Ilha_do_Amor_Rio_Coreau_Ceara.jpg/800px-Balsa_Camocim_Ilha_do_Amor_Rio_Coreau_Ceara.jpg",
+      "credito": "Wikimedia Commons — Balsas e barcas no estuário do Rio Coreaú em Camocim (CE) e lanchas do Porto dos Tatus no Delta do Parnaíba (PI/MA, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Camocim"
+    },
+    "linhas": [
+      {
+        "id": "linha-camocim-ilha-do-amor-tatajuba-guriu-rio-coreau-ce",
+        "nome": "Travessias do Estuário do Rio Coreaú e Guriú (Cais do Porto de Camocim – Ilha do Amor / Testa Branca – Tatajuba – Travessia de Balsa do Rio Guriú, CE)",
+        "status": "operacao",
+        "extensao_km": 42.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-hidrovia-delta-do-parnaiba-porto-dos-tatus-ilha-das-canarias-tutoia-pi-ma",
+        "nome": "Hidrovia Interestadual do Delta do Rio Parnaíba (Terminal do Porto dos Tatus, Ilha Grande/Parnaíba, PI – Ilha das Canárias, Araioses – Porto de Tutoia, MA)",
+        "status": "operacao",
+        "extensao_km": 93.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil",
+    "slug": "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil",
+    "nome_pt": "Travessia Hidroviária do Estuário da Lagoa dos Patos (Lanchas e Balsas Rio Grande – São José do Norte e Ilha dos Marinheiros, RS, Brasil)",
+    "nome_en": "Patos Lagoon Estuary Ferry Crossing (Rio Grande – São José do Norte Passenger Launches & Ro-Pax Vehicle Ferries, Rio Grande do Sul, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Rio Grande, Ilha dos Marinheiros e São José do Norte (Estuário da Lagoa dos Patos, Litoral Sul do Rio Grande do Sul, Brasil)",
+    "uf": "RS",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Concessionárias Reguladas pela AGERGS / Metroplan-RS (Transporte Marítimo Rio Grande / Transnorte — Lanchas de Passageiros e Balsas Ro-Pax de Veículos e Caminhões)",
+    "inauguracao": "1835 (Travessia regular secular pelo canal de acesso da Lagoa dos Patos entre as cidades históricas irmãs de Rio Grande e São José do Norte)",
+    "extensao_km": 26.0,
+    "bitola": "Canal do Norte / Estuário da Lagoa dos Patos (Canal de acesso do Superporto de Rio Grande ao Oceano Atlântico)",
+    "eletrificacao": "Lanchas de passageiros de grande capacidade (cruzeiro de 25 minutos entre as Estações Hidroviárias Históricas) e grandes balsas ro-pax para caminhões bitrem, ônibus e carros",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 8200,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "R$ 45 milhões (restauração da histórica Estação Hidroviária de Rio Grande, modernização dos terminais flutuantes resilientes a cheias e reforma das rampas de balsas)",
+      "moeda": "BRL",
+      "fonte_id": "agergs-metroplan-rs-travessia-rio-grande-sao-jose-do-norte"
+    },
+    "proximas_entregas": {
+      "pt": "Novos catamarãs de alumínio de menor tempo de travessia (15 minutos) e modernização da Estação Hidroviária de São José do Norte.",
+      "en": "New faster aluminum passenger catamarans (15-minute crossing) and modernization of the São José do Norte Waterway Station."
+    },
+    "resumo_pt": "No extremo sul do Rio Grande do Sul, onde a imensa Lagoa dos Patos (a maior laguna da América do Sul, com 280 km de comprimento) encontra o Oceano Atlântico através do Canal do Norte, opera uma das travessias hidroviárias mais tradicionais e vitais do Brasil: a ligação entre as cidades históricas irmãs de Rio Grande (na margem oeste) e São José do Norte (na península leste, início da rodovia BR-101 no Brasil). Como não há ponte sobre o profundo canal marítimo que dá acesso ao Superporto do Rio Grande, o transporte hidroviário regulado pela Metroplan e pela AGERGS poupa um contorno rodoviário de mais de 350 km em torno de toda a Lagoa dos Patos. O sistema opera em duas modalidades complementares: a cada 30 minutos, lanchas de passageiros partem da histórica Estação Hidroviária de Rio Grande (edifício tombado de 1930 junto ao Mercado Público) até o Cais Central de São José do Norte em 25 minutos; paralelamente, grandes balsas ro-pax cruzam o canal entre o Terminal de Veículos da Rua Henrique Pancada (Rio Grande) e a Ponta da Praia (São José do Norte), além das barcas para a fértil Ilha dos Marinheiros.",
+    "resumo_en": "In southernmost Rio Grande do Sul, where the 280 km Patos Lagoon (South America's largest choked lagoon) meets the Atlantic Ocean through the deep shipping channel of the Port of Rio Grande, a vital public ferry system links the historic sister cities of Rio Grande (west bank) and São José do Norte (east peninsula, the southern terminus of federal highway BR-101). Because no bridge spans the deep-water channel, the Metroplan/AGERGS-regulated ferry crossing saves a 350 km overland detour around the lagoon. Operating every 30 minutes, passenger launches cross in 25 minutes between the landmark 1930 Rio Grande Waterway Station and downtown São José do Norte, while heavy ro-pax vehicle ferries carry cars, buses and freight trucks between Henrique Pancada Terminal (Rio Grande) and Ponta da Praia (São José do Norte).",
+    "lat": -32.0285,
+    "lon": -52.0945,
+    "zoom_inicial": 12.2,
+    "fontes": [
+      "agergs-metroplan-rs-travessia-rio-grande-sao-jose-do-norte",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "brasil",
+      "rio grande do sul",
+      "rio grande",
+      "são josé do norte",
+      "lagoa dos patos",
+      "ilha dos marinheiros",
+      "metroplan",
+      "agergs",
+      "br-101",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hidroviaria_de_Rio_Grande_RS_Brasil.jpg/800px-Hidroviaria_de_Rio_Grande_RS_Brasil.jpg",
+      "credito": "Wikimedia Commons — Histórica Estação Hidroviária de Rio Grande e lanchas/balsas da travessia para São José do Norte na Lagoa dos Patos (RS, Brasil)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Rio_Grande_do_Sul"
+    },
+    "linhas": [
+      {
+        "id": "linha-lanchas-passageiros-rio-grande-sao-jose-do-norte-lagoa-dos-patos-rs",
+        "nome": "Travessia de Lanchas de Passageiros — Metroplan / AGERGS (Estação Hidroviária Histórica de Rio Grande – Estação Hidroviária de São José do Norte, RS)",
+        "status": "operacao",
+        "extensao_km": 11.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-balsas-veiculos-rio-grande-henrique-pancada-sao-jose-do-norte-ilha-marinheiros-rs",
+        "nome": "Travessia Ro-Pax de Balsas de Veículos e Caminhões (Terminal Henrique Pancada, Rio Grande – Terminal Ponta da Praia, São José do Norte / BR-101, RS)",
+        "status": "operacao",
+        "extensao_km": 15.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

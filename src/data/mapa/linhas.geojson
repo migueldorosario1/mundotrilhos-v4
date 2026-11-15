@@ -45562,6 +45562,340 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baixo-sao-francisco-penedo-neopolis-santana-piacabucu-al-se",
+        "nome": "Travessias Interestaduais do Baixo São Francisco (Porto das Balsas de Penedo, AL – Neópolis / Santana do São Francisco, SE & Piaçabuçu – Brejo Grande)",
+        "sistema_id": "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+        "sistema_nome": "Travessias Hidroviárias do Rio São Francisco (Balsas Penedo–Neópolis AL/SE, Santana do São Francisco–Penedo e Xique-Xique–Barra / Ibotirama BA, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Balsas ro-pax e lanchas do Baixo Rio São Francisco (AL–SE)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -36.5885,
+            -10.2925
+          ],
+          [
+            -36.5785,
+            -10.3185
+          ],
+          [
+            -36.4325,
+            -10.4085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-medio-sao-francisco-xique-xique-barra-ibotirama-bom-jesus-da-lapa-ba",
+        "nome": "Hidrovia e Travessias do Médio São Francisco (Xique-Xique – Barra – Ibotirama – Bom Jesus da Lapa, Bahia)",
+        "sistema_id": "travessias-hidroviarias-rio-sao-francisco-penedo-neopolis-xique-xique-barra-al-se-ba-brasil",
+        "sistema_nome": "Travessias Hidroviárias do Rio São Francisco (Balsas Penedo–Neópolis AL/SE, Santana do São Francisco–Penedo e Xique-Xique–Barra / Ibotirama BA, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 355.0,
+        "bitola": "Corredor fluvial e balsas do Médio Rio São Francisco (Bahia)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.7315,
+            -10.8225
+          ],
+          [
+            -43.1415,
+            -11.0885
+          ],
+          [
+            -43.2185,
+            -12.1825
+          ],
+          [
+            -43.4215,
+            -13.2545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-paraguai-sul-corumba-ladario-porto-esperanca-porto-murtinho-ms",
+        "nome": "Tronco Sul Pantaneiro do Rio Paraguai (Porto Geral de Corumbá / Ladário – Porto da Manga – Porto Esperança – Porto Murtinho / Carmelo Peralta, MS)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+        "sistema_nome": "Hidrovia do Rio Paraguai no Pantanal (Corumbá – Ladário – Porto Esperança – Porto Murtinho – Cáceres, MS/MT, Brasil, Bolívia e Paraguai)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 440.0,
+        "bitola": "Hidrovia do Rio Paraguai no Pantanal Sul-Mato-Grossense (DNIT / AHIPAR)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6515,
+            -18.9995
+          ],
+          [
+            -57.5815,
+            -19.0025
+          ],
+          [
+            -57.4425,
+            -19.6055
+          ],
+          [
+            -57.8865,
+            -21.6985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-paraguai-norte-corumba-amolar-porto-jofre-caceres-ms-mt",
+        "nome": "Tronco Norte do Pantanal — Alto Rio Paraguai (Porto Geral de Corumbá – Paraguai Mirim / Serra do Amolar – Porto Jofre – Cais de Cáceres, MS/MT)",
+        "sistema_id": "hidrovia-rio-paraguai-pantanal-corumba-ladario-porto-murtinho-caceres-ms-mt-brasil",
+        "sistema_nome": "Hidrovia do Rio Paraguai no Pantanal (Corumbá – Ladário – Porto Esperança – Porto Murtinho – Cáceres, MS/MT, Brasil, Bolívia e Paraguai)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 540.0,
+        "bitola": "Hidrovia do Alto Rio Paraguai no Pantanal Norte (MS/MT)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6515,
+            -18.9995
+          ],
+          [
+            -57.4925,
+            -18.0325
+          ],
+          [
+            -56.9725,
+            -17.3525
+          ],
+          [
+            -57.6845,
+            -16.0715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-dh-sp-travessia-bertioga-guaruja-rabo-do-dragao",
+        "nome": "Travessia Litorânea Bertioga – Guarujá — DH / Semil-SP (Atracadouro Central de Bertioga – Atracadouro Rabo do Dragão / SP-061, Guarujá)",
+        "sistema_id": "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+        "sistema_nome": "Travessias Litorâneas de Bertioga–Guarujá e Lagamar de Cananéia–Ilha Comprida–Ilha do Cardoso–Iguape (DH / Semil São Paulo, SP, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 4.0,
+        "bitola": "Travessia estadual 24h de balsas do Canal de Bertioga (DH/Semil-SP)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.1385,
+            -23.8545
+          ],
+          [
+            -46.1355,
+            -23.8585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-dh-sp-lagamar-cananeia-ilha-comprida-ilha-do-cardoso-ariri",
+        "nome": "Rede Hidroviária do Lagamar — DH / Semil-SP (Cananéia – Boqueirão Sul de Ilha Comprida & Linha de Lanchas Cananéia – Marujá / Ilha do Cardoso – Ariri)",
+        "sistema_id": "travessias-litoraneas-bertioga-guaruja-cananeia-ilha-comprida-ilha-do-cardoso-sp-brasil",
+        "sistema_nome": "Travessias Litorâneas de Bertioga–Guarujá e Lagamar de Cananéia–Ilha Comprida–Ilha do Cardoso–Iguape (DH / Semil São Paulo, SP, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 54.0,
+        "bitola": "Balsas e lanchas estaduais do Lagamar de Cananéia (DH/Semil-SP)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.9255,
+            -25.0145
+          ],
+          [
+            -47.9125,
+            -25.0165
+          ],
+          [
+            -48.0185,
+            -25.2125
+          ],
+          [
+            -48.1055,
+            -25.2185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-camocim-ilha-do-amor-tatajuba-guriu-rio-coreau-ce",
+        "nome": "Travessias do Estuário do Rio Coreaú e Guriú (Cais do Porto de Camocim – Ilha do Amor / Testa Branca – Tatajuba – Travessia de Balsa do Rio Guriú, CE)",
+        "sistema_id": "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+        "sistema_nome": "Travessias Hidroviárias de Camocim–Ilha do Amor / Tatajuba (Rio Coreaú, Ceará) e Hidrovias do Delta do Rio Parnaíba (Porto dos Tatus–Ilha das Canárias–Tutoia, PI/MA, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 42.0,
+        "bitola": "Balsas e barcas do estuário do Rio Coreaú e Guriú (Ceará)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.8415,
+            -2.9005
+          ],
+          [
+            -40.8295,
+            -2.8935
+          ],
+          [
+            -40.6025,
+            -2.8485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-delta-do-parnaiba-porto-dos-tatus-ilha-das-canarias-tutoia-pi-ma",
+        "nome": "Hidrovia Interestadual do Delta do Rio Parnaíba (Terminal do Porto dos Tatus, Ilha Grande/Parnaíba, PI – Ilha das Canárias, Araioses – Porto de Tutoia, MA)",
+        "sistema_id": "travessias-hidroviarias-camocim-ilha-do-amor-tatajuba-delta-do-parnaiba-porto-dos-tatus-ce-pi-ma-brasil",
+        "sistema_nome": "Travessias Hidroviárias de Camocim–Ilha do Amor / Tatajuba (Rio Coreaú, Ceará) e Hidrovias do Delta do Rio Parnaíba (Porto dos Tatus–Ilha das Canárias–Tutoia, PI/MA, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 93.0,
+        "bitola": "Rede hidroviária insular do Delta do Parnaíba (PI–MA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -41.8215,
+            -2.8485
+          ],
+          [
+            -41.8625,
+            -2.7725
+          ],
+          [
+            -42.2715,
+            -2.7615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lanchas-passageiros-rio-grande-sao-jose-do-norte-lagoa-dos-patos-rs",
+        "nome": "Travessia de Lanchas de Passageiros — Metroplan / AGERGS (Estação Hidroviária Histórica de Rio Grande – Estação Hidroviária de São José do Norte, RS)",
+        "sistema_id": "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil",
+        "sistema_nome": "Travessia Hidroviária do Estuário da Lagoa dos Patos (Lanchas e Balsas Rio Grande – São José do Norte e Ilha dos Marinheiros, RS, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 11.0,
+        "bitola": "Travessia metropolitana de lanchas do Estuário da Lagoa dos Patos (RS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.0945,
+            -32.0285
+          ],
+          [
+            -52.0425,
+            -32.0145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-balsas-veiculos-rio-grande-henrique-pancada-sao-jose-do-norte-ilha-marinheiros-rs",
+        "nome": "Travessia Ro-Pax de Balsas de Veículos e Caminhões (Terminal Henrique Pancada, Rio Grande – Terminal Ponta da Praia, São José do Norte / BR-101, RS)",
+        "sistema_id": "travessia-hidroviaria-rio-grande-sao-jose-do-norte-estuario-lagoa-dos-patos-rs-brasil",
+        "sistema_nome": "Travessia Hidroviária do Estuário da Lagoa dos Patos (Lanchas e Balsas Rio Grande – São José do Norte e Ilha dos Marinheiros, RS, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 15.0,
+        "bitola": "Ponte ro-pax de balsas da BR-101 no Estuário da Lagoa dos Patos (RS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.1125,
+            -32.0365
+          ],
+          [
+            -52.0495,
+            -32.0195
+          ]
+        ]
+      }
     }
   ]
 }
