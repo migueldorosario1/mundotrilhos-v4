@@ -1430,6 +1430,23 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.584 páginas estáticas geradas** (`npm run build` com código 0).
 - **Próxima Ronda (#149 / Ordem 145 da Fila)**: `HIDRO-AMERICA-DO-SUL-FLUVIAL-MARITIMA-III` (Fase Hidroviária Mundial #35 — América do Sul Fluvial, Estuarina e Insular III).
 
+### #150 — 15/11/2026 13:20 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #149 CONCLUÍDA EM PRODUÇÃO (`commit` na `main`, `2594 page(s) built`): ORDEM 145 DA FILA — FASE HIDROVIÁRIA MUNDIAL #35 (AMÉRICA DO SUL FLUVIAL, ESTUARINA E INSULAR III: BOLÍVIA, PARAGUAI, COLÔMBIA, VENEZUELA, CHILE E ARGENTINA — MARCO HISTÓRICO EXATO DE 2.300 ESTAÇÕES E TERMINAIS E RELATÓRIO #150 NA PONTE)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 145 Concluída (`HIDRO-AMERICA-DO-SUL-FLUVIAL-MARITIMA-III`) — 5 sistemas hidroviários sul-americanos de barcos, lanchas e ferries (`5.420 km`, 10 linhas, 25 terminais)**:
+  1. `hidrovia-rios-mamore-beni-madre-de-dios-trinidad-guayaramerin-riberalta-rurrenabaque-bolivia` (🇧🇴 Bolívia — Hidrovia Amazônica Boliviana dos Rios Ichilo–Mamoré, Beni e Madre de Dios Puerto Villarroel–Loma Suárez/Trinidad–Santa Ana del Yacuma–Guayaramerín e Rurrenabaque–Riberalta, `1.180 km`, 2 linhas, 5 terminais)
+  2. `hidrovia-alto-paraguai-pantanal-concepcion-vallemi-fuerte-olimpo-bahia-negra-assuncao-alberdi-pilar-paraguai-argentina` (🇵🇾🇦🇷 Paraguai e Argentina — Hidrovia do Alto Rio Paraguai e Pantanal Paraguaio Concepción–Puerto Vallemí–Fuerte Olimpo–Bahía Negra e Travessias Binacionais Itá Enramada/Assunção–Clorinda, Alberdi–Formosa e Pilar–Puerto Cano, `840 km`, 2 linhas, 5 terminais)
+  3. `lanchas-pacifico-colombiano-buenaventura-guapi-tumaco-timbiqui-rio-atrato-quibdo-riosucio-turbo-colombia` (🇨🇴 Colômbia — Hidrovias do Litoral Pacífico Colombiano Buenaventura–Timbiquí–Guapi–El Charco–Tumaco e Hidrovia do Rio Atrato Quibdó–Bojayá–Riosucio–Turbo em Chocó, `960 km`, 2 linhas, 5 terminais)
+  4. `conferry-naviarca-gran-cacique-puerto-la-cruz-cumana-punta-de-piedras-margarita-coche-rio-orinoco-ciudad-bolivar-venezuela` (🇻🇪 Venezuela — Ferries Ro-Pax e Catamarãs da Ilha de Margarita Naviarca/Conferry/Gran Cacique Puerto La Cruz/Guanta e Cumaná–Punta de Piedras–Ilha de Coche e Travessias do Rio Orinoco Ciudad Bolívar–Soledad e San Félix–Los Barrancos, `690 km`, 2 linhas, 5 terminais)
+  5. `navimag-austral-broom-puerto-montt-chacabuco-puerto-natales-porvenir-canal-beagle-puerto-williams-ushuaia-chile-argentina` (🇨🇱🇦🇷 Chile e Argentina — Rota dos Fiordes Patagônicos Navimag Puerto Montt–Puerto Chacabuco–Puerto Edén–Puerto Natales, Travessia TABSA Punta Arenas–Porvenir e Travessia Internacional do Canal de Beagle Puerto Williams/Ilha Navarino–Ushuaia, `1.750 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa**:
+  - **949 sistemas no banco** (**933 em operação**, sendo **213 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.339 linhas mapeadas** (**1.320 em operação**, sendo **425 linhas hidroviárias de barcos/ferries**)
+  - **2.300 estações e terminais geolocalizados** — marco histórico exato de **2.300 estações e terminais** (**866 terminais hidroviários de barcos/ferries**!)
+  - **2.594 páginas estáticas geradas** (`npm run build` com código 0).
+- **Próxima Ronda (#150 / Ordem 146 da Fila)**: `HIDRO-MEDITERRANEO-EGEU-ADRIATICO-IBERIA-III` (Fase Hidroviária Mundial #36 — Mediterrâneo, Mar Egeu, Adriático e Península Ibérica III).
+
+
 
 
 
