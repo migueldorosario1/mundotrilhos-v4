@@ -26424,5 +26424,388 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "uber-boat-thames-clippers-woolwich-ferry-rio-tamisa-londres-reino-unido",
+    "slug": "uber-boat-thames-clippers-woolwich-ferry-rio-tamisa-londres-reino-unido",
+    "nome_pt": "Uber Boat by Thames Clippers e Woolwich Ferry no Rio Tâmisa em Londres (Reino Unido)",
+    "nome_en": "Uber Boat by Thames Clippers & Woolwich Ferry on the River Thames in London (United Kingdom)",
+    "pais": "Reino Unido",
+    "cidade": "Londres (Putney, Westminster, Embankment, London Bridge, Canary Wharf, Greenwich, North Greenwich e Barking Riverside)",
+    "uf": "Greater London / Inglaterra",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Thames Clippers (Uber Boat / Transport for London — TfL River Bus) & TfL Woolwich Ferry",
+    "inauguracao": "1889 (Woolwich Free Ferry no Tâmisa Leste e inauguração da rede rápida Thames Clippers River Bus em 1999)",
+    "extensao_km": 42.0,
+    "bitola": "Hidrovia fluvial estuarina do Rio Tâmisa na Região Metropolitana de Londres (Putney – Barking Riverside)",
+    "eletrificacao": "Catamarãs híbridos rápidos de baixa emissão (Earth, Celestial e Orbit Clipper) e ferries híbridos diesel-elétricos no Woolwich Ferry",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "£ 75 milhões (frota de catamarãs híbridos Hunt Class da Uber Boat by Thames Clippers, barcas 100% elétricas Cross-River e píer de Barking Riverside)",
+      "moeda": "GBP",
+      "fonte_id": "tfl-river-bus-thames-clippers-uk"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação do primeiro ferry rápido 100% elétrico de travessia entre Canary Wharf e Rotherhithe e expansão para Tilbury/Gravesend.",
+      "en": "Launch of the UK's first all-electric cross-river fast ferry between Canary Wharf and Rotherhithe and expansion toward Tilbury/Gravesend."
+    },
+    "resumo_pt": "Integrado à malha tarifária da Transport for London (TfL) com pagamento por cartão Oyster e Contactless, o sistema River Bus operado pela Uber Boat by Thames Clippers transforma o Rio Tâmisa em uma linha expressa aquaviária de 24 píeres que corta o coração de Londres. Suas linhas (RB1, RB2, RB4 e RB6) conectam Putney, Battersea Power Station, Westminster, Embankment, Blackfriars, London Bridge City, Tower, Canary Wharf, Greenwich, North Greenwich (O2 Arena, integrada à Jubilee Line e ao teleférico IFS Cloud Cable Car), Royal Wharf e Barking Riverside (integrado ao London Overground). A leste da Barreira do Tâmisa, o histórico e gratuito Woolwich Ferry (operado pela TfL desde 1889 com embarcações híbridas) realiza a travessia contínua de passageiros e veículos entre Woolwich e North Woolwich.",
+    "resumo_en": "Integrated into Transport for London's (TfL) Oyster and contactless fare network, the River Bus service operated by Uber Boat by Thames Clippers turns the River Thames into a 24-pier express water transit corridor across central and east London. Routes RB1, RB2, RB4 and RB6 link Putney, Battersea Power Station, Westminster, Embankment, London Bridge City, Tower, Canary Wharf, Greenwich, North Greenwich (O2 Arena) and Barking Riverside, complemented in East London by TfL's historic free Woolwich Ferry (operating since 1889).",
+    "lat": 51.5055,
+    "lon": -0.0195,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "tfl-river-bus-thames-clippers-uk",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "londres",
+      "rio tâmisa",
+      "thames clippers",
+      "uber boat",
+      "woolwich ferry",
+      "greenwich",
+      "canary wharf",
+      "westminster",
+      "reino unido",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Uber_Boat_by_Thames_Clippers_Venus_Clipper.jpg/800px-Uber_Boat_by_Thames_Clippers_Venus_Clipper.jpg",
+      "credito": "Wikimedia Commons — Catamarã rápido da Uber Boat by Thames Clippers no Rio Tâmisa em Londres (Reino Unido)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Thames_Clippers"
+    },
+    "linhas": [
+      {
+        "id": "linha-thames-clippers-rb1-rb6-putney-westminster-canary-wharf-barking",
+        "nome": "TfL River Bus RB1/RB6 (Putney – Battersea – Westminster – London Bridge – Canary Wharf – Greenwich – Barking Riverside)",
+        "status": "operacao",
+        "extensao_km": 38.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-woolwich-ferry-travessia-rio-tamisa-londres",
+        "nome": "TfL Woolwich Ferry (North Woolwich – Woolwich Arsenal, Leste de Londres)",
+        "status": "operacao",
+        "extensao_km": 4.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "mersey-ferries-liverpool-wightlink-red-funnel-hovertravel-ilha-de-wight-reino-unido",
+    "slug": "mersey-ferries-liverpool-wightlink-red-funnel-hovertravel-ilha-de-wight-reino-unido",
+    "nome_pt": "Mersey Ferries (Liverpool–Birkenhead) e Ferries / Hovercraft do Solent para a Ilha de Wight (Wightlink, Red Funnel e Hovertravel, Reino Unido)",
+    "nome_en": "Mersey Ferries (Liverpool–Birkenhead) & Solent Ferries / Hovercraft to the Isle of Wight (Wightlink, Red Funnel & Hovertravel, UK)",
+    "pais": "Reino Unido",
+    "cidade": "Liverpool, Birkenhead e Wallasey; Portsmouth, Southampton, Ryde, Cowes e Yarmouth (Ilha de Wight)",
+    "uf": "Merseyside / Hampshire / Isle of Wight (Inglaterra)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Merseytravel (Mersey Ferries), Wightlink, Red Funnel & Hovertravel",
+    "inauguracao": "1150 (Travessia monástica histórica do Rio Mersey em Liverpool e inauguração da ligação ferroviária-marítima de Ryde Pier em 1880)",
+    "extensao_km": 74.0,
+    "bitola": "Estuário do Rio Mersey (Liverpool/Wirral) e Canal do Solent entre Hampshire e a Ilha de Wight",
+    "eletrificacao": "Novo ferry híbrido Mersey Ferry (Cammell Laird), ferry híbrido Victoria of Wight (Wightlink), catamarãs Red Jet e hovercraft comercial AP1-88/2000",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 34000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "£ 90 milhões (construção do novo Mersey Ferry híbrido em Birkenhead e renovação dos terminais intermodais de Portsmouth Harbour e Ryde Pier)",
+      "moeda": "GBP",
+      "fonte_id": "merseytravel-wightlink-red-funnel-uk"
+    },
+    "proximas_entregas": {
+      "pt": "Entrega do novo navio híbrido Mersey Ferry construído no estaleiro Cammell Laird e projetos de ferries rápidos zero emissão no Solent.",
+      "en": "Delivery of the new hybrid Mersey Ferry built at Cammell Laird shipyard and zero-emission fast ferry upgrades across the Solent."
+    },
+    "resumo_pt": "Na Inglaterra fora de Londres, dois sistemas aquaviários possuem importância histórica e intermodal ímpar. No noroeste inglês, o lendário 'Ferry Cross the Mersey' (operado pela Merseytravel, com origens no século XII) cruza o estuário do Rio Mersey ligando o Liverpool Gerry Marsden Ferry Terminal (Pier Head) aos terminais de Seacombe (Wallasey) e Woodside (Birkenhead, conectado à rede Merseyrail). Já no sul da Inglaterra, o Estreito do Solent concentra a mais densa rede de travessias para a Ilha de Wight: os catamarãs rápidos da Wightlink (Portsmouth Harbour Station – Ryde Pier Head, onde os passageiros embarcam diretamente nos trens da Island Line no meio do mar) e ferries ro-pax (Portsmouth–Fishbourne e Lymington–Yarmouth), os catamarãs Red Jet e ferries da Red Funnel (Southampton–Cowes), e a Hovertravel (Southsea–Ryde), única linha comercial regular de hovercraft de passageiros em operação contínua na Europa.",
+    "resumo_en": "Outside London, two English water transit corridors stand out for heritage and intermodal connectivity. In Merseyside, the world-famous Mersey Ferry connects Liverpool Pier Head with Seacombe (Wallasey) and Woodside (Birkenhead). On the south coast across the Solent to the Isle of Wight, Wightlink operates fast catamarans directly linking Portsmouth Harbour rail station with Ryde Pier Head's over-water Island Line railway station alongside ro-pax ferries, Red Funnel connects Southampton and Cowes, and Hovertravel runs Europe's only scheduled passenger hovercraft service between Southsea and Ryde.",
+    "lat": 50.795,
+    "lon": -1.1085,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "merseytravel-wightlink-red-funnel-uk",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "liverpool",
+      "mersey ferry",
+      "birkenhead",
+      "ilha de wight",
+      "portsmouth",
+      "southampton",
+      "ryde pier",
+      "wightlink",
+      "red funnel",
+      "hovertravel",
+      "reino unido",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mersey_Ferry_Snowdrop_at_Pier_Head.jpg/800px-Mersey_Ferry_Snowdrop_at_Pier_Head.jpg",
+      "credito": "Wikimedia Commons — Mersey Ferry no Pier Head de Liverpool e travessias do Solent para a Ilha de Wight (Reino Unido)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Mersey_Ferries"
+    },
+    "linhas": [
+      {
+        "id": "linha-mersey-ferry-liverpool-pier-head-seacombe-woodside",
+        "nome": "Mersey Ferry Commuter & River Explorer (Liverpool Pier Head – Seacombe Wallasey – Woodside Birkenhead)",
+        "status": "operacao",
+        "extensao_km": 12.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-solent-ferries-portsmouth-southampton-ryde-cowes-ilha-de-wight",
+        "nome": "Corredor Marítimo do Solent — Ilha de Wight (Portsmouth Harbour – Ryde Pier Head / Fishbourne & Southampton – Cowes)",
+        "status": "operacao",
+        "extensao_km": 62.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "caledonian-macbrayne-calmac-hebridas-firth-of-clyde-escocia-reino-unido",
+    "slug": "caledonian-macbrayne-calmac-hebridas-firth-of-clyde-escocia-reino-unido",
+    "nome_pt": "Caledonian MacBrayne (CalMac) e Western Ferries no Estuário do Clyde e Ilhas Hébridas da Escócia (Reino Unido)",
+    "nome_en": "Caledonian MacBrayne (CalMac) & Western Ferries on the Firth of Clyde and Scottish Hebrides (United Kingdom)",
+    "pais": "Reino Unido",
+    "cidade": "Oban, Ullapool, Mallaig, Gourock, Wemyss Bay, Dunoon, Rothesay, Brodick (Ilha de Arran), Craignure (Mull) e Stornoway (Lewis)",
+    "uf": "Escócia (Argyll and Bute / Highland / North Ayrshire / Na h-Eileanan Siar)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Caledonian MacBrayne (CalMac Ferries Ltd — empresa pública do Governo Escocês), Western Ferries & NorthLink Ferries",
+    "inauguracao": "1851 (David Hutcheson & Co. / David MacBrayne e Caledonian Steam Packet Company nas terras altas e ilhas da Escócia)",
+    "extensao_km": 410.0,
+    "bitola": "Hidrovia costeira e oceânica do Firth of Clyde, Sound of Mull e Minch (Hébridas Internas e Externas, Escócia)",
+    "eletrificacao": "Frota de 35 ferries ro-pax, incluindo os ferries híbridos diesel-elétricos Classe Loch (MV Hallaig, Lochinvar e Catriona) e navios dual-fuel GNL",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 22000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "£ 580 milhões (programa de renovação da frota CMAL/CalMac com os novos navios MV Glen Sannox, MV Glen Rosa e 4 ferries oceânicos para Islay e Little Minch)",
+      "moeda": "GBP",
+      "fonte_id": "transport-scotland-calmac-cmal"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação dos novos ferries oceânicos MV Isle of Islay, MV Loch Indaal, MV Lochmor e MV Claymore nas rotas das Hébridas.",
+      "en": "Entry into service of new deep-sea ferries MV Isle of Islay, MV Loch Indaal, MV Lochmor and MV Claymore across Hebridean routes."
+    },
+    "resumo_pt": "A estatal escocesa Caledonian MacBrayne (CalMac) opera a maior rede pública de ferries do Reino Unido, servindo como verdadeira 'autoestrada marítima' para 22 ilhas das Hébridas Internas e Externas e do estuário do Rio Clyde (Firth of Clyde), com conexão direta aos trens da ScotRail em estações portuárias históricas. No Firth of Clyde, os ferries ligam Wemyss Bay (célebre estação ferroviária vitoriana em ferro e vidro) a Rothesay (Ilha de Bute), Gourock a Dunoon, e Ardrossan/Troon a Brodick (Ilha de Arran). Mais a norte, o grande hub portuário e ferroviário de Oban (terminal da West Highland Line) irradia rotas para Craignure (Ilha de Mull), Barra e South Uist, enquanto Mallaig conecta-se à Ilha de Skye (Armadale) e Ullapool liga as Terras Altas a Stornoway, na Ilha de Lewis.",
+    "resumo_en": "Scottish state operator Caledonian MacBrayne (CalMac) runs the UK's largest public ferry network, serving 22 islands across the Firth of Clyde and the Inner and Outer Hebrides with direct rail-sea interchanges at ScotRail harbour stations. Key corridors link Wemyss Bay's Victorian railway pier to Rothesay (Isle of Bute), Gourock to Dunoon, Ardrossan/Troon to Brodick (Isle of Arran), Oban railway terminal to Craignure (Isle of Mull) and Barra, and Ullapool across the Minch to Stornoway on the Isle of Lewis.",
+    "lat": 56.4125,
+    "lon": -5.4745,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "transport-scotland-calmac-cmal",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "escócia",
+      "caledonian macbrayne",
+      "calmac",
+      "oban",
+      "ullapool",
+      "stornoway",
+      "ilha de mull",
+      "ilha de arran",
+      "wemyss bay",
+      "hébridas",
+      "reino unido",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MV_Loch_Seaforth_leaving_Ullapool.jpg/800px-MV_Loch_Seaforth_leaving_Ullapool.jpg",
+      "credito": "Wikimedia Commons — Ferry MV Loch Seaforth da Caledonian MacBrayne (CalMac) nas Hébridas da Escócia (Reino Unido)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Caledonian_MacBrayne"
+    },
+    "linhas": [
+      {
+        "id": "linha-calmac-oban-mull-barra-firth-of-clyde-arran-bute",
+        "nome": "Malha CalMac Firth of Clyde & Argyll (Wemyss Bay – Rothesay, Ardrossan – Arran & Oban – Ilha de Mull – Barra)",
+        "status": "operacao",
+        "extensao_km": 265.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-calmac-ullapool-stornoway-hebridas-externas",
+        "nome": "Travessia do Minch — Hébridas Externas (Ullapool – Stornoway, Ilha de Lewis, Escócia)",
+        "status": "operacao",
+        "extensao_km": 145.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
+    "slug": "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
+    "nome_pt": "Ponte Marítima do Canal da Mancha (Dover–Calais / Dunkerque), Ferries Costeiros da Bretanha / Normandia e Batobus do Rio Sena em Paris (França e Reino Unido)",
+    "nome_en": "English Channel Maritime Bridge (Dover–Calais / Dunkirk), Brittany / Normandy Coastal Ferries & Seine River Batobus in Paris (France & UK)",
+    "pais": "França",
+    "cidade": "Calais, Dunquerque, Dieppe, Le Havre, Cherbourg, Roscoff, Quiberon (Belle-Île) e Paris (França); Dover, Newhaven e Portsmouth (Reino Unido)",
+    "uf": "Hauts-de-France / Normandia / Bretanha / Île-de-France / Kent",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "DFDS Seaways, Irish Ferries, P&O Ferries, Brittany Ferries, Compagnie Océane (BreizhGo) & Batobus Paris",
+    "inauguracao": "1821 (Primeira travessia regular a vapor Dover–Calais pelo navio Rob Roy no Estreito de Dover)",
+    "extensao_km": 225.0,
+    "bitola": "Estreito de Dover (Pas-de-Calais) no Canal da Mancha, costa atlântica da Bretanha e calha urbana do Rio Sena em Paris",
+    "eletrificacao": "Superferries híbridos diesel-elétricos de dupla proa (P&O Pioneer e P&O Liberté) em Dover–Calais e barcos híbridos no Rio Sena",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 46000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 450 milhões (novos ferries híbridos de dupla proa no Estreito de Dover, navios híbridos GNL/bateria Saint-Malo e Guillaume de Normandie da Brittany Ferries e eletrificação fluvial no Sena)",
+      "moeda": "EUR",
+      "fonte_id": "port-boulogne-calais-dover-brittany-ferries"
+    },
+    "proximas_entregas": {
+      "pt": "Infraestrutura de carregamento elétrico de alta potência em terra (shore power) nos portos de Dover, Calais e Dunquerque e novas navettes fluviais elétricas no Sena.",
+      "en": "High-capacity shore power charging at the ports of Dover, Calais and Dunkirk and new electric river shuttles on the Seine."
+    },
+    "resumo_pt": "O Estreito de Dover (Pas-de-Calais), com apenas 33 km de largura entre os penhascos brancos de Dover (Inglaterra) e Calais/Dunquerque (França), é uma das rotas marítimas de passageiros e caminhões mais movimentadas da Terra. Operado ininterruptamente 24 horas por dia pelas frotas da DFDS Seaways, Irish Ferries e P&O Ferries (que introduziu os maiores ferries híbridos de dupla proa do mundo, P&O Pioneer e P&O Liberté), o corredor é complementado pelas linhas da Brittany Ferries entre Portsmouth, Caen/Ouistreham, Cherbourg, Saint-Malo e Roscoff. Na costa atlântica francesa, a rede pública BreizhGo (Compagnie Océane e Penn Ar Bed) conecta o continente às ilhas bretãs de Belle-Île-en-Mer, Groix e Ouessant, enquanto no coração de Paris o serviço Batobus (integrado ao passe Navigo) percorre 9 estações no Rio Sena entre Torre Eiffel, Museu d'Orsay, Louvre, Notre-Dame e Jardin des Plantes.",
+    "resumo_en": "The Strait of Dover (Pas-de-Calais), spanning just 33 km between Dover (England) and Calais/Dunkirk (France), is one of the busiest passenger and roll-on/roll-off maritime corridors on Earth, operated 24/7 by DFDS Seaways, Irish Ferries and P&O Ferries (featuring the world's largest double-ended hybrid ferries, P&O Pioneer and P&O Liberté) alongside Brittany Ferries routes across the western Channel. Within France, public BreizhGo ferries link the Breton coast to Belle-Île-en-Mer, Groix and Ouessant, while Batobus operates a 9-stop river shuttle along the Seine in central Paris.",
+    "lat": 51.045,
+    "lon": 1.565,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "port-boulogne-calais-dover-brittany-ferries",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "canal da mancha",
+      "dover",
+      "calais",
+      "dunquerque",
+      "dfds",
+      "p&o ferries",
+      "brittany ferries",
+      "batobus paris",
+      "rio sena",
+      "frança",
+      "reino unido",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Port_of_Dover_Eastern_Docks_Ferries.jpg/800px-Port_of_Dover_Eastern_Docks_Ferries.jpg",
+      "credito": "Wikimedia Commons — Superferries na travessia do Canal da Mancha entre Dover (Reino Unido) e Calais/Dunquerque (França)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_across_the_English_Channel"
+    },
+    "linhas": [
+      {
+        "id": "linha-canal-da-mancha-dover-calais-dunkerque",
+        "nome": "Ponte Marítima do Estreito de Dover (Porto de Dover, Reino Unido – Portos de Calais e Dunquerque, França)",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-normandia-bretanha-portsmouth-caen-batobus-sena-paris",
+        "nome": "Corredor Canal Ocidental (Portsmouth – Ouistreham/Caen) & Hidrovia Urbana do Rio Sena em Paris",
+        "status": "operacao",
+        "extensao_km": 130.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido",
+    "slug": "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido",
+    "nome_pt": "Corredores do Mar da Irlanda (Dublin–Holyhead, Rosslare–Fishguard/Pembroke e Belfast–Cairnryan) e Ferries das Ilhas de Aran (Irlanda e Reino Unido)",
+    "nome_en": "Irish Sea Ferry Corridors (Dublin–Holyhead, Rosslare–Fishguard/Pembroke & Belfast–Cairnryan) & Aran Islands Ferries (Ireland & UK)",
+    "pais": "Irlanda",
+    "cidade": "Dublin, Rosslare Europort e Ros a' Mhíl / Galway (Irlanda); Holyhead (País de Gales), Belfast (Irlanda do Norte) e Cairnryan (Escócia)",
+    "uf": "Leinster / Connacht / País de Gales / Irlanda do Norte / Escócia",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Irish Ferries (MV Ulysses / W.B. Yeats / Dublin Swift), Stena Line (Stena Estrid / Stena Adventurer) & Aran Island Ferries",
+    "inauguracao": "1848 (Conexão ferroviária-marítima Chester and Holyhead Railway – Dublin Kingstown e corredores modernos do Mar da Irlanda)",
+    "extensao_km": 320.0,
+    "bitola": "Hidrovia internacional do Mar da Irlanda, Canal de São Jorge, Canal do Norte e Baía de Galway",
+    "eletrificacao": "Superferries ro-pax (MV Ulysses, Stena Estrid Classe E-Flexer), catamarã de alta velocidade HSC Dublin Swift e ferries das Ilhas de Aran",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 24000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "€ 320 milhões (novos navios E-Flexer preparados para metanol/bateria da Stena Line no Mar da Irlanda e expansão do Rosslare Europort)",
+      "moeda": "EUR",
+      "fonte_id": "dublin-port-rosslare-irish-ferries-stena"
+    },
+    "proximas_entregas": {
+      "pt": "Modernização intermodal ferroviária-portuária do Rosslare Europort com a Iarnród Éireann (Irish Rail) e novos navios híbridos no Mar da Irlanda.",
+      "en": "Rail-port intermodal modernization at Rosslare Europort with Iarnród Éireann (Irish Rail) and new hybrid vessels on the Irish Sea."
+    },
+    "resumo_pt": "O Mar da Irlanda é cruzado por três corredores marítimos estratégicos que conectam a Ilha da Irlanda à Grã-Bretanha com integração ferroviária direta (bilhetes combinados Rail & Sail da Irish Rail e Transport for Wales / Avanti West Coast). No corredor central, os gigantescos navios ro-pax da Irish Ferries (como o MV Ulysses) e da Stena Line (Stena Estrid e Stena Adventurer), junto ao catamarã rápido HSC Dublin Swift, unem o Porto de Dublin ao terminal ferroviário-marítimo de Holyhead (Ilha de Anglesey, País de Gales). No corredor norte, a Stena Line e a P&O conectam Belfast (Irlanda do Norte) a Cairnryan (Escócia) e Liverpool, enquanto no corredor sul o Rosslare Europort liga-se a Fishguard e Pembroke Dock (Gales) e a Cherbourg/Bilbao. Na costa oeste irlandesa, a Aran Island Ferries conecta Ros a' Mhíl e Galway às três Ilhas de Aran (Inis Mór, Inis Meáin e Inis Oírr).",
+    "resumo_en": "The Irish Sea is spanned by three vital maritime corridors linking the island of Ireland with Great Britain, featuring integrated Rail & Sail ticketing with Iarnród Éireann (Irish Rail), Transport for Wales and Avanti West Coast. On the central corridor, Irish Ferries (MV Ulysses and HSC Dublin Swift) and Stena Line (Stena Estrid and Stena Adventurer) link Dublin Port directly with Holyhead rail-ferry terminal in Wales; in the north, Belfast connects to Cairnryan (Scotland) and Liverpool; in the south, Rosslare Europort links to Fishguard and Pembroke Dock, while on Ireland's Atlantic coast Aran Island Ferries serves Inis Mór, Inis Meáin and Inis Oírr.",
+    "lat": 53.3458,
+    "lon": -6.1955,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "dublin-port-rosslare-irish-ferries-stena",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "irlanda",
+      "mar da irlanda",
+      "dublin",
+      "holyhead",
+      "país de gales",
+      "belfast",
+      "cairnryan",
+      "rosslare",
+      "irish ferries",
+      "stena line",
+      "ilhas de aran",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Irish_Ferries_Ulysses_Dublin_Bay.jpg/800px-Irish_Ferries_Ulysses_Dublin_Bay.jpg",
+      "credito": "Wikimedia Commons — Superferry MV Ulysses da Irish Ferries e navios da Stena Line na travessia Dublin–Holyhead no Mar da Irlanda",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Irish_Ferries"
+    },
+    "linhas": [
+      {
+        "id": "linha-mar-da-irlanda-dublin-holyhead-rosslare-fishguard",
+        "nome": "Corredor Central e Sul do Mar da Irlanda (Porto de Dublin – Holyhead, Gales & Rosslare Europort – Fishguard)",
+        "status": "operacao",
+        "extensao_km": 225.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-canal-do-norte-belfast-cairnryan-escocia",
+        "nome": "Corredor do Canal do Norte (Porto de Belfast, Irlanda do Norte – Cairnryan / Loch Ryan, Escócia)",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]

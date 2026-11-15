@@ -33011,6 +33011,366 @@
           -41.2872
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-westminster-pier-londres",
+        "nome": "Westminster Pier (TfL River Bus / Uber Boat, Londres)",
+        "sistema_id": "uber-boat-thames-clippers-woolwich-ferry-rio-tamisa-londres-reino-unido",
+        "linha_id": "linha-thames-clippers-rb1-rb6-putney-westminster-canary-wharf-barking",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.124,
+          51.5015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-canary-wharf-pier-londres",
+        "nome": "Canary Wharf Pier (Uber Boat by Thames Clippers, Londres)",
+        "sistema_id": "uber-boat-thames-clippers-woolwich-ferry-rio-tamisa-londres-reino-unido",
+        "linha_id": "linha-thames-clippers-rb1-rb6-putney-westminster-canary-wharf-barking",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0255,
+          51.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-greenwich-pier-londres",
+        "nome": "Greenwich Pier (Cutty Sark / Maritime Greenwich, Londres)",
+        "sistema_id": "uber-boat-thames-clippers-woolwich-ferry-rio-tamisa-londres-reino-unido",
+        "linha_id": "linha-thames-clippers-rb1-rb6-putney-westminster-canary-wharf-barking",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.009,
+          51.4835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-woolwich-ferry-south-pier",
+        "nome": "Terminal Woolwich Ferry (Rio Tâmisa Leste, Londres)",
+        "sistema_id": "uber-boat-thames-clippers-woolwich-ferry-rio-tamisa-londres-reino-unido",
+        "linha_id": "linha-woolwich-ferry-travessia-rio-tamisa-londres",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0628,
+          51.4952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-liverpool-pier-head-ferry",
+        "nome": "Liverpool Gerry Marsden Ferry Terminal (Pier Head, Mersey Ferries)",
+        "sistema_id": "mersey-ferries-liverpool-wightlink-red-funnel-hovertravel-ilha-de-wight-reino-unido",
+        "linha_id": "linha-mersey-ferry-liverpool-pier-head-seacombe-woodside",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9985,
+          53.4048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-woodside-birkenhead-ferry",
+        "nome": "Terminal de Ferry de Woodside (Birkenhead, Merseyside)",
+        "sistema_id": "mersey-ferries-liverpool-wightlink-red-funnel-hovertravel-ilha-de-wight-reino-unido",
+        "linha_id": "linha-mersey-ferry-liverpool-pier-head-seacombe-woodside",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0095,
+          53.3952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-portsmouth-harbour-wightlink",
+        "nome": "Terminal Intermodal Ferro-Hidroviário de Portsmouth Harbour (Wightlink)",
+        "sistema_id": "mersey-ferries-liverpool-wightlink-red-funnel-hovertravel-ilha-de-wight-reino-unido",
+        "linha_id": "linha-solent-ferries-portsmouth-southampton-ryde-cowes-ilha-de-wight",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1085,
+          50.795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ryde-pier-head-wight",
+        "nome": "Terminal de Ryde Pier Head (Conexão Island Line, Ilha de Wight)",
+        "sistema_id": "mersey-ferries-liverpool-wightlink-red-funnel-hovertravel-ilha-de-wight-reino-unido",
+        "linha_id": "linha-solent-ferries-portsmouth-southampton-ryde-cowes-ilha-de-wight",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1615,
+          50.7392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-oban-ferry-terminal-calmac",
+        "nome": "Terminal Ferro-Hidroviário de Oban (Caledonian MacBrayne, Escócia)",
+        "sistema_id": "caledonian-macbrayne-calmac-hebridas-firth-of-clyde-escocia-reino-unido",
+        "linha_id": "linha-calmac-oban-mull-barra-firth-of-clyde-arran-bute",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4745,
+          56.4125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-wemyss-bay-ferry-terminal",
+        "nome": "Terminal Histórico de Wemyss Bay (Firth of Clyde, Escócia)",
+        "sistema_id": "caledonian-macbrayne-calmac-hebridas-firth-of-clyde-escocia-reino-unido",
+        "linha_id": "linha-calmac-oban-mull-barra-firth-of-clyde-arran-bute",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8935,
+          55.8765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ullapool-ferry-terminal",
+        "nome": "Terminal de Ferry de Ullapool (Highlands, Escócia)",
+        "sistema_id": "caledonian-macbrayne-calmac-hebridas-firth-of-clyde-escocia-reino-unido",
+        "linha_id": "linha-calmac-ullapool-stornoway-hebridas-externas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.161,
+          57.895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-stornoway-ferry-lewis",
+        "nome": "Terminal de Ferry de Stornoway (Ilha de Lewis, Hébridas Externas)",
+        "sistema_id": "caledonian-macbrayne-calmac-hebridas-firth-of-clyde-escocia-reino-unido",
+        "linha_id": "linha-calmac-ullapool-stornoway-hebridas-externas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3845,
+          58.2085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-dover-eastern-docks",
+        "nome": "Port of Dover — Eastern Docks Ferry Terminal (Reino Unido)",
+        "sistema_id": "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
+        "linha_id": "linha-canal-da-mancha-dover-calais-dunkerque",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3315,
+          51.1245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-calais-ferry-terminal",
+        "nome": "Terminal de Ferries do Porto de Calais (Pas-de-Calais, França)",
+        "sistema_id": "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
+        "linha_id": "linha-canal-da-mancha-dover-calais-dunkerque",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8565,
+          50.968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-ouistreham-caen-ferry",
+        "nome": "Terminal Marítimo de Ouistreham / Caen (Brittany Ferries, Normandia)",
+        "sistema_id": "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
+        "linha_id": "linha-normandia-bretanha-portsmouth-caen-batobus-sena-paris",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2515,
+          49.2825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-batobus-tour-eiffel-sena",
+        "nome": "Estação Fluvial Batobus Tour Eiffel (Rio Sena, Paris)",
+        "sistema_id": "ferries-canal-da-mancha-dover-calais-dunkerque-batobus-rio-sena-franca-reino-unido",
+        "linha_id": "linha-normandia-bretanha-portsmouth-caen-batobus-sena-paris",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.293,
+          48.8595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dublin-port-ferry-terminal",
+        "nome": "Terminal de Ferries do Porto de Dublin (Irish Ferries / Stena Line)",
+        "sistema_id": "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido",
+        "linha_id": "linha-mar-da-irlanda-dublin-holyhead-rosslare-fishguard",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1955,
+          53.3458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-holyhead-rail-ferry-terminal",
+        "nome": "Terminal Ferro-Hidroviário de Holyhead (Anglesey, País de Gales)",
+        "sistema_id": "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido",
+        "linha_id": "linha-mar-da-irlanda-dublin-holyhead-rosslare-fishguard",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6295,
+          53.3095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rosslare-europort-irlanda",
+        "nome": "Rosslare Europort Ferry Terminal (Wexford, Irlanda)",
+        "sistema_id": "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido",
+        "linha_id": "linha-mar-da-irlanda-dublin-holyhead-rosslare-fishguard",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3365,
+          52.2535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-belfast-victoria-terminal",
+        "nome": "Victoria Ferry Terminal — Porto de Belfast (Irlanda do Norte)",
+        "sistema_id": "irish-ferries-stena-line-mar-da-irlanda-dublin-holyhead-belfast-rosslare-irlanda-reino-unido",
+        "linha_id": "linha-canal-do-norte-belfast-cairnryan-escocia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8815,
+          54.6365
+        ]
+      }
     }
   ]
 }
