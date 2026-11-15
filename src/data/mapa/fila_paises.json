@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T12:15:00-03:00",
+  "atualizado_em": "2026-11-15T12:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2260,17 +2260,18 @@
       "status": "concluido",
       "concluido_em": "2026-11-15T12:15:00-03:00",
       "ronda": 147
+    },
+    {
+      "ordem": 144,
+      "pais": "Fase Hidroviária Brasil #9 — Travessias Costeiras, Estuarinas e Fluviais Complementares do Brasil (Travessias de Barcas e Catamarãs da Baía de Guanabara/Sepetiba Itaguaí–Ilha da Madeira–Jaguanum–Itacuruçá no RJ; Lanchas Rápidas de Antonina–Guaraqueçaba–Superagui no PR; Travessias do Rio São Francisco Barra–Xique-Xique–Pilão Arcado–Remanso na BA; Balsas de Porto Xavier–San Javier e Porto Mauá–Alba Posse no Rio Uruguai no RS; e Hidrovias de Tefé–Jutaí–Fonte Boa–Santo Antônio do Içá no Alto Solimões no AM)",
+      "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-IX",
+      "continente": "América do Sul (Brasil)",
+      "status": "concluido",
+      "concluido_em": "2026-11-15T12:45:00-03:00",
+      "ronda": 148
     }
   ],
   "fila_proximas_rondas": [
-    {
-      "ordem": 144,
-      "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-IX",
-      "pais": "Fase Hidroviária Brasil #9 — Travessias Costeiras, Estuarinas e Fluviais Complementares do Brasil (Travessias de Barcas e Catamarãs da Baía de Guanabara/Sepetiba Itaguaí–Ilha da Madeira–Jaguanum–Itacuruçá no RJ; Lanchas Rápidas de Antonina–Guaraqueçaba–Superagui no PR; Travessias do Rio São Francisco Barra–Xique-Xique–Pilão Arcado–Remanso na BA; Balsas de Porto Xavier–San Javier e Porto Mauá–Alba Posse no Rio Uruguai no RS; e Hidrovias de Tefé–Jutaí–Fonte Boa–Santo Antônio do Içá no Alto Solimões no AM)",
-      "continente": "América do Sul (Brasil)",
-      "prioridade": "alta",
-      "status": "pendente"
-    },
     {
       "ordem": 145,
       "codigo": "HIDRO-AMERICA-DO-SUL-FLUVIAL-MARITIMA-III",
@@ -2300,6 +2301,14 @@
       "codigo": "HIDRO-SUDESTE-ASIATICO-MEKONG-BORNEU-CELEBES-III",
       "pais": "Fase Hidroviária Mundial #38 — Sudeste Asiático Fluvial e Insular III: Rio Mekong, Bornéu, Molucas e Filipinas Meridionais (Expresso Fluvial do Rio Mekong Phnom Penh–Chau Doc no Camboja/Vietnã e Luang Prabang–Huay Xai no Laos; Express Boats do Rio Rajang Sibu–Kapit em Sarawak, Bornéu e Tawau–Nunukan na Malásia/Indonésia; PELNI / ASDP Ferries de Bitung–Ternate–Tidore nas Molucas e Kupang–Rote em Timor na Indonésia; Ferries de Zamboanga–Basilan–Jolo–Tawi-Tawi e Davao–Samal nas Filipinas; e Koh Rong / Sihanoukville Speed Ferries no Camboja)",
       "continente": "Ásia",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 149,
+      "codigo": "HIDRO-OCEANIA-MELANESIA-MICRONESIA-POLINESIA-NOVA-ZELANDIA-III",
+      "pais": "Fase Hidroviária Mundial #39 — Oceania, Melanésia, Micronésia, Polinésia e Nova Zelândia III (Interislander & BlueBridge Wellington–Picton no Estreito de Cook, Stewart Island Experience Bluff–Oban e East by West Ferry Wellington na Nova Zelândia; Spencer Gulf Searoads Wallaroo–Lucky Bay e Kangaroo Island Connect na Austrália; Aremiti / Terevau Tahiti–Moorea e Apetahi Express Bora Bora–Raiatea–Huahine na Polinésia Francesa; e Patterson Brothers / Goundar Shipping Natovi–Nabouwalu em Fiji e Lady Naomi Apia–Pago Pago em Samoa)",
+      "continente": "Oceania",
       "prioridade": "alta",
       "status": "pendente"
     }

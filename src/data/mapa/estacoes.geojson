@@ -45893,6 +45893,581 @@
           34.7385
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-hidroviario-fonte-boa-solimoes-am",
+        "nome": "Terminal Hidroviário IP4 de Fonte Boa (Alto Solimões)",
+        "sistema_id": "hidrovia-alto-solimoes-rio-ica-tefe-fonte-boa-jutai-santo-antonio-do-ica-benjamin-constant-tabatinga-am-brasil",
+        "linha_id": "linha-alto-solimoes-tefe-fonte-boa-jutai-santo-antonio-do-ica",
+        "cidade": "Fonte Boa",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal hidroviário flutuante IP4 do DNIT no Médio-Alto Rio Solimões."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0917,
+          -2.5139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-hidroviario-jutai-solimoes-am",
+        "nome": "Terminal Hidroviário IP4 de Jutaí",
+        "sistema_id": "hidrovia-alto-solimoes-rio-ica-tefe-fonte-boa-jutai-santo-antonio-do-ica-benjamin-constant-tabatinga-am-brasil",
+        "linha_id": "linha-alto-solimoes-tefe-fonte-boa-jutai-santo-antonio-do-ica",
+        "cidade": "Jutaí",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto fluvial de lanchas rápidas AJATO e barcos regionais na foz do Rio Jutaí."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7667,
+          -2.7478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-hidroviario-santo-antonio-do-ica-am",
+        "nome": "Terminal Hidroviário de Santo Antônio do Içá (Foz do Rio Içá)",
+        "sistema_id": "hidrovia-alto-solimoes-rio-ica-tefe-fonte-boa-jutai-santo-antonio-do-ica-benjamin-constant-tabatinga-am-brasil",
+        "linha_id": "linha-alto-solimoes-tefe-fonte-boa-jutai-santo-antonio-do-ica",
+        "cidade": "Santo Antônio do Içá",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Entroncamento hidroviário estratégico na confluência do Rio Içá (Putumayo) com o Rio Solimões."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9439,
+          -3.1492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-hidroviario-sao-paulo-de-olivenca-am",
+        "nome": "Terminal Hidroviário IP4 de São Paulo de Olivença",
+        "sistema_id": "hidrovia-alto-solimoes-rio-ica-tefe-fonte-boa-jutai-santo-antonio-do-ica-benjamin-constant-tabatinga-am-brasil",
+        "linha_id": "linha-alto-solimoes-javari-santo-antonio-olivenca-benjamin-constant-atalaia",
+        "cidade": "São Paulo de Olivença",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal hidroviário flutuante do Alto Solimões atendido pelas lanchas expressas Manaus–Tefé–Tabatinga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9497,
+          -3.4653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-hidroviario-benjamin-constant-atalaia-do-norte-javari-am",
+        "nome": "Terminal Hidroviário de Benjamin Constant & Atalaia do Norte (Rio Javari)",
+        "sistema_id": "hidrovia-alto-solimoes-rio-ica-tefe-fonte-boa-jutai-santo-antonio-do-ica-benjamin-constant-tabatinga-am-brasil",
+        "linha_id": "linha-alto-solimoes-javari-santo-antonio-olivenca-benjamin-constant-atalaia",
+        "cidade": "Benjamin Constant / Atalaia do Norte",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Polos hidroviários da foz do Rio Javari na tríplice fronteira Brasil–Peru–Colômbia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0314,
+          -4.3756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-hidroviario-paranagua-rua-da-praia-pr",
+        "nome": "Terminal Hidroviário de Paranaguá (Trapiche da Rua da Praia / Rio Itiberê)",
+        "sistema_id": "travessias-lanchas-baia-de-paranagua-antonina-guaraquecaba-superagui-ilha-das-pecas-paranagua-pr-brasil",
+        "linha_id": "linha-baia-paranagua-antonina-guaraquecaba-sebui",
+        "cidade": "Paranaguá",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal estação de embarque das lanchas rápidas e barcos de linha para Guaraqueçaba, Ilha das Peças e Superagui."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5042,
+          -25.5161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "trapiche-municipal-antonina-ponta-da-pita-pr",
+        "nome": "Trapiche Municipal de Antonina",
+        "sistema_id": "travessias-lanchas-baia-de-paranagua-antonina-guaraquecaba-superagui-ilha-das-pecas-paranagua-pr-brasil",
+        "linha_id": "linha-baia-paranagua-antonina-guaraquecaba-sebui",
+        "cidade": "Antonina",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Atracadouro histórico no fundo da Baía de Antonina com travessias náuticas pelo Lagamar Paranaense."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6989,
+          -25.4328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-hidroviario-guaraquecaba-pr",
+        "nome": "Terminal Hidroviário Municipal de Guaraqueçaba",
+        "sistema_id": "travessias-lanchas-baia-de-paranagua-antonina-guaraquecaba-superagui-ilha-das-pecas-paranagua-pr-brasil",
+        "linha_id": "linha-baia-paranagua-antonina-guaraquecaba-sebui",
+        "cidade": "Guaraqueçaba",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píer central de Guaraqueçaba na Baía das Laranjeiras, principal ligação diária por lancha rápida com Paranaguá."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3289,
+          -25.3069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "trapiche-ilha-das-pecas-guaraquecaba-pr",
+        "nome": "Trapiche da Ilha das Peças (Baía das Laranjeiras)",
+        "sistema_id": "travessias-lanchas-baia-de-paranagua-antonina-guaraquecaba-superagui-ilha-das-pecas-paranagua-pr-brasil",
+        "linha_id": "linha-lagamar-paranagua-ilha-das-pecas-barra-do-superagui",
+        "cidade": "Guaraqueçaba",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Atracadouro insular da comunidade pesqueira e santuário de botos-cinza no Parque Nacional do Superagui."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3347,
+          -25.4622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "trapiche-barra-do-superagui-parque-nacional-pr",
+        "nome": "Trapiche da Barra do Superagui (Parque Nacional do Superagui UNESCO)",
+        "sistema_id": "travessias-lanchas-baia-de-paranagua-antonina-guaraquecaba-superagui-ilha-das-pecas-paranagua-pr-brasil",
+        "linha_id": "linha-lagamar-paranagua-ilha-das-pecas-barra-do-superagui",
+        "cidade": "Guaraqueçaba",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal hidroviário insular da Ilha do Superagui na divisa marítima entre o Paraná e o Canal do Varadouro/Cananéia (SP)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2419,
+          -25.4594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "atracadouro-balsa-remanso-lago-de-sobradinho-ba",
+        "nome": "Atracadouro Hidroviário de Remanso (Lago de Sobradinho)",
+        "sistema_id": "travessias-balsas-lago-de-sobradinho-medio-sao-francisco-remanso-pilao-arcado-sento-se-casa-nova-bom-jesus-da-lapa-ba-brasil",
+        "linha_id": "linha-lago-sobradinho-remanso-pilao-arcado-sento-se-casa-nova",
+        "cidade": "Remanso",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto de balsas Ro-Ro e barcos de passageiros na margem norte do Lago de Sobradinho."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0831,
+          -9.6214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "atracadouro-balsa-pilao-arcado-lago-de-sobradinho-ba",
+        "nome": "Atracadouro Hidroviário de Pilão Arcado",
+        "sistema_id": "travessias-balsas-lago-de-sobradinho-medio-sao-francisco-remanso-pilao-arcado-sento-se-casa-nova-bom-jesus-da-lapa-ba-brasil",
+        "linha_id": "linha-lago-sobradinho-remanso-pilao-arcado-sento-se-casa-nova",
+        "cidade": "Pilão Arcado",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal de travessia de balsas e barcos no trecho ocidental do Lago de Sobradinho."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4336,
+          -10.0031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "atracadouro-balsa-sento-se-casa-nova-sobradinho-ba",
+        "nome": "Atracadouro Hidroviário de Sento Sé & Casa Nova",
+        "sistema_id": "travessias-balsas-lago-de-sobradinho-medio-sao-francisco-remanso-pilao-arcado-sento-se-casa-nova-bom-jesus-da-lapa-ba-brasil",
+        "linha_id": "linha-lago-sobradinho-remanso-pilao-arcado-sento-se-casa-nova",
+        "cidade": "Sento Sé / Casa Nova",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Rampas de embarque na margem sul e norte do grande reservatório de Sobradinho."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8842,
+          -9.7422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "atracadouro-bom-jesus-da-lapa-sitio-do-mato-ba",
+        "nome": "Porto Fluvial de Bom Jesus da Lapa & Balsa de Sítio do Mato (Rio São Francisco)",
+        "sistema_id": "travessias-balsas-lago-de-sobradinho-medio-sao-francisco-remanso-pilao-arcado-sento-se-casa-nova-bom-jesus-da-lapa-ba-brasil",
+        "linha_id": "linha-medio-sao-francisco-bom-jesus-da-lapa-sitio-do-mato-carinhanha",
+        "cidade": "Bom Jesus da Lapa / Sítio do Mato",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Tradicional polo fluvial e de romarias do Médio São Francisco na confluência com o Rio Corrente."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4181,
+          -13.255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "atracadouro-carinhanha-malhada-rio-sao-francisco-ba",
+        "nome": "Atracadouro Fluvial de Carinhanha & Malhada (Divisa BA/MG)",
+        "sistema_id": "travessias-balsas-lago-de-sobradinho-medio-sao-francisco-remanso-pilao-arcado-sento-se-casa-nova-bom-jesus-da-lapa-ba-brasil",
+        "linha_id": "linha-medio-sao-francisco-bom-jesus-da-lapa-sitio-do-mato-carinhanha",
+        "cidade": "Carinhanha / Malhada",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto ribeirinho histórico do Médio São Francisco próximo à divisa da Bahia com Minas Gerais."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.7653,
+          -14.3053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-fluvial-porto-rico-rio-parana-pr",
+        "nome": "Terminal Hidroviário de Porto Rico (Alto Rio Paraná)",
+        "sistema_id": "travessias-balsas-rio-parana-rio-paranapanema-porto-rico-porto-camargo-icaraima-querencia-do-norte-rosana-pr-sp-ms-brasil",
+        "linha_id": "linha-alto-parana-porto-rico-porto-sao-jose-porto-felicio-bataipora",
+        "cidade": "Porto Rico",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto de lanchas de travessia insular e balsas interestaduais PR–MS na Costa Noroeste do Paraná."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2669,
+          -22.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-fluvial-porto-sao-jose-sao-pedro-do-parana-pr",
+        "nome": "Atracadouro de Porto São José (São Pedro do Paraná)",
+        "sistema_id": "travessias-balsas-rio-parana-rio-paranapanema-porto-rico-porto-camargo-icaraima-querencia-do-norte-rosana-pr-sp-ms-brasil",
+        "linha_id": "linha-alto-parana-porto-rico-porto-sao-jose-porto-felicio-bataipora",
+        "cidade": "São Pedro do Paraná",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Píer fluvial a jusante da foz do Rio Paranapanema com barcos-táxi para as ilhas do Rio Paraná."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1753,
+          -22.7186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-balsa-porto-felicio-querencia-do-norte-bataipora-pr-ms",
+        "nome": "Terminal de Balsa de Porto Felício (Querência do Norte PR – Bataiporã MS)",
+        "sistema_id": "travessias-balsas-rio-parana-rio-paranapanema-porto-rico-porto-camargo-icaraima-querencia-do-norte-rosana-pr-sp-ms-brasil",
+        "linha_id": "linha-alto-parana-porto-rico-porto-sao-jose-porto-felicio-bataipora",
+        "cidade": "Querência do Norte / Bataiporã",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia interestadual de balsas Ro-Ro ligando o noroeste paranaense ao vale do Ivinhema em Mato Grosso do Sul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4792,
+          -22.9056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-balsa-porto-camargo-icaraima-pr",
+        "nome": "Terminal Hidroviário de Porto Camargo (Icaraíma — Parque Nacional de Ilha Grande)",
+        "sistema_id": "travessias-balsas-rio-parana-rio-paranapanema-porto-rico-porto-camargo-icaraima-querencia-do-norte-rosana-pr-sp-ms-brasil",
+        "linha_id": "linha-ilha-grande-porto-camargo-icaraima-porto-caiua-navirai",
+        "cidade": "Icaraíma",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto fluvial paranaense na cabeceira do Arquipélago de Ilha Grande."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7431,
+          -23.3686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-balsa-porto-caiua-navirai-ms",
+        "nome": "Atracadouro de Porto Caiuá (Naviraí — Margem Sul-Mato-Grossense do Rio Paraná)",
+        "sistema_id": "travessias-balsas-rio-parana-rio-paranapanema-porto-rico-porto-camargo-icaraima-querencia-do-norte-rosana-pr-sp-ms-brasil",
+        "linha_id": "linha-ilha-grande-porto-camargo-icaraima-porto-caiua-navirai",
+        "cidade": "Naviraí",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal sul-mato-grossense da travessia hidroviária sobre o Rio Paraná e o canal do Parque Nacional de Ilha Grande."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9439,
+          -23.3114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-balsa-porto-de-pedras-rio-manguaba-al",
+        "nome": "Rampa da Balsa de Porto de Pedras (Foz do Rio Manguaba)",
+        "sistema_id": "travessias-hidroviarias-costa-dos-corais-porto-de-pedras-japaratinga-maragogi-tamandare-ilha-de-santo-aleixo-al-pe-brasil",
+        "linha_id": "linha-costa-dos-corais-porto-de-pedras-japaratinga-maragogi",
+        "cidade": "Porto de Pedras",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Atracadouro sul da tradicional travessia de balsas Ro-Ro sobre o Rio Manguaba na Rota Ecológica dos Milagres."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2936,
+          -9.1564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "terminal-balsa-boqueirao-japaratinga-al",
+        "nome": "Rampa da Balsa de Boqueirão (Japaratinga — Margem Norte do Rio Manguaba)",
+        "sistema_id": "travessias-hidroviarias-costa-dos-corais-porto-de-pedras-japaratinga-maragogi-tamandare-ilha-de-santo-aleixo-al-pe-brasil",
+        "linha_id": "linha-costa-dos-corais-porto-de-pedras-japaratinga-maragogi",
+        "cidade": "Japaratinga",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Atracadouro norte da travessia de balsas Porto de Pedras–Japaratinga em Alagoas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2631,
+          -9.0886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pier-hidroviario-maragogi-barra-grande-al",
+        "nome": "Píer Hidroviário de Maragogi & Barra Grande (APA Costa dos Corais)",
+        "sistema_id": "travessias-hidroviarias-costa-dos-corais-porto-de-pedras-japaratinga-maragogi-tamandare-ilha-de-santo-aleixo-al-pe-brasil",
+        "linha_id": "linha-costa-dos-corais-porto-de-pedras-japaratinga-maragogi",
+        "cidade": "Maragogi",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal polo náutico de catamarãs e lanchas da APA Costa dos Corais no litoral norte alagoano."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2222,
+          -9.0122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pier-estuario-rio-formoso-carneiros-tamandare-pe",
+        "nome": "Píer Estuarino do Rio Formoso & Praia dos Carneiros (Tamandaré / Guadalupe)",
+        "sistema_id": "travessias-hidroviarias-costa-dos-corais-porto-de-pedras-japaratinga-maragogi-tamandare-ilha-de-santo-aleixo-al-pe-brasil",
+        "linha_id": "linha-estuario-rio-formoso-tamandare-barra-de-sirinhaem-santo-aleixo",
+        "cidade": "Tamandaré / Rio Formoso",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia hidroviária entre o manguezal de Guadalupe (Sirinhaém), o estuário do Rio Formoso e a Praia dos Carneiros."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0953,
+          -8.7297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pier-barra-de-sirinhaem-ilha-de-santo-aleixo-pe",
+        "nome": "Atracadouro da Barra de Sirinhaém & Ilha de Santo Aleixo",
+        "sistema_id": "travessias-hidroviarias-costa-dos-corais-porto-de-pedras-japaratinga-maragogi-tamandare-ilha-de-santo-aleixo-al-pe-brasil",
+        "linha_id": "linha-estuario-rio-formoso-tamandare-barra-de-sirinhaem-santo-aleixo",
+        "cidade": "Sirinhaém",
+        "pais": "Brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Elo de lanchas rápidas entre a Barra de Sirinhaém e a ilha vulcânica costeira de Santo Aleixo no litoral sul de Pernambuco."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0211,
+          -8.6122
+        ]
+      }
     }
   ]
 }
