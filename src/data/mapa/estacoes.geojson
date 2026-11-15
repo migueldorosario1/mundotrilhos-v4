@@ -35891,6 +35891,366 @@
           -27.9055
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-torshavn-farstodin-ferry-terminal-fo",
+        "nome": "Terminal Marítimo e de Ônibus de Tórshavn — Farstøðin (SSL & Smyril Line, Ilhas Faroé)",
+        "sistema_id": "strandfaraskip-landsins-ssl-torshavn-suduroy-smyril-line-norrona-ilhas-faroe-dinamarca-islandia",
+        "linha_id": "linha-ssl-ilhas-faroe-torshavn-suduroy-klaksvik-kalsoy",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7715,
+          62.0075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-krambatangi-tvoroyri-suduroy-ferry-fo",
+        "nome": "Terminal de Ferries de Krambatangi — Tvøroyri / Suðuroy (Rota 7 SSL, Ilhas Faroé)",
+        "sistema_id": "strandfaraskip-landsins-ssl-torshavn-suduroy-smyril-line-norrona-ilhas-faroe-dinamarca-islandia",
+        "linha_id": "linha-ssl-ilhas-faroe-torshavn-suduroy-klaksvik-kalsoy",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8095,
+          61.5545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-klaksvik-ferry-port-northern-isles-fo",
+        "nome": "Porto de Ferries de Klaksvík — Ilhas do Norte / Kalsoy (SSL, Ilhas Faroé)",
+        "sistema_id": "strandfaraskip-landsins-ssl-torshavn-suduroy-smyril-line-norrona-ilhas-faroe-dinamarca-islandia",
+        "linha_id": "linha-ssl-ilhas-faroe-torshavn-suduroy-klaksvik-kalsoy",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5895,
+          62.2265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-seydisfjordur-smyril-line-terminal-is",
+        "nome": "Terminal Transatlântico da Smyril Line em Seyðisfjörður (MS Norröna, Islândia)",
+        "sistema_id": "strandfaraskip-landsins-ssl-torshavn-suduroy-smyril-line-norrona-ilhas-faroe-dinamarca-islandia",
+        "linha_id": "linha-smyril-line-norrona-hirtshals-torshavn-seydisfjordur",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0015,
+          65.2615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-vestmannaeyjar-heimaey-herjolfur-pier-is",
+        "nome": "Terminal do Ferry Elétrico Herjólfur IV em Heimaey — Vestmannaeyjar (Islândia)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-hrisey-islandia",
+        "linha_id": "linha-islandia-sul-oeste-herjolfur-vestmannaeyjar-baldur-breidafjordur",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2715,
+          63.4425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-landeyjahofn-ferry-harbour-iceland",
+        "nome": "Porto Continental de Landeyjahöfn (Travessia Elétrica de Vestmannaeyjar, Islândia)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-hrisey-islandia",
+        "linha_id": "linha-islandia-sul-oeste-herjolfur-vestmannaeyjar-baldur-breidafjordur",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1215,
+          63.5285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-stykkisholmur-baldur-ferry-port-is",
+        "nome": "Porto de Stykkishólmur — Ferry Baldur (Baía de Breiðafjörður, Islândia)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-hrisey-islandia",
+        "linha_id": "linha-islandia-sul-oeste-herjolfur-vestmannaeyjar-baldur-breidafjordur",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7285,
+          65.0755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-grimsey-arctic-circle-ferry-pier-is",
+        "nome": "Porto Ártico da Ilha de Grímsey — Círculo Polar Ártico 66°33'N (Ferry Sæfari, Islândia)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-hrisey-islandia",
+        "linha_id": "linha-islandia-artico-saefari-dalvik-hrisey-grimsey-circulo-polar",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0175,
+          66.5415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-virtsu-ferry-harbour-ts-laevad-ee",
+        "nome": "Porto de Ferries de Virtsu (TS Laevad / Praamid, Estônia)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-heltermaa-hiiumaa-estonia",
+        "linha_id": "linha-ts-laevad-virtsu-kuivastu-saaremaa-munalaiu-kihnu-estonia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5085,
+          58.5745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kuivastu-harbour-muhu-saaremaa-ee",
+        "nome": "Terminal Marítimo de Kuivastu — Ilhas de Muhu e Saaremaa (TS Laevad, Estônia)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-heltermaa-hiiumaa-estonia",
+        "linha_id": "linha-ts-laevad-virtsu-kuivastu-saaremaa-munalaiu-kihnu-estonia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3925,
+          58.5735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rohukula-harbour-haapsalu-ee",
+        "nome": "Porto de Ferries de Rohuküla — Haapsalu (Rota de Hiiumaa e Vormsi, Estônia)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-heltermaa-hiiumaa-estonia",
+        "linha_id": "linha-ts-laevad-rohukula-heltermaa-hiiumaa-soru-triigi-estonia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4245,
+          58.9055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-heltermaa-harbour-hiiumaa-ee",
+        "nome": "Terminal Marítimo de Heltermaa — Ilha de Hiiumaa (TS Laevad, Estônia)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-heltermaa-hiiumaa-estonia",
+        "linha_id": "linha-ts-laevad-rohukula-heltermaa-hiiumaa-soru-triigi-estonia",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0465,
+          58.8665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-klaipeda-senoji-perkela-old-ferry-lt",
+        "nome": "Antigo Terminal de Ferries de Klaipėda — Senoji Perkėla / Šiaurinis Ragas (Lituânia)",
+        "sistema_id": "smiltynes-perkela-klaipeda-curonian-spit-neringa-nida-nemunas-delta-lituania",
+        "linha_id": "linha-smiltynes-perkela-klaipeda-antigo-novo-terminal-smiltyne",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1245,
+          55.7065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-smiltyne-ferry-terminal-neringa-lt",
+        "nome": "Terminal de Smiltynė — Istmo da Curlândia / Museu Marítimo (Neringa, Lituânia)",
+        "sistema_id": "smiltynes-perkela-klaipeda-curonian-spit-neringa-nida-nemunas-delta-lituania",
+        "linha_id": "linha-smiltynes-perkela-klaipeda-antigo-novo-terminal-smiltyne",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1165,
+          55.7045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-klaipeda-naujoji-perkela-new-ferry-lt",
+        "nome": "Novo Terminal Ro-Pax de Klaipėda — Naujoji Perkėla (AB Smiltynės Perkėla, Lituânia)",
+        "sistema_id": "smiltynes-perkela-klaipeda-curonian-spit-neringa-nida-nemunas-delta-lituania",
+        "linha_id": "linha-smiltynes-perkela-klaipeda-antigo-novo-terminal-smiltyne",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1395,
+          55.6695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nida-harbour-curonian-lagoon-lt",
+        "nome": "Porto de Passageiros de Nida — Lagoa da Curlândia (Neringa UNESCO, Lituânia)",
+        "sistema_id": "smiltynes-perkela-klaipeda-curonian-spit-neringa-nida-nemunas-delta-lituania",
+        "linha_id": "linha-lagoa-da-curlandia-klaipeda-juodkrante-nida-minge-nemunas",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0065,
+          55.3035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-visby-ferry-terminal-gotland-se",
+        "nome": "Terminal de Ferries do Porto de Visby (Destination Gotland, Ilha de Gotland, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-olandsbron-ventrafiken-hven-suecia",
+        "linha_id": "linha-destination-gotland-norte-nynashamn-visby-farosund-faro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2845,
+          57.6345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nynashamn-ferry-pendeltag-terminal-se",
+        "nome": "Terminal Intermodal Ferro-Marítimo de Nynäshamn (Conexão SL Pendeltåg + Gotland, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-olandsbron-ventrafiken-hven-suecia",
+        "linha_id": "linha-destination-gotland-norte-nynashamn-visby-farosund-faro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9515,
+          58.9015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-oskarshamn-gotlandsterminalen-se",
+        "nome": "Gotlandsterminalen — Porto de Oskarshamn (Småland, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-olandsbron-ventrafiken-hven-suecia",
+        "linha_id": "linha-destination-gotland-sul-oskarshamn-visby-mar-baltico",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4585,
+          57.2625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-farosund-faro-ferry-terminal-gotland-se",
+        "nome": "Travessia de Ferries de Fårösund – Ilha de Fårö (Trafikverket, Norte de Gotland, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-olandsbron-ventrafiken-hven-suecia",
+        "linha_id": "linha-destination-gotland-norte-nynashamn-visby-farosund-faro",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0625,
+          57.8645
+        ]
+      }
     }
   ]
 }
