@@ -1604,3 +1604,22 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
    - **2.605 estações e terminais geolocalizados** (**1.171 terminais hidroviários** — superando a marca de **2.600 estações e terminais**!).
    - **2.716 páginas estáticas geradas** pelo Astro build (`+10` novas rotas estáticas).
 3. **Próxima Ronda (#162 — Ordem 158 da Fila)**: Fase Hidroviária Mundial #47 — Mar Mediterrâneo, Mar Egeu, Mar Adriático, Baleares e Sicília/Sardenha IV (`HIDRO-MEDITERRANEO-EGEU-ADRIATICO-BALEARES-SICILIA-IV`).
+
+---
+
+### #163 — 2026-11-15 19:46 BRT — De: AGY (AG-27 / AG-325) → Para: Milton / Miguel
+**Tipo**: entrega
+**Ref**: Ronda #162 (Ordem 158 da Fila — Fase Hidroviária Mundial #47: Mar Mediterrâneo, Mar Egeu, Mar Adriático, Baleares e Sicília/Sardenha IV)
+
+1. **Ordem 158 da Fila concluída e publicada em produção (`main`)**:
+   - **Superfast Ferries, ANEK Lines, Minoan Lines e Levante Ferries — Autoestradas Marítimas Itália–Grécia e Ilhas Jônicas (`superfast-anek-minoan-lines-ancona-bari-brindisi-igoumenitsa-patras-levante-ferries-kefalonia-zakynthos-ithaca-italia-grecia`)** (`🇮🇹🇬🇷 Itália e Grécia`, `2.150 km`, 2 linhas, 5 terminais: `Ancona, Bari & Brindisi Ferry Terminals`, `Igoumenitsa International Ferry Port`, `Patras Ferry Port`, `Kyllini & Zakynthos (Zante) Ports — Levante Ferries` e `Poros & Sami (Cefalônia) e Pisaetos (Ítaca)`).
+   - **Travelmar (Metrô do Mar da Costa Amalfitana: Salerno–Amalfi–Positano), Ilhas Tremiti e Ferries de Pantelleria e Lampedusa (`travelmar-salerno-amalfi-positano-costa-amalfitana-termoli-ilhas-tremiti-porto-empedocle-lampedusa-pantelleria-italia`)** (`🇮🇹 Itália`, `960 km`, 2 linhas, 5 terminais: `Salerno (Piazza della Concordia / Molo Manfredi)`, `Amalfi, Positano, Maiori, Minori & Cetara Piers`, `Termoli & San Domino / San Nicola (Ilhas Tremiti)`, `Porto de Pantelleria` e `Porto Empedocle (Agrigento), Linosa & Lampedusa`).
+   - **Baleària, Trasmed GLE e GNV — Pontes Marítimas das Ilhas Baleares (Maiorca, Menorca e Ibiza) e Travessias de Tarifa–Tânger e Almeria–Melilla (`trasmed-gle-balearia-gnv-barcelona-valencia-denia-palma-alcudia-mahon-ciutadella-tarifa-tanger-almeria-melilla-espanha`)** (`🇪🇸🇲🇦 Espanha e Marrocos`, `2.380 km`, 2 linhas, 5 terminais: `Port de Palma de Mallorca & Port d'Alcúdia`, `Port de Ciutadella & Port de Maó (Mahón) — Menorca`, `Estações Marítimas de Dénia (Baleària Port), Valência e Barcelona`, `Puerto de Tarifa (Tarifa–Tânger Ville)` e `Portos de Almeria e Melilla`).
+   - **Jadrolinija no Golfo de Kvarner (Rijeka–Cres–Lošinj–Rab–Pag), Parque Nacional de Brijuni e Catamarãs Veneza–Piran–Ístria (`jadrolinija-kvarner-rijeka-cres-krk-rab-pag-fazana-brijuni-venezia-lines-piran-porec-rovinj-pula-croacia-eslovenia-italia`)** (`🇭🇷🇸🇮🇮🇹 Croácia, Eslovênia e Itália`, `740 km`, 2 linhas, 5 terminais: `Rijeka Passenger Terminal (Sede da Jadrolinija)`, `Mali Lošinj & Cres Ports`, `Ilhas de Rab e Pag`, `Fažana & Veli Brijun (Parque Nacional de Brijuni)` e `Portos de Piran (Eslovênia), Poreč, Rovinj e Pula (Ístria)`).
+   - **Blue Star e Hellenic Seaways no Egeu Setentrional (Lesbos, Quíos, Samos e Lemnos), ANENDYK no Sul de Creta (Samaria e Gavdos) e Ferries de Eubeia (`blue-star-hellenic-seaways-lesbos-chios-samos-ikaria-limnos-anendyk-creta-sfakia-loutro-gavdos-rio-antirrio-eubeia-grecia`)** (`🇬🇷 Grécia`, `1.820 km`, 2 linhas, 5 terminais: `Porto de Mitilene (Lesbos)`, `Portos de Quíos e Samos (Vathy e Karlovasi)`, `Porto de Mirina (Lemnos) & Porto de Kavala`, `Hora Sfakion, Loutro & Agia Roumeli (Garganta de Samaria, Creta)` e `Porto de Karave — Ilha de Gavdos (Ponto Mais Meridional da Europa)`).
+2. **Totais atualizados do Atlas Global**:
+   - **1.015 sistemas mapeados** (`999` em operação no mapa + `16` não-operacionais preservados no banco; **279 sistemas de transporte por barco** — a apenas 1 sistema do marco de `1.000 sistemas em operação`!).
+   - **1.471 linhas mapeadas** (`1.452` operacionais no mapa; **557 linhas hidroviárias**).
+   - **2.630 estações e terminais geolocalizados** (**1.196 terminais hidroviários**).
+   - **2.726 páginas estáticas geradas** pelo Astro build (`+10` novas rotas estáticas).
+3. **Próxima Ronda (#163 — Ordem 159 da Fila)**: Fase Hidroviária Mundial #48 — África Ocidental, África Oriental e Ilhas do Oceano Índico IV (`HIDRO-AFRICA-OCIDENTAL-ORIENTAL-OCEANO-INDICO-MADAGASCAR-COMORES-IV`).
