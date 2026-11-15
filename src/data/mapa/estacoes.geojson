@@ -35171,6 +35171,366 @@
           11.5415
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-hidroviario-santana-ap",
+        "nome": "Terminal Hidroviário do Porto de Santana (Foz do Amazonas, Amapá)",
+        "sistema_id": "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+        "linha_id": "linha-hidrovia-santana-ilha-de-santana-afua-chaves-marajo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1815,
+          -0.0585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-afua-marajo-pa",
+        "nome": "Terminal Hidroviário IP4 de Afuá — Veneza Marajoara (Pará)",
+        "sistema_id": "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+        "linha_id": "linha-hidrovia-santana-ilha-de-santana-afua-chaves-marajo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3885,
+          -0.1565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-gurupa-pa",
+        "nome": "Terminal Hidroviário IP4 de Gurupá (Rio Amazonas, Pará)",
+        "sistema_id": "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+        "linha_id": "linha-hidrovia-interestadual-santana-gurupa-portel-breves-belem",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6415,
+          -1.4055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-hidroviario-breves-marajo-pa",
+        "nome": "Terminal Hidroviário Municipal de Breves (Estreitos de Breves, Marajó, Pará)",
+        "sistema_id": "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+        "linha_id": "linha-hidrovia-interestadual-santana-gurupa-portel-breves-belem",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4815,
+          -1.6825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-cai-n-agua-porto-velho-ro",
+        "nome": "Terminal Hidroviário do Cai n'Água (Ao lado da EFMM — Porto Velho, Rondônia)",
+        "sistema_id": "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+        "linha_id": "linha-hidrovia-alto-medio-madeira-porto-velho-calama-humaita-manicore",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9085,
+          -8.7655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ip4-humaita-rio-madeira-am",
+        "nome": "Terminal Hidroviário IP4 de Humaitá (Rio Madeira, Amazonas)",
+        "sistema_id": "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+        "linha_id": "linha-hidrovia-alto-medio-madeira-porto-velho-calama-humaita-manicore",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0215,
+          -7.5065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ip4-manicore-rio-madeira-am",
+        "nome": "Terminal Hidroviário IP4 de Manicoré (Médio Rio Madeira, Amazonas)",
+        "sistema_id": "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+        "linha_id": "linha-hidrovia-baixo-madeira-manicore-novo-aripuana-borba-manaus",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2985,
+          -5.8095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ip4-borba-rio-madeira-am",
+        "nome": "Terminal Hidroviário IP4 de Borba (Baixo Rio Madeira, Amazonas)",
+        "sistema_id": "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+        "linha_id": "linha-hidrovia-baixo-madeira-manicore-novo-aripuana-borba-manaus",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5935,
+          -4.3885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-sao-raimundo-manaus-rio-negro-am",
+        "nome": "Terminal Hidroviário de São Raimundo (Bacia do Rio Negro, Manaus, Amazonas)",
+        "sistema_id": "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+        "linha_id": "linha-hidrovia-baixo-medio-rio-negro-manaus-novo-airao-barcelos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0385,
+          -3.1255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-novo-airao-anavilhanas-am",
+        "nome": "Embarcadouro Fluvial de Novo Airão (Arquipélago de Anavilhanas, Amazonas)",
+        "sistema_id": "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+        "linha_id": "linha-hidrovia-baixo-medio-rio-negro-manaus-novo-airao-barcelos",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9435,
+          -2.6215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ip4-barcelos-rio-negro-am",
+        "nome": "Terminal Hidroviário IP4 de Barcelos (Médio Rio Negro, Amazonas)",
+        "sistema_id": "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+        "linha_id": "linha-hidrovia-alto-rio-negro-barcelos-santa-isabel-camanaus-sao-gabriel",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.9245,
+          -0.9745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-camanaus-sao-gabriel-da-cachoeira-am",
+        "nome": "Porto Fluvial de Camanaus — São Gabriel da Cachoeira (Alto Rio Negro, Amazonas)",
+        "sistema_id": "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+        "linha_id": "linha-hidrovia-alto-rio-negro-barcelos-santa-isabel-camanaus-sao-gabriel",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9325,
+          -0.1455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-fluvial-cruzeiro-do-sul-rio-jurua-ac",
+        "nome": "Porto Fluvial de Cruzeiro do Sul (Alto Rio Juruá, Acre)",
+        "sistema_id": "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+        "linha_id": "linha-hidrovia-rio-jurua-cruzeiro-do-sul-eirunepe-carauari",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6715,
+          -7.6285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ip4-eirunepe-carauari-jurua-am",
+        "nome": "Terminais Hidroviários IP4 de Eirunepé e Carauari (Rio Juruá, Amazonas)",
+        "sistema_id": "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+        "linha_id": "linha-hidrovia-rio-jurua-cruzeiro-do-sul-eirunepe-carauari",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8755,
+          -6.6615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-fluvial-boca-do-acre-purus-am",
+        "nome": "Porto Fluvial de Boca do Acre (Alto Rio Purus, Amazonas/Acre)",
+        "sistema_id": "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+        "linha_id": "linha-hidrovia-rio-purus-boca-do-acre-labrea-tapaua-beruri",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3985,
+          -8.7525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-ip4-labrea-tapaua-rio-purus-am",
+        "nome": "Terminal Hidroviário IP4 de Lábrea (Médio Rio Purus, Amazonas)",
+        "sistema_id": "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+        "linha_id": "linha-hidrovia-rio-purus-boca-do-acre-labrea-tapaua-beruri",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7985,
+          -7.2585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-balsa-pedro-afonso-tupirama-to",
+        "nome": "Terminal de Balsas de Pedro Afonso – Tupirama (Rio Tocantins, Tocantins)",
+        "sistema_id": "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil",
+        "linha_id": "linha-travessias-hidrovia-rio-tocantins-pedro-afonso-filadelfia-carolina",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1765,
+          -8.9685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-balsa-filadelfia-carolina-to-ma",
+        "nome": "Terminal Hidroviário Interestadual Filadélfia (TO) – Carolina (MA) (Rio Tocantins)",
+        "sistema_id": "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil",
+        "linha_id": "linha-travessias-hidrovia-rio-tocantins-pedro-afonso-filadelfia-carolina",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4915,
+          -7.3385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-balsa-caseara-barreira-da-cruz-to-pa",
+        "nome": "Terminal de Balsas de Caseara (TO) – Barreira da Cruz / Santana do Araguaia (PA)",
+        "sistema_id": "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil",
+        "linha_id": "linha-travessias-hidrovia-rio-araguaia-caseara-xambioa-sao-geraldo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9585,
+          -9.2785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-travessia-balsa-xambioa-sao-geraldo-araguaia-to-pa",
+        "nome": "Terminal Hidroviário de Xambioá (TO) – São Geraldo do Araguaia (PA) (Rio Araguaia)",
+        "sistema_id": "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil",
+        "linha_id": "linha-travessias-hidrovia-rio-araguaia-caseara-xambioa-sao-geraldo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5365,
+          -6.4115
+        ]
+      }
     }
   ]
 }

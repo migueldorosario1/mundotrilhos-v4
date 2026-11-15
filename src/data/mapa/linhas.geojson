@@ -42533,6 +42533,376 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-santana-ilha-de-santana-afua-chaves-marajo",
+        "nome": "Eixo Metropolitano e Marajó Setentrional (Porto de Santana / Macapá – Ilha de Santana – Afuá – Chaves)",
+        "sistema_id": "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+        "sistema_nome": "Hidrovia da Foz do Amazonas e Estreitos de Breves (Porto de Santana / Macapá – Afuá – Chaves – Breves – Belém, Amapá e Pará, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 170.0,
+        "bitola": "Hidrovia da Foz do Amazonas (Santana–Afuá–Chaves)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.1815,
+            -0.0585
+          ],
+          [
+            -51.1725,
+            -0.0695
+          ],
+          [
+            -50.3885,
+            -0.1565
+          ],
+          [
+            -49.9885,
+            -0.1615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-interestadual-santana-gurupa-portel-breves-belem",
+        "nome": "Tronco Interestadual Foz do Amazonas – Estreitos de Breves (Porto de Santana – Gurupá – Breves – Belém)",
+        "sistema_id": "hidrovia-santana-macapa-afua-breves-arquipelago-do-marajo-amapa-para-brasil",
+        "sistema_nome": "Hidrovia da Foz do Amazonas e Estreitos de Breves (Porto de Santana / Macapá – Afuá – Chaves – Breves – Belém, Amapá e Pará, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 420.0,
+        "bitola": "Hidrovia interestadual Amapá–Pará (ANTAQ / DNIT IP4)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.1815,
+            -0.0585
+          ],
+          [
+            -51.6415,
+            -1.4055
+          ],
+          [
+            -50.4815,
+            -1.6825
+          ],
+          [
+            -48.4965,
+            -1.4485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-alto-medio-madeira-porto-velho-calama-humaita-manicore",
+        "nome": "Eixo Alto e Médio Rio Madeira (Terminal Cai n'Água, Porto Velho – Calama – Humaitá – Manicoré)",
+        "sistema_id": "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+        "sistema_nome": "Hidrovia Federal do Rio Madeira (Porto Velho Cai n'Água – Calama – Humaitá – Manicoré – Novo Aripuanã – Borba – Manaus / Itacoatiara, Rondônia e Amazonas, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 560.0,
+        "bitola": "Hidrovia Federal do Rio Madeira (DNIT IP4 / ANTAQ)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.9085,
+            -8.7655
+          ],
+          [
+            -62.8755,
+            -8.0315
+          ],
+          [
+            -63.0215,
+            -7.5065
+          ],
+          [
+            -61.2985,
+            -5.8095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-baixo-madeira-manicore-novo-aripuana-borba-manaus",
+        "nome": "Eixo Baixo Rio Madeira – Amazonas (Manicoré – Novo Aripuanã – Borba – Nova Olinda do Norte – Porto de Manaus)",
+        "sistema_id": "hidrovia-rio-madeira-porto-velho-humaita-manicore-borba-itacoatiara-rondonia-amazonas-brasil",
+        "sistema_nome": "Hidrovia Federal do Rio Madeira (Porto Velho Cai n'Água – Calama – Humaitá – Manicoré – Novo Aripuanã – Borba – Manaus / Itacoatiara, Rondônia e Amazonas, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 520.0,
+        "bitola": "Hidrovia Federal do Baixo Rio Madeira (DNIT IP4 / ARSEPAM)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.2985,
+            -5.8095
+          ],
+          [
+            -60.3795,
+            -5.1215
+          ],
+          [
+            -59.5935,
+            -4.3885
+          ],
+          [
+            -59.0945,
+            -3.8885
+          ],
+          [
+            -60.0265,
+            -3.1385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-baixo-medio-rio-negro-manaus-novo-airao-barcelos",
+        "nome": "Corredor Manaus – Anavilhanas – Mariuá (Porto de Manaus / São Raimundo – Novo Airão – Terminal IP4 de Barcelos)",
+        "sistema_id": "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+        "sistema_nome": "Hidrovia do Rio Negro (Manaus – Novo Airão – Barcelos – Santa Isabel do Rio Negro – São Gabriel da Cachoeira, Amazonas, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 440.0,
+        "bitola": "Hidrovia do Baixo e Médio Rio Negro (ARSEPAM / DNIT IP4)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.0385,
+            -3.1255
+          ],
+          [
+            -60.9435,
+            -2.6215
+          ],
+          [
+            -61.8,
+            -1.5
+          ],
+          [
+            -62.9245,
+            -0.9745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-alto-rio-negro-barcelos-santa-isabel-camanaus-sao-gabriel",
+        "nome": "Corredor Alto Rio Negro (Barcelos – Santa Isabel do Rio Negro – Porto de Camanaus / São Gabriel da Cachoeira)",
+        "sistema_id": "hidrovia-rio-negro-manaus-novo-airao-barcelos-santa-isabel-sao-gabriel-da-cachoeira-amazonas-brasil",
+        "sistema_nome": "Hidrovia do Rio Negro (Manaus – Novo Airão – Barcelos – Santa Isabel do Rio Negro – São Gabriel da Cachoeira, Amazonas, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 480.0,
+        "bitola": "Hidrovia do Alto Rio Negro (Barcelos–Santa Isabel–Camanaus)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.9245,
+            -0.9745
+          ],
+          [
+            -65.0195,
+            -0.4145
+          ],
+          [
+            -66.9325,
+            -0.1455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-jurua-cruzeiro-do-sul-eirunepe-carauari",
+        "nome": "Hidrovia Federal do Rio Juruá (Cruzeiro do Sul, AC – Guajará – Ipixuna – Eirunepé – Carauari, AM)",
+        "sistema_id": "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+        "sistema_nome": "Hidrovias Federais do Rio Juruá (Cruzeiro do Sul–Eirunepé–Carauari–Juruá) e do Rio Purus (Boca do Acre–Lábrea–Tapauá–Beruri, Acre e Amazonas, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 880.0,
+        "bitola": "Hidrovia Federal do Rio Juruá (DNIT IP4 / ANTAQ)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.6715,
+            -7.6285
+          ],
+          [
+            -71.6915,
+            -7.0515
+          ],
+          [
+            -69.8755,
+            -6.6615
+          ],
+          [
+            -66.8855,
+            -4.8815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovia-rio-purus-boca-do-acre-labrea-tapaua-beruri",
+        "nome": "Hidrovia Federal do Rio Purus (Boca do Acre – Pauini – Lábrea – Canutama – Tapauá – Beruri, AM)",
+        "sistema_id": "hidrovia-rio-jurua-rio-purus-cruzeiro-do-sul-eirunepe-carauari-labrea-boca-do-acre-acre-amazonas-brasil",
+        "sistema_nome": "Hidrovias Federais do Rio Juruá (Cruzeiro do Sul–Eirunepé–Carauari–Juruá) e do Rio Purus (Boca do Acre–Lábrea–Tapauá–Beruri, Acre e Amazonas, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 770.0,
+        "bitola": "Hidrovia Federal do Rio Purus (DNIT IP4 / ANTAQ)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.3985,
+            -8.7525
+          ],
+          [
+            -64.7985,
+            -7.2585
+          ],
+          [
+            -63.1855,
+            -5.6215
+          ],
+          [
+            -61.3725,
+            -3.8985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-hidrovia-rio-tocantins-pedro-afonso-filadelfia-carolina",
+        "nome": "Eixo Rio Tocantins (Travessias de Pedro Afonso–Tupirama e Filadélfia, TO – Carolina, MA)",
+        "sistema_id": "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil",
+        "sistema_nome": "Travessias Hidroviárias da Bacia Tocantins–Araguaia (Pedro Afonso–Tupirama, Filadélfia–Carolina, Xambioá–São Geraldo e Caseara–Santana do Araguaia, TO/MA/PA/MT, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 280.0,
+        "bitola": "Hidrovia e Travessias de Balsas do Rio Tocantins (PIPES / AGETO / ANTAQ)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.1765,
+            -8.9685
+          ],
+          [
+            -47.9215,
+            -8.25
+          ],
+          [
+            -47.4915,
+            -7.3385
+          ],
+          [
+            -47.4695,
+            -7.3325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessias-hidrovia-rio-araguaia-caseara-xambioa-sao-geraldo",
+        "nome": "Eixo Rio Araguaia e Ilha do Bananal (Caseara, TO – Santana do Araguaia, PA & Xambioá, TO – São Geraldo do Araguaia, PA)",
+        "sistema_id": "travessias-hidrovia-rio-tocantins-rio-araguaia-porto-nacional-pedro-afonso-xambioa-caseara-tocantins-para-mato-grosso-brasil",
+        "sistema_nome": "Travessias Hidroviárias da Bacia Tocantins–Araguaia (Pedro Afonso–Tupirama, Filadélfia–Carolina, Xambioá–São Geraldo e Caseara–Santana do Araguaia, TO/MA/PA/MT, Brasil)",
+        "pais": "Brasil",
+        "continente": "América do Sul",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 360.0,
+        "bitola": "Hidrovia e Travessias de Balsas do Rio Araguaia (PIPES / ANTAQ)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.9585,
+            -9.2785
+          ],
+          [
+            -49.35,
+            -8.05
+          ],
+          [
+            -48.5365,
+            -6.4115
+          ],
+          [
+            -48.5525,
+            -6.4015
+          ]
+        ]
+      }
     }
   ]
 }
