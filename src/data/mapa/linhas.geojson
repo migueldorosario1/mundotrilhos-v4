@@ -44259,6 +44259,348 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cape-may-lewes-ferry-delaware-bay-nj-de",
+        "nome": "Ponte Marítima da Baía de Delaware — Cape May–Lewes Ferry US-9 (Terminal de North Cape May, NJ – Terminal de Lewes, DE)",
+        "sistema_id": "cape-may-lewes-ferry-delaware-bay-nj-de-chesapeake-bay-tangier-island-eua",
+        "sistema_nome": "Cape May–Lewes Ferry (Baía de Delaware, Nova Jersey–Delaware) e Ferries da Baía de Chesapeake / Tangier e Smith Island (Maryland e Virgínia, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 27.0,
+        "bitola": "Ponte marítima ro-pax da rodovia federal US-9 (DRBA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.9595,
+            38.9685
+          ],
+          [
+            -75.1185,
+            38.7825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-chesapeake-bay-ferries-crisfield-smith-island-tangier-island-md-va",
+        "nome": "Travessias Insulares da Baía de Chesapeake (Porto de Crisfield, MD – Smith Island – Tangier Island – Onancock / Reedville, VA)",
+        "sistema_id": "cape-may-lewes-ferry-delaware-bay-nj-de-chesapeake-bay-tangier-island-eua",
+        "sistema_nome": "Cape May–Lewes Ferry (Baía de Delaware, Nova Jersey–Delaware) e Ferries da Baía de Chesapeake / Tangier e Smith Island (Maryland e Virgínia, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 118.0,
+        "bitola": "Rotas insulares históricas da Baía de Chesapeake (MD/VA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.8645,
+            37.9785
+          ],
+          [
+            -76.0265,
+            37.9775
+          ],
+          [
+            -75.9915,
+            37.8265
+          ],
+          [
+            -76.2755,
+            37.8425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-long-island-sound-bridgeport-port-jefferson-new-london-orient-point",
+        "nome": "Pontes Marítimas de Long Island Sound (Bridgeport, CT – Port Jefferson, NY & New London, CT – Orient Point, NY)",
+        "sistema_id": "cross-sound-ferry-bridgeport-port-jefferson-long-island-sound-block-island-ferry-ct-ny-ri-eua",
+        "sistema_nome": "Ferries do Estreito de Long Island e Block Island (Cross Sound Ferry New London–Orient Point, Bridgeport–Port Jefferson e Block Island Ferry, CT/NY/RI, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 68.0,
+        "bitola": "Travessias interestaduais ro-pax e Sea Jet de Long Island Sound (CT–NY)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.1825,
+            41.1745
+          ],
+          [
+            -73.0695,
+            40.9485
+          ],
+          [
+            -72.2415,
+            41.1555
+          ],
+          [
+            -72.0925,
+            41.3535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-block-island-ferry-point-judith-newport-new-london-old-harbor",
+        "nome": "Corredor de Block Island (Point Judith / Newport, RI & New London, CT – Old Harbor, Block Island, RI)",
+        "sistema_id": "cross-sound-ferry-bridgeport-port-jefferson-long-island-sound-block-island-ferry-ct-ny-ri-eua",
+        "sistema_nome": "Ferries do Estreito de Long Island e Block Island (Cross Sound Ferry New London–Orient Point, Bridgeport–Port Jefferson e Block Island Ferry, CT/NY/RI, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 67.0,
+        "bitola": "Ponte marítima de Block Island Sound (Interstate Navigation)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.5095,
+            41.3785
+          ],
+          [
+            -71.5555,
+            41.1725
+          ],
+          [
+            -72.0925,
+            41.3535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rta-canal-street-algiers-point-ferry-new-orleans",
+        "nome": "Travessia Central do Rio Mississippi — RTA (Terminal Multimodal de Canal Street / French Quarter – Terminal de Algiers Point, Nova Orleans)",
+        "sistema_id": "rta-new-orleans-mississippi-river-ferries-algiers-point-canal-street-chalmette-louisiana-eua",
+        "sistema_nome": "Barcas do Rio Mississippi em Nova Orleans (RTA Algiers Point–Canal Street Ferry, Chalmette–Lower Algiers e Plaquemines Ferries, Louisiana, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 3.0,
+        "bitola": "Travessia urbana histórica de Nova Orleans (New Orleans RTA)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.0625,
+            29.9505
+          ],
+          [
+            -90.0545,
+            29.9525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rta-chalmette-lower-algiers-belle-chasse-mississippi-ferries",
+        "nome": "Corredor de Balsas do Baixo Rio Mississippi (Lower Algiers – Chalmette / St. Bernard Parish – Belle Chasse – Pointe à la Hache)",
+        "sistema_id": "rta-new-orleans-mississippi-river-ferries-algiers-point-canal-street-chalmette-louisiana-eua",
+        "sistema_nome": "Barcas do Rio Mississippi em Nova Orleans (RTA Algiers Point–Canal Street Ferry, Chalmette–Lower Algiers e Plaquemines Ferries, Louisiana, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 39.0,
+        "bitola": "Balsas fluviais ro-pax do Baixo Rio Mississippi (RTA / LaDOTD)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.0025,
+            29.9365
+          ],
+          [
+            -89.9925,
+            29.9415
+          ],
+          [
+            -89.9695,
+            29.8585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-marine-atlantic-estreito-de-cabot-north-sydney-port-aux-basques-argentia",
+        "nome": "Ponte Constitucional do Estreito de Cabot — Marine Atlantic (North Sydney, Nova Escócia – Port aux Basques e Argentia, Terra Nova)",
+        "sistema_id": "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
+        "sistema_nome": "Marine Atlantic (Ponte Constitucional do Estreito de Cabot: Nova Escócia – Terra Nova) e Bay Ferries Fundy / PEI (Atlântico Canadense)",
+        "pais": "Canadá",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 685.0,
+        "bitola": "Autoestrada marítima constitucional da Trans-Canadá (Marine Atlantic)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.2495,
+            46.2105
+          ],
+          [
+            -59.1385,
+            47.5715
+          ],
+          [
+            -53.9865,
+            47.2955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bay-ferries-fundy-saint-john-digby-northumberland-pei",
+        "nome": "Travessia da Baía de Fundy — Bay Ferries MV Fundy Rose (Porto de Saint John, New Brunswick – Terminal de Digby, Nova Escócia)",
+        "sistema_id": "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
+        "sistema_nome": "Marine Atlantic (Ponte Constitucional do Estreito de Cabot: Nova Escócia – Terra Nova) e Bay Ferries Fundy / PEI (Atlântico Canadense)",
+        "pais": "Canadá",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 75.0,
+        "bitola": "Ponte marítima da Baía de Fundy (Bay Ferries)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.0715,
+            45.2525
+          ],
+          [
+            -65.7585,
+            44.6635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-amhs-inside-passage-bellingham-ketchikan-juneau-haines-skagway",
+        "nome": "Tronco da Inside Passage — AMHS (Bellingham, WA – Prince Rupert, BC – Ketchikan – Sitka – Juneau Auke Bay – Haines – Skagway, AK)",
+        "sistema_id": "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua",
+        "sistema_nome": "Alaska Marine Highway System — AMHS (Rodovia Marítima do Alasca: Bellingham WA – Ketchikan – Juneau – Skagway – Whittier – Kodiak, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1750.0,
+        "bitola": "Rodovia marítima federal da Inside Passage (Alaska Marine Highway System)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.5125,
+            48.7205
+          ],
+          [
+            -130.3295,
+            54.3115
+          ],
+          [
+            -131.6785,
+            55.3555
+          ],
+          [
+            -135.3355,
+            57.0525
+          ],
+          [
+            -134.6465,
+            58.3825
+          ],
+          [
+            -135.3275,
+            59.4515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-amhs-sudoeste-whittier-valdez-homer-kodiak-aleutas",
+        "nome": "Tronco do Golfo do Alasca e Kodiak — AMHS (Terminal Ferroviário de Whittier – Valdez – Homer – Ilha Kodiak – Dutch Harbor, AK)",
+        "sistema_id": "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua",
+        "sistema_nome": "Alaska Marine Highway System — AMHS (Rodovia Marítima do Alasca: Bellingham WA – Ketchikan – Juneau – Skagway – Whittier – Kodiak, EUA)",
+        "pais": "Estados Unidos",
+        "continente": "América do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 1500.0,
+        "bitola": "Rota oceânica subártica do Golfo do Alasca e Kodiak (AMHS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -148.6835,
+            60.7785
+          ],
+          [
+            -146.3485,
+            61.1265
+          ],
+          [
+            -151.4125,
+            59.6025
+          ],
+          [
+            -152.4065,
+            57.7885
+          ]
+        ]
+      }
     }
   ]
 }
