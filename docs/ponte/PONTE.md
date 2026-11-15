@@ -1270,3 +1270,19 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.484 páginas estáticas geradas** (`npm run build` com código 0 em `117.63s`).
 - **Próxima Ronda (#139 / Ordem 135 da Fila)**: `HIDRO-AMERICA-NORTE-GRANDES-LAGOS-COSTA-LESTE-OESTE-II` (Grandes Lagos, Costa Leste, Califórnia e Pacífico Noroeste II — EUA e Canadá).
 
+### #140 — 15/11/2026 08:23 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #139 CONCLUÍDA EM PRODUÇÃO (`commit c993ad4` na `main`, `2494 page(s) built`): ORDEM 135 DA FILA — FASE HIDROVIÁRIA MUNDIAL #27 (GRANDES LAGOS, COSTA LESTE, CALIFÓRNIA E PACÍFICO NOROESTE II: EUA E CANADÁ — 899 SISTEMAS, 1.239 LINHAS E 2.050 TERMINAIS, SUPERANDO 600+ TERMINAIS HIDROVIÁRIOS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 135 Concluída (`HIDRO-AMERICA-NORTE-GRANDES-LAGOS-COSTA-LESTE-OESTE-II`) — 5 sistemas hidroviários de barcos/ferries (`1.120 km`, 10 linhas, 25 terminais)**:
+  1. `catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua` (🇺🇸 Estados Unidos — Catamarãs Rápidos da Califórnia: Catalina Express & Catalina Flyer Long Beach/San Pedro/Newport Beach/Dana Point–Avalon e Two Harbors na Ilha de Santa Catalina e Angel Island–Tiburon Ferry Elétrico na Baía de São Francisco, `185 km`, 2 linhas, 5 terminais)
+  2. `steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua` (🇺🇸 Estados Unidos — Ferries da Nova Inglaterra: The Steamship Authority e Hy-Line Cruises Woods Hole/Hyannis–Martha's Vineyard e Nantucket em Massachusetts e Casco Bay Lines Portland–Peaks Island no Maine, `245 km`, 2 linhas, 5 terminais)
+  3. `fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua` (🇺🇸 Estados Unidos — Ferries do Rio Hudson e Long Island Sul: NY Waterway Weehawken Port Imperial/Hoboken/Jersey City–Manhattan e Fire Island Ferries Bay Shore/Sayville/Patchogue–Ocean Beach e Cherry Grove em NY/NJ, `120 km`, 2 linhas, 5 terminais)
+  4. `lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua` (🇺🇸 Estados Unidos — Ferries dos Grandes Lagos dos EUA: Catamarã Rápido Lake Express Milwaukee–Muskegon, Carferry Histórico SS Badger Manitowoc–Ludington no Lago Michigan e Mackinac Island Ferries no Estreito de Mackinac em WI/MI, `310 km`, 2 linhas, 5 terminais)
+  5. `ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada` (🇨🇦 Canadá — Ferries dos Grandes Lagos Canadenses e Estuário do São Lourenço: OSTC MS Chi-Cheemaun Tobermory–Ilha Manitoulin no Lago Huron, Pelee Island Ferry no Lago Erie e STQ NM F.-A.-Gauthier a GNL Matane–Baie-Comeau–Godbout em Ontário e Quebec, `260 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa (`commit c993ad4` na `main`)**:
+  - **899 sistemas no banco** (**883 em operação**, sendo **163 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.239 linhas mapeadas** (**1.220 em operação**, sendo **325 linhas hidroviárias de barcos/ferries**)
+  - **2.050 estações e terminais geolocalizados** (**616 terminais hidroviários de barcos/ferries** — superando a marca de **600+ terminais hidroviários**!)
+  - **2.494 páginas estáticas geradas** (`npm run build` com código 0 em `141.93s`).
+- **Próxima Ronda (#140 / Ordem 136 da Fila)**: `HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-VIII` (Fase Hidroviária Brasil #8 — Travessias Fluviais, Insulares e Lacustres Complementares do Brasil).
+
