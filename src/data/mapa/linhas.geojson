@@ -45236,6 +45236,332 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-transmaritima-baia-de-maputo-katembe-ilha-da-inhaca",
+        "nome": "Hidrovia Metropolitana da Baía de Maputo — Transmarítima (Ponte-Cais de Maputo / Estação CFM – Cais de Katembe – Ilha da Inhaca)",
+        "sistema_id": "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+        "sistema_nome": "Barcas da Baía de Maputo (Transmarítima Maputo–Katembe–Ilha da Inhaca) e Travessia da Baía de Inhambane (Inhambane–Maxixe, Moçambique)",
+        "pais": "Moçambique",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 42.0,
+        "bitola": "Ponte aquaviária da Baía de Maputo (Transmarítima)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.5665,
+            -25.9735
+          ],
+          [
+            32.5595,
+            -26.0005
+          ],
+          [
+            32.9035,
+            -26.0025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-travessia-baia-de-inhambane-cais-inhambane-maxixe-mocambique",
+        "nome": "Travessia Urbana da Baía de Inhambane (Ponte-Cais da Cidade de Inhambane – Ponte-Cais de Maxixe / EN1, Província de Inhambane)",
+        "sistema_id": "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+        "sistema_nome": "Barcas da Baía de Maputo (Transmarítima Maputo–Katembe–Ilha da Inhaca) e Travessia da Baía de Inhambane (Inhambane–Maxixe, Moçambique)",
+        "pais": "Moçambique",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 43.0,
+        "bitola": "Travessia urbana de alta frequência da Baía de Inhambane"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.3815,
+            -23.8645
+          ],
+          [
+            35.3495,
+            -23.8585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-robben-island-ferry-table-bay-waterfront-murrays-bay-cape-town",
+        "nome": "Ponte Marítima da Baía da Mesa — Robben Island Ferry (Nelson Mandela Gateway, V&A Waterfront – Porto de Murray's Bay, Ilha Robben, Cidade do Cabo)",
+        "sistema_id": "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+        "sistema_nome": "Robben Island Ferry (Nelson Mandela Gateway V&A Waterfront – Robben Island, Cidade do Cabo) e Balsa do Rio Breede / Malgas Pont (África do Sul)",
+        "pais": "África do Sul",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 14.0,
+        "bitola": "Rota marítima de catamarãs da Baía da Mesa (Robben Island Museum)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.4235,
+            -33.9065
+          ],
+          [
+            18.3755,
+            -33.7995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-malgas-pont-ferry-rio-breede-swellendam-witsand-western-cape",
+        "nome": "Travessia Fluvial do Rio Breede — Malgas Pont Ferry (Malgas – Witsand / Infanta, Província do Cabo Ocidental)",
+        "sistema_id": "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+        "sistema_nome": "Robben Island Ferry (Nelson Mandela Gateway V&A Waterfront – Robben Island, Cidade do Cabo) e Balsa do Rio Breede / Malgas Pont (África do Sul)",
+        "pais": "África do Sul",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 24.0,
+        "bitola": "Balsa fluvial veicular histórica do Rio Breede (Western Cape)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.5925,
+            -34.3015
+          ],
+          [
+            20.8485,
+            -34.3945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-malawi-sul-centro-monkey-bay-chipoka-metangula-likoma-island",
+        "nome": "Tronco Sul–Centro do Lago Malawi — MV Ilala & MV Chilembwe (Porto de Monkey Bay – Terminal Ferroviário de Chipoka – Metangula – Ilhas de Likoma e Chizumulu)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+        "sistema_nome": "Hidrovia Nacional do Lago Malawi / Lago Niassa — Malawi Shipping Company (MV Ilala e MV Chilembwe: Monkey Bay – Chipoka – Ilha de Likoma – Nkhata Bay – Chilumba, Malawi)",
+        "pais": "Malawi e Moçambique",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 295.0,
+        "bitola": "Autoestrada lacustre do Lago Malawi / Niassa (Malawi Shipping Company)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9185,
+            -14.0815
+          ],
+          [
+            34.5185,
+            -13.9925
+          ],
+          [
+            34.8125,
+            -12.6985
+          ],
+          [
+            34.7385,
+            -12.0685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-malawi-norte-likoma-nkhata-bay-usisya-chilumba-mbamba-bay",
+        "nome": "Tronco Norte do Lago Malawi — MV Ilala & MV Chilembwe (Ilha de Likoma – Porto de Nkhata Bay – Usisya – Porto de Chilumba / Karonga)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+        "sistema_nome": "Hidrovia Nacional do Lago Malawi / Lago Niassa — Malawi Shipping Company (MV Ilala e MV Chilembwe: Monkey Bay – Chipoka – Ilha de Likoma – Nkhata Bay – Chilumba, Malawi)",
+        "pais": "Malawi",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 245.0,
+        "bitola": "Hidrovia norte do Lago Malawi (MV Ilala / MV Chilembwe)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.7385,
+            -12.0685
+          ],
+          [
+            34.3015,
+            -11.6085
+          ],
+          [
+            34.2525,
+            -11.2425
+          ],
+          [
+            34.2565,
+            -10.4315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-kivu-expresso-goma-idjwi-bukavu-rd-congo-ruanda",
+        "nome": "Expresso do Lago Kivu (Porto Público de Goma – Ilha de Idjwi – Porto de Bukavu, Kivu do Norte e Kivu do Sul, RD Congo)",
+        "sistema_id": "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+        "sistema_nome": "Hidrovias do Lago Kivu (Goma – Ilha de Idjwi – Bukavu) e do Lago Tanganyika (Kalemie – Uvira – Bujumbura, RD Congo, Ruanda e Burundi)",
+        "pais": "República Democrática do Congo",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 110.0,
+        "bitola": "Autoestrada lacustre de lanchas rápidas e navios do Lago Kivu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.2215,
+            -1.6855
+          ],
+          [
+            29.0555,
+            -2.1425
+          ],
+          [
+            28.8625,
+            -2.4955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-tanganyika-kalemie-baraka-uvira-bujumbura",
+        "nome": "Tronco Norte–Centro do Lago Tanganyika (Porto Ferroviário SNCC de Kalemie – Baraka – Porto de Uvira, RD Congo – Bujumbura, Burundi)",
+        "sistema_id": "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+        "sistema_nome": "Hidrovias do Lago Kivu (Goma – Ilha de Idjwi – Bukavu) e do Lago Tanganyika (Kalemie – Uvira – Bujumbura, RD Congo, Ruanda e Burundi)",
+        "pais": "República Democrática do Congo e Burundi",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 350.0,
+        "bitola": "Corredor lacustre multimodal do Lago Tanganyika (SNCC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.1985,
+            -5.9425
+          ],
+          [
+            29.0945,
+            -4.1025
+          ],
+          [
+            29.1465,
+            -3.3985
+          ],
+          [
+            29.3495,
+            -3.3825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-madagascar-nosy-be-ankify-nosy-komba-hell-ville-andoany",
+        "nome": "Ponte Marítima de Nosy Be — APMF (Porto Continental de Ankify / Ambanja – Ilha de Nosy Komba – Porto de Hell-Ville / Andoany, Nosy Be)",
+        "sistema_id": "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar",
+        "sistema_nome": "Pontes Marítimas Insulares de Madagascar — Travessia de Nosy Be (Ankify–Hell-Ville) e Travessia de Sainte-Marie / Nosy Boraha (Soanierana Ivongo–Ambodifotatra)",
+        "pais": "Madagascar",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 28.0,
+        "bitola": "Ponte marítima de lanchas rápidas e balsas ro-pax de Nosy Be (APMF)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.3485,
+            -13.5415
+          ],
+          [
+            48.3425,
+            -13.4525
+          ],
+          [
+            48.2765,
+            -13.4045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-madagascar-sainte-marie-soanierana-ivongo-mahambo-ambodifotatra",
+        "nome": "Travessia do Canal de Sainte-Marie (Porto de Soanierana Ivongo / Mahambo – Porto de Ambodifotatra, Ilha de Sainte-Marie / Nosy Boraha)",
+        "sistema_id": "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar",
+        "sistema_nome": "Pontes Marítimas Insulares de Madagascar — Travessia de Nosy Be (Ankify–Hell-Ville) e Travessia de Sainte-Marie / Nosy Boraha (Soanierana Ivongo–Ambodifotatra)",
+        "pais": "Madagascar",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 67.0,
+        "bitola": "Travessia marítima da Ilha de Sainte-Marie / Nosy Boraha (Costa Leste)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.5825,
+            -16.9185
+          ],
+          [
+            49.8525,
+            -16.9985
+          ]
+        ]
+      }
     }
   ]
 }

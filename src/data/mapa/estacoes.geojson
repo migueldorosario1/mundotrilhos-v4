@@ -38051,6 +38051,366 @@
           54.6025
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ponte-cais-maputo-transmaritima-mz",
+        "nome": "Ponte-Cais de Ferries de Maputo — Transmarítima (Junto à Estação Central dos CFM, Maputo, Moçambique)",
+        "sistema_id": "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+        "linha_id": "linha-transmaritima-baia-de-maputo-katembe-ilha-da-inhaca",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5665,
+          -25.9735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cais-de-katembe-inhaca-baia-maputo-mz",
+        "nome": "Ponte-Cais de Katembe & Ilha da Inhaca — Transmarítima (Baía de Maputo, Moçambique)",
+        "sistema_id": "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+        "linha_id": "linha-transmaritima-baia-de-maputo-katembe-ilha-da-inhaca",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5595,
+          -26.0005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ponte-cais-inhambane-baia-mz",
+        "nome": "Ponte-Cais da Cidade de Inhambane (Travessia da Baía de Inhambane, Moçambique)",
+        "sistema_id": "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+        "linha_id": "linha-travessia-baia-de-inhambane-cais-inhambane-maxixe-mocambique",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3815,
+          -23.8645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ponte-cais-maxixe-en1-inhambane-mz",
+        "nome": "Ponte-Cais de Maxixe — Entroncamento Rodoviário EN1 (Baía de Inhambane, Moçambique)",
+        "sistema_id": "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+        "linha_id": "linha-travessia-baia-de-inhambane-cais-inhambane-maxixe-mocambique",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3495,
+          -23.8585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nelson-mandela-gateway-waterfront-cape-town-za",
+        "nome": "Nelson Mandela Gateway to Robben Island — V&A Waterfront (Table Bay, Cidade do Cabo, África do Sul)",
+        "sistema_id": "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+        "linha_id": "linha-robben-island-ferry-table-bay-waterfront-murrays-bay-cape-town",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4235,
+          -33.9065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-murrays-bay-harbour-robben-island-za",
+        "nome": "Porto de Murray's Bay — Ilha Robben UNESCO (Baía da Mesa, Cidade do Cabo, África do Sul)",
+        "sistema_id": "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+        "linha_id": "linha-robben-island-ferry-table-bay-waterfront-murrays-bay-cape-town",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3755,
+          -33.7995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-malgas-pont-ferry-landing-breede-river-za",
+        "nome": "Atracadouro da Balsa Histórica de Malgas — Malgas Pont (Rio Breede, Cabo Ocidental, África do Sul)",
+        "sistema_id": "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+        "linha_id": "linha-malgas-pont-ferry-rio-breede-swellendam-witsand-western-cape",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5925,
+          -34.3015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-witsand-port-beaufort-breede-estuary-za",
+        "nome": "Porto Estuarino de Witsand / Port Beaufort — Foz do Rio Breede (Cabo Ocidental, África do Sul)",
+        "sistema_id": "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+        "linha_id": "linha-malgas-pont-ferry-rio-breede-swellendam-witsand-western-cape",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8485,
+          -34.3945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-monkey-bay-chipoka-lake-malawi-port-mw",
+        "nome": "Porto e Estaleiro de Monkey Bay & Terminal Ferroviário de Chipoka — MV Ilala (Sul do Lago Malawi, Malawi)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+        "linha_id": "linha-lago-malawi-sul-centro-monkey-bay-chipoka-metangula-likoma-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9185,
+          -14.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-likoma-island-mbamba-port-lake-malawi-mw",
+        "nome": "Porto Insular da Ilha de Likoma — Enclave no Lago Malawi / Lago Niassa (Malawi)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+        "linha_id": "linha-lago-malawi-sul-centro-monkey-bay-chipoka-metangula-likoma-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7385,
+          -12.0685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nkhata-bay-port-lake-malawi-mw",
+        "nome": "Porto Lacustre de Nkhata Bay — Malawi Shipping Company (Norte do Lago Malawi, Malawi)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+        "linha_id": "linha-lago-malawi-norte-likoma-nkhata-bay-usisya-chilumba-mbamba-bay",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3015,
+          -11.6085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-chilumba-jetty-karonga-lake-malawi-mw",
+        "nome": "Terminal Norte de Chilumba / Karonga — MV Ilala & MV Chilembwe (Lago Malawi, Malawi)",
+        "sistema_id": "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+        "linha_id": "linha-lago-malawi-norte-likoma-nkhata-bay-usisya-chilumba-mbamba-bay",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2565,
+          -10.4315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-public-de-goma-lac-kivu-cd",
+        "nome": "Porto Público de Goma — Vedettes Rapides & Navios do Lago Kivu (Kivu do Norte, RD Congo)",
+        "sistema_id": "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+        "linha_id": "linha-lago-kivu-expresso-goma-idjwi-bukavu-rd-congo-ruanda",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2215,
+          -1.6855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-de-bukavu-idjwi-lac-kivu-cd",
+        "nome": "Porto Lacustre de Bukavu & Ilha de Idjwi — Lago Kivu (Kivu do Sul, RD Congo)",
+        "sistema_id": "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+        "linha_id": "linha-lago-kivu-expresso-goma-idjwi-bukavu-rd-congo-ruanda",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8625,
+          -2.4955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-sncc-kalemie-lac-tanganyika-cd",
+        "nome": "Porto Multimodal Ferroviário-Lacustre da SNCC de Kalemie — Lago Tanganyika (RD Congo)",
+        "sistema_id": "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+        "linha_id": "linha-lago-tanganyika-kalemie-baraka-uvira-bujumbura",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1985,
+          -5.9425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-duvira-kalundu-bujumbura-tanganyika-cd",
+        "nome": "Porto de Uvira (Kalundu) & Bujumbura — Norte do Lago Tanganyika (RD Congo / Burundi)",
+        "sistema_id": "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+        "linha_id": "linha-lago-tanganyika-kalemie-baraka-uvira-bujumbura",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1465,
+          -3.3985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-dankify-ambanja-nosy-be-mg",
+        "nome": "Porto Continental de Ankify (Ambanja / RN6) — Travessia para Nosy Be (APMF, Madagascar)",
+        "sistema_id": "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar",
+        "linha_id": "linha-madagascar-nosy-be-ankify-nosy-komba-hell-ville-andoany",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3485,
+          -13.5415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gare-maritime-hell-ville-andoany-nosy-be-mg",
+        "nome": "Gare Maritime de Hell-Ville (Andoany) — Ilha de Nosy Be (Região de Diana, Madagascar)",
+        "sistema_id": "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar",
+        "linha_id": "linha-madagascar-nosy-be-ankify-nosy-komba-hell-ville-andoany",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2765,
+          -13.4045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-soanierana-ivongo-sainte-marie-mg",
+        "nome": "Porto de Embarque de Soanierana Ivongo — Canal de Sainte-Marie (Costa Leste, Madagascar)",
+        "sistema_id": "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar",
+        "linha_id": "linha-madagascar-sainte-marie-soanierana-ivongo-mahambo-ambodifotatra",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5825,
+          -16.9185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-dambodifotatra-sainte-marie-nosy-boraha-mg",
+        "nome": "Porto de Ambodifotatra — Ilha de Sainte-Marie / Nosy Boraha (Madagascar)",
+        "sistema_id": "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar",
+        "linha_id": "linha-madagascar-sainte-marie-soanierana-ivongo-mahambo-ambodifotatra",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8525,
+          -16.9985
+        ]
+      }
     }
   ]
 }

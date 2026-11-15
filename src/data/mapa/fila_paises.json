@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T03:44:00-03:00",
+  "atualizado_em": "2026-11-15T04:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2035,16 +2035,24 @@
         "bvg-ferries-berlim-f10-wannsee-kladow-f11-f12-spree-dahme-potsdam-alemanha",
         "zegluga-swinoujska-warszow-zegluga-gdanska-water-tram-gdansk-gdynia-hel-polonia"
       ]
+    },
+    {
+      "ordem": 127,
+      "pais": "Fase Hidroviária Mundial #20 — África Oriental, Austral e Insular II (Catemba Ferry Maputo–Katembe, Inhambane–Maxixe e Ilha da Inhaca em Moçambique, Robben Island Museum Ferry Cidade do Cabo na África do Sul, Ferries do Lago Malawi MV Ilala Monkey Bay–Likoma Island–Nkhata Bay em Malawi, Ferries do Lago Kivu Goma–Bukavu–Idjwi na RD Congo/Ruanda e Travessias de Nosy Be–Ankify e Sainte-Marie em Madagascar)",
+      "codigo": "HIDRO-AFRICA-ORIENTAL-AUSTRAL-II",
+      "continente": "África",
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "transmaritima-baia-de-maputo-katembe-inhaca-inhambane-maxixe-mocambique",
+        "robben-island-ferry-nelson-mandela-gateway-table-bay-cidade-do-cabo-malgas-pont-africa-do-sul",
+        "malawi-shipping-company-mv-ilala-mv-chilembwe-lago-malawi-monkey-bay-likoma-nkhata-bay-malawi",
+        "ferries-lago-kivu-goma-idjwi-bukavu-lago-tanganyika-kalemie-uvira-rd-congo-ruanda",
+        "ferries-nosy-be-ankify-hell-ville-sainte-marie-nosy-boraha-soanierana-ivongo-madagascar"
+      ]
     }
   ],
   "fila_proximas_rondas": [
-    {
-      "ordem": 127,
-      "pais": "Fase Hidroviária Mundial #20 — África Oriental, Austral e Insular II (Catemba Ferry Maputo–Katembe, Inhambane–Maxixe e Ilha de Moçambique em Moçambique, Robben Island Museum Ferry Cidade do Cabo na África do Sul, Ferries do Lago Malawi MV Ilala Monkey Bay–Likoma Island–Nkhata Bay em Malawi, Ferries do Lago Kivu Goma–Bukavu–Idjwi na RD Congo/Ruanda e Travessias de Nosy Be–Ankify e Sainte-Marie em Madagascar)",
-      "codigo": "HIDRO-AFRICA-ORIENTAL-AUSTRAL-II",
-      "continente": "África",
-      "status": "pendente"
-    },
     {
       "ordem": 128,
       "pais": "Fase Hidroviária Brasil #7 — Hidrovias Regionais, Pantanal, São Francisco e Travessias Litorâneas Complementares (Travessias do Rio São Francisco Penedo–Neópolis AL/SE, Xique-Xique–Barra e Ibotirama BA, Hidrovia do Rio Paraguai Corumbá–Ladário–Porto Murtinho–Cáceres no Pantanal MS/MT, Travessias de Cananéia–Ilha Comprida–Iguape e Bertioga–Guarujá SP, Travessias de Camocim–Ilha do Amor e Jijoca de Jericoacoara CE e Travessia de Rio Grande–São José do Norte no Estuário da Lagoa dos Patos RS)",
