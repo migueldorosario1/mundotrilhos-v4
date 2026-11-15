@@ -55036,6 +55036,434 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-medio-baixo-rio-branco-caracarai-itapera-santa-maria-do-boiacu",
+        "nome": "Eixo Médio e Baixo Rio Branco: Porto de Caracaraí – Vista Alegre – Cachoeirinha – Santa Maria do Boiaçu (RR)",
+        "sistema_id": "hidrovia-rio-branco-caracarai-santa-maria-do-boiacu-baixo-rio-branco-roraima-amazonas-brasil",
+        "sistema_nome": "Hidrovia do Rio Branco e Baixo Rio Negro (RR / AM, Brasil)",
+        "pais": "Brasil",
+        "cidade": "Caracaraí / Rorainópolis (Santa Maria do Boiaçu)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Operadores Fluviais do Rio Branco / DNIT",
+        "extensao_km": 370,
+        "bitola": "Hidrovia Fluvial Amazônica",
+        "eletrificacao": "Barcos Regionais e Lanchas Rápidas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.1278,
+            1.816
+          ],
+          [
+            -61.18,
+            1.32
+          ],
+          [
+            -61.36,
+            0.78
+          ],
+          [
+            -61.682,
+            0.504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-foz-rio-branco-jauaperi-moura-barcelos-rr-am",
+        "nome": "Eixo Foz do Rio Branco, Rio Jauaperi e Rio Negro: Santa Maria do Boiaçu – Foz do Jauaperi – Moura – Barcelos (RR / AM)",
+        "sistema_id": "hidrovia-rio-branco-caracarai-santa-maria-do-boiacu-baixo-rio-branco-roraima-amazonas-brasil",
+        "sistema_nome": "Hidrovia do Rio Branco e Baixo Rio Negro (RR / AM, Brasil)",
+        "pais": "Brasil",
+        "cidade": "Santa Maria do Boiaçu / Moura / Barcelos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Operadores Fluviais do Rio Branco e Rio Negro",
+        "extensao_km": 320,
+        "bitola": "Hidrovia Fluvial Amazônica",
+        "eletrificacao": "Barcos de Linha e Expresso Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.682,
+            0.504
+          ],
+          [
+            -61.49,
+            -0.52
+          ],
+          [
+            -61.815,
+            -1.365
+          ],
+          [
+            -61.635,
+            -1.456
+          ],
+          [
+            -62.9269,
+            -0.9736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-costa-branca-potiguar-pratagil-galos-galinhos-guamare-fortim-jaguaribe",
+        "nome": "Eixo Costa Branca e Rio Jaguaribe: Porto de Pratagil – Vila de Galos – Península de Galinhos – Guamaré (RN) + Fortim – Canto da Barra (CE)",
+        "sistema_id": "travessias-hidroviarias-galinhos-guamare-canguaretama-barra-do-cunhau-potengi-rio-grande-do-norte-ceara-brasil",
+        "sistema_nome": "Travessias Hidroviárias do Litoral do Rio Grande do Norte e Leste Cearense (RN / CE, Brasil)",
+        "pais": "Brasil",
+        "cidade": "Galinhos / Guamaré / Fortim",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Cooperativa de Barqueiros de Galinhos, Guamaré e Fortim",
+        "extensao_km": 145,
+        "bitola": "Travessia Estuarina e Penínsular",
+        "eletrificacao": "Barcos Regionais Costeiros"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -36.2415,
+            -5.118
+          ],
+          [
+            -36.256,
+            -5.098
+          ],
+          [
+            -36.2753,
+            -5.0914
+          ],
+          [
+            -36.325,
+            -5.105
+          ],
+          [
+            -37.798,
+            -4.448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-litoral-sul-potiguar-barra-do-cunhau-sibauma-pipa-guaraíras",
+        "nome": "Eixo Litoral Sul Potiguar (Estuário do Rio Curimataú e Lagoa de Guaraíras): Barra do Cunhaú (Canguaretama) – Sibaúma / Pipa – Tibau do Sul (RN)",
+        "sistema_id": "travessias-hidroviarias-galinhos-guamare-canguaretama-barra-do-cunhau-potengi-rio-grande-do-norte-ceara-brasil",
+        "sistema_nome": "Travessias Hidroviárias do Litoral do Rio Grande do Norte e Leste Cearense (RN / CE, Brasil)",
+        "pais": "Brasil",
+        "cidade": "Canguaretama / Tibau do Sul (Pipa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Balsas e Barcos de Barra do Cunhaú e Tibau do Sul",
+        "extensao_km": 95,
+        "bitola": "Travessia Estuarina de Balsas e Barcos",
+        "eletrificacao": "Balsas Motorizadas e Barcos de Passageiros"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.0412,
+            -6.3095
+          ],
+          [
+            -35.0405,
+            -6.301
+          ],
+          [
+            -35.051,
+            -6.228
+          ],
+          [
+            -35.092,
+            -6.1865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rio-mamore-baixo-guapore-guajara-mirim-guayaramerin-principe-da-beira-costa-marques",
+        "nome": "Eixo Rio Mamoré e Baixo Guaporé: Travessia Internacional Guajará-Mirim (RO) – Guayaramerín (Bolívia) – Forte Príncipe da Beira – Costa Marques",
+        "sistema_id": "hidrovia-rio-guapore-rio-mamore-guajara-mirim-guayaramerin-costa-marques-pimenteiras-vila-bela-rondonia-mato-grosso-brasil",
+        "sistema_nome": "Hidrovia Binacional dos Rios Mamoré e Guaporé (RO / MT, Brasil e Bolívia)",
+        "pais": "Brasil",
+        "cidade": "Guajará-Mirim / Guayaramerín / Costa Marques",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Operadores Binacionais Guajará-Mirim–Guayaramerín e Vale do Guaporé",
+        "extensao_km": 540,
+        "bitola": "Hidrovia Fluvial Binacional",
+        "eletrificacao": "Lanchas Internacionais, Balsas e Barcos Regionais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -65.3464,
+            -10.7889
+          ],
+          [
+            -65.356,
+            -10.818
+          ],
+          [
+            -65.28,
+            -11.9
+          ],
+          [
+            -64.427,
+            -12.427
+          ],
+          [
+            -64.2314,
+            -12.4439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-medio-alto-rio-guapore-costa-marques-pedras-negras-pimenteiras-do-oeste-vila-bela",
+        "nome": "Eixo Médio e Alto Rio Guaporé: Costa Marques – Pedras Negras – Rolim de Moura do Guaporé – Pimenteiras do Oeste (RO) – Vila Bela (MT)",
+        "sistema_id": "hidrovia-rio-guapore-rio-mamore-guajara-mirim-guayaramerin-costa-marques-pimenteiras-vila-bela-rondonia-mato-grosso-brasil",
+        "sistema_nome": "Hidrovia Binacional dos Rios Mamoré e Guaporé (RO / MT, Brasil e Bolívia)",
+        "pais": "Brasil",
+        "cidade": "Costa Marques / Pimenteiras do Oeste / Vila Bela",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Operadores Fluviais do Vale do Guaporé",
+        "extensao_km": 580,
+        "bitola": "Hidrovia Fluvial Fronteiriça",
+        "eletrificacao": "Barcos Regionais e Lanchas de Alumínio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.2314,
+            -12.4439
+          ],
+          [
+            -62.902,
+            -12.851
+          ],
+          [
+            -61.855,
+            -13.081
+          ],
+          [
+            -61.0453,
+            -13.4825
+          ],
+          [
+            -59.951,
+            -15.006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-dh-sp-represa-paraibuna-natividade-da-serra-bairro-alto-ribeirao-das-lajes-rj",
+        "nome": "Travessias da Represa de Paraibuna (DH-SP Natividade da Serra – Bairro Alto / Vargem Grande) e Represa de Ribeirão das Lajes (Piraí – Rio Claro, RJ)",
+        "sistema_id": "travessias-balsas-represas-paraibuna-nilo-pecanha-funil-tres-marias-sao-paulo-rio-de-janeiro-minas-gerais-brasil",
+        "sistema_nome": "Travessias de Balsas dos Grandes Reservatórios de SP, RJ e MG (Brasil)",
+        "pais": "Brasil",
+        "cidade": "Natividade da Serra / Paraibuna / Piraí",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "DH / Semil São Paulo & Operadores de Ribeirão das Lajes (RJ)",
+        "extensao_km": 135,
+        "bitola": "Balsas de Reservatório Hidrelétrico (FB-14 e FB-22)",
+        "eletrificacao": "Rebocadores e Balsas Diesel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.4519,
+            -23.5312
+          ],
+          [
+            -45.462,
+            -23.518
+          ],
+          [
+            -45.541,
+            -23.475
+          ],
+          [
+            -43.882,
+            -22.695
+          ],
+          [
+            -43.925,
+            -22.721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-balsas-represa-tres-marias-morada-nova-abaete-represa-do-funil-ibituruna-mg",
+        "nome": "Travessias do Lago de Três Marias (Morada Nova de Minas – Porto Novo / São Gonçalo do Abaeté) e Represa do Funil (Ibituruna – Bom Sucesso, MG)",
+        "sistema_id": "travessias-balsas-represas-paraibuna-nilo-pecanha-funil-tres-marias-sao-paulo-rio-de-janeiro-minas-gerais-brasil",
+        "sistema_nome": "Travessias de Balsas dos Grandes Reservatórios de SP, RJ e MG (Brasil)",
+        "pais": "Brasil",
+        "cidade": "Morada Nova de Minas / Três Marias / Ibituruna",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Operadores de Balsas do Lago de Três Marias e Represa do Funil (MG)",
+        "extensao_km": 175,
+        "bitola": "Balsas Rodoviárias Lacustres",
+        "eletrificacao": "Rebocadores Fluviais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.358,
+            -18.605
+          ],
+          [
+            -45.395,
+            -18.492
+          ],
+          [
+            -45.231,
+            -18.215
+          ],
+          [
+            -44.756,
+            -21.158
+          ],
+          [
+            -44.772,
+            -21.142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-balsas-rio-jacui-rio-taquari-triunfo-sao-jeronimo-general-camara-santa-tereza",
+        "nome": "Eixo Rio Jacuí e Vale do Taquari: Triunfo – São Jerônimo / Charqueadas + General Câmara – São Jerônimo + Santa Tereza – São Valentim do Sul / Muçum (RS)",
+        "sistema_id": "travessias-fluviais-rio-taquari-rio-jacui-rio-ibicui-triunfo-sao-jeronimo-general-camara-itaqui-albornoz-rio-grande-do-sul-brasil",
+        "sistema_nome": "Travessias de Balsas da Depressão Central e Fronteira Oeste do Rio Grande do Sul (RS, Brasil)",
+        "pais": "Brasil",
+        "cidade": "Triunfo / São Jerônimo / General Câmara / Santa Tereza",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Operadores de Balsas e Lanchas dos Rios Jacuí e Taquari (RS)",
+        "extensao_km": 210,
+        "bitola": "Travessia Fluvial de Balsas e Lanchas",
+        "eletrificacao": "Balsas Motorizadas e Lanchas de Passageiros"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.7181,
+            -29.9436
+          ],
+          [
+            -51.725,
+            -29.958
+          ],
+          [
+            -51.761,
+            -29.905
+          ],
+          [
+            -51.895,
+            -29.168
+          ],
+          [
+            -51.735,
+            -29.169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-balsas-fronteira-oeste-medio-uruguai-rio-ibicui-itaqui-alvear-macambara",
+        "nome": "Eixo Fronteira Oeste (Médio Rio Uruguai e Rio Ibicuí): Travessia Internacional Itaqui (RS) – Alvear (Argentina) + Balsa do Rio Ibicuí (Itaqui – Maçambará)",
+        "sistema_id": "travessias-fluviais-rio-taquari-rio-jacui-rio-ibicui-triunfo-sao-jeronimo-general-camara-itaqui-albornoz-rio-grande-do-sul-brasil",
+        "sistema_nome": "Travessias de Balsas da Depressão Central e Fronteira Oeste do Rio Grande do Sul (RS, Brasil)",
+        "pais": "Brasil",
+        "cidade": "Itaqui / Maçambará / Alvear",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Balsas Internacionais Itaqui–Alvear & Balsa do Rio Ibicuí",
+        "extensao_km": 210,
+        "bitola": "Hidrovia Fluvial Binacional e Regional",
+        "eletrificacao": "Balsas Ro-Ro Fluviais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.5569,
+            -29.1253
+          ],
+          [
+            -56.549,
+            -29.101
+          ],
+          [
+            -56.085,
+            -29.145
+          ],
+          [
+            -55.895,
+            -29.285
+          ]
+        ]
+      }
     }
   ]
 }
