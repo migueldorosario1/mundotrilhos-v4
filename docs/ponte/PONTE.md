@@ -1254,3 +1254,19 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
   - **2.474 páginas estáticas geradas** (`npm run build` com código 0 em `87.98s`).
 - **Próxima Ronda (#138 / Ordem 134 da Fila)**: `HIDRO-OCEANIA-NOVA-ZELANDIA-FIJI-SAMOA-POLINESIA-II` (Oceania Insular, Estreito de Cook e Pacífico Sul II — Nova Zelândia, Fiji, Samoa e Polinésia Francesa).
 
+### #139 — 15/11/2026 07:55 BRT — De: AGY (AG-27 / AG-325) → Para: Miguel / Milton (`@CL-01`) — **RONDA #138 CONCLUÍDA EM PRODUÇÃO (`commit e299dad` na `main`, `2484 page(s) built`): ORDEM 134 DA FILA — FASE HIDROVIÁRIA MUNDIAL #26 (ESCANDINÁVIA, MAR BÁLTICO E ÁRTICO EUROPEU II: NORUEGA, DINAMARCA, SUÉCIA E FINLÂNDIA/ILHAS ÅLAND — 894 SISTEMAS, 1.229 LINHAS E 2.025 TERMINAIS)**
+
+- **Auditoria da Ponte**: Verificada `docs/ponte/PONTE.md` na branch `ponte-mapa-trilhos`; sem novos pedidos pendentes na `Caixa de entrada`.
+- **Ordem 134 Concluída (`HIDRO-ESCANDINAVIA-BALTICO-ARTICO-II`) — 5 sistemas hidroviários de barcos/ferries (`1.645 km`, 10 linhas, 25 terminais)**:
+  1. `torghatten-nord-bodo-moskenes-rost-vaeroy-svolvaer-skutvik-lofoten-noruega` (🇳🇴 Noruega — Ferries do Vestfjorden e Arquipélago de Lofoten: Bodø–Moskenes/Reine–Værøy–Røst, Bognes–Lødingen na Rota E10 e Svolvær–Skrova–Skutvik com Torghatten Nord, `310 km`, 2 linhas, 5 terminais)
+  2. `fjord1-norled-geiranger-hellesylt-gudvangen-flam-naeroyfjord-lysefjord-noruega` (🇳🇴 Noruega — Catamarãs 100% Elétricos e Ferries dos Fiordes Patrimônio Mundial UNESCO: Flåm–Gudvangen no Nærøyfjord, Geiranger–Hellesylt, Lavik–Oppedal no Sognefjord e Lauvvik–Lysebotn no Lysefjord com The Fjords, Fjord1 e Norled, `240 km`, 2 linhas, 5 terminais)
+  3. `color-line-superspeed-kristiansand-larvik-hirtshals-fjord-line-stavanger-bergen-sandefjord-stromstad-noruega-dinamarca-suecia` (🇳🇴🇩🇰🇸🇪 Noruega, Dinamarca e Suécia — Autoestradas Marítimas do Skagerrak e Oslofjord Exterior: Color Line SuperSpeed 1 & 2 Kristiansand/Larvik–Hirtshals, MS Color Hybrid Sandefjord–Strømstad e Fjord Line Bergen–Stavanger–Hirtshals, `580 km`, 2 linhas, 5 terminais)
+  4. `laesoe-faergen-frederikshavn-laesoe-samsoe-rederi-kalundborg-ballen-aeroe-faergerne-svendborg-aeroeskobing-dinamarca` (🇩🇰 Dinamarca — Ferries Elétricos Insulares da Dinamarca: E-Ferry Ellen e Ærøfærgerne Svendborg/Fynshav–Ærø, Samsø Rederi Kalundborg/Hou–Samsø e Læsøfærgen Frederikshavn–Læsø, `220 km`, 2 linhas, 5 terminais)
+  5. `alandstrafiken-eckero-linjen-grisslehamn-eckero-mariehamn-kumlinge-brando-houtskar-korpo-aland-finlandia-suecia` (🇦🇽🇫🇮🇸🇪 Ilhas Åland, Finlândia e Suécia — Rede Insular Quebra-Gelo Ålandstrafiken nas Linhas Norte Hummelvik–Kumlinge–Brändö–Osnäs e Sul Långnäs–Kökar–Galtby/Korpo e Eckerö Linjen Grisslehamn–Eckerö, `295 km`, 2 linhas, 5 terminais)
+- **Totais Globais no Mapa (`commit e299dad` na `main`)**:
+  - **894 sistemas no banco** (**878 em operação**, sendo **158 sistemas de transporte por barco/ferries** + 16 não-operacionais preservados intactos)
+  - **1.229 linhas mapeadas** (**1.210 em operação**, sendo **315 linhas hidroviárias de barcos/ferries**)
+  - **2.025 estações e terminais geolocalizados** (**591 terminais hidroviários de barcos/ferries**)
+  - **2.484 páginas estáticas geradas** (`npm run build` com código 0 em `117.63s`).
+- **Próxima Ronda (#139 / Ordem 135 da Fila)**: `HIDRO-AMERICA-NORTE-GRANDES-LAGOS-COSTA-LESTE-OESTE-II` (Grandes Lagos, Costa Leste, Califórnia e Pacífico Noroeste II — EUA e Canadá).
+
