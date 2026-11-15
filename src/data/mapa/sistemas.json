@@ -28339,5 +28339,387 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+    "slug": "ferries-ultramar-winjet-quintana-roo-cancun-isla-mujeres-playa-del-carmen-cozumel-mexico",
+    "nome_pt": "Ferries do Caribe Mexicano — Ultramar, Winjet e Holbox Express (Cancún Puerto Juárez–Isla Mujeres, Playa del Carmen–Cozumel e Chiquilá–Holbox, Quintana Roo, México)",
+    "nome_en": "Mexican Caribbean Ferries — Ultramar, Winjet & Holbox Express (Cancún Puerto Juárez–Isla Mujeres, Playa del Carmen–Cozumel & Chiquilá–Holbox, Quintana Roo, Mexico)",
+    "pais": "México",
+    "cidade": "Cancún (Puerto Juárez), Isla Mujeres, Playa del Carmen, San Miguel de Cozumel, Chiquilá e Isla Holbox (Quintana Roo)",
+    "uf": "Quintana Roo",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Ultramar Ferry, Winjet Fast Ferry, Xcaret Xailing, Transcaribe (Ro-Pax) & 9 Hermanos / Holbox Express",
+    "inauguracao": "1975 (Regularização das travessias marítimas de passageiros e carga para Isla Mujeres e Cozumel e introdução dos catamarãs de alta velocidade Ultramar em 2003)",
+    "extensao_km": 98.0,
+    "bitola": "Hidrovia marítima costeira do Mar do Caribe (Canal de Yucatán — Quintana Roo, México)",
+    "eletrificacao": "Catamarãs de alumínio de alta velocidade (Ultramar, Winjet e Xcaret Xailing, até 30 nós) e ferries ro-pax de veículos/carga (Transcaribe e Ultramar Carga)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 48000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 140 milhões (expansão da frota de catamarãs de última geração no Canal de Cozumel e conexão intermodal de ônibus com as estações Cancún Aeropuerto e Playa del Carmen do Tren Maya)",
+      "moeda": "USD",
+      "fonte_id": "apqroo-ultramar-winjet-quintana-roo"
+    },
+    "proximas_entregas": {
+      "pt": "Integração tarifária e de ônibus elétricos alimentadores entre as estações do Tren Maya (Cancún e Playa del Carmen) e os terminais marítimos da APQROO em Puerto Juárez e Playa del Carmen.",
+      "en": "Shuttle bus and ticketing integration between Tren Maya stations (Cancún and Playa del Carmen) and the APQROO maritime terminals at Puerto Juárez and Playa del Carmen."
+    },
+    "resumo_pt": "O estado mexicano de Quintana Roo abriga o corredor de ferries de passageiros mais movimentado da América Latina fora do Brasil, sob regulação da Administración Portuaria Integral de Quintana Roo (APIQROO). No eixo norte, a partir do Terminal Marítimo de Puerto Juárez (Cancún) e da Zona Hoteleira, os catamarãs de alta velocidade da Ultramar e da Xcaret Xailing cruzam os 13 km até Isla Mujeres a cada 30 minutos em apenas 18 minutos (além dos ferries de Chiquilá para a Ilha Holbox). No eixo central da Riviera Maya, o Terminal Marítimo de Playa del Carmen (conectado à estação Playa del Carmen do Tren Maya) despacha catamarãs velozes da Ultramar, Winjet e Xcaret Xailing a cada meia hora através dos 19 km do Canal de Cozumel até o Muelle Fiscal de San Miguel de Cozumel, complementados pelos ferries ro-pax da Ultramar Carga e Transcaribe a partir do terminal de Calica / Punta Venado.",
+    "resumo_en": "Mexico's state of Quintana Roo operates one of Latin America's busiest high-speed passenger ferry networks, overseen by APIQROO. In the north, high-speed catamarans operated by Ultramar and Xcaret Xailing depart every 30 minutes from Puerto Juárez Maritime Terminal in Cancún across the 13 km strait to Isla Mujeres (alongside northern ferries from Chiquilá to Holbox Island). In the central Riviera Maya, Playa del Carmen Maritime Terminal (linked to the Tren Maya station) dispatches fast catamarans operated by Ultramar, Winjet and Xcaret Xailing across the 19 km Cozumel Channel to San Miguel de Cozumel, complemented by ro-pax vehicle ferries from Calica/Punta Venado.",
+    "lat": 20.6215,
+    "lon": -87.0725,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "apqroo-ultramar-winjet-quintana-roo",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "méxico",
+      "quintana roo",
+      "cancún",
+      "puerto juárez",
+      "isla mujeres",
+      "playa del carmen",
+      "cozumel",
+      "holbox",
+      "ultramar",
+      "winjet",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ultramar_ferry_in_Cozumel.jpg/800px-Ultramar_ferry_in_Cozumel.jpg",
+      "credito": "Wikimedia Commons — Catamarã de alta velocidade da Ultramar na travessia Playa del Carmen–Cozumel e Cancún–Isla Mujeres (Quintana Roo, México)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ultramar_(ferry_company)"
+    },
+    "linhas": [
+      {
+        "id": "linha-ultramar-cancun-puerto-juarez-isla-mujeres-chiquila-holbox",
+        "nome": "Corredor Norte de Quintana Roo (Terminal Puerto Juárez, Cancún – Isla Mujeres & Chiquilá – Isla Holbox)",
+        "status": "operacao",
+        "extensao_km": 42.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-ultramar-winjet-playa-del-carmen-san-miguel-de-cozumel",
+        "nome": "Expresso do Canal de Cozumel (Terminal Marítimo de Playa del Carmen – Muelle Fiscal San Miguel de Cozumel)",
+        "status": "operacao",
+        "extensao_km": 56.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+    "slug": "lancha-de-catano-san-juan-atm-ferries-ceiba-vieques-culebra-porto-rico",
+    "nome_pt": "Lancha de Cataño (Baía de San Juan) e Ferries Insulares da ATM para Vieques e Culebra (Porto Rico)",
+    "nome_en": "Cataño Ferry (San Juan Bay) & ATM Insular Ferries Ceiba–Vieques–Culebra (Puerto Rico)",
+    "pais": "Porto Rico (EUA)",
+    "cidade": "San Juan, Cataño, Ceiba, Ilha de Vieques e Ilha de Culebra (Porto Rico)",
+    "uf": "San Juan / Cataño / Ceiba / Vieques / Culebra",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Autoridad de Transporte Marítimo de Puerto Rico y las Islas Municipio (ATM) / Puerto Rico Ferry (HMS Ferries / Hornblower)",
+    "inauguracao": "1853 (Início histórico da travessia a vapor entre Viejo San Juan e Cataño e criação da Autoridad de Transporte Marítimo ATM em 2000)",
+    "extensao_km": 115.0,
+    "bitola": "Baía de San Juan (Lancha de Cataño) e Sondagem de Vieques / Passagem de Culebra no leste de Porto Rico",
+    "eletrificacao": "Barcas urbanas climatizadas na Baía de San Juan e catamarãs rápidos e ferries ro-pax (Isla Bonita, Cayo Blanco, Cayo Largo) entre Ceiba, Vieques e Culebra",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 14000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 88 milhões (financiamento da FTA dos EUA para reconstrução dos terminais de San Juan/Cataño e Ceiba e aquisição de novos ferries híbridos para Vieques e Culebra)",
+      "moeda": "USD",
+      "fonte_id": "atm-pr-ferry-fta-san-juan"
+    },
+    "proximas_entregas": {
+      "pt": "Reativação da linha hidroviária metropolitana Viejo San Juan – Muelle 2 – Hato Rey (conectada à estação Hato Rey do Tren Urbano de San Juan).",
+      "en": "Reactivation of the Viejo San Juan – Pier 2 – Hato Rey urban water transit route (connecting directly with the Tren Urbano Hato Rey station)."
+    },
+    "resumo_pt": "Em Porto Rico, a Autoridad de Transporte Marítimo (ATM / Puerto Rico Ferry) opera dois subsistemas públicos essenciais integrados à rede metropolitana de transporte da ilha (ATI / Tren Urbano). Na Baía de San Juan, a histórica 'Lancha de Cataño' conecta o Muelle 2 do centro histórico (Viejo San Juan) ao terminal de Cataño em uma travessia de apenas 8 minutos a cada meia hora, com tarifa social de US$ 0,50. Já na costa leste da ilha principal, a partir do Terminal de Ferries da antiga base naval de Roosevelt Roads, em Ceiba, a ATM opera a ponte marítima vital de passageiros e cargas que abastece diariamente as duas ilhas-município de Porto Rico: Vieques (Terminal de Isabel Segunda / Mosquito) e Culebra (Terminal de Dewey).",
+    "resumo_en": "In Puerto Rico, the Maritime Transport Authority (ATM / Puerto Rico Ferry) operates two vital public water transit services. Across San Juan Bay, the historic 'Lancha de Cataño' links Pier 2 in Old San Juan with Cataño Terminal in an 8-minute crossing every 30 minutes. On the eastern coast of the main island, ATM operates passenger catamarans and ro-pax cargo ferries from Ceiba Terminal (former Roosevelt Roads Naval Station) across the Vieques Sound to the island municipalities of Vieques (Isabel Segunda) and Culebra (Dewey).",
+    "lat": 18.4525,
+    "lon": -66.1185,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "atm-pr-ferry-fta-san-juan",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "porto rico",
+      "san juan",
+      "cataño",
+      "lancha de cataño",
+      "ceiba",
+      "vieques",
+      "culebra",
+      "atm",
+      "puerto rico ferry",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Catano_Ferry_Terminal_Puerto_Rico.jpg/800px-Catano_Ferry_Terminal_Puerto_Rico.jpg",
+      "credito": "Wikimedia Commons — Terminal da Lancha de Cataño na Baía de San Juan e ferries da ATM para Vieques e Culebra (Porto Rico)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Cata%C3%B1o_Ferry"
+    },
+    "linhas": [
+      {
+        "id": "linha-atm-lancha-de-catano-viejo-san-juan-baia-san-juan",
+        "nome": "Lancha de Cataño — Baía de San Juan (Terminal Viejo San Juan Muelle 2 – Terminal Lancha de Cataño)",
+        "status": "operacao",
+        "extensao_km": 10.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-atm-puerto-rico-ferry-ceiba-vieques-culebra",
+        "nome": "Ponte Marítima das Ilhas-Município (Terminal de Ceiba – Isabel Segunda / Vieques & Ceiba – Dewey / Culebra)",
+        "status": "operacao",
+        "extensao_km": 105.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+    "slug": "trinidad-and-tobago-water-taxi-port-of-spain-san-fernando-inter-island-ferry-scarborough-trinidad-e-tobago",
+    "nome_pt": "Trinidad & Tobago Water Taxi (Port of Spain–San Fernando) e Ponte Marítima Inter-Ilhas Port of Spain–Scarborough (Trinidad e Tobago)",
+    "nome_en": "Trinidad & Tobago Water Taxi (Port of Spain–San Fernando) & Inter-Island Fast Ferry Port of Spain–Scarborough (Trinidad and Tobago)",
+    "pais": "Trinidad e Tobago",
+    "cidade": "Port of Spain, Chaguaramas e San Fernando (Ilha de Trinidad); Scarborough (Ilha de Tobago)",
+    "uf": "Port of Spain / San Fernando / Tobago",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "NIDCO — National Infrastructure Development Company (Water Taxi Service) & TTIT — Trinidad and Tobago Inter-Island Transportation Company (Port Authority of T&T)",
+    "inauguracao": "2008 (Inauguração do Water Taxi rápido Port of Spain–San Fernando no Golfo de Paria; Ferry Inter-Ilhas Trinidad–Tobago em operação contínua desde 1931)",
+    "extensao_km": 195.0,
+    "bitola": "Golfo de Paria (Corredor Norte–Sul de Trinidad) e Canal de Galleons Passage / Mar do Caribe até Scarborough (Tobago)",
+    "eletrificacao": "Catamarãs australianos Austal de 41 metros no Water Taxi (405 passageiros, 35 nós) e supercatamarãs ro-pax de alta velocidade (APT James, Buccoo Reef e Galleons Passage) na rota de Tobago",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 12500,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 155 milhões (aquisição dos megacatamarãs rápidos HSC APT James da Austal e HSC Buccoo Reef da Incat para a ponte marítima Port of Spain–Tobago)",
+      "moeda": "USD",
+      "fonte_id": "nidco-ttit-patt-trinidad-tobago"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação de novas paradas do Water Taxi em Point Fortin e Chaguaramas e lançamento da linha marítima regional Trinidad–Guiana–Barbados.",
+      "en": "Expansion of Water Taxi stops to Point Fortin and Chaguaramas and launch of the regional Trinidad–Guyana–Barbados ferry link."
+    },
+    "resumo_pt": "Desde o encerramento da antiga Trinidad Government Railway em 1968, o transporte hidroviário de alta velocidade tornou-se o principal sistema de transporte de massa sobre rota fixa de Trinidad e Tobago. No Golfo de Paria, o 'Water Taxi Service' da estatal NIDCO opera grandes catamarãs Austal de 405 lugares ligando o Water Taxi Terminal de Port of Spain (na capital, ao lado do Priority Bus Route) à segunda maior cidade do país, San Fernando, em apenas 45 minutos (contra mais de 2 horas de congestionamento na rodovia Uriah Butler/Solomon Hochoy). Paralelamente, a estatal TTIT opera a famosa 'Seabridge' (Ponte Marítima Inter-Ilhas) entre o Terminal de Ferries de Port of Spain e o Porto de Scarborough, na ilha de Tobago, utilizando uma das frotas de catamarãs ro-pax de alta velocidade mais modernas do mundo (HSC APT James de 94 metros, HSC Buccoo Reef de 100 metros e Galleons Passage), além do navio cargueiro Cabo Star.",
+    "resumo_en": "High-speed maritime transit serves as the backbone of public mass transit in Trinidad and Tobago. On the Gulf of Paria, NIDCO's Water Taxi Service operates 405-seat Austal catamarans connecting Port of Spain Water Taxi Terminal with San Fernando in southern Trinidad in just 45 minutes. Simultaneously, state operator TTIT runs the vital Inter-Island Seabridge between Port of Spain Ferry Terminal and Scarborough in Tobago using some of the Western Hemisphere's most modern high-speed wave-piercing ro-pax catamarans — the 94-meter Austal HSC APT James and the 100-meter Incat HSC Buccoo Reef — alongside the Galleons Passage and ro-ro vessel Cabo Star.",
+    "lat": 10.6495,
+    "lon": -61.5145,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "nidco-ttit-patt-trinidad-tobago",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "trinidad e tobago",
+      "port of spain",
+      "san fernando",
+      "scarborough",
+      "tobago",
+      "water taxi",
+      "nidco",
+      "ttit",
+      "apt james",
+      "buccoo reef",
+      "golfo de paria",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Water_Taxi_in_Port_of_Spain_Trinidad.jpg/800px-Water_Taxi_in_Port_of_Spain_Trinidad.jpg",
+      "credito": "Wikimedia Commons — Catamarã rápido do Water Taxi Service em Port of Spain e supercatamarãs da Seabridge Trinidad–Tobago",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Trinidad_and_Tobago"
+    },
+    "linhas": [
+      {
+        "id": "linha-nidco-water-taxi-golfo-de-paria-port-of-spain-san-fernando",
+        "nome": "Expresso do Golfo de Paria — NIDCO Water Taxi (Port of Spain Water Taxi Terminal – San Fernando King's Wharf)",
+        "status": "operacao",
+        "extensao_km": 48.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-ttit-inter-island-seabridge-port-of-spain-scarborough-tobago",
+        "nome": "Ponte Marítima Inter-Ilhas Trinidad–Tobago — TTIT (Port of Spain Ferry Terminal – Porto de Scarborough, Tobago)",
+        "status": "operacao",
+        "extensao_km": 147.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+    "slug": "ferries-canal-do-panama-taboga-express-bocas-del-toro-almirante-panama",
+    "nome_pt": "Ferries da Entrada Pacífica do Canal do Panamá (Amador–Ilha Taboga–Contadora) e Rede Marítima de Bocas del Toro / Almirante (Panamá)",
+    "nome_en": "Panama Canal Pacific Entrance Ferries (Amador–Taboga Island–Contadora) & Bocas del Toro / Almirante Maritime Network (Panama)",
+    "pais": "Panamá",
+    "cidade": "Cidade do Panamá (Calzada de Amador / Balboa), Ilha Taboga, Ilha Contadora (Arquipélago de las Perlas), Almirante, Changuinola e Bocas del Toro (Ilha Colón)",
+    "uf": "Panamá / Bocas del Toro",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Taboga Express Fast Ferry, Sea Las Perlas, Ferry Las Perlas & Transporte Marítimo Bocas del Toro / Ferry Bocas (Almirante–Isla Colón)",
+    "inauguracao": "1914 (Lanchas de apoio do Canal do Panamá e travessia histórica da United Fruit Company em Almirante–Bocas del Toro; catamarãs rápidos Taboga Express em 2011)",
+    "extensao_km": 165.0,
+    "bitola": "Baía do Panamá / Entrada Pacífica do Canal do Panamá e Baía de Almirante / Laguna de Chiriquí no Caribe Panamenho",
+    "eletrificacao": "Catamarãs rápidos de passageiros na Baía do Panamá (Taboga Express e Sea Las Perlas) e ferries ro-pax e lanchas coletivas ('pangas' / water taxis) em Bocas del Toro",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 16000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 65 milhões (novo Terminal Marítimo e de Cruzeiros de Amador da Autoridad Marítima de Panamá AMP e modernização dos píeres de Almirante e Isla Colón)",
+      "moeda": "USD",
+      "fonte_id": "amp-panama-amador-taboga-bocas"
+    },
+    "proximas_entregas": {
+      "pt": "Integração da Calzada de Amador com o futuro ramal e conexões da Linha 3 do Metrô do Panamá (túnel sob o Canal do Panamá em Balboa).",
+      "en": "Integration of the Amador Causeway maritime piers with feeder links to Panama Metro Line 3 (under-canal tunnel at Balboa)."
+    },
+    "resumo_pt": "Sob supervisão da Autoridad Marítima de Panamá (AMP), o Panamá conta com dois sistemas hidroviários de passageiros essenciais nas duas costas do istmo. No Oceano Pacífico, a partir da Calzada de Amador (ao lado da entrada sul do Canal do Panamá e do terminal de Balboa da Panama Canal Railway), os catamarãs rápidos da Taboga Express e da Sea Las Perlas navegam ao lado dos grandes navios porta-contêineres que aguardam trânsito no Canal para ligar a capital à histórica Ilha Taboga (30 minutos) e às ilhas de Contadora, Saboga e Viveros, no Arquipélago de las Perlas. Já na costa do Caribe, na província insular de Bocas del Toro, toda a mobilidade diária da capital provincial (Bocas Town, na Ilha Colón) depende das lanchas rápidas coletivas (Transporte Marítimo Bocas del Toro, 25 minutos) e dos ferries ro-pax de veículos que partem do porto continental de Almirante.",
+    "resumo_en": "Regulated by the Panama Maritime Authority (AMP), Panama relies on two primary passenger water transit networks on its Pacific and Caribbean coasts. On the Pacific side, fast catamarans operated by Taboga Express and Sea Las Perlas depart from the Amador Causeway (at the Pacific entrance of the Panama Canal, near Balboa station of the Panama Canal Railway) to link Panama City with Taboga Island (30 minutes) and Contadora Island in the Pearl Islands archipelago. On the Caribbean coast, daily mobility across the island province of Bocas del Toro depends entirely on high-frequency water taxis and ro-pax ferries linking the mainland port of Almirante with Bocas Town on Isla Colón.",
+    "lat": 8.9145,
+    "lon": -79.5465,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "amp-panama-amador-taboga-bocas",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "panamá",
+      "canal do panamá",
+      "calzada de amador",
+      "ilha taboga",
+      "taboga express",
+      "arquipélago de las perlas",
+      "contadora",
+      "bocas del toro",
+      "almirante",
+      "isla colón",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Taboga_Island_pier_and_ferry_Panama.jpg/800px-Taboga_Island_pier_and_ferry_Panama.jpg",
+      "credito": "Wikimedia Commons — Píer e catamarã da travessia Amador–Ilha Taboga na entrada do Canal do Panamá e táxis aquáticos de Bocas del Toro (Panamá)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Taboga_Island"
+    },
+    "linhas": [
+      {
+        "id": "linha-canal-do-panama-amador-ilha-taboga-arquipelago-las-perlas",
+        "nome": "Corredor Pacífico do Canal do Panamá (Calzada de Amador / Balboa – Ilha Taboga – Ilha Contadora / Las Perlas)",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-caribe-panamenho-almirante-bocas-del-toro-isla-colon",
+        "nome": "Ponte Marítima de Bocas del Toro (Porto de Almirante – Bocas Town / Isla Colón – Bastimentos, Caribe Panamenho)",
+        "status": "operacao",
+        "extensao_km": 70.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua",
+    "slug": "ferries-golfo-de-nicoya-puntarenas-paquera-naranjo-lago-nicaragua-ometepe-costa-rica-nicaragua",
+    "nome_pt": "Ferries do Golfo de Nicoya (Puntarenas–Paquera–Playa Naranjo, Costa Rica) e Travessia do Lago Nicarágua para a Ilha de Ometepe (Nicarágua)",
+    "nome_en": "Gulf of Nicoya Ro-Pax Ferries (Puntarenas–Paquera–Playa Naranjo, Costa Rica) & Lake Nicaragua Ferry to Ometepe Island (Nicaragua)",
+    "pais": "Costa Rica",
+    "cidade": "Puntarenas, Paquera e Playa Naranjo (Península de Nicoya, Costa Rica); San Jorge, Moyogalpa, San José del Sur e San Carlos (Lago Cocibolca, Nicarágua)",
+    "uf": "Puntarenas / Guanacaste / Rivas",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Naviera Tambor (Ferry Tambor — Puntarenas–Paquera), Coonatramar (Puntarenas–Playa Naranjo, Costa Rica) & EPN — Empresa Portuaria Nacional (Lago Cocibolca / Ometepe, Nicarágua)",
+    "inauguracao": "1971 (Início da travessia cooperativa Coonatramar e Naviera Tambor no Golfo de Nicoya, em Puntarenas, antigo terminal da Ferrovia Elétrica ao Pacífico da Costa Rica)",
+    "extensao_km": 140.0,
+    "bitola": "Golfo de Nicoya (Oceano Pacífico, Costa Rica) e Grande Lago de Nicarágua / Cocibolca (8.264 km², o maior lago da América Central)",
+    "eletrificacao": "Ferries ro-pax de veículos e passageiros (Ferry Tambor III/IV e Coonatramar no Golfo de Nicoya; Ferry Ometepe III, Che Guevara e Rey del Cocibolca no Lago Nicarágua)",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 15000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 72 milhões (modernização do Terminal de Ferries de Barrio El Carmen em Puntarenas pelo MOPT da Costa Rica e ampliação dos portos de San Jorge e Moyogalpa pela EPN)",
+      "moeda": "USD",
+      "fonte_id": "mopt-cr-golfo-nicoya-epn-ometepe"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação do ferry binacional El Salvador–Costa Rica (Porto de La Unión – Porto de Caldera/Puntarenas) e renovação da frota do Golfo de Nicoya.",
+      "en": "Deployment of the binational El Salvador–Costa Rica ro-pax ferry (La Unión – Caldera/Puntarenas) and fleet renewal across the Gulf of Nicoya."
+    },
+    "resumo_pt": "Na América Central, duas grandes travessias hidroviárias de ferries ro-pax estruturam o transporte de passageiros e veículos no Pacífico e na bacia lacustre centro-americana. Na Costa Rica, a partir da ponta do tômbolo de Puntarenas (Barrio El Carmen, onde terminava a histórica ferrovia elétrica San José–Puntarenas do INCOFER), os grandes ferries da Naviera Tambor e da cooperativa Coonatramar cruzam diariamente o Golfo de Nicoya até os terminais de Paquera (70 minutos, dando acesso direto a Tambor, Montezuma e Santa Teresa) e Playa Naranjo (acesso ao sul da Península de Nicoya e Guanacaste), poupando mais de 180 km de volta rodoviária. Mais ao norte, na Nicarágua, a Empresa Portuaria Nacional (EPN) e operadores privados conectam o Porto de San Jorge (Rivas) atravessando o Grande Lago de Nicarágua (Cocibolca, o maior lago da América Central) até os portos de Moyogalpa e San José del Sur, na vulcânica Ilha de Ometepe (Reserva da Biosfera da UNESCO).",
+    "resumo_en": "In Central America, two major ro-pax ferry networks anchor regional passenger and vehicle mobility. In Costa Rica, ferries operated by Naviera Tambor and Coonatramar depart from the tip of the Puntarenas peninsula across the Gulf of Nicoya to Paquera (70 minutes) and Playa Naranjo on the Nicoya Peninsula, saving over 180 km of road travel. To the north in Nicaragua, the National Port Authority (EPN) and private ferries cross Lake Nicaragua (Cocibolca, Central America's largest lake) from the mainland port of San Jorge (Rivas) to Moyogalpa and San José del Sur on the twin-volcano UNESCO biosphere island of Ometepe.",
+    "lat": 9.9785,
+    "lon": -84.8485,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "mopt-cr-golfo-nicoya-epn-ometepe",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "costa rica",
+      "golfo de nicoya",
+      "puntarenas",
+      "paquera",
+      "playa naranjo",
+      "naviera tambor",
+      "coonatramar",
+      "nicarágua",
+      "lago nicarágua",
+      "ilha de ometepe",
+      "moyogalpa",
+      "san jorge",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ferry_Tambor_in_Gulf_of_Nicoya_Costa_Rica.jpg/800px-Ferry_Tambor_in_Gulf_of_Nicoya_Costa_Rica.jpg",
+      "credito": "Wikimedia Commons — Ferry Tambor na travessia Puntarenas–Paquera no Golfo de Nicoya (Costa Rica) e Ferry de Ometepe no Lago Nicarágua",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Costa_Rica"
+    },
+    "linhas": [
+      {
+        "id": "linha-golfo-de-nicoya-puntarenas-paquera-playa-naranjo-costa-rica",
+        "nome": "Travessias do Golfo de Nicoya (Terminal de Puntarenas – Paquera & Puntarenas – Playa Naranjo, Costa Rica)",
+        "status": "operacao",
+        "extensao_km": 45.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-lago-nicaragua-san-jorge-moyogalpa-ometepe-san-carlos",
+        "nome": "Hidrovia Lacustre do Lago Cocibolca (Porto de San Jorge, Rivas – Moyogalpa / Ilha de Ometepe – San Carlos, Nicarágua)",
+        "status": "operacao",
+        "extensao_km": 95.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
