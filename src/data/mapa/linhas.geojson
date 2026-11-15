@@ -53402,6 +53402,368 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-foveaux-strait-bluff-oban-stewart-island-rakiura",
+        "nome": "Eixo Estreito de Foveaux — Bluff Ferry Terminal (Southland) – Oban / Halfmoon Bay (Stewart Island / Rakiura)",
+        "sistema_id": "stewart-island-experience-bluff-oban-east-by-west-wellington-whanganui-taupo-nova-zelandia",
+        "sistema_nome": "Ferries do Estreito de Foveaux, Porto de Wellington e Bay of Islands (Nova Zelândia)",
+        "pais": "Nova Zelândia",
+        "cidade": "Bluff / Oban (Stewart Island)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 190,
+        "bitola": "Catamarãs Oceânicos Foveaux Express (RealNZ)",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            168.3472,
+            -46.6011
+          ],
+          [
+            168.23,
+            -46.75
+          ],
+          [
+            168.1286,
+            -46.8986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-wellington-harbour-electric-ferry-bay-of-islands-paihia-russell",
+        "nome": "Eixo Ilha Norte — East by West Ferry Elétrico Queens Wharf–Days Bay–Matiu/Somes Island (Wellington) e Paihia/Opua–Russell (Bay of Islands)",
+        "sistema_id": "stewart-island-experience-bluff-oban-east-by-west-wellington-whanganui-taupo-nova-zelandia",
+        "sistema_nome": "Ferries do Estreito de Foveaux, Porto de Wellington e Bay of Islands (Nova Zelândia)",
+        "pais": "Nova Zelândia",
+        "cidade": "Wellington / Lower Hutt (Days Bay) / Paihia / Russell",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 150,
+        "bitola": "Catamarã 100% Elétrico Ika Rere e Ferries de Bay of Islands",
+        "eletrificacao": "100% Elétrico a Bateria (Wellington)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7797,
+            -41.2842
+          ],
+          [
+            174.8656,
+            -41.2578
+          ],
+          [
+            174.9061,
+            -41.2811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-moreton-bay-cleveland-dunwich-stradbroke-redland-bay-russell-island",
+        "nome": "Eixo Baía de Moreton (Grande Brisbane, QLD) — Cleveland–Dunwich (North Stradbroke Island) e Redland Bay–Macleay–Russell Island",
+        "sistema_id": "spencer-gulf-searoads-wallaroo-lucky-bay-stradbroke-ferries-moreton-bay-tiwi-islands-darwin-australia",
+        "sistema_nome": "Ferries do Golfo Spencer, Baía de Moreton e Ilhas Tiwi (Austrália)",
+        "pais": "Austrália",
+        "cidade": "Cleveland / North Stradbroke Island / Redland Bay / Russell Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 190,
+        "bitola": "Ferries Ro-Pax e Catamarãs Translink / SeaLink SEQ",
+        "eletrificacao": "Diesel Marítimo de Baixa Emissão"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.2719,
+            -27.5256
+          ],
+          [
+            153.4019,
+            -27.4981
+          ],
+          [
+            153.3069,
+            -27.6131
+          ],
+          [
+            153.3769,
+            -27.6481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-spencer-gulf-wallaroo-lucky-bay-darwin-mandorah-tiwi-islands",
+        "nome": "Eixo Golfo Spencer (SA) e Mar de Timor (NT) — Wallaroo–Lucky Bay Ferry e Darwin Cullen Bay–Mandorah–Wurrumiyanga (Ilhas Tiwi)",
+        "sistema_id": "spencer-gulf-searoads-wallaroo-lucky-bay-stradbroke-ferries-moreton-bay-tiwi-islands-darwin-australia",
+        "sistema_nome": "Ferries do Golfo Spencer, Baía de Moreton e Ilhas Tiwi (Austrália)",
+        "pais": "Austrália",
+        "cidade": "Wallaroo / Lucky Bay / Darwin / Ilhas Tiwi",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 330,
+        "bitola": "Ferry Ro-Pax MV Aurora V e Catamarãs SeaLink NT",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.6211,
+            -33.9278
+          ],
+          [
+            137.0469,
+            -33.7061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-apetahi-express-papeete-huahine-raiatea-tahaa-bora-bora",
+        "nome": "Eixo Ilhas da Sociedade (Apetahi Express) — Papeete (Taiti) – Fare (Huahine) – Uturoa (Raiatea) – Taha'a – Vaitape (Bora Bora)",
+        "sistema_id": "apetahi-express-maupiti-express-papeete-huahine-raiatea-tahaa-bora-bora-tuamotu-polinesia-francesa",
+        "sistema_nome": "Catamarãs Interinsulares das Ilhas da Sociedade e Tuamotu (Polinésia Francesa)",
+        "pais": "Polinésia Francesa (França)",
+        "cidade": "Papeete / Huahine / Raiatea / Bora Bora",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 480,
+        "bitola": "Catamarã Oceânico Rápido Apetahi Express",
+        "eletrificacao": "Diesel Marítimo de Alta Velocidade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -149.5694,
+            -17.5372
+          ],
+          [
+            -151.0319,
+            -16.7092
+          ],
+          [
+            -151.4442,
+            -16.7311
+          ],
+          [
+            -151.7519,
+            -16.5042
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-maupiti-express-raiatea-bora-bora-maupiti-tuamotu",
+        "nome": "Eixo Sotavento Ocidental e Tuamotu — Uturoa (Raiatea) – Vaitape (Bora Bora) – Maupiti e Papeete – Rangiroa",
+        "sistema_id": "apetahi-express-maupiti-express-papeete-huahine-raiatea-tahaa-bora-bora-tuamotu-polinesia-francesa",
+        "sistema_nome": "Catamarãs Interinsulares das Ilhas da Sociedade e Tuamotu (Polinésia Francesa)",
+        "pais": "Polinésia Francesa (França)",
+        "cidade": "Raiatea / Bora Bora / Maupiti",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 410,
+        "bitola": "Catamarã Maupiti Express e Navios Mistos de Tuamotu",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -151.4442,
+            -16.7311
+          ],
+          [
+            -151.7519,
+            -16.5042
+          ],
+          [
+            -152.2569,
+            -16.445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-fiji-suva-natovi-nabouwalu-savusavu-taveuni-kadavu",
+        "nome": "Eixo Viti Levu–Vanua Levu–Taveuni — Suva (Narain Jetty) / Natovi – Nabouwalu – Savusavu – Taveuni (Waiyevo)",
+        "sistema_id": "fiji-link-patterson-brothers-goundar-shipping-natovi-nabouwalu-savusavu-taveuni-kadavu-rotuma-fiji",
+        "sistema_nome": "Ferries Interinsulares de Fiji (Fiji)",
+        "pais": "Fiji",
+        "cidade": "Suva / Natovi / Nabouwalu / Savusavu / Taveuni",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 520,
+        "bitola": "Ferries Ro-Pax Patterson Brothers & Goundar Shipping",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            178.4256,
+            -18.1331
+          ],
+          [
+            178.575,
+            -17.6731
+          ],
+          [
+            178.6969,
+            -16.9931
+          ],
+          [
+            179.3369,
+            -16.7781
+          ],
+          [
+            179.8831,
+            -16.7919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-port-denarau-mamanuca-yasawa-flyer-fiji",
+        "nome": "Eixo Ilhas Mamanuca e Yasawa (Yasawa Flyer) — Port Denarau (Nadi) – Malolo Lailai – Kuata – Waya – Nanuya Lailai (Blue Lagoon)",
+        "sistema_id": "fiji-link-patterson-brothers-goundar-shipping-natovi-nabouwalu-savusavu-taveuni-kadavu-rotuma-fiji",
+        "sistema_nome": "Ferries Interinsulares de Fiji (Fiji)",
+        "pais": "Fiji",
+        "cidade": "Port Denarau (Nadi) / Ilhas Mamanuca e Yasawa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 260,
+        "bitola": "Catamarãs de Alta Velocidade Yasawa Flyer (South Sea Cruises)",
+        "eletrificacao": "Diesel Marítimo de Alta Rotação"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            177.3711,
+            -17.7719
+          ],
+          [
+            177.195,
+            -17.7781
+          ],
+          [
+            177.1369,
+            -17.285
+          ],
+          [
+            177.3869,
+            -16.955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-palau-koror-malakal-peleliu-angaur-chuuk-lagoon-weno",
+        "nome": "Eixo Micronésia Ocidental — Koror (Malakal Port)–Peleliu–Angaur (Palau) e Lagoa de Chuuk Weno–Tonoas–Fefan (EFM)",
+        "sistema_id": "micronesia-palau-state-ferries-koror-peleliu-angaur-majuro-ebeye-kwajalein-chuuk-pohnpei-pacifico",
+        "sistema_nome": "Ferries da Micronésia — Palau, Estados Federados da Micronésia, Ilhas Marshall e Kiribati",
+        "pais": "Palau / Micronésia",
+        "cidade": "Koror / Peleliu / Angaur / Weno (Chuuk)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320,
+        "bitola": "Ferries Estaduais de Palau e Barcas da Lagoa de Chuuk",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.4556,
+            7.3306
+          ],
+          [
+            134.2569,
+            7.0269
+          ],
+          [
+            134.135,
+            6.9031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-marshall-islands-ebeye-kwajalein-majuro-tarawa-kiribati",
+        "nome": "Eixo Micronésia Oriental — Ebeye–Kwajalein & Majuro Lagoon Ferry (Ilhas Marshall) e Betio–Bairiki–North Tarawa–Abaiang (Kiribati)",
+        "sistema_id": "micronesia-palau-state-ferries-koror-peleliu-angaur-majuro-ebeye-kwajalein-chuuk-pohnpei-pacifico",
+        "sistema_nome": "Ferries da Micronésia — Palau, Estados Federados da Micronésia, Ilhas Marshall e Kiribati",
+        "pais": "Ilhas Marshall / Kiribati",
+        "cidade": "Ebeye / Kwajalein / Majuro / Tarawa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 320,
+        "bitola": "Balsas de Lagoa de Atol (Kwajalein, Majuro e Tarawa)",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            167.7372,
+            8.7806
+          ],
+          [
+            167.7311,
+            8.7189
+          ]
+        ]
+      }
     }
   ]
 }
