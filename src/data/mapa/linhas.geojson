@@ -51484,6 +51484,380 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-solimoes-tefe-fonte-boa-jutai-santo-antonio-do-ica",
+        "nome": "Tronco Médio-Alto Solimões & Foz do Rio Içá (Tefé – Fonte Boa – Jutaí – Tonantins – Santo Antônio do Içá)",
+        "sistema_id": "hidrovia-alto-solimoes-rio-ica-tefe-fonte-boa-jutai-santo-antonio-do-ica-benjamin-constant-tabatinga-am-brasil",
+        "sistema_nome": "Hidrovia do Alto Solimões, Rio Içá e Rio Javari (AM)",
+        "pais": "Brasil",
+        "cidade": "Tefé / Fonte Boa / Jutaí / Santo Antônio do Içá",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 510,
+        "bitola": "Hidrovia Fluvial Amazônica",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.7086,
+            -3.3522
+          ],
+          [
+            -65.4119,
+            -2.6908
+          ],
+          [
+            -66.0917,
+            -2.5139
+          ],
+          [
+            -66.7667,
+            -2.7478
+          ],
+          [
+            -67.7728,
+            -2.8731
+          ],
+          [
+            -67.9439,
+            -3.1492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-solimoes-javari-santo-antonio-olivenca-benjamin-constant-atalaia",
+        "nome": "Tronco Fronteira Tríplice & Rio Javari (Santo Antônio do Içá – São Paulo de Olivença – Benjamin Constant – Atalaia do Norte)",
+        "sistema_id": "hidrovia-alto-solimoes-rio-ica-tefe-fonte-boa-jutai-santo-antonio-do-ica-benjamin-constant-tabatinga-am-brasil",
+        "sistema_nome": "Hidrovia do Alto Solimões, Rio Içá e Rio Javari (AM)",
+        "pais": "Brasil",
+        "cidade": "Santo Antônio do Içá / São Paulo de Olivença / Benjamin Constant / Atalaia do Norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 410,
+        "bitola": "Hidrovia Fluvial Amazônica",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.9439,
+            -3.1492
+          ],
+          [
+            -68.1989,
+            -3.3653
+          ],
+          [
+            -68.9497,
+            -3.4653
+          ],
+          [
+            -70.0314,
+            -4.3756
+          ],
+          [
+            -70.1917,
+            -4.3719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-baia-paranagua-antonina-guaraquecaba-sebui",
+        "nome": "Eixo Baía das Laranjeiras & Antonina (Paranaguá Rua da Praia / Antonina – Vila de Sebuí – Guaraqueçaba)",
+        "sistema_id": "travessias-lanchas-baia-de-paranagua-antonina-guaraquecaba-superagui-ilha-das-pecas-paranagua-pr-brasil",
+        "sistema_nome": "Travessias Hidroviárias da Baía de Paranaguá, Antonina e Guaraqueçaba (PR)",
+        "pais": "Brasil",
+        "cidade": "Paranaguá / Antonina / Guaraqueçaba",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 95,
+        "bitola": "Estuário Lagunar Costeiro",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.6989,
+            -25.4328
+          ],
+          [
+            -48.5042,
+            -25.5161
+          ],
+          [
+            -48.3681,
+            -25.3831
+          ],
+          [
+            -48.3289,
+            -25.3069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lagamar-paranagua-ilha-das-pecas-barra-do-superagui",
+        "nome": "Eixo Parque Nacional do Superagui (Paranaguá – Ilha das Peças – Barra do Superagui)",
+        "sistema_id": "travessias-lanchas-baia-de-paranagua-antonina-guaraquecaba-superagui-ilha-das-pecas-paranagua-pr-brasil",
+        "sistema_nome": "Travessias Hidroviárias da Baía de Paranaguá, Antonina e Guaraqueçaba (PR)",
+        "pais": "Brasil",
+        "cidade": "Paranaguá / Ilha das Peças / Superagui",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 90,
+        "bitola": "Estuário Lagunar Costeiro",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.5042,
+            -25.5161
+          ],
+          [
+            -48.3347,
+            -25.4622
+          ],
+          [
+            -48.2419,
+            -25.4594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-lago-sobradinho-remanso-pilao-arcado-sento-se-casa-nova",
+        "nome": "Travessias do Lago de Sobradinho (Sento Sé – Remanso – Pilão Arcado – Casa Nova)",
+        "sistema_id": "travessias-balsas-lago-de-sobradinho-medio-sao-francisco-remanso-pilao-arcado-sento-se-casa-nova-bom-jesus-da-lapa-ba-brasil",
+        "sistema_nome": "Travessias de Balsas e Barcos do Lago de Sobradinho e Médio São Francisco (BA)",
+        "pais": "Brasil",
+        "cidade": "Sento Sé / Remanso / Pilão Arcado / Casa Nova",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 310,
+        "bitola": "Hidrovia Lacustre Ro-Ro",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -41.8842,
+            -9.7422
+          ],
+          [
+            -42.0831,
+            -9.6214
+          ],
+          [
+            -42.4336,
+            -10.0031
+          ],
+          [
+            -40.9714,
+            -9.1631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-medio-sao-francisco-bom-jesus-da-lapa-sitio-do-mato-carinhanha",
+        "nome": "Travessias do Médio São Francisco (Sítio do Mato – Bom Jesus da Lapa – Carinhanha / Malhada)",
+        "sistema_id": "travessias-balsas-lago-de-sobradinho-medio-sao-francisco-remanso-pilao-arcado-sento-se-casa-nova-bom-jesus-da-lapa-ba-brasil",
+        "sistema_nome": "Travessias de Balsas e Barcos do Lago de Sobradinho e Médio São Francisco (BA)",
+        "pais": "Brasil",
+        "cidade": "Sítio do Mato / Bom Jesus da Lapa / Carinhanha / Malhada",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 230,
+        "bitola": "Hidrovia Fluvial Ro-Ro",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.3769,
+            -13.0858
+          ],
+          [
+            -43.4181,
+            -13.255
+          ],
+          [
+            -43.7653,
+            -14.3053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-alto-parana-porto-rico-porto-sao-jose-porto-felicio-bataipora",
+        "nome": "Travessias da Costa Noroeste & Pontal (Porto São José – Porto Rico – Ilha Mutum – Porto Felício / Bataiporã)",
+        "sistema_id": "travessias-balsas-rio-parana-rio-paranapanema-porto-rico-porto-camargo-icaraima-querencia-do-norte-rosana-pr-sp-ms-brasil",
+        "sistema_nome": "Travessias Hidroviárias e Balsas do Alto Rio Paraná e Pontal do Paranapanema (PR / MS / SP)",
+        "pais": "Brasil",
+        "cidade": "Porto Rico / São Pedro do Paraná / Querência do Norte / Bataiporã",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 135,
+        "bitola": "Hidrovia Fluvial Interestadual",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.1753,
+            -22.7186
+          ],
+          [
+            -53.2669,
+            -22.7725
+          ],
+          [
+            -53.4792,
+            -22.9056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ilha-grande-porto-camargo-icaraima-porto-caiua-navirai",
+        "nome": "Travessia Interestadual Ilha Grande (Porto Camargo / Icaraíma PR – Porto Caiuá / Naviraí MS)",
+        "sistema_id": "travessias-balsas-rio-parana-rio-paranapanema-porto-rico-porto-camargo-icaraima-querencia-do-norte-rosana-pr-sp-ms-brasil",
+        "sistema_nome": "Travessias Hidroviárias e Balsas do Alto Rio Paraná e Pontal do Paranapanema (PR / MS / SP)",
+        "pais": "Brasil",
+        "cidade": "Icaraíma / Naviraí",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 125,
+        "bitola": "Hidrovia Fluvial Interestadual",
+        "eletrificacao": "Diesel Fluvial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.7431,
+            -23.3686
+          ],
+          [
+            -53.9439,
+            -23.3114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-costa-dos-corais-porto-de-pedras-japaratinga-maragogi",
+        "nome": "Travessia do Rio Manguaba & Costa Norte de Alagoas (Porto de Pedras – Japaratinga – Maragogi)",
+        "sistema_id": "travessias-hidroviarias-costa-dos-corais-porto-de-pedras-japaratinga-maragogi-tamandare-ilha-de-santo-aleixo-al-pe-brasil",
+        "sistema_nome": "Travessias Hidroviárias da APA Costa dos Corais e Litoral Sul de Pernambuco (AL / PE)",
+        "pais": "Brasil",
+        "cidade": "Porto de Pedras / Japaratinga / Maragogi",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 75,
+        "bitola": "Estuário Costeiro e Recifes de Coral",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.2936,
+            -9.1564
+          ],
+          [
+            -35.2631,
+            -9.0886
+          ],
+          [
+            -35.2222,
+            -9.0122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-estuario-rio-formoso-tamandare-barra-de-sirinhaem-santo-aleixo",
+        "nome": "Travessias Estuarinas do Rio Formoso & Ilha de Santo Aleixo (Tamandaré / Carneiros – Barra de Sirinhaém – Ilha de Santo Aleixo)",
+        "sistema_id": "travessias-hidroviarias-costa-dos-corais-porto-de-pedras-japaratinga-maragogi-tamandare-ilha-de-santo-aleixo-al-pe-brasil",
+        "sistema_nome": "Travessias Hidroviárias da APA Costa dos Corais e Litoral Sul de Pernambuco (AL / PE)",
+        "pais": "Brasil",
+        "cidade": "Tamandaré / Rio Formoso / Sirinhaém",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 90,
+        "bitola": "Estuário Costeiro e Travessia Insular",
+        "eletrificacao": "Diesel Marítimo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.0953,
+            -8.7297
+          ],
+          [
+            -35.0592,
+            -8.6042
+          ],
+          [
+            -35.0211,
+            -8.6122
+          ]
+        ]
+      }
     }
   ]
 }
