@@ -1623,3 +1623,22 @@ Regras: só acrescente no fim de cada seção; nunca apague nem reescreva entrad
    - **2.630 estações e terminais geolocalizados** (**1.196 terminais hidroviários**).
    - **2.726 páginas estáticas geradas** pelo Astro build (`+10` novas rotas estáticas).
 3. **Próxima Ronda (#163 — Ordem 159 da Fila)**: Fase Hidroviária Mundial #48 — África Ocidental, África Oriental e Ilhas do Oceano Índico IV (`HIDRO-AFRICA-OCIDENTAL-ORIENTAL-OCEANO-INDICO-MADAGASCAR-COMORES-IV`).
+
+---
+
+### #164 — 2026-11-15 20:16 BRT — De: AGY (AG-27 / AG-325) → Para: Milton / Miguel
+**Tipo**: entrega
+**Ref**: Ronda #163 (Ordem 159 da Fila — Fase Hidroviária Mundial #48: África Ocidental, África Oriental e Ilhas do Oceano Índico IV — MARCO DE 1.000+ SISTEMAS EM OPERAÇÃO E 1.200+ TERMINAIS HIDROVIÁRIOS!)
+
+1. **Ordem 159 da Fila concluída e publicada em produção (`main`)**:
+   - **SECIL Marítima e Terminal do Kapossoca — Catamarãs Luanda–Soyo–Cabinda, Barcas da Ilha do Mussulo e Hidrovia do Rio Kwanza (`secil-maritima-macon-kapossoca-luanda-mussulo-soyo-cabinda-hidrovia-rio-kwanza-angola`)** (`🇦🇴 Angola`, `980 km`, 2 linhas, 5 terminais: `Terminal de Passageiros do Porto de Luanda`, `Terminal Fluvial-Marítimo do Soyo`, `Terminal Marítimo de Passageiros de Cabinda`, `Terminal Marítimo de Passageiros do Kapossoca (Samba — Mussulo)` e `Píeres da Barra do Kwanza e Santuário da Muxima`).
+   - **Malawi Shipping Company (MV Ilala e MV Chilembwe no Lago Niassa/Maláui: Monkey Bay–Likoma–Cobué–Chilumba) e Travessias de Bazaruto e Quirimbas (`malawi-shipping-company-mv-ilala-lago-niassa-monkey-bay-likoma-nkhata-bay-cobue-bazaruto-quirimbas-malaui-mocambique`)** (`🇲🇼🇲🇿 Maláui e Moçambique`, `1.340 km`, 2 linhas, 5 terminais: `Monkey Bay & Chipoka Rail-Lake Ports`, `Ilha de Likoma & Portos de Cobué e Metangula`, `Nkhata Bay & Chilumba Ports`, `Vilankulo & Ilhas de Bazaruto / Benguerra` e `Porto de Pemba & Ilha do Ibo — Quirimbas`).
+   - **Hidrovia do Canal dos Pangalanes (Toamasina–Mahanoro–Mananjary), Bac de Katsepy (Mahajanga) e Hidrovia do Rio Tsiribihina (`canal-des-pangalanes-toamasina-mahanoro-mananjary-bac-de-katsepy-mahajanga-tsiribihina-morondava-madagascar`)** (`🇲🇬 Madagascar`, `1.150 km`, 2 linhas, 5 terminais: `Port Fluvial de Toamasina (Tamatave)`, `Akanin'ny Nofy (Lago Ampitabe), Vatomandry & Mahanoro`, `Porto Fluvial de Mananjary`, `Mahajanga & Katsepy Ferry Terminals (Bac Baobab)` e `Miandrivazo, Belo-sur-Tsiribihina & Morondava`).
+   - **TEMESA Kigamboni Ferry (Dar es Salaam), Travessia da Ilha de Mafia (Nyamisati–Kilindoni) e Catamarãs Zanzibar–Ilha de Pemba–Tanga (`temesa-kigamboni-ferry-dar-es-salaam-zanfast-azam-zanzibar-pemba-tanga-mafia-island-tanzania`)** (`🇹🇿 Tanzânia`, `540 km`, 2 linhas, 5 terminais: `Magogoni (Kivukoni) Ferry Terminal — Dar es Salaam`, `Kigamboni Ferry Terminal — Dar es Salaam`, `Portos de Nyamisati & Kilindoni (Ilha de Mafia)`, `Porto de Mkoani & Wete (Ilha de Pemba)` e `Porto de Tanga`).
+   - **Hidrovia Lagunar de Ganvié e Lagoa Nokoué (Benim), Hidrovia do Rio Níger (Onitsha–Lokoja e Mopti–Timbuktu) e Ferries das Ilhas de Loos (Conacri, Guiné) (`lagoa-nokoue-ganvie-cotonou-porto-novo-benim-hidrovia-rio-niger-onitsha-lokoja-mopti-timbuktu-conacri-ilhas-loos-africa-ocidental`)** (`🇧🇯🇳🇬🇲🇱🇬🇳 Benim, Nigéria, Mali e Guiné`, `2.250 km`, 2 linhas, 5 terminais: `Embarcadouro de Abomey-Calavi & Cidade Lacustre de Ganvié`, `Terminais Fluvio-Lagunares de Cotonou e Porto-Novo`, `Terminais de Calabar e Oron (Cross River)`, `Portos Fluviais de Onitsha e Lokoja (NIWA Nigéria)` e `Porto de Boulbinet / Sandervalia (Conacri) & Ilhas de Loos`).
+2. **Totais atualizados do Atlas Global (MARCO DUPLO: `1.000+ sistemas operacionais` e `1.200+ terminais hidroviários`!)**:
+   - **1.020 sistemas mapeados** (**1.004 em operação no mapa** + `16` não-operacionais preservados no banco; **284 sistemas de transporte por barco**).
+   - **1.481 linhas mapeadas** (`1.462` operacionais no mapa; **567 linhas hidroviárias**).
+   - **2.655 estações e terminais geolocalizados** (**1.221 terminais hidroviários** — superando a marca de **1.200 terminais de barco**!).
+   - **2.736 páginas estáticas geradas** pelo Astro build (`+10` novas rotas estáticas).
+3. **Próxima Ronda (#164 — Ordem 160 da Fila)**: Fase Hidroviária Mundial #49 — Sul da Ásia, Índia, Bangladesh, Sri Lanka e Maldivas IV (`HIDRO-SUL-DA-ASIA-INDIA-BANGLADESH-SRI-LANKA-MALDIVAS-IV`).
