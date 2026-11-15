@@ -42068,6 +42068,481 @@
           -23.1889
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-riverside-south-bank-citycat-brisbane-au",
+        "nome": "Riverside CBD & South Bank CityCat Ferry Terminals (Translink Rio Brisbane, QLD)",
+        "sistema_id": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "sistema_slug": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "linha_id": "linha-translink-citycat-rio-brisbane-st-lucia-south-bank-hamilton",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0308,
+          -27.4669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-uq-st-lucia-citycat-terminal-brisbane-au",
+        "nome": "UQ St Lucia & Northshore Hamilton CityCat Terminals (Extremos da Rede Fluvial de Brisbane, QLD)",
+        "sistema_id": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "sistema_slug": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "linha_id": "linha-translink-citycat-rio-brisbane-st-lucia-south-bank-hamilton",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0189,
+          -27.4969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-toondah-harbour-cleveland-stradbroke-qld-au",
+        "nome": "Toondah Harbour (Cleveland) & Dunwich Ferry Terminals (North Stradbroke Island / Minjerribah, QLD)",
+        "sistema_id": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "sistema_slug": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "linha_id": "linha-moreton-bay-stradbroke-bay-islands-townsville-magnetic-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2819,
+          -27.5269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-weinam-creek-redland-bay-russell-island-qld-au",
+        "nome": "Weinam Creek (Redland Bay) & Russell / Macleay Island Ferry Terminals (Southern Moreton Bay, QLD)",
+        "sistema_id": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "sistema_slug": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "linha_id": "linha-moreton-bay-stradbroke-bay-islands-townsville-magnetic-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3069,
+          -27.6139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-townsville-breakwater-nelly-bay-magnetic-qld-au",
+        "nome": "Townsville Breakwater Terminal & Nelly Bay Harbour (SeaLink Magnetic Island — Grande Barreira de Corais, QLD)",
+        "sistema_id": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "sistema_slug": "translink-river-citycat-brisbane-sealink-north-stradbroke-bay-islands-magnetic-island-townsville-queensland-australia",
+        "linha_id": "linha-moreton-bay-stradbroke-bay-islands-townsville-magnetic-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8269,
+          -19.2519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-melbourne-docklands-port-phillip-ferries-vic-au",
+        "nome": "Melbourne Docklands Ferry Terminal (Victoria Harbour — Port Phillip Ferries, VIC)",
+        "sistema_id": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "sistema_slug": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "linha_id": "linha-port-phillip-docklands-geelong-portarlington-queenscliff-sorrento",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9419,
+          -37.8189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-geelong-waterfront-portarlington-pier-vic-au",
+        "nome": "Geelong Waterfront & Portarlington Ferry Terminals (Bellarine Peninsula, VIC)",
+        "sistema_id": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "sistema_slug": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "linha_id": "linha-port-phillip-docklands-geelong-portarlington-queenscliff-sorrento",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3619,
+          -38.1439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-queenscliff-harbour-searoad-ferry-vic-au",
+        "nome": "Queenscliff Harbour Searoad Ferry Terminal (Portal da Great Ocean Road, VIC)",
+        "sistema_id": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "sistema_slug": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "linha_id": "linha-port-phillip-docklands-geelong-portarlington-queenscliff-sorrento",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6669,
+          -38.2669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sorrento-pier-searoad-ferry-vic-au",
+        "nome": "Sorrento Pier Searoad Ferry Terminal (Mornington Peninsula, VIC)",
+        "sistema_id": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "sistema_slug": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "linha_id": "linha-port-phillip-docklands-geelong-portarlington-queenscliff-sorrento",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7436,
+          -38.3369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hobart-brooke-st-bellerive-kettering-bruny-tas-au",
+        "nome": "Hobart Brooke St Pier / Bellerive (Derwent Ferry) & Kettering–Bruny Island Terminals (Tasmânia)",
+        "sistema_id": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "sistema_slug": "searoad-ferries-queenscliff-sorrento-port-phillip-ferries-melbourne-geelong-portarlington-derwent-ferry-hobart-bruney-island-australia",
+        "linha_id": "linha-tasmania-hobart-derwent-bellerive-kettering-bruny-island",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3336,
+          -42.8839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-queens-wharf-wellington-ikaroa-ferry-nz",
+        "nome": "Queens Wharf Ferry Terminal (Base do Ferry 100% Elétrico Ikaroa — Wellington CBD, NZ)",
+        "sistema_id": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "sistema_slug": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "linha_id": "linha-wellington-harbour-queens-wharf-matiu-somes-days-bay-seatoun",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7792,
+          -41.2842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-days-bay-matiu-somes-island-wellington-nz",
+        "nome": "Days Bay Wharf (Eastbourne) & Matiu / Somes Island Wharf (Baía de Wellington, NZ)",
+        "sistema_id": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "sistema_slug": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "linha_id": "linha-wellington-harbour-queens-wharf-matiu-somes-days-bay-seatoun",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9042,
+          -41.2819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-seatoun-wharf-miramar-wellington-nz",
+        "nome": "Seatoun Wharf (Península Miramar — Metlink East by West Ferry, Wellington, NZ)",
+        "sistema_id": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "sistema_slug": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "linha_id": "linha-wellington-harbour-queens-wharf-matiu-somes-days-bay-seatoun",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8356,
+          -41.3219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bluff-stewart-island-ferry-terminal-nz",
+        "nome": "Bluff Ferry Terminal (Terminal Continental do Estreito de Foveaux — Southland, NZ)",
+        "sistema_id": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "sistema_slug": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "linha_id": "linha-estreito-foveaux-bluff-oban-stewart-island-bay-of-islands",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3469,
+          -46.6019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-oban-halfmoon-bay-stewart-island-rakiura-nz",
+        "nome": "Oban Halfmoon Bay Ferry Terminal (Ilha Stewart / Rakiura, NZ)",
+        "sistema_id": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "sistema_slug": "east-by-west-ferries-wellington-days-bay-ikaroa-stewart-island-ferry-bluff-oban-estreito-de-foveaux-bay-of-islands-nova-zelandia",
+        "linha_id": "linha-estreito-foveaux-bluff-oban-stewart-island-bay-of-islands",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.1289,
+          -46.8981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-queen-salote-wharf-nukualofa-fisa-tonga",
+        "nome": "Queen Salote Domestic Wharf — Nuku'alofa (Terminal Central FISA MV 'Otuanga'ofa — Tongatapu, Tonga)",
+        "sistema_id": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "sistema_slug": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "linha_id": "linha-fisa-tonga-nukualofa-eua-haapai-vavau",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.1828,
+          -21.1336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pangai-haapai-neiafu-vavau-wharves-tonga",
+        "nome": "Taufa'ahau Wharf (Pangai, Ha'apai) & Halaevalu Wharf (Neiafu, Vava'u, Tonga)",
+        "sistema_id": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "sistema_slug": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "linha_id": "linha-fisa-tonga-nukualofa-eua-haapai-vavau",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.9847,
+          -18.6519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-port-vila-south-paray-domestic-wharf-vu",
+        "nome": "Port Vila South Paray Domestic Wharf (Terminal Interinsular de Efate, Vanuatu)",
+        "sistema_id": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "sistema_slug": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "linha_id": "linha-vanuatu-ferry-port-vila-malekula-luganville-santo-tanna",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3136,
+          -17.7419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-luganville-simonsen-wharf-santo-malekula-vu",
+        "nome": "Luganville Simonsen Wharf (Espiritu Santo) & Litzlitz Wharf (Malekula, Vanuatu)",
+        "sistema_id": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "sistema_slug": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "linha_id": "linha-vanuatu-ferry-port-vila-malekula-luganville-santo-tanna",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.1769,
+          -15.5189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lenakel-wharf-tanna-island-vanuatu",
+        "nome": "Lenakel Wharf (Ilha de Tanna — Província de Tafea, Vanuatu)",
+        "sistema_id": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "sistema_slug": "fisa-friendly-islands-shipping-nukualofa-eua-haapai-vavau-tonga-big-sista-port-vila-santo-malekula-tanna-vanuatu",
+        "linha_id": "linha-vanuatu-ferry-port-vila-malekula-luganville-santo-tanna",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.2639,
+          -19.5319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-honiara-point-cruz-domestic-wharf-sb",
+        "nome": "Honiara Point Cruz Domestic Passenger Wharf (Guadalcanal, Ilhas Salomão)",
+        "sistema_id": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "sistema_slug": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "linha_id": "linha-salomao-pelican-auki-express-honiara-tulagi-auki-noro-gizo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.9547,
+          -9.4289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-auki-wharf-malaita-tulagi-sb",
+        "nome": "Auki Wharf (Malaita) & Tulagi Wharf (Travessia Rápida Auki Express, Ilhas Salomão)",
+        "sistema_id": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "sistema_slug": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "linha_id": "linha-salomao-pelican-auki-express-honiara-tulagi-auki-noro-gizo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.6989,
+          -8.7656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gizo-harbor-noro-port-western-province-sb",
+        "nome": "Gizo Harbour & Noro Port (Pelican Express — Western Province, Ilhas Salomão)",
+        "sistema_id": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "sistema_slug": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "linha_id": "linha-salomao-pelican-auki-express-honiara-tulagi-auki-noro-gizo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.8419,
+          -8.1036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lae-passenger-wharf-finschhafen-morobe-pg",
+        "nome": "Lae Passenger Wharf & Finschhafen Terminal (Estreito de Vitiaz — Morobe, Papua-Nova Guiné)",
+        "sistema_id": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "sistema_slug": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "linha_id": "linha-png-estreito-vitiaz-mar-bismarck-lae-finschhafen-kimbe-rabaul",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9856,
+          -6.7369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kimbe-rabaul-simpson-harbour-new-britain-pg",
+        "nome": "Kimbe Port & Rabaul / Kokopo Simpson Harbour (Ilha de Nova Bretanha, Papua-Nova Guiné)",
+        "sistema_id": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "sistema_slug": "pelican-express-honiara-auki-malaita-gizo-western-province-ilhas-salomao-star-ships-lae-kimbe-rabaul-papua-nova-guine",
+        "linha_id": "linha-png-estreito-vitiaz-mar-bismarck-lae-finschhafen-kimbe-rabaul",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1669,
+          -4.2019
+        ]
+      }
     }
   ]
 }
