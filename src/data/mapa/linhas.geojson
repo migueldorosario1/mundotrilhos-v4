@@ -44601,6 +44601,303 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mumbai-mandwa-alibaug-m2m-ro-ro-kolkata-howrah-hooghly-ferry",
+        "nome": "Ponte Marítima de Mumbai–Mandwa (M2M Ro-Pax) e Travessia Metropolitana do Rio Hooghly (Howrah Station – Fairlie Place, Kolkata)",
+        "sistema_id": "kochi-water-metro-kerala-mumbai-alibaug-m2m-ro-ro-kolkata-hooghly-ferries-india",
+        "sistema_nome": "Kochi Water Metro Elétrico (Kerala), Ferries de Mumbai–Alibaug Ro-Ro M2M e Barcas do Rio Hooghly em Calcutá (Índia)",
+        "pais": "Índia",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 69.0,
+        "bitola": "Ponte ro-pax da Baía de Mumbai (M2M Ferries) e barcas do Rio Hooghly (WBTC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8495,
+            18.9615
+          ],
+          [
+            72.8825,
+            18.8035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bangladesh-sadarghat-dhaka-chandpur-barisal-bhola",
+        "nome": "Tronco Fluvial Nacional do Delta — BIWTA / BIWTC (Terminal de Sadarghat, Dhaka – Chandpur – Porto Fluvial de Barisal – Ilha de Bhola)",
+        "sistema_id": "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+        "sistema_nome": "Hidrovias Nacionais de Bangladesh — BIWTC & Sadarghat Launches (Dhaka Sadarghat – Chandpur – Barisal – Bhola – Hatiya – Chittagong, Bangladesh)",
+        "pais": "Bangladesh",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 380.0,
+        "bitola": "Autoestrada fluvial dos Rios Buriganga, Padma e Meghna (BIWTA / BIWTC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.4095,
+            23.7045
+          ],
+          [
+            90.6415,
+            23.2285
+          ],
+          [
+            90.3735,
+            22.7015
+          ],
+          [
+            90.6525,
+            22.6855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-bangladesh-costeira-chittagong-sandwip-hatiya-golfo-de-bengala",
+        "nome": "Corredor Costeiro do Golfo de Bengala — BIWTC Sea-Trucks & Ferries (Chittagong / Kumira – Ilha de Sandwip – Ilha de Hatiya)",
+        "sistema_id": "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+        "sistema_nome": "Hidrovias Nacionais de Bangladesh — BIWTC & Sadarghat Launches (Dhaka Sadarghat – Chandpur – Barisal – Bhola – Hatiya – Chittagong, Bangladesh)",
+        "pais": "Bangladesh",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 310.0,
+        "bitola": "Corredor marítimo insular do Estuário do Meghna (BIWTC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8125,
+            22.3185
+          ],
+          [
+            91.5185,
+            22.4825
+          ],
+          [
+            91.1125,
+            22.3685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mtcc-grande-male-hulhumale-velana-villingili-maafushi",
+        "nome": "Rede Metropolitana de Grande Malé — MTCC (Henveiru / Villingili Terminal, Malé – Aeroporto Velana – Hulhumalé – Ilha de Maafushi)",
+        "sistema_id": "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+        "sistema_nome": "Rede Nacional de Ferries Rápidos das Maldivas — RTL / MTCC (Barcas Metropolitanas Malé–Hulhumalé–Aeroporto Velana–Villingili e Expresso dos Atóis)",
+        "pais": "Maldivas",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 40.0,
+        "bitola": "Ponte aquaviária metropolitana de Grande Malé e Atol de Kaafu (MTCC)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.4855,
+            4.1735
+          ],
+          [
+            73.5095,
+            4.1755
+          ],
+          [
+            73.5285,
+            4.1915
+          ],
+          [
+            73.5415,
+            4.2155
+          ],
+          [
+            73.4905,
+            3.9425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-rtl-raajje-transport-link-expresso-atois-maldivas",
+        "nome": "Expresso Nacional dos Atóis — Raajje Transport Link RTL (Corredor Rápido Interinsular dos Atóis do Norte, Centro e Sul / Addu)",
+        "sistema_id": "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+        "sistema_nome": "Rede Nacional de Ferries Rápidos das Maldivas — RTL / MTCC (Barcas Metropolitanas Malé–Hulhumalé–Aeroporto Velana–Villingili e Expresso dos Atóis)",
+        "pais": "Maldivas",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 370.0,
+        "bitola": "Rede nacional de catamarãs de alta velocidade Raajje Transport Link (RTL)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.0695,
+            6.6225
+          ],
+          [
+            73.0355,
+            5.4425
+          ],
+          [
+            73.5095,
+            4.1755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-seychelles-cat-cocos-cat-rose-victoria-mahe-praslin-la-digue",
+        "nome": "Expresso das Ilhas Interiores de Seychelles — Cat Cocos & Cat Rose (Victoria Quay, Mahé – Baie Sainte Anne, Praslin – La Passe, La Digue)",
+        "sistema_id": "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+        "sistema_nome": "Catamarãs Interinsulares Cat Cocos e Cat Rose (Mahé–Praslin–La Digue, Seychelles) e Ponte Marítima Port Louis–Ilha Rodrigues (Maurício)",
+        "pais": "Seychelles",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65.0,
+        "bitola": "Corredor de catamarãs rápidos de Mahé–Praslin–La Digue (Cat Cocos / Cat Rose)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4545,
+            -4.6195
+          ],
+          [
+            55.7485,
+            -4.3425
+          ],
+          [
+            55.8295,
+            -4.3485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mauritius-shipping-port-louis-port-mathurin-rodrigues",
+        "nome": "Ponte Marítima das Ilhas Mascarenhas — MSCL (Porto de Port Louis, Maurício – Porto de Port Mathurin, Ilha Rodrigues)",
+        "sistema_id": "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+        "sistema_nome": "Catamarãs Interinsulares Cat Cocos e Cat Rose (Mahé–Praslin–La Digue, Seychelles) e Ponte Marítima Port Louis–Ilha Rodrigues (Maurício)",
+        "pais": "Maurício",
+        "continente": "África",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 650.0,
+        "bitola": "Ponte marítima estatal de Maurício–Rodrigues (Mauritius Shipping Corporation)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            57.4985,
+            -20.1585
+          ],
+          [
+            63.4185,
+            -19.6815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-palk-strait-internacional-nagapattinam-india-kankesanthurai-sri-lanka",
+        "nome": "Ponte Marítima Internacional do Estreito de Palk — HSC Sivaganga (Porto de Nagapattinam, Tamil Nadu, Índia – Porto de Kankesanthurai, Jaffna, Sri Lanka)",
+        "sistema_id": "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari",
+        "sistema_nome": "Ponte Marítima Internacional Índia–Sri Lanka no Estreito de Palk (Nagapattinam–Kankesanthurai / Jaffna) e Travessias de Kanyakumari e Nainativu",
+        "pais": "Índia e Sri Lanka",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 115.0,
+        "bitola": "Rota internacional de alta velocidade do Estreito de Palk (IndSri Ferry)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8515,
+            10.7625
+          ],
+          [
+            80.0425,
+            9.8165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-jaffna-islands-kurikadduwan-nainativu-delft-kanyakumari-ferries",
+        "nome": "Travessias Insulares da Península de Jaffna e Kanyakumari (Píer de Kurikadduwan – Ilha de Nainativu – Ilha de Delft / Neduntheevu, Sri Lanka)",
+        "sistema_id": "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari",
+        "sistema_nome": "Ponte Marítima Internacional Índia–Sri Lanka no Estreito de Palk (Nagapattinam–Kankesanthurai / Jaffna) e Travessias de Kanyakumari e Nainativu",
+        "pais": "Sri Lanka",
+        "continente": "Ásia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 50.0,
+        "bitola": "Rede pública insular do Norte do Sri Lanka (RDA Jaffna Ferries)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.7985,
+            9.6085
+          ],
+          [
+            79.7725,
+            9.6055
+          ],
+          [
+            79.6855,
+            9.5215
+          ]
+        ]
+      }
     }
   ]
 }

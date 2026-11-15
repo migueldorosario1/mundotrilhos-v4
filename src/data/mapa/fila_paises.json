@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T02:44:00-03:00",
+  "atualizado_em": "2026-11-15T03:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2005,16 +2005,24 @@
         "marine-atlantic-north-sydney-port-aux-basques-argentia-newfoundland-bay-ferries-fundy-canada",
         "alaska-marine-highway-system-amhs-bellingham-ketchikan-juneau-skagway-kodiak-alasca-eua"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 125,
       "pais": "Fase Hidroviária Mundial #18 — Sul da Ásia e Oceano Índico (Kochi Water Metro Elétrico, Ferries de Mumbai–Alibaug Ro-Ro M2M e Kolkata Hooghly River Ferries na Índia; BIWTC Dhaka Sadarghat–Barisal–Bhola–Hatiya nos Rios Buriganga, Padma e Meghna em Bangladesh; RTL Raajje Transport Link High-Speed Ferries Malé–Hulhumalé–Maafushi nas Maldivas; Ferries de Maurício–Rodrigues e Cat Cocos Mahé–Praslin–La Digue em Seychelles; e Travessia do Estreito de Palk Nagapattinam–Kankesanthurai Índia–Sri Lanka)",
       "codigo": "HIDRO-ASIA-MERIDIONAL-OCEANO-INDICO",
       "continente": "Ásia e África",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-15",
+      "sistemas_adicionados": [
+        "kochi-water-metro-kerala-mumbai-alibaug-m2m-ro-ro-kolkata-hooghly-ferries-india",
+        "biwtc-dhaka-sadarghat-chandpur-barisal-bhola-hatiya-chittagong-rios-padma-meghna-bangladesh",
+        "mtcc-rtl-raajje-transport-link-male-hulhumale-velana-maafushi-atois-maldivas",
+        "cat-cocos-cat-rose-mahe-praslin-la-digue-seychelles-port-louis-rodrigues-mauricio",
+        "palk-strait-ferry-nagapattinam-india-kankesanthurai-jaffna-sri-lanka-kanyakumari"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 126,
       "pais": "Fase Hidroviária Mundial #19 — Rios e Lagos da Europa Central e Oriental (Twin City Liner Viena–Bratislava no Rio Danúbio Áustria–Eslováquia, MAHART PassNave Budapeste D14 e Curva do Danúbio + Lago Balaton Szántód–Tihany na Hungria, Pražské Benátky e Balsas PID P1–P7 do Rio Moldava em Praga na República Tcheca, Barcas BVG F10–F24 de Berlim nos Rios Spree e Havel e Trajekt Świnoujście / Baía de Gdańsk na Polônia)",
