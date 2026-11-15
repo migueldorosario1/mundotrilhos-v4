@@ -43593,6 +43593,581 @@
           -16.5265
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-konstanz-hafen-staad-bodensee",
+        "nome": "Porto de Constança (Konstanz Hafen — Catamarã BSB) & Terminal Autofähre Staad (Alemanha)",
+        "sistema_id": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "sistema_slug": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "linha_id": "linha-barco-bodensee-katamaran-autofahre-romanshorn",
+        "pais": "Alemanha, Suíça e Áustria",
+        "cidade": "Constança",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1795,
+          47.6615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-meersburg-autofahre-bodensee",
+        "nome": "Terminal de Ferry de Meersburg (Autofähre & Weiße Flotte, Lago de Constança, Alemanha)",
+        "sistema_id": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "sistema_slug": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "linha_id": "linha-barco-bodensee-katamaran-autofahre-romanshorn",
+        "pais": "Alemanha, Suíça e Áustria",
+        "cidade": "Meersburg",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2715,
+          47.6925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-friedrichshafen-hafenbahnhof-bodensee",
+        "nome": "Estação Hidro-Ferroviária de Friedrichshafen Hafen (Catamarã e Ferry Ro-Pax, Alemanha)",
+        "sistema_id": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "sistema_slug": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "linha_id": "linha-barco-bodensee-katamaran-autofahre-romanshorn",
+        "pais": "Alemanha, Suíça e Áustria",
+        "cidade": "Friedrichshafen",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4795,
+          47.6505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-romanshorn-hafen-suica-bodensee",
+        "nome": "Porto Lacustre e Ferroviário de Romanshorn (SBS Bodensee, Cantão da Turgóvia, Suíça)",
+        "sistema_id": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "sistema_slug": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "linha_id": "linha-barco-bodensee-weisse-flotte-konstanz-lindau-bregenz",
+        "pais": "Alemanha, Suíça e Áustria",
+        "cidade": "Romanshorn",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3795,
+          47.5655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-bregenz-lindau-hafen-bodensee",
+        "nome": "Porto de Bregenz (Vorarlberg Lines, Áustria) & Porto Insular de Lindau (Baviera, Alemanha)",
+        "sistema_id": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "sistema_slug": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "linha_id": "linha-barco-bodensee-weisse-flotte-konstanz-lindau-bregenz",
+        "pais": "Alemanha, Suíça e Áustria",
+        "cidade": "Bregenz / Lindau",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7425,
+          47.5055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-koblenz-deutsches-eck-kd-reno",
+        "nome": "Píer KD de Koblenz Deutsches Eck (Confluência dos Rios Reno e Mosela, Alemanha)",
+        "sistema_id": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "sistema_slug": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "linha_id": "linha-barco-medio-reno-colonia-koblenz-loreley-mainz",
+        "pais": "Alemanha e Suíça",
+        "cidade": "Koblenz",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6055,
+          50.3625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-st-goar-loreley-ferry-reno",
+        "nome": "Terminal de Ferry e Píer de St. Goar & St. Goarshausen / Rochedo de Loreley (Médio Reno UNESCO, Alemanha)",
+        "sistema_id": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "sistema_slug": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "linha_id": "linha-barco-medio-reno-colonia-koblenz-loreley-mainz",
+        "pais": "Alemanha e Suíça",
+        "cidade": "St. Goar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7165,
+          50.1515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-bingen-ruedesheim-ferry-reno",
+        "nome": "Terminais de Ferry e KD de Bingen & Rüdesheim am Rhein (Médio Reno UNESCO, Alemanha)",
+        "sistema_id": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "sistema_slug": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "linha_id": "linha-barco-medio-reno-colonia-koblenz-loreley-mainz",
+        "pais": "Alemanha e Suíça",
+        "cidade": "Bingen / Rüdesheim",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9185,
+          49.9765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-thun-spiez-schiffstation-bls",
+        "nome": "Estação Lacustre BLS de Thun & Baía de Spiez (Lago de Thun, Suíça)",
+        "sistema_id": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "sistema_slug": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "linha_id": "linha-barco-bls-lago-de-thun-lago-de-brienz-interlaken",
+        "pais": "Alemanha e Suíça",
+        "cidade": "Thun",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6305,
+          46.7545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-interlaken-brienz-schiffstation-bls",
+        "nome": "Terminais Lacustres BLS de Interlaken West/Ost & Brienz (Oberland Bernês, Suíça)",
+        "sistema_id": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "sistema_slug": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "linha_id": "linha-barco-bls-lago-de-thun-lago-de-brienz-interlaken",
+        "pais": "Alemanha e Suíça",
+        "cidade": "Interlaken / Brienz",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8695,
+          46.6905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-den-helder-texel-teso-holanda",
+        "nome": "Terminais de Ferry TESO de Den Helder & 't Horntje (Ilha de Texel, Países Baixos)",
+        "sistema_id": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "sistema_slug": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "linha_id": "linha-barco-wadden-holanda-texel-terschelling-ameland",
+        "pais": "Países Baixos e Alemanha",
+        "cidade": "Den Helder / Texel",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7855,
+          53.0015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-harlingen-terschelling-vlieland-doeksen",
+        "nome": "Terminal Marítimo de Harlingen & Porto de West-Terschelling (Rederij Doeksen, Países Baixos)",
+        "sistema_id": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "sistema_slug": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "linha_id": "linha-barco-wadden-holanda-texel-terschelling-ameland",
+        "pais": "Países Baixos e Alemanha",
+        "cidade": "Harlingen / Terschelling",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2155,
+          53.3595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-holwerd-ameland-wagenborg",
+        "nome": "Terminal de Ferry de Holwerd & Nes (Ilha de Ameland, Wagenborg, Países Baixos)",
+        "sistema_id": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "sistema_slug": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "linha_id": "linha-barco-wadden-holanda-texel-terschelling-ameland",
+        "pais": "Países Baixos e Alemanha",
+        "cidade": "Ameland",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7685,
+          53.4435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-emden-borkum-ag-ems-alemanha",
+        "nome": "Emden Außenhafen & Terminal Ferro-Marítimo de Borkum Reede (AG Ems, Alemanha)",
+        "sistema_id": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "sistema_slug": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "linha_id": "linha-barco-frisia-oriental-emden-borkum-norddeich-norderney",
+        "pais": "Países Baixos e Alemanha",
+        "cidade": "Emden / Borkum",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7455,
+          53.5585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-norddeich-mole-norderney-frisia",
+        "nome": "Estação Hidro-Ferroviária de Norddeich Mole & Porto de Norderney (Reederei Frisia, Alemanha)",
+        "sistema_id": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "sistema_slug": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "linha_id": "linha-barco-frisia-oriental-emden-borkum-norddeich-norderney",
+        "pais": "Países Baixos e Alemanha",
+        "cidade": "Norddeich / Norderney",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1525,
+          53.7025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-antuerpia-steenplein-dewaterbus",
+        "nome": "Pontão Central de Steenplein & Travessia Sint-Anna em Antuérpia (Rio Escalda, Bélgica)",
+        "sistema_id": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "sistema_slug": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "linha_id": "linha-barco-dewaterbus-antuerpia-hemiksem-steenplein-lillo",
+        "pais": "Bélgica e Países Baixos",
+        "cidade": "Antuérpia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3975,
+          51.2225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kruibeke-hemiksem-dewaterbus",
+        "nome": "Terminais Metropolitanos Sul de Kruibeke & Hemiksem (DeWaterbus Antuérpia, Bélgica)",
+        "sistema_id": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "sistema_slug": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "linha_id": "linha-barco-dewaterbus-antuerpia-hemiksem-steenplein-lillo",
+        "pais": "Bélgica e Países Baixos",
+        "cidade": "Kruibeke",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3265,
+          51.1705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-lillo-kallo-port-antuerpia",
+        "nome": "Terminais Portuários Norte de Fort Lillo & Kallo (Porto de Antuérpia, Bélgica)",
+        "sistema_id": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "sistema_slug": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "linha_id": "linha-barco-dewaterbus-antuerpia-hemiksem-steenplein-lillo",
+        "pais": "Bélgica e Países Baixos",
+        "cidade": "Antuérpia (Lillo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2875,
+          51.3045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-vlissingen-westerschelde-ferry",
+        "nome": "Terminal Hidro-Ferroviário de Vlissingen (Westerschelde Ferry, Zelândia, Países Baixos)",
+        "sistema_id": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "sistema_slug": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "linha_id": "linha-barco-westerschelde-vlissingen-breskens-ostende",
+        "pais": "Bélgica e Países Baixos",
+        "cidade": "Vlissingen",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5965,
+          51.4425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-breskens-ostende-ferry",
+        "nome": "Terminal de Ferry de Breskens (Zelândia, Países Baixos) & Pontão de Ostende (Bélgica)",
+        "sistema_id": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "sistema_slug": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "linha_id": "linha-barco-westerschelde-vlissingen-breskens-ostende",
+        "pais": "Bélgica e Países Baixos",
+        "cidade": "Breskens",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5625,
+          51.3975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-praga-vltava-pid-ferries",
+        "nome": "Atracadouros Urbanos PID do Rio Moldava em Praga (Náplavka / Karlín / Sedlec, República Tcheca)",
+        "sistema_id": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "sistema_slug": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "linha_id": "linha-barco-moldava-praga-elba-dresden-suica-saxonica",
+        "pais": "República Tcheca, Alemanha e Romênia",
+        "cidade": "Praga",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4145,
+          50.0755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-dresden-terrassenufer-pillnitz-elbe",
+        "nome": "Terrassenufer no Centro Histórico de Dresden & Ferry DVB de Pillnitz (Rio Elba, Alemanha)",
+        "sistema_id": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "sistema_slug": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "linha_id": "linha-barco-moldava-praga-elba-dresden-suica-saxonica",
+        "pais": "República Tcheca, Alemanha e Romênia",
+        "cidade": "Dresden",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7415,
+          51.0535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-bad-schandau-elba-suica-saxonica",
+        "nome": "Terminal Hidro-Ferroviário de Bad Schandau (Parque Nacional da Suíça Saxônica, Alemanha)",
+        "sistema_id": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "sistema_slug": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "linha_id": "linha-barco-moldava-praga-elba-dresden-suica-saxonica",
+        "pais": "República Tcheca, Alemanha e Romênia",
+        "cidade": "Bad Schandau",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1525,
+          50.9165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-tulcea-gara-fluviala-danubio",
+        "nome": "Gara Fluvială de Tulcea — Portal Hidroviário do Delta do Danúbio (NAVROM Delta, Romênia)",
+        "sistema_id": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "sistema_slug": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "linha_id": "linha-barco-navrom-delta-do-danubio-tulcea-crisan-sulina",
+        "pais": "República Tcheca, Alemanha e Romênia",
+        "cidade": "Tulcea",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8025,
+          45.1815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-sulina-crisan-delta-do-danubio",
+        "nome": "Porto Fluvial-Marítimo de Sulina & Entroncamento de Crișan (Foz do Danúbio no Mar Negro, Romênia)",
+        "sistema_id": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "sistema_slug": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "linha_id": "linha-barco-navrom-delta-do-danubio-tulcea-crisan-sulina",
+        "pais": "República Tcheca, Alemanha e Romênia",
+        "cidade": "Sulina",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6605,
+          45.1565
+        ]
+      }
     }
   ]
 }

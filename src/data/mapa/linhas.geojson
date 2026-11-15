@@ -49944,6 +49944,412 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-bodensee-katamaran-autofahre-romanshorn",
+        "nome": "Catamarã Expresso Konstanz–Friedrichshafen, Autofähre Konstanz–Meersburg e Ferry Binacional Friedrichshafen–Romanshorn (Alemanha e Suíça)",
+        "sistema_id": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "sistema_slug": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "pais": "Alemanha, Suíça e Áustria",
+        "cidade": "Constança / Friedrichshafen / Romanshorn",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 75
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1795,
+            47.6615
+          ],
+          [
+            9.2715,
+            47.6925
+          ],
+          [
+            9.4795,
+            47.6505
+          ],
+          [
+            9.3795,
+            47.5655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-bodensee-weisse-flotte-konstanz-lindau-bregenz",
+        "nome": "Eixo Longitudinal Weiße Flotte do Lago de Constança (Constança – Ilha Mainau – Meersburg – Friedrichshafen – Lindau – Bregenz)",
+        "sistema_id": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "sistema_slug": "bodensee-schiffsbetriebe-bsb-katamaran-friedrichshafen-konstanz-meersburg-romanshorn-bregenz-lago-de-constanca",
+        "pais": "Alemanha, Suíça e Áustria",
+        "cidade": "Lindau / Bregenz",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 110
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1795,
+            47.6615
+          ],
+          [
+            9.1955,
+            47.7055
+          ],
+          [
+            9.4795,
+            47.6505
+          ],
+          [
+            9.6835,
+            47.5445
+          ],
+          [
+            9.7425,
+            47.5055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-medio-reno-colonia-koblenz-loreley-mainz",
+        "nome": "Linha KD do Médio Reno e Travessias Fluviais Ro-Pax (Colônia – Bonn – Koblenz – St. Goar/Loreley – Rüdesheim/Bingen – Mainz)",
+        "sistema_id": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "sistema_slug": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "pais": "Alemanha e Suíça",
+        "cidade": "Colônia / Koblenz / Mainz",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 225
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.9635,
+            50.9415
+          ],
+          [
+            7.1055,
+            50.7355
+          ],
+          [
+            7.6055,
+            50.3625
+          ],
+          [
+            7.7165,
+            50.1515
+          ],
+          [
+            7.9185,
+            49.9765
+          ],
+          [
+            8.2775,
+            50.0025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-bls-lago-de-thun-lago-de-brienz-interlaken",
+        "nome": "Navegação Alpina BLS dos Lagos de Thun e Brienz (Thun – Spiez – Interlaken West / Interlaken Ost – Iseltwald – Giessbach – Brienz)",
+        "sistema_id": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "sistema_slug": "kd-koeln-duesseldorfer-mittelrhein-koblenz-mainz-rheinfahren-lago-de-thun-brienz-bls-alemanha-suica",
+        "pais": "Alemanha e Suíça",
+        "cidade": "Thun / Interlaken / Brienz",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 85
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6305,
+            46.7545
+          ],
+          [
+            7.6905,
+            46.6885
+          ],
+          [
+            7.8515,
+            46.6835
+          ],
+          [
+            7.8695,
+            46.6905
+          ],
+          [
+            8.0375,
+            46.7545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-wadden-holanda-texel-terschelling-ameland",
+        "nome": "Eixo Insular Holandês do Mar de Wadden (Den Helder–Texel TESO, Harlingen–Vlieland–Terschelling e Holwerd–Ameland)",
+        "sistema_id": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "sistema_slug": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "pais": "Países Baixos e Alemanha",
+        "cidade": "Den Helder / Texel / Harlingen / Terschelling",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 210
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7795,
+            52.9615
+          ],
+          [
+            4.7855,
+            53.0015
+          ],
+          [
+            5.4095,
+            53.1745
+          ],
+          [
+            5.0915,
+            53.2955
+          ],
+          [
+            5.2155,
+            53.3595
+          ],
+          [
+            5.8795,
+            53.3855
+          ],
+          [
+            5.7685,
+            53.4435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-frisia-oriental-emden-borkum-norddeich-norderney",
+        "nome": "Eixo da Frísia Oriental Alemã (Emden–Ilha de Borkum AG Ems e Norddeich Mole–Juist–Ilha de Norderney Frisia)",
+        "sistema_id": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "sistema_slug": "teso-texel-rederij-doeksen-wagenborg-vlieland-terschelling-ameland-frisia-borkum-norderney-mar-de-wadden",
+        "pais": "Países Baixos e Alemanha",
+        "cidade": "Emden / Borkum / Norddeich / Norderney",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 180
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1855,
+            53.3415
+          ],
+          [
+            6.7455,
+            53.5585
+          ],
+          [
+            7.1555,
+            53.6215
+          ],
+          [
+            7.1525,
+            53.7025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-dewaterbus-antuerpia-hemiksem-steenplein-lillo",
+        "nome": "Corredor Metropolitano e Portuário DeWaterbus do Rio Escalda (Hemiksem – Kruibeke – Steenplein Antuérpia – Kallo – Lillo, Bélgica)",
+        "sistema_id": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "sistema_slug": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "pais": "Bélgica e Países Baixos",
+        "cidade": "Antuérpia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 65
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3315,
+            51.1445
+          ],
+          [
+            4.3265,
+            51.1705
+          ],
+          [
+            4.3975,
+            51.2225
+          ],
+          [
+            4.2855,
+            51.2585
+          ],
+          [
+            4.2875,
+            51.3045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-westerschelde-vlissingen-breskens-ostende",
+        "nome": "Travessia Estuarina Westerschelde Ferry (Vlissingen – Breskens, Zelândia) e Ferry Urbano de Ostende (Países Baixos e Bélgica)",
+        "sistema_id": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "sistema_slug": "de-waterbus-antuerpia-kruibeke-lillo-scheldt-westerschelde-ferry-vlissingen-breskens-ostende-belgica-paises-baixos",
+        "pais": "Bélgica e Países Baixos",
+        "cidade": "Vlissingen / Breskens / Ostende",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 80
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.5965,
+            51.4425
+          ],
+          [
+            3.5625,
+            51.3975
+          ],
+          [
+            2.9265,
+            51.2315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-moldava-praga-elba-dresden-suica-saxonica",
+        "nome": "Barcas Urbanas PID do Rio Moldava em Praga (P1–P6) e Ferries DVB / Hidrovia do Rio Elba em Dresden–Pillnitz–Bad Schandau (Tchéquia e Alemanha)",
+        "sistema_id": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "sistema_slug": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "pais": "República Tcheca, Alemanha e Romênia",
+        "cidade": "Praga / Dresden",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 140
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4145,
+            50.0755
+          ],
+          [
+            14.4055,
+            50.1195
+          ],
+          [
+            13.7415,
+            51.0535
+          ],
+          [
+            13.8695,
+            51.0085
+          ],
+          [
+            14.1525,
+            50.9165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-barco-navrom-delta-do-danubio-tulcea-crisan-sulina",
+        "nome": "Hidrovia Essencial do Delta do Danúbio NAVROM (Tulcea – Partizani – Maliuc – Crișan – Sulina e Mahmudia – Sfântu Gheorghe, Romênia)",
+        "sistema_id": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "sistema_slug": "prague-ferries-pid-vltava-sachsische-dampfschiffahrt-dresden-elbe-navrom-delta-do-danubio-tulcea-sulina-europa-central",
+        "pais": "República Tcheca, Alemanha e Romênia",
+        "cidade": "Tulcea / Sulina",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "extensao_km": 220
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.8025,
+            45.1815
+          ],
+          [
+            29.1155,
+            45.1755
+          ],
+          [
+            29.3925,
+            45.1735
+          ],
+          [
+            29.6605,
+            45.1565
+          ],
+          [
+            29.5985,
+            44.8955
+          ]
+        ]
+      }
     }
   ]
 }

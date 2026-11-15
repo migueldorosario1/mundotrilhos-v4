@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T10:15:00-03:00",
+  "atualizado_em": "2026-11-15T10:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2224,16 +2224,18 @@
       "status": "concluido",
       "concluido_em": "2026-11-15T10:15:00-03:00",
       "ronda": 143
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 140,
       "pais": "Fase Hidroviária Mundial #31 — Europa Central Fluvial e Grandes Lagos Alpinos II (Lago de Constança / Bodensee-Schiffsbetriebe & Fähre Konstanz–Meersburg na Alemanha/Suíça/Áustria; Compagnie Générale de Navigation CGN no Lago Léman Genebra–Lausanne–Évian na Suíça/França; Navigazione Laghi nos Lagos de Como, Maggiore e Garda na Itália; e Twin City Liner Viena–Bratislava no Rio Danúbio na Áustria/Eslováquia)",
       "codigo": "HIDRO-EUROPA-CENTRAL-LAGOS-ALPINOS-DANUBIO-II",
       "continente": "Europa",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "concluido_em": "2026-11-15T10:45:00-03:00",
+      "ronda": 144
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 141,
       "pais": "Fase Hidroviária Mundial #32 — Ásia Meridional, Golfo de Bengala e Oceano Índico II (SWTD Kerala Water Transport Alappuzha–Kottayam–Kollam Backwaters, Ferries de Port Blair–Havelock/Swaraj Dweep–Neil Island em Andaman e Ro-Pax Ghogha–Hazira em Gujarat na Índia; BIWTC / Launches de Sadarghat Daca–Barisal–Bhola–Hatiya em Bangladesh; e MTCC Raajje Transport Link RTL e Airport Ferries Malé–Hulhumalé nas Maldivas)",
@@ -2260,6 +2262,14 @@
       "codigo": "HIDRO-BRASIL-REGIONAL-FLUVIAL-INSULAR-IX",
       "pais": "Fase Hidroviária Brasil #9 — Travessias Costeiras, Estuarinas e Fluviais Complementares do Brasil (Travessias de Barcas e Catamarãs da Baía de Guanabara/Sepetiba Itaguaí–Ilha da Madeira–Jaguanum–Itacuruçá no RJ; Lanchas Rápidas de Antonina–Guaraqueçaba–Superagui no PR; Travessias do Rio São Francisco Barra–Xique-Xique–Pilão Arcado–Remanso na BA; Balsas de Porto Xavier–San Javier e Porto Mauá–Alba Posse no Rio Uruguai no RS; e Hidrovias de Tefé–Jutaí–Fonte Boa–Santo Antônio do Içá no Alto Solimões no AM)",
       "continente": "América do Sul (Brasil)",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 145,
+      "codigo": "HIDRO-AMERICA-DO-SUL-FLUVIAL-MARITIMA-III",
+      "pais": "Fase Hidroviária Mundial #35 — América do Sul Fluvial, Estuarina e Insular III (Hidrovia dos Rios Mamoré, Beni e Madre de Dios Trinidad–Guayaramerín–Riberalta na Bolívia; Hidrovia do Alto Paraguai e Pantanal Concepcion–Fuerte Olimpo–Bahía Negra com o navio Aquidabán no Paraguai; Lanchas de Tumaco–Guapi–Buenaventura e Rio Atrato Quibdó–Turbo no Pacífico/Caribe da Colômbia; Travessia de Chacao Pargua–Chacao na Ilha Grande de Chiloé e Quellón–Chaitén no Chile; e Travessia de Cumaná–Punta de Piedras Ilha de Margarita e Rio Orinoco Ciudad Bolívar–Soledad na Venezuela)",
+      "continente": "América do Sul",
       "prioridade": "alta",
       "status": "pendente"
     }
