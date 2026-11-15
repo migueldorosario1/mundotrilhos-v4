@@ -2369,7 +2369,15 @@
       "pais": "Fase Hidroviária Mundial #42 — Grandes Bacias Fluviais e Lacustres Mundiais IV: Rio Congo, Rio Nilo, Lago Vitória, Rio Ienissei/Lena e Rio São Lourenço (ONATRA / SCTP Kinshasa–Brazzaville e Kinshasa–Mbandaka–Kisangani no Rio Congo; Ferries do Lago Vitória Mwanza–Ukerewe–Bukoba e Entebbe–Kalangala; Wadi Halfa–Aswan/Abu Simbel no Lago Nasser e Cairo River Bus no Rio Nilo; Frota Fluvial Siberiana de Krasnoyarsk–Dudinka no Rio Ienissei e Yakutsk–Nizhny Bestyakh no Rio Lena na Rússia; e Kingston–Wolfe Island e Thousand Islands no Rio São Lourenço)",
       "continente": "Global",
       "prioridade": "alta",
-      "status": "pendente"
+      "status": "concluido",
+      "ronda_conclusao": 156,
+      "sistemas_adicionados": [
+        "yenisei-lena-ob-irtysh-baikal-siberian-river-shipping-krasnoyarsk-dudinka-yakutsk-irkutsk-russia",
+        "volga-kama-neva-meteor-valdai-hydrofoils-kazan-nizhny-novgorod-samara-sao-petersburgo-russia",
+        "ubangi-kasai-lualaba-congo-tributaries-bangui-zongo-ilebo-kindu-kongolo-bukama-rd-congo-rca",
+        "unra-albert-nile-victoria-nile-lake-kyoga-panyimur-wanseko-masindi-port-laropi-adjumani-uganda",
+        "mto-wolfe-island-amherst-island-glenora-howe-island-ottawa-river-ferries-sao-lourenco-ontario-quebec-canada"
+      ]
     },
     {
       "ordem": 153,
@@ -2400,6 +2408,14 @@
       "codigo": "HIDRO-ASIA-ORIENTAL-YANGTZE-PEROLA-SETO-INLAND-SEA-IV",
       "pais": "Fase Hidroviária Mundial #45 — Ásia Oriental, Rio Yangtzé, Delta do Rio das Pérolas, Mar Interior de Seto e Coreia IV (Wuhan Yangtze & Han River Ferries, Chongqing Two Rivers Ferry e Eclusas das Três Gargantas–Yichang na China; Chu Kong Passenger Transport CKS Shenzhen Shekou–Aeroporto de Hong Kong–Macau–Zhuhai Jiuzhou e Xiamen–Gulangyu Ferry na China; Shikoku Ferry Takamatsu–Uno, Meiko Kisen Ise-Wan Ferry Toba–Irago e Sado Kisen Niigata–Ryotsu no Japão; e Mokpo–Hongdo–Heuksando e Yeosu–Geomundo na Coreia do Sul)",
       "continente": "Ásia",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 157,
+      "codigo": "HIDRO-ORIENTE-MEDIO-GOLFO-PERSICO-MAR-VERMELHO-MAR-CASPIO-IV",
+      "pais": "Fase Hidroviária Mundial #46 — Oriente Médio, Golfo Pérsico, Mar Vermelho, Mar Cáspio e Turquia IV (VALFajr & Hormozgan Ferries Bandar Abbas–Ilha Qeshm–Ilha Hormuz–Kish no Irã; RTA Dubai Water Bus, Water Taxi & Dubai Ferry na Marina e Canal de Dubai nos Emirados Árabes Unidos; Arab Bridge Maritime Aqaba–Nuweiba e Safaga–Duba no Mar Vermelho entre Jordânia, Egito e Arábia Saudita; Ferries Trans-Cáspio Baku/Alat–Turkmenbashi–Aktau no Azerbaijão, Turcomenistão e Cazaquistão; e İZDENİZ Esmirna, BURULAŞ BUDO Mudanya–Istambul e GESTAŞ Dardanelos Çanakkale–Eceabat–Gökçeada–Bozcaada na Turquia)",
+      "continente": "Ásia e Oriente Médio",
       "prioridade": "alta",
       "status": "pendente"
     }
