@@ -38771,6 +38771,366 @@
           -32.0195
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kurihama-port-tokyo-wan-ferry-kanagawa-jp",
+        "nome": "Terminal de Ferries de Kurihama — Tokyo-Wan Ferry & Tokai Kisen (Yokosuka, Kanagawa, Japão)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokai-kisen-jetfoil-takeshiba-izu-oshima-japao",
+        "linha_id": "linha-tokyo-wan-ferry-canal-de-uraga-kurihama-yokosuka-kanaya-chiba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7155,
+          35.2235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kanaya-port-tokyo-wan-ferry-chiba-jp",
+        "nome": "Terminal de Ferries de Kanaya — Tokyo-Wan Ferry (Futtsu / JR Hamakanaya, Chiba, Japão)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokai-kisen-jetfoil-takeshiba-izu-oshima-japao",
+        "linha_id": "linha-tokyo-wan-ferry-canal-de-uraga-kurihama-yokosuka-kanaya-chiba",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8195,
+          35.1695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tokyo-takeshiba-passenger-ship-terminal-jp",
+        "nome": "Takeshiba Passenger Ship Terminal — Tokai Kisen Jetfoil & Salvia Maru (Minato-ku, Tóquio, Japão)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokai-kisen-jetfoil-takeshiba-izu-oshima-japao",
+        "linha_id": "linha-tokai-kisen-jetfoil-salvia-maru-toquio-takeshiba-kurihama-izu-oshima",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7635,
+          35.6545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-izu-oshima-motomachi-okata-port-tokyo-jp",
+        "nome": "Portos de Motomachi e Okata — Ilha de Izu Oshima (Tokai Kisen, Metrópole de Tóquio, Japão)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokai-kisen-jetfoil-takeshiba-izu-oshima-japao",
+        "linha_id": "linha-tokai-kisen-jetfoil-salvia-maru-toquio-takeshiba-kurihama-izu-oshima",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3555,
+          34.7515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sunport-takamatsu-ferry-terminal-kagawa-jp",
+        "nome": "Sunport Takamatsu Ferry Terminal — Jumbo Ferry & Shodoshima Ferry (Integrado à Estação JR Takamatsu, Kagawa, Japão)",
+        "sistema_id": "jumbo-ferry-kobe-shodoshima-takamatsu-nankai-ferry-wakayama-tokushima-seto-japao",
+        "linha_id": "linha-jumbo-ferry-shodoshima-kobe-sakate-tonosho-takamatsu-uno",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0515,
+          34.3545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-shodoshima-tonosho-sakate-port-kagawa-jp",
+        "nome": "Portos de Tonosho e Sakate — Ilha de Shodoshima (Mar Interior de Seto, Kagawa, Japão)",
+        "sistema_id": "jumbo-ferry-kobe-shodoshima-takamatsu-nankai-ferry-wakayama-tokushima-seto-japao",
+        "linha_id": "linha-jumbo-ferry-shodoshima-kobe-sakate-tonosho-takamatsu-uno",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3165,
+          34.4535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-wakayamako-station-nankai-ferry-terminal-jp",
+        "nome": "Terminal Ferro-Marítimo de Wakayamako — Nankai Ferry & Nankai Electric Railway (Wakayama, Japão)",
+        "sistema_id": "jumbo-ferry-kobe-shodoshima-takamatsu-nankai-ferry-wakayama-tokushima-seto-japao",
+        "linha_id": "linha-nankai-ferry-canal-de-kii-wakayamako-tokushima",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1485,
+          34.2195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tokushima-port-nankai-ferry-terminal-jp",
+        "nome": "Terminal de Ferries do Porto de Tokushima — Nankai Ferry (Shikoku, Japão)",
+        "sistema_id": "jumbo-ferry-kobe-shodoshima-takamatsu-nankai-ferry-wakayama-tokushima-seto-japao",
+        "linha_id": "linha-nankai-ferry-canal-de-kii-wakayamako-tokushima",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5955,
+          34.0585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-incheon-coastal-yeonan-ferry-terminal-kr",
+        "nome": "Incheon Coastal Passenger Terminal (Yeonan Pier — Ferries para Baengnyeongdo e Yeonpyeongdo, Coreia do Sul)",
+        "sistema_id": "incheon-baengnyeongdo-yeonpyeongdo-pohang-ulleungdo-mokpo-hongdo-ferries-coreia-do-sul",
+        "linha_id": "linha-incheon-coastal-pier-yeonpyeongdo-baengnyeongdo-mar-amarelo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6015,
+          37.4525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-baengnyeongdo-yonggipo-port-incheon-kr",
+        "nome": "Porto de Yonggipo — Ilha de Baengnyeongdo (Mar Amarelo, Incheon, Coreia do Sul)",
+        "sistema_id": "incheon-baengnyeongdo-yeonpyeongdo-pohang-ulleungdo-mokpo-hongdo-ferries-coreia-do-sul",
+        "linha_id": "linha-incheon-coastal-pier-yeonpyeongdo-baengnyeongdo-mar-amarelo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7185,
+          37.9525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pohang-yeongilman-passenger-ferry-terminal-kr",
+        "nome": "Terminal de Ferries de Pohang — El Dorado Express & Ulleung Cruise (Gyeongsang do Norte, Coreia do Sul)",
+        "sistema_id": "incheon-baengnyeongdo-yeonpyeongdo-pohang-ulleungdo-mokpo-hongdo-ferries-coreia-do-sul",
+        "linha_id": "linha-pohang-ulleungdo-dokdo-el-dorado-express-mokpo-hongdo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3815,
+          36.0515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ulleungdo-sadong-dodong-port-kr",
+        "nome": "Portos de Sadong e Dodong — Ilha Vulcânica de Ulleungdo (Mar do Leste, Coreia do Sul)",
+        "sistema_id": "incheon-baengnyeongdo-yeonpyeongdo-pohang-ulleungdo-mokpo-hongdo-ferries-coreia-do-sul",
+        "linha_id": "linha-pohang-ulleungdo-dokdo-el-dorado-express-mokpo-hongdo",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8925,
+          37.4725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-gushan-ferry-pier-hamasen-kaohsiung-tw",
+        "nome": "Gushan Ferry Pier — KCSC Barcas Elétricas (Integrado ao Metrô Sizihwan e VLT Hamasen, Kaohsiung, Taiwan)",
+        "sistema_id": "kaohsiung-cijin-ferry-tamsui-bali-taipei-donggang-xiaoliuqiu-taiwan",
+        "linha_id": "linha-kaohsiung-gushan-cijin-donggang-xiaoliuqiu-sul-taiwan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2695,
+          22.6195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-cijin-ferry-station-kaohsiung-tw",
+        "nome": "Cijin Ferry Terminal — KCSC (Ilha de Cijin, Porto de Kaohsiung, Taiwan)",
+        "sistema_id": "kaohsiung-cijin-ferry-tamsui-bali-taipei-donggang-xiaoliuqiu-taiwan",
+        "linha_id": "linha-kaohsiung-gushan-cijin-donggang-xiaoliuqiu-sul-taiwan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2655,
+          22.6135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-donggang-xiaoliuqiu-ferry-terminal-pingtung-tw",
+        "nome": "Terminal de Catamarãs de Donggang – Ilha de Xiaoliuqiu (Condado de Pingtung, Taiwan)",
+        "sistema_id": "kaohsiung-cijin-ferry-tamsui-bali-taipei-donggang-xiaoliuqiu-taiwan",
+        "linha_id": "linha-kaohsiung-gushan-cijin-donggang-xiaoliuqiu-sul-taiwan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4435,
+          22.4685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tamsui-bali-ferry-pier-taipei-tw",
+        "nome": "Píeres de Tamsui (Estação MRT R28) e Margem Esquerda de Bali (Estuário do Rio Tamsui, Grande Taipé, Taiwan)",
+        "sistema_id": "kaohsiung-cijin-ferry-tamsui-bali-taipei-donggang-xiaoliuqiu-taiwan",
+        "linha_id": "linha-taipei-estuario-rio-tamsui-bali-fishermans-wharf",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4385,
+          25.1695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-magong-port-passenger-terminal-penghu-tw",
+        "nome": "Terminal Marítimo de Magong — Penghu Ferry & Catamarãs Rápidos (Arquipélago de Penghu / Pescadores, Taiwan)",
+        "sistema_id": "penghu-ferry-kaohsiung-budai-magong-taitung-fugang-green-island-orchid-island-taiwan",
+        "linha_id": "linha-penghu-ferry-kaohsiung-budai-chiayi-magong-estreito-taiwan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5635,
+          23.5655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-budai-commercial-port-chiayi-penghu-tw",
+        "nome": "Terminal de Catamarãs do Porto de Budai — Chiayi (Rota Rápida para Penghu, Taiwan)",
+        "sistema_id": "penghu-ferry-kaohsiung-budai-magong-taitung-fugang-green-island-orchid-island-taiwan",
+        "linha_id": "linha-penghu-ferry-kaohsiung-budai-chiayi-magong-estreito-taiwan",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1455,
+          23.3815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-taitung-fugang-fishery-port-ferry-tw",
+        "nome": "Terminal de Ferries do Porto de Fugang — Taitung (Embarque para Green Island e Orchid Island, Taiwan)",
+        "sistema_id": "penghu-ferry-kaohsiung-budai-magong-taitung-fugang-green-island-orchid-island-taiwan",
+        "linha_id": "linha-taitung-fugang-green-island-ludao-orchid-island-lanyu-pacifico",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1915,
+          22.7915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-green-island-nanliao-orchid-island-kaiyuan-tw",
+        "nome": "Portos Insulares de Nanliao (Ilha Verde / Lüdao) e Kaiyuan (Ilha das Orquídeas / Lanyu, Taiwan)",
+        "sistema_id": "penghu-ferry-kaohsiung-budai-magong-taitung-fugang-green-island-orchid-island-taiwan",
+        "linha_id": "linha-taitung-fugang-green-island-ludao-orchid-island-lanyu-pacifico",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4695,
+          22.6685
+        ]
+      }
     }
   ]
 }
