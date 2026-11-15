@@ -56855,10 +56855,17 @@
         "id": "linha-kocaeli-izmit-eskihisar-topcular-van-golu-feribot-tr",
         "nome": "Golfo de İzmit (Körfez Ulaşım), Eskihisar–Topçular e Ferry Ferroviário TCDD do Lago de Van (Tatvan–Van)",
         "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "sistema_nome": "Körfez Ulaşım (İzmit), Eskihisar–Topçular, Ferry Ferroviário do Lago de Van (TCDD) e Ferries Turquia–Egeu–Chipre",
+        "pais": "Turquia",
+        "cidade": "İzmit (Kocaeli) / Yalova / Tatvan / Van / Bodrum / Marmaris / Taşucu",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 680
+        "operador": "Kocaeli Büyükşehir Belediyesi (Körfez Ulaşım) / İDO (Eskihisar–Topçular) / TCDD Taşımacılık (Van Gölü Feribot Müdürlüğü) / Bodrum Express / Yeşil Marmaris / Akgünler Denizcilik",
+        "extensao_km": 680,
+        "bitola": "Ferry Ferroviário de Grande Capacidade (Lago de Van), Ferries Ro-Pax (Golfo de İzmit) e Catamarãs Internacionais (Egeu e Mediterrâneo)",
+        "eletrificacao": "Navios Ro-Pax e Ferries Ferroviários Diesel-Elétricos (Sultan Alparslan e İdris-i Bitlisi no Lago de Van)"
       },
       "geometry": {
         "type": "LineString",
@@ -56896,10 +56903,17 @@
         "id": "linha-ferries-costa-turca-bodrum-kos-marmaris-rodes-tasucu-girne-tr",
         "nome": "Pontes Marítimas do Egeu e Mediterrâneo Turco: Çeşme–Chios, Bodrum–Kos, Marmaris–Rodes e Taşucu–Girne (Chipre)",
         "sistema_id": "kocaeli-korfez-ulasim-izmit-eskihisar-topcular-van-golu-tcdd-feribot-bodrum-marmaris-tasucu-girne-turquia",
+        "sistema_nome": "Körfez Ulaşım (İzmit), Eskihisar–Topçular, Ferry Ferroviário do Lago de Van (TCDD) e Ferries Turquia–Egeu–Chipre",
+        "pais": "Turquia",
+        "cidade": "İzmit (Kocaeli) / Yalova / Tatvan / Van / Bodrum / Marmaris / Taşucu",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 780
+        "operador": "Kocaeli Büyükşehir Belediyesi (Körfez Ulaşım) / İDO (Eskihisar–Topçular) / TCDD Taşımacılık (Van Gölü Feribot Müdürlüğü) / Bodrum Express / Yeşil Marmaris / Akgünler Denizcilik",
+        "extensao_km": 780,
+        "bitola": "Ferry Ferroviário de Grande Capacidade (Lago de Van), Ferries Ro-Pax (Golfo de İzmit) e Catamarãs Internacionais (Egeu e Mediterrâneo)",
+        "eletrificacao": "Navios Ro-Pax e Ferries Ferroviários Diesel-Elétricos (Sultan Alparslan e İdris-i Bitlisi no Lago de Van)"
       },
       "geometry": {
         "type": "LineString",
@@ -56937,10 +56951,17 @@
         "id": "linha-mwasalat-nfc-muscat-shinas-dibba-lima-khasab-musandam-om",
         "nome": "Mwasalat / NFC — Catamarãs de Alta Velocidade do Golfo de Omã e Estreito de Ormuz (Mascate / Shinas ↔ Dibba ↔ Lima ↔ Khasab)",
         "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "sistema_nome": "Mwasalat / NFC (National Ferries Company) — Catamarãs de Alta Velocidade de Musandam (Shinas–Khasab–Lima) e Ferry da Ilha de Masirah (Omã)",
+        "pais": "Omã",
+        "cidade": "Mascate / Shinas / Khasab / Lima (Musandam) / Ilha de Masirah",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 580
+        "operador": "Mwasalat (Oman National Transport Company — NFC National Ferries Company)",
+        "extensao_km": 580,
+        "bitola": "Catamarãs Ro-Pax de Alta Velocidade (Hormuz, Shinas e Al Hallaniyat) e Ferries Ro-Pax Insulares (Jawharat Masirah e Shannah)",
+        "eletrificacao": "Propulsão a Jato d'Água (Waterjet) de Alta Velocidade e Ro-Pax Diesel-Elétrico"
       },
       "geometry": {
         "type": "LineString",
@@ -56974,10 +56995,17 @@
         "id": "linha-mwasalat-nfc-shannah-masirah-island-mar-arabico-om",
         "nome": "Mwasalat / NFC — Travessia Ro-Pax do Mar Arábico (Porto de Shannah ↔ Hilf / Ilha de Masirah)",
         "sistema_id": "mwasalat-oman-national-ferries-nfc-muscat-shinas-khasab-lima-musandam-shannah-masirah-island-oma",
+        "sistema_nome": "Mwasalat / NFC (National Ferries Company) — Catamarãs de Alta Velocidade de Musandam (Shinas–Khasab–Lima) e Ferry da Ilha de Masirah (Omã)",
+        "pais": "Omã",
+        "cidade": "Mascate / Shinas / Khasab / Lima (Musandam) / Ilha de Masirah",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 240
+        "operador": "Mwasalat (Oman National Transport Company — NFC National Ferries Company)",
+        "extensao_km": 240,
+        "bitola": "Catamarãs Ro-Pax de Alta Velocidade (Hormuz, Shinas e Al Hallaniyat) e Ferries Ro-Pax Insulares (Jawharat Masirah e Shannah)",
+        "eletrificacao": "Propulsão a Jato d'Água (Waterjet) de Alta Velocidade e Ro-Pax Diesel-Elétrico"
       },
       "geometry": {
         "type": "LineString",
@@ -57003,10 +57031,17 @@
         "id": "linha-suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-bus-eg",
         "nome": "Travessias do Canal de Suez (Port Said–Port Fouad, El Qantara e Ismailia) e CTA Nile River Bus do Cairo (Maspero–Maadi–El Qanater)",
         "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "sistema_nome": "Travessias do Canal de Suez (Port Said–Port Fouad), Ônibus Fluvial do Nilo no Cairo (CTA) e Ferries de Luxor, Aswan e Lago Nasser (Egito)",
+        "pais": "Egito e Sudão",
+        "cidade": "Port Said / Ismailia / Cairo / Luxor / Aswan / Abu Simbel",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 620
+        "operador": "Suez Canal Authority (SCA Ferries) / Cairo Transport Authority (CTA Nile River Bus) / Nile Valley Navigation Company (Aswan–Wadi Halfa)",
+        "extensao_km": 620,
+        "bitola": "Ferries Ro-Pax Transcontinentais (África–Ásia no Canal de Suez) e Barcas Fluviais Urbanas e Lacustres do Nilo",
+        "eletrificacao": "Frota Diesel-Elétrica e Barcas Fluviais Híbridas/Solares no Nilo"
       },
       "geometry": {
         "type": "LineString",
@@ -57044,10 +57079,17 @@
         "id": "linha-alto-nilo-luxor-aswan-elephantine-lago-nasser-abu-simbel-wadi-halfa-eg",
         "nome": "Alto Nilo e Lago Nasser — Barcas de Luxor, Aswan–Ilha Elefantina–Philae e Hidrovia Aswan–Abu Simbel–Wadi Halfa",
         "sistema_id": "suez-canal-ferries-port-said-port-fouad-ismailia-cairo-nile-river-bus-luxor-aswan-elephantine-lake-nasser-egito",
+        "sistema_nome": "Travessias do Canal de Suez (Port Said–Port Fouad), Ônibus Fluvial do Nilo no Cairo (CTA) e Ferries de Luxor, Aswan e Lago Nasser (Egito)",
+        "pais": "Egito e Sudão",
+        "cidade": "Port Said / Ismailia / Cairo / Luxor / Aswan / Abu Simbel",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 1020
+        "operador": "Suez Canal Authority (SCA Ferries) / Cairo Transport Authority (CTA Nile River Bus) / Nile Valley Navigation Company (Aswan–Wadi Halfa)",
+        "extensao_km": 1020,
+        "bitola": "Ferries Ro-Pax Transcontinentais (África–Ásia no Canal de Suez) e Barcas Fluviais Urbanas e Lacustres do Nilo",
+        "eletrificacao": "Frota Diesel-Elétrica e Barcas Fluviais Híbridas/Solares no Nilo"
       },
       "geometry": {
         "type": "LineString",
@@ -57081,10 +57123,17 @@
         "id": "linha-ad-maritime-jebel-dhanna-delma-island-sir-bani-yas-ae",
         "nome": "Abu Dhabi Maritime (Al Dhafra) — Ferries Ro-Pax Jebel Dhanna ↔ Ilha de Delma e Jebel Dhanna ↔ Ilha de Sir Bani Yas",
         "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "sistema_nome": "Abu Dhabi Maritime (Jebel Dhanna–Ilha de Delma–Sir Bani Yas) e Ferry Interemirados Sharjah–Dubai (Aquarium–Al Ghubaiba)",
+        "pais": "Emirados Árabes Unidos",
+        "cidade": "Abu Dhabi (Jebel Dhanna, Delma e Sir Bani Yas) / Sharjah / Dubai",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 320
+        "operador": "Abu Dhabi Maritime (AD Ports Group & Integrated Transport Centre Mawaqif) / RTA Dubai & Sharjah Roads and Transport Authority (SRTA)",
+        "extensao_km": 320,
+        "bitola": "Ferries Ro-Pax Insulares do Golfo Pérsico e Catamarãs Interemirados de Alta Velocidade",
+        "eletrificacao": "Catamarãs Diesel-Elétricos de Baixa Emissão e Embarcações Ro-Pax Modernas"
       },
       "geometry": {
         "type": "LineString",
@@ -57110,10 +57159,17 @@
         "id": "linha-rta-srta-sharjah-aquarium-al-khan-dubai-al-ghubaiba-fr5-ae",
         "nome": "RTA Dubai & SRTA Sharjah — Ferry Interemirados FR5 (Aquarium Marine Station Sharjah ↔ Al Ghubaiba Marine Transport Station Dubai)",
         "sistema_id": "abu-dhabi-maritime-jebel-dhanna-delma-island-sir-bani-yas-sharjah-al-khan-dubai-ghubaiba-ferry-emirados-arabes",
+        "sistema_nome": "Abu Dhabi Maritime (Jebel Dhanna–Ilha de Delma–Sir Bani Yas) e Ferry Interemirados Sharjah–Dubai (Aquarium–Al Ghubaiba)",
+        "pais": "Emirados Árabes Unidos",
+        "cidade": "Abu Dhabi (Jebel Dhanna, Delma e Sir Bani Yas) / Sharjah / Dubai",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 160
+        "operador": "Abu Dhabi Maritime (AD Ports Group & Integrated Transport Centre Mawaqif) / RTA Dubai & Sharjah Roads and Transport Authority (SRTA)",
+        "extensao_km": 160,
+        "bitola": "Ferries Ro-Pax Insulares do Golfo Pérsico e Catamarãs Interemirados de Alta Velocidade",
+        "eletrificacao": "Catamarãs Diesel-Elétricos de Baixa Emissão e Embarcações Ro-Pax Modernas"
       },
       "geometry": {
         "type": "LineString",
@@ -57139,10 +57195,17 @@
         "id": "linha-djibouti-tadjourah-obock-massawa-dahlak-socotra-mar-vermelho-aden",
         "nome": "Golfo de Tadjourah, Mar Vermelho Sul e Socotra — Ferries Djibuti–Tadjourah–Obock, Massawa–Dahlak e Mukalla–Ilha de Socotra (UNESCO)",
         "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "sistema_nome": "Ferries do Golfo de Tadjourah (Djibuti–Tadjourah–Obock), Massawa–Dahlak, Socotra e Corredor Marítimo do Cáspio Sul (Anzali–Astrakhan)",
+        "pais": "Djibuti, Eritreia, Iêmen, Irã e Rússia",
+        "cidade": "Djibuti / Tadjourah / Obock / Massawa / Socotra (Hadibu) / Bandar Anzali / Astrakhan",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 1180
+        "operador": "Autorité des Ports et des Zones Franches de Djibouti (APZFD) / Massawa Port Authority / Khazar Sea Shipping Lines (KSSL) / Rosmorport Volga-Caspian",
+        "extensao_km": 1180,
+        "bitola": "Ferries Ro-Pax do Estreito de Bab el-Mandeb / Golfo de Tadjourah e Navios Misto-Passageiros do Corredor Norte-Sul no Mar Cáspio",
+        "eletrificacao": "Frota Marítima Diesel-Elétrica"
       },
       "geometry": {
         "type": "LineString",
@@ -57180,10 +57243,17 @@
         "id": "linha-caspio-sul-norte-bandar-anzali-amirabad-baku-olya-astrakhan",
         "nome": "Corredor Marítimo do Mar Cáspio — Bandar Anzali / Amirabad (Irã) ↔ Baku ↔ Canal Volga-Cáspio (Olya / Astrakhan)",
         "sistema_id": "red-sea-gulf-of-aden-djibouti-tadjourah-obock-massawa-dahlak-socotra-bandar-anzali-astrakhan-mar-vermelho-caspio",
+        "sistema_nome": "Ferries do Golfo de Tadjourah (Djibuti–Tadjourah–Obock), Massawa–Dahlak, Socotra e Corredor Marítimo do Cáspio Sul (Anzali–Astrakhan)",
+        "pais": "Djibuti, Eritreia, Iêmen, Irã e Rússia",
+        "cidade": "Djibuti / Tadjourah / Obock / Massawa / Socotra (Hadibu) / Bandar Anzali / Astrakhan",
         "tipo": "barco",
         "status": "operacao",
+        "camada": "operacao",
         "cor": "#00b8d4",
-        "extensao_km": 1300
+        "operador": "Autorité des Ports et des Zones Franches de Djibouti (APZFD) / Massawa Port Authority / Khazar Sea Shipping Lines (KSSL) / Rosmorport Volga-Caspian",
+        "extensao_km": 1300,
+        "bitola": "Ferries Ro-Pax do Estreito de Bab el-Mandeb / Golfo de Tadjourah e Navios Misto-Passageiros do Corredor Norte-Sul no Mar Cáspio",
+        "eletrificacao": "Frota Marítima Diesel-Elétrica"
       },
       "geometry": {
         "type": "LineString",
