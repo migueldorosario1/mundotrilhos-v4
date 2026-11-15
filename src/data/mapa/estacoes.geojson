@@ -44168,6 +44168,581 @@
           45.1565
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-port-blair-phoenix-bay-haddo-andaman",
+        "nome": "Terminais Marítimos de Phoenix Bay & Haddo Wharf em Port Blair / Sri Vijaya Puram (Ilhas Andaman, Índia)",
+        "sistema_id": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "sistema_slug": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "linha_id": "linha-barco-andaman-port-blair-havelock-neil-diglipur",
+        "pais": "Índia",
+        "cidade": "Port Blair",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7385,
+          11.6725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-swaraj-dweep-havelock-jetty-andaman",
+        "nome": "Terminal Hidroviário de Swaraj Dweep / Havelock Island (Makruzz, Nautika & DSS, Andaman, Índia)",
+        "sistema_id": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "sistema_slug": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "linha_id": "linha-barco-andaman-port-blair-havelock-neil-diglipur",
+        "pais": "Índia",
+        "cidade": "Swaraj Dweep (Havelock)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9895,
+          12.0335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-shaheed-dweep-neil-island-andaman",
+        "nome": "Píer de Shaheed Dweep / Neil Island & Diglipur Aerial Bay (Ilhas Andaman, Índia)",
+        "sistema_id": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "sistema_slug": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "linha_id": "linha-barco-andaman-port-blair-havelock-neil-diglipur",
+        "pais": "Índia",
+        "cidade": "Shaheed Dweep (Neil)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9525,
+          11.8325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kavaratti-jetty-lakshadweep",
+        "nome": "Terminal Insular de Kavaratti — Capital do Arquipélago de Lakshadweep (Índia)",
+        "sistema_id": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "sistema_slug": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "linha_id": "linha-barco-lakshadweep-kochi-kavaratti-agatti-minicoy",
+        "pais": "Índia",
+        "cidade": "Kavaratti",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6369,
+          10.5626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-agatti-minicoy-lakshadweep",
+        "nome": "Píer do Atol de Agatti & Ilha de Minicoy (Arquipélago de Lakshadweep, Índia)",
+        "sistema_id": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "sistema_slug": "dss-makruzz-nautika-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-andaman-lakshadweep-india",
+        "linha_id": "linha-barco-lakshadweep-kochi-kavaratti-agatti-minicoy",
+        "pais": "Índia",
+        "cidade": "Agatti / Minicoy",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1925,
+          10.8585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-panaji-betim-ferry-wharf-goa",
+        "nome": "Rampas de Ferry de Panaji (Pangim) & Betim no Rio Mandovi (RND Goa, Índia)",
+        "sistema_id": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "sistema_slug": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "linha_id": "linha-barco-rnd-goa-panaji-betim-ribandar-chorao-divar",
+        "pais": "Índia",
+        "cidade": "Panaji (Goa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8325,
+          15.5015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-ribandar-chorao-ferry-goa",
+        "nome": "Terminal Fluvial de Ribandar & Madel na Ilha de Chorão (Santuário Dr. Salim Ali, Goa, Índia)",
+        "sistema_id": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "sistema_slug": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "linha_id": "linha-barco-rnd-goa-panaji-betim-ribandar-chorao-divar",
+        "pais": "Índia",
+        "cidade": "Ilha de Chorão (Goa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8695,
+          15.5125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-old-goa-sao-pedro-divar-island-goa",
+        "nome": "Rampa de São Pedro (Velha Goa) & Piedade na Ilha de Divar (Rio Mandovi, Goa, Índia)",
+        "sistema_id": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "sistema_slug": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "linha_id": "linha-barco-rnd-goa-panaji-betim-ribandar-chorao-divar",
+        "pais": "Índia",
+        "cidade": "Ilha de Divar (Goa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9025,
+          15.5185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-dabhol-dhopave-konkan-ferry",
+        "nome": "Terminais de Balsa Ro-Ro de Dabhol & Dhopave no Rio Vashishti (Costa de Konkan, Maharashtra, Índia)",
+        "sistema_id": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "sistema_slug": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "linha_id": "linha-barco-konkan-suvarnadurg-dighi-dabhol-jaigad",
+        "pais": "Índia",
+        "cidade": "Dabhol (Ratnagiri)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1755,
+          17.5845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-dighi-agardanda-jaigad-konkan",
+        "nome": "Terminais de Balsa Ro-Ro de Dighi–Agardanda (Raigad) & Jaigad–Tawsal (Ratnagiri, Maharashtra, Índia)",
+        "sistema_id": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "sistema_slug": "river-navigation-department-goa-panaji-betim-chorao-divar-suvarnadurg-ferries-konkan-okha-bet-dwarka-india",
+        "linha_id": "linha-barco-konkan-suvarnadurg-dighi-dabhol-jaigad",
+        "pais": "Índia",
+        "cidade": "Dighi / Jaigad",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9685,
+          18.2725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-varanasi-namo-ravidas-ghat-ganges",
+        "nome": "Terminais Fluviais de Namo Ghat & Ravidas Ghat em Varanasi (Hidrovia Nacional 1 do Rio Ganges, Índia)",
+        "sistema_id": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "sistema_slug": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "linha_id": "linha-barco-nw1-ganges-varanasi-patna-sahibganj",
+        "pais": "Índia",
+        "cidade": "Varanasi",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0105,
+          25.3085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-patna-gaighat-ganges-nw1",
+        "nome": "Terminal Hidroviário IWAI de Gaighat em Patna (Rio Ganges, Bihar, Índia)",
+        "sistema_id": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "sistema_slug": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "linha_id": "linha-barco-nw1-ganges-varanasi-patna-sahibganj",
+        "pais": "Índia",
+        "cidade": "Patna",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1955,
+          25.6185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-sahibganj-manihari-ganges-ferry",
+        "nome": "Terminal Multimodal e Ferry Ro-Pax de Sahibganj–Manihari (Rio Ganges, Jharkhand e Bihar, Índia)",
+        "sistema_id": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "sistema_slug": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "linha_id": "linha-barco-nw1-ganges-varanasi-patna-sahibganj",
+        "pais": "Índia",
+        "cidade": "Sahibganj",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6425,
+          25.2465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kakdwip-kachuberia-sagar-island",
+        "nome": "Píeres de Kakdwip (Lot 8 / Harwood Point) & Kachuberia na Ilha Sagar (Delta dos Sundarbans, Bengala Ocidental, Índia)",
+        "sistema_id": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "sistema_slug": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "linha_id": "linha-barco-sagar-island-sundarbans-lago-chilika-odisha",
+        "pais": "Índia",
+        "cidade": "Ilha Sagar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1455,
+          21.8525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-satapada-janikuda-lago-chilika-odisha",
+        "nome": "Terminais de Ferry Ro-Pax de Satapada (Puri) & Janikuda no Lago Chilika (Odisha, Índia)",
+        "sistema_id": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "sistema_slug": "nw1-ganga-waterway-varanasi-patna-sahibganj-haldia-sagar-island-chilika-lake-ferries-odisha-india",
+        "linha_id": "linha-barco-sagar-island-sundarbans-lago-chilika-odisha",
+        "pais": "Índia",
+        "cidade": "Puri (Satapada)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4355,
+          19.6715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-paturia-daulatdia-ferry-ghat-padma",
+        "nome": "Terminais de Ferry Ro-Ro BIWTC de Paturia & Daulatdia Ghat (Confluência Padma–Jamuna, Bangladesh)",
+        "sistema_id": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "sistema_slug": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "linha_id": "linha-barco-biwtc-paturia-daulatdia-aricha-moheshkhali",
+        "pais": "Bangladesh e Mianmar",
+        "cidade": "Paturia / Daulatdia",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7765,
+          23.7815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-aricha-kazirhat-jamuna-ferry-ghat",
+        "nome": "Terminais de Ferry BIWTC de Aricha & Kazirhat Ghat (Rio Jamuna, Bangladesh)",
+        "sistema_id": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "sistema_slug": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "linha_id": "linha-barco-biwtc-paturia-daulatdia-aricha-moheshkhali",
+        "pais": "Bangladesh e Mianmar",
+        "cidade": "Aricha",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6545,
+          23.8825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-coxs-bazar-moheshkhali-jetty",
+        "nome": "Píer nº 6 de Cox's Bazar & Terminal Insular de Moheshkhali (Golfo de Bengala, Bangladesh)",
+        "sistema_id": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "sistema_slug": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "linha_id": "linha-barco-biwtc-paturia-daulatdia-aricha-moheshkhali",
+        "pais": "Bangladesh e Mianmar",
+        "cidade": "Cox's Bazar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9705,
+          21.4525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-pansodan-dala-ferry-yangon-mianmar",
+        "nome": "Terminais Metropolitanos IWT de Pansodan (Downtown Yangon) & Dala (Rio Yangon, Mianmar)",
+        "sistema_id": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "sistema_slug": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "linha_id": "linha-barco-iwt-yangon-dala-irrawaddy-mandalay-bagan",
+        "pais": "Bangladesh e Mianmar",
+        "cidade": "Yangon",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1625,
+          16.7685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-mandalay-gawwein-bagan-irrawaddy",
+        "nome": "Porto Fluvial de Gawwein em Mandalay & Píer de Nyaung-U em Bagan (Rio Irrawaddy, Mianmar)",
+        "sistema_id": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "sistema_slug": "biwtc-aricha-kazirhat-daulatdia-paturia-jamuna-padma-cox-bazar-moheshkhali-yangon-dala-irrawaddy-bangladesh-mianmar",
+        "linha_id": "linha-barco-iwt-yangon-dala-irrawaddy-mandalay-bagan",
+        "pais": "Bangladesh e Mianmar",
+        "cidade": "Mandalay / Bagan",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0555,
+          21.9745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kurikadduwan-nainativu-jaffna-sri-lanka",
+        "nome": "Píeres de Kurikadduwan (Punkudutivu) & Ilha Sagrada de Nainativu / Nagadeepa (Jaffna, Sri Lanka)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "sistema_slug": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "linha_id": "linha-barco-jaffna-kurikadduwan-nainativu-delft-karachi",
+        "pais": "Sri Lanka, Maldivas e Paquistão",
+        "cidade": "Jaffna",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8055,
+          9.6055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-delft-island-neduntheevu-sri-lanka",
+        "nome": "Terminal de Ferry da Ilha de Delft / Neduntheevu (Estreito de Palk, Sri Lanka)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "sistema_slug": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "linha_id": "linha-barco-jaffna-kurikadduwan-nainativu-delft-karachi",
+        "pais": "Sri Lanka, Maldivas e Paquistão",
+        "cidade": "Ilha de Delft",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6855,
+          9.5225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-kemari-manora-island-karachi-paquistao",
+        "nome": "Píer de Kemari Boat Basin & Ilha de Manora (Porto de Karachi, Paquistão)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "sistema_slug": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "linha_id": "linha-barco-jaffna-kurikadduwan-nainativu-delft-karachi",
+        "pais": "Sri Lanka, Maldivas e Paquistão",
+        "cidade": "Karachi",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9755,
+          24.8155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-addu-city-feydhoo-fuvahmulah-rtl-maldivas",
+        "nome": "Terminais RTL de Feydhoo / Hulhumeedhoo (Atol de Addu) & Ilha de Fuvahmulah (Maldivas)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "sistema_slug": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "linha_id": "linha-barco-rtl-sul-maldivas-addu-fuvahmulah-thinadhoo",
+        "pais": "Sri Lanka, Maldivas e Paquistão",
+        "cidade": "Addu City",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1325,
+          -0.6825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "term-thinadhoo-huvadhu-atoll-rtl-maldivas",
+        "nome": "Terminal Regional RTL de Thinadhoo (Atol de Huvadhu / Gaafu Dhaalu, Maldivas)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "sistema_slug": "jaffna-islands-ferries-kurikadduwan-delft-neduntheevu-rtl-addu-fuvahmulah-huvadhu-maldivas-kemari-manora-karachi-paquistao",
+        "linha_id": "linha-barco-rtl-sul-maldivas-addu-fuvahmulah-thinadhoo",
+        "pais": "Sri Lanka, Maldivas e Paquistão",
+        "cidade": "Thinadhoo",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9965,
+          0.5315
+        ]
+      }
     }
   ]
 }
