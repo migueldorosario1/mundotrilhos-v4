@@ -35031,5 +35031,438 @@
     "n_estacoes": 5,
     "passageiros_dia": 7123,
     "ano_referencia": 2026
+  },
+  {
+    "id": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+    "slug": "catalina-express-long-beach-san-pedro-dana-point-avalon-two-harbors-angel-island-tiburon-california-eua",
+    "nome": "Catamarãs Rápidos da Califórnia — Catalina Express & Catalina Flyer (Long Beach, San Pedro, Newport Beach e Dana Point – Ilha de Santa Catalina) e Angel Island–Tiburon Ferry (EUA)",
+    "nome_pt": "Catamarãs Rápidos da Califórnia — Catalina Express & Catalina Flyer (Long Beach, San Pedro, Newport Beach e Dana Point – Ilha de Santa Catalina) e Angel Island–Tiburon Ferry (EUA)",
+    "nome_en": "California High-Speed Island Ferries — Catalina Express & Catalina Flyer (Long Beach, San Pedro, Newport Beach & Dana Point – Santa Catalina Island) & Angel Island–Tiburon Ferry (USA)",
+    "pais": "Estados Unidos",
+    "codigo_pais": "US",
+    "continente": "América do Norte",
+    "cidade": "Long Beach / San Pedro (Los Angeles) / Newport Beach / Dana Point / Avalon e Two Harbors (Santa Catalina Island) / Tiburon (Califórnia)",
+    "cidade_principal": "Long Beach / San Pedro / Avalon (Santa Catalina Island, Califórnia)",
+    "uf": "Califórnia (CA)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Catalina Express (Catalina Channel Express, Inc.), Catalina Passenger Service (Catalina Flyer) e Angel Island–Tiburon Ferry Company",
+    "inauguracao": "1981 (Catalina Express) / 1959 (Angel Island–Tiburon Ferry)",
+    "extensao_km": 185.0,
+    "bitola": "Catamarãs de Alta Velocidade Incat Crowther / Nichols Brothers a jato d'água (Jet Cat, Starship Express, Catalina Jet — 37 nós) e Ferry Elétrico",
+    "eletrificacao": "Propulsão a jato d'água de baixa emissão Tier 4 (Catalina Express) e ferry 100% elétrico a bateria na travessia Tiburon–Angel Island",
+    "velocidade_max_kmh": 68,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 3200,
+    "passageiros_ano": 1150000,
+    "ano_referencia": 2026,
+    "resumo_pt": "Principal ponte marítima para as Ilhas do Canal da Califórnia, a Catalina Express opera até 30 partidas diárias em catamarãs de alta velocidade (até 37 nós / 68 km/h) cruzando o Canal de San Pedro em apenas 1 hora entre os terminais de Long Beach Downtown Landing, San Pedro (World Cruise Center) e Dana Point até Avalon e Two Harbors na Ilha de Santa Catalina, complementada pelo mega-catamarã Catalina Flyer a partir de Newport Beach. Ao norte, na Baía de São Francisco, a Angel Island–Tiburon Ferry opera a travessia histórica entre Tiburon e o Parque Estadual de Angel Island com frota convertida para propulsão 100% elétrica.",
+    "resumo_en": "Serving as the primary marine bridge to California's Channel Islands, Catalina Express operates up to 30 daily departures with high-speed waterjet catamarans (up to 37 knots / 68 km/h), crossing the San Pedro Channel in just 1 hour from Long Beach Downtown Landing, San Pedro, and Dana Point to Avalon and Two Harbors on Santa Catalina Island, complemented by the Catalina Flyer from Newport Beach. In San Francisco Bay, the Angel Island–Tiburon Ferry operates the historic crossing between Tiburon and Angel Island State Park with an all-electric zero-emission vessel.",
+    "investimento": {
+      "valor": "US$ 85 milhões na modernização Tier 4 / híbrida da frota de catamarãs de alta velocidade da Catalina Express e eletrificação do Angel Island Ferry com apoio do CARB (California Air Resources Board)",
+      "moeda": "USD",
+      "fonte_id": "catalina-1"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação dos novos catamarãs híbridos/zero-emissão em atendimento à norma Commercial Harbor Craft (CHC) do CARB na Califórnia.",
+      "en": "Deployment of next-generation hybrid and zero-emission high-speed catamarans in compliance with California's CARB Commercial Harbor Craft (CHC) regulation."
+    },
+    "lat": 33.545,
+    "lon": -118.25,
+    "zoom_inicial": 8,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "california",
+      "catalina-express",
+      "long-beach",
+      "san-pedro",
+      "avalon",
+      "eua"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Catalina_Express_Starship_Express_Avalon.jpg/1280px-Catalina_Express_Starship_Express_Avalon.jpg",
+      "credito": "Catalina Express / Wikimedia Commons",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Catalina_Express_Starship_Express_Avalon.jpg"
+    },
+    "fontes": [
+      {
+        "id": "catalina-1",
+        "titulo": "Catalina Express — High-Speed Ferry Service to Santa Catalina Island (Long Beach, San Pedro & Dana Point)",
+        "url": "https://www.catalinaexpress.com/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-catalina-express-long-beach-san-pedro-avalon-two-harbors",
+        "nome": "Corredor Norte do Canal de Santa Catalina: San Pedro / Long Beach Downtown – Avalon & Two Harbors (Catalina Express)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 105.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-catalina-sul-newport-dana-point-avalon-angel-island",
+        "nome": "Corredor Orange County – Catalina (Newport Beach / Dana Point – Avalon) e Travessia Elétrica Tiburon – Angel Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 80.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+    "slug": "steamship-authority-hy-line-woods-hole-hyannis-marthas-vineyard-nantucket-casco-bay-lines-portland-maine-ma-me-eua",
+    "nome": "Ferries da Nova Inglaterra — The Steamship Authority e Hy-Line Cruises (Woods Hole e Hyannis – Martha's Vineyard e Nantucket, MA) e Casco Bay Lines (Portland – Peaks Island, Maine, EUA)",
+    "nome_pt": "Ferries da Nova Inglaterra — The Steamship Authority e Hy-Line Cruises (Woods Hole e Hyannis – Martha's Vineyard e Nantucket, MA) e Casco Bay Lines (Portland – Peaks Island, Maine, EUA)",
+    "nome_en": "New England Island Ferries — The Steamship Authority & Hy-Line Cruises (Woods Hole & Hyannis – Martha's Vineyard & Nantucket, MA) & Casco Bay Lines (Portland – Peaks Island, Maine, USA)",
+    "pais": "Estados Unidos",
+    "codigo_pais": "US",
+    "continente": "América do Norte",
+    "cidade": "Woods Hole (Falmouth) / Hyannis / Vineyard Haven e Oak Bluffs (Martha's Vineyard) / Nantucket (Massachusetts) e Portland (Maine)",
+    "cidade_principal": "Woods Hole / Hyannis / Martha's Vineyard / Nantucket (MA) & Portland (ME)",
+    "uf": "Massachusetts (MA) / Maine (ME)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Woods Hole, Martha's Vineyard and Nantucket Steamship Authority, Hy-Line Cruises e Casco Bay Island Transit District (Casco Bay Lines)",
+    "inauguracao": "1873 (Casco Bay Lines) / 1960 (Ato estatutário atual da Steamship Authority em Massachusetts)",
+    "extensao_km": 245.0,
+    "bitola": "Ferry Ro-Pax Oceânico (MV Island Home, MV Woods Hole), Catamarã de Alta Velocidade (MV Iyanough, Grey Lady IV) e Ferry Híbrido Diesel-Elétrico",
+    "eletrificacao": "Embarcações Ro-Pax e novos ferries híbridos diesel-elétricos da Casco Bay Lines (Machigonne II substituto) com recarga rápida no píer de Portland",
+    "velocidade_max_kmh": 62,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 11500,
+    "passageiros_ano": 4200000,
+    "ano_referencia": 2026,
+    "resumo_pt": "Espinha dorsal do transporte insular da Nova Inglaterra, a The Steamship Authority e a Hy-Line Cruises conectam o Cabo Cod (Cape Cod) às ilhas de Martha's Vineyard e Nantucket durante todo o ano. A partir de Woods Hole, os ferries Ro-Pax cruzam o Vineyard Sound até Vineyard Haven e Oak Bluffs em 45 minutos, enquanto de Hyannis partem os ferries convencionais e os catamarãs rápidos MV Iyanough e Grey Lady IV (1 hora até Nantucket). Mais ao norte, em Portland (Maine), a pública Casco Bay Lines opera a linha vital de passageiros, veículos e correio para Peaks Island, Long Island, Chebeague e Cliff Island na Baía de Casco.",
+    "resumo_en": "Forming the backbone of island transportation in New England, The Steamship Authority and Hy-Line Cruises connect Cape Cod year-round to the islands of Martha's Vineyard and Nantucket. From Woods Hole, Ro-Pax ferries cross Vineyard Sound to Vineyard Haven and Oak Bluffs in 45 minutes, while conventional ferries and high-speed catamarans MV Iyanough and Grey Lady IV depart Hyannis (reaching Nantucket in 1 hour). Further north in Portland, Maine, the public Casco Bay Lines operates the vital year-round passenger, vehicle, and mail lifeline to Peaks Island, Long Island, Chebeague, and Cliff Island across Casco Bay.",
+    "investimento": {
+      "valor": "US$ 210 milhões na reconstrução do terminal de Woods Hole, novos ferries da classe MV Barnstable/Aquinnah e novo ferry híbrido-elétrico da Casco Bay Lines em Portland",
+      "moeda": "USD",
+      "fonte_id": "ssa-ne-1"
+    },
+    "proximas_entregas": {
+      "pt": "Entrada em operação do novo ferry de veículos híbrido-elétrico de Peaks Island em Portland (Maine) e conclusão do novo edifício terminal sustentável de Woods Hole em Cape Cod.",
+      "en": "Entry into service of the new hybrid-electric Peaks Island vehicle ferry in Portland, Maine, and completion of the new net-zero terminal building at Woods Hole on Cape Cod."
+    },
+    "lat": 41.52,
+    "lon": -70.45,
+    "zoom_inicial": 7,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "steamship-authority",
+      "marthas-vineyard",
+      "nantucket",
+      "cape-cod",
+      "casco-bay-lines",
+      "portland",
+      "maine",
+      "massachusetts",
+      "eua"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MV_Island_Home_leaving_Woods_Hole.jpg/1280px-MV_Island_Home_leaving_Woods_Hole.jpg",
+      "credito": "Steamship Authority / Wikimedia Commons",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MV_Island_Home_leaving_Woods_Hole.jpg"
+    },
+    "fontes": [
+      {
+        "id": "ssa-ne-1",
+        "titulo": "The Steamship Authority & Casco Bay Lines — Cape Cod, Martha's Vineyard, Nantucket & Casco Bay Ferry Schedules",
+        "url": "https://www.steamshipauthority.com/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-steamship-hyline-woods-hole-hyannis-vineyard-nantucket",
+        "nome": "Cape Cod & Islands: Woods Hole – Martha's Vineyard (Vineyard Haven / Oak Bluffs) e Hyannis – Nantucket (Steamship Authority & Hy-Line)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 165.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-casco-bay-lines-portland-peaks-island-bailey-island-maine",
+        "nome": "Rede Insular de Casco Bay (Maine): Portland Casco Bay Ferry Terminal – Peaks Island – Long Island – Chebeague – Bailey Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 80.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+    "slug": "fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach-ny-waterway-hudson-river-weehawken-hoboken-manhattan-ny-nj-eua",
+    "nome": "Ferries do Rio Hudson e Long Island Sul — NY Waterway (Weehawken, Hoboken e Jersey City – Manhattan) e Fire Island Ferries (Bay Shore, Sayville e Patchogue – Fire Island, NY/NJ, EUA)",
+    "nome_pt": "Ferries do Rio Hudson e Long Island Sul — NY Waterway (Weehawken, Hoboken e Jersey City – Manhattan) e Fire Island Ferries (Bay Shore, Sayville e Patchogue – Fire Island, NY/NJ, EUA)",
+    "nome_en": "Hudson River & South Shore Long Island Ferries — NY Waterway (Weehawken, Hoboken & Jersey City – Manhattan) & Fire Island Ferries (Bay Shore, Sayville & Patchogue – Fire Island, NY/NJ, USA)",
+    "pais": "Estados Unidos",
+    "codigo_pais": "US",
+    "continente": "América do Norte",
+    "cidade": "Nova York (Manhattan) / Weehawken / Hoboken / Jersey City (Nova Jersey) e Bay Shore / Sayville / Patchogue / Fire Island (Long Island, NY)",
+    "cidade_principal": "Manhattan / Hoboken / Weehawken (NY/NJ) & Bay Shore / Fire Island (Long Island, NY)",
+    "uf": "Nova York (NY) / Nova Jersey (NJ)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "NY Waterway (Port Imperial Ferry Corp.), Fire Island Ferries Inc., Sayville Ferry Service e Davis Park Ferry Co.",
+    "inauguracao": "1948 (Fire Island Ferries) / 1986 (NY Waterway fundada por Arthur Imperatore)",
+    "extensao_km": 120.0,
+    "bitola": "Catamarã Urbano de Alta Capacidade do Rio Hudson e Ferry de Baixo Calado da Great South Bay",
+    "eletrificacao": "Frota com motores Tier 4 EPA e programa de conversão híbrido-elétrica financiado pela NJ Transit / FTA para o corredor Port Imperial–Midtown",
+    "velocidade_max_kmh": 48,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 34000,
+    "passageiros_ano": 12400000,
+    "ano_referencia": 2026,
+    "resumo_pt": "Complementando a Staten Island Ferry e a NYC Ferry, a NY Waterway opera a maior rede privada de comutação hidroviária dos Estados Unidos através do Rio Hudson e da Baía de Nova York, conectando os terminais intermodais de Nova Jersey (Weehawken Port Imperial no VLT Hudson-Bergen, Hoboken Terminal da NJ Transit/PATH, Paulus Hook e Liberty Harbor em Jersey City, Edgewater e Belford/Middletown) a Midtown Manhattan (West 39th Street, com ônibus gratuitos dedicados) e Brookfield Place / Wall Street Pier 11. Na costa sul de Long Island, as frotas da Fire Island Ferries (Bay Shore), Sayville Ferry Service e Davis Park Ferry (Patchogue) cruzam a Great South Bay até as comunidades sem carros da ilha-barreira de Fire Island (Ocean Beach,Kismet, Saltaire, Fire Island Pines e Cherry Grove).",
+    "resumo_en": "Complementing the Staten Island Ferry and NYC Ferry, NY Waterway operates the largest commuter ferry network across the Hudson River and New York Harbor, linking New Jersey intermodal hubs (Weehawken Port Imperial on the Hudson-Bergen Light Rail, Hoboken Terminal on NJ Transit/PATH, Paulus Hook and Liberty Harbor in Jersey City, Edgewater, and Belford) with Midtown Manhattan (West 39th Street, including dedicated free shuttle buses) and Brookfield Place / Wall Street Pier 11. On Long Island's South Shore, Fire Island Ferries (Bay Shore), Sayville Ferry Service, and Davis Park Ferry (Patchogue) cross the Great South Bay to the car-free barrier island communities of Fire Island (Ocean Beach, Saltaire, Cherry Grove, and Fire Island Pines).",
+    "investimento": {
+      "valor": "US$ 140 milhões na modernização do terminal e estaleiro de Weehawken Port Imperial e renovação de motores de baixa emissão com subsídios da FTA / NJ Transit",
+      "moeda": "USD",
+      "fonte_id": "nyww-fi-1"
+    },
+    "proximas_entregas": {
+      "pt": "Introdução dos primeiros catamarãs híbrido-elétricos nas travessias de curta distância do Rio Hudson (Hoboken–Brookfield Place e Port Imperial–Midtown W 39th St).",
+      "en": "Introduction of the first hybrid-electric commuter catamarans on short-haul Hudson River crossings (Hoboken–Brookfield Place and Port Imperial–Midtown W 39th St)."
+    },
+    "lat": 40.72,
+    "lon": -73.6,
+    "zoom_inicial": 8,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "ny-waterway",
+      "hudson-river",
+      "hoboken",
+      "weehawken",
+      "manhattan",
+      "fire-island",
+      "long-island",
+      "nova-york",
+      "eua"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NY_Waterway_ferry_leaving_Hoboken.jpg/1280px-NY_Waterway_ferry_leaving_Hoboken.jpg",
+      "credito": "NY Waterway / Wikimedia Commons",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:NY_Waterway_ferry_leaving_Hoboken.jpg"
+    },
+    "fontes": [
+      {
+        "id": "nyww-fi-1",
+        "titulo": "NY Waterway & Fire Island Ferries — Hudson River Commuter Routes & Great South Bay Schedules",
+        "url": "https://www.nywaterway.com/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-ny-waterway-hudson-weehawken-hoboken-jersey-city-manhattan",
+        "nome": "Corredor Trans-Hudson NY Waterway: Weehawken Port Imperial / Hoboken Terminal / Paulus Hook – Midtown W 39th St & Brookfield Place / Wall St",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 65.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-fire-island-ferries-bay-shore-sayville-patchogue-ocean-beach",
+        "nome": "Travessias da Great South Bay para Fire Island: Bay Shore – Ocean Beach / Saltaire e Sayville – Cherry Grove / Fire Island Pines",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 55.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+    "slug": "lake-michigan-carferry-ss-badger-ludington-manitowoc-lake-express-milwaukee-muskegon-mackinac-island-ferries-grandes-lagos-eua",
+    "nome": "Ferries dos Grandes Lagos dos EUA — Lake Express Catamaran (Milwaukee–Muskegon), SS Badger (Ludington–Manitowoc no Lago Michigan) e Mackinac Island Ferries (Michigan e Wisconsin, EUA)",
+    "nome_pt": "Ferries dos Grandes Lagos dos EUA — Lake Express Catamaran (Milwaukee–Muskegon), SS Badger (Ludington–Manitowoc no Lago Michigan) e Mackinac Island Ferries (Michigan e Wisconsin, EUA)",
+    "nome_en": "U.S. Great Lakes Ferries — Lake Express High-Speed Catamaran (Milwaukee–Muskegon), SS Badger (Ludington–Manitowoc on Lake Michigan) & Mackinac Island Ferries (Michigan & Wisconsin, USA)",
+    "pais": "Estados Unidos",
+    "codigo_pais": "US",
+    "continente": "América do Norte",
+    "cidade": "Milwaukee / Manitowoc (Wisconsin) e Muskegon / Ludington / Mackinaw City / St. Ignace / Mackinac Island (Michigan)",
+    "cidade_principal": "Milwaukee / Manitowoc (WI) & Muskegon / Ludington / Mackinac Island (MI)",
+    "uf": "Michigan (MI) / Wisconsin (WI)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Lake Express LLC, Lake Michigan Carferry Service (SS Badger) e Shepler's / Mackinac Island Ferry Company",
+    "inauguracao": "1953 (SS Badger, Marco Histórico Nacional dos EUA) / 2004 (Catamarã de alta velocidade Lake Express)",
+    "extensao_km": 310.0,
+    "bitola": "Catamarã Ro-Pax de Alta Velocidade Austal USA (Lake Express, 34 nós), Carferry Histórico SS Badger (Rota US 10) e Ferries Hidroplanadores de Mackinac",
+    "eletrificacao": "Motores diesel marítimos de alta velocidade (Lake Express) e programa de eletrificação de docas no Estreito de Mackinac",
+    "velocidade_max_kmh": 63,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 4500,
+    "passageiros_ano": 1650000,
+    "ano_referencia": 2026,
+    "resumo_pt": "Cortando o Lago Michigan para evitar o longo contorno rodoviário por Chicago, duas autoestradas lacustres ligam Wisconsin a Michigan: ao sul, o catamarã rápido de alumínio Lake Express (primeiro ferry de alta velocidade de veículos dos EUA) cruza os 130 km entre Milwaukee e Muskegon em apenas 2h30; ao norte, o lendário carferry SS Badger (National Historic Landmark de 125 metros) forma o elo flutuante oficial da Rodovia Federal US-10 entre Manitowoc (WI) e Ludington (MI). No encontro dos lagos Michigan e Huron, as frotas da Shepler's e da Mackinac Island Ferry Company conectam Mackinaw City e St. Ignace à famosa Ilha Mackinac (onde automóveis são proibidos desde 1898 e o transporte ocorre por bicicletas e carruagens).",
+    "resumo_en": "Crossing Lake Michigan to bypass the congested highway detour around Chicago, two major lake corridors link Wisconsin and Michigan: to the south, the aluminum high-speed catamaran Lake Express (America's first high-speed auto-passenger ferry) crosses the 80 miles between Milwaukee and Muskegon in just 2.5 hours; to the north, the 410-foot National Historic Landmark carferry SS Badger forms the official floating continuation of U.S. Route 10 between Manitowoc (WI) and Ludington (MI). At the Straits of Mackinac between Lakes Michigan and Huron, Shepler's and Mackinac Island Ferry Company link Mackinaw City and St. Ignace to car-free Mackinac Island.",
+    "investimento": {
+      "valor": "US$ 65 milhões na modernização ambiental e de docas do SS Badger e do Lake Express e novos terminais no Estreito de Mackinac",
+      "moeda": "USD",
+      "fonte_id": "greatlakes-us-1"
+    },
+    "proximas_entregas": {
+      "pt": "Implantação de infraestrutura de carregamento elétrico nos píeres de Mackinaw City, St. Ignace e Mackinac Island para conversão elétrica da frota do Estreito de Mackinac.",
+      "en": "Deployment of shore-side charging infrastructure at Mackinaw City, St. Ignace, and Mackinac Island piers for electric conversion of the Straits of Mackinac fleet."
+    },
+    "lat": 44.1,
+    "lon": -86.5,
+    "zoom_inicial": 6,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "grandes-lagos",
+      "lago-michigan",
+      "ss-badger",
+      "lake-express",
+      "milwaukee",
+      "muskegon",
+      "mackinac-island",
+      "eua"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lake_Express_High_Speed_Ferry_Milwaukee.jpg/1280px-Lake_Express_High_Speed_Ferry_Milwaukee.jpg",
+      "credito": "Lake Express / Wikimedia Commons",
+      "licenca": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lake_Express_High_Speed_Ferry_Milwaukee.jpg"
+    },
+    "fontes": [
+      {
+        "id": "greatlakes-us-1",
+        "titulo": "Lake Express High-Speed Ferry, SS Badger Lake Michigan Carferry & Mackinac Island Ferries",
+        "url": "https://www.lake-express.com/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-lago-michigan-lake-express-milwaukee-muskegon-ss-badger-manitowoc-ludington",
+        "nome": "Travessias Trans-Lago Michigan: Milwaukee – Muskegon (Catamarã Rápido Lake Express) e Manitowoc – Ludington (SS Badger US-10)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 235.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-estreito-de-mackinac-st-ignace-mackinaw-city-mackinac-island",
+        "nome": "Estreito de Mackinac (Lagos Michigan e Huron): Mackinaw City e St. Ignace – Ilha Sem Carros de Mackinac Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 75.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+    "slug": "ostc-ms-chi-cheemaun-tobermory-south-baymouth-manitoulin-pelee-island-ferry-stq-tadoussac-matane-baie-comeau-canada",
+    "nome": "Ferries dos Grandes Lagos Canadenses e Estuário do São Lourenço — MS Chi-Cheemaun (Tobermory–Ilha Manitoulin), Pelee Island Ferry (Lago Erie) e STQ Matane–Baie-Comeau–Godbout (Ontário e Quebec, Canadá)",
+    "nome_pt": "Ferries dos Grandes Lagos Canadenses e Estuário do São Lourenço — MS Chi-Cheemaun (Tobermory–Ilha Manitoulin), Pelee Island Ferry (Lago Erie) e STQ Matane–Baie-Comeau–Godbout (Ontário e Quebec, Canadá)",
+    "nome_en": "Canadian Great Lakes & Lower St. Lawrence Ferries — MS Chi-Cheemaun (Tobermory–Manitoulin Island), Pelee Island Ferry (Lake Erie) & STQ Matane–Baie-Comeau–Godbout (Ontario & Quebec, Canada)",
+    "pais": "Canadá",
+    "codigo_pais": "CA",
+    "continente": "América do Norte",
+    "cidade": "Tobermory / South Baymouth (Ilha Manitoulin) / Leamington / Kingsville / Pelee Island (Ontário) e Matane / Baie-Comeau / Godbout / Rivière-du-Loup / Saint-Siméon (Quebec)",
+    "cidade_principal": "Tobermory / Ilha Manitoulin / Pelee Island (Ontário) & Matane / Baie-Comeau (Quebec)",
+    "uf": "Ontário (ON) / Quebec (QC)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Owen Sound Transportation Company (OSTC — Agência da Coroa de Ontário) e Société des traversiers du Québec (STQ / Traverse RDL)",
+    "inauguracao": "1974 (MS Chi-Cheemaun em Tobermory–Manitoulin) / 1978 (STQ Matane–Côte-Nord)",
+    "extensao_km": 260.0,
+    "bitola": "Ferry Ro-Pax Lacustre (MS Chi-Cheemaun, MV Pelee Islander II) e Ferry Ro-Pax Quebra-Gelo a GNL do Estuário do São Lourenço (NM F.-A.-Gauthier)",
+    "eletrificacao": "Primeiro ferry movido a Gás Natural Liquefeito (GNL) da América do Norte (NM F.-A.-Gauthier na travessia Matane–Baie-Comeau–Godbout)",
+    "velocidade_max_kmh": 38,
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 3800,
+    "passageiros_ano": 1380000,
+    "ano_referencia": 2026,
+    "resumo_pt": "Nos Grandes Lagos Canadenses (Ontário), a agência pública Owen Sound Transportation Company (OSTC) opera o icônico ferry MS Chi-Cheemaun ('Grande Canoa' em idioma Ojibwe, para 640 passageiros e 140 veículos), conectando a Península de Bruce em Tobermory a South Baymouth na Ilha Manitoulin (a maior ilha em lago de água doce do mundo, entre o Lago Huron e a Baía Georgiana) ao longo da Rodovia 6 de Ontário, além da travessia do Lago Erie (MV Pelee Islander II e MV Jiimaan) entre Leamington/Kingsville e Pelee Island (ponto habitado mais meridional do Canadá). No Baixo Estuário do Rio São Lourenço (Quebec), a STQ opera o ferry quebra-gelo a GNL NM F.-A.-Gauthier entre Matane (Gaspésie) e Baie-Comeau / Godbout (Côte-Nord), além da travessia Rivière-du-Loup–Saint-Siméon.",
+    "resumo_en": "On the Canadian Great Lakes in Ontario, the provincial agency Owen Sound Transportation Company (OSTC) operates the iconic Ro-Pax ferry MS Chi-Cheemaun ('Big Canoe' in Ojibwe, carrying 640 passengers and 140 vehicles), linking the Bruce Peninsula at Tobermory to South Baymouth on Manitoulin Island (the world's largest freshwater lake island, between Lake Huron and Georgian Bay) along Ontario Highway 6, alongside the Lake Erie service (MV Pelee Islander II and MV Jiimaan) between Leamington/Kingsville and Pelee Island. In the Lower St. Lawrence Estuary in Quebec, STQ operates North America's first LNG-powered ice-class ferry, NM F.-A.-Gauthier, linking Matane (Gaspésie) to Baie-Comeau and Godbout (Côte-Nord), as well as the Rivière-du-Loup–Saint-Siméon crossing.",
+    "investimento": {
+      "valor": "CAD 310 milhões no ferry a GNL NM F.-A.-Gauthier da STQ, no novo MV Pelee Islander II e na remotorização do MS Chi-Cheemaun em Ontário",
+      "moeda": "CAD",
+      "fonte_id": "ostc-stq-1"
+    },
+    "proximas_entregas": {
+      "pt": "Estudos de projeto do sucessor híbrido/elétrico de baixa emissão do MS Chi-Cheemaun pela OSTC e modernização dos terminais portuários de Matane e Baie-Comeau no Quebec.",
+      "en": "Design studies for a low-emission hybrid/electric successor to the MS Chi-Cheemaun by OSTC and terminal modernization at Matane and Baie-Comeau in Quebec."
+    },
+    "lat": 45.45,
+    "lon": -81.75,
+    "zoom_inicial": 6,
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "canada",
+      "ontario",
+      "quebec",
+      "chi-cheemaun",
+      "manitoulin",
+      "tobermory",
+      "pelee-island",
+      "stq",
+      "matane",
+      "baie-comeau"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/MS_Chi-Cheemaun_Tobermory.jpg/1280px-MS_Chi-Cheemaun_Tobermory.jpg",
+      "credito": "Owen Sound Transportation Company / Wikimedia Commons",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MS_Chi-Cheemaun_Tobermory.jpg"
+    },
+    "fontes": [
+      {
+        "id": "ostc-stq-1",
+        "titulo": "Owen Sound Transportation Company (MS Chi-Cheemaun & Pelee Island) & STQ Matane–Baie-Comeau–Godbout",
+        "url": "https://www.ontarioferries.com/",
+        "tipo": "oficial"
+      }
+    ],
+    "linhas": [
+      {
+        "id": "linha-ostc-chi-cheemaun-tobermory-manitoulin-pelee-island-ontario",
+        "nome": "Grandes Lagos de Ontário: Tobermory – South Baymouth Ilha Manitoulin (MS Chi-Cheemaun Lago Huron) e Leamington/Kingsville – Pelee Island (Lago Erie)",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 115.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-stq-estuario-sao-lourenco-matane-baie-comeau-godbout-rdl",
+        "nome": "Baixo Estuário do Rio São Lourenço (Quebec): Matane – Baie-Comeau / Godbout (NM F.-A.-Gauthier a GNL) e Rivière-du-Loup – Saint-Siméon",
+        "tipo": "barco",
+        "status": "operacao",
+        "extensao_km": 145.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
