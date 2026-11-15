@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-14T22:14:00-03:00",
+  "atualizado_em": "2026-11-14T22:44:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -1870,17 +1870,24 @@
         "pasig-river-ferry-manila-batangas-mindoro-cebu-bohol-supercat-filipinas",
         "saigon-waterbus-rio-saigon-expressos-vung-tau-con-dao-phu-quoc-vietna"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 116,
       "pais": "Fase Hidroviária Mundial #11 — Índia, Oriente Médio e Sul da Ásia (Kochi Water Metro, Mumbai Ferry e Ro-Pax Ghogha–Hazira, Hidrovia de Calcutá Hooghly, Abra e Dubai Ferry Emirados Árabes e Ferries de Mascate/Hormuz Omã)",
       "codigo": "HIDRO-INDIA-OM",
       "continente": "Ásia",
-      "prioridade": "alta",
-      "foco": "Incluir no mapa interativo (modalidade barco #00b8d4) o moderno Kochi Water Metro 100% elétrico em Kerala, as travessias da Baía de Mumbai (Gateway of India–Mandwa/Alibaug e Mora), os ferries urbanos no Rio Hooghly em Calcutá, a rede de Abras e Dubai Ferry no Dubai Creek/Marina e os catamarãs rápidos da Mwasalat em Omã (Shinas–Khasab)"
-    },
+      "status": "concluido",
+      "entregue_em": "2026-11-14",
+      "sistemas_adicionados": [
+        "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+        "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+        "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+        "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+        "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 117,
       "pais": "Fase Hidroviária Mundial #12 — África Fluvial, Lacustre e Atlântica (Ferry do Nilo Cairo/Assuã Egito, Lagos Ferry Services Lagferry Nigéria, Travessia Gorée e Rio Casamance Senegal, Hidrovia do Rio Congo Kinshasa–Brazzaville e Ferries do Lago Vitória)",

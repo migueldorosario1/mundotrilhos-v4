@@ -27572,5 +27572,387 @@
         "cor": "#00b8d4"
       }
     ]
+  },
+  {
+    "id": "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+    "slug": "kochi-water-metro-swtd-kerala-backwaters-alappuzha-kollam-india",
+    "nome_pt": "Kochi Water Metro (100% Elétrico Híbrido) e Rede Hidroviária Pública SWTD nos Backwaters de Kerala (Kochi–Alappuzha–Kottayam–Kollam, Índia)",
+    "nome_en": "Kochi Water Metro (Electric-Hybrid) & SWTD Kerala Backwaters Public Ferry Network (Kochi–Alappuzha–Kottayam–Kollam, India)",
+    "pais": "Índia",
+    "cidade": "Kochi (Ernakulam, Vypin, Fort Kochi, Bolgatty e Kakkanad), Alappuzha, Kottayam e Kollam",
+    "uf": "Kerala",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Kochi Water Metro Limited (KWML / Kochi Metro Rail Ltd — KMRL) & Kerala State Water Transport Department (SWTD)",
+    "inauguracao": "2023 (Inauguração comercial do Kochi Water Metro em abril de 2023; SWTD Kerala fundada em 1968)",
+    "extensao_km": 165.0,
+    "bitola": "Hidrovia lagunar metropolitana de Kochi (Lago Vembanad) e Hidrovia Nacional 3 (NW-3) nos Backwaters de Kerala",
+    "eletrificacao": "Catamarãs climatizados elétrico-híbridos com baterias LTO (Titanato de Lítio) de recarga super-rápida em 15 minutos construídos pelo Cochin Shipyard",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 45000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 140 milhões (implantação das 15 rotas, 38 terminais flutuantes e 78 catamarãs elétrico-híbridos do Kochi Water Metro financiado pelo KfW e Governo de Kerala)",
+      "moeda": "USD",
+      "fonte_id": "kwml-kmrl-swtd-kerala-india"
+    },
+    "proximas_entregas": {
+      "pt": "Conclusão dos 38 terminais flutuantes conectando 10 ilhas da Grande Kochi e replicação do modelo Water Metro em 18 cidades indianas.",
+      "en": "Completion of all 38 floating terminals linking 10 islands across Greater Kochi and replication of the Water Metro model across 18 Indian cities."
+    },
+    "resumo_pt": "Inaugurado em abril de 2023 como o primeiro sistema de transporte aquaviário da Índia com padrão, bilhetagem e arquitetura de metrô (integrado ao cartão Kochi1 do Metrô de Kochi), o Kochi Water Metro tornou-se vitrine mundial de mobilidade sustentável. Operado pela KMRL com catamarãs climatizados elétrico-híbridos construídos pelo Cochin Shipyard (equipados com baterias de titanato de lítio que recarregam em apenas 15 minutos nos píeres flutuantes), o sistema conecta High Court, Vypin, Fort Kochi, Bolgatty, South Chittoor, Eloor, Cheranalloor e o polo tecnológico de Kakkanad (via Vyttila Mobility Hub). Ao sul de Kochi, o Departamento Estadual de Transporte Aquaviário de Kerala (SWTD) opera dezenas de linhas públicas regulares de barcos e catamarãs solares (como o pioneiro navio solar Aditya em Vaikom) pelo Lago Vembanad e pelos canais de Alappuzha, Kottayam e Kollam.",
+    "resumo_en": "Launched in April 2023 as India's first metro-grade urban water transit network (fully integrated with the Kochi Metro's Kochi1 smartcard), the Kochi Water Metro is a global showcase for sustainable mobility. Utilizing air-conditioned electric-hybrid catamarans built by Cochin Shipyard with fast-charging Lithium Titanate Oxide (LTO) batteries, it links High Court, Vypin, Fort Kochi, Bolgatty and Vyttila–Kakkanad across 10 islands. Further south along National Waterway 3, the Kerala State Water Transport Department (SWTD) operates extensive public commuter boats and the pioneering solar ferry 'Aditya' across Lake Vembanad, Alappuzha, Kottayam and Kollam.",
+    "lat": 9.9816,
+    "lon": 76.2755,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "kwml-kmrl-swtd-kerala-india",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "índia",
+      "kochi water metro",
+      "kerala",
+      "fort kochi",
+      "vypin",
+      "vyttila",
+      "kakkanad",
+      "alappuzha",
+      "lago vembanad",
+      "catamarã elétrico",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kochi_Water_Metro_Boat_at_High_Court_Terminal.jpg/800px-Kochi_Water_Metro_Boat_at_High_Court_Terminal.jpg",
+      "credito": "Wikimedia Commons — Catamarã elétrico-híbrido do Kochi Water Metro no Terminal de High Court em Kerala (Índia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Kochi_Water_Metro"
+    },
+    "linhas": [
+      {
+        "id": "linha-kochi-water-metro-high-court-vypin-fort-kochi-vyttila-kakkanad",
+        "nome": "Kochi Water Metro (High Court – Vypin – Fort Kochi – Bolgatty & Vyttila Hub – Kakkanad InfoPark)",
+        "status": "operacao",
+        "extensao_km": 45.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-swtd-kerala-backwaters-alappuzha-kottayam-kollam",
+        "nome": "Hidrovia Estadual SWTD Backwaters de Kerala (Vaikom Solar Ferry – Alappuzha – Kottayam – Kollam)",
+        "status": "operacao",
+        "extensao_km": 120.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+    "slug": "ferries-baia-de-mumbai-m2m-mandwa-alibaug-dg-shipping-ghogha-hazira-india",
+    "nome_pt": "Ferries Ro-Pax e Catamarãs da Baía de Mumbai (Ferry Wharf / Gateway of India – Mandwa/Alibaug, Mora e Elephanta) e Golfo de Khambhat (Ghogha–Hazira, Índia)",
+    "nome_en": "Mumbai Harbour Ro-Pax & Catamaran Ferries (Ferry Wharf / Gateway of India – Mandwa/Alibaug, Mora & Elephanta) & Gulf of Khambhat (Ghogha–Hazira, India)",
+    "pais": "Índia",
+    "cidade": "Mumbai, Navi Mumbai (Belapur), Uran (Mora), Mandwa / Alibaug (Maharashtra); Surat (Hazira) e Bhavnagar (Ghogha, Gujarat)",
+    "uf": "Maharashtra / Gujarat",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "M2M Ferries (Ro-Pax Mumbai–Mandwa), Maldar Catamarans / Ajanta Launch, Maharashtra Maritime Board (MMB) & DG Sea Connect (Hazira–Ghogha)",
+    "inauguracao": "1880 (Navegação costeira na Baía de Mumbai e inauguração do serviço moderno Ro-Pax M2M Ferries em 2020 e Ghogha–Hazira em 2020)",
+    "extensao_km": 155.0,
+    "bitola": "Baía de Mumbai (Thane Creek / Mar Arábico) e Golfo de Khambhat no estado de Gujarat",
+    "eletrificacao": "Grandes navios ro-pax M2M-1 e Voyage Symphony, catamarãs rápidos climatizados e novos táxis aquáticos elétricos de Belapur/Mumbai",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 48000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 180 milhões (Terminal Doméstico de Cruzeiros e Ro-Pax de Bhaucha Dhakka / Ferry Wharf em Mumbai, píer de Mandwa e terminais do Golfo de Khambhat)",
+      "moeda": "USD",
+      "fonte_id": "mmb-m2m-ferries-mumbai-gujarat"
+    },
+    "proximas_entregas": {
+      "pt": "Novos catamarãs 100% elétricos (Water Taxi) conectando o Gateway of India e o Ferry Wharf ao novo Aeroporto Internacional de Navi Mumbai.",
+      "en": "New all-electric Water Taxi catamarans linking Gateway of India and Ferry Wharf directly to the new Navi Mumbai International Airport."
+    },
+    "resumo_pt": "Na costa oeste da Índia (Mar Arábico), duas grandes baías contam com corredores marítimos ro-pax e de passageiros de altíssimo impacto logístico. Na Região Metropolitana de Mumbai, o terminal de Bhaucha Dhakka (Ferry Wharf, Mazgaon) e o icônico píer do Gateway of India (Apollo Bunder) despacham o grande navio ro-pax da M2M Ferries e os catamarãs rápidos da Maldar e PNP rumo ao Porto de Mandwa (porta de entrada para Alibaug, reduzindo uma viagem rodoviária de 4 horas para apenas 45–60 minutos pelo mar), além das lanchas suburbanas para Mora (Uran), Rewas, Belapur (Navi Mumbai) e a Ilha de Elephanta (Patrimônio Mundial da UNESCO). Mais ao norte, no estado de Gujarat, o serviço ro-pax DG Sea Connect cruza o Golfo de Khambhat entre Hazira (Surat) e Ghogha (Bhavnagar), encurtando a distância entre o sul de Gujarat e a península de Saurashtra de 370 km por estrada para apenas 90 km pelo mar.",
+    "resumo_en": "Along India's western Arabian Sea coast, two major bays host transformative ro-pax and fast passenger corridors. In Greater Mumbai, Bhaucha Dhakka (Ferry Wharf) and the Gateway of India pier dispatch the M2M Ferries roll-on/roll-off vessel and high-speed catamarans across Mumbai Harbour to Mandwa Port (Alibaug) in 45–60 minutes, alongside commuter launches to Mora (Uran), Belapur (Navi Mumbai) and UNESCO-listed Elephanta Island. Further north in Gujarat, the DG Sea Connect ro-pax ferry crosses the Gulf of Khambhat between Hazira (Surat) and Ghogha (Bhavnagar), slashing a 370 km road journey down to a 90 km sea crossing.",
+    "lat": 18.9565,
+    "lon": 72.8515,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "mmb-m2m-ferries-mumbai-gujarat",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "mumbai",
+      "mandwa",
+      "alibaug",
+      "m2m ferries",
+      "gateway of india",
+      "elephanta",
+      "ghogha",
+      "hazira",
+      "surat",
+      "gujarat",
+      "índia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ferry_boats_at_Gateway_of_India_Mumbai.jpg/800px-Ferry_boats_at_Gateway_of_India_Mumbai.jpg",
+      "credito": "Wikimedia Commons — Embarcações de passageiros e Ro-Pax na Baía de Mumbai (Gateway of India / Mandwa) e Golfo de Khambhat (Índia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_in_Mumbai"
+    },
+    "linhas": [
+      {
+        "id": "linha-baia-de-mumbai-ferry-wharf-gateway-mandwa-alibaug-elephanta",
+        "nome": "Corredor Ro-Pax & Catamarãs da Baía de Mumbai (Ferry Wharf / Gateway of India – Mandwa/Alibaug, Mora & Ilha de Elephanta)",
+        "status": "operacao",
+        "extensao_km": 65.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-golfo-de-khambhat-ropax-hazira-surat-ghogha-bhavnagar",
+        "nome": "Ponte Marítima Ro-Pax do Golfo de Khambhat (Hazira / Surat – Ghogha / Bhavnagar, Gujarat)",
+        "status": "operacao",
+        "extensao_km": 90.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+    "slug": "wbtdc-ferries-rio-hooghly-calcuta-howrah-hidrovia-rio-brahmaputra-guwahati-majuli-india",
+    "nome_pt": "Ferries Metropolitanos do Rio Hooghly em Calcutá–Howrah (Hidrovia Nacional 1) e Travessias do Rio Brahmaputra em Guwahati e Ilha de Majuli (Índia)",
+    "nome_en": "Hooghly River Metropolitan Ferries in Kolkata–Howrah (National Waterway 1) & Brahmaputra River Crossings in Guwahati and Majuli Island (India)",
+    "pais": "Índia",
+    "cidade": "Calcutá (Millennium Park, Fairlie Place, Babu Ghat e Dakshineswar) e Howrah (Bengala Ocidental); Guwahati, North Guwahati, Jorhat (Nimati Ghat) e Ilha de Majuli (Assam)",
+    "uf": "Bengala Ocidental / Assam",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "West Bengal Transport Corporation (WBTC / Hooghly Nadi Jalapath Paribahan) & Directorate of Inland Water Transport (IWT Assam)",
+    "inauguracao": "1975 (Fundação da cooperativa metropolitana de ferries de Howrah–Calcutá no Rio Hooghly e navegação regular do Rio Brahmaputra em Assam)",
+    "extensao_km": 145.0,
+    "bitola": "Hidrovia Nacional 1 (NW-1: Rio Hooghly / Ganges em Calcutá) e Hidrovia Nacional 2 (NW-2: Rio Brahmaputra em Assam)",
+    "eletrificacao": "Primeiros ferries urbanos 100% elétricos da WBTC no Rio Hooghly ('Dheu') e catamarãs modernos de convés duplo no Rio Brahmaputra",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 260000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 230 milhões (Projetos WBIWTLSDP em Calcutá e AIWTDP em Assam financiados pelo Banco Mundial para novos terminais noturnos e ferries elétricos/híbridos)",
+      "moeda": "USD",
+      "fonte_id": "wbtc-kolkata-iwt-assam-world-bank"
+    },
+    "proximas_entregas": {
+      "pt": "Entrega de 22 novos ferries elétricos e híbridos nos ghats metropolitanos de Calcutá–Howrah e novo terminal multimodal de Guwahati Gateway em Assam.",
+      "en": "Delivery of 22 new electric and hybrid ferries across Kolkata–Howrah ghats and the new Guwahati Gateway multimodal river terminal in Assam."
+    },
+    "resumo_pt": "No leste e nordeste da Índia, dois dos maiores rios da Ásia abrigam sistemas de transporte hidroviário de massa que movimentam centenas de milhares de passageiros todos os dias. Na Região Metropolitana de Calcutá (Bengala Ocidental), a West Bengal Transport Corporation (WBTC) opera mais de 40 ghats (terminais fluviais) ao longo do Rio Hooghly (braço do Ganges, Hidrovia Nacional 1), tendo como coração o terminal de Howrah Station Ferry Ghat — conectado diretamente à Estação Ferroviária de Howrah, a mais movimentada da Índia —, de onde partem barcas a cada poucos minutos para Fairlie Place (BBD Bagh), Babu Ghat, Ahiritola, Belur Math e Dakshineswar, incluindo o novo ferry 100% elétrico 'Dheu'. Já no estado de Assam, ao longo do imenso Rio Brahmaputra (Hidrovia Nacional 2), a IWT Assam opera as travessias vitais entre Guwahati (Fancy Bazar / Kachari Ghat) e North Guwahati, além da ligação de ferries ro-pax entre Nimati Ghat (Jorhat) e Kamalabari na Ilha de Majuli — a maior ilha fluvial habitada do mundo.",
+    "resumo_en": "In eastern and northeastern India, two of Asia's mightiest rivers carry hundreds of thousands of daily ferry commuters. In Greater Kolkata (West Bengal), the West Bengal Transport Corporation (WBTC) operates over 40 river terminals (ghats) along the Hooghly River (National Waterway 1), anchored by the Howrah Station Ferry Ghat right outside India's busiest railway station, linking to Fairlie Place, Babu Ghat, Belur Math and Dakshineswar, recently introducing the all-electric ferry 'Dheu'. In Assam along the Brahmaputra River (National Waterway 2), IWT Assam runs high-frequency commuter ferries between Guwahati and North Guwahati as well as ro-pax ferries from Nimati Ghat (Jorhat) to Majuli, the world's largest inhabited river island.",
+    "lat": 22.5815,
+    "lon": 88.3445,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "wbtc-kolkata-iwt-assam-world-bank",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "calcutá",
+      "howrah",
+      "rio hooghly",
+      "ganges",
+      "wbtc",
+      "rio brahmaputra",
+      "guwahati",
+      "ilha de majuli",
+      "assam",
+      "índia",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hooghly_River_Ferry_near_Howrah_Bridge.jpg/800px-Hooghly_River_Ferry_near_Howrah_Bridge.jpg",
+      "credito": "Wikimedia Commons — Barcas metropolitanas no Rio Hooghly junto à Ponte de Howrah em Calcutá e ferries do Rio Brahmaputra (Índia)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Ferries_on_the_Hooghly_River"
+    },
+    "linhas": [
+      {
+        "id": "linha-rio-hooghly-howrah-station-fairlie-place-babughat-dakshineswar",
+        "nome": "Hidrovia Metropolitana do Rio Hooghly (Babu Ghat – Fairlie Place – Estação Howrah – Belur Math – Dakshineswar, Calcutá)",
+        "status": "operacao",
+        "extensao_km": 35.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-rio-brahmaputra-guwahati-north-guwahati-jorhat-majuli",
+        "nome": "Hidrovia Nacional 2 Rio Brahmaputra (Guwahati Kachari Ghat – North Guwahati & Nimati Ghat Jorhat – Ilha de Majuli, Assam)",
+        "status": "operacao",
+        "extensao_km": 110.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+    "slug": "rta-dubai-abra-dubai-ferry-water-bus-abu-dhabi-ferries-emirados-arabes",
+    "nome_pt": "Rede Hidroviária RTA de Dubai (Abras Tradicionais e Elétricos do Dubai Creek, Dubai Ferry e Water Bus) e Ferries de Abu Dhabi (Emirados Árabes Unidos)",
+    "nome_en": "Dubai RTA Marine Transit Network (Dubai Creek Traditional & Electric Abras, Dubai Ferry & Water Bus) & Abu Dhabi Ferries (United Arab Emirates)",
+    "pais": "Emirados Árabes Unidos",
+    "cidade": "Dubai (Deira, Bur Dubai, Al Ghubaiba, Dubai Canal, Dubai Marina e Bluewaters), Sharjah e Abu Dhabi (Jebel Dhanna e Ilha Delma)",
+    "uf": "Dubai / Sharjah / Abu Dhabi",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "urbano",
+    "operador": "Dubai Roads and Transport Authority (RTA Marine Agency — Abras, Dubai Ferry e Dubai Water Bus) & Abu Dhabi Maritime (AD Ports Group)",
+    "inauguracao": "1950 (Travessias motorizadas de Abras no Dubai Creek; inauguração do moderno Dubai Ferry pela RTA em 2011 e ligação Dubai–Sharjah em 2019)",
+    "extensao_km": 135.0,
+    "bitola": "Dubai Creek, Dubai Water Canal, Dubai Marina, costa do Golfo Pérsico (Dubai–Sharjah) e travessia insular de Abu Dhabi (Ilha Delma)",
+    "eletrificacao": "Primeiros Abras 100% elétricos autônomos do mundo, Abras elétricos climatizados e catamarãs rápidos do Dubai Ferry",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 46000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 175 milhões (expansão da rede marítima da RTA Dubai até 2030, novos Abras elétricos autônomos e novos ferries ro-pax para a Ilha Delma em Abu Dhabi)",
+      "moeda": "USD",
+      "fonte_id": "rta-dubai-marine-abu-dhabi-maritime-uae"
+    },
+    "proximas_entregas": {
+      "pt": "Ampliação da rede hidroviária da RTA Dubai para 158 km e 79 estações marítimas integradas ao Cartão Nol até 2030.",
+      "en": "Expansion of Dubai RTA's marine transit network to 158 km and 79 marine stations fully integrated with the Nol smartcard by 2030."
+    },
+    "resumo_pt": "Em Dubai, a Roads and Transport Authority (RTA) integra tradição centenária e alta tecnologia naval sob o mesmo cartão de transporte do Metrô e do VLT (Cartão Nol). No histórico canal de Dubai Creek — berço da cidade —, mais de 150 barcos 'Abra' (tradicionais de madeira e novas versões elétricas climatizadas, incluindo o primeiro Abra elétrico autônomo do mundo) cruzam continuamente entre as estações de Bur Dubai, Deira Old Souq, Al Sabkha e Baniyas por apenas 1 a 2 dirhams, conectando-se às estações Al Ghubaiba e Baniyas Square do Metrô de Dubai. Paralelamente, os catamarãs climatizados do Dubai Ferry (rotas FR1 a FR5) conectam Al Ghubaiba, Dubai Water Canal, Bluewaters Island e Dubai Marina Mall, além da linha inter-emirados até o Aquarium Marine Station em Sharjah, enquanto em Abu Dhabi a AD Ports opera os modernos ferries ro-pax entre Jebel Dhanna e a Ilha Delma.",
+    "resumo_en": "In Dubai, the Roads and Transport Authority (RTA) blends maritime heritage with cutting-edge naval technology under the unified Nol smartcard shared with the Dubai Metro and Tram. Across historic Dubai Creek, over 150 traditional wooden and modern electric Abras (including the world's first autonomous electric Abra) shuttle continuously between Bur Dubai, Deira Old Souq, Al Sabkha and Baniyas. Alongside them, air-conditioned Dubai Ferry catamarans link Al Ghubaiba Marine Transport Station (Metro interchange), Dubai Water Canal, Dubai Marina Mall and Sharjah Aquarium Marine Station, while Abu Dhabi Maritime operates ro-pax ferries to Delma Island.",
+    "lat": 25.2645,
+    "lon": 55.2925,
+    "zoom_inicial": 9.5,
+    "fontes": [
+      "rta-dubai-marine-abu-dhabi-maritime-uae",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "dubai",
+      "dubai creek",
+      "abra",
+      "dubai ferry",
+      "al ghubaiba",
+      "dubai marina",
+      "sharjah",
+      "rta dubai",
+      "abu dhabi",
+      "ilha delma",
+      "emirados árabes unidos",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dubai_Ferry_and_Abras_in_Dubai_Creek.jpg/800px-Dubai_Ferry_and_Abras_in_Dubai_Creek.jpg",
+      "credito": "Wikimedia Commons — Dubai Ferry e Abras da RTA no Dubai Creek e Dubai Marina (Emirados Árabes Unidos)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Water_transport_in_Dubai"
+    },
+    "linhas": [
+      {
+        "id": "linha-rta-dubai-creek-abras-dubai-ferry-marina-sharjah",
+        "nome": "RTA Dubai Creek Abras (Bur Dubai – Deira) & Dubai Ferry FR1/FR5 (Dubai Marina – Al Ghubaiba – Sharjah)",
+        "status": "operacao",
+        "extensao_km": 65.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-abu-dhabi-maritime-jebel-dhanna-delma-island",
+        "nome": "Ferry Ro-Pax do Golfo Pérsico — Abu Dhabi Maritime (Jebel Dhanna – Ilha Delma, Abu Dhabi)",
+        "status": "operacao",
+        "extensao_km": 70.0,
+        "cor": "#00b8d4"
+      }
+    ]
+  },
+  {
+    "id": "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma",
+    "slug": "nfc-mwasalat-ferries-shinas-khasab-musandam-ilha-masirah-estreito-de-ormuz-oma",
+    "nome_pt": "Catamarãs de Alta Velocidade Mwasalat / NFC (Shinas–Khasab/Musandam e Shannah–Ilha de Masirah) e Ferries do Estreito de Ormuz (Omã)",
+    "nome_en": "Mwasalat / NFC High-Speed Catamarans (Shinas–Khasab/Musandam & Shannah–Masirah Island) & Strait of Hormuz Ferries (Oman)",
+    "pais": "Omã",
+    "cidade": "Mascate, Shinas, Khasab e Dibba (Península de Musandam), Shannah e Ilha de Masirah (Omã); Qeshm e Bandar Abbas (Estreito de Ormuz)",
+    "uf": "Mascate / Al Batinah / Musandam / Ash Sharqiyah",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "misto",
+    "operador": "Mwasalat — National Ferries Company (NFC Omã, Grupo Asyad — catamarãs Shinas, Hormuz e Lima)",
+    "inauguracao": "2008 (Entrada em operação dos catamarãs recordistas mundiais de velocidade Shinas e Hormuz construídos pela Austal para a NFC de Omã)",
+    "extensao_km": 385.0,
+    "bitola": "Golfo de Omã, Estreito de Ormuz (ligação marítima ao exclave de Musandam) e Mar Arábico (Canal de Masirah)",
+    "eletrificacao": "Catamarãs ro-pax de alumínio de altíssima velocidade Austal 65m (Shinas e Hormuz, recordistas com até 52 nós / 96 km/h) e ferries ro-ro de Masirah",
+    "n_linhas": 2,
+    "n_estacoes": 4,
+    "passageiros_dia": 14000,
+    "ano_referencia": 2026,
+    "investimento": {
+      "valor": "US$ 160 milhões (modernização dos terminais portuários de Khasab, Shinas e Shannah/Masirah pelo Grupo Asyad / Mwasalat em Omã)",
+      "moeda": "USD",
+      "fonte_id": "asyad-mwasalat-nfc-oman"
+    },
+    "proximas_entregas": {
+      "pt": "Novos terminais de passageiros em Khasab e Masirah e expansão das conexões marítimas no Golfo de Omã.",
+      "en": "Upgraded passenger ferry terminals at Khasab and Masirah Island and expanded Gulf of Oman fast-ferry links."
+    },
+    "resumo_pt": "O Sultanato de Omã opera uma das frotas estatais de catamarãs ro-pax mais rápidas da história naval moderna por meio da Mwasalat (National Ferries Company — NFC, integrante do grupo logístico estatal Asyad). Para conectar o território principal de Omã ao estratégico exclave da Península de Musandam — guardiã do Estreito de Ormuz, separada do restante do país pelos Emirados Árabes Unidos —, os catamarãs gêmeos Shinas e Hormuz (capazes de atingir velocidades superiores a 50 nós / 95 km/h) operam entre o Porto de Shinas, Dibba, Lima e o Porto de Khasab, contornando os dramáticos fiordes da 'Noruega da Arábia'. Mais ao sul, no Mar Arábico, os ferries ro-pax de dupla proa da Mwasalat (Shannah, Masirah e Sinyar) realizam a travessia contínua de passageiros e veículos entre o continente (Porto de Shannah) e Hilf, na Ilha de Masirah — a maior ilha de Omã.",
+    "resumo_en": "The Sultanate of Oman operates one of the fastest state-owned roll-on/roll-off catamaran fleets in maritime history through Mwasalat (National Ferries Company — NFC, part of the Asyad Group). To link mainland Oman directly with the strategic Musandam Peninsula exclave guarding the Strait of Hormuz, the twin high-speed catamarans Shinas and Hormuz (capable of over 50 knots / 95 km/h) connect Shinas Port, Dibba, Lima and Khasab across the Gulf of Oman. Further south on the Arabian Sea, Mwasalat ro-pax ferries operate the continuous crossing between Shannah Port on the mainland and Hilf on Masirah Island.",
+    "lat": 26.2045,
+    "lon": 56.2485,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "asyad-mwasalat-nfc-oman",
+      "osm-odbl",
+      "wiki-cc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "omã",
+      "mwasalat",
+      "national ferries company",
+      "khasab",
+      "musandam",
+      "shinas",
+      "estreito de ormuz",
+      "ilha de masirah",
+      "shannah",
+      "golfo de omã",
+      "barco"
+    ],
+    "foto": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Khasab_Harbour_Musandam_Oman.jpg/800px-Khasab_Harbour_Musandam_Oman.jpg",
+      "credito": "Wikimedia Commons — Porto de Khasab na Península de Musandam e catamarãs de alta velocidade da Mwasalat / NFC (Omã)",
+      "licenca": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Transport_in_Oman"
+    },
+    "linhas": [
+      {
+        "id": "linha-mwasalat-nfc-golfo-de-oma-shinas-dibba-khasab-musandam",
+        "nome": "Expresso Marítimo de Musandam / Estreito de Ormuz (Porto de Shinas – Dibba – Lima – Porto de Khasab, Omã)",
+        "status": "operacao",
+        "extensao_km": 350.0,
+        "cor": "#00b8d4"
+      },
+      {
+        "id": "linha-mwasalat-ferry-shannah-ilha-de-masirah-oma",
+        "nome": "Ponte Marítima Ro-Pax da Ilha de Masirah (Porto de Shannah – Terminal de Hilf / Ilha de Masirah, Mar Arábico)",
+        "status": "operacao",
+        "extensao_km": 35.0,
+        "cor": "#00b8d4"
+      }
+    ]
   }
 ]
