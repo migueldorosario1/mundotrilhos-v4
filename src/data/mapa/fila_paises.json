@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T08:45:00-03:00",
+  "atualizado_em": "2026-11-16T09:16:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2828,17 +2828,25 @@
         "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
         "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 185,
       "codigo": "HIDRO-ASIA-ORIENTAL-SUDESTE-BAIA-DE-TOQUIO-OKINAWA-PEARL-RIVER-FILIPINAS-VII",
       "pais": "Fase Hidroviária Mundial #72 — Ásia Oriental e Sudeste Asiático: Tokyo-Wan Ferry (Kurihama–Kanaya) & Tokyo Mizube Line, Okinawa Kerama Islands (Zamami / Tokashiki / Ie), TurboJET / Cotai Water Jet (HK–Macau–Zhuhai), Montenegro / FastCat (Batangas–Mindoro–Romblon–Caticlan) e Koh Chang Ferries (Trat, Tailândia) VII",
       "continente": "Ásia",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 189,
+      "sistemas_adicionados": [
+        "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+        "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+        "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+        "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+        "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 186,
       "codigo": "HIDRO-AFRICA-OCEANO-INDICO-COMORES-MADAGASCAR-CABO-VERDE-GUINE-BISSAU-VII",
@@ -2892,6 +2900,14 @@
       "codigo": "HIDRO-EUROPA-CENTRAL-ORIENTAL-DANUBIO-BALCAS-MAR-NEGRO-VII",
       "pais": "Fase Hidroviária Mundial #78 — Europa Central, Bálcãs e Mar Negro: Navegação do Lago de Ohrid e Prespa (Macedônia do Norte / Albânia), Baía de Kotor (Kamenari–Lepetane Ferry, Montenegro), BKK D14 / Ferries do Danúbio Húngaro (Mohács / Kalocsa / Vác), Travessias Fluviais do Baixo Danúbio (Brăila–Smârdan / Bechet–Oryahovo, Romênia–Bulgária) e Lagos da Masúria (Giżycko–Mikołajki, Polônia) VII",
       "continente": "Europa",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 193,
+      "codigo": "HIDRO-SUL-SUDESTE-ASIATICO-BANGLADESH-INDIA-SRI-LANKA-MALDIVAS-INDONESIA-VII",
+      "pais": "Fase Hidroviária Mundial #79 — Sul e Sudeste Asiático: BIWTC Rocket Paddle Steamers & Launches Dhaka Sadarghat–Barisal–Khulna (Bangladesh), MTDC RTL Speedboat Network (Malé–Hulhumalé–Maafushi, Maldivas), Jaffna Islands Ferries Kurikadduwan–Nainativu–Delft (Sri Lanka), Ro-Pax Ghogha–Hazira & Okha–Beyt Dwarka (Gujarat, Índia) e ASDP Sape–Labuan Bajo–Komodo (Flores, Indonésia) VII",
+      "continente": "Ásia",
       "prioridade": "alta",
       "status": "pendente"
     }

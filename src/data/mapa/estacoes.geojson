@@ -67323,6 +67323,456 @@
           36.1489
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-tyo-e1",
+        "nome": "Asakusa Nitenmon & Azumabashi Water Bus Piers (Rio Sumida, Tóquio, Japão)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+        "linha_id": "hidro-eas72-tyo-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7978,
+          35.7111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-tyo-e2",
+        "nome": "Hinode Pier & Hamarikyu Gardens Terminal (Tokyo Cruise Ship, Minato, Tóquio)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+        "linha_id": "hidro-eas72-tyo-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7614,
+          35.6514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-tyo-e3",
+        "nome": "Odaiba Seaside Park & Toyosu Water Bus Terminals (Baía de Tóquio, Japão)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+        "linha_id": "hidro-eas72-tyo-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7765,
+          35.6285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-uraga-e4",
+        "nome": "Kurihama Ferry Terminal — Tokyo-Wan Ferry (Yokosuka, Kanagawa)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+        "linha_id": "hidro-eas72-uraga-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7156,
+          35.2225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-uraga-e5",
+        "nome": "Kanaya Ferry Terminal — Tokyo-Wan Ferry (Futtsu, Península de Bōsō, Chiba)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+        "linha_id": "hidro-eas72-uraga-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8189,
+          35.1719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-ker-e1",
+        "nome": "Naha Tomari Passenger Terminal — Tomarin (Porto de Naha, Okinawa, Japão)",
+        "sistema_id": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+        "linha_id": "hidro-eas72-ker-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6811,
+          26.2281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-ker-e2",
+        "nome": "Zamami Port & Aka Port (Ilhas de Zamami e Aka, Parque Nacional de Kerama, Okinawa)",
+        "sistema_id": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+        "linha_id": "hidro-eas72-ker-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3025,
+          26.2261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-ker-e3",
+        "nome": "Tokashiki Port & Kanegusuku Port (Ilhas de Tokashiki e Kumejima, Okinawa)",
+        "sistema_id": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+        "linha_id": "hidro-eas72-ker-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3656,
+          26.1986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-iej-e4",
+        "nome": "Motobu Ferry Terminal (Península de Motobu, Norte de Okinawa)",
+        "sistema_id": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+        "linha_id": "hidro-eas72-iej-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8889,
+          26.6406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-iej-e5",
+        "nome": "Iejima Ferry Terminal (Ilha de Ie / Mount Gusuku, Okinawa)",
+        "sistema_id": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+        "linha_id": "hidro-eas72-iej-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.795,
+          26.7119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-hkm-e1",
+        "nome": "Hong Kong–Macau Ferry Terminal — Shun Tak Centre (Sheung Wan, Ilha de Hong Kong)",
+        "sistema_id": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+        "linha_id": "hidro-eas72-hkm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1519,
+          22.2886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-hkm-e2",
+        "nome": "China Ferry Terminal — Harbour City (Tsim Sha Tsui, Kowloon, Hong Kong)",
+        "sistema_id": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+        "linha_id": "hidro-eas72-hkm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1678,
+          22.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-hkm-e3",
+        "nome": "Terminal Marítimo de Passageiros do Porto Exterior (Outer Harbour, Península de Macau)",
+        "sistema_id": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+        "linha_id": "hidro-eas72-hkm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5586,
+          22.1972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-tai-e4",
+        "nome": "Terminal Marítimo de Passageiros da Taipa — Pac On (Cotai / Aeroporto de Macau)",
+        "sistema_id": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+        "linha_id": "hidro-eas72-tai-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5772,
+          22.1628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-tai-e5",
+        "nome": "HKIA SkyPier Intermodal Terminal (Aeroporto Internacional de Hong Kong, Chek Lap Kok)",
+        "sistema_id": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+        "linha_id": "hidro-eas72-tai-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9394,
+          22.3164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bat-e1",
+        "nome": "Batangas Port Integrated Passenger Terminal (Cidade de Batangas, Luzon, Filipinas)",
+        "sistema_id": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+        "linha_id": "hidro-eas72-bat-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0442,
+          13.7556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bat-e2",
+        "nome": "Calapan Port & Balatero Port Puerto Galera (Mindoro Oriental, Filipinas)",
+        "sistema_id": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+        "linha_id": "hidro-eas72-bat-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1869,
+          13.4317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bat-e3",
+        "nome": "Poctoy Port Odiongan (Ilha de Tablas, Romblon) & Dangay Port Roxas (Mindoro)",
+        "sistema_id": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+        "linha_id": "hidro-eas72-bat-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.985,
+          12.4019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bor-e4",
+        "nome": "Caticlan Jetty Port & Ro-Ro Terminal (Malay, Aklan, Ilha de Panay, Filipinas)",
+        "sistema_id": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+        "linha_id": "hidro-eas72-bor-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9519,
+          11.9369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bor-e5",
+        "nome": "Cagban & Tambisaan Jetty Ports — Ilha de Boracay (Aklan, Western Visayas, Filipinas)",
+        "sistema_id": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+        "linha_id": "hidro-eas72-bor-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9336,
+          11.9469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-kch-e1",
+        "nome": "Ao Thammachat Ferry Pier (Laem Ngop, Província de Trat, Tailândia)",
+        "sistema_id": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+        "linha_id": "hidro-eas72-kch-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3194,
+          12.1819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-kch-e2",
+        "nome": "Ao Sappa Rot Ferry Pier (Norte da Ilha de Koh Chang, Trat, Tailândia)",
+        "sistema_id": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+        "linha_id": "hidro-eas72-kch-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2994,
+          12.1419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-kch-e3",
+        "nome": "Centre Point Pier (Laem Ngop) & Dan Kao Pier (Koh Chang Leste, Tailândia)",
+        "sistema_id": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+        "linha_id": "hidro-eas72-kch-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3694,
+          12.1689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bba-e4",
+        "nome": "Bang Bao Historic Stilt Pier (Sul de Koh Chang, Parque Nacional de Mu Ko Chang)",
+        "sistema_id": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+        "linha_id": "hidro-eas72-bba-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3369,
+          11.9725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bba-e5",
+        "nome": "Píeres Insulares de Koh Wai e Ao Nid (Koh Mak, Golfo da Tailândia Oriental)",
+        "sistema_id": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+        "linha_id": "hidro-eas72-bba-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3989,
+          11.9025
+        ]
+      }
     }
   ]
 }
