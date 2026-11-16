@@ -63260,6 +63260,298 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-and-l1",
+        "nome": "Corredor Andaman e Arquipélago de Ritchie (Diglipur / Rangat ↔ Port Blair ↔ Swaraj Dweep Havelock ↔ Shaheed Dweep Neil ↔ Hut Bay)",
+        "sistema_id": "dss-andaman-nicobar-nautika-makruzz-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-hut-bay-campbell-bay-lakshadweep-india",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.9915,
+            12.0315
+          ],
+          [
+            92.7352,
+            11.6742
+          ],
+          [
+            92.5415,
+            10.5925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-nic-l2",
+        "nome": "Corredor Oceânico Nicobar e Lakshadweep (Port Blair ↔ Car Nicobar ↔ Campbell Bay & Kochi ↔ Kavaratti / Agatti / Minicoy)",
+        "sistema_id": "dss-andaman-nicobar-nautika-makruzz-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-hut-bay-campbell-bay-lakshadweep-india",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7352,
+            11.6742
+          ],
+          [
+            93.9325,
+            7.0015
+          ],
+          [
+            72.6415,
+            10.5665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-tha-l1",
+        "nome": "Golfo da Tailândia Leste (Ban Phe Rayong ↔ Koh Samet & Laem Sok Trat ↔ Koh Mak ↔ Koh Kood)",
+        "sistema_id": "boonsiri-koh-kood-express-laem-sok-trat-koh-mak-koh-kood-koh-samed-ban-phe-koh-lipe-pak-bara-langkawi-tailandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.4485,
+            12.5715
+          ],
+          [
+            102.4595,
+            12.0465
+          ],
+          [
+            102.5652,
+            11.6985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-tha-l2",
+        "nome": "Corredor Internacional Andaman Sul (Pak Bara Satun ↔ Koh Tarutao ↔ Koh Lipe ↔ Langkawi Malásia)",
+        "sistema_id": "boonsiri-koh-kood-express-laem-sok-trat-koh-mak-koh-kood-koh-samed-ban-phe-koh-lipe-pak-bara-langkawi-tailandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            99.7215,
+            6.8492
+          ],
+          [
+            99.3052,
+            6.4865
+          ],
+          [
+            99.8425,
+            6.3085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-ntt-l1",
+        "nome": "Corredor Norte Flores–Alor–Timor (Kupang Bolok ↔ Larantuka / Ende Flores ↔ Kalabahi Alor)",
+        "sistema_id": "asdp-pelni-kupang-bolok-rote-sabu-larantuka-maumere-ende-waingapu-sumba-timor-ntt-indonesia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.5125,
+            -10.2285
+          ],
+          [
+            122.9885,
+            -8.3415
+          ],
+          [
+            124.5185,
+            -8.2185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-ntt-l2",
+        "nome": "Corredor Sul do Mar de Savu (Kupang Bolok / Tenau ↔ Pantai Baru / Ba'a Rote ↔ Seba Sabu ↔ Waingapu Sumba)",
+        "sistema_id": "asdp-pelni-kupang-bolok-rote-sabu-larantuka-maumere-ende-waingapu-sumba-timor-ntt-indonesia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.5125,
+            -10.2285
+          ],
+          [
+            123.0485,
+            -10.7285
+          ],
+          [
+            121.8425,
+            -10.4895
+          ],
+          [
+            120.2685,
+            -9.6485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-mal-l1",
+        "nome": "Eixo Central e Norte Ternate–Tidore–Halmahera–Morotai (Ternate Bastiong ↔ Tidore Rum ↔ Sofifi / Sidangoli ↔ Tobelo ↔ Daruba Morotai)",
+        "sistema_id": "asdp-ternate-bastiong-sofifi-tidore-halmahera-tobelo-morotai-bacan-sanana-maluku-utara-indonesia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.3825,
+            0.7715
+          ],
+          [
+            127.3985,
+            0.7295
+          ],
+          [
+            127.5585,
+            0.7352
+          ],
+          [
+            128.0085,
+            1.7285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-mal-l2",
+        "nome": "Eixo Sul das Molucas do Norte (Ternate Bastiong ↔ Babang / Labuha Ilha de Bacan ↔ Ilha de Obi / Sanana)",
+        "sistema_id": "asdp-ternate-bastiong-sofifi-tidore-halmahera-tobelo-morotai-bacan-sanana-maluku-utara-indonesia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.3825,
+            0.7715
+          ],
+          [
+            127.4952,
+            -0.6325
+          ],
+          [
+            125.9785,
+            -2.0542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-vis-l1",
+        "nome": "Corredor FastCraft Visayas Centrais (Cebu Pier 1 ↔ Tubigon / Tagbilaran Bohol ↔ Siquijor / Larena ↔ Dumaguete)",
+        "sistema_id": "oceanjet-supercat-lite-ferries-cebu-tagbilaran-tubigon-bohol-dumaguete-siquijor-larena-dapitan-camiguin-filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.9095,
+            10.2925
+          ],
+          [
+            123.8505,
+            9.6485
+          ],
+          [
+            123.5115,
+            9.2185
+          ],
+          [
+            123.3112,
+            9.3105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa62-min-l2",
+        "nome": "Corredor do Mar de Bohol e Camiguin (Tagbilaran / Dumaguete ↔ Dapitan Mindanao & Balingoan ↔ Benoni Ilha de Camiguin)",
+        "sistema_id": "oceanjet-supercat-lite-ferries-cebu-tagbilaran-tubigon-bohol-dumaguete-siquijor-larena-dapitan-camiguin-filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.3112,
+            9.3105
+          ],
+          [
+            123.3852,
+            8.6285
+          ],
+          [
+            124.7952,
+            9.1415
+          ]
+        ]
+      }
     }
   ]
 }

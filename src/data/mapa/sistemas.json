@@ -48220,5 +48220,326 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "dss-andaman-nicobar-nautika-makruzz-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-hut-bay-campbell-bay-lakshadweep-india",
+    "slug": "dss-andaman-nicobar-nautika-makruzz-port-blair-swaraj-dweep-havelock-shaheed-dweep-neil-hut-bay-campbell-bay-lakshadweep-india",
+    "nome_pt": "DSS Andaman & Nicobar Ferries + Catamarãs Nautika/Makruzz (Port Blair–Havelock–Neil–Campbell Bay) e LDCL Lakshadweep (Índia)",
+    "nome_en": "DSS Andaman & Nicobar Ferries + Nautika/Makruzz Catamarans (Port Blair–Havelock–Neil–Campbell Bay) & LDCL Lakshadweep Ferries (India)",
+    "pais": "Índia",
+    "cidade": "Port Blair / Swaraj Dweep (Havelock) / Campbell Bay / Kavaratti",
+    "uf": "Andaman & Nicobar / Lakshadweep",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Directorate of Shipping Services (DSS A&N) / Makruzz / Nautika / Lakshadweep Development Corp. (LDCL)",
+    "inauguracao": "1956",
+    "extensao_km": 1650,
+    "bitola": "N/A (Hidrovia Oceânica do Golfo de Bengala, Mar de Andaman e Mar das Laquedivas)",
+    "eletrificacao": "Navios Inter-Ilhas DSS (MV Sindhu / Nalanda) e Catamarãs de Alta Velocidade (Nautika / Makruzz)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 18500,
+    "ano_referencia": 2026,
+    "investimento": "Novos navios de passageiros de 500 lugares (MV Sindhu e MV Nalanda) construídos pelo Cochin Shipyard para Andaman e Lakshadweep",
+    "proximas_entregas": "Modernização dos píeres de Phoenix Bay, Swaraj Dweep, Campbell Bay e Kavaratti",
+    "resumo_pt": "As duas grandes frotas insulares oceânicas da Índia no Golfo de Bengala e no Mar Arábico: nas Ilhas Andaman e Nicobar, o Directorate of Shipping Services (DSS) e operadores de catamarãs de alta velocidade (Nautika, Makruzz e Green Ocean) conectam Port Blair (Phoenix Bay e Haddo Wharf) a Swaraj Dweep (Havelock), Shaheed Dweep (Neil Island), Rangat, Mayabunder, Diglipur, Little Andaman (Hut Bay), Car Nicobar, Nancowry e Campbell Bay (Great Nicobar); no lado ocidental, a LDCL conecta Kochi/Beypore aos atóis de Kavaratti, Agatti, Kadmat, Kalpeni e Minicoy no arquipélago de Lakshadweep.",
+    "resumo_en": "India's two oceanic island ferry networks in the Bay of Bengal and Arabian Sea: in the Andaman & Nicobar Islands, the Directorate of Shipping Services (DSS) and high-speed catamaran operators (Nautika and Makruzz) connect Port Blair to Swaraj Dweep (Havelock), Shaheed Dweep (Neil Island), Little Andaman, Car Nicobar and Campbell Bay; in the Arabian Sea, LDCL links Kochi to Kavaratti, Agatti and Minicoy in Lakshadweep.",
+    "lat": 11.6742,
+    "lon": 92.7352,
+    "zoom_inicial": 5.5,
+    "fontes": [
+      "dss-andaman",
+      "shipmin-in"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "india",
+      "andaman",
+      "nicobar",
+      "port-blair",
+      "havelock",
+      "lakshadweep",
+      "kavaratti"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-ssa62-and-l1",
+        "nome": "Corredor Andaman e Arquipélago de Ritchie (Diglipur / Rangat ↔ Port Blair ↔ Swaraj Dweep Havelock ↔ Shaheed Dweep Neil ↔ Hut Bay)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 450,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-ssa62-nic-l2",
+        "nome": "Corredor Oceânico Nicobar e Lakshadweep (Port Blair ↔ Car Nicobar ↔ Campbell Bay & Kochi ↔ Kavaratti / Agatti / Minicoy)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 1200,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "boonsiri-koh-kood-express-laem-sok-trat-koh-mak-koh-kood-koh-samed-ban-phe-koh-lipe-pak-bara-langkawi-tailandia",
+    "slug": "boonsiri-koh-kood-express-laem-sok-trat-koh-mak-koh-kood-koh-samed-ban-phe-koh-lipe-pak-bara-langkawi-tailandia",
+    "nome_pt": "Boonsiri & Koh Kood Express (Trat–Koh Mak–Koh Kood), Ferries de Ban Phe–Koh Samet e Pak Bara–Koh Lipe–Langkawi (Tailândia/Malásia)",
+    "nome_en": "Boonsiri & Koh Kood Express (Trat–Koh Mak–Koh Kood), Ban Phe–Koh Samet Ferries & Pak Bara–Koh Lipe–Langkawi Speedboats (Thailand/Malaysia)",
+    "pais": "Tailândia / Malásia",
+    "cidade": "Trat / Koh Kood / Rayong (Koh Samet) / Satun (Koh Lipe) / Langkawi",
+    "uf": "Trat / Rayong / Satun / Kedah",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Boonsiri High Speed Ferries / Koh Kood Express / Bundhaya Speed Boat / Tigerline Travel",
+    "inauguracao": "1998",
+    "extensao_km": 420,
+    "bitola": "N/A (Hidrovia Costeira e Insular do Golfo da Tailândia e Mar de Andaman)",
+    "eletrificacao": "Catamarãs de Alta Velocidade Boonsiri e Lanchas Internacionais Koh Lipe–Langkawi",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 15200,
+    "ano_referencia": 2026,
+    "investimento": "Ampliação do píer de Laem Sok (Trat) e modernização do terminal marítimo internacional de Pak Bara (Satun)",
+    "proximas_entregas": "Novos catamarãs híbridos para as rotas do Parque Nacional Marinho de Koh Samet e Koh Tarutao",
+    "resumo_pt": "Corredores insulares complementares do Golfo da Tailândia e da fronteira marítima Tailândia–Malásia no Mar de Andaman: no leste da Tailândia, os catamarãs da Boonsiri High Speed Ferries e Koh Kood Express ligam o Píer de Laem Sok (Trat) às ilhas de Koh Mak e Koh Kood, enquanto em Rayong ferries saem a cada 30 minutos de Ban Phe para Na Dan Pier em Koh Samet; no extremo sul do Mar de Andaman (província de Satun), lanchas rápidas e catamarãs conectam o Píer de Pak Bara a Koh Tarutao e Koh Lipe, além da travessia internacional de 90 minutos entre Koh Lipe (Tailândia) e Kuah / Telaga Harbour em Langkawi (Malásia).",
+    "resumo_en": "Key island ferry corridors of the eastern Gulf of Thailand and the Thai–Malaysian Andaman Sea border: in eastern Thailand, Boonsiri High Speed Ferries and Koh Kood Express link Laem Sok Pier (Trat) to Koh Mak and Koh Kood alongside Ban Phe–Koh Samet ferries in Rayong; in the southern Andaman Sea, speedboats and catamarans connect Pak Bara Pier (Satun) to Koh Tarutao and Koh Lipe, continuing across the maritime border to Langkawi (Malaysia).",
+    "lat": 11.6985,
+    "lon": 102.4595,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "md-go-th",
+      "boonsiriferry-th"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "tailandia",
+      "malasia",
+      "koh-kood",
+      "koh-mak",
+      "koh-samet",
+      "koh-lipe",
+      "langkawi",
+      "trat"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-ssa62-tha-l1",
+        "nome": "Golfo da Tailândia Leste (Ban Phe Rayong ↔ Koh Samet & Laem Sok Trat ↔ Koh Mak ↔ Koh Kood)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 190,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-ssa62-tha-l2",
+        "nome": "Corredor Internacional Andaman Sul (Pak Bara Satun ↔ Koh Tarutao ↔ Koh Lipe ↔ Langkawi Malásia)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 230,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "asdp-pelni-kupang-bolok-rote-sabu-larantuka-maumere-ende-waingapu-sumba-timor-ntt-indonesia",
+    "slug": "asdp-pelni-kupang-bolok-rote-sabu-larantuka-maumere-ende-waingapu-sumba-timor-ntt-indonesia",
+    "nome_pt": "ASDP, PELNI & Express Bahari em Nusa Tenggara Oriental (Kupang–Rote–Sabu–Alor–Larantuka/Flores–Waingapu/Sumba, Indonésia)",
+    "nome_en": "ASDP, PELNI & Express Bahari East Nusa Tenggara Network (Kupang–Rote–Sabu–Alor–Larantuka/Flores–Waingapu/Sumba, Indonesia)",
+    "pais": "Indonésia",
+    "cidade": "Kupang / Rote / Sabu / Alor / Larantuka / Ende / Waingapu",
+    "uf": "Nusa Tenggara Timur (NTT)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "PT ASDP Indonesia Ferry (Persero) / PT PELNI (Persero) / Express Bahari",
+    "inauguracao": "1982",
+    "extensao_km": 880,
+    "bitola": "N/A (Hidrovia Insular do Mar de Savu e Mar de Flores — Nusa Tenggara Oriental)",
+    "eletrificacao": "Ferries Ro-Pax ASDP (KMP Inerie II / Ile Labalekan), Navios PELNI e Catamarãs Rápidos Express Bahari",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 17500,
+    "ano_referencia": 2026,
+    "investimento": "Modernização do Porto de Bolok (Kupang), Pantai Baru (Rote) e Waingapu (Sumba)",
+    "proximas_entregas": "Novos ferries Ro-Pax da ASDP para as rotas do Mar de Savu",
+    "resumo_pt": "Espinha dorsal de transporte marítimo da província arquipelágica de Nusa Tenggara Oriental (NTT) no sudeste da Indonésia: a partir dos portos de Bolok e Tenau em Kupang (Timor Ocidental), os ferries Ro-Pax da ASDP e os catamarãs rápidos Express Bahari conectam diariamente a Ilha de Rote (o território mais meridional da Indonésia), a Ilha de Sabu, Kalabahi na Ilha de Alor, Larantuka/Adonara/Solor/Lembata e Ende na Ilha de Flores, além de Waingapu e Waikelo na Ilha de Sumba através do Mar de Savu.",
+    "resumo_en": "Maritime transport backbone of the archipelagic province of East Nusa Tenggara (NTT) in southeastern Indonesia: from Bolok and Tenau ports in Kupang (West Timor), ASDP Ro-Pax ferries and Express Bahari high-speed catamarans connect Rote Island (Indonesia's southernmost inhabited island), Sabu Island, Alor Island, Larantuka and Ende on Flores, and Waingapu on Sumba across the Savu Sea.",
+    "lat": -10.2285,
+    "lon": 123.5125,
+    "zoom_inicial": 6.4,
+    "fontes": [
+      "dephub-id",
+      "indonesiaferry-id"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "indonesia",
+      "kupang",
+      "timor",
+      "rote",
+      "flores",
+      "sumba",
+      "alor",
+      "ntt"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-ssa62-ntt-l1",
+        "nome": "Corredor Norte Flores–Alor–Timor (Kupang Bolok ↔ Larantuka / Ende Flores ↔ Kalabahi Alor)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 460,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-ssa62-ntt-l2",
+        "nome": "Corredor Sul do Mar de Savu (Kupang Bolok / Tenau ↔ Pantai Baru / Ba'a Rote ↔ Seba Sabu ↔ Waingapu Sumba)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 420,
+        "estacoes": 4
+      }
+    ]
+  },
+  {
+    "id": "asdp-ternate-bastiong-sofifi-tidore-halmahera-tobelo-morotai-bacan-sanana-maluku-utara-indonesia",
+    "slug": "asdp-ternate-bastiong-sofifi-tidore-halmahera-tobelo-morotai-bacan-sanana-maluku-utara-indonesia",
+    "nome_pt": "ASDP & Speedboats das Molucas do Norte (Ternate–Tidore–Sofifi/Halmahera–Tobelo–Morotai–Bacan–Sanana, Indonésia)",
+    "nome_en": "North Maluku ASDP Ferries & Speedboats (Ternate–Tidore–Sofifi/Halmahera–Tobelo–Morotai–Bacan–Sanana, Indonesia)",
+    "pais": "Indonésia",
+    "cidade": "Ternate / Tidore / Sofifi / Tobelo / Morotai / Labuha (Bacan)",
+    "uf": "Maluku Utara",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "PT ASDP Indonesia Ferry (Ternate) / PELNI / Frota Metropolitana de Speedboats Ternate–Sofifi–Tidore",
+    "inauguracao": "1985",
+    "extensao_km": 650,
+    "bitola": "N/A (Hidrovia Insular do Mar das Molucas e Mar de Halmahera)",
+    "eletrificacao": "Ferries Ro-Pax ASDP e Centenas de Lanchas Rápidas Urbanas (Ternate ↔ Sofifi e Ternate ↔ Tidore)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 24000,
+    "ano_referencia": 2026,
+    "investimento": "Ampliação dos terminais hidroviários de Bastiong/Mangga Dua (Ternate), Rum (Tidore) e Sofifi (capital provincial em Halmahera)",
+    "proximas_entregas": "Novos ferries Ro-Pax para a ligação Tobelo (Halmahera Norte) ↔ Daruba (Ilha de Morotai)",
+    "resumo_pt": "Vital sistema de transporte hidroviário das históricas Ilhas das Especiarias nas Molucas do Norte (Maluku Utara): como o centro econômico e o aeroporto principal ficam na pequena ilha vulcânica de Ternate enquanto a capital administrativa provincial fica em Sofifi (na grande ilha de Halmahera), ferries Ro-Pax da ASDP e dezenas de lanchas rápidas cruzam o estreito a cada poucos minutos entre Ternate (Bastiong/Kota Baru), Tidore (Rum) e Sofifi/Sidangoli, complementados pelas rotas insulares para Tobelo e Ilha de Morotai ao norte, e Ilha de Bacan (Labuha/Babang), Obi e Sanana (Ilhas Sula) ao sul.",
+    "resumo_en": "Vital water transit network of the historic Spice Islands in North Maluku, Indonesia: linking the economic and airport hub on volcanic Ternate Island across the strait to the provincial capital of Sofifi (on Halmahera Island) and neighboring Tidore Island via continuous ASDP Ro-Pax ferries and commuter speedboats, plus northern routes to Tobelo and Morotai Island and southern routes to Bacan and Sanana.",
+    "lat": 0.7715,
+    "lon": 127.3825,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "dephub-id",
+      "indonesiaferry-id"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "indonesia",
+      "molucas",
+      "ternate",
+      "tidore",
+      "sofifi",
+      "halmahera",
+      "morotai",
+      "bacan"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-ssa62-mal-l1",
+        "nome": "Eixo Central e Norte Ternate–Tidore–Halmahera–Morotai (Ternate Bastiong ↔ Tidore Rum ↔ Sofifi / Sidangoli ↔ Tobelo ↔ Daruba Morotai)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 320,
+        "estacoes": 4
+      },
+      {
+        "id": "hidro-ssa62-mal-l2",
+        "nome": "Eixo Sul das Molucas do Norte (Ternate Bastiong ↔ Babang / Labuha Ilha de Bacan ↔ Ilha de Obi / Sanana)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 330,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "oceanjet-supercat-lite-ferries-cebu-tagbilaran-tubigon-bohol-dumaguete-siquijor-larena-dapitan-camiguin-filipinas",
+    "slug": "oceanjet-supercat-lite-ferries-cebu-tagbilaran-tubigon-bohol-dumaguete-siquijor-larena-dapitan-camiguin-filipinas",
+    "nome_pt": "OceanJet, SuperCat & Lite Ferries nas Visayas Centrais e Mindanao (Cebu–Tagbilaran/Tubigon–Siquijor–Dumaguete–Dapitan e Camiguin, Filipinas)",
+    "nome_en": "OceanJet, SuperCat & Lite Ferries in Central Visayas & Northern Mindanao (Cebu–Tagbilaran/Tubigon–Siquijor–Dumaguete–Dapitan & Camiguin, Philippines)",
+    "pais": "Filipinas",
+    "cidade": "Cebu City / Tagbilaran (Bohol) / Siquijor / Dumaguete / Dapitan / Camiguin",
+    "uf": "Central Visayas / Northern Mindanao",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Ocean Fast Ferries (OceanJet) / SuperCat Fast Ferry Corp. / Lite Shipping Corp. (Lite Ferries) / Montenegro Lines",
+    "inauguracao": "1995",
+    "extensao_km": 480,
+    "bitola": "N/A (Hidrovia Inter-Ilhas do Estreito de Cebu e Mar de Bohol / Mindanao)",
+    "eletrificacao": "Catamarãs de Alta Velocidade OceanJet / SuperCat e Ferries Ro-Pax Lite Ferries",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 46000,
+    "ano_referencia": 2026,
+    "investimento": "Novo terminal de passageiros do Pier 1 de Cebu e expansão dos portos de Tagbilaran, Siquijor e Benoni (Camiguin)",
+    "proximas_entregas": "Novos catamarãs de 350 lugares da OceanJet para o triângulo Cebu–Bohol–Dumaguete–Siquijor",
+    "resumo_pt": "O mais denso corredor de catamarãs de alta velocidade (FastCrafts) e ferries Ro-Pax das Filipinas no Estreito de Cebu e Mar de Bohol: a partir dos Píeres 1 e 3 da Cidade de Cebu, a OceanJet, SuperCat e Lite Ferries operam partidas a cada hora para Tagbilaran e Tubigon na Ilha de Bohol, prosseguindo para Larena e Siquijor Pier na Ilha de Siquijor e para o Porto de Dumaguete em Negros Oriental; cruzando o Mar de Bohol até Mindanao, ferries diários conectam Dumaguete/Siquijor ao Porto de Pulauan em Dapitan (Zamboanga del Norte) e ligam Balingoan (Misamis Oriental) aos portos de Benoni e Balbagon na ilha vulcânica de Camiguin.",
+    "resumo_en": "The Philippines' densest high-speed catamaran (FastCraft) and Ro-Pax ferry network across the Cebu Strait and Bohol Sea: from Cebu City Piers 1 and 3, OceanJet, SuperCat and Lite Ferries run hourly services to Tagbilaran and Tubigon on Bohol Island, continuing to Siquijor Island and Dumaguete in Negros Oriental, while southern crossings link Dumaguete to Dapitan (Mindanao) and Balingoan to volcanic Camiguin Island.",
+    "lat": 9.6485,
+    "lon": 123.8505,
+    "zoom_inicial": 7.4,
+    "fontes": [
+      "ppa-ph",
+      "marina-ph"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "ferry",
+      "filipinas",
+      "cebu",
+      "bohol",
+      "tagbilaran",
+      "siquijor",
+      "dumaguete",
+      "camiguin"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-ssa62-vis-l1",
+        "nome": "Corredor FastCraft Visayas Centrais (Cebu Pier 1 ↔ Tubigon / Tagbilaran Bohol ↔ Siquijor / Larena ↔ Dumaguete)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 240,
+        "estacoes": 4
+      },
+      {
+        "id": "hidro-ssa62-min-l2",
+        "nome": "Corredor do Mar de Bohol e Camiguin (Tagbilaran / Dumaguete ↔ Dapitan Mindanao & Balingoan ↔ Benoni Ilha de Camiguin)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 240,
+        "estacoes": 3
+      }
+    ]
   }
 ]
