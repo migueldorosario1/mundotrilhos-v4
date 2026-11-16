@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T00:01:00-03:00",
+  "atualizado_em": "2026-11-16T00:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2393,6 +2393,22 @@
         "travessias-delta-do-parnaiba-porto-dos-tatus-ilha-grande-tutoya-caju-lencois-maranhenses-preguicas-cabure-atins-pi-ma",
         "hidrovia-rio-araguaia-aruana-luiz-alves-sao-felix-do-araguaia-ilha-do-bananal-santa-terezinha-conceicao-do-araguaia-go-mt-to-pa"
       ]
+    },
+    {
+      "ordem": 167,
+      "codigo": "HIDRO-EUROPA-CENTRAL-ORIENTAL-DANUBIO-ELBA-ODER-VISTULA-BALCAS-V",
+      "pais": "Fase Hidroviária Mundial #55 — Europa Central, Bacia do Danúbio, Elba, Oder, Vístula e Bálcãs V (Twin City Liner Viena–Bratislava e DDSG Blue Danube Vale de Wachau na Áustria/Eslováquia; MAHART PassNave Curva do Danúbio Budapeste–Szentendre–Visegrád–Esztergom e BAHART Lago Balaton na Hungria; Żegluga Gdańska Baía de Gdańsk–Hel, Balsas ZTM do Vístula em Varsóvia e Ferries de Świnoujście na Polônia; PID Pražské přívozy no Moldava em Praga, Navegação do Elba Ústí–Hřensko e DVB Elbfähren Dresden–Meißen na Tchéquia/Alemanha; e Komani Lake Ferry Koman–Fierzë na Albânia e Navrom Delta Tulcea–Sulina–Sfântu Gheorghe no Delta do Danúbio na Romênia)",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 171,
+      "sistemas_adicionados": [
+        "twin-city-liner-viena-bratislava-ddsg-blue-danube-wachau-krems-melk-donau-oesterreich-eslovaquia",
+        "mahart-passnave-budapeste-szentendre-visegrad-esztergom-bahart-lago-balaton-szantod-tihany-fonyod-badacsony-hungria",
+        "zegluga-gdanska-gdansk-sopot-gdynia-hel-puck-ztm-warszawa-wisla-ferries-vistula-swinoujscie-uznam-wolin-polonia",
+        "pid-prazske-privozy-vltava-praga-labska-plavba-elba-usti-nad-labem-hrensko-sachsische-dampfschiffahrt-dresden-meissen-tchequia-alemanha",
+        "komani-lake-ferry-koman-fierze-drin-albania-navrom-delta-tulcea-sulina-sfantu-gheorghe-crisan-delta-do-danubio-romenia"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2542,14 +2558,6 @@
       ]
     },
     {
-      "ordem": 167,
-      "codigo": "HIDRO-EUROPA-CENTRAL-ORIENTAL-DANUBIO-ELBA-ODER-VISTULA-BALCAS-V",
-      "pais": "Fase Hidroviária Mundial #55 — Europa Central, Bacia do Danúbio, Elba, Oder, Vístula e Bálcãs V",
-      "continente": "Europa",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (Twin City Liner Viena–Bratislava e MAHART PassNave Budapeste–Szentendre–Visegrád–Esztergom no Danúbio, BAHART Lago Balaton Szántód–Tihany na Hungria, HADAG/Elbfähre e Weiße Flotte Dresden no Elba, Żegluga Gdańska Baía de Gdańsk–Hel–Sopot na Polônia e Komani Lake Ferry Koman–Fierzë na Albânia)"
-    },
-    {
       "ordem": 168,
       "codigo": "HIDRO-AMERICA-DO-NORTE-COSTA-LESTE-OESTE-GRANDES-LAGOS-CANADA-EUA-V",
       "pais": "Fase Hidroviária Mundial #56 — América do Norte Costeira, Grandes Lagos, São Lourenço e Pacífico Noroeste V",
@@ -2572,6 +2580,30 @@
       "continente": "Ásia",
       "prioridade": "alta",
       "foco": "Transporte por barco (Ferries de Zhoushan–Putuoshan–Shengsi e Dalian–Changhai na China, Ogasawara Kaiun Tóquio–Chichijima e Tokai Kisen Ilhas Izu, Sakurajima Ferry em Kagoshima e Ishigaki–Yaeyama em Okinawa no Japão, Ulleungdo–Dokdo Ferries na Coreia do Sul e Ferries de Matsu/Kinmen–Xiamen em Taiwan)"
+    },
+    {
+      "ordem": 171,
+      "codigo": "HIDRO-ORIENTE-MEDIO-MAR-NEGRO-CAUCASO-TURQUIA-EGITO-V",
+      "pais": "Fase Hidroviária Mundial #59 — Mar de Mármara, Dardanelos, Mar Negro, Nilo e Golfo Pérsico V",
+      "continente": "Ásia e África",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (GESTAŞ Çanakkale–Eceabat–Gökçeada–Bozcaada nos Dardanelos, İDO Bandırma–Yenikapı e BUDO Bursa Mudanya–Istambul Eminönü na Turquia, Travessias Fluviais do Nilo em Assiut/Minya/Qena e Ferries do Canal de Suez em Qantara/Suez no Egito, e Ferries de Bandar Lengeh–Kish–Abu Musa no Golfo Pérsico)"
+    },
+    {
+      "ordem": 172,
+      "codigo": "HIDRO-MEDITERRANEO-ITALIA-FRANCA-ESPANHA-GRECIA-CROACIA-V",
+      "pais": "Fase Hidroviária Mundial #60 — Mediterrâneo, Córsega, Elba, Egadi, Peloponeso e Dalmácia V",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Toremar/Moby Piombino–Portoferraio na Ilha de Elba e Giglio, Liberty Lines Trapani–Favignana–Levanzo–Marettimo nas Ilhas Égadi e Milazzo–Eólias na Sicília, Corsica Linea/La Méridionale Marselha–Ajaccio–Bastia–Propriano, Saronic Ferries Pireu–Egina–Poros–Hidra–Spetses na Grécia e Jadrolinija Zadar–Dugi Otok–Lošinj na Croácia)"
+    },
+    {
+      "ordem": 173,
+      "codigo": "HIDRO-AFRICA-GRANDES-LAGOS-BACIA-DO-CONGO-SENEGAL-ZAMBEZE-V",
+      "pais": "Fase Hidroviária Mundial #61 — África: Grandes Lagos, Rio Zambeze, Rio Senegal, Lago Kivu e Lago Tanganica V",
+      "continente": "África",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Lago Kivu Goma–Bukavu e Rubavu–Karongi–Rusizi na RD Congo/Ruanda, Lago Tanganica Mpulungu–Kigoma–Kalemie–Bujumbura, Kazungula/Zambeze e Lago Kariba Siavonga–Binga na Zâmbia/Zimbábue, e Travessias do Rio Senegal Rosso e Ilha de Carabane em Casamance no Senegal)"
     }
   ]
 }

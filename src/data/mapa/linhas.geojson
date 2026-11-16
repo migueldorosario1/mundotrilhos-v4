@@ -61260,6 +61260,286 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-dan-l1",
+        "nome": "Twin City Liner Express (Wien Schwedenplatz ↔ Hainburg ↔ Bratislava Passenger Port)",
+        "sistema_id": "twin-city-liner-viena-bratislava-ddsg-blue-danube-wachau-krems-melk-donau-oesterreich-eslovaquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3778,
+            48.2119
+          ],
+          [
+            16.9425,
+            48.1492
+          ],
+          [
+            17.1128,
+            48.1402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-dan-l2",
+        "nome": "DDSG Wachau & Donaufähren (Krems an der Donau ↔ Dürnstein / Spitz ↔ Melk)",
+        "sistema_id": "twin-city-liner-viena-bratislava-ddsg-blue-danube-wachau-krems-melk-donau-oesterreich-eslovaquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.5892,
+            48.4032
+          ],
+          [
+            15.4205,
+            48.3652
+          ],
+          [
+            15.3282,
+            48.2312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-hun-l1",
+        "nome": "MAHART Curva do Danúbio (Budapest Vigadó tér ↔ Szentendre / Visegrád ↔ Esztergom)",
+        "sistema_id": "mahart-passnave-budapeste-szentendre-visegrad-esztergom-bahart-lago-balaton-szantod-tihany-fonyod-badacsony-hungria",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0478,
+            47.4958
+          ],
+          [
+            18.9735,
+            47.7925
+          ],
+          [
+            18.7345,
+            47.7955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-hun-l2",
+        "nome": "BAHART Lago Balaton (Szántód Rév ↔ Tihany Rév ↔ Fonyód / Badacsony)",
+        "sistema_id": "mahart-passnave-budapeste-szentendre-visegrad-esztergom-bahart-lago-balaton-szantod-tihany-fonyod-badacsony-hungria",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9042,
+            46.8795
+          ],
+          [
+            17.8925,
+            46.8928
+          ],
+          [
+            17.5785,
+            46.7865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-pol-l1",
+        "nome": "Catamarãs Baía de Gdańsk (Gdańsk Targ Rybny ↔ Sopot / Gdynia ↔ Port Morski Hel)",
+        "sistema_id": "zegluga-gdanska-gdansk-sopot-gdynia-hel-puck-ztm-warszawa-wisla-ferries-vistula-swinoujscie-uznam-wolin-polonia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.6585,
+            54.3532
+          ],
+          [
+            18.5542,
+            54.5188
+          ],
+          [
+            18.8012,
+            54.6025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-pol-l2",
+        "nome": "Travessias Fluviais do Vístula e Estuário do Oder (Varsóvia Podzamcze ↔ Świnoujście Warszów–Centrum)",
+        "sistema_id": "zegluga-gdanska-gdansk-sopot-gdynia-hel-puck-ztm-warszawa-wisla-ferries-vistula-swinoujscie-uznam-wolin-polonia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.0315,
+            52.2425
+          ],
+          [
+            21.0425,
+            52.2385
+          ],
+          [
+            14.2595,
+            53.9085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-czde-l1",
+        "nome": "PID Pražské přívozy & Elba Boêmio (Praga Vltava P1/P2 ↔ Děčín / Hřensko)",
+        "sistema_id": "pid-prazske-privozy-vltava-praga-labska-plavba-elba-usti-nad-labem-hrensko-sachsische-dampfschiffahrt-dresden-meissen-tchequia-alemanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4142,
+            50.0685
+          ],
+          [
+            14.0415,
+            50.6585
+          ],
+          [
+            14.2375,
+            50.8742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-czde-l2",
+        "nome": "Hidrovia Saxônica do Elba & DVB Elbfähren (Bad Schandau ↔ Dresden Terrassenufer ↔ Meißen)",
+        "sistema_id": "pid-prazske-privozy-vltava-praga-labska-plavba-elba-usti-nad-labem-hrensko-sachsische-dampfschiffahrt-dresden-meissen-tchequia-alemanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1525,
+            50.9168
+          ],
+          [
+            13.7432,
+            51.0545
+          ],
+          [
+            13.4735,
+            51.1642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-alb-l1",
+        "nome": "Komani Lake Ferry — Desfiladeiro do Rio Drin (Koman ↔ Peace Island ↔ Fierzë / Tropojë)",
+        "sistema_id": "komani-lake-ferry-koman-fierze-drin-albania-navrom-delta-tulcea-sulina-sfantu-gheorghe-crisan-delta-do-danubio-romenia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.8265,
+            42.1052
+          ],
+          [
+            19.9125,
+            42.1845
+          ],
+          [
+            20.0255,
+            42.2615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-rom-l2",
+        "nome": "Navrom Delta do Danúbio (Tulcea ↔ Crișan / Sulina ↔ Sfântu Gheorghe)",
+        "sistema_id": "komani-lake-ferry-koman-fierze-drin-albania-navrom-delta-tulcea-sulina-sfantu-gheorghe-crisan-delta-do-danubio-romenia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.8025,
+            45.1812
+          ],
+          [
+            29.6585,
+            45.1565
+          ],
+          [
+            29.5965,
+            44.8895
+          ]
+        ]
+      }
     }
   ]
 }
