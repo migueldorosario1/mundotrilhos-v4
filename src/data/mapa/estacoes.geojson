@@ -64173,6 +64173,456 @@
           62.8885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-cam-e1",
+        "nome": "Porto Hidroviário de Camamu (Baía de Camamu, Costa do Dendê, BA)",
+        "sistema_id": "travessias-baia-de-camamu-barra-grande-campinho-maraU-boipeba-valenca-cairu-rio-paraguacu-maragojipe-cachoeira-ba",
+        "linha_id": "hidro-br12-cam-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1025,
+          -13.9452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-cam-e2",
+        "nome": "Píer de Barra Grande & Campinho (Península de Maraú, Baía de Camamu, BA)",
+        "sistema_id": "travessias-baia-de-camamu-barra-grande-campinho-maraU-boipeba-valenca-cairu-rio-paraguacu-maragojipe-cachoeira-ba",
+        "linha_id": "hidro-br12-cam-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9415,
+          -13.8865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-cam-e3",
+        "nome": "Píer da Ilha Grande de Camamu & Vila de Cajaíba (Baía de Camamu, BA)",
+        "sistema_id": "travessias-baia-de-camamu-barra-grande-campinho-maraU-boipeba-valenca-cairu-rio-paraguacu-maragojipe-cachoeira-ba",
+        "linha_id": "hidro-br12-cam-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0185,
+          -13.9185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-par-e4",
+        "nome": "Cais Municipal de Maragojipe — Baía do Iguape (Rio Paraguaçu, BA)",
+        "sistema_id": "travessias-baia-de-camamu-barra-grande-campinho-maraU-boipeba-valenca-cairu-rio-paraguacu-maragojipe-cachoeira-ba",
+        "linha_id": "hidro-br12-par-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9185,
+          -12.7785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-par-e5",
+        "nome": "Porto Fluvial de Cachoeira & São Félix (Recôncavo Baiano, Rio Paraguaçu, BA)",
+        "sistema_id": "travessias-baia-de-camamu-barra-grande-campinho-maraU-boipeba-valenca-cairu-rio-paraguacu-maragojipe-cachoeira-ba",
+        "linha_id": "hidro-br12-par-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9542,
+          -12.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-bsf-e1",
+        "nome": "Porto das Balsas de Penedo (Baixo Rio São Francisco, Alagoas)",
+        "sistema_id": "travessias-baixo-sao-francisco-penedo-neopolis-propria-porto-real-do-colegio-piacabucu-brejo-grande-gararu-traipu-al-se",
+        "linha_id": "hidro-br12-bsf-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5825,
+          -10.2925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-bsf-e2",
+        "nome": "Terminal Hidroviário de Neópolis & Santana do São Francisco (Sergipe)",
+        "sistema_id": "travessias-baixo-sao-francisco-penedo-neopolis-propria-porto-real-do-colegio-piacabucu-brejo-grande-gararu-traipu-al-se",
+        "linha_id": "hidro-br12-bsf-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5785,
+          -10.3185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-bsf-e3",
+        "nome": "Cais de Piaçabuçu & Brejo Grande — Foz do Rio São Francisco (AL/SE)",
+        "sistema_id": "travessias-baixo-sao-francisco-penedo-neopolis-propria-porto-real-do-colegio-piacabucu-brejo-grande-gararu-traipu-al-se",
+        "linha_id": "hidro-br12-bsf-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.4325,
+          -10.4085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-bsf-e4",
+        "nome": "Porto Fluvial de Propriá ↔ Porto Real do Colégio (SE/AL)",
+        "sistema_id": "travessias-baixo-sao-francisco-penedo-neopolis-propria-porto-real-do-colegio-piacabucu-brejo-grande-gararu-traipu-al-se",
+        "linha_id": "hidro-br12-bsf-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.8385,
+          -10.2115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-bsf-e5",
+        "nome": "Travessia Fluvial de Traipu ↔ Gararu / Ilha do Ouro (AL/SE)",
+        "sistema_id": "travessias-baixo-sao-francisco-penedo-neopolis-propria-porto-real-do-colegio-piacabucu-brejo-grande-gararu-traipu-al-se",
+        "linha_id": "hidro-br12-bsf-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0025,
+          -9.9715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-ita-e1",
+        "nome": "Terminal Ferry Boat Itajaí Centro — Rua Prefeito Paulo Bauer (Itajaí, SC)",
+        "sistema_id": "travessias-rio-itajai-acu-itajai-navegantes-ferry-boat-laguna-ilha-cabo-de-santa-marta-camacho-sc",
+        "linha_id": "hidro-br12-ita-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6552,
+          -26.9025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-ita-e2",
+        "nome": "Terminal Ferry Boat Navegantes Centro — Av. João Sacavém (Navegantes, SC)",
+        "sistema_id": "travessias-rio-itajai-acu-itajai-navegantes-ferry-boat-laguna-ilha-cabo-de-santa-marta-camacho-sc",
+        "linha_id": "hidro-br12-ita-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6525,
+          -26.8985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-ita-e3",
+        "nome": "Terminal Ferry Boat Barra do Rio (Itajaí) ↔ Machados (Navegantes, Rio Itajaí-Açu, SC)",
+        "sistema_id": "travessias-rio-itajai-acu-itajai-navegantes-ferry-boat-laguna-ilha-cabo-de-santa-marta-camacho-sc",
+        "linha_id": "hidro-br12-ita-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6815,
+          -26.8852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-lag-e4",
+        "nome": "Trapiche das Balsas da Barra — Molhes de Laguna (Laguna, SC)",
+        "sistema_id": "travessias-rio-itajai-acu-itajai-navegantes-ferry-boat-laguna-ilha-cabo-de-santa-marta-camacho-sc",
+        "linha_id": "hidro-br12-lag-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7725,
+          -28.4942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-lag-e5",
+        "nome": "Rampa da Passagem da Barra — Ilha / Farol de Santa Marta (Laguna, SC)",
+        "sistema_id": "travessias-rio-itajai-acu-itajai-navegantes-ferry-boat-laguna-ilha-cabo-de-santa-marta-camacho-sc",
+        "linha_id": "hidro-br12-lag-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7752,
+          -28.4985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-jav-e1",
+        "nome": "Porto Fluvial de Tabatinga (Brasil) & Muelle de Leticia / Santa Rosa (Tríplice Fronteira AM)",
+        "sistema_id": "hidrovia-rio-javari-alto-solimoes-tabatinga-benjamin-constant-atalaia-do-norte-palmeiras-do-javari-sao-paulo-de-olivenca-am",
+        "linha_id": "hidro-br12-jav-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9415,
+          -4.2315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-jav-e2",
+        "nome": "Terminal Hidroviário de Benjamin Constant (IP4 — Foz do Rio Javari, AM)",
+        "sistema_id": "hidrovia-rio-javari-alto-solimoes-tabatinga-benjamin-constant-atalaia-do-norte-palmeiras-do-javari-sao-paulo-de-olivenca-am",
+        "linha_id": "hidro-br12-jav-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0325,
+          -4.3752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-jav-e3",
+        "nome": "Porto Fluvial de Atalaia do Norte & Palmeiras do Javari (Rio Javari, AM)",
+        "sistema_id": "hidrovia-rio-javari-alto-solimoes-tabatinga-benjamin-constant-atalaia-do-norte-palmeiras-do-javari-sao-paulo-de-olivenca-am",
+        "linha_id": "hidro-br12-jav-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1915,
+          -4.3712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-sol-e4",
+        "nome": "Terminal Hidroviário de São Paulo de Olivença & Amaturá (IP4 — Alto Solimões, AM)",
+        "sistema_id": "hidrovia-rio-javari-alto-solimoes-tabatinga-benjamin-constant-atalaia-do-norte-palmeiras-do-javari-sao-paulo-de-olivenca-am",
+        "linha_id": "hidro-br12-sol-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8725,
+          -3.3785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-sol-e5",
+        "nome": "Terminal Hidroviário de Santo Antônio do Içá & Tonantins (Foz do Rio Içá / Alto Solimões, AM)",
+        "sistema_id": "hidrovia-rio-javari-alto-solimoes-tabatinga-benjamin-constant-atalaia-do-norte-palmeiras-do-javari-sao-paulo-de-olivenca-am",
+        "linha_id": "hidro-br12-sol-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9425,
+          -3.1025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-jpe-e1",
+        "nome": "Cais das Barquinhas de Juazeiro (BA) ↔ Porto Fluvial de Petrolina / Ilha do Rodeadouro (PE)",
+        "sistema_id": "travessias-medio-sao-francisco-barra-xique-xique-ibiraba-pilao-arcado-remanso-sento-se-sobradinho-juazeiro-petrolina-ba-pe",
+        "linha_id": "hidro-br12-jpe-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5025,
+          -9.4065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-jpe-e2",
+        "nome": "Porto Fluvial de Sobradinho & Sento Sé (Lago de Sobradinho, Rio São Francisco, BA)",
+        "sistema_id": "travessias-medio-sao-francisco-barra-xique-xique-ibiraba-pilao-arcado-remanso-sento-se-sobradinho-juazeiro-petrolina-ba-pe",
+        "linha_id": "hidro-br12-jpe-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8225,
+          -9.4552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-jpe-e3",
+        "nome": "Terminal de Balsas e Barcos de Remanso (Lago de Sobradinho Norte, BA)",
+        "sistema_id": "travessias-medio-sao-francisco-barra-xique-xique-ibiraba-pilao-arcado-remanso-sento-se-sobradinho-juazeiro-petrolina-ba-pe",
+        "linha_id": "hidro-br12-jpe-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0815,
+          -9.6225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-msf-e4",
+        "nome": "Rampa Fluvial de Pilão Arcado (Oeste do Lago de Sobradinho, BA)",
+        "sistema_id": "travessias-medio-sao-francisco-barra-xique-xique-ibiraba-pilao-arcado-remanso-sento-se-sobradinho-juazeiro-petrolina-ba-pe",
+        "linha_id": "hidro-br12-msf-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4385,
+          -10.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-msf-e5",
+        "nome": "Porto Fluvial de Barra (Foz do Rio Grande) ↔ Cais de Xique-Xique (Médio São Francisco, BA)",
+        "sistema_id": "travessias-medio-sao-francisco-barra-xique-xique-ibiraba-pilao-arcado-remanso-sento-se-sobradinho-juazeiro-petrolina-ba-pe",
+        "linha_id": "hidro-br12-msf-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1415,
+          -11.0885
+        ]
+      }
     }
   ]
 }
