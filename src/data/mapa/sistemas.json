@@ -52392,5 +52392,326 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+    "slug": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+    "nome_pt": "Transmarchilay, Cruz del Sur e Naviera Austral — Canal de Chacao (Pargua–Chacao), Ilhas de Quinchao/Lemuy e Quellón–Chaitén (Arquipélago de Chiloé, Chile)",
+    "nome_en": "Transmarchilay, Cruz del Sur & Naviera Austral — Chacao Channel (Pargua–Chacao), Quinchao/Lemuy Islands & Quellón–Chaitén (Chiloé Archipelago, Chile)",
+    "pais": "Chile",
+    "cidade": "Pargua / Chacao / Ancud / Dalcahue / Achao (Quinchao) / Chonchi / Quellón / Chaitén",
+    "uf": "Región de Los Lagos",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Transmarchilay S.A. / Naviera Cruz del Sur / Naviera Paredes / Naviera Austral",
+    "inauguracao": "1960",
+    "extensao_km": 310,
+    "bitola": "N/A (Hidrovia Costeira e de Canais Patagônicos 24h — Ferries Ro-Pax Bidirecionais e Navios do Golfo Corcovado)",
+    "eletrificacao": "Frota de Mais de 10 Ferries Ro-Pax Bidirecionais no Canal de Chacao e Navios Ro-Pax de Longo Curso (Quellón–Chaitén)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 14500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 55 milhões (ampliação das rampas de Pargua, Chacao, Dalcahue e Quellón pelo Ministerio de Obras Públicas do Chile)",
+    "proximas_entregas": "Renovação de embarcações nas travessias insulares interiores do Mar Interior de Chiloé",
+    "resumo_pt": "A malha hidroviária mais movimentada do sul do Chile, integrando o Arquipélago de Chiloé à Ruta 5 Pan-Americana e à Carretera Austral: no norte, mais de 10 ferries Ro-Pax da Transmarchilay, Cruz del Sur e Naviera Paredes cruzam 24h por dia em 30 minutos as fortes correntes do Canal de Chacao entre Pargua e Chacao; no Mar Interior de Chiloé, balsas contínuas unem Dalcahue à Ilha Quinchao (Curaco de Vélez/Achao) e Chonchi à Ilha Lemuy (Chulchuy); no extremo sul, os ferries da Naviera Austral cruzam o Golfo Corcovado entre Quellón e Chaitén.",
+    "resumo_en": "Southern Chile's busiest Ro-Pax ferry network linking the Chiloé Archipelago with the Pan-American Highway (Route 5) and the Carretera Austral: across the northern Chacao Channel, over 10 bidirectional ferries operated by Transmarchilay, Cruz del Sur, and Naviera Paredes run 24/7 between Pargua and Chacao; inside the archipelago, ferries connect Dalcahue to Quinchao Island and Chonchi to Lemuy Island, while Naviera Austral links Quellón across the Gulf of Corcovado to Chaitén.",
+    "lat": -42.48,
+    "lon": -73.65,
+    "zoom_inicial": 7.2,
+    "fontes": [
+      "transmarchilay-cl",
+      "navieraustral-cl",
+      "mtt-gob-cl"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "chiloe",
+      "canal-de-chacao",
+      "pargua",
+      "castro",
+      "quellon",
+      "chaiten",
+      "patagonia",
+      "chile"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat74-chi-l1",
+        "nome": "Canal de Chacao & Ilhas Interiores de Chiloé (Pargua ↔ Chacao 24h & Dalcahue ↔ Curaco de Vélez / Quinchao & Chonchi ↔ Ilha Lemuy)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 115,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat74-que-l2",
+        "nome": "Travessia do Golfo Corcovado — Rota Chiloé–Carretera Austral (Quellón ↔ Chaitén ↔ Melinka)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 195,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+    "slug": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+    "nome_pt": "Lanchas Colectivas del Delta del Paraná (Interisleña, Líneas Delta e Jilguero) e Travessia Internacional Tigre–Carmelo (Buenos Aires, Argentina / Uruguai)",
+    "nome_en": "Paraná Delta Commuter Boats (Lanchas Colectivas — Interisleña, Líneas Delta & Jilguero) & Tigre–Carmelo International Ferry (Buenos Aires, Argentina / Uruguay)",
+    "pais": "Argentina",
+    "cidade": "Tigre (Grande Buenos Aires) / Ilhas do Delta do Paraná / Carmelo (Colonia, Uruguai)",
+    "uf": "Provincia de Buenos Aires / Colonia",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "La Interisleña S.A. / Líneas Delta Argentino / Empresa Jilguero / Líneas Delta (Tigre–Carmelo)",
+    "inauguracao": "1924",
+    "extensao_km": 185,
+    "bitola": "N/A (Hidrovia Fluvial Metropolitana Integrada ao Cartão SUBE — Lanchas Colectivas Tradicionais de Madeira e Catamarãs)",
+    "eletrificacao": "Frota de Mais de 50 Lanchas Colectivas Clássicas em Mogno Envernizado e Catamarãs Fluviais do Delta",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 12500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 18 milhões (modernização da Estación Fluvial Domingo Faustino Sarmiento em Tigre, integração SUBE e reconstrução de mais de 100 píeres públicos no Delta)",
+    "proximas_entregas": "Renovação de motores de baixa emissão e novos píeres escolares e hospitalares na 1ª, 2ª e 3ª Seção de Ilhas do Delta",
+    "resumo_pt": "Patrimônio vivo do transporte público metropolitano sul-americano: a partir da Estación Fluvial de Tigre (integrada à Linha Mitre e ao Tren de la Costa na Grande Buenos Aires), as icônicas 'lanchas colectivas' de madeira envernizada da Interisleña, Líneas Delta Argentino e Jilguero operam com o cartão SUBE como verdadeiros ônibus fluviais pelos labirintos de rios e arroios do Delta do Rio Paraná (Luján, Sarmiento, Capitán, San Antonio, Carapachay e Paraná de las Palmas), além da linha internacional que atravessa o Delta e o Rio Uruguai até Carmelo (Uruguai).",
+    "resumo_en": "A living icon of South American metropolitan transit: from the Tigre Fluvial Station (connected to the Mitre commuter rail and Tren de la Costa in Greater Buenos Aires), classic varnished mahogany 'lanchas colectivas' operated by Interisleña, Líneas Delta Argentino, and Jilguero serve as SUBE-integrated river buses across the labyrinth of rivers and islands of the Paraná Delta, alongside the international river route linking Tigre with Carmelo (Uruguay).",
+    "lat": -34.4208,
+    "lon": -58.5794,
+    "zoom_inicial": 10.0,
+    "fontes": [
+      "tigre-gob-ar",
+      "lainterislena-ar",
+      "lineasdelta-ar"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "lancha-colectiva",
+      "tigre",
+      "delta-do-parana",
+      "buenos-aires",
+      "carmelo",
+      "sube",
+      "argentina",
+      "uruguai"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat74-tig-l1",
+        "nome": "Rede Metropolitana do Delta do Paraná (Estación Fluvial de Tigre ↔ Rio Sarmiento ↔ Rio Capitán ↔ Carapachay ↔ Paraná de las Palmas)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 95,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat74-car-l2",
+        "nome": "Linha Internacional do Delta e Rio Guazú (Estación Fluvial de Tigre AR ↔ Isla Martín García ↔ Puerto de Carmelo UY)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 90,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+    "slug": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+    "nome_pt": "Lanchas Rápidas Interilhas de Galápagos e Travessia do Canal de Itabaca — Santa Cruz (Puerto Ayora), San Cristóbal, Isabela, Floreana e Baltra (Equador)",
+    "nome_en": "Galápagos Inter-Island Speedboats & Itabaca Channel Ferries — Santa Cruz (Puerto Ayora), San Cristóbal, Isabela, Floreana & Baltra (Ecuador)",
+    "pais": "Equador",
+    "cidade": "Puerto Ayora (Santa Cruz) / Puerto Baquerizo Moreno (San Cristóbal) / Puerto Villamil (Isabela) / Floreana / Baltra",
+    "uf": "Provincia de Galápagos",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Operadores de Transporte Marítimo Interislas de Galápagos (DIRNEA / Parque Nacional Galápagos) & Balsas del Canal de Itabaca",
+    "inauguracao": "1985",
+    "extensao_km": 340,
+    "bitola": "N/A (Hidrovia Oceânica Insular Protegida — Lanchas Rápidas Oceânicas e Balsas Ecológicas)",
+    "eletrificacao": "Lanchas Rápidas Interinsulares de 28–32 Nós e Balsas de Baixa Emissão no Canal de Itabaca",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 3200,
+    "ano_referencia": 2026,
+    "investimento": "US$ 26 milhões (modernização dos píeres ecológicos de Puerto Ayora, Puerto Baquerizo Moreno, Puerto Villamil e Canal de Itabaca sob padrões ambientais da UNESCO)",
+    "proximas_entregas": "Transição para embarcações híbridas solares-elétricas no Canal de Itabaca e baías de Galápagos",
+    "resumo_pt": "O sistema regular de transporte público marítimo que conecta as ilhas habitadas do Patrimônio Natural da Humanidade das Ilhas Galápagos (a 1.000 km da costa do Equador): a partir do muelle central de Puerto Ayora (Ilha de Santa Cruz), lanchas oceânicas rápidas realizam viagens diárias pela manhã e à tarde de 2 horas até Puerto Baquerizo Moreno (capital provincial na Ilha de San Cristóbal), Puerto Villamil (Ilha Isabela) e Puerto Velasco Ibarra (Ilha Floreana); no norte de Santa Cruz, as balsas contínuas do Canal de Itabaca fazem a ligação essencial de 10 minutos com o Aeroporto Ecológico da Ilha de Baltra.",
+    "resumo_en": "The public marine transport network linking the inhabited islands of the Galápagos UNESCO World Heritage archipelago: from Puerto Ayora on central Santa Cruz Island, twice-daily ocean speedboats connect in 2 hours with the provincial capital Puerto Baquerizo Moreno (San Cristóbal Island), Puerto Villamil (Isabela Island), and Floreana Island, while continuous ferries cross the northern Itabaca Channel to Baltra Island Airport.",
+    "lat": -0.745,
+    "lon": -90.312,
+    "zoom_inicial": 7.6,
+    "fontes": [
+      "gobiernogalapagos-ec",
+      "armada-mil-ec"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "galapagos",
+      "santa-cruz",
+      "puerto-ayora",
+      "san-cristobal",
+      "isabela",
+      "baltra",
+      "equador"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat74-gal-l1",
+        "nome": "Triângulo Oceânico de Galápagos (Puerto Ayora Santa Cruz ↔ Puerto Baquerizo Moreno San Cristóbal & Santa Cruz ↔ Puerto Villamil Isabela ↔ Floreana)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 325,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat74-ita-l2",
+        "nome": "Ponte Hidroviária do Canal de Itabaca (Muelle de Baltra Aeropuerto ↔ Muelle de Santa Cruz Norte)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 15,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+    "slug": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+    "nome_pt": "San Pedro Belize Express e Caribbean Sprinter — Belize City ↔ Caye Caulker ↔ San Pedro (Ambergris Caye) ↔ Chetumal e Rotas do Sul (Belize / México / Guatemala)",
+    "nome_en": "San Pedro Belize Express & Caribbean Sprinter — Belize City ↔ Caye Caulker ↔ San Pedro (Ambergris Caye) ↔ Chetumal & Southern Routes (Belize / Mexico / Guatemala)",
+    "pais": "Belize",
+    "cidade": "Belize City / Caye Caulker / San Pedro (Ambergris Caye) / Chetumal (México) / Placencia / Punta Gorda",
+    "uf": "Belize District / Stann Creek / Toledo / Quintana Roo",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "San Pedro Belize Express Water Taxi / Caribbean Sprinter / Thunderbolt Water Taxi / Hokey Pokey Water Taxi",
+    "inauguracao": "1998",
+    "extensao_km": 220,
+    "bitola": "N/A (Hidrovia Costeira da Barreira de Coral de Belize — Lanchas Expressas de Passageiros)",
+    "eletrificacao": "Frota de Lanchas Expressas Cobertas de Alta Capacidade (40 a 120 Passageiros, 32 nós)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6400,
+    "ano_referencia": 2026,
+    "investimento": "US$ 14 milhões (ampliação do Terminal Marítimo de Belize City no Haulover Creek e novos píeres alfandegados em San Pedro e Caye Caulker)",
+    "proximas_entregas": "Expansão das frequências internacionais entre San Pedro, Caye Caulker e Chetumal (conectando com o Tren Maya no México)",
+    "resumo_pt": "Principal sistema de transporte público hidroviário de Belize, navegando pelas águas protegidas da Barreira de Coral de Belize (Patrimônio Mundial da UNESCO): a partir do Terminal Marítimo de Belize City, as lanchas de alta velocidade da San Pedro Belize Express e da Caribbean Sprinter partem a cada hora para Caye Caulker (45 min) e San Pedro em Ambergris Caye (75 min), seguindo diariamente até o Muelle Fiscal de Chetumal (México, onde faz integração regional com a estação final do Tren Maya); no continente, operam também as travessias de Corozal–Sarteneja, Independence–Placencia (Hokey Pokey) e Punta Gorda–Puerto Barrios (Guatemala).",
+    "resumo_en": "Belize's primary public water transit network operating inside the protected waters of the Belize Barrier Reef UNESCO World Heritage Site: from the Belize City Marine Terminal, high-speed water taxis operated by San Pedro Belize Express and Caribbean Sprinter run hourly to Caye Caulker (45 min) and San Pedro on Ambergris Caye (75 min), continuing internationally to Chetumal (Mexico, connecting with the Tren Maya), alongside southern routes linking Placencia–Independence and Punta Gorda–Puerto Barrios (Guatemala).",
+    "lat": 17.7425,
+    "lon": -88.025,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "belizewatertaxi-bz",
+      "portauthority-bz"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "water-taxi",
+      "belize-city",
+      "caye-caulker",
+      "san-pedro",
+      "ambergris-caye",
+      "chetumal",
+      "placencia",
+      "belize",
+      "mexico"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat74-bze-l1",
+        "nome": "Expresso da Barreira de Coral e Baía de Chetumal (Belize City Marine Terminal ↔ Caye Caulker ↔ San Pedro Ambergris Caye ↔ Chetumal MX)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 145,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat74-che-l2",
+        "nome": "Travessias Costeiras de Belize (Corozal ↔ Sarteneja & Independence / Mango Creek ↔ Placencia & Punta Gorda ↔ Puerto Barrios GT)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 75,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+    "slug": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+    "nome_pt": "Naviarca, Gran Cacique Express, Navibus e Conferry — Corredor Marítimo da Ilha de Margarita e Ilha de Coche (Puerto La Cruz / Guanta e Cumaná ↔ Punta de Piedras, Venezuela)",
+    "nome_en": "Naviarca, Gran Cacique Express, Navibus & Conferry — Margarita & Coche Islands Ferry Corridor (Puerto La Cruz / Guanta & Cumaná ↔ Punta de Piedras, Venezuela)",
+    "pais": "Venezuela",
+    "cidade": "Ilha de Margarita (Punta de Piedras / Porlamar) / Ilha de Coche / Puerto La Cruz / Guanta / Cumaná / Chacopata",
+    "uf": "Nueva Esparta / Anzoátegui / Sucre",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Naviarca (Naviera Nueva Esparta) / Gran Cacique Express / Navibus / La Nueva Conferry",
+    "inauguracao": "1959",
+    "extensao_km": 290,
+    "bitola": "N/A (Hidrovia Caribenha Ro-Pax e de Catamarãs Rápidos — Autoestrada Marítima do Oriente Venezuelano)",
+    "eletrificacao": "Ferries Ro-Pax de Veículos e Cargas (Naviarca / Navibus / Conferry) e Catamarãs Rápidos (Gran Cacique Express)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 8500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 32 milhões (reativação de unidades Ro-Pax e modernização dos terminais de Punta de Piedras em Margarita, Guanta em Puerto La Cruz e Puerto Sucre em Cumaná)",
+    "proximas_entregas": "Ampliação das viagens rápidas entre Puerto La Cruz, Cumaná e Punta de Piedras",
+    "resumo_pt": "A ponte marítima vital entre o continente venezuelano (estados Anzoátegui e Sucre) e o estado insular de Nueva Esparta (Ilha de Margarita e Ilha de Coche) no Mar do Caribe: a partir do Terminal de Ferries de Puerto La Cruz / Guanta e do Porto de Cumaná (Puerto Sucre), os navios Ro-Pax e catamarãs rápidos da Naviarca, Gran Cacique Express, Navibus e Conferry conectam diariamente o Terminal de Punta de Piedras em Margarita (abastecendo toda a ilha com veículos, alimentos e passageiros), complementados pelas travessias curtas para San Pedro de Coche (Ilha de Coche), Araya e Chacopata.",
+    "resumo_en": "The essential Caribbean maritime bridge linking mainland eastern Venezuela (Anzoátegui and Sucre states) with the island state of Nueva Esparta (Margarita and Coche Islands): from the Puerto La Cruz / Guanta and Cumaná ferry terminals, Ro-Pax vessels and high-speed catamarans operated by Naviarca, Gran Cacique Express, Navibus, and Conferry serve Punta de Piedras on Margarita Island alongside regional links to Coche Island, Araya, and Chacopata.",
+    "lat": 10.65,
+    "lon": -64.18,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "naviarca-ve",
+      "grancacique-ve",
+      "inea-gob-ve"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "ilha-de-margarita",
+      "punta-de-piedras",
+      "puerto-la-cruz",
+      "cumana",
+      "ilha-de-coche",
+      "nueva-esparta",
+      "venezuela"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat74-mrg-l1",
+        "nome": "Tronco Continental – Ilha de Margarita (Puerto La Cruz / Guanta & Cumaná ↔ Terminal de Punta de Piedras Margarita)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 195,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat74-coc-l2",
+        "nome": "Eixo Insular de Coche e Península de Araya (Punta de Piedras / El Yaque Margarita ↔ San Pedro de Coche ↔ Chacopata & Cumaná ↔ Araya)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 95,
+        "estacoes": 2
+      }
+    ]
   }
 ]

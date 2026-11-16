@@ -68223,6 +68223,456 @@
           -10.4319
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-chi-e1",
+        "nome": "Rampa de Pargua — Terminal Continental Ruta 5 (Canal de Chacao, Calbuco, Chile)",
+        "sistema_id": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+        "linha_id": "hidro-lat74-chi-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6156,
+          -41.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-chi-e2",
+        "nome": "Rampa de Chacao — Ancud (Portal Norte da Ilha Grande de Chiloé, Chile)",
+        "sistema_id": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+        "linha_id": "hidro-lat74-chi-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5269,
+          -41.8294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-chi-e3",
+        "nome": "Rampas de Dalcahue – Pasaje El Avellano (Ilha Quinchao) & Chonchi – Chulchuy (Ilha Lemuy, Chiloé)",
+        "sistema_id": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+        "linha_id": "hidro-lat74-chi-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6494,
+          -42.3808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-que-e4",
+        "nome": "Terminal Portuario de Quellón (Extremo Sul da Ilha de Chiloé / Marco Zero da Pan-Americana)",
+        "sistema_id": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+        "linha_id": "hidro-lat74-que-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6158,
+          -43.1189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-que-e5",
+        "nome": "Rampa de Chaitén (Província de Palena / Carretera Austral, Chile)",
+        "sistema_id": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+        "linha_id": "hidro-lat74-que-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7119,
+          -42.9189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-tig-e1",
+        "nome": "Estación Fluvial de Pasajeros 'Domingo Faustino Sarmiento' (Tigre, Buenos Aires, Argentina)",
+        "sistema_id": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+        "linha_id": "hidro-lat74-tig-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5794,
+          -34.4208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-tig-e2",
+        "nome": "Muelles del Río Sarmiento & Casa Museo Sarmiento (1ª Seção de Ilhas do Delta de Tigre)",
+        "sistema_id": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+        "linha_id": "hidro-lat74-tig-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5639,
+          -34.3825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-tig-e3",
+        "nome": "Muelles de Tres Bocas, Río Capitán & Río Paraná de las Palmas (Delta do Paraná, Argentina)",
+        "sistema_id": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+        "linha_id": "hidro-lat74-tig-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.545,
+          -34.3319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-car-e4",
+        "nome": "Muelle da Reserva Natural Isla Martín García (Confluência do Rio da Prata e Rio Uruguai)",
+        "sistema_id": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+        "linha_id": "hidro-lat74-car-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2519,
+          -34.1856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-car-e5",
+        "nome": "Puerto Fluvial de Carmelo — Arroyo de las Vacas (Departamento de Colonia, Uruguai)",
+        "sistema_id": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+        "linha_id": "hidro-lat74-car-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2919,
+          -34.0019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-gal-e1",
+        "nome": "Muelle Ecológico Gus Angermeyer — Puerto Ayora (Ilha de Santa Cruz, Galápagos, Equador)",
+        "sistema_id": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+        "linha_id": "hidro-lat74-gal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3125,
+          -0.7456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-gal-e2",
+        "nome": "Muelle Tiburón Martillo — Puerto Baquerizo Moreno (Capital de Galápagos, Ilha de San Cristóbal)",
+        "sistema_id": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+        "linha_id": "hidro-lat74-gal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6119,
+          -0.9025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-gal-e3",
+        "nome": "Muelle El Embarcadero — Puerto Villamil (Ilha Isabela, Galápagos, Equador)",
+        "sistema_id": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+        "linha_id": "hidro-lat74-gal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9656,
+          -0.9569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-gal-e4",
+        "nome": "Muelle de Puerto Velasco Ibarra — Black Beach (Ilha Floreana, Galápagos)",
+        "sistema_id": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+        "linha_id": "hidro-lat74-gal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4889,
+          -1.2742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-ita-e5",
+        "nome": "Muelles del Canal de Itabaca — Baltra Airport & Santa Cruz Norte (Galápagos, Equador)",
+        "sistema_id": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+        "linha_id": "hidro-lat74-ita-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2856,
+          -0.4875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-bze-e1",
+        "nome": "Belize City Marine Terminal — Brown Sugar Marketplace (Haulover Creek, Belize City, Belize)",
+        "sistema_id": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+        "linha_id": "hidro-lat74-bze-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1856,
+          17.495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-bze-e2",
+        "nome": "Caye Caulker Water Taxi Pier (Ilha de Caye Caulker, Barreira de Coral de Belize)",
+        "sistema_id": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+        "linha_id": "hidro-lat74-bze-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0239,
+          17.7425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-bze-e3",
+        "nome": "San Pedro International Water Taxi Terminal (Ambergris Caye, Belize)",
+        "sistema_id": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+        "linha_id": "hidro-lat74-bze-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9619,
+          17.9169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-bze-e4",
+        "nome": "Muelle Fiscal de Chetumal (Baía de Chetumal, Quintana Roo, México — Conexão Tren Maya)",
+        "sistema_id": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+        "linha_id": "hidro-lat74-bze-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2969,
+          18.4939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-che-e5",
+        "nome": "Placencia Municipal Pier & Independence / Mango Creek Dock (Stann Creek, Sul de Belize)",
+        "sistema_id": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+        "linha_id": "hidro-lat74-che-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3656,
+          16.5125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-mrg-e1",
+        "nome": "Terminal Internacional de Ferries de Punta de Piedras (Ilha de Margarita, Nueva Esparta, Venezuela)",
+        "sistema_id": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+        "linha_id": "hidro-lat74-mrg-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0625,
+          10.9019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-mrg-e2",
+        "nome": "Terminal Marítimo de Paseo Colón / Eulalia Buroz (Puerto La Cruz) & Porto de Guanta (Anzoátegui, Venezuela)",
+        "sistema_id": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+        "linha_id": "hidro-lat74-mrg-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6369,
+          10.2239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-mrg-e3",
+        "nome": "Terminal Marítimo de Puerto Sucre — Cumaná (Estado Sucre, Venezuela)",
+        "sistema_id": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+        "linha_id": "hidro-lat74-mrg-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1919,
+          10.4639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-coc-e4",
+        "nome": "Muelle de San Pedro de Coche (Ilha de Coche, Nueva Esparta, Venezuela)",
+        "sistema_id": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+        "linha_id": "hidro-lat74-coc-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9825,
+          10.7789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-coc-e5",
+        "nome": "Embarcadero de Chacopata & Muelle de Araya (Península de Araya, Sucre, Venezuela)",
+        "sistema_id": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+        "linha_id": "hidro-lat74-coc-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8219,
+          10.675
+        ]
+      }
     }
   ]
 }

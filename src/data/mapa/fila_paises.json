@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T09:45:00-03:00",
+  "atualizado_em": "2026-11-16T10:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2860,17 +2860,25 @@
         "madagascar-island-ferries-ankify-hell-ville-nosy-be-soanierana-ivongo-mahambo-sainte-marie-nosy-boraha-canal-des-pangalanes-madagascar",
         "malawi-shipping-company-mv-ilala-mv-chilembwe-monkey-bay-chipoka-senga-bay-likoma-island-chizumulu-nkhata-bay-chilumba-lago-malawi"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 187,
       "codigo": "HIDRO-AMERICA-LATINA-CARIBE-CHILOE-DELTA-DO-PARANA-GALAPAGOS-BELIZE-VII",
       "pais": "Fase Hidroviária Mundial #74 — América Latina e Caribe: Canal de Chacao & Arquipélago de Chiloé (Pargua–Chacao / Quellón–Chaitén, Chile), Lanchas Colectivas do Delta do Paraná (Tigre, Argentina), Ferries Interilhas de Galápagos (Santa Cruz–Isabela–San Cristóbal, Equador), San Pedro Belize Express Water Taxi (Belize City–Caye Caulker–Ambergris Caye) e Conferry / Naviarca (Puerto La Cruz / Cumaná–Ilha de Margarita, Venezuela) VII",
       "continente": "América Latina e Caribe",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 191,
+      "sistemas_adicionados": [
+        "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+        "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+        "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+        "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+        "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 188,
       "codigo": "HIDRO-BRASIL-XIII-TRAVESSIAS-FLUVIAIS-LITORANEAS-E-INSULARES-COMPLEMENTARES",
@@ -2924,6 +2932,14 @@
       "codigo": "HIDRO-AFRICA-OCIDENTAL-CENTRAL-VOLTA-LAGOS-CONGO-ZAMBEZE-VIII",
       "pais": "Fase Hidroviária Mundial #80 — África Ocidental, Central e Oriental: VLTC Lago Volta (Akosombo–Yeji, Gana), Lagferry Lagos Lagoon (Marina–Ikorodu–Badagry, Nigéria), Travessias Fluviais de Banjul–Barra (Rio Gâmbia), Lanchas de Libreville–Port-Gentil (Nautic Afrika, Gabão) e Ferries do Lago Alberto e Nilo Branco (Uganda) VIII",
       "continente": "África",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 195,
+      "codigo": "HIDRO-AMERICA-LATINA-CARIBE-MAGDALENA-ORINOCO-GOLFO-DE-FONSECA-BAHAMAS-VIII",
+      "pais": "Fase Hidroviária Mundial #81 — América Latina e Caribe: Bahamas Ferries (Nassau–Harbour Island–Eleuthera–Exuma–Abaco), Hidrovia do Rio Magdalena (Mompos–Magangué–Barrancabermeja, Colômbia), Golfo de Nicoya (Puntarenas–Paquera–Naranjo, Costa Rica), Lago Nahuel Huapi & Cruce Andino (Bariloche–Puerto Blest–Peulla, Argentina/Chile) e Rio Orinoco (Ciudad Guayana–Barrancas–Tucupita, Venezuela) VIII",
+      "continente": "América Latina e Caribe",
       "prioridade": "alta",
       "status": "pendente"
     }
