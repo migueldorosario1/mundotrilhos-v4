@@ -64968,6 +64968,286 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-mik-l1",
+        "nome": "Ilhas da Baía de Mikawa — Meitetsu (Kōwa / Morozaki ↔ Himakajima ↔ Shinojima & Isshiki ↔ Sakushima)",
+        "sistema_id": "meitetsu-kaijo-kankosen-mikawa-bay-kowa-morozaki-himakajima-shinojima-sakushima-setouchi-onomichi-setoda-shimanami-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9685,
+            34.6965
+          ],
+          [
+            137.0025,
+            34.7052
+          ],
+          [
+            137.0425,
+            34.7215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ono-l2",
+        "nome": "Corredor Onomichi & Shimanami Kaido (Onomichi Ekimae ↔ Mukaishima ↔ Innoshima ↔ Setoda Ikuchijima ↔ Mihara)",
+        "sistema_id": "meitetsu-kaijo-kankosen-mikawa-bay-kowa-morozaki-himakajima-shinojima-sakushima-setouchi-onomichi-setoda-shimanami-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.1935,
+            34.4042
+          ],
+          [
+            133.1415,
+            34.3515
+          ],
+          [
+            133.0842,
+            34.3065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-qio-l1",
+        "nome": "Estreito de Qiongzhou Ro-Pax & Ferro-Balsa Yuehai (Xuwen Port / North Port ↔ Haikou Xinhai / Xiuying / South Port)",
+        "sistema_id": "qiongzhou-strait-ro-pax-rail-ferries-haikou-xinhai-xiuying-south-port-xuwen-haian-beihai-weizhou-island-china",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.2185,
+            20.2585
+          ],
+          [
+            110.1585,
+            20.0485
+          ],
+          [
+            110.1415,
+            20.0365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-wei-l2",
+        "nome": "Golfo de Tonquim — Expresso Ilha de Weizhou (Beihai International Passenger Port ↔ Weizhou Island West Wharf)",
+        "sistema_id": "qiongzhou-strait-ro-pax-rail-ferries-haikou-xinhai-xiuying-south-port-xuwen-haian-beihai-weizhou-island-china",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.1185,
+            21.4325
+          ],
+          [
+            109.1025,
+            21.2315
+          ],
+          [
+            109.0925,
+            21.0315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-vnm-l1",
+        "nome": "Corredor Oceânico Ilhas Côn Đảo (Vũng Tàu Cầu Đá & Trần Đề Sóc Trăng ↔ Bến Đầm Côn Đảo)",
+        "sistema_id": "superdong-phu-quoc-express-con-dao-express-vung-tau-tran-de-soc-trang-con-dao-rach-gia-hon-son-nam-du-vietna",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.0725,
+            10.3452
+          ],
+          [
+            106.5652,
+            8.6512
+          ],
+          [
+            106.1915,
+            9.4825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-vnm-l2",
+        "nome": "Arquipélagos de Kiên Giang no Golfo da Tailândia (Cảng Rạch Giá ↔ Ilha Hòn Sơn ↔ Arquipélago de Nam Du ↔ Phú Quốc)",
+        "sistema_id": "superdong-phu-quoc-express-con-dao-express-vung-tau-tran-de-soc-trang-con-dao-rach-gia-hon-son-nam-du-vietna",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.0765,
+            10.0085
+          ],
+          [
+            104.6325,
+            9.7985
+          ],
+          [
+            104.3585,
+            9.6825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-bal-l1",
+        "nome": "Estreito de Bali e Estreito de Badung (Ketapang Banyuwangi ↔ Gilimanuk Bali & Sanur / Padangbai ↔ Nusa Penida / Nusa Lembongan)",
+        "sistema_id": "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.3985,
+            -8.1435
+          ],
+          [
+            114.4365,
+            -8.1635
+          ],
+          [
+            115.5095,
+            -8.5315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-lom-l2",
+        "nome": "Estreito de Lombok e Estreito de Alas (Padangbai Bali ↔ Lembar Lombok & Kayangan Lombok ↔ Poto Tano Sumbawa)",
+        "sistema_id": "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.5095,
+            -8.5315
+          ],
+          [
+            116.0742,
+            -8.7285
+          ],
+          [
+            116.6725,
+            -8.4985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ari-l1",
+        "nome": "Travessias do Mar de Ariake — Ocean Arrow & Ariake Ferry (Kumamoto Port ↔ Shimabara Port & Nagasu ↔ Taira)",
+        "sistema_id": "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.5915,
+            32.7652
+          ],
+          [
+            130.3765,
+            32.7752
+          ],
+          [
+            130.4365,
+            32.9265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ama-l2",
+        "nome": "Corredor Insular de Amakusa (Kuchinotsu Shimabara ↔ Oniike Amakusa & Ushibuka Amakusa ↔ Kuranomoto Kagoshima)",
+        "sistema_id": "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.1915,
+            32.5365
+          ],
+          [
+            130.1125,
+            32.3625
+          ],
+          [
+            130.0242,
+            32.1925
+          ]
+        ]
+      }
     }
   ]
 }

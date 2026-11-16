@@ -65073,6 +65073,456 @@
           53.8725
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-mik-e1",
+        "nome": "Kōwa Port & Morozaki Port Ferry Terminals — Meitetsu Kaijo Kankosen (Península de Chita, Aichi, Japão)",
+        "sistema_id": "meitetsu-kaijo-kankosen-mikawa-bay-kowa-morozaki-himakajima-shinojima-sakushima-setouchi-onomichi-setoda-shimanami-japao",
+        "linha_id": "hidro-eas67-mik-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9685,
+          34.6965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-mik-e2",
+        "nome": "Himakajima (West & East Ports) & Shinojima Port (Baía de Mikawa, Aichi, Japão)",
+        "sistema_id": "meitetsu-kaijo-kankosen-mikawa-bay-kowa-morozaki-himakajima-shinojima-sakushima-setouchi-onomichi-setoda-shimanami-japao",
+        "linha_id": "hidro-eas67-mik-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0025,
+          34.7052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-mik-e3",
+        "nome": "Sakushima Island East/West Piers & Isshiki Port (Nishio, Aichi, Japão)",
+        "sistema_id": "meitetsu-kaijo-kankosen-mikawa-bay-kowa-morozaki-himakajima-shinojima-sakushima-setouchi-onomichi-setoda-shimanami-japao",
+        "linha_id": "hidro-eas67-mik-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0425,
+          34.7215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ono-e4",
+        "nome": "Onomichi Ekimae Pier & Mukaishima Ferry Landings (Onomichi, Hiroshima, Japão)",
+        "sistema_id": "meitetsu-kaijo-kankosen-mikawa-bay-kowa-morozaki-himakajima-shinojima-sakushima-setouchi-onomichi-setoda-shimanami-japao",
+        "linha_id": "hidro-eas67-ono-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.1935,
+          34.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ono-e5",
+        "nome": "Setoda Port (Ikuchijima), Sagi & Mihara Port Ferry Terminal (Mar Interior de Seto, Hiroshima, Japão)",
+        "sistema_id": "meitetsu-kaijo-kankosen-mikawa-bay-kowa-morozaki-himakajima-shinojima-sakushima-setouchi-onomichi-setoda-shimanami-japao",
+        "linha_id": "hidro-eas67-ono-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0842,
+          34.3065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-qio-e1",
+        "nome": "Haikou Xinhai Ro-Pax Hub & Xiuying Port (Haikou, Hainan, China)",
+        "sistema_id": "qiongzhou-strait-ro-pax-rail-ferries-haikou-xinhai-xiuying-south-port-xuwen-haian-beihai-weizhou-island-china",
+        "linha_id": "hidro-eas67-qio-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.1585,
+          20.0485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-qio-e2",
+        "nome": "Haikou South Port (Yuehai Railway Ferry Terminal, Hainan, China)",
+        "sistema_id": "qiongzhou-strait-ro-pax-rail-ferries-haikou-xinhai-xiuying-south-port-xuwen-haian-beihai-weizhou-island-china",
+        "linha_id": "hidro-eas67-qio-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.1415,
+          20.0365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-qio-e3",
+        "nome": "Xuwen Port (Hai'an Xin'gang) & Yuehai North Port (Zhanjiang, Guangdong, China)",
+        "sistema_id": "qiongzhou-strait-ro-pax-rail-ferries-haikou-xinhai-xiuying-south-port-xuwen-haian-beihai-weizhou-island-china",
+        "linha_id": "hidro-eas67-qio-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2185,
+          20.2585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-wei-e4",
+        "nome": "Beihai International Passenger Port (Golfo de Tonquim, Guangxi, China)",
+        "sistema_id": "qiongzhou-strait-ro-pax-rail-ferries-haikou-xinhai-xiuying-south-port-xuwen-haian-beihai-weizhou-island-china",
+        "linha_id": "hidro-eas67-wei-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.1185,
+          21.4325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-wei-e5",
+        "nome": "Weizhou Island West Wharf — Ilha Vulcânica de Weizhou (Beihai, Guangxi, China)",
+        "sistema_id": "qiongzhou-strait-ro-pax-rail-ferries-haikou-xinhai-xiuying-south-port-xuwen-haian-beihai-weizhou-island-china",
+        "linha_id": "hidro-eas67-wei-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.0925,
+          21.0315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-vnm-e1",
+        "nome": "Cảng Cầu Đá Vũng Tàu (Bà Rịa–Vũng Tàu, Sul do Vietnã)",
+        "sistema_id": "superdong-phu-quoc-express-con-dao-express-vung-tau-tran-de-soc-trang-con-dao-rach-gia-hon-son-nam-du-vietna",
+        "linha_id": "hidro-eas67-vnm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0725,
+          10.3452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-vnm-e2",
+        "nome": "Cảng Trần Đề — Sóc Trăng (Delta do Mekong, Vietnã)",
+        "sistema_id": "superdong-phu-quoc-express-con-dao-express-vung-tau-tran-de-soc-trang-con-dao-rach-gia-hon-son-nam-du-vietna",
+        "linha_id": "hidro-eas67-vnm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1915,
+          9.4825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-vnm-e3",
+        "nome": "Cảng Bến Đầm — Ilha de Côn Sơn (Arquipélago de Côn Đảo, Vietnã)",
+        "sistema_id": "superdong-phu-quoc-express-con-dao-express-vung-tau-tran-de-soc-trang-con-dao-rach-gia-hon-son-nam-du-vietna",
+        "linha_id": "hidro-eas67-vnm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5652,
+          8.6512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-vnm-e4",
+        "nome": "Cảng Rạch Giá — Kiên Giang (Golfo da Tailândia, Vietnã)",
+        "sistema_id": "superdong-phu-quoc-express-con-dao-express-vung-tau-tran-de-soc-trang-con-dao-rach-gia-hon-son-nam-du-vietna",
+        "linha_id": "hidro-eas67-vnm-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0765,
+          10.0085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-vnm-e5",
+        "nome": "Bến tàu Hòn Sơn (Lại Sơn) & Quần đảo Nam Du (Kiên Hải, Kiên Giang, Vietnã)",
+        "sistema_id": "superdong-phu-quoc-express-con-dao-express-vung-tau-tran-de-soc-trang-con-dao-rach-gia-hon-son-nam-du-vietna",
+        "linha_id": "hidro-eas67-vnm-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6325,
+          9.7985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-bal-e1",
+        "nome": "Pelabuhan Penyeberangan Ketapang — Banyuwangi (Extremo Leste de Java, Indonésia)",
+        "sistema_id": "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
+        "linha_id": "hidro-eas67-bal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3985,
+          -8.1435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-bal-e2",
+        "nome": "Pelabuhan Penyeberangan Gilimanuk (Oeste de Bali, Estreito de Bali, Indonésia)",
+        "sistema_id": "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
+        "linha_id": "hidro-eas67-bal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4365,
+          -8.1635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-bal-e3",
+        "nome": "Pelabuhan Padangbai & Pelabuhan Sanur ↔ Nusa Penida / Nusa Lembongan (Leste de Bali, Indonésia)",
+        "sistema_id": "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
+        "linha_id": "hidro-eas67-bal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5095,
+          -8.5315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-lom-e4",
+        "nome": "Pelabuhan Penyeberangan Lembar (Oeste de Lombok, NTB, Indonésia)",
+        "sistema_id": "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
+        "linha_id": "hidro-eas67-lom-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0742,
+          -8.7285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-lom-e5",
+        "nome": "Pelabuhan Kayangan (Lombok Leste) ↔ Pelabuhan Poto Tano (Oeste de Sumbawa, NTB, Indonésia)",
+        "sistema_id": "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
+        "linha_id": "hidro-eas67-lom-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6725,
+          -8.4985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ari-e1",
+        "nome": "Kumamoto Port Ferry Terminal (Kumamoto, Mar de Ariake, Kyushu, Japão)",
+        "sistema_id": "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao",
+        "linha_id": "hidro-eas67-ari-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5915,
+          32.7652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ari-e2",
+        "nome": "Shimabara Port Ferry Terminal & Taira Port (Península de Shimabara, Nagasaki, Japão)",
+        "sistema_id": "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao",
+        "linha_id": "hidro-eas67-ari-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3765,
+          32.7752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ari-e3",
+        "nome": "Nagasu Port — Ariake Ferry Terminal (Tamana, Kumamoto, Japão)",
+        "sistema_id": "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao",
+        "linha_id": "hidro-eas67-ari-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4365,
+          32.9265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ama-e4",
+        "nome": "Kuchinotsu Port (Minamishimabara) ↔ Oniike Port (Ilha de Amakusa Shimoshima, Japão)",
+        "sistema_id": "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao",
+        "linha_id": "hidro-eas67-ama-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1915,
+          32.5365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas67-ama-e5",
+        "nome": "Ushibuka Port (Amakusa Sul) ↔ Kuranomoto Port (Ilha de Nagashima, Kagoshima, Japão)",
+        "sistema_id": "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao",
+        "linha_id": "hidro-eas67-ama-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0242,
+          32.1925
+        ]
+      }
     }
   ]
 }

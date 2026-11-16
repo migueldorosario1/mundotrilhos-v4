@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T06:14:00-03:00",
+  "atualizado_em": "2026-11-16T06:44:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2601,6 +2601,22 @@
         "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
         "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha"
       ]
+    },
+    {
+      "ordem": 180,
+      "codigo": "HIDRO-ASIA-ORIENTAL-SUDESTE-CHINA-JAPAO-VIETNA-INDONESIA-VI",
+      "pais": "Fase Hidroviária Mundial #67 — Ásia Oriental e Sudeste Asiático: Golfo de Tonquim, Baía de Ise/Mikawa, Mar Interior de Seto e Estreitos da Indonésia VI (Meitetsu Kaijo Kankosen Baía de Mikawa Kōwa/Morozaki–Himakajima–Shinojima–Sakushima e Ferries de Onomichi–Shimanami Kaido no Japão; Complexo Ro-Pax e Ferro-Balsas do Estreito de Qiongzhou Haikou Xinhai/South Port–Xuwen e Catamarãs Beihai–Ilha de Weizhou na China; Con Dao Express, Phu Quoc Express & Superdong Vũng Tàu/Trần Đề–Ilhas Côn Đảo e Rạch Giá–Hòn Sơn–Nam Du no Vietnã; ASDP Corredor Trans-Java–Bali–Lombok–Sumbawa na Indonésia; e Ferries do Mar de Ariake e Amakusa Kumamoto–Shimabara Ocean Arrow e Kuchinotsu–Oniike/Ushibuka em Kyushu, Japão)",
+      "continente": "Ásia",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 184,
+      "sistemas_adicionados": [
+        "meitetsu-kaijo-kankosen-mikawa-bay-kowa-morozaki-himakajima-shinojima-sakushima-setouchi-onomichi-setoda-shimanami-japao",
+        "qiongzhou-strait-ro-pax-rail-ferries-haikou-xinhai-xiuying-south-port-xuwen-haian-beihai-weizhou-island-china",
+        "superdong-phu-quoc-express-con-dao-express-vung-tau-tran-de-soc-trang-con-dao-rach-gia-hon-son-nam-du-vietna",
+        "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
+        "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2748,14 +2764,6 @@
         "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
         "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao"
       ]
-    },
-    {
-      "ordem": 180,
-      "codigo": "HIDRO-ASIA-ORIENTAL-SUDESTE-CHINA-JAPAO-VIETNA-INDONESIA-VI",
-      "pais": "Fase Hidroviária Mundial #67 — Ásia Oriental e Sudeste Asiático: Golfo de Tonquim, Baía de Ise/Mikawa, Mar Interior de Seto e Estreitos da Indonésia VI",
-      "continente": "Ásia",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (Ferries da Baía de Mikawa Himakajima–Shinojima–Isshiki/Kowa e Ferries de Onomichi–Mukaishima–Setoda–Ikuchijima no Shimanami Kaido no Japão; Ferries do Estreito de Qiongzhou Haikou Xinhai/Xiuying–Xuwen Hai'an e Beihai–Ilha de Weizhou na China; Superdong / Phu Quoc Express Rạch Giá–Phú Quốc–Côn Đảo–Trần Đề no Vietnã; e ASDP Ferries do Estreito de Bali Ketapang–Gilimanuk e Estreito de Lombok Padangbai–Lembar na Indonésia)"
     },
     {
       "ordem": 181,
