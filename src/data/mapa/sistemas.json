@@ -47902,5 +47902,323 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "lake-kivu-express-boats-ferries-goma-bukavu-idjwi-island-rubavu-gisenyi-karongi-kibuye-rusizi-cyangugu-rd-congo-ruanda",
+    "slug": "lake-kivu-express-boats-ferries-goma-bukavu-idjwi-island-rubavu-gisenyi-karongi-kibuye-rusizi-cyangugu-rd-congo-ruanda",
+    "nome_pt": "Hidrovia e Lanchas Expressas do Lago Kivu (Goma–Ilha de Idjwi–Bukavu na RD Congo e Rubavu–Karongi–Rusizi em Ruanda)",
+    "nome_en": "Lake Kivu Express Boats & Passenger Ferries (Goma–Idjwi Island–Bukavu in DR Congo & Rubavu–Karongi–Rusizi in Rwanda)",
+    "pais": "RD Congo / Ruanda",
+    "cidade": "Goma / Bukavu / Ilha de Idjwi / Rubavu (Gisenyi) / Karongi / Rusizi",
+    "uf": "Nord-Kivu / Sud-Kivu / Western Province",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "SNCC Lac Kivu / Ihusi Express / Marinette & Emmanuel Express / RTDA Lake Kivu Water Bus",
+    "inauguracao": "1930",
+    "extensao_km": 230,
+    "bitola": "N/A (Hidrovia Lacustre Internacional do Vale do Rift Albertino — Lago Kivu)",
+    "eletrificacao": "Lanchas Rápidas (Vedettes Rapides 3h) e Navios Ro-Pax / Passageiros Noturnos",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 16500,
+    "ano_referencia": 2026,
+    "investimento": "Construção dos novos portos modernos no Lago Kivu em Rubavu, Karongi, Rusizi e Nkora (Ruanda) e Goma/Bukavu (RDC)",
+    "proximas_entregas": "Entrada em operação plena dos novos terminais portuários de passageiros e carga de Rubavu e Rusizi",
+    "resumo_pt": "Principal artéria de transporte de passageiros entre o Kivu do Norte e o Kivu do Sul na República Democrática do Congo e ao longo da margem ocidental de Ruanda: no lado congolês, lanchas expressas (3 horas de viagem) e navios noturnos conectam diariamente os portos de Goma e Bukavu, além de servir a grande Ilha de Idjwi (segunda maior ilha interior da África, com mais de 300 mil habitantes); no lado ruandês, o sistema público de barcos conecta Rubavu (Gisenyi), Karongi (Kibuye), l'Île Nkombo e Rusizi (Cyangugu).",
+    "resumo_en": "Primary passenger transport artery linking North Kivu and South Kivu in the Democratic Republic of the Congo and along Rwanda's western shore: express speedboats (3 hours) and overnight passenger ships connect Goma, Idjwi Island and Bukavu daily, while Rwanda's Lake Kivu water transport links Rubavu (Gisenyi), Karongi (Kibuye) and Rusizi (Cyangugu).",
+    "lat": -2.0415,
+    "lon": 29.0652,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "sncc-cd",
+      "rtda-rw"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "lago-kivu",
+      "rd-congo",
+      "ruanda",
+      "goma",
+      "bukavu",
+      "idjwi",
+      "rubavu",
+      "karongi"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr61-kiv-l1",
+        "nome": "Expresso Ocidental do Lago Kivu (Port de Goma ↔ Ilha de Idjwi ↔ Port de Bukavu, RD Congo)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 115,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-afr61-kiv-l2",
+        "nome": "Corredor Oriental do Lago Kivu (Rubavu / Gisenyi ↔ Karongi / Kibuye ↔ Ilha Nkombo / Rusizi, Ruanda)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 115,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "lake-tanganyika-mv-liemba-mv-mwongozo-mpulungu-kigoma-kalemie-uvira-bujumbura-moba-zambia-tanzania-rd-congo-burundi",
+    "slug": "lake-tanganyika-mv-liemba-mv-mwongozo-mpulungu-kigoma-kalemie-uvira-bujumbura-moba-zambia-tanzania-rd-congo-burundi",
+    "nome_pt": "Hidrovia Internacional do Lago Tanganica (Mpulungu–Kigoma–Kalemie–Uvira–Bujumbura, Zâmbia/Tanzânia/RD Congo/Burundi)",
+    "nome_en": "Lake Tanganyika International Waterway (Mpulungu–Kigoma–Kalemie–Uvira–Bujumbura, Zambia/Tanzania/DR Congo/Burundi)",
+    "pais": "Zâmbia / Tanzânia / RD Congo / Burundi",
+    "cidade": "Mpulungu / Kigoma / Kalemie / Uvira / Bujumbura",
+    "uf": "Lake Tanganyika Basin",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "MSCL Tanzania (Marine Services Co.) / SNCC RD Congo / Mpulungu Harbour Corp.",
+    "inauguracao": "1915",
+    "extensao_km": 1250,
+    "bitola": "N/A (Hidrovia Internacional do Lago Tanganica — 673 km de extensão norte–sul)",
+    "eletrificacao": "Navios Lacustres de Passageiros e Carga (MV Liemba — em reabilitação, MV Mwongozo e Lanchas de Costa)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 9200,
+    "ano_referencia": 2026,
+    "investimento": "Reabilitação completa do histórico navio centenário MV Liemba (1913/1915) em Kigoma e modernização dos portos de Kalemie, Mpulungu e Bujumbura",
+    "proximas_entregas": "Retorno operacional do MV Liemba modernizado e novo navio Ro-Pax da MSCL para o Lago Tanganica",
+    "resumo_pt": "Eixo internacional de navegação ao longo dos 673 km do Lago Tanganica (o lago de água doce mais longo do mundo e segundo mais profundo), unindo quatro países e dois grandes terminais ferroviários: Kigoma na Tanzânia (ponta da Central Line da TRC desde Dar es Salaam) e Kalemie na RD Congo (ponta da malha ferroviária da SNCC desde Lubumbashi/Kamina), além de Mpulungu no extremo sul (Zâmbia) e Uvira / Bujumbura no extremo norte (RD Congo e Burundi).",
+    "resumo_en": "International navigation corridor along the 673 km length of Lake Tanganyika (the world's longest freshwater lake), connecting four nations and two major railheads: Kigoma in Tanzania (terminus of TRC's Central Line from Dar es Salaam) and Kalemie in DR Congo (terminus of the SNCC railway), alongside Mpulungu in Zambia and Uvira/Bujumbura in the north.",
+    "lat": -5.9265,
+    "lon": 29.6252,
+    "zoom_inicial": 5.8,
+    "fontes": [
+      "mscl-tz",
+      "sncc-cd"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "lago-tanganica",
+      "tanzania",
+      "kigoma",
+      "zambia",
+      "mpulungu",
+      "rd-congo",
+      "kalemie",
+      "burundi",
+      "bujumbura"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr61-tan-l1",
+        "nome": "Eixo Longitudinal Sul–Norte do Lago Tanganica (Mpulungu Zâmbia ↔ Kasanga / Kipili ↔ Kigoma Tanzânia ↔ Rumonge / Bujumbura Burundi)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 720,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-afr61-tan-l2",
+        "nome": "Eixo Trans-Tanganica e Margem Congolesa (Kigoma ↔ Kalemie SNCC ↔ Moba ↔ Uvira Kalundu ↔ Bujumbura)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 530,
+        "estacoes": 4
+      }
+    ]
+  },
+  {
+    "id": "lake-kariba-ferries-kariba-binga-milibizi-siavonga-zambia-zimbabue-zambezi-river-ferries-senanga-sesheke-chemba-caia",
+    "slug": "lake-kariba-ferries-kariba-binga-milibizi-siavonga-zambia-zimbabue-zambezi-river-ferries-senanga-sesheke-chemba-caia",
+    "nome_pt": "Kariba Ferries no Lago Kariba (Kariba/Siavonga–Binga–Mlibizi, Zimbábue/Zâmbia) e Travessias Fluviais da Bacia do Rio Zambeze (Zâmbia/Moçambique)",
+    "nome_en": "Kariba Ferries on Lake Kariba (Kariba/Siavonga–Binga–Mlibizi, Zimbabwe/Zambia) & Zambezi River Basin Ferries (Zambia/Mozambique)",
+    "pais": "Zimbábue / Zâmbia / Moçambique",
+    "cidade": "Kariba / Siavonga / Binga / Mlibizi / Senanga / Tete",
+    "uf": "Zambezi Basin",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Kariba Ferries (Pvt) Ltd (Sealion / Seahorse) & Zambezi River Transport / Administrações Fluviais",
+    "inauguracao": "1963",
+    "extensao_km": 640,
+    "bitola": "N/A (Hidrovia Lacustre do Lago Kariba e Rio Zambeze)",
+    "eletrificacao": "Ferries Ro-Pax de Longa Distância (MV Sealion) e Balsas Fluviais do Alto e Baixo Zambeze",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 4800,
+    "ano_referencia": 2026,
+    "investimento": "Modernização dos atracadouros de Andora Harbour (Kariba), Binga, Mlibizi e Siavonga",
+    "proximas_entregas": "Expansão do transporte hidroviário comunitário entre Sinazongwe, Chipepo e Siavonga na Zâmbia",
+    "resumo_pt": "Navegação ao longo do Lago Kariba (maior lago e reservatório artificial do mundo em volume, com 226 km de extensão entre a Zâmbia e o Zimbábue) e do Rio Zambeze: a Kariba Ferries opera a travessia longitudinal de veículos e passageiros de 22 horas entre Andora Harbour (Kariba Town, perto da barragem e de Siavonga) e Mlibizi (próximo a Binga, Hwange e Victoria Falls), complementada pelas balsas e barcos comunitários do Alto Zambeze (planície de Barotse em Senanga/Mongu na Zâmbia) e do Baixo Zambeze (entre Tete, Chemba, Caia e Marromeu em Moçambique).",
+    "resumo_en": "Navigation across Lake Kariba (the world's largest human-made lake by volume, spanning 226 km between Zambia and Zimbabwe) and the Zambezi River: Kariba Ferries operates the 22-hour longitudinal Ro-Pax crossing between Andora Harbour (Kariba Town/Siavonga) and Mlibizi (near Binga and Victoria Falls), complemented by river ferries on the Upper Zambezi in Zambia and the Lower Zambezi in Mozambique.",
+    "lat": -17.0512,
+    "lon": 27.9512,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "mot-zw",
+      "mot-zm"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "zimbabue",
+      "zambia",
+      "mocambique",
+      "lago-kariba",
+      "rio-zambeze",
+      "binga",
+      "siavonga"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr61-kar-l1",
+        "nome": "Lago Kariba Ro-Pax Ferry (Kariba Andora Harbour / Siavonga ↔ Binga / Sinazongwe ↔ Mlibizi)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 290,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-afr61-zam-l2",
+        "nome": "Hidrovias do Alto e Baixo Rio Zambeze (Senanga / Sesheke Zâmbia & Tete / Chemba / Marromeu Moçambique)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 350,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "cosama-aline-sitoe-diatta-dakar-carabane-ziguinchor-casamance-bac-de-rosso-rio-senegal-foundiougne-ilhas-saloum-senegal-mauritania",
+    "slug": "cosama-aline-sitoe-diatta-dakar-carabane-ziguinchor-casamance-bac-de-rosso-rio-senegal-foundiougne-ilhas-saloum-senegal-mauritania",
+    "nome_pt": "COSAMA Dakar–Ilha de Carabane–Ziguinchor (Rio Casamance), Barcas do Delta do Saloum e Bac de Rosso no Rio Senegal (Senegal/Mauritânia)",
+    "nome_en": "COSAMA Dakar–Carabane Island–Ziguinchor Ferry (Casamance River), Sine-Saloum Delta Boats & Rosso Ferry on the Senegal River (Senegal/Mauritania)",
+    "pais": "Senegal / Mauritânia",
+    "cidade": "Dakar / Ziguinchor / Carabane / Foundiougne / Rosso / Saint-Louis",
+    "uf": "Dakar / Ziguinchor / Fatick / Saint-Louis / Trarza",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "COSAMA (Consortium Sénégalais d'Activités Maritimes) / Bac de Rosso",
+    "inauguracao": "2008",
+    "extensao_km": 720,
+    "bitola": "N/A (Hidrovia Costeira Atlântica e Fluvial dos Rios Casamance, Saloum e Senegal)",
+    "eletrificacao": "Navios Ro-Pax Aline Sitoé Diatta, Aguène e Diambogne, Barcas do Saloum e Ferry Internacional de Rosso",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 7400,
+    "ano_referencia": 2026,
+    "investimento": "Dragagem do canal do Rio Casamance, modernização do porto de Ziguinchor e do píer da Ilha de Carabane",
+    "proximas_entregas": "Novas embarcações para o transporte insular no Delta do Sine-Saloum e Baixa Casamance",
+    "resumo_pt": "Principais corredores marítimos e fluviais do Senegal e da fronteira com a Mauritânia: a COSAMA opera os navios Ro-Pax de passageiros Aline Sitoé Diatta, Aguène e Diambogne entre o Porto de Dakar, a histórica Ilha de Carabane (na foz do Rio Casamance) e o Porto de Ziguinchor, garantindo a ligação direta com o sul do país sem atravessar a Gâmbia; no centro do país, pirogas motorizadas e barcas interligam Foundiougne, Ndangane, Toubacouta e as ilhas de Mar Lodj e Niodior no Delta do Sine-Saloum; no extremo norte, o Bac de Rosso e barcos fluviais cruzam e navegam o Rio Senegal entre Saint-Louis, Rosso (fronteira Senegal–Mauritânia) e Podor.",
+    "resumo_en": "Primary maritime and river corridors of Senegal and the Mauritanian border: COSAMA operates the Ro-Pax passenger vessels Aline Sitoé Diatta, Aguène and Diambogne linking Dakar, historic Carabane Island and Ziguinchor up the Casamance River; island boats serve Foundiougne, Ndangane and Niodior in the Sine-Saloum Delta; and in the north, the Rosso Ferry and river vessels navigate the Senegal River between Saint-Louis, Rosso and Podor.",
+    "lat": 13.6215,
+    "lon": -16.7015,
+    "zoom_inicial": 6.4,
+    "fontes": [
+      "anam-sn",
+      "cosama-sn"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "senegal",
+      "mauritania",
+      "dakar",
+      "ziguinchor",
+      "carabane",
+      "casamance",
+      "saloum",
+      "rosso"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr61-sen-l1",
+        "nome": "Linha Marítimo-Fluvial Dakar–Casamance (Gare Maritime de Dakar ↔ Ilha de Carabane ↔ Ziguinchor)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 440,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-afr61-sen-l2",
+        "nome": "Delta do Sine-Saloum e Hidrovia do Rio Senegal (Foundiougne / Niodior & Saint-Louis ↔ Bac de Rosso ↔ Podor)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 280,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "sotragel-compagnie-des-bacs-abidjan-lagune-ebrie-treichville-plateau-abobodoume-assinie-grand-lahou-costa-do-marfim",
+    "slug": "sotragel-compagnie-des-bacs-abidjan-lagune-ebrie-treichville-plateau-abobodoume-assinie-grand-lahou-costa-do-marfim",
+    "nome_pt": "Transporte Lagunar de Abidjan (SOTRA Bacs / STL / CITRANS na Laguna Ébrié: Plateau–Treichville–Abobodoumé–Blockhauss) e Grand-Lahou/Assinie (Costa do Marfim)",
+    "nome_en": "Abidjan Lagoon Water Bus Network (SOTRA Bacs / STL / CITRANS on Ébrié Lagoon: Plateau–Treichville–Abobodoumé–Blockhauss) & Grand-Lahou/Assinie (Côte d'Ivoire)",
+    "pais": "Costa do Marfim",
+    "cidade": "Abidjan / Grand-Lahou / Jacqueville / Assinie",
+    "uf": "Abidjan / Grands-Ponts / Sud-Comoé",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "SOTRA (Société des Transports Abidjanais) / STL (Société de Transport Lagunaire) / CITRANS (Aqualines)",
+    "inauguracao": "1980",
+    "extensao_km": 195,
+    "bitola": "N/A (Hidrovia Urbana e Costeira das Lagunas Ébrié e Aby)",
+    "eletrificacao": "Bateaux-Bus Urbanos da SOTRA, Catamarãs STL e Aqualines CITRANS",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 68000,
+    "ano_referencia": 2026,
+    "investimento": "Modernização das gares lagunares de Plateau, Treichville, Abobodoumé e Cocody/Blockhauss e integração com o futuro Metrô de Abidjan",
+    "proximas_entregas": "Novos bateaux-bus de alta capacidade e integração intermodal com a Linha 1 do Metrô de Abidjan",
+    "resumo_pt": "Um dos maiores sistemas de transporte hidroviário urbano da África Ocidental na Laguna Ébrié em Abidjan: três operadores integrados — a estatal SOTRA (linhas 501 a 506), a STL e a CITRANS (Aqualines) — conectam continuamente as estações lagunares de Plateau (centro financeiro), Treichville, Abobodoumé (Attécoubé/Yopougon), Blockhauss/Cocody, Marcory e Port-Bouët, transportando dezenas de milhares de passageiros por dia, somados à navegação lagunar costeira entre Abidjan, Jacqueville, Grand-Lahou e Assinie-Mafia.",
+    "resumo_en": "One of West Africa's largest urban water transit networks on the Ébrié Lagoon in Abidjan: three operators — state-owned SOTRA (lines 501–506), STL and CITRANS (Aqualines) — connect the lagoon terminals of Plateau, Treichville, Abobodoumé, Blockhauss/Cocody and Marcory, carrying tens of thousands of daily commuters, complemented by coastal lagoon navigation to Grand-Lahou and Assinie.",
+    "lat": 5.3185,
+    "lon": -4.0175,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "sotra-ci",
+      "dgamp-ci"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "bateau-bus",
+      "costa-do-marfim",
+      "abidjan",
+      "laguna-ebrie",
+      "sotra",
+      "treichville",
+      "plateau"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr61-abi-l1",
+        "nome": "Rede Urbana Laguna Ébrié — SOTRA / STL / CITRANS (Abobodoumé ↔ Plateau ↔ Treichville ↔ Blockhauss / Cocody)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 35,
+        "estacoes": 4
+      },
+      {
+        "id": "hidro-afr61-abi-l2",
+        "nome": "Corredor Lagunar Costeiro Ébrié–Aby (Abidjan Treichville ↔ Jacqueville / Grand-Lahou & Assinie-Mafia)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 160,
+        "estacoes": 2
+      }
+    ]
   }
 ]
