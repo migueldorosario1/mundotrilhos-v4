@@ -56358,6 +56358,696 @@
           -50.485
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sorong-pelabuhan-rakyat-raja-ampat-ferry-id",
+        "nome": "Pelabuhan Rakyat Sorong — Terminal de Ferries e Barcas Rápidas para Raja Ampat (Papua Sudoeste)",
+        "sistema_id": "asdp-sorong-waisai-raja-ampat-biak-yapen-jayapura-papua-lago-toba-parapat-samosir-sumatra-indonesia",
+        "linha_id": "linha-asdp-express-bahari-sorong-waisai-waigeo-misool-raja-ampat-id",
+        "pais": "Indonésia",
+        "cidade": "Sorong / Waisai (Raja Ampat) / Manokwari / Biak / Serui (Yapen) / Jayapura / Parapat e Ilha de Samosir (Lago Toba)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto de passageiros da Península de Doberai em Sorong, porta de entrada marítima para todas as ilhas do Arquipélago de Raja Ampat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.252,
+          -0.882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-waisai-port-waigeo-raja-ampat-id",
+        "nome": "Pelabuhan Waisai (Ilha de Waigeo) — Capital do Arquipélago de Raja Ampat (Papua)",
+        "sistema_id": "asdp-sorong-waisai-raja-ampat-biak-yapen-jayapura-papua-lago-toba-parapat-samosir-sumatra-indonesia",
+        "linha_id": "linha-asdp-express-bahari-sorong-waisai-waigeo-misool-raja-ampat-id",
+        "pais": "Indonésia",
+        "cidade": "Sorong / Waisai (Raja Ampat) / Manokwari / Biak / Serui (Yapen) / Jayapura / Parapat e Ilha de Samosir (Lago Toba)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal insular de Waisai em Waigeo, atendido duas vezes ao dia pelos catamarãs rápidos Express Bahari e ferries Ro-Pax da ASDP vindos de Sorong."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.822,
+          -0.432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-biak-serui-yapen-manokwari-ports-papua-id",
+        "nome": "Portos de Biak, Serui (Ilha de Yapen) e Manokwari — Baía de Cenderawasih (Papua)",
+        "sistema_id": "asdp-sorong-waisai-raja-ampat-biak-yapen-jayapura-papua-lago-toba-parapat-samosir-sumatra-indonesia",
+        "linha_id": "linha-pelni-asdp-papua-manokwari-biak-serui-yapen-nabire-jayapura-id",
+        "pais": "Indonésia",
+        "cidade": "Sorong / Waisai (Raja Ampat) / Manokwari / Biak / Serui (Yapen) / Jayapura / Parapat e Ilha de Samosir (Lago Toba)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais marítimos da Baía de Cenderawasih, interligando as ilhas de Biak e Yapen ao continente da Nova Guiné."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.082,
+          -1.185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-jayapura-passenger-port-papua-id",
+        "nome": "Porto de Jayapura — Terminal Oriental da PELNI e ASDP na Costa Norte de Papua",
+        "sistema_id": "asdp-sorong-waisai-raja-ampat-biak-yapen-jayapura-papua-lago-toba-parapat-samosir-sumatra-indonesia",
+        "linha_id": "linha-pelni-asdp-papua-manokwari-biak-serui-yapen-nabire-jayapura-id",
+        "pais": "Indonésia",
+        "cidade": "Sorong / Waisai (Raja Ampat) / Manokwari / Biak / Serui (Yapen) / Jayapura / Parapat e Ilha de Samosir (Lago Toba)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Capital da província de Papua e ponto final oriental das grandes rotas de passageiros da PELNI na Indonésia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.718,
+          -2.538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ajibata-parapat-ambarita-samosir-lago-toba-id",
+        "nome": "Terminais de Ajibata (Parapat) & Ambarita / Tomok (Ilha de Samosir) — Geoparque do Lago Toba (Sumatra)",
+        "sistema_id": "asdp-sorong-waisai-raja-ampat-biak-yapen-jayapura-papua-lago-toba-parapat-samosir-sumatra-indonesia",
+        "linha_id": "linha-asdp-lago-toba-ajibata-parapat-ambarita-tomok-ilha-samosir-id",
+        "pais": "Indonésia",
+        "cidade": "Sorong / Waisai (Raja Ampat) / Manokwari / Biak / Serui (Yapen) / Jayapura / Parapat e Ilha de Samosir (Lago Toba)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Novos terminais lacustres da ASDP no Lago Toba, onde os ferries KMP Ihan Batak e KMP Pora-Pora fazem a travessia até a histórica Ilha de Samosir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.932,
+          2.658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kali-adem-muara-angke-marina-ancol-jakarta-id",
+        "nome": "Portos de Kali Adem (Muara Angke) e Marina Ancol — Terminais de Barcas para as Mil Ilhas (Jacarta)",
+        "sistema_id": "jakarta-kepulauan-seribu-muara-angke-ancol-surabaya-madura-kangean-sape-komodo-labuan-bajo-bira-selayar-indonesia",
+        "linha_id": "linha-jakarta-muara-angke-ancol-kepulauan-seribu-surabaya-madura-kangean-id",
+        "pais": "Indonésia",
+        "cidade": "Jacarta (Muara Angke e Marina Ancol) / Kepulauan Seribu / Surabaya e Madura / Sape (Sumbawa) / Labuan Bajo (Komodo, Flores) / Bira e Selayar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais hidroviários do norte de Jacarta operados pela Dishub DKI Jakarta para as travessias diárias rumo ao arquipélago de Kepulauan Seribu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.775,
+          -6.105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-pramuka-tidung-pari-kepulauan-seribu-piers-id",
+        "nome": "Píeres das Ilhas Pramuka, Tidung e Pari — Regência de Kepulauan Seribu (Mil Ilhas, Jacarta)",
+        "sistema_id": "jakarta-kepulauan-seribu-muara-angke-ancol-surabaya-madura-kangean-sape-komodo-labuan-bajo-bira-selayar-indonesia",
+        "linha_id": "linha-jakarta-muara-angke-ancol-kepulauan-seribu-surabaya-madura-kangean-id",
+        "pais": "Indonésia",
+        "cidade": "Jacarta (Muara Angke e Marina Ancol) / Kepulauan Seribu / Surabaya e Madura / Sape (Sumbawa) / Labuan Bajo (Komodo, Flores) / Bira e Selayar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Sede administrativa da regência de Kepulauan Seribu na Ilha Pramuka e os populares píeres insulares de Tidung e Pari."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.615,
+          -5.745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ujung-surabaya-kamal-madura-kalianget-kangean-id",
+        "nome": "Terminais de Ujung (Surabaya)–Kamal (Madura) e Kalianget–Arquipélago de Kangean (Java Oriental)",
+        "sistema_id": "jakarta-kepulauan-seribu-muara-angke-ancol-surabaya-madura-kangean-sape-komodo-labuan-bajo-bira-selayar-indonesia",
+        "linha_id": "linha-jakarta-muara-angke-ancol-kepulauan-seribu-surabaya-madura-kangean-id",
+        "pais": "Indonésia",
+        "cidade": "Jacarta (Muara Angke e Marina Ancol) / Kepulauan Seribu / Surabaya e Madura / Sape (Sumbawa) / Labuan Bajo (Komodo, Flores) / Bira e Selayar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Histórica travessia Ro-Pax do Estreito de Madura em Surabaya e o porto oriental de Kalianget (Sumenep) rumo às ilhas de Kangean, Raas e Sapudi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.738,
+          -7.198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sape-sumbawa-labuan-bajo-komodo-ferry-ports-id",
+        "nome": "Portos de Sape (Bima, Sumbawa) e Labuan Bajo (Flores) — Travessia do Estreito de Sape e Parque Nacional de Komodo",
+        "sistema_id": "jakarta-kepulauan-seribu-muara-angke-ancol-surabaya-madura-kangean-sape-komodo-labuan-bajo-bira-selayar-indonesia",
+        "linha_id": "linha-asdp-sape-sumbawa-komodo-labuan-bajo-flores-bira-selayar-id",
+        "pais": "Indonésia",
+        "cidade": "Jacarta (Muara Angke e Marina Ancol) / Kepulauan Seribu / Surabaya e Madura / Sape (Sumbawa) / Labuan Bajo (Komodo, Flores) / Bira e Selayar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Elo marítimo estratégico da ASDP entre as ilhas de Sumbawa e Flores, cruzando as águas do Parque Nacional de Komodo (Patrimônio Mundial da UNESCO)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.878,
+          -8.488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bira-bulukumba-pamatata-selayar-island-sulawesi-id",
+        "nome": "Porto de Bira (Bulukumba) & Pamatata (Ilha de Selayar) — Travessia de Sulawesi do Sul",
+        "sistema_id": "jakarta-kepulauan-seribu-muara-angke-ancol-surabaya-madura-kangean-sape-komodo-labuan-bajo-bira-selayar-indonesia",
+        "linha_id": "linha-asdp-sape-sumbawa-komodo-labuan-bajo-flores-bira-selayar-id",
+        "pais": "Indonésia",
+        "cidade": "Jacarta (Muara Angke e Marina Ancol) / Kepulauan Seribu / Surabaya e Madura / Sape (Sumbawa) / Labuan Bajo (Komodo, Flores) / Bira e Selayar",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de ferries Ro-Pax da ASDP no cabo meridional de Sulawesi (Tanjung Bira), conectando o continente à Ilha de Selayar e ao Parque Nacional de Taka Bonerate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.455,
+          -5.612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-matnog-port-sorsogon-luzon-ah26-ph",
+        "nome": "Porto de Matnog (Sorsogon) — Terminal Sul de Luzon da Autoestrada Náutica Pan-Filipina (AH26)",
+        "sistema_id": "matnog-allen-samar-masbate-liloan-surigao-nautical-highway-coron-el-nido-culion-palawan-ferries-filipinas",
+        "linha_id": "linha-ah26-eastern-nautical-highway-matnog-allen-masbate-liloan-lipata-surigao-ph",
+        "pais": "Filipinas",
+        "cidade": "Matnog (Sorsogon) / Allen (Samar) / Masbate / Liloan (Leyte do Sul) / Surigao (Lipata) / Coron / Culion / El Nido / Puerto Princesa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Um dos portos Ro-Ro mais movimentados do Sudeste Asiático, onde ônibus, caminhões e passageiros embarcam 24h para cruzar o Estreito de San Bernardino até Samar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.086,
+          12.585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-allen-balwharteco-jubasan-ports-northern-samar-ph",
+        "nome": "Portos de Allen (Balwharteco & Santa Clara) — Entrada Norte da Ilha de Samar (Visayas Orientais)",
+        "sistema_id": "matnog-allen-samar-masbate-liloan-surigao-nautical-highway-coron-el-nido-culion-palawan-ferries-filipinas",
+        "linha_id": "linha-ah26-eastern-nautical-highway-matnog-allen-masbate-liloan-lipata-surigao-ph",
+        "pais": "Filipinas",
+        "cidade": "Matnog (Sorsogon) / Allen (Samar) / Masbate / Liloan (Leyte do Sul) / Surigao (Lipata) / Coron / Culion / El Nido / Puerto Princesa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais Ro-Pax no noroeste de Samar que recebem os ferries contínuos vindos de Matnog (Luzon)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.282,
+          12.502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-liloan-southern-leyte-lipata-surigao-mindanao-ph",
+        "nome": "Terminais Ro-Ro de Liloan / San Ricardo (Leyte do Sul) e Lipata (Surigao City) — Ponte Marítima Visayas–Mindanao",
+        "sistema_id": "matnog-allen-samar-masbate-liloan-surigao-nautical-highway-coron-el-nido-culion-palawan-ferries-filipinas",
+        "linha_id": "linha-ah26-eastern-nautical-highway-matnog-allen-masbate-liloan-lipata-surigao-ph",
+        "pais": "Filipinas",
+        "cidade": "Matnog (Sorsogon) / Allen (Samar) / Masbate / Liloan (Leyte do Sul) / Surigao (Lipata) / Coron / Culion / El Nido / Puerto Princesa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia Ro-Ro da AH26 pelo Estreito de Surigao, unindo a ilha de Leyte ao extremo norte de Mindanao."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.438,
+          9.815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-coron-culion-ports-calamian-islands-palawan-ph",
+        "nome": "Porto de Coron (Ilha de Busuanga) & Ilha de Culion — Arquipélago de Calamian (Palawan)",
+        "sistema_id": "matnog-allen-samar-masbate-liloan-surigao-nautical-highway-coron-el-nido-culion-palawan-ferries-filipinas",
+        "linha_id": "linha-palawan-calamian-coron-busuanga-culion-el-nido-puerto-princesa-ph",
+        "pais": "Filipinas",
+        "cidade": "Matnog (Sorsogon) / Allen (Samar) / Masbate / Liloan (Leyte do Sul) / Surigao (Lipata) / Coron / Culion / El Nido / Puerto Princesa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal hub marítimo do norte de Palawan, conectando Coron a Manila, Mindoro, Culion e El Nido."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.205,
+          11.998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-el-nido-puerto-princesa-ports-palawan-ph",
+        "nome": "Terminal de Ferries de El Nido & Porto de Puerto Princesa — Ilha de Palawan (Filipinas)",
+        "sistema_id": "matnog-allen-samar-masbate-liloan-surigao-nautical-highway-coron-el-nido-culion-palawan-ferries-filipinas",
+        "linha_id": "linha-palawan-calamian-coron-busuanga-culion-el-nido-puerto-princesa-ph",
+        "pais": "Filipinas",
+        "cidade": "Matnog (Sorsogon) / Allen (Samar) / Masbate / Liloan (Leyte do Sul) / Surigao (Lipata) / Coron / Culion / El Nido / Puerto Princesa",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos das famosas falésias calcárias de Bacuit (El Nido) e da capital provincial Puerto Princesa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.388,
+          11.182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-donsak-ferry-piers-seatran-raja-surat-thani-th",
+        "nome": "Terminais de Donsak (Seatran, Raja & Lomprayah Piers) — Surat Thani (Continente)",
+        "sistema_id": "lomprayah-seatran-raja-ferry-surat-thani-donsak-koh-samui-koh-phangan-koh-tao-trat-koh-chang-phuket-phi-phi-krabi-tailandia",
+        "linha_id": "linha-golfo-da-tailandia-donsak-koh-samui-phangan-koh-tao-chumphon-trat-koh-chang-th",
+        "pais": "Tailândia",
+        "cidade": "Surat Thani (Donsak) / Koh Samui / Koh Phangan / Koh Tao / Chumphon / Trat (Koh Chang e Koh Kood) / Phuket / Ilhas Phi Phi / Krabi / Koh Lanta / Satun (Koh Lipe)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Complexo portuário continental de Donsak em Surat Thani, base das frotas Ro-Pax e de catamarãs para o arquipélago de Samui."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.688,
+          9.318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nathon-lipa-noi-koh-samui-thong-sala-phangan-th",
+        "nome": "Portos de Nathon e Lipa Noi (Koh Samui) & Thong Sala (Koh Phangan) — Golfo da Tailândia",
+        "sistema_id": "lomprayah-seatran-raja-ferry-surat-thani-donsak-koh-samui-koh-phangan-koh-tao-trat-koh-chang-phuket-phi-phi-krabi-tailandia",
+        "linha_id": "linha-golfo-da-tailandia-donsak-koh-samui-phangan-koh-tao-chumphon-trat-koh-chang-th",
+        "pais": "Tailândia",
+        "cidade": "Surat Thani (Donsak) / Koh Samui / Koh Phangan / Koh Tao / Chumphon / Trat (Koh Chang e Koh Kood) / Phuket / Ilhas Phi Phi / Krabi / Koh Lanta / Satun (Koh Lipe)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais terminais insulares de Koh Samui e Koh Phangan, movimentando milhões de passageiros por ano."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.935,
+          9.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-mae-haad-koh-tao-thung-makham-chumphon-trat-koh-chang-th",
+        "nome": "Mae Haad Pier (Koh Tao), Chumphon & Laem Ngop (Trat–Koh Chang) — Golfo da Tailândia",
+        "sistema_id": "lomprayah-seatran-raja-ferry-surat-thani-donsak-koh-samui-koh-phangan-koh-tao-trat-koh-chang-phuket-phi-phi-krabi-tailandia",
+        "linha_id": "linha-golfo-da-tailandia-donsak-koh-samui-phangan-koh-tao-chumphon-trat-koh-chang-th",
+        "pais": "Tailândia",
+        "cidade": "Surat Thani (Donsak) / Koh Samui / Koh Phangan / Koh Tao / Chumphon / Trat (Koh Chang e Koh Kood) / Phuket / Ilhas Phi Phi / Krabi / Koh Lanta / Satun (Koh Lipe)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Cais principal da ilha de mergulho de Koh Tao, conectado aos catamarãs de alta velocidade da Lomprayah para Chumphon, e os píeres de Trat para Koh Chang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.825,
+          10.082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rassada-pier-phuket-tonsai-pier-koh-phi-phi-th",
+        "nome": "Rassada Pier (Phuket) & Tonsai Pier (Koh Phi Phi Don) — Corredor Central do Mar de Andamão",
+        "sistema_id": "lomprayah-seatran-raja-ferry-surat-thani-donsak-koh-samui-koh-phangan-koh-tao-trat-koh-chang-phuket-phi-phi-krabi-tailandia",
+        "linha_id": "linha-mar-de-andamao-phuket-rassada-koh-phi-phi-krabi-koh-lanta-pakbara-koh-lipe-th",
+        "pais": "Tailândia",
+        "cidade": "Surat Thani (Donsak) / Koh Samui / Koh Phangan / Koh Tao / Chumphon / Trat (Koh Chang e Koh Kood) / Phuket / Ilhas Phi Phi / Krabi / Koh Lanta / Satun (Koh Lipe)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Maior terminal de ferries de passageiros de Phuket (Rassada) e o movimentado píer de Tonsai no istmo central de Koh Phi Phi Don."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.422,
+          7.878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-klong-jilad-krabi-saladan-koh-lanta-pakbara-koh-lipe-th",
+        "nome": "Klong Jilad Pier (Krabi), Saladan (Koh Lanta) & Pakbara–Koh Lipe (Satun) — Sul do Mar de Andamão",
+        "sistema_id": "lomprayah-seatran-raja-ferry-surat-thani-donsak-koh-samui-koh-phangan-koh-tao-trat-koh-chang-phuket-phi-phi-krabi-tailandia",
+        "linha_id": "linha-mar-de-andamao-phuket-rassada-koh-phi-phi-krabi-koh-lanta-pakbara-koh-lipe-th",
+        "pais": "Tailândia",
+        "cidade": "Surat Thani (Donsak) / Koh Samui / Koh Phangan / Koh Tao / Chumphon / Trat (Koh Chang e Koh Kood) / Phuket / Ilhas Phi Phi / Krabi / Koh Lanta / Satun (Koh Lipe)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais marítimos que conectam Krabi, Koh Lanta e o porto de Pakbara (Satun) ao Parque Nacional Marinho de Tarutao e Koh Lipe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.905,
+          8.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dong-bai-tuan-chau-cat-ba-island-ferry-terminals-vn",
+        "nome": "Terminais de Đồng Bài (Hải Phòng), Tuần Châu (Ha Long) e Ilha de Cát Bà (Cái Viềng / Gia Luận) — Patrimônio Mundial da UNESCO",
+        "sistema_id": "ha-long-hai-phong-cat-ba-island-sa-ky-ly-son-phan-thiet-phu-quy-rach-gia-ha-tien-phu-quoc-nam-du-vietna",
+        "linha_id": "linha-vietna-norte-centro-hai-phong-ha-long-cat-ba-sa-ky-ly-son-phan-thiet-phu-quy-vn",
+        "pais": "Vietnã",
+        "cidade": "Hải Phòng / Ha Long (Tuần Châu) / Ilha de Cát Bà / Quảng Ngãi (Sa Kỳ–Lý Sơn) / Phan Thiết (Phú Quý) / Rạch Giá e Hà Tiên (Phú Quốc e Nam Du)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Pontes hidroviárias que unem Hải Phòng e a Baía de Ha Long à maior ilha do Golfo de Tonquim vietnamita, Cát Bà."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.048,
+          20.725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sa-ky-port-ly-son-island-quang-ngai-vn",
+        "nome": "Porto de Sa Kỳ (Quảng Ngãi) & Ilha Vulcânica de Lý Sơn — Costa Central do Vietnã",
+        "sistema_id": "ha-long-hai-phong-cat-ba-island-sa-ky-ly-son-phan-thiet-phu-quy-rach-gia-ha-tien-phu-quoc-nam-du-vietna",
+        "linha_id": "linha-vietna-norte-centro-hai-phong-ha-long-cat-ba-sa-ky-ly-son-phan-thiet-phu-quy-vn",
+        "pais": "Vietnã",
+        "cidade": "Hải Phòng / Ha Long (Tuần Châu) / Ilha de Cát Bà / Quảng Ngãi (Sa Kỳ–Lý Sơn) / Phan Thiết (Phú Quý) / Rạch Giá e Hà Tiên (Phú Quốc e Nam Du)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de lanchas de alta velocidade que cruzam em 35 minutos os 30 km entre o continente em Quảng Ngãi e a histórica ilha vulcânica de Lý Sơn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.112,
+          15.378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-phan-thiet-phu-quy-island-binh-thuan-vn",
+        "nome": "Porto de Phan Thiết & Ilha de Phú Quý — Travessia de Bình Thuận (Sul-Centro do Vietnã)",
+        "sistema_id": "ha-long-hai-phong-cat-ba-island-sa-ky-ly-son-phan-thiet-phu-quy-rach-gia-ha-tien-phu-quoc-nam-du-vietna",
+        "linha_id": "linha-vietna-norte-centro-hai-phong-ha-long-cat-ba-sa-ky-ly-son-phan-thiet-phu-quy-vn",
+        "pais": "Vietnã",
+        "cidade": "Hải Phòng / Ha Long (Tuần Châu) / Ilha de Cát Bà / Quảng Ngãi (Sa Kỳ–Lý Sơn) / Phan Thiết (Phú Quý) / Rạch Giá e Hà Tiên (Phú Quốc e Nam Du)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Rota de catamarãs rápidos (Superdong e Phú Quốc Express) que percorre 56 milhas náuticas entre Phan Thiết e a Ilha de Phú Quý."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.942,
+          10.518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rach-gia-ha-tien-passenger-ports-kien-giang-vn",
+        "nome": "Portos de Passageiros de Rạch Giá e Hà Tiên — Hub Continental de Kiên Giang (Superdong / Phú Quốc Express)",
+        "sistema_id": "ha-long-hai-phong-cat-ba-island-sa-ky-ly-son-phan-thiet-phu-quy-rach-gia-ha-tien-phu-quoc-nam-du-vietna",
+        "linha_id": "linha-kien-giang-rach-gia-ha-tien-phu-quoc-hon-son-nam-du-superdong-vn",
+        "pais": "Vietnã",
+        "cidade": "Hải Phòng / Ha Long (Tuần Châu) / Ilha de Cát Bà / Quảng Ngãi (Sa Kỳ–Lý Sơn) / Phan Thiết (Phú Quý) / Rạch Giá e Hà Tiên (Phú Quốc e Nam Du)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Um dos maiores complexos de catamarãs rápidos de passageiros da Ásia, conectando o Delta do Mekong às ilhas do Golfo da Tailândia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.075,
+          10.008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bai-vong-phu-quoc-hon-son-nam-du-islands-vn",
+        "nome": "Porto de Bãi Vòng (Ilha de Phú Quốc), Hòn Sơn & Arquipélago de Nam Du — Golfo da Tailândia (Vietnã)",
+        "sistema_id": "ha-long-hai-phong-cat-ba-island-sa-ky-ly-son-phan-thiet-phu-quy-rach-gia-ha-tien-phu-quoc-nam-du-vietna",
+        "linha_id": "linha-kien-giang-rach-gia-ha-tien-phu-quoc-hon-son-nam-du-superdong-vn",
+        "pais": "Vietnã",
+        "cidade": "Hải Phòng / Ha Long (Tuần Châu) / Ilha de Cát Bà / Quảng Ngãi (Sa Kỳ–Lý Sơn) / Phan Thiết (Phú Quý) / Rạch Giá e Hà Tiên (Phú Quốc e Nam Du)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais insulares que recebem dezenas de catamarãs e ferries Ro-Pax diariamente na Ilha de Phú Quốc e nas ilhas de Hòn Sơn e Nam Du."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.058,
+          10.172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-lumut-marina-island-pangkor-island-perak-my",
+        "nome": "Terminais de Lumut, Marina Island & Ilha de Pangkor — Travessia do Estreito de Dinding (Perak, Malásia)",
+        "sistema_id": "serasa-brunei-labuan-ferry-lumut-pangkor-merang-redang-perhentian-malasia-berlin-nakroma-ramelau-dili-atauro-oecusse-timor-leste",
+        "linha_id": "linha-malasia-brunei-lumut-pangkor-merang-perhentian-redang-serasa-labuan-my-bn",
+        "pais": "Malásia, Brunei e Timor-Leste",
+        "cidade": "Muara (Serasa, Brunei) / Ilha de Labuan / Lumut e Ilha de Pangkor (Perak) / Kuala Besut e Merang (Perhentian e Redang) / Díli / Ilha de Ataúro / Oecusse",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia rápida de 15 a 30 minutos que liga a costa do estado de Perak à popular Ilha de Pangkor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.562,
+          4.212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kuala-besut-merang-perhentian-redang-terengganu-my",
+        "nome": "Jetties de Kuala Besut & Merang — Travessias das Ilhas Perhentian e Redang (Terengganu, Malásia)",
+        "sistema_id": "serasa-brunei-labuan-ferry-lumut-pangkor-merang-redang-perhentian-malasia-berlin-nakroma-ramelau-dili-atauro-oecusse-timor-leste",
+        "linha_id": "linha-malasia-brunei-lumut-pangkor-merang-perhentian-redang-serasa-labuan-my-bn",
+        "pais": "Malásia, Brunei e Timor-Leste",
+        "cidade": "Muara (Serasa, Brunei) / Ilha de Labuan / Lumut e Ilha de Pangkor (Perak) / Kuala Besut e Merang (Perhentian e Redang) / Díli / Ilha de Ataúro / Oecusse",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Embarcadouros na costa leste da Malásia Peninsular para os parques marinhos das Ilhas Perhentian, Redang e Lang Tengah."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.735,
+          5.908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-serasa-ferry-terminal-brunei-labuan-island-bn-my",
+        "nome": "Serasa Ferry Terminal (Muara, Brunei) & Labuan Ro-Ro Terminal (Malásia) — Baía de Brunei",
+        "sistema_id": "serasa-brunei-labuan-ferry-lumut-pangkor-merang-redang-perhentian-malasia-berlin-nakroma-ramelau-dili-atauro-oecusse-timor-leste",
+        "linha_id": "linha-malasia-brunei-lumut-pangkor-merang-perhentian-redang-serasa-labuan-my-bn",
+        "pais": "Malásia, Brunei e Timor-Leste",
+        "cidade": "Muara (Serasa, Brunei) / Ilha de Labuan / Lumut e Ilha de Pangkor (Perak) / Kuala Besut e Merang (Perhentian e Redang) / Díli / Ilha de Ataúro / Oecusse",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Conexão internacional de ferries Ro-Pax e lanchas rápidas entre o Sultanato de Brunei e o Território Federal de Labuan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.065,
+          5.015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-dili-beloi-ilha-de-atauro-aportil-tl",
+        "nome": "Porto de Díli & Píer de Beloi (Ilha de Ataúro) — APORTIL Navios Berlin Nakroma e Berlin Ramelau (Timor-Leste)",
+        "sistema_id": "serasa-brunei-labuan-ferry-lumut-pangkor-merang-redang-perhentian-malasia-berlin-nakroma-ramelau-dili-atauro-oecusse-timor-leste",
+        "linha_id": "linha-timor-leste-aportil-berlin-nakroma-ramelau-dili-atauro-oecusse-tl",
+        "pais": "Malásia, Brunei e Timor-Leste",
+        "cidade": "Muara (Serasa, Brunei) / Ilha de Labuan / Lumut e Ilha de Pangkor (Perak) / Kuala Besut e Merang (Perhentian e Redang) / Díli / Ilha de Ataúro / Oecusse",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal marítimo de passageiros da capital Díli e o porto de Beloi na Ilha de Ataúro, separados pelos 25 km do Estreito de Wetar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.572,
+          -8.552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-porto-de-mahata-pante-macassar-oecusse-tl",
+        "nome": "Porto de Mahata (Pante Macassar) — Enclave de Oecusse-Ambeno (Timor-Leste)",
+        "sistema_id": "serasa-brunei-labuan-ferry-lumut-pangkor-merang-redang-perhentian-malasia-berlin-nakroma-ramelau-dili-atauro-oecusse-timor-leste",
+        "linha_id": "linha-timor-leste-aportil-berlin-nakroma-ramelau-dili-atauro-oecusse-tl",
+        "pais": "Malásia, Brunei e Timor-Leste",
+        "cidade": "Muara (Serasa, Brunei) / Ilha de Labuan / Lumut e Ilha de Pangkor (Perak) / Kuala Besut e Merang (Perhentian e Redang) / Díli / Ilha de Ataúro / Oecusse",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal portuário do enclave costeiro de Oecusse-Ambeno no Mar de Savu, unido a Díli pelos ferries Ro-Pax Berlin Nakroma e Berlin Ramelau."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.368,
+          -9.192
+        ]
+      }
     }
   ]
 }
