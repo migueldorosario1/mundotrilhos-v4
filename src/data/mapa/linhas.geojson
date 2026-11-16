@@ -60584,6 +60584,398 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ria-formosa-faro-olhao-armona-culatra-farol-tavira-guadiana-ayamonte-pt-es",
+        "nome": "Parque Natural da Ria Formosa (Faro & Olhão ↔ Ilhas da Armona, Culatra e Farol + Tavira ↔ Ilha de Tavira) e Ferry Internacional do Guadiana (Vila Real ↔ Ayamonte)",
+        "sistema_id": "barcas-ria-formosa-faro-olhao-culatra-armona-tavira-peniche-ilhas-berlengas-vila-real-santo-antonio-ayamonte-portugal-espanha",
+        "sistema_nome": "Barcas da Ria Formosa no Algarve (Faro, Olhão e Tavira–Culatra, Armona e Farol), Ilhas Berlengas (Peniche) e Ferry do Rio Guadiana (Vila Real–Ayamonte, Portugal e Espanha)",
+        "pais": "Portugal e Espanha",
+        "cidade": "Faro / Olhão (Ilhas da Armona, Culatra e Farol) / Tavira / Vila Real de Santo António e Ayamonte / Peniche e Ilha da Berlenga Grande",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Vai e Vem — Transportes Marítimos da Ria Formosa (Olhão e Faro) / Silnido (Tavira) / Transporte Fluvial do Guadiana / Viamar & BerlengaTur (Peniche–Berlengas)",
+        "extensao_km": 180,
+        "bitola": "Barcas Lagunares das Ilhas-Barreira (Ria Formosa), Catamarãs Oceânicos (Arquipélago das Berlengas) e Ferry Fluvial Internacional (Rio Guadiana)",
+        "eletrificacao": "Barcas Lagunares Diesel e Táxis Aquáticos Solares/Elétricos na Ria Formosa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.938,
+            37.012
+          ],
+          [
+            -7.842,
+            37.022
+          ],
+          [
+            -7.835,
+            36.992
+          ],
+          [
+            -7.638,
+            37.115
+          ],
+          [
+            -7.412,
+            37.195
+          ],
+          [
+            -7.405,
+            37.212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-reserva-biosfera-peniche-ilha-da-berlenga-grande-pt",
+        "nome": "Arquipélago das Berlengas (Reserva da Biosfera da UNESCO): Porto de Peniche ↔ Carreiro do Mosteiro / Forte de São João Baptista (Ilha da Berlenga)",
+        "sistema_id": "barcas-ria-formosa-faro-olhao-culatra-armona-tavira-peniche-ilhas-berlengas-vila-real-santo-antonio-ayamonte-portugal-espanha",
+        "sistema_nome": "Barcas da Ria Formosa no Algarve (Faro, Olhão e Tavira–Culatra, Armona e Farol), Ilhas Berlengas (Peniche) e Ferry do Rio Guadiana (Vila Real–Ayamonte, Portugal e Espanha)",
+        "pais": "Portugal e Espanha",
+        "cidade": "Faro / Olhão (Ilhas da Armona, Culatra e Farol) / Tavira / Vila Real de Santo António e Ayamonte / Peniche e Ilha da Berlenga Grande",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Vai e Vem — Transportes Marítimos da Ria Formosa (Olhão e Faro) / Silnido (Tavira) / Transporte Fluvial do Guadiana / Viamar & BerlengaTur (Peniche–Berlengas)",
+        "extensao_km": 60,
+        "bitola": "Barcas Lagunares das Ilhas-Barreira (Ria Formosa), Catamarãs Oceânicos (Arquipélago das Berlengas) e Ferry Fluvial Internacional (Rio Guadiana)",
+        "eletrificacao": "Barcas Lagunares Diesel e Táxis Aquáticos Solares/Elétricos na Ria Formosa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.378,
+            39.352
+          ],
+          [
+            -9.508,
+            39.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canarias-ocidentais-los-cristianos-la-gomera-santa-cruz-la-palma-el-hierro-es",
+        "nome": "Canárias Ocidentais (Fred. Olsen & Naviera Armas): Los Cristianos (Tenerife) ↔ San Sebastián (La Gomera) ↔ Santa Cruz de La Palma e Puerto de La Estaca (El Hierro)",
+        "sistema_id": "linhas-la-palma-el-hierro-los-cristianos-lineas-romero-orzola-la-graciosa-corralejo-isla-de-lobos-ilhas-canarias-espanha",
+        "sistema_nome": "Fast Ferries de La Palma e El Hierro (Los Cristianos–Santa Cruz de La Palma–La Estaca) e Travessias de La Graciosa e Ilha de Lobos (Ilhas Canárias, Espanha)",
+        "pais": "Espanha",
+        "cidade": "Los Cristianos (Tenerife) / Santa Cruz de La Palma / Puerto de La Estaca (El Hierro) / Órzola (Lanzarote) e Caleta de Sebo (La Graciosa) / Corralejo e Ilha de Lobos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Fred. Olsen Express & Naviera Armas Trasmediterránea (La Palma e El Hierro) / Líneas Romero & Biosfera Express (La Graciosa e Ilha de Lobos)",
+        "extensao_km": 480,
+        "bitola": "Trimarãs e Catamarãs Wave-Piercing de Grande Porte (Benchijigua Express e Volcán de Taidía) e Ferries Insulares do Arquipélago Chinijo",
+        "eletrificacao": "Catamarãs de Alta Velocidade de Baixa Emissão"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.718,
+            28.048
+          ],
+          [
+            -17.108,
+            28.088
+          ],
+          [
+            -17.762,
+            28.682
+          ],
+          [
+            -17.908,
+            27.785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canarias-orientais-orzola-la-graciosa-corralejo-isla-de-lobos-es",
+        "nome": "Arquipélago Chinijo e Estreito de La Bocaina (Líneas Romero & Biosfera Express): Órzola (Lanzarote) ↔ Caleta de Sebo (La Graciosa) e Corralejo ↔ Ilha de Lobos",
+        "sistema_id": "linhas-la-palma-el-hierro-los-cristianos-lineas-romero-orzola-la-graciosa-corralejo-isla-de-lobos-ilhas-canarias-espanha",
+        "sistema_nome": "Fast Ferries de La Palma e El Hierro (Los Cristianos–Santa Cruz de La Palma–La Estaca) e Travessias de La Graciosa e Ilha de Lobos (Ilhas Canárias, Espanha)",
+        "pais": "Espanha",
+        "cidade": "Los Cristianos (Tenerife) / Santa Cruz de La Palma / Puerto de La Estaca (El Hierro) / Órzola (Lanzarote) e Caleta de Sebo (La Graciosa) / Corralejo e Ilha de Lobos",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Fred. Olsen Express & Naviera Armas Trasmediterránea (La Palma e El Hierro) / Líneas Romero & Biosfera Express (La Graciosa e Ilha de Lobos)",
+        "extensao_km": 140,
+        "bitola": "Trimarãs e Catamarãs Wave-Piercing de Grande Porte (Benchijigua Express e Volcán de Taidía) e Ferries Insulares do Arquipélago Chinijo",
+        "eletrificacao": "Catamarãs de Alta Velocidade de Baixa Emissão"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -13.452,
+            29.222
+          ],
+          [
+            -13.502,
+            29.231
+          ],
+          [
+            -13.868,
+            28.738
+          ],
+          [
+            -13.825,
+            28.745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-spm-ferries-saint-pierre-ile-aux-marins-miquelon-langlade-fortune-pm-ca",
+        "nome": "Arquipélago de Saint-Pierre e Miquelon e Terra Nova (SPM Ferries — Nordet & Suroît): Saint-Pierre ↔ L'Île-aux-Marins ↔ Miquelon / Langlade ↔ Fortune (Canadá)",
+        "sistema_id": "spm-ferries-nordet-suroit-saint-pierre-miquelon-langlade-fortune-ctma-traversier-souris-iles-de-la-madeleine-franca-canada",
+        "sistema_nome": "SPM Ferries em Saint-Pierre e Miquelon (Saint-Pierre–Miquelon–Langlade–Fortune, Terra Nova) e CTMA Traversier nas Ilhas da Madalena (França e Canadá)",
+        "pais": "França (Saint-Pierre e Miquelon) e Canadá",
+        "cidade": "Saint-Pierre / Miquelon / Langlade / L'Île-aux-Marins / Fortune (Terra Nova) / Cap-aux-Meules (Ilhas da Madalena) / Souris (Ilha do Príncipe Eduardo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SPM Ferries (Collectivité Territoriale de Saint-Pierre-et-Miquelon — Navios Nordet & Suroît) / CTMA (Coopérative de Transport Maritime et Aérien — Navio Madeleine II)",
+        "extensao_km": 180,
+        "bitola": "Ferries Ro-Pax do Atlântico Norte (Nordet e Suroît da Damen Shipyards) e Cruise Ferry Quebra-Gelo (Madeleine II da CTMA)",
+        "eletrificacao": "Navios Ro-Pax Diesel-Elétricos de Classe de Gelo (Madeleine II, Nordet e Suroît)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.172,
+            46.778
+          ],
+          [
+            -56.148,
+            46.785
+          ],
+          [
+            -56.378,
+            47.098
+          ],
+          [
+            -55.828,
+            47.075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ctma-traversier-souris-cap-aux-meules-iles-de-la-madeleine-ile-dentree-ca",
+        "nome": "Golfo de São Lourenço (CTMA Traversier — Navio Madeleine II): Souris (Ilha do Príncipe Eduardo) ↔ Cap-aux-Meules (Ilhas da Madalena) ↔ Île d'Entrée",
+        "sistema_id": "spm-ferries-nordet-suroit-saint-pierre-miquelon-langlade-fortune-ctma-traversier-souris-iles-de-la-madeleine-franca-canada",
+        "sistema_nome": "SPM Ferries em Saint-Pierre e Miquelon (Saint-Pierre–Miquelon–Langlade–Fortune, Terra Nova) e CTMA Traversier nas Ilhas da Madalena (França e Canadá)",
+        "pais": "França (Saint-Pierre e Miquelon) e Canadá",
+        "cidade": "Saint-Pierre / Miquelon / Langlade / L'Île-aux-Marins / Fortune (Terra Nova) / Cap-aux-Meules (Ilhas da Madalena) / Souris (Ilha do Príncipe Eduardo)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SPM Ferries (Collectivité Territoriale de Saint-Pierre-et-Miquelon — Navios Nordet & Suroît) / CTMA (Coopérative de Transport Maritime et Aérien — Navio Madeleine II)",
+        "extensao_km": 280,
+        "bitola": "Ferries Ro-Pax do Atlântico Norte (Nordet e Suroît da Damen Shipyards) e Cruise Ferry Quebra-Gelo (Madeleine II da CTMA)",
+        "eletrificacao": "Navios Ro-Pax Diesel-Elétricos de Classe de Gelo (Madeleine II, Nordet e Suroît)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.248,
+            46.352
+          ],
+          [
+            -61.858,
+            47.378
+          ],
+          [
+            -61.708,
+            47.278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cv-interilhas-sotavento-praia-santiago-porto-ingles-maio-fogo-furna-brava-cv",
+        "nome": "Grupo de Sotavento (CV Interilhas): Porto da Praia (Santiago) ↔ Porto Inglês (Ilha do Maio) e Vale dos Cavaleiros (Fogo) ↔ Porto da Furna (Ilha Brava)",
+        "sistema_id": "cv-interilhas-barlavento-sotavento-sal-boa-vista-sao-nicolau-maio-santiago-fogo-brava-cabo-verde",
+        "sistema_nome": "CV Interilhas — Malha Completa de Sotavento e Barlavento (Santiago–Maio, Fogo–Brava e São Vicente–São Nicolau–Sal–Boa Vista, Cabo Verde)",
+        "pais": "Cabo Verde",
+        "cidade": "Praia (Santiago) / Porto Inglês (Maio) / São Filipe (Fogo) / Furna (Brava) / Mindelo (São Vicente) / Tarrafal (São Nicolau) / Palmeira (Sal) / Sal Rei (Boa Vista)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "CV Interilhas (Concessão do Grupo ETE / Transinsular — Navios Chiquinho BL, Dona Tututa, Kriola e Liberdadi) / ENAPOR (Portos de Cabo Verde)",
+        "extensao_km": 420,
+        "bitola": "Ferries Ro-Pax Oceânicos Inter-Ilhas (Chiquinho BL e Dona Tututa) e Catamarãs Rápidos (Kriola e Liberdadi)",
+        "eletrificacao": "Navios Ro-Pax Diesel Marítimos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -23.498,
+            14.908
+          ],
+          [
+            -23.218,
+            15.138
+          ],
+          [
+            -24.502,
+            14.918
+          ],
+          [
+            -24.695,
+            14.885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cv-interilhas-barlavento-mindelo-sao-nicolau-palmeira-sal-sal-rei-boa-vista-cv",
+        "nome": "Grupo de Barlavento (CV Interilhas): Mindelo (São Vicente) ↔ Tarrafal (São Nicolau) ↔ Porto da Palmeira (Ilha do Sal) ↔ Porto de Sal Rei (Ilha da Boa Vista)",
+        "sistema_id": "cv-interilhas-barlavento-sotavento-sal-boa-vista-sao-nicolau-maio-santiago-fogo-brava-cabo-verde",
+        "sistema_nome": "CV Interilhas — Malha Completa de Sotavento e Barlavento (Santiago–Maio, Fogo–Brava e São Vicente–São Nicolau–Sal–Boa Vista, Cabo Verde)",
+        "pais": "Cabo Verde",
+        "cidade": "Praia (Santiago) / Porto Inglês (Maio) / São Filipe (Fogo) / Furna (Brava) / Mindelo (São Vicente) / Tarrafal (São Nicolau) / Palmeira (Sal) / Sal Rei (Boa Vista)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "CV Interilhas (Concessão do Grupo ETE / Transinsular — Navios Chiquinho BL, Dona Tututa, Kriola e Liberdadi) / ENAPOR (Portos de Cabo Verde)",
+        "extensao_km": 730,
+        "bitola": "Ferries Ro-Pax Oceânicos Inter-Ilhas (Chiquinho BL e Dona Tututa) e Catamarãs Rápidos (Kriola e Liberdadi)",
+        "eletrificacao": "Navios Ro-Pax Diesel Marítimos"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -24.992,
+            16.888
+          ],
+          [
+            -24.358,
+            16.565
+          ],
+          [
+            -22.978,
+            16.755
+          ],
+          [
+            -22.918,
+            16.178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-mv-concordia-bay-new-haven-port-howard-fox-bay-pebble-saunders-malvinas-fk",
+        "nome": "Estreito de Falkland / San Carlos (MV Concordia Bay): New Haven (East Falkland / Soledad) ↔ Port Howard / Fox Bay (West Falkland / Gran Malvina) ↔ Ilhas Pebble e Saunders",
+        "sistema_id": "concordia-bay-falkland-sound-new-haven-port-howard-malvinas-falklands-jamestown-santa-helena-edinburgh-tristao-da-cunha-atlantico-sul",
+        "sistema_nome": "Ferry MV Concordia Bay no Estreito de Falkland / San Carlos (Ilhas Malvinas / Falklands) e Rotas Oceânicas de Santa Helena, Ascensão e Tristão da Cunha (Atlântico Sul)",
+        "pais": "Territórios do Atlântico Sul (Ilhas Malvinas / Falklands, Santa Helena, Ascensão e Tristão da Cunha)",
+        "cidade": "Stanley / New Haven (Soledad / East Falkland) / Port Howard e Fox Bay (Gran Malvina / West Falkland) / Jamestown (Santa Helena) / Edinburgh of the Seven Seas (Tristão da Cunha)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Workboat Services Ltd (MV Concordia Bay — Falkland Islands Ferry) / St Helena Port Control (Rupert's Bay & Jamestown) / Tristan da Cunha Government & MFV Edinburgh / S.A. Agulhas II",
+        "extensao_km": 450,
+        "bitola": "Ferry Ro-Pax de Rampa Dupla para Ilhas Remotas (MV Concordia Bay) e Navios Mistos Oceânicos do Atlântico Sul (MFV Edinburgh e S.A. Agulhas II)",
+        "eletrificacao": "Propulsão Diesel Marítima Oceânica de Longo Alcance"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -59.218,
+            -51.732
+          ],
+          [
+            -59.522,
+            -51.615
+          ],
+          [
+            -60.052,
+            -51.958
+          ],
+          [
+            -59.615,
+            -51.312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-atlantico-sul-jamestown-ruperts-bay-santa-helena-ascensao-tristao-da-cunha-sh-ta",
+        "nome": "Ilhas Remotas do Atlântico Sul: Jamestown / Rupert's Bay (Ilha de Santa Helena), Georgetown (Ascensão) e Calshot Harbour (Edinburgh of the Seven Seas, Tristão da Cunha)",
+        "sistema_id": "concordia-bay-falkland-sound-new-haven-port-howard-malvinas-falklands-jamestown-santa-helena-edinburgh-tristao-da-cunha-atlantico-sul",
+        "sistema_nome": "Ferry MV Concordia Bay no Estreito de Falkland / San Carlos (Ilhas Malvinas / Falklands) e Rotas Oceânicas de Santa Helena, Ascensão e Tristão da Cunha (Atlântico Sul)",
+        "pais": "Territórios do Atlântico Sul (Ilhas Malvinas / Falklands, Santa Helena, Ascensão e Tristão da Cunha)",
+        "cidade": "Stanley / New Haven (Soledad / East Falkland) / Port Howard e Fox Bay (Gran Malvina / West Falkland) / Jamestown (Santa Helena) / Edinburgh of the Seven Seas (Tristão da Cunha)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Workboat Services Ltd (MV Concordia Bay — Falkland Islands Ferry) / St Helena Port Control (Rupert's Bay & Jamestown) / Tristan da Cunha Government & MFV Edinburgh / S.A. Agulhas II",
+        "extensao_km": 3150,
+        "bitola": "Ferry Ro-Pax de Rampa Dupla para Ilhas Remotas (MV Concordia Bay) e Navios Mistos Oceânicos do Atlântico Sul (MFV Edinburgh e S.A. Agulhas II)",
+        "eletrificacao": "Propulsão Diesel Marítima Oceânica de Longo Alcance"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.415,
+            -7.928
+          ],
+          [
+            -5.718,
+            -15.922
+          ],
+          [
+            -12.312,
+            -37.065
+          ]
+        ]
+      }
     }
   ]
 }
