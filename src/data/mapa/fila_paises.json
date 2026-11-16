@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T23:16:00-03:00",
+  "atualizado_em": "2026-11-16T00:01:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2377,6 +2377,22 @@
       "status": "concluido",
       "concluido_em": "2026-11-15T23:16:00-03:00",
       "ronda": 169
+    },
+    {
+      "ordem": 166,
+      "codigo": "HIDRO-BRASIL-XI-TRAVESSIAS-URBANAS-ILHAS-COSTEIRAS-HIDROVIAS-REGIONAIS",
+      "pais": "Fase Hidroviária Brasil #11 — Travessias Urbanas, Ilhas Costeiras e Hidrovias Regionais Complementares do Brasil (Barcas Urbanas da Lagoa da Tijuca/Ilha da Gigóia e Itacuruçá–Ilha de Jaguanum no RJ; Ferry Boat da Baía da Babitonga São Francisco do Sul–Vila da Glória e Cooperbarco Lagoa da Conceição–Costa da Lagoa em SC; ABALINE Pontal do Sul–Ilha do Mel e Guaraqueçaba–Superagui no PR; Hidrovias do Delta do Parnaíba e do Rio Preguiças Barreirinhas–Caburé–Atins no PI/MA; e Hidrovia e Balsas do Rio Araguaia e Ilha do Bananal GO/MT/TO/PA)",
+      "continente": "América do Sul",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 170,
+      "sistemas_adicionados": [
+        "travessia-barra-da-tijuca-ilha-da-gigoia-marapendi-lagoa-tijuca-guaratiba-restinga-marambaia-rj",
+        "travessias-baia-da-babitonga-sao-francisco-do-sul-vila-da-gloria-joinville-lagoa-da-conceicao-costa-da-lagoa-sc",
+        "travessias-litoral-parana-pontal-do-sul-ilha-do-mel-encantadas-nova-brasilia-guaraquecaba-superagui-pr",
+        "travessias-delta-do-parnaiba-porto-dos-tatus-ilha-grande-tutoya-caju-lencois-maranhenses-preguicas-cabure-atins-pi-ma",
+        "hidrovia-rio-araguaia-aruana-luiz-alves-sao-felix-do-araguaia-ilha-do-bananal-santa-terezinha-conceicao-do-araguaia-go-mt-to-pa"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2524,14 +2540,6 @@
         "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
         "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao"
       ]
-    },
-    {
-      "ordem": 166,
-      "codigo": "HIDRO-BRASIL-XI-TRAVESSIAS-URBANAS-ILHAS-COSTEIRAS-HIDROVIAS-REGIONAIS",
-      "pais": "Fase Hidroviária Brasil #11 — Travessias Urbanas, Ilhas Costeiras e Hidrovias Regionais Complementares do Brasil",
-      "continente": "América do Sul",
-      "prioridade": "alta",
-      "foco": "Transporte por barco no Brasil (Travessias de Barcas de Santos–Vicente de Carvalho/Guarujá, Bertioga–Guarujá e Cananéia–Ilha Comprida/Iguape em SP; Catamarãs e Lanchas de Cairu–Morro de São Paulo–Boipeba–Valença e Baía de Camamu/Barra Grande na Bahia; Travessias do Rio São Francisco em Penedo–Neópolis e Propriá–Porto Real do Colégio AL/SE; e Hidrovia do Rio Guaporé/Mamoré e Rio Juruá/Purus no Acre e Amazonas)"
     },
     {
       "ordem": 167,

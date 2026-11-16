@@ -409,6 +409,8 @@ for (const f of linhasOperacionaisGeojson.features) {
 }
 
 const countryCounts: Record<string, number> = {};
+const countryLatSum: Record<string, number> = {};
+const countryLonSum: Record<string, number> = {};
 const modalityCounts: Record<string, number> = {
 	alta_velocidade: 0,
 	metro: 0,
@@ -420,6 +422,8 @@ const modalityCounts: Record<string, number> = {
 for (const s of sistemasOperacionais) {
 	const p = s.pais || 'Brasil';
 	countryCounts[p] = (countryCounts[p] || 0) + 1;
+	countryLatSum[p] = (countryLatSum[p] || 0) + (s.lat || 0);
+	countryLonSum[p] = (countryLonSum[p] || 0) + (s.lon || 0);
 	const mods = ssrModsBySysId[s.id] || new Set([s.tipo]);
 	for (const m of mods) {
 		if (modalityCounts[m] !== undefined) {
@@ -428,6 +432,309 @@ for (const s of sistemasOperacionais) {
 	}
 }
 const activeCountries = Object.keys(countryCounts);
+
+type RegionKey =
+	| 'brasil'
+	| 'america_sul'
+	| 'america_norte_central'
+	| 'europa'
+	| 'asia_oriente_medio'
+	| 'africa'
+	| 'oceania_polar';
+
+function classifyCountryRegion(pais: string): RegionKey {
+	const pl = pais.toLowerCase();
+	if (
+		pais === 'Brasil' ||
+		pl.includes(' — sp') ||
+		pl.includes(' — rj') ||
+		pl.includes(' — pr') ||
+		pl.includes(' — ba') ||
+		pl.includes(' — sc') ||
+		pl.includes(' — pa') ||
+		pl.includes(' — ma') ||
+		pl.includes(' — pe') ||
+		pl.includes('fernando de noronha') ||
+		pl.includes('trindade e martim vaz')
+	) {
+		return 'brasil';
+	}
+	const count = countryCounts[pais] || 1;
+	const avgLat = (countryLatSum[pais] || 0) / count;
+	const avgLon = (countryLonSum[pais] || 0) / count;
+	if (
+		['antárti', 'antarcti', 'kerguelen', 'heard', 'bouvet', 'geórgia do sul', 'ross', 'macquarie'].some((k) =>
+			pl.includes(k)
+		)
+	) {
+		return 'oceania_polar';
+	}
+	if (
+		[
+			'austrália',
+			'nova zelândia',
+			'fiji',
+			'polinésia',
+			'samoa',
+			'tonga',
+			'vanuatu',
+			'salomão',
+			'papua',
+			'caledônia',
+			'micronésia',
+			'palau',
+			'marshall',
+			'kiribati',
+			'tuvalu',
+			'niue',
+			'tokelau',
+			'pitcairn',
+			'wallis',
+			'cook',
+			'marquesas',
+			'tasmânia',
+			'rottnest',
+			'waiheke',
+		].some((k) => pl.includes(k))
+	) {
+		return 'oceania_polar';
+	}
+	if (
+		avgLat >= -60 &&
+		avgLat <= 13.5 &&
+		avgLon >= -92 &&
+		avgLon <= -30 &&
+		![
+			'caribe',
+			'antilhas',
+			'martinica',
+			'granada',
+			'barbados',
+			'trinidad',
+			'curaçao',
+			'aruba',
+			'bonaire',
+			'santa lúcia',
+			'são vicente',
+		].some((k) => pl.includes(k))
+	) {
+		return 'america_sul';
+	}
+	if (avgLon < -30 && avgLat > 10) {
+		return 'america_norte_central';
+	}
+	if (
+		[
+			'estados unidos',
+			'canadá',
+			'méxico',
+			'cuba',
+			'jamaica',
+			'bahamas',
+			'bermudas',
+			'porto rico',
+			'república dominicana',
+			'haiti',
+			'panamá',
+			'costa rica',
+			'honduras',
+			'guatemala',
+			'el salvador',
+			'nicarágua',
+			'belize',
+			'caribe',
+			'antilhas',
+			'martinica',
+			'guadalupe',
+			'barbados',
+			'trinidad',
+			'curaçao',
+			'aruba',
+			'bonaire',
+			'cayman',
+			'turcas e caicos',
+			'ilhas virgens',
+			'anguilla',
+			'montserrat',
+			'granada',
+			'santa lúcia',
+			'são vicente',
+			'antígua',
+			'dominica',
+			'são bartolomeu',
+			'são martinho',
+			'sint maarten',
+			'são pedro e miquelão',
+			'saint-pierre',
+			'groenlândia',
+		].some((k) => pl.includes(k))
+	) {
+		return 'america_norte_central';
+	}
+	if (
+		[
+			'egito',
+			'marrocos',
+			'argélia',
+			'tunísia',
+			'líbia',
+			'áfrica',
+			'nigéria',
+			'quênia',
+			'tanzânia',
+			'etiópia',
+			'gana',
+			'costa do marfim',
+			'senegal',
+			'camarões',
+			'angola',
+			'moçambique',
+			'madagascar',
+			'maurício',
+			'seicheles',
+			'seychelles',
+			'cabo verde',
+			'são tomé',
+			'guiné',
+			'mali',
+			'burkina',
+			'benim',
+			'togo',
+			'niger',
+			'chade',
+			'sudão',
+			'eritreia',
+			'djibuti',
+			'somália',
+			'uganda',
+			'ruanda',
+			'burundi',
+			'congo',
+			'gabão',
+			'zâmbia',
+			'zimbábue',
+			'malaui',
+			'maláui',
+			'botsuana',
+			'namíbia',
+			'lesoto',
+			'essuatíni',
+			'comores',
+			'mayotte',
+			'reunião',
+			'santa helena',
+			'ascensão',
+			'tristão da cunha',
+			'socotra',
+			'zanzibar',
+			'bijagós',
+		].some((k) => pl.includes(k))
+	) {
+		return 'africa';
+	}
+	if (
+		avgLat >= 34 &&
+		avgLon >= -26 &&
+		avgLon <= 42 &&
+		!['turquia', 'chipre', 'síria', 'líbano', 'israel', 'jordânia', 'geórgia', 'armênia', 'azerbaijão'].some((k) =>
+			pl.includes(k)
+		)
+	) {
+		return 'europa';
+	}
+	if (
+		[
+			'rússia',
+			'ucrânia',
+			'belarus',
+			'finlândia',
+			'suécia',
+			'noruega',
+			'dinamarca',
+			'islândia',
+			'reino unido',
+			'escócia',
+			'inglaterra',
+			'irlanda',
+			'frança',
+			'espanha',
+			'portugal',
+			'alemanha',
+			'itália',
+			'suíça',
+			'áustria',
+			'países baixos',
+			'bélgica',
+			'luxemburgo',
+			'polônia',
+			'tchéquia',
+			'eslováquia',
+			'hungria',
+			'romênia',
+			'bulgária',
+			'grécia',
+			'sérvia',
+			'croácia',
+			'eslovênia',
+			'bósnia',
+			'montenegro',
+			'macedônia',
+			'albânia',
+			'moldávia',
+			'estônia',
+			'letônia',
+			'lituânia',
+			'malta',
+			'andorra',
+			'mônaco',
+			'liechtenstein',
+			'faroé',
+			'åland',
+			'svalbard',
+			'açores',
+			'madeira',
+			'canárias',
+			'baleares',
+			'córsega',
+			'sardenha',
+			'sicília',
+		].some((k) => pl.includes(k))
+	) {
+		return 'europa';
+	}
+	return 'asia_oriente_medio';
+}
+
+const REGION_GROUPS: { key: RegionKey; icon: string; labelPt: string; labelEn: string }[] = [
+	{ key: 'brasil', icon: '🇧🇷', labelPt: 'Brasil e Ilhas Brasileiras', labelEn: 'Brazil & Brazilian Islands' },
+	{ key: 'america_sul', icon: '🌎', labelPt: 'América do Sul', labelEn: 'South America' },
+	{
+		key: 'america_norte_central',
+		icon: '🌎',
+		labelPt: 'América do Norte, Central e Caribe',
+		labelEn: 'North & Central America & Caribbean',
+	},
+	{ key: 'europa', icon: '🌍', labelPt: 'Europa', labelEn: 'Europe' },
+	{ key: 'asia_oriente_medio', icon: '🌏', labelPt: 'Ásia e Oriente Médio', labelEn: 'Asia & Middle East' },
+	{ key: 'africa', icon: '🌍', labelPt: 'África', labelEn: 'Africa' },
+	{ key: 'oceania_polar', icon: '🌏', labelPt: 'Oceania, Pacífico e Polos', labelEn: 'Oceania, Pacific & Polar' },
+];
+
+const countriesByRegion: Record<RegionKey, string[]> = {
+	brasil: [],
+	america_sul: [],
+	america_norte_central: [],
+	europa: [],
+	asia_oriente_medio: [],
+	africa: [],
+	oceania_polar: [],
+};
+for (const pk of activeCountries) {
+	countriesByRegion[classifyCountryRegion(pk)].push(pk);
+}
+for (const rKey of Object.keys(countriesByRegion) as RegionKey[]) {
+	countriesByRegion[rKey].sort((a, b) => (countryCounts[b] || 0) - (countryCounts[a] || 0));
+}
 
 function formatNum(val: number | null, suffix = ''): string {
 	if (val === null || val === undefined) return t.drawer.nullValue;
@@ -454,65 +761,163 @@ const payloadClient = JSON.stringify({
 			<div class="mapa-Heading">
 				<span class="mapa-kicker">{t.heroKicker}</span>
 				<h1>{t.heroTitle}</h1>
-				<p class="mapa-subtitle">{t.heroSubtitle}</p>
 			</div>
 			<div class="lang-switch-group" role="navigation" aria-label="Idioma / Language">
 				<a href="/mapa" class={`btn-lang ${!isEn ? 'is-active' : ''}`} hreflang="pt-br">
-					🇧🇷 Português
+					🇧🇷 PT
 				</a>
 				<a href="/mapa/en" class={`btn-lang ${isEn ? 'is-active' : ''}`} hreflang="en">
-					🇺🇸 English
+					🇺🇸 EN
 				</a>
 			</div>
 		</div>
 
-		<div class="mapa-controls" role="region" aria-label="Filtros do mapa">
+		<!-- Menu clean e minimalista: poucos itens no topo; países, territórios, modalidades e opções ocultos sob subitens -->
+		<nav class="mapa-controls mapa-menubar" aria-label="Menu do mapa">
+			<!-- Selects ocultos para manter compatibilidade total com URL e estado -->
+			<select id="mapa-filter-pais" class="sr-only-select" aria-hidden="true" tabindex="-1">
+				<option value="all">🌎 {isEn ? 'All' : 'Todos'} ({sistemasOperacionais.length})</option>
+				{activeCountries.map((paisKey) => {
+					const meta = COUNTRY_META[paisKey] || {
+						flag: '🌐',
+						labelPt: paisKey,
+						labelEn: paisKey,
+					};
+					return (
+						<option value={paisKey}>
+							{meta.flag} {isEn ? meta.labelEn : meta.labelPt} ({countryCounts[paisKey]})
+						</option>
+					);
+				})}
+			</select>
+			<select id="mapa-filter-tipo" class="sr-only-select" aria-hidden="true" tabindex="-1">
+				<option value="all">{t.filterAll} (6)</option>
+				{MODALITY_ORDER.map((key) => (
+					<option value={key}>
+						{t.tipos[key]} ({modalityCounts[key] || 0})
+					</option>
+				))}
+			</select>
+
+			<!-- Item 1: Busca compacta -->
 			<div class="control-search">
 				<input
 					id="mapa-search-input"
 					type="search"
-					placeholder={t.searchPlaceholder}
+					placeholder={isEn ? '🔍 Search system, city or country...' : '🔍 Buscar sistema, cidade ou país...'}
 					aria-label={t.searchPlaceholder}
 				/>
 			</div>
 
-			<div class="control-selects">
-				<label class="control-field">
-					<span>{(t as any).filterPaisLabel || (isEn ? 'Country' : 'País')}</span>
-					<select id="mapa-filter-pais">
-						<option value="all">🌎 {isEn ? 'All' : 'Todos'} ({sistemasOperacionais.length})</option>
-						{activeCountries.map((paisKey) => {
-							const meta = COUNTRY_META[paisKey] || {
-								flag: '🌐',
-								labelPt: paisKey,
-								labelEn: paisKey,
-							};
+			<!-- Item 2: Menu Países & Territórios (com subitens por continente/região) -->
+			<details class="mapa-menu-dropdown" id="menu-dropdown-paises">
+				<summary class="mapa-menu-trigger">
+					<span>🌎 {isEn ? 'Countries & Territories' : 'Países & Territórios'}</span>
+					<strong id="menu-active-pais-label" class="menu-active-badge">
+						{isEn ? 'World' : 'Mundo'} ({sistemasOperacionais.length})
+					</strong>
+					<span class="menu-caret">▾</span>
+				</summary>
+				<div class="mapa-dropdown-panel mapa-dropdown-paises">
+					<div class="dropdown-quick-row">
+						<button type="button" class="country-pill-btn is-active" data-country-jump="all">
+							🌎 {isEn ? 'World (All)' : 'Mundo (Todos)'} <strong>{sistemasOperacionais.length}</strong>
+						</button>
+						{countryCounts['Brasil'] && (
+							<button type="button" class="country-pill-btn" data-country-jump="Brasil">
+								🇧🇷 Brasil <strong>{countryCounts['Brasil']}</strong>
+							</button>
+						)}
+					</div>
+					<div class="dropdown-filter-box">
+						<input
+							id="mapa-country-subfilter"
+							type="search"
+							placeholder={isEn ? 'Filter country or territory...' : 'Filtrar país ou território...'}
+							aria-label={isEn ? 'Filter country or territory' : 'Filtrar país ou território'}
+						/>
+					</div>
+					<div class="dropdown-submenus-list">
+						{REGION_GROUPS.map((reg) => {
+							const list = countriesByRegion[reg.key] || [];
+							const regSysCount = list.reduce((acc, pk) => acc + (countryCounts[pk] || 0), 0);
 							return (
-								<option value={paisKey}>
-									{meta.flag} {isEn ? meta.labelEn : meta.labelPt} ({countryCounts[paisKey]})
-								</option>
+								<details class="mapa-submenu-group" data-region-group={reg.key}>
+									<summary class="mapa-submenu-summary">
+										<span>
+											{reg.icon} {isEn ? reg.labelEn : reg.labelPt}
+										</span>
+										<span class="submenu-meta">
+											{list.length} · <strong>{regSysCount}</strong> ▸
+										</span>
+									</summary>
+									<div class="mapa-submenu-items">
+										{list.map((paisKey) => {
+											const meta = COUNTRY_META[paisKey] || {
+												flag: '🌐',
+												labelPt: paisKey,
+												labelEn: paisKey,
+											};
+											const label = isEn ? meta.labelEn : meta.labelPt;
+											return (
+												<button
+													type="button"
+													class="country-pill-btn submenu-country-item"
+													data-country-jump={paisKey}
+													data-country-label={label.toLowerCase()}
+												>
+													<span class="submenu-country-name">
+														{meta.flag} {label}
+													</span>
+													<strong>{countryCounts[paisKey]}</strong>
+												</button>
+											);
+										})}
+									</div>
+								</details>
 							);
 						})}
-					</select>
-				</label>
+					</div>
+				</div>
+			</details>
 
-				<label class="control-field">
-					<span>{t.filterTipoLabel}</span>
-					<select id="mapa-filter-tipo">
-						<option value="all">{t.filterAll} (6)</option>
-						{MODALITY_ORDER.map((key) => (
-							<option value={key}>
-								{t.tipos[key]} ({modalityCounts[key] || 0})
-							</option>
-						))}
-					</select>
-				</label>
+			<!-- Item 3: Menu Modalidades (subitens com as 6 modalidades) -->
+			<details class="mapa-menu-dropdown" id="menu-dropdown-modalidades">
+				<summary class="mapa-menu-trigger">
+					<span>🚆 {isEn ? 'Modalities' : 'Modalidades'}</span>
+					<strong id="menu-active-tipo-label" class="menu-active-badge">
+						{isEn ? 'All (6)' : 'Todas (6)'}
+					</strong>
+					<span class="menu-caret">▾</span>
+				</summary>
+				<div class="mapa-dropdown-panel mapa-dropdown-modalidades">
+					<button type="button" class="modality-pill-btn is-active" data-modality-jump="all">
+						<span>✨ {isEn ? 'All 6 Modalities' : 'Todas as 6 modalidades'}</span>
+						<strong>{sistemasOperacionais.length}</strong>
+					</button>
+					{MODALITY_ORDER.map((modKey) => (
+						<button
+							type="button"
+							class="modality-pill-btn"
+							data-modality-jump={modKey}
+							style={`--mod-color:${MODALITY_COLORS[modKey]}`}
+						>
+							<i class="modality-dot" style={`background:${MODALITY_COLORS[modKey]}`}></i>
+							<span>{t.tipos[modKey]}</span>
+							<strong>{modalityCounts[modKey] || 0}</strong>
+						</button>
+					))}
+				</div>
+			</details>
 
-				<span class="operational-only-badge" title={isEn ? 'Non-operational systems remain preserved in the database' : 'Sistemas não operacionais permanecem preservados na base de dados'}>
-					🟢 {isEn ? 'Operational lines only' : 'Somente linhas em operação'}
-				</span>
-
-				<div class="control-actions">
+			<!-- Item 4: Menu Exibição (Globo 3D / Mapa 2D, Mundo, Brasil, Compartilhar) -->
+			<details class="mapa-menu-dropdown" id="menu-dropdown-opcoes">
+				<summary class="mapa-menu-trigger">
+					<span>🎛️ {isEn ? 'View' : 'Exibição'}</span>
+					<span class="menu-caret">▾</span>
+				</summary>
+				<div class="mapa-dropdown-panel mapa-dropdown-opcoes">
+					<div class="dropdown-section-label">{isEn ? 'Map projection' : 'Projeção do mapa'}</div>
 					<div class="proj-toggle-group" role="group" aria-label="Modo de visualização do mapa">
 						<button type="button" id="mapa-btn-proj-globe" class="btn-proj is-active" data-proj="globe">
 							{t.projectionGlobe}
@@ -521,57 +926,24 @@ const payloadClient = JSON.stringify({
 							{t.projectionFlat}
 						</button>
 					</div>
-					<button type="button" id="mapa-btn-world" class="btn-secondary">
-						{t.worldViewBtn}
-					</button>
-					<button type="button" id="mapa-btn-reset" class="btn-secondary">
-						{t.resetViewBtn}
-					</button>
-					<button type="button" id="mapa-btn-share" class="btn-secondary">
-						{t.shareViewBtn}
-					</button>
-				</div>
-			</div>
-
-			<div class="modality-pills-bar" role="group" aria-label={isEn ? 'Filter by 6 modalities' : 'Filtrar pelas 6 modalidades'}>
-				<span class="country-pills-label">{isEn ? '6 Modalities (in operation):' : '6 Modalidades (em operação):'}</span>
-				<button type="button" class="modality-pill-btn is-active" data-modality-jump="all">
-					<span>✨ {isEn ? 'All 6 Modalities' : 'Todas as 6 modalidades'}</span>
-					<strong>{sistemasOperacionais.length}</strong>
-				</button>
-				{MODALITY_ORDER.map((modKey) => (
-					<button
-						type="button"
-						class="modality-pill-btn"
-						data-modality-jump={modKey}
-						style={`--mod-color:${MODALITY_COLORS[modKey]}`}
-					>
-						<i class="modality-dot" style={`background:${MODALITY_COLORS[modKey]}`}></i>
-						<span>{t.tipos[modKey]}</span>
-						<strong>{modalityCounts[modKey] || 0}</strong>
-					</button>
-				))}
-			</div>
-
-			<div class="country-pills-bar" role="group" aria-label={isEn ? 'Jump to country' : 'Ir rápido para país'}>
-				<span class="country-pills-label">{isEn ? 'Countries mapped:' : 'Países no mapa:'}</span>
-				<button type="button" class="country-pill-btn is-active" data-country-jump="all">
-					🌎 {isEn ? 'World (All)' : 'Mundo (Todos)'} <strong>{sistemasOperacionais.length}</strong>
-				</button>
-				{activeCountries.map((paisKey) => {
-					const meta = COUNTRY_META[paisKey] || {
-						flag: '🌐',
-						labelPt: paisKey,
-						labelEn: paisKey,
-					};
-					return (
-						<button type="button" class="country-pill-btn" data-country-jump={paisKey}>
-							{meta.flag} {isEn ? meta.labelEn : meta.labelPt} <strong>{countryCounts[paisKey]}</strong>
+					<div class="dropdown-section-label">{isEn ? 'Quick navigation' : 'Navegação rápida'}</div>
+					<div class="dropdown-actions-stack">
+						<button type="button" id="mapa-btn-world" class="btn-secondary">
+							{t.worldViewBtn}
 						</button>
-					);
-				})}
-			</div>
-		</div>
+						<button type="button" id="mapa-btn-reset" class="btn-secondary">
+							{t.resetViewBtn}
+						</button>
+						<button type="button" id="mapa-btn-share" class="btn-secondary">
+							{t.shareViewBtn}
+						</button>
+					</div>
+					<div class="operational-only-badge">
+						🟢 {isEn ? 'Operational lines only' : 'Somente linhas em operação'}
+					</div>
+				</div>
+			</details>
+		</nav>
 	</div>
 
 	<div class="mapa-workspace">
@@ -580,9 +952,6 @@ const payloadClient = JSON.stringify({
 
 			<div class="mapa-legend" aria-label="Legenda do mapa por modalidade">
 				<div class="legend-row">
-					<span class="legend-kicker">
-						🟢 {isEn ? 'In operation — 6 Modalities:' : 'Em operação — 6 Modalidades:'}
-					</span>
 					<button
 						type="button"
 						class="legend-item legend-modality-btn is-active"
@@ -606,11 +975,6 @@ const payloadClient = JSON.stringify({
 							{t.tipos[modKey]}
 						</button>
 					))}
-				</div>
-				<div class="legend-zoom-hint" id="mapa-zoom-hint">
-					{isEn
-						? 'Showing operational lines only · Click any modality in the legend or filter bar to isolate it · Hover over stations for names.'
-						: 'Exibindo somente linhas em operação · Clique numa modalidade na barra ou legenda para isolá-la · Passe o mouse nas estações para ver o nome.'}
 				</div>
 			</div>
 		</div>
@@ -1359,11 +1723,35 @@ const payloadClient = JSON.stringify({
 			});
 		}
 
+		const activePaisLabelEl = document.getElementById('menu-active-pais-label');
+		const activeTipoLabelEl = document.getElementById('menu-active-tipo-label');
+		const countrySubfilterInput = document.getElementById(
+			'mapa-country-subfilter'
+		) as HTMLInputElement | null;
+
+		function closeAllMenuDropdowns(exceptEl?: Element | null) {
+			document.querySelectorAll<HTMLDetailsElement>('details.mapa-menu-dropdown[open]').forEach((d) => {
+				if (exceptEl && d === exceptEl) return;
+				d.removeAttribute('open');
+			});
+		}
+
 		function syncCountryPills(selectedPais: string) {
 			document.querySelectorAll<HTMLButtonElement>('[data-country-jump]').forEach((btn) => {
 				const key = btn.getAttribute('data-country-jump') || 'all';
 				btn.classList.toggle('is-active', key === selectedPais);
 			});
+			if (activePaisLabelEl) {
+				if (selectedPais === 'all') {
+					const totalOp = sistemas.filter((s: any) => s.status === 'operacao').length;
+					activePaisLabelEl.textContent = `${isEn ? 'World' : 'Mundo'} (${totalOp})`;
+				} else {
+					const meta = COUNTRY_META[selectedPais];
+					const label = meta ? (isEn ? meta.labelEn : meta.labelPt) : selectedPais;
+					const shortLabel = label.length > 22 ? label.slice(0, 20) + '…' : label;
+					activePaisLabelEl.textContent = meta?.flag ? `${meta.flag} ${shortLabel}` : shortLabel;
+				}
+			}
 		}
 
 		function syncModalityPills(selectedTipo: string) {
@@ -1371,6 +1759,13 @@ const payloadClient = JSON.stringify({
 				const key = btn.getAttribute('data-modality-jump') || 'all';
 				btn.classList.toggle('is-active', key === selectedTipo);
 			});
+			if (activeTipoLabelEl) {
+				if (selectedTipo === 'all') {
+					activeTipoLabelEl.textContent = isEn ? 'All (6)' : 'Todas (6)';
+				} else {
+					activeTipoLabelEl.textContent = t.tipos?.[selectedTipo] || selectedTipo;
+				}
+			}
 		}
 
 		function flyToCountry(paisKey: string) {
@@ -1981,6 +2376,41 @@ const payloadClient = JSON.stringify({
 			handleModalitySelection(chosenTipo);
 		});
 
+		document.querySelectorAll<HTMLDetailsElement>('details.mapa-menu-dropdown').forEach((dd) => {
+			dd.addEventListener('toggle', () => {
+				if (dd.open) {
+					closeAllMenuDropdowns(dd);
+				}
+			});
+		});
+
+		document.addEventListener('click', (ev) => {
+			const target = ev.target as HTMLElement | null;
+			if (!target) return;
+			if (!target.closest('details.mapa-menu-dropdown')) {
+				closeAllMenuDropdowns();
+			}
+		});
+
+		countrySubfilterInput?.addEventListener('input', () => {
+			const term = (countrySubfilterInput.value || '').trim().toLowerCase();
+			document.querySelectorAll<HTMLDetailsElement>('details.mapa-submenu-group').forEach((grp) => {
+				let visibleCount = 0;
+				grp.querySelectorAll<HTMLButtonElement>('.submenu-country-item').forEach((btn) => {
+					const label = (btn.getAttribute('data-country-label') || '') + ' ' + (btn.getAttribute('data-country-jump') || '').toLowerCase();
+					const match = !term || label.includes(term);
+					btn.style.display = match ? '' : 'none';
+					if (match) visibleCount++;
+				});
+				grp.style.display = visibleCount > 0 ? '' : 'none';
+				if (term && visibleCount > 0) {
+					grp.open = true;
+				} else if (!term) {
+					grp.open = false;
+				}
+			});
+		});
+
 		document.querySelectorAll<HTMLButtonElement>('[data-country-jump]').forEach((btn) => {
 			btn.addEventListener('click', () => {
 				const key = btn.getAttribute('data-country-jump') || 'all';
@@ -1990,6 +2420,7 @@ const payloadClient = JSON.stringify({
 				syncCountryPills(key);
 				applyFilters();
 				flyToCountry(key);
+				closeAllMenuDropdowns();
 			});
 		});
 
@@ -1999,6 +2430,7 @@ const payloadClient = JSON.stringify({
 				const currentVal = selectTipo?.value || 'all';
 				const nextVal = key !== 'all' && currentVal === key ? 'all' : key;
 				handleModalitySelection(nextVal);
+				closeAllMenuDropdowns();
 			});
 		});
 
@@ -2023,14 +2455,21 @@ const payloadClient = JSON.stringify({
 			btnProjFlat?.classList.add('is-active');
 		}
 
-		btnProjGlobe?.addEventListener('click', () => setMapProjection('globe'));
-		btnProjFlat?.addEventListener('click', () => setMapProjection('mercator'));
+		btnProjGlobe?.addEventListener('click', () => {
+			setMapProjection('globe');
+			closeAllMenuDropdowns();
+		});
+		btnProjFlat?.addEventListener('click', () => {
+			setMapProjection('mercator');
+			closeAllMenuDropdowns();
+		});
 
 		btnWorld?.addEventListener('click', () => {
 			if (selectPais) selectPais.value = 'all';
 			syncCountryPills('all');
 			applyFilters();
 			flyToCountry('all');
+			closeAllMenuDropdowns();
 		});
 
 		btnReset?.addEventListener('click', () => {
@@ -2038,6 +2477,7 @@ const payloadClient = JSON.stringify({
 			syncCountryPills('Brasil');
 			applyFilters();
 			flyToCountry('Brasil');
+			closeAllMenuDropdowns();
 		});
 
 		btnShare?.addEventListener('click', async () => {
@@ -2084,23 +2524,23 @@ const payloadClient = JSON.stringify({
 		max-width: 1280px;
 		width: 100%;
 		box-sizing: border-box;
-		overflow-x: hidden;
 		margin: 0 auto;
-		padding: 1.5rem 1rem 3rem;
+		padding: 0.9rem 1rem 2.5rem;
 		font-family: 'Outfit', system-ui, -apple-system, sans-serif;
 		color: #0f172a;
 	}
 
 	.mapa-topbar {
-		margin-bottom: 1.25rem;
+		margin-bottom: 0.75rem;
 	}
 
 	.mapa-Heading-row {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-between;
-		align-items: flex-start;
-		gap: 1rem;
+		align-items: center;
+		gap: 0.75rem;
+		margin-bottom: 0.55rem;
 	}
 
 	.lang-switch-group {
@@ -2113,8 +2553,8 @@ const payloadClient = JSON.stringify({
 	}
 
 	.btn-lang {
-		padding: 0.45rem 0.85rem;
-		font-size: 0.85rem;
+		padding: 0.35rem 0.75rem;
+		font-size: 0.8rem;
 		font-weight: 700;
 		text-decoration: none;
 		color: #334155;
@@ -2128,100 +2568,262 @@ const payloadClient = JSON.stringify({
 
 	.mapa-kicker {
 		display: inline-block;
-		font-size: 0.78rem;
+		font-size: 0.72rem;
 		font-weight: 700;
 		letter-spacing: 0.08em;
 		text-transform: uppercase;
 		color: #d35400;
-		margin-bottom: 0.35rem;
+		margin-bottom: 0.15rem;
 	}
 
 	.mapa-Heading h1 {
-		font-size: clamp(1.8rem, 3vw, 2.5rem);
-		margin: 0 0 0.4rem;
+		font-size: clamp(1.35rem, 2.3vw, 1.85rem);
+		margin: 0;
 		color: #0f172a;
 	}
 
-	.mapa-subtitle {
-		font-size: 1rem;
-		line-height: 1.55;
-		color: #475569;
-		max-width: 880px;
-		margin: 0 0 1rem;
+	.sr-only-select {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		padding: 0;
+		margin: -1px;
+		overflow: hidden;
+		clip: rect(0, 0, 0, 0);
+		white-space: nowrap;
+		border: 0;
 	}
 
-	.mapa-controls {
+	/* Menu minimalista em barra única com subitens em dropdown */
+	.mapa-controls.mapa-menubar {
+		position: relative;
+		z-index: 30;
 		background: #ffffff;
 		border: 1px solid #e2e8f0;
-		border-radius: 12px;
-		padding: 0.9rem 1rem;
-		box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);
+		border-radius: 10px;
+		padding: 0.45rem 0.65rem;
+		box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
 		display: flex;
-		flex-direction: column;
-		gap: 0.75rem;
+		flex-direction: row;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.control-search {
+		flex: 1 1 220px;
+		min-width: 180px;
 	}
 
 	.control-search input {
 		width: 100%;
 		box-sizing: border-box;
-		padding: 0.65rem 0.9rem;
+		padding: 0.48rem 0.75rem;
 		border: 1px solid #cbd5e1;
 		border-radius: 8px;
-		font-size: 0.95rem;
-	}
-
-	.control-selects {
-		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		gap: 0.85rem;
-	}
-
-	.control-field {
-		display: flex;
-		align-items: center;
-		gap: 0.4rem;
 		font-size: 0.88rem;
-		font-weight: 600;
-		color: #334155;
-	}
-
-	.control-field select {
-		padding: 0.45rem 0.65rem;
-		border: 1px solid #cbd5e1;
-		border-radius: 6px;
 		background: #f8fafc;
-		font-size: 0.88rem;
+		transition: border-color 0.15s, background 0.15s;
 	}
 
-	.operational-only-badge {
+	.control-search input:focus {
+		outline: none;
+		border-color: #0f172a;
+		background: #ffffff;
+	}
+
+	.mapa-menu-dropdown {
+		position: relative;
+	}
+
+	.mapa-menu-trigger {
+		list-style: none;
 		display: inline-flex;
 		align-items: center;
-		gap: 0.3rem;
-		padding: 0.35rem 0.7rem;
-		border-radius: 999px;
-		background: #ecfdf5;
-		border: 1px solid #10b981;
-		color: #065f46;
-		font-size: 0.8rem;
-		font-weight: 700;
+		gap: 0.4rem;
+		padding: 0.46rem 0.75rem;
+		border-radius: 8px;
+		border: 1px solid #cbd5e1;
+		background: #f8fafc;
+		color: #0f172a;
+		font-size: 0.85rem;
+		font-weight: 600;
+		cursor: pointer;
+		user-select: none;
+		transition: all 0.15s ease;
 	}
 
-	.modality-pills-bar,
-	.country-pills-bar {
+	.mapa-menu-trigger::-webkit-details-marker {
+		display: none;
+	}
+
+	.mapa-menu-trigger:hover,
+	.mapa-menu-dropdown[open] > .mapa-menu-trigger {
+		background: #0f172a;
+		border-color: #0f172a;
+		color: #ffffff;
+	}
+
+	.menu-active-badge {
+		font-size: 0.76rem;
+		font-weight: 700;
+		padding: 0.1rem 0.45rem;
+		border-radius: 999px;
+		background: #e2e8f0;
+		color: #0f172a;
+	}
+
+	.mapa-menu-trigger:hover .menu-active-badge,
+	.mapa-menu-dropdown[open] > .mapa-menu-trigger .menu-active-badge {
+		background: rgba(255, 255, 255, 0.2);
+		color: #ffffff;
+	}
+
+	.menu-caret {
+		font-size: 0.75rem;
+		opacity: 0.75;
+	}
+
+	.mapa-dropdown-panel {
+		position: absolute;
+		top: calc(100% + 6px);
+		right: 0;
+		min-width: 280px;
+		max-width: min(92vw, 420px);
+		max-height: 72vh;
+		overflow-y: auto;
+		background: #ffffff;
+		border: 1px solid #cbd5e1;
+		border-radius: 12px;
+		padding: 0.65rem;
+		box-shadow: 0 14px 34px rgba(15, 23, 42, 0.18);
+		z-index: 60;
+		display: flex;
+		flex-direction: column;
+		gap: 0.45rem;
+	}
+
+	.mapa-dropdown-paises {
+		left: 0;
+		right: auto;
+		width: min(92vw, 390px);
+	}
+
+	.dropdown-quick-row {
 		display: flex;
 		flex-wrap: wrap;
-		align-items: center;
-		gap: 0.45rem;
-		padding-top: 0.55rem;
-		border-top: 1px dashed #e2e8f0;
+		gap: 0.35rem;
 	}
 
-	.country-pills-label {
-		font-size: 0.8rem;
+	.dropdown-filter-box input {
+		width: 100%;
+		box-sizing: border-box;
+		padding: 0.42rem 0.65rem;
+		border: 1px solid #cbd5e1;
+		border-radius: 7px;
+		font-size: 0.83rem;
+		background: #f8fafc;
+	}
+
+	.dropdown-submenus-list {
+		display: flex;
+		flex-direction: column;
+		gap: 0.3rem;
+	}
+
+	.mapa-submenu-group {
+		border: 1px solid #e2e8f0;
+		border-radius: 8px;
+		background: #f8fafc;
+		overflow: hidden;
+	}
+
+	.mapa-submenu-summary {
+		list-style: none;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 0.5rem;
+		padding: 0.48rem 0.65rem;
+		font-size: 0.83rem;
 		font-weight: 700;
+		color: #1e293b;
+		cursor: pointer;
+		user-select: none;
+		transition: background 0.15s;
+	}
+
+	.mapa-submenu-summary::-webkit-details-marker {
+		display: none;
+	}
+
+	.mapa-submenu-summary:hover,
+	.mapa-submenu-group[open] > .mapa-submenu-summary {
+		background: #e2e8f0;
+		color: #0f172a;
+	}
+
+	.submenu-meta {
+		font-size: 0.74rem;
+		font-weight: 600;
 		color: #475569;
-		margin-right: 0.2rem;
+		white-space: nowrap;
+	}
+
+	.mapa-submenu-items {
+		display: flex;
+		flex-direction: column;
+		gap: 0.22rem;
+		padding: 0.45rem;
+		background: #ffffff;
+		border-top: 1px solid #e2e8f0;
+		max-height: 250px;
+		overflow-y: auto;
+	}
+
+	.submenu-country-item {
+		width: 100%;
+		justify-content: space-between;
+		text-align: left;
+		border-radius: 7px !important;
+		padding: 0.35rem 0.55rem !important;
+	}
+
+	.submenu-country-name {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+
+	.mapa-dropdown-modalidades .modality-pill-btn {
+		width: 100%;
+		justify-content: flex-start;
+		border-radius: 8px;
+		padding: 0.42rem 0.65rem;
+	}
+
+	.mapa-dropdown-modalidades .modality-pill-btn strong {
+		margin-left: auto;
+	}
+
+	.dropdown-section-label {
+		font-size: 0.72rem;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: #64748b;
+		margin-top: 0.2rem;
+	}
+
+	.dropdown-actions-stack {
+		display: flex;
+		flex-direction: column;
+		gap: 0.35rem;
+	}
+
+	.dropdown-actions-stack .btn-secondary {
+		width: 100%;
+		text-align: left;
 	}
 
 	.modality-pill-btn,
@@ -2283,25 +2885,8 @@ const payloadClient = JSON.stringify({
 		color: #ffffff;
 	}
 
-	.control-checkbox {
-		display: flex;
-		align-items: center;
-		gap: 0.4rem;
-		font-size: 0.88rem;
-		color: #334155;
-		cursor: pointer;
-	}
-
-	.control-actions {
-		margin-left: auto;
-		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		gap: 0.5rem;
-	}
-
 	.proj-toggle-group {
-		display: inline-flex;
+		display: flex;
 		border: 1px solid #cbd5e1;
 		border-radius: 7px;
 		overflow: hidden;
@@ -2309,6 +2894,7 @@ const payloadClient = JSON.stringify({
 	}
 
 	.btn-proj {
+		flex: 1;
 		padding: 0.42rem 0.72rem;
 		border: none;
 		background: transparent;
@@ -2362,16 +2948,16 @@ const payloadClient = JSON.stringify({
 		height: 620px;
 	}
 
-	.mapa-legend {
+	.mapa-legend.mapa-legend-clean {
 		position: absolute;
 		left: 12px;
-		bottom: 36px;
-		background: rgba(255, 255, 255, 0.94);
+		bottom: 30px;
+		background: rgba(255, 255, 255, 0.92);
 		backdrop-filter: blur(8px);
-		padding: 0.55rem 0.8rem;
-		border-radius: 8px;
+		padding: 0.35rem 0.55rem;
+		border-radius: 999px;
 		border: 1px solid rgba(15, 23, 42, 0.1);
-		font-size: 0.78rem;
+		font-size: 0.74rem;
 		max-width: calc(100% - 24px);
 		z-index: 5;
 	}
@@ -2380,8 +2966,8 @@ const payloadClient = JSON.stringify({
 		display: flex;
 		flex-wrap: wrap;
 		align-items: center;
-		gap: 0.55rem;
-		margin-bottom: 0.3rem;
+		gap: 0.35rem;
+		margin: 0;
 	}
 
 	.legend-kicker {
