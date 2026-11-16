@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T12:45:00-03:00",
+  "atualizado_em": "2026-11-16T13:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2956,17 +2956,25 @@
         "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
         "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 193,
       "codigo": "HIDRO-SUL-SUDESTE-ASIATICO-BANGLADESH-INDIA-SRI-LANKA-MALDIVAS-INDONESIA-VII",
       "pais": "Fase Hidroviária Mundial #79 — Sul e Sudeste Asiático: BIWTC Rocket Paddle Steamers & Launches Dhaka Sadarghat–Barisal–Khulna (Bangladesh), MTDC RTL Speedboat Network (Malé–Hulhumalé–Maafushi, Maldivas), Jaffna Islands Ferries Kurikadduwan–Nainativu–Delft (Sri Lanka), Ro-Pax Ghogha–Hazira & Okha–Beyt Dwarka (Gujarat, Índia) e ASDP Sape–Labuan Bajo–Komodo (Flores, Indonésia) VII",
       "continente": "Ásia",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 197,
+      "sistemas_adicionados": [
+        "biwtc-biwta-dhaka-sadarghat-river-port-barisal-chandpur-bhola-hathiya-morrelganj-khulna-rocket-paddle-steamers-bangladesh",
+        "mtcc-raajje-transport-link-rtl-male-hulhumale-velana-airport-villingili-maafushi-gulhi-thulusdhoo-kulhudhuffushi-addu-maldivas",
+        "jaffna-islands-ferries-kurikadduwan-nainativu-nagadeepa-delft-neduntheevu-analaitivu-eluvaitivu-kankesanthurai-nagapattinam-sri-lanka-india",
+        "dg-sea-connect-hazira-ghogha-ro-pax-ferry-dahej-okha-beyt-dwarka-golfo-de-khambhat-golfo-de-kutch-gujarat-india",
+        "asdp-sape-bima-labuan-bajo-komodo-rinca-waingapu-ende-kalabahi-alor-sonda-orientais-ntb-ntt-indonesia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 194,
       "codigo": "HIDRO-AFRICA-OCIDENTAL-CENTRAL-VOLTA-LAGOS-CONGO-ZAMBEZE-VIII",
@@ -3020,6 +3028,14 @@
       "codigo": "HIDRO-EUROPA-OCIDENTAL-RIOS-LAGOAS-ALEMANHA-AUSTRIA-BELGICA-FRANCA-VIII",
       "pais": "Fase Hidroviária Mundial #85 — Europa Ocidental: Wolfgangsee Schifffahrt & Hallstättersee (Salzkammergut, Áustria), Bayerische Seenschifffahrt (Königssee / Chiemsee / Starnberger See, Baviera), DeWaterbus Antuérpia & Gent Watertram (Bélgica), Les Bateaux Nantais / Navibus Erdre & Loire (Nantes, França) e Ferries do Rio Reno e Mosela VIII",
       "continente": "Europa",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 201,
+      "codigo": "HIDRO-ASIA-ORIENTAL-JAPAO-SETO-INLAND-SEA-KYUSHU-COREIA-CHINA-VIII",
+      "pais": "Fase Hidroviária Mundial #86 — Ásia Oriental: Shikoku Kisen & Setonaikai Kisen (Takamatsu/Uno–Naoshima–Teshima e Hiroshima–Matsuyama Super Jet, Japão), Ishigaki Dream Tours /ANEI Kanko (Ilhas Yaeyama: Ishigaki–Taketomi–Iriomote–Yonaguni, Japão), Seaspovill & Hanil Express (Donghae/Jeju–ChuJa, Coreia do Sul), Bohai Ferry Yantai–Dalian e Wuzhou Ferry (Nanning–Wuzhou–Guangzhou, China) VIII",
+      "continente": "Ásia",
       "prioridade": "alta",
       "status": "pendente"
     }
