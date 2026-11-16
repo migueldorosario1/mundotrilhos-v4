@@ -70040,6 +70040,318 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-tro-l1",
+        "nome": "Hidrovia do Rio Trombetas (Santarém / Óbidos ↔ Terminal Hidroviário de Oriximiná ↔ Porto Trombetas ↔ Cachoeira Porteira)",
+        "sistema_id": "hidrovia-rio-trombetas-rio-nhamunda-oriximina-porto-trombetas-cachoeira-porteira-faro-terra-santa-nhamunda-pa-am",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5156,
+            -1.9189
+          ],
+          [
+            -55.8656,
+            -1.7656
+          ],
+          [
+            -56.3825,
+            -1.4689
+          ],
+          [
+            -57.0456,
+            -1.0889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-nha-l2",
+        "nome": "Hidrovia do Rio Nhamundá — Divisa PA/AM (Oriximiná ↔ Terra Santa PA ↔ Faro PA ↔ Nhamundá AM ↔ Parintins)",
+        "sistema_id": "hidrovia-rio-trombetas-rio-nhamunda-oriximina-porto-trombetas-cachoeira-porteira-faro-terra-santa-nhamunda-pa-am",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8656,
+            -1.7656
+          ],
+          [
+            -56.4889,
+            -2.1056
+          ],
+          [
+            -56.7456,
+            -2.1725
+          ],
+          [
+            -56.7125,
+            -2.1856
+          ],
+          [
+            -56.7356,
+            -2.6289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-jag-l1",
+        "nome": "Travessias do Sul da Baía de Todos-os-Santos e Rio Jaguaripe (Salinas da Margarida / Mutá ↔ Cacha-Pregos Itaparica ↔ Jaguaripe ↔ Nazaré)",
+        "sistema_id": "travessias-baia-de-todos-os-santos-sul-rio-jaguaripe-salinas-da-margarida-cairu-torrinhas-barra-dos-carvalhos-nazare-itaparica-ba",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.7619,
+            -12.8725
+          ],
+          [
+            -38.7956,
+            -13.1225
+          ],
+          [
+            -38.8956,
+            -13.1125
+          ],
+          [
+            -39.0056,
+            -13.0356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-cai-l2",
+        "nome": "Canais Internos do Arquipélago de Cairu (Graciosa / Torrinhas ↔ Sede de Cairu ↔ Cova da Onça / São Sebastião ↔ Barra dos Carvalhos)",
+        "sistema_id": "travessias-baia-de-todos-os-santos-sul-rio-jaguaripe-salinas-da-margarida-cairu-torrinhas-barra-dos-carvalhos-nazare-itaparica-ba",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.0856,
+            -13.4389
+          ],
+          [
+            -39.0425,
+            -13.485
+          ],
+          [
+            -38.9956,
+            -13.5519
+          ],
+          [
+            -38.9756,
+            -13.6589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-can-l1",
+        "nome": "Travessias 24h do Reservatório de Peixoto / Serra da Canastra (Porto de Delfinópolis ↔ Porto Olhos d'Água Cássia & Balsa de Ponte Alta / Santo Antônio)",
+        "sistema_id": "travessias-balsas-rio-grande-represas-marimbondo-agua-vermelha-peixoto-delfinopolis-olimpio-noronha-colombia-planura-icem-fronteira-sp-mg",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.8556,
+            -20.3689
+          ],
+          [
+            -46.8856,
+            -20.3889
+          ],
+          [
+            -47.0256,
+            -20.2856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-gra-l2",
+        "nome": "Eixo Náutico e Travessias da Divisa SP/MG no Rio Grande (Rifaina SP / Sacramento MG ↔ Reservatório de Marimbondo ↔ Água Vermelha / Mira Estrela)",
+        "sistema_id": "travessias-balsas-rio-grande-represas-marimbondo-agua-vermelha-peixoto-delfinopolis-olimpio-noronha-colombia-planura-icem-fronteira-sp-mg",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.4256,
+            -20.0789
+          ],
+          [
+            -48.5956,
+            -20.1756
+          ],
+          [
+            -50.1256,
+            -19.9256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-vix-l1",
+        "nome": "Linhas 401 e 402 — Aquaviário da Grande Vitória (Estação Porto de Santana Cariacica ↔ Estação Prainha Vila Velha ↔ Estação Praça do Papa Vitória)",
+        "sistema_id": "aquaviario-grande-vitoria-gvbus-prainha-vila-velha-praca-do-papa-porto-de-santana-cariacica-travessias-piraque-acu-santa-cruz-aracruz-es",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.3756,
+            -20.3189
+          ],
+          [
+            -40.2925,
+            -20.3289
+          ],
+          [
+            -40.2919,
+            -20.3156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-ara-l2",
+        "nome": "Travessias Estuarinas do Norte Capixaba (Cais de Santa Cruz ↔ Rio Piraquê-Açu Aracruz & Cais do Rio Cricaré Conceição da Barra)",
+        "sistema_id": "aquaviario-grande-vitoria-gvbus-prainha-vila-velha-praca-do-papa-porto-de-santana-cariacica-travessias-piraque-acu-santa-cruz-aracruz-es",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.1525,
+            -19.9525
+          ],
+          [
+            -40.1456,
+            -19.9456
+          ],
+          [
+            -39.7325,
+            -18.5925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-tha-l1",
+        "nome": "Hidrovia dos Municípios Isolados do Alto Juruá e Rio Tarauacá (Cruzeiro do Sul ↔ Porto Walter ↔ Marechal Thaumaturgo & Tarauacá ↔ Jordão)",
+        "sistema_id": "hidrovia-rio-acre-rio-envira-rio-tarauaca-rio-branco-porto-acre-xapuri-brasileia-feijo-tarauaca-jordao-marechal-thaumaturgo-acre-brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.6725,
+            -7.6289
+          ],
+          [
+            -72.7425,
+            -8.2689
+          ],
+          [
+            -72.7925,
+            -8.9419
+          ],
+          [
+            -71.9525,
+            -9.1919
+          ],
+          [
+            -70.7656,
+            -8.1625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra14-acr-l2",
+        "nome": "Hidrovia do Rio Acre e Rio Purus (Rio Branco Gameleira ↔ Porto Acre ↔ Boca do Acre AM & Manuel Urbano ↔ Santa Rosa do Purus)",
+        "sistema_id": "hidrovia-rio-acre-rio-envira-rio-tarauaca-rio-branco-porto-acre-xapuri-brasileia-feijo-tarauaca-jordao-marechal-thaumaturgo-acre-brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.8089,
+            -9.9756
+          ],
+          [
+            -67.5356,
+            -9.5889
+          ],
+          [
+            -67.3989,
+            -8.7525
+          ],
+          [
+            -70.4925,
+            -9.4356
+          ]
+        ]
+      }
     }
   ]
 }
