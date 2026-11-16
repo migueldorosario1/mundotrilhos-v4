@@ -47580,5 +47580,327 @@
         "estacoes": 3
       }
     ]
+  },
+  {
+    "id": "toremar-moby-blunavy-piombino-portoferraio-rio-marina-cavo-elba-livorno-capraia-porto-santo-stefano-giglio-italia",
+    "slug": "toremar-moby-blunavy-piombino-portoferraio-rio-marina-cavo-elba-livorno-capraia-porto-santo-stefano-giglio-italia",
+    "nome_pt": "Toremar, Moby e Blu Navy Arquipélago Toscano (Piombino–Ilha de Elba, Livorno–Capraia e Porto Santo Stefano–Ilha de Giglio, Itália)",
+    "nome_en": "Toremar, Moby & Blu Navy Tuscan Archipelago Ferries (Piombino–Elba Island, Livorno–Capraia & Porto Santo Stefano–Giglio Island, Italy)",
+    "pais": "Itália",
+    "cidade": "Piombino / Portoferraio (Ilha de Elba) / Livorno / Ilha de Giglio",
+    "uf": "Toscana",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Toremar (Toscana Regionale Marittima) / Moby Lines / Blu Navy / Maregiglio",
+    "inauguracao": "1976",
+    "extensao_km": 210,
+    "bitola": "N/A (Hidrovia Insular do Mar Tirreno e Canal de Piombino — Arquipélago Toscano)",
+    "eletrificacao": "Ferries Ro-Pax (Oglasa / Moby Kiss / Acciarello), Hidrofölios Schiopparello Jet e Ferry Liburna",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 18500,
+    "ano_referencia": 2026,
+    "investimento": "Renovação da frota regional da Toscana e integração ferroviária direta na estação de Piombino Marittima (Trenitalia)",
+    "proximas_entregas": "Novos ferries híbridos GNL/bateria para a continuidade territorial do Arquipélago Toscano",
+    "resumo_pt": "Sistema oficial de continuidade territorial marítima do Arquipélago Toscano: a partir de Piombino Marittima (com plataforma ferroviária da Trenitalia dentro do terminal portuário), os ferries Ro-Pax e hidrofölios da Toremar, Moby e Blu Navy operam dezenas de partidas diárias para Portoferraio, Rio Marina e Cavo na Ilha de Elba (e Pianosa), complementados pela linha Livorno–Ilha de Capraia e pelas travessias de Porto Santo Stefano (Monte Argentario) para as ilhas de Giglio e Giannutri.",
+    "resumo_en": "Official maritime territorial continuity network of the Tuscan Archipelago: from Piombino Marittima (with direct Trenitalia rail connection inside the port), Toremar, Moby and Blu Navy operate dozens of daily Ro-Pax ferries and hydrofoils to Portoferraio, Rio Marina and Cavo on Elba Island, complemented by the Livorno–Capraia Island route and Porto Santo Stefano–Giglio/Giannutri ferries.",
+    "lat": 42.8125,
+    "lon": 10.3312,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "regione-toscana",
+      "toremar-it"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "italia",
+      "toscana",
+      "ilha-de-elba",
+      "piombino",
+      "portoferraio",
+      "livorno",
+      "capraia",
+      "giglio"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med60-tos-l1",
+        "nome": "Corredor Ilha de Elba e Capraia (Piombino Marittima ↔ Portoferraio / Rio Marina / Cavo & Livorno ↔ Capraia)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 135,
+        "estacoes": 4
+      },
+      {
+        "id": "hidro-med60-tos-l2",
+        "nome": "Corredor Sul do Arquipélago Toscano (Porto Santo Stefano ↔ Giglio Porto ↔ Ilha de Giannutri)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 75,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "liberty-lines-siremar-trapani-marsala-favignana-levanzo-marettimo-egadi-milazzo-lipari-vulcano-stromboli-salina-eolias-sicilia-italia",
+    "slug": "liberty-lines-siremar-trapani-marsala-favignana-levanzo-marettimo-egadi-milazzo-lipari-vulcano-stromboli-salina-eolias-sicilia-italia",
+    "nome_pt": "Liberty Lines & Siremar Sicília: Ilhas Égadi (Trapani/Marsala–Favignana–Levanzo–Marettimo) e Ilhas Eólias (Milazzo–Vulcano–Lipari–Salina–Stromboli, Itália)",
+    "nome_en": "Liberty Lines & Siremar Sicily: Aegadian Islands (Trapani/Marsala–Favignana–Levanzo–Marettimo) & Aeolian Islands (Milazzo–Vulcano–Lipari–Salina–Stromboli, Italy)",
+    "pais": "Itália",
+    "cidade": "Trapani / Favignana / Milazzo / Lipari / Stromboli (Sicília)",
+    "uf": "Sicilia",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Liberty Lines S.p.A. / Caronte & Tourist Isole Minori (Siremar)",
+    "inauguracao": "1956",
+    "extensao_km": 340,
+    "bitola": "N/A (Hidrovia Insular do Mar Tirreno Meridional e Canal da Sicília)",
+    "eletrificacao": "Nova Frota de 9 Monocascos Híbridos de Alta Velocidade Liberty Lines (Vittorio Morace) e Hidrofölios/Ferries Siremar",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 21000,
+    "ano_referencia": 2026,
+    "investimento": "Encomenda histórica de 9 navios híbridos rápidos da Liberty Lines (capazes de navegar em modo 100% elétrico nos portos das ilhas sicilianas)",
+    "proximas_entregas": "Entrada em serviço de toda a série híbrida nas rotas das Ilhas Eólias e Ilhas Égadi",
+    "resumo_pt": "A maior frota mundial de hidrofölios e navios híbridos rápidos (Liberty Lines, sediada em Trapani) em conjunto com os ferries Ro-Pax da Siremar nas ilhas menores da Sicília: a oeste, conecta Trapani e Marsala às Ilhas Égadi (Favignana, Levanzo e Marettimo) em 20 a 40 minutos; a nordeste, a partir de Milazzo, Messina e Palermo, interliga as sete Ilhas Eólias listadas pela UNESCO (Vulcano, Lipari, Salina, Panarea, Stromboli, Filicudi e Alicudi).",
+    "resumo_en": "The world's largest fleet of hydrofoils and hybrid high-speed craft (Liberty Lines, based in Trapani) alongside Siremar Ro-Pax ferries across Sicily's minor islands: in the west, connecting Trapani and Marsala to the Aegadian Islands (Favignana, Levanzo and Marettimo); in the northeast, linking Milazzo, Messina and Palermo to all seven UNESCO-listed volcanic Aeolian Islands (Vulcano, Lipari, Salina, Panarea, Stromboli, Filicudi and Alicudi).",
+    "lat": 38.2185,
+    "lon": 14.9642,
+    "zoom_inicial": 7.2,
+    "fontes": [
+      "regione-sicilia",
+      "libertylines-it"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrofolio",
+      "italia",
+      "sicilia",
+      "trapani",
+      "favignana",
+      "egadi",
+      "milazzo",
+      "lipari",
+      "stromboli",
+      "eolias"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med60-ega-l1",
+        "nome": "Arquipélago das Ilhas Égadi (Trapani / Marsala ↔ Favignana ↔ Levanzo ↔ Marettimo)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 95,
+        "estacoes": 2
+      },
+      {
+        "id": "hidro-med60-eol-l2",
+        "nome": "Arquipélago Vulcânico das Ilhas Eólias (Milazzo / Messina ↔ Vulcano ↔ Lipari / Salina ↔ Panarea / Stromboli)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 245,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "corsica-linea-la-meridionale-corsica-ferries-marseille-toulon-nice-ajaccio-bastia-ile-rousse-porto-vecchio-propriano-corsega-franca",
+    "slug": "corsica-linea-la-meridionale-corsica-ferries-marseille-toulon-nice-ajaccio-bastia-ile-rousse-porto-vecchio-propriano-corsega-franca",
+    "nome_pt": "Corsica Linea, La Méridionale e Corsica Ferries (Marselha/Toulon/Nice–Bastia–Ajaccio–L'Île-Rousse–Porto-Vecchio–Propriano e Bonifacio, França)",
+    "nome_en": "Corsica Linea, La Méridionale & Corsica Ferries (Marseille/Toulon/Nice–Bastia–Ajaccio–L'Île-Rousse–Porto-Vecchio–Propriano & Bonifacio, France)",
+    "pais": "França",
+    "cidade": "Marselha / Toulon / Bastia / Ajaccio / Porto-Vecchio / Bonifacio",
+    "uf": "Corse / Provence-Alpes-Côte d'Azur",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Corsica Linea / La Méridionale / Corsica Ferries / Moby (Estreito de Bonifacio)",
+    "inauguracao": "1948",
+    "extensao_km": 1180,
+    "bitola": "N/A (Hidrovia Marítima do Mar da Ligúria, Mediterrâneo Ocidental e Estreito de Bonifacio)",
+    "eletrificacao": "Navios Ro-Pax movidos a GNL (A Galeotta) e Conexão Elétrica de Cais (COPS) em Marselha, Bastia e Ajaccio",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 14000,
+    "ano_referencia": 2026,
+    "investimento": "Navio a GNL A Galeotta da Corsica Linea e eletrificação dos cais (branchement électrique à quai) nos portos de Marselha e da Córsega",
+    "proximas_entregas": "Segundo navio Ro-Pax a GNL para a delegação de serviço público da Córsega",
+    "resumo_pt": "Rede de continuidade territorial marítima entre a França continental (portos de Marselha-La Joliette, Toulon e Nice) e os seis portos comerciais da Córsega — Bastia, L'Île-Rousse, Ajaccio, Propriano, Porto-Vecchio e Bonifacio — operada pela Corsica Linea, La Méridionale e Corsica Ferries, somada à travessia internacional de 14 km pelo Estreito de Bonifacio entre Bonifacio (sul da Córsega) e Santa Teresa Gallura (norte da Sardenha).",
+    "resumo_en": "Maritime territorial continuity network linking mainland France (Marseille, Toulon and Nice) to Corsica's six ports (Bastia, L'Île-Rousse, Ajaccio, Propriano, Porto-Vecchio and Bonifacio) via Corsica Linea, La Méridionale and Corsica Ferries, plus the 14 km Strait of Bonifacio crossing between Bonifacio (Corsica) and Santa Teresa Gallura (Sardinia).",
+    "lat": 42.1512,
+    "lon": 9.0125,
+    "zoom_inicial": 6.4,
+    "fontes": [
+      "otc-corse",
+      "corsicalinea-fr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "franca",
+      "corsega",
+      "marselha",
+      "toulon",
+      "bastia",
+      "ajaccio",
+      "porto-vecchio",
+      "bonifacio"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med60-cor-l1",
+        "nome": "Corredor Norte e Oeste da Córsega (Marselha / Toulon / Nice ↔ Bastia / L'Île-Rousse ↔ Ajaccio / Propriano)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 680,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-med60-cor-l2",
+        "nome": "Corredor Sul e Estreito de Bonifacio (Marselha / Toulon ↔ Porto-Vecchio ↔ Bonifacio ↔ Santa Teresa Gallura)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 500,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "saronic-ferries-hellenic-seaways-alpha-lines-piraeus-aegina-agistri-methana-poros-hydra-ermioni-spetses-porto-heli-grecia",
+    "slug": "saronic-ferries-hellenic-seaways-alpha-lines-piraeus-aegina-agistri-methana-poros-hydra-ermioni-spetses-porto-heli-grecia",
+    "nome_pt": "Saronic Ferries, Hellenic Seaways Aero Highspeed e Alpha Lines (Pireu–Egina–Agistri–Methana–Poros–Hidra–Ermioni–Spetses–Porto Heli, Grécia)",
+    "nome_en": "Saronic Ferries, Hellenic Seaways Aero Highspeed & Alpha Lines (Piraeus–Aegina–Agistri–Methana–Poros–Hydra–Ermioni–Spetses–Porto Heli, Greece)",
+    "pais": "Grécia",
+    "cidade": "Pireu (Atenas) / Egina / Poros / Hidra / Spetses / Porto Heli",
+    "uf": "Attica / Peloponnese",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Saronic Ferries / Hellenic Seaways (Attica Group — Aero Highspeed) / Alpha Lines / Aegean Flying Dolphins",
+    "inauguracao": "1975",
+    "extensao_km": 220,
+    "bitola": "N/A (Hidrovia Metropolitana e Insular do Golfo Sarônico e Golfo Argólico)",
+    "eletrificacao": "Catamarãs de Fibra de Carbono Aero 1/2/3 Highspeed, Speed Cat I e Ferries Ro-Pax de Golfo Sarônico",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 26000,
+    "ano_referencia": 2026,
+    "investimento": "Frota de 3 catamarãs ultraleves Aero Highspeed (construídos na Noruega pela Brødrene Aa) para as rotas de Hidra e Spetses",
+    "proximas_entregas": "Novos ferries elétricos/híbridos para a ligação suburbana Pireu–Egina (40 minutos)",
+    "resumo_pt": "O mais movimentado corredor hidroviário suburbano e insular da região metropolitana de Atenas (partindo do Portão E8 do Porto do Pireu, ao lado da estação ferroviária/metrô): a Saronic Ferries e hidrofölios conectam a cada 30–60 minutos o Pireu às ilhas de Egina (Aegina/Souvala), Agistri, à península vulcânica de Methana e a Poros; prosseguindo para o sul, os modernos catamarãs Aero 1, 2 e 3 Highspeed da Hellenic Seaways e o Speed Cat I da Alpha Lines atendem a ilha histórica sem veículos motorizados de Hidra (Hydra), Ermioni, Spetses e Porto Heli na Argólida.",
+    "resumo_en": "Greater Athens's busiest suburban and island water transit corridor (departing from Piraeus Port Gate E8 alongside the metro station): Saronic Ferries and hydrofoils link Piraeus every 30–60 minutes to Aegina, Agistri, Methana and Poros, while Hellenic Seaways' carbon-fibre Aero 1/2/3 Highspeed catamarans and Alpha Lines serve car-free Hydra, Ermioni, Spetses and Porto Heli.",
+    "lat": 37.7465,
+    "lon": 23.4265,
+    "zoom_inicial": 8.4,
+    "fontes": [
+      "ynanp-gr",
+      "saronicferries-gr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "ferry",
+      "grecia",
+      "pireu",
+      "atenas",
+      "egina",
+      "poros",
+      "hidra",
+      "spetses",
+      "golfo-saronico"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med60-sar-l1",
+        "nome": "Saronic Ferries Golfo Sarônico (Pireu Portão E8 ↔ Egina / Souvala ↔ Agistri ↔ Methana ↔ Poros)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 95,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-med60-sar-l2",
+        "nome": "Aero Highspeed Hidra–Spetses–Argólida (Pireu ↔ Poros ↔ Hidra ↔ Ermioni ↔ Spetses ↔ Porto Heli)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 125,
+        "estacoes": 4
+      }
+    ]
+  },
+  {
+    "id": "jadrolinija-krilo-kapetan-luka-zadar-gazenica-preko-ugljan-dugi-otok-brbinj-sali-mali-losinj-silba-sibenik-zlarin-vodice-croacia",
+    "slug": "jadrolinija-krilo-kapetan-luka-zadar-gazenica-preko-ugljan-dugi-otok-brbinj-sali-mali-losinj-silba-sibenik-zlarin-vodice-croacia",
+    "nome_pt": "Jadrolinija & Catamarãs dos Arquipélagos de Zadar, Lošinj e Šibenik (Zadar–Preko/Ugljan–Dugi Otok–Silba–Mali Lošinj e Šibenik–Zlarin–Prvić–Vodice, Croácia)",
+    "nome_en": "Jadrolinija & Catamarans of the Zadar, Lošinj & Šibenik Archipelagos (Zadar–Preko/Ugljan–Dugi Otok–Silba–Mali Lošinj & Šibenik–Zlarin–Prvić–Vodice, Croatia)",
+    "pais": "Croácia",
+    "cidade": "Zadar / Preko (Ugljan) / Dugi Otok / Mali Lošinj / Šibenik",
+    "uf": "Zadarska / Šibensko-kninska / Primorsko-goranska",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Jadrolinija / Miatours / TP Line / Kapetan Luka",
+    "inauguracao": "1947",
+    "extensao_km": 295,
+    "bitola": "N/A (Hidrovia Costeira e Insular do Mar Adriático — Dalmácia Setentrional e Central)",
+    "eletrificacao": "Ferries Ro-Pax Dora / Juraj Dalmatinac e Catamarãs Rápidos Jelena / Princ Zadra",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 23000,
+    "ano_referencia": 2026,
+    "investimento": "Terminal multimodal de Zadar Gaženica e renovação da frota de catamarãs estatais da Jadrolinija",
+    "proximas_entregas": "Novos ferries elétricos/híbridos para as rotas curtas Zadar–Preko e Šibenik–Zlarin–Vodice",
+    "resumo_pt": "Densa malha insular da Dalmácia Setentrional na Croácia: a partir do moderno Porto de Gaženica e do centro histórico (Poluotok) de Zadar, a Jadrolinija e operadores de catamarãs operam a linha insular de maior movimento do Adriático croata (Zadar–Preko na Ilha de Ugljan, em 20 minutos), além das rotas Ro-Pax e rápidas para Dugi Otok (Brbinj, Sali, Zaglav e Božava), Iž, Rava, Molat, Ist, Silba, Olib e Mali Lošinj; mais ao sul, a frota de Šibenik conecta o continente às ilhas sem carros de Zlarin, Prvić (Prvić Luka e Šepurine), Kaprije e Žirje até Vodice.",
+    "resumo_en": "Dense northern Dalmatian island ferry network in Croatia: from Zadar Gaženica Port and Zadar Old Town, Jadrolinija and high-speed catamaran operators run Croatia's busiest island crossing (Zadar–Preko on Ugljan Island) alongside Ro-Pax and fast routes to Dugi Otok (Brbinj, Sali and Božava), Silba, Olib and Mali Lošinj; further south, the Šibenik fleet links the mainland to the car-free islands of Zlarin, Prvić, Kaprije and Žirje through to Vodice.",
+    "lat": 44.0885,
+    "lon": 15.2585,
+    "zoom_inicial": 7.6,
+    "fontes": [
+      "azobp-hr",
+      "jadrolinija-hr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "croacia",
+      "zadar",
+      "ugljan",
+      "dugi-otok",
+      "mali-losinj",
+      "sibenik",
+      "dalmacia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med60-zad-l1",
+        "nome": "Arquipélago de Zadar e Lošinj (Zadar Gaženica ↔ Preko / Ugljan ↔ Brbinj / Sali Dugi Otok ↔ Silba / Mali Lošinj)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 215,
+        "estacoes": 4
+      },
+      {
+        "id": "hidro-med60-sib-l2",
+        "nome": "Arquipélago de Šibenik (Luka Šibenik ↔ Zlarin ↔ Prvić Luka / Šepurine ↔ Kaprije / Žirje ↔ Vodice)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 80,
+        "estacoes": 2
+      }
+    ]
   }
 ]

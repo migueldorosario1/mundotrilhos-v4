@@ -61473,6 +61473,456 @@
           44.1685
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-tos-e1",
+        "nome": "Porto di Piombino Stazione Marittima (Livorno, Toscana, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-portoferraio-rio-marina-cavo-elba-livorno-capraia-porto-santo-stefano-giglio-italia",
+        "linha_id": "hidro-med60-tos-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5485,
+          42.9275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-tos-e2",
+        "nome": "Porto di Portoferraio & Rio Marina / Cavo (Ilha de Elba, Toscana, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-portoferraio-rio-marina-cavo-elba-livorno-capraia-porto-santo-stefano-giglio-italia",
+        "linha_id": "hidro-med60-tos-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3312,
+          42.8125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-tos-e3",
+        "nome": "Porto Mediceo di Livorno — Molo Elba (Toscana, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-portoferraio-rio-marina-cavo-elba-livorno-capraia-porto-santo-stefano-giglio-italia",
+        "linha_id": "hidro-med60-tos-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3012,
+          43.5515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-tos-e4",
+        "nome": "Porto di Capraia Isola (Arquipélago Toscano, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-portoferraio-rio-marina-cavo-elba-livorno-capraia-porto-santo-stefano-giglio-italia",
+        "linha_id": "hidro-med60-tos-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8435,
+          43.0512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-tos-e5",
+        "nome": "Porto Santo Stefano (Monte Argentario) & Giglio Porto (Ilha de Giglio, Toscana, Itália)",
+        "sistema_id": "toremar-moby-blunavy-piombino-portoferraio-rio-marina-cavo-elba-livorno-capraia-porto-santo-stefano-giglio-italia",
+        "linha_id": "hidro-med60-tos-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9225,
+          42.3605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-ega-e1",
+        "nome": "Porto di Trapani & Marsala Terminal Aliscafi (Sicília Ocidental, Itália)",
+        "sistema_id": "liberty-lines-siremar-trapani-marsala-favignana-levanzo-marettimo-egadi-milazzo-lipari-vulcano-stromboli-salina-eolias-sicilia-italia",
+        "linha_id": "hidro-med60-ega-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5075,
+          38.0125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-ega-e2",
+        "nome": "Favignana, Levanzo & Marettimo Ports (Ilhas Égadi, Sicília, Itália)",
+        "sistema_id": "liberty-lines-siremar-trapani-marsala-favignana-levanzo-marettimo-egadi-milazzo-lipari-vulcano-stromboli-salina-eolias-sicilia-italia",
+        "linha_id": "hidro-med60-ega-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3285,
+          37.9315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-eol-e3",
+        "nome": "Porto di Milazzo Terminal Aliscafi e Traghetti (Messina, Sicília, Itália)",
+        "sistema_id": "liberty-lines-siremar-trapani-marsala-favignana-levanzo-marettimo-egadi-milazzo-lipari-vulcano-stromboli-salina-eolias-sicilia-italia",
+        "linha_id": "hidro-med60-eol-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2452,
+          38.2185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-eol-e4",
+        "nome": "Lipari (Sottomonastero), Vulcano & Salina (Santa Marina) Ports (Ilhas Eólias, Sicília)",
+        "sistema_id": "liberty-lines-siremar-trapani-marsala-favignana-levanzo-marettimo-egadi-milazzo-lipari-vulcano-stromboli-salina-eolias-sicilia-italia",
+        "linha_id": "hidro-med60-eol-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9642,
+          38.4685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-eol-e5",
+        "nome": "Stromboli (Scari / Ginostra) & Panarea Ports (Ilhas Eólias Orientais, Sicília)",
+        "sistema_id": "liberty-lines-siremar-trapani-marsala-favignana-levanzo-marettimo-egadi-milazzo-lipari-vulcano-stromboli-salina-eolias-sicilia-italia",
+        "linha_id": "hidro-med60-eol-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2395,
+          38.8025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-cor-e1",
+        "nome": "Grand Port Maritime de Marseille — Gare Maritime de la Joliette & Port de Toulon (Provença, França)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marseille-toulon-nice-ajaccio-bastia-ile-rousse-porto-vecchio-propriano-corsega-franca",
+        "linha_id": "hidro-med60-cor-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3595,
+          43.3052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-cor-e2",
+        "nome": "Port de Commerce de Bastia & L'Île-Rousse (Haute-Corse, Córsega, França)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marseille-toulon-nice-ajaccio-bastia-ile-rousse-porto-vecchio-propriano-corsega-franca",
+        "linha_id": "hidro-med60-cor-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4525,
+          42.6995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-cor-e3",
+        "nome": "Port Tino Rossi d'Ajaccio & Port de Propriano (Corse-du-Sud, Córsega, França)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marseille-toulon-nice-ajaccio-bastia-ile-rousse-porto-vecchio-propriano-corsega-franca",
+        "linha_id": "hidro-med60-cor-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7395,
+          41.9212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-cor-e4",
+        "nome": "Port de Commerce de Porto-Vecchio (Sud-Corse, Córsega, França)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marseille-toulon-nice-ajaccio-bastia-ile-rousse-porto-vecchio-propriano-corsega-franca",
+        "linha_id": "hidro-med60-cor-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2852,
+          41.5912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-cor-e5",
+        "nome": "Port de Bonifacio — Travessia Estreito de Bonifacio ↔ Santa Teresa Gallura (Córsega / Sardenha)",
+        "sistema_id": "corsica-linea-la-meridionale-corsica-ferries-marseille-toulon-nice-ajaccio-bastia-ile-rousse-porto-vecchio-propriano-corsega-franca",
+        "linha_id": "hidro-med60-cor-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1585,
+          41.3875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-sar-e1",
+        "nome": "Port of Piraeus — Gate E8 Saronic Ferries & Flying Dolphins Terminal (Atenas, Grécia)",
+        "sistema_id": "saronic-ferries-hellenic-seaways-alpha-lines-piraeus-aegina-agistri-methana-poros-hydra-ermioni-spetses-porto-heli-grecia",
+        "linha_id": "hidro-med60-sar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6385,
+          37.9452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-sar-e2",
+        "nome": "Aegina Port, Souvala & Agistri (Megalochori / Skala) Ports (Golfo Sarônico, Grécia)",
+        "sistema_id": "saronic-ferries-hellenic-seaways-alpha-lines-piraeus-aegina-agistri-methana-poros-hydra-ermioni-spetses-porto-heli-grecia",
+        "linha_id": "hidro-med60-sar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4265,
+          37.7465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-sar-e3",
+        "nome": "Poros Port & Methana Ferry Terminal (Golfo Sarônico / Peloponeso, Grécia)",
+        "sistema_id": "saronic-ferries-hellenic-seaways-alpha-lines-piraeus-aegina-agistri-methana-poros-hydra-ermioni-spetses-porto-heli-grecia",
+        "linha_id": "hidro-med60-sar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4542,
+          37.5015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-sar-e4",
+        "nome": "Hydra Harbour — Ilha de Hidra (Sem Carros, Ilhas Sarônicas, Grécia)",
+        "sistema_id": "saronic-ferries-hellenic-seaways-alpha-lines-piraeus-aegina-agistri-methana-poros-hydra-ermioni-spetses-porto-heli-grecia",
+        "linha_id": "hidro-med60-sar-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4652,
+          37.3505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-sar-e5",
+        "nome": "Spetses (Dapia) & Porto Heli / Ermioni Terminals (Argólida, Peloponeso, Grécia)",
+        "sistema_id": "saronic-ferries-hellenic-seaways-alpha-lines-piraeus-aegina-agistri-methana-poros-hydra-ermioni-spetses-porto-heli-grecia",
+        "linha_id": "hidro-med60-sar-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1552,
+          37.2652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-zad-e1",
+        "nome": "Luka Zadar Gaženica & Gradska luka Zadar (Dalmácia Setentrional, Croácia)",
+        "sistema_id": "jadrolinija-krilo-kapetan-luka-zadar-gazenica-preko-ugljan-dugi-otok-brbinj-sali-mali-losinj-silba-sibenik-zlarin-vodice-croacia",
+        "linha_id": "hidro-med60-zad-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2585,
+          44.0885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-zad-e2",
+        "nome": "Trajektna luka Preko (Ilha de Ugljan) & Tkon (Ilha de Pašman, Croácia)",
+        "sistema_id": "jadrolinija-krilo-kapetan-luka-zadar-gazenica-preko-ugljan-dugi-otok-brbinj-sali-mali-losinj-silba-sibenik-zlarin-vodice-croacia",
+        "linha_id": "hidro-med60-zad-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1895,
+          44.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-zad-e3",
+        "nome": "Brbinj, Sali & Božava Ferry Terminals — Dugi Otok (Arquipélago de Zadar, Croácia)",
+        "sistema_id": "jadrolinija-krilo-kapetan-luka-zadar-gazenica-preko-ugljan-dugi-otok-brbinj-sali-mali-losinj-silba-sibenik-zlarin-vodice-croacia",
+        "linha_id": "hidro-med60-zad-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9985,
+          44.0792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-zad-e4",
+        "nome": "Luka Mali Lošinj, Silba & Olib Catamaran & Ferry Ports (Kvarner / Zadar, Croácia)",
+        "sistema_id": "jadrolinija-krilo-kapetan-luka-zadar-gazenica-preko-ugljan-dugi-otok-brbinj-sali-mali-losinj-silba-sibenik-zlarin-vodice-croacia",
+        "linha_id": "hidro-med60-zad-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4685,
+          44.5342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med60-sib-e5",
+        "nome": "Luka Šibenik, Zlarin, Prvić & Vodice Passenger Ports (Arquipélago de Šibenik, Croácia)",
+        "sistema_id": "jadrolinija-krilo-kapetan-luka-zadar-gazenica-preko-ugljan-dugi-otok-brbinj-sali-mali-losinj-silba-sibenik-zlarin-vodice-croacia",
+        "linha_id": "hidro-med60-sib-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8915,
+          43.7325
+        ]
+      }
     }
   ]
 }
