@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T11:45:00-03:00",
+  "atualizado_em": "2026-11-16T12:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2924,17 +2924,25 @@
         "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
         "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 191,
       "codigo": "HIDRO-ORIENTE-MEDIO-MAR-VERMELHO-GOLFO-PERSICO-BOSFORO-ASIA-CENTRAL-VII",
       "pais": "Fase Hidroviária Mundial #77 — Oriente Médio, Mar Vermelho, Bósforo e Cáspio: Şehir Hatları & Turyol Bósforo e Ilhas dos Príncipes (Istambul–Büyükada–Heybeliada–Kadıköy–Üsküdar), Red Sea Ferries Jazan–Farasan Islands (Arábia Saudita), Dubai RTA Abra, Dubai Ferry & Water Taxi (Dubai Creek & Dubai Marina, EAU), Arab Bridge Maritime Aqaba–Nuweiba (Jordânia–Egito) e Ferries Trans-Cáspios Baku–Türkmenbaşy–Aktau VII",
       "continente": "Ásia e Europa",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 195,
+      "sistemas_adicionados": [
+        "sehir-hatlari-turyol-mavi-marmara-bosforo-adalar-ilhas-dos-principes-eminonu-kabatas-kadikoy-uskudar-bostanci-buyukada-heybeliada-istambul-turquia",
+        "dubai-rta-marine-abra-dubai-ferry-water-taxi-dubai-creek-al-ghubaiba-deira-bur-dubai-dubai-marina-bluewaters-sharjah-aquarium-eau",
+        "farasan-islands-ferries-jazan-port-farasan-al-khor-red-sea-saudi-public-transport-tga-mar-vermelho-arabia-saudita",
+        "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
+        "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 192,
       "codigo": "HIDRO-EUROPA-CENTRAL-ORIENTAL-DANUBIO-BALCAS-MAR-NEGRO-VII",
@@ -2988,6 +2996,14 @@
       "codigo": "HIDRO-OCEANIA-AUSTRALIA-NOVA-ZELANDIA-VICTORIA-SOUTH-AUSTRALIA-PAPUA-VIII",
       "pais": "Fase Hidroviária Mundial #83 — Oceania: Searoad Ferries Port Phillip Heads (Queenscliff–Sorrento, Victoria) & Port Phillip Ferries (Docklands–Geelong–Portarlington), Río Murray Ferries (South Australia), Lyttelton–Diamond Harbour & Bay of Islands Ferries (Russell–Paihia, Nova Zelândia) e Lutheran Shipping / Bismark Sea Ferries (Lae–Kimbe–Rabaul, Papua-Nova Guiné) VIII",
       "continente": "Oceania",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 199,
+      "codigo": "HIDRO-ORIENTE-MEDIO-GOLFO-OMA-MAR-ARABICO-BAIKAL-LENA-VIII",
+      "pais": "Fase Hidroviária Mundial #84 — Golfo de Omã, Golfo Pérsico e Grandes Lagos Eurasiáticos: NFC / Mwasalat High-Speed Ferries Shinas–Khasab–Masirah Island (Omã), Abu Dhabi Mobility Ferries (Dalma Island & Sir Bani Yas, EAU), Kuwait Public Transport KPTC Failaka Island Ferries, Valfajr-8 Qeshm–Bandar Abbas–Kish (Irã) e Navegação do Lago Baikal e Rio Angara (Irkutsk–Listvyanka–Olkhon, Rússia) VIII",
+      "continente": "Ásia",
       "prioridade": "alta",
       "status": "pendente"
     }
