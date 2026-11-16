@@ -62104,6 +62104,294 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-zho-l1",
+        "nome": "Corredor Sul de Zhoushan (Ningbo Baifeng ↔ Dinghai / Daishan ↔ Zhujiajian Wugongzhi ↔ Putuoshan)",
+        "sistema_id": "zhoushan-inter-island-ferries-ningbo-baifeng-putuoshan-zhujiajian-shengsi-daishan-yangshan-china",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.0125,
+            29.8825
+          ],
+          [
+            122.3915,
+            29.9542
+          ],
+          [
+            122.3852,
+            29.9885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-zho-l2",
+        "nome": "Corredor Norte das Ilhas Shengsi (Yangshan Shenjiawan ↔ Shengsi Sijiao ↔ Shengshan / Gouqi Island)",
+        "sistema_id": "zhoushan-inter-island-ferries-ningbo-baifeng-putuoshan-zhujiajian-shengsi-daishan-yangshan-china",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.0885,
+            30.6125
+          ],
+          [
+            122.4625,
+            30.7285
+          ],
+          [
+            122.7785,
+            30.7185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-dal-l1",
+        "nome": "Arquipélago de Changhai — Mar Amarelo (Porto de Pikou Dalian ↔ Guanglu / Dachangshan ↔ Ilha de Zhangzi)",
+        "sistema_id": "dalian-changhai-islands-pikou-guanglu-zhangzi-haiwangjiu-bohai-strait-penglai-changdao-china",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.4215,
+            39.4015
+          ],
+          [
+            122.5852,
+            39.2685
+          ],
+          [
+            122.7385,
+            39.0512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-boh-l2",
+        "nome": "Arquipélago de Changdao — Estreito de Bohai (Porto de Penglai Yantai ↔ Changdao ↔ Tuoji / Beihuangcheng)",
+        "sistema_id": "dalian-changhai-islands-pikou-guanglu-zhangzi-haiwangjiu-bohai-strait-penglai-changdao-china",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.7512,
+            37.8265
+          ],
+          [
+            120.7325,
+            37.9215
+          ],
+          [
+            120.9125,
+            38.3852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-izu-l1",
+        "nome": "Tokai Kisen Izu Islands Jetfoil & Salvia/Tachibana Maru (Tokyo Takeshiba ↔ Izu Ōshima ↔ Niijima / Kōzushima ↔ Miyakejima / Hachijōjima)",
+        "sistema_id": "tokai-kisen-ogasawara-kaiun-tokyo-takeshiba-izu-oshima-niijima-kozushima-miyakejima-hachijojima-chichijima-hahajima-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.7635,
+            35.6542
+          ],
+          [
+            139.3925,
+            34.7865
+          ],
+          [
+            139.2485,
+            34.3752
+          ],
+          [
+            139.8115,
+            33.1242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-oga-l2",
+        "nome": "Ogasawara Kaiun Bonin Islands Line (Tokyo Takeshiba ↔ Chichijima Futami Port ↔ Hahajima Oki Port)",
+        "sistema_id": "tokai-kisen-ogasawara-kaiun-tokyo-takeshiba-izu-oshima-niijima-kozushima-miyakejima-hachijojima-chichijima-hahajima-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.7635,
+            35.6542
+          ],
+          [
+            140.8512,
+            31.2512
+          ],
+          [
+            142.1915,
+            27.0942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-kag-l1",
+        "nome": "Sakurajima 24h Ferry & Tane-Yaku Jetfoil (Kagoshima Port ↔ Sakurajima & Kagoshima ↔ Tanegashima ↔ Yakushima)",
+        "sistema_id": "sakurajima-ferry-kagoshima-tane-yaku-high-speed-jetfoil-toppy-rocket-tanegashima-yakushima-amami-okinawa-yaeyama-ishigaki-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.6015,
+            31.5885
+          ],
+          [
+            130.5652,
+            31.5925
+          ],
+          [
+            130.5685,
+            30.4225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-ryu-l2",
+        "nome": "Arco Ryukyu e Ilhas Yaeyama (Kagoshima ↔ Amami Ōshima ↔ Okinawa Naha & Ishigaki ↔ Taketomi / Iriomote)",
+        "sistema_id": "sakurajima-ferry-kagoshima-tane-yaku-high-speed-jetfoil-toppy-rocket-tanegashima-yakushima-amami-okinawa-yaeyama-ishigaki-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.5652,
+            31.5925
+          ],
+          [
+            129.4952,
+            28.3825
+          ],
+          [
+            127.6685,
+            26.2245
+          ],
+          [
+            124.1562,
+            24.3365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-kor-l1",
+        "nome": "Ulleungdo & Dokdo Express Line (Pohang / Hupo / Mukho ↔ Ulleungdo Sadong / Dodong ↔ Dokdo)",
+        "sistema_id": "ulleungdo-dokdo-cruise-ferries-pohang-mukho-hupo-sadong-dodong-coreia-do-sul-xiao-santong-kinmen-xiamen-matsu-taiwan-ferries",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.3812,
+            36.0512
+          ],
+          [
+            130.9085,
+            37.4825
+          ],
+          [
+            131.8695,
+            37.2415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ea58-twn-l2",
+        "nome": "Kinmen–Xiamen & Keelung–Matsu–Fuzhou Cross-Strait Ferries (Kinmen Shuitou ↔ Xiamen Wutong & Keelung ↔ Matsu Nangan/Beigan ↔ Fuzhou)",
+        "sistema_id": "ulleungdo-dokdo-cruise-ferries-pohang-mukho-hupo-sadong-dodong-coreia-do-sul-xiao-santong-kinmen-xiamen-matsu-taiwan-ferries",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.2885,
+            24.4125
+          ],
+          [
+            119.9425,
+            26.1592
+          ],
+          [
+            121.7412,
+            25.1325
+          ]
+        ]
+      }
     }
   ]
 }
