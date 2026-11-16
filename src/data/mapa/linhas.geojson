@@ -60976,6 +60976,290 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-rj-l1",
+        "nome": "Hidrovia Lagunar da Barra (Metrô Jardim Oceânico ↔ Ilha da Gigóia ↔ Canal de Marapendi)",
+        "sistema_id": "travessia-barra-da-tijuca-ilha-da-gigoia-marapendi-lagoa-tijuca-guaratiba-restinga-marambaia-rj",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.3105,
+            -23.0052
+          ],
+          [
+            -43.3142,
+            -23.0028
+          ],
+          [
+            -43.3385,
+            -23.0085
+          ],
+          [
+            -43.3685,
+            -23.0115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-rj-l2",
+        "nome": "Travessia Baía de Sepetiba (Itacuruçá ↔ Ilha de Jaguanum)",
+        "sistema_id": "travessia-barra-da-tijuca-ilha-da-gigoia-marapendi-lagoa-tijuca-guaratiba-restinga-marambaia-rj",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.8892,
+            -22.9415
+          ],
+          [
+            -43.9112,
+            -22.9715
+          ],
+          [
+            -43.9285,
+            -23.0012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-sc-l1",
+        "nome": "Ferry Boat Baía da Babitonga (Laranjeiras / São Francisco do Sul ↔ Vila da Glória)",
+        "sistema_id": "travessias-baia-da-babitonga-sao-francisco-do-sul-vila-da-gloria-joinville-lagoa-da-conceicao-costa-da-lagoa-sc",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.6652,
+            -26.2512
+          ],
+          [
+            -48.6718,
+            -26.2365
+          ],
+          [
+            -48.6785,
+            -26.2215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-sc-l2",
+        "nome": "Hidrovia Lagoa da Conceição (Centrinho da Lagoa ↔ Rio Vermelho ↔ Costa da Lagoa Ponto 16)",
+        "sistema_id": "travessias-baia-da-babitonga-sao-francisco-do-sul-vila-da-gloria-joinville-lagoa-da-conceicao-costa-da-lagoa-sc",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.4612,
+            -27.6035
+          ],
+          [
+            -48.4585,
+            -27.5582
+          ],
+          [
+            -48.4295,
+            -27.5292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-pr-l1",
+        "nome": "Travessia Ilha do Mel (Pontal do Sul ↔ Nova Brasília ↔ Praia de Encantadas)",
+        "sistema_id": "travessias-litoral-parana-pontal-do-sul-ilha-do-mel-encantadas-nova-brasilia-guaraquecaba-superagui-pr",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.3542,
+            -25.5685
+          ],
+          [
+            -48.3065,
+            -25.5392
+          ],
+          [
+            -48.3135,
+            -25.5655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-pr-l2",
+        "nome": "Travessia Baía de Laranjeiras (Pontal do Sul / Paranaguá ↔ Guaraqueçaba ↔ Ilha de Superagui)",
+        "sistema_id": "travessias-litoral-parana-pontal-do-sul-ilha-do-mel-encantadas-nova-brasilia-guaraquecaba-superagui-pr",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.3542,
+            -25.5685
+          ],
+          [
+            -48.3285,
+            -25.3012
+          ],
+          [
+            -48.2415,
+            -25.4615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-pima-l1",
+        "nome": "Hidrovia do Delta do Parnaíba (Porto dos Tatus / PI ↔ Ilha das Canárias / Caju ↔ Tutóia / MA)",
+        "sistema_id": "travessias-delta-do-parnaiba-porto-dos-tatus-ilha-grande-tutoya-caju-lencois-maranhenses-preguicas-cabure-atins-pi-ma",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -41.8215,
+            -2.8492
+          ],
+          [
+            -41.9512,
+            -2.7685
+          ],
+          [
+            -42.2725,
+            -2.7582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-pima-l2",
+        "nome": "Hidrovia do Rio Preguiças (Barreirinhas ↔ Caburé / Mandacaru ↔ Canto do Atins)",
+        "sistema_id": "travessias-delta-do-parnaiba-porto-dos-tatus-ilha-grande-tutoya-caju-lencois-maranhenses-preguicas-cabure-atins-pi-ma",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8255,
+            -2.7512
+          ],
+          [
+            -42.7215,
+            -2.6415
+          ],
+          [
+            -42.6512,
+            -2.5785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-ara-l1",
+        "nome": "Hidrovia Médio Araguaia e Ilha do Bananal (Aruanã ↔ Luiz Alves ↔ São Félix do Araguaia)",
+        "sistema_id": "hidrovia-rio-araguaia-aruana-luiz-alves-sao-felix-do-araguaia-ilha-do-bananal-santa-terezinha-conceicao-do-araguaia-go-mt-to-pa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.0825,
+            -14.9185
+          ],
+          [
+            -50.5785,
+            -13.2145
+          ],
+          [
+            -50.6652,
+            -11.6155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br11-ara-l2",
+        "nome": "Hidrovia Baixo Araguaia e Travessias PA/TO (São Félix do Araguaia ↔ Santa Terezinha ↔ Conceição do Araguaia)",
+        "sistema_id": "hidrovia-rio-araguaia-aruana-luiz-alves-sao-felix-do-araguaia-ilha-do-bananal-santa-terezinha-conceicao-do-araguaia-go-mt-to-pa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.6652,
+            -11.6155
+          ],
+          [
+            -50.5185,
+            -10.4685
+          ],
+          [
+            -49.2615,
+            -8.2612
+          ]
+        ]
+      }
     }
   ]
 }

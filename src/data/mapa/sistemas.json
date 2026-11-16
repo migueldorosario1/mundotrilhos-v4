@@ -45702,5 +45702,312 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "travessia-barra-da-tijuca-ilha-da-gigoia-marapendi-lagoa-tijuca-guaratiba-restinga-marambaia-rj",
+    "slug": "travessia-barra-da-tijuca-ilha-da-gigoia-marapendi-lagoa-tijuca-guaratiba-restinga-marambaia-rj",
+    "nome_pt": "Barcas Urbanas da Lagoa da Tijuca (Ilha da Gigóia, Canal de Marapendi) e Travessias de Itacuruçá–Ilha de Jaguanum (RJ)",
+    "nome_en": "Tijuca Lagoon Urban Water Taxis (Gigóia Island, Marapendi Canal) & Itacuruçá–Jaguanum Island Ferries (Rio de Janeiro)",
+    "pais": "Brasil",
+    "cidade": "Rio de Janeiro / Mangaratiba",
+    "uf": "RJ",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Associações de Barqueiros da Lagoa da Tijuca / Barcas de Itacuruçá e Sepetiba",
+    "inauguracao": "1975",
+    "extensao_km": 28,
+    "bitola": "N/A (Hidrovia Lagunar e Baía Costeira)",
+    "eletrificacao": "Embarcações Lagunares e Saveiros de Passageiros",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 18000,
+    "ano_referencia": 2026,
+    "investimento": "Operação hidroviária integrada ao Metrô Jardim Oceânico e píeres de Sepetiba",
+    "proximas_entregas": "Píeres acessíveis no Complexo Lagunar da Barra e Jacarepaguá",
+    "resumo_pt": "Rede de transporte hidroviário urbano contínuo no Complexo Lagunar da Barra da Tijuca (integrado ao Terminal Jardim Oceânico da Linha 4 do MetrôRio, atendendo a Ilha da Gigóia, Ilha Primeira e a travessia do Canal de Marapendi até a Praia da Reserva) somada às travessias costeiras regulares entre Itacuruçá e a Ilha de Jaguanum na Baía de Sepetiba.",
+    "resumo_en": "Continuous urban water transport network in the Barra da Tijuca Lagoon Complex (integrated with Jardim Oceânico Metro Line 4 station, serving Gigóia Island and Marapendi Canal) plus coastal ferries between Itacuruçá and Jaguanum Island in Sepetiba Bay.",
+    "lat": -23.0052,
+    "lon": -43.3105,
+    "zoom_inicial": 11.2,
+    "fontes": [
+      "smtr-rj"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "rio-de-janeiro",
+      "barra-da-tijuca",
+      "ilha-da-gigoia",
+      "itacuruca",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-br11-rj-l1",
+        "nome": "Hidrovia Lagunar da Barra (Metrô Jardim Oceânico ↔ Ilha da Gigóia ↔ Canal de Marapendi)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 10,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-br11-rj-l2",
+        "nome": "Travessia Baía de Sepetiba (Itacuruçá ↔ Ilha de Jaguanum)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 18,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "travessias-baia-da-babitonga-sao-francisco-do-sul-vila-da-gloria-joinville-lagoa-da-conceicao-costa-da-lagoa-sc",
+    "slug": "travessias-baia-da-babitonga-sao-francisco-do-sul-vila-da-gloria-joinville-lagoa-da-conceicao-costa-da-lagoa-sc",
+    "nome_pt": "Ferry Boat da Baía da Babitonga (São Francisco do Sul–Vila da Glória) e Cooperbarco Lagoa da Conceição–Costa da Lagoa (SC)",
+    "nome_en": "Babitonga Bay Ferry Boat (São Francisco do Sul–Vila da Glória) & Lagoa da Conceição–Costa da Lagoa Water Bus (Santa Catarina)",
+    "pais": "Brasil",
+    "cidade": "São Francisco do Sul / Joinville / Florianópolis",
+    "uf": "SC",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Ferry Boat Babitonga / Cooperbarco (Sistema Integrado de Mobilidade de Florianópolis)",
+    "inauguracao": "1982",
+    "extensao_km": 42,
+    "bitola": "N/A (Travessia Estuarina e Hidrovia Lagunar)",
+    "eletrificacao": "Balsas Ro-Pax e Lanchas de Transporte Coletivo",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 9500,
+    "ano_referencia": 2026,
+    "investimento": "Integração tarifária com o Cartão Cidadão de Florianópolis e modernização de trapiches",
+    "proximas_entregas": "Requalificação dos trapiches da Costa da Lagoa e da Baía da Babitonga",
+    "resumo_pt": "Eixos hidroviários de Santa Catarina compreendendo o Ferry Boat da Baía da Babitonga entre Laranjeiras (São Francisco do Sul) e o Estaleiro/Vila da Glória (distrito continental de São Francisco do Sul próximo a Joinville), e a linha regular hidroviária da Cooperbarco na Lagoa da Conceição em Florianópolis (único acesso público regular às comunidades da Costa da Lagoa, do Ponto 1 ao Ponto 23).",
+    "resumo_en": "Santa Catarina water transit axes comprising the Babitonga Bay Ferry Boat between São Francisco do Sul and Vila da Glória, and the Cooperbarco regular water bus on Lagoa da Conceição in Florianópolis serving Costa da Lagoa.",
+    "lat": -27.5812,
+    "lon": -48.4585,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "sie-sc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "santa-catarina",
+      "florianopolis",
+      "lagoa-da-conceicao",
+      "sao-francisco-do-sul",
+      "babitonga",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-br11-sc-l1",
+        "nome": "Ferry Boat Baía da Babitonga (Laranjeiras / São Francisco do Sul ↔ Vila da Glória)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 14,
+        "estacoes": 2
+      },
+      {
+        "id": "hidro-br11-sc-l2",
+        "nome": "Hidrovia Lagoa da Conceição (Centrinho da Lagoa ↔ Rio Vermelho ↔ Costa da Lagoa Ponto 16)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 28,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "travessias-litoral-parana-pontal-do-sul-ilha-do-mel-encantadas-nova-brasilia-guaraquecaba-superagui-pr",
+    "slug": "travessias-litoral-parana-pontal-do-sul-ilha-do-mel-encantadas-nova-brasilia-guaraquecaba-superagui-pr",
+    "nome_pt": "Travessias Hidroviárias do Litoral do Paraná (Pontal do Sul–Ilha do Mel e Paranaguá–Guaraqueçaba–Superagui — ABALINE)",
+    "nome_en": "Paraná Coast Ferries (Pontal do Sul–Ilha do Mel & Paranaguá–Guaraqueçaba–Superagui — ABALINE)",
+    "pais": "Brasil",
+    "cidade": "Pontal do Paraná / Paranaguá / Guaraqueçaba",
+    "uf": "PR",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "ABALINE (Associação de Barqueiros do Litoral Norte do Paraná)",
+    "inauguracao": "1985",
+    "extensao_km": 85,
+    "bitola": "N/A (Hidrovia Estuarina do Complexo de Paranaguá)",
+    "eletrificacao": "Barcas de Passageiros e Lanchas Rápidas",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 7200,
+    "ano_referencia": 2026,
+    "investimento": "Novos terminais de embarque de Pontal do Sul, Encantadas e Nova Brasília",
+    "proximas_entregas": "Modernização dos trapiches de Guaraqueçaba e Ilha de Superagui",
+    "resumo_pt": "Sistema oficial de transporte hidroviário do Complexo Estuarino de Paranaguá e Litoral do Paraná operado pela ABALINE, conectando o Terminal de Pontal do Sul aos trapiches de Nova Brasília e Encantadas na Ilha do Mel (onde veículos motorizados são proibidos), além das travessias da Baía de Laranjeiras até Guaraqueçaba e o Parque Nacional do Superagui.",
+    "resumo_en": "Official water transport system of the Paranaguá Estuarine Complex and Paraná Coast operated by ABALINE, connecting Pontal do Sul to Nova Brasília and Encantadas on car-free Ilha do Mel, plus ferries to Guaraqueçaba and Superagui National Park.",
+    "lat": -25.5525,
+    "lon": -48.3215,
+    "zoom_inicial": 10.2,
+    "fontes": [
+      "iat-pr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "parana",
+      "ilha-do-mel",
+      "paranagua",
+      "guaraquecaba",
+      "superagui",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-br11-pr-l1",
+        "nome": "Travessia Ilha do Mel (Pontal do Sul ↔ Nova Brasília ↔ Praia de Encantadas)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 20,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-br11-pr-l2",
+        "nome": "Travessia Baía de Laranjeiras (Pontal do Sul / Paranaguá ↔ Guaraqueçaba ↔ Ilha de Superagui)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 65,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "travessias-delta-do-parnaiba-porto-dos-tatus-ilha-grande-tutoya-caju-lencois-maranhenses-preguicas-cabure-atins-pi-ma",
+    "slug": "travessias-delta-do-parnaiba-porto-dos-tatus-ilha-grande-tutoya-caju-lencois-maranhenses-preguicas-cabure-atins-pi-ma",
+    "nome_pt": "Hidrovias do Delta do Parnaíba (Porto dos Tatus–Canárias–Tutóia) e do Rio Preguiças (Barreirinhas–Caburé–Atins, PI/MA)",
+    "nome_en": "Parnaíba Delta Waterways (Porto dos Tatus–Canárias–Tutóia) & Preguiças River Boats (Barreirinhas–Caburé–Atins, Piauí/Maranhão)",
+    "pais": "Brasil",
+    "cidade": "Parnaíba / Ilha Grande / Barreirinhas / Tutóia",
+    "uf": "PI/MA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Cooperativas de Lanchas Voadeiras e Barcos Regionais do Delta do Parnaíba e Rio Preguiças",
+    "inauguracao": "1978",
+    "extensao_km": 145,
+    "bitola": "N/A (Hidrovia Deltaica e Fluvial Costeira)",
+    "eletrificacao": "Lanchas Rápidas (Voadeiras) e Embarcações Regionais",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6400,
+    "ano_referencia": 2026,
+    "investimento": "Requalificação do Porto dos Tatus (PI) e da Beira-Rio de Barreirinhas (MA)",
+    "proximas_entregas": "Sinalização náutica nos igarapés do Delta das Américas e foz do Rio Preguiças",
+    "resumo_pt": "Malha de navegação de passageiros da Rota das Emoções entre o Piauí e o Maranhão: une o Porto dos Tatus (Ilha Grande/Parnaíba, PI) às ilhas das Canárias, Caju e Tutóia no único delta em mar aberto das Américas, e conecta Barreirinhas aos povoados de Vassouras, Mandacaru, Caburé e Atins ao longo da Hidrovia do Rio Preguiças nos Lençóis Maranhenses.",
+    "resumo_en": "Passenger waterway network between Piauí and Maranhão: links Porto dos Tatus (Parnaíba, PI) to Canárias, Caju Island and Tutóia across the Parnaíba River Delta, and connects Barreirinhas to Caburé and Atins along the Preguiças River in Lençóis Maranhenses.",
+    "lat": -2.7915,
+    "lon": -42.2512,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "antaq"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "piaui",
+      "maranhao",
+      "delta-do-parnaiba",
+      "barreirinhas",
+      "atins",
+      "rio-preguicas",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-br11-pima-l1",
+        "nome": "Hidrovia do Delta do Parnaíba (Porto dos Tatus / PI ↔ Ilha das Canárias / Caju ↔ Tutóia / MA)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 95,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-br11-pima-l2",
+        "nome": "Hidrovia do Rio Preguiças (Barreirinhas ↔ Caburé / Mandacaru ↔ Canto do Atins)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 50,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-araguaia-aruana-luiz-alves-sao-felix-do-araguaia-ilha-do-bananal-santa-terezinha-conceicao-do-araguaia-go-mt-to-pa",
+    "slug": "hidrovia-rio-araguaia-aruana-luiz-alves-sao-felix-do-araguaia-ilha-do-bananal-santa-terezinha-conceicao-do-araguaia-go-mt-to-pa",
+    "nome_pt": "Hidrovia e Travessias de Balsas do Rio Araguaia e Ilha do Bananal (Aruanã–Luiz Alves–São Félix do Araguaia–Conceição do Araguaia)",
+    "nome_en": "Araguaia River Waterway & Bananal Island Ferries (Aruanã–Luiz Alves–São Félix do Araguaia–Conceição do Araguaia, GO/MT/TO/PA)",
+    "pais": "Brasil",
+    "cidade": "Aruanã / São Félix do Araguaia / Conceição do Araguaia",
+    "uf": "GO/MT/TO/PA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Operadores de Balsas Interestaduais e Navegação Regional da Bacia Tocantins-Araguaia",
+    "inauguracao": "1968",
+    "extensao_km": 820,
+    "bitola": "N/A (Hidrovia Fluvial Interior)",
+    "eletrificacao": "Balsas Ro-Pax e Lanchas Fluviais Regionais",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 8100,
+    "ano_referencia": 2026,
+    "investimento": "Manutenção dos portos fluviais e rampas de travessia interestadual GO/MT e PA/TO",
+    "proximas_entregas": "Balizamento solar nos canais de navegação junto à Ilha do Bananal",
+    "resumo_pt": "Eixo de navegação fluvial e travessias interestaduais de balsas ao longo do Rio Araguaia entre Goiás, Mato Grosso, Tocantins e Pará, articulando Aruanã, Luiz Alves/Cocalinho, São Félix do Araguaia, Santa Terezinha (contornando a Ilha do Bananal, maior ilha fluvial do mundo) e a travessia Conceição do Araguaia–Couto Magalhães.",
+    "resumo_en": "Inland river navigation axis and interstate ferry crossings along the Araguaia River between Goiás, Mato Grosso, Tocantins and Pará, linking Aruanã, Luiz Alves, São Félix do Araguaia, Santa Terezinha (around Bananal Island, the world's largest river island) and Conceição do Araguaia.",
+    "lat": -11.6155,
+    "lon": -50.6652,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "dnit",
+      "antaq"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "rio-araguaia",
+      "ilha-do-bananal",
+      "goias",
+      "mato-grosso",
+      "tocantins",
+      "para",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-br11-ara-l1",
+        "nome": "Hidrovia Médio Araguaia e Ilha do Bananal (Aruanã ↔ Luiz Alves ↔ São Félix do Araguaia)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 430,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-br11-ara-l2",
+        "nome": "Hidrovia Baixo Araguaia e Travessias PA/TO (São Félix do Araguaia ↔ Santa Terezinha ↔ Conceição do Araguaia)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 390,
+        "estacoes": 3
+      }
+    ]
   }
 ]
