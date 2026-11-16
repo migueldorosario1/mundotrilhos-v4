@@ -55783,6 +55783,581 @@
           8.235
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-parika-supenaam-bartica-stellings-essequibo-gy",
+        "nome": "Parika, Supenaam & Bartica Stellings — Terminais do Estuário do Rio Essequibo (T&HD Guiana)",
+        "sistema_id": "thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-la-gabrielle-albina-saint-laurent-du-maroni-guianas-suriname",
+        "linha_id": "linha-thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-gy-sr",
+        "pais": "Guiana, Suriname e França (Guiana Francesa)",
+        "cidade": "Parika / Supenaam / Bartica / Moleson Creek / Nieuw Nickerie / Paramaribo / Albina / Saint-Laurent-du-Maroni / Kourou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais terminais ('stellings') dos ferries Ro-Pax e lanchas rápidas que cruzam o estuário de 32 km do Rio Essequibo, ligando Parika a Supenaam, Wakenaam, Leguan e Bartica."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.423,
+          6.862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-wakenaam-leguan-islands-stellings-essequibo-gy",
+        "nome": "Ilhas de Wakenaam e Leguan — Stellings Insulares do Estuário do Essequibo (Guiana)",
+        "sistema_id": "thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-la-gabrielle-albina-saint-laurent-du-maroni-guianas-suriname",
+        "linha_id": "linha-thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-gy-sr",
+        "pais": "Guiana, Suriname e França (Guiana Francesa)",
+        "cidade": "Parika / Supenaam / Bartica / Moleson Creek / Nieuw Nickerie / Paramaribo / Albina / Saint-Laurent-du-Maroni / Kourou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais Ro-Pax que atendem as grandes ilhas agrícolas de Leguan e Wakenaam na foz do Rio Essequibo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.452,
+          6.915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-moleson-creek-south-drain-canawaima-ferry-gy-sr",
+        "nome": "Terminais de Moleson Creek (Guiana) e South Drain (Nieuw Nickerie, Suriname) — Ferry Canawaima (Rio Corentyne)",
+        "sistema_id": "thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-la-gabrielle-albina-saint-laurent-du-maroni-guianas-suriname",
+        "linha_id": "linha-thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-gy-sr",
+        "pais": "Guiana, Suriname e França (Guiana Francesa)",
+        "cidade": "Parika / Supenaam / Bartica / Moleson Creek / Nieuw Nickerie / Paramaribo / Albina / Saint-Laurent-du-Maroni / Kourou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia oficial binacional Ro-Pax através do Rio Corentyne, elo central da rodovia costeira entre Georgetown e Paramaribo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.168,
+          5.915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-albina-saint-laurent-du-maroni-ferry-terminals-sr-gf",
+        "nome": "Terminais de Albina (Suriname) e Saint-Laurent-du-Maroni (Guiana Francesa) — Ferries La Gabrielle & Malani (Rio Maroni)",
+        "sistema_id": "thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-la-gabrielle-albina-saint-laurent-du-maroni-guianas-suriname",
+        "linha_id": "linha-suriname-rio-maroni-albina-saint-laurent-kourou-iles-du-salut-sr-gf",
+        "pais": "Guiana, Suriname e França (Guiana Francesa)",
+        "cidade": "Parika / Supenaam / Bartica / Moleson Creek / Nieuw Nickerie / Paramaribo / Albina / Saint-Laurent-du-Maroni / Kourou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais internacionais de balsas Ro-Pax e pirogas motorizadas na fronteira fluvial do Rio Maroni entre o Suriname e o departamento francês da Guiana."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.032,
+          5.502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-kourou-iles-du-salut-ile-royale-guiana-francesa-gf",
+        "nome": "Port de Kourou & Île Royale — Travessia do Arquipélago das Ilhas da Salvação (Guiana Francesa)",
+        "sistema_id": "thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-la-gabrielle-albina-saint-laurent-du-maroni-guianas-suriname",
+        "linha_id": "linha-suriname-rio-maroni-albina-saint-laurent-kourou-iles-du-salut-sr-gf",
+        "pais": "Guiana, Suriname e França (Guiana Francesa)",
+        "cidade": "Parika / Supenaam / Bartica / Moleson Creek / Nieuw Nickerie / Paramaribo / Albina / Saint-Laurent-du-Maroni / Kourou",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Embarcadouro de catamarãs na cidade espacial de Kourou e o cais histórico da Ilha Real (Îles du Salut / Ilha do Diabo) no Oceano Atlântico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.585,
+          5.285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-petrohue-peulla-lago-todos-los-santos-cruce-andino-cl",
+        "nome": "Portos de Petrohué e Peulla — Lago Todos los Santos (Cruce Andino, Chile)",
+        "sistema_id": "cruce-andino-petrohue-peulla-puerto-blest-bariloche-ferries-mar-interior-chiloe-quinchao-lemuy-quellon-melinka-chile-argentina",
+        "linha_id": "linha-cruce-andino-petrohue-peulla-puerto-frias-puerto-blest-bariloche-cl-ar",
+        "pais": "Chile e Argentina",
+        "cidade": "Petrohué / Peulla / San Carlos de Bariloche (Puerto Pañuelo e Puerto Blest) / Dalcahue / Achao (Quinchao) / Chonchi (Lemuy) / Quellón / Melinka",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais lacustres no Parque Nacional Vicente Pérez Rosales, onde os catamarãs do Cruce Andino navegam pelas águas verde-esmeralda do Lago Todos los Santos aos pés do vulcão Osorno."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.402,
+          -41.135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-frias-puerto-blest-andino-ar",
+        "nome": "Puerto Frías (Lago Frías) & Puerto Blest — Parque Nacional Nahuel Huapi (Argentina)",
+        "sistema_id": "cruce-andino-petrohue-peulla-puerto-blest-bariloche-ferries-mar-interior-chiloe-quinchao-lemuy-quellon-melinka-chile-argentina",
+        "linha_id": "linha-cruce-andino-petrohue-peulla-puerto-frias-puerto-blest-bariloche-cl-ar",
+        "pais": "Chile e Argentina",
+        "cidade": "Petrohué / Peulla / San Carlos de Bariloche (Puerto Pañuelo e Puerto Blest) / Dalcahue / Achao (Quinchao) / Chonchi (Lemuy) / Quellón / Melinka",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Portos históricos de fronteira nos lagos Frías e Nahuel Huapi, no coração da Cordilheira dos Andes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.812,
+          -41.032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-panuelo-llao-llao-bariloche-nahuel-huapi-ar",
+        "nome": "Puerto Pañuelo (Llao Llao) — San Carlos de Bariloche (Lago Nahuel Huapi)",
+        "sistema_id": "cruce-andino-petrohue-peulla-puerto-blest-bariloche-ferries-mar-interior-chiloe-quinchao-lemuy-quellon-melinka-chile-argentina",
+        "linha_id": "linha-cruce-andino-petrohue-peulla-puerto-frias-puerto-blest-bariloche-cl-ar",
+        "pais": "Chile e Argentina",
+        "cidade": "Petrohué / Peulla / San Carlos de Bariloche (Puerto Pañuelo e Puerto Blest) / Dalcahue / Achao (Quinchao) / Chonchi (Lemuy) / Quellón / Melinka",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto lacustre de San Carlos de Bariloche em frente ao Hotel Llao Llao, terminal oriental do Cruce Andino e dos catamarãs para Isla Victoria e Bosque de Arrayanes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.535,
+          -41.058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dalcahue-curaco-quinchao-chonchi-lemuy-chiloe-cl",
+        "nome": "Rampas de Dalcahue–Quinchao (Curaco de Vélez / Achao) e Huicha (Chonchi)–Chulchuy (Ilha Lemuy) — Mar Interior de Chiloé",
+        "sistema_id": "cruce-andino-petrohue-peulla-puerto-blest-bariloche-ferries-mar-interior-chiloe-quinchao-lemuy-quellon-melinka-chile-argentina",
+        "linha_id": "linha-mar-interior-chiloe-dalcahue-quinchao-chonchi-lemuy-quellon-melinka-cisnes-cl",
+        "pais": "Chile e Argentina",
+        "cidade": "Petrohué / Peulla / San Carlos de Bariloche (Puerto Pañuelo e Puerto Blest) / Dalcahue / Achao (Quinchao) / Chonchi (Lemuy) / Quellón / Melinka",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Pontes Ro-Pax de alta frequência que interligam a Ilha Grande de Chiloé às ilhas habitadas de Quinchao e Lemuy, famosas pelas igrejas de madeira Patrimônio Mundial da UNESCO."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.648,
+          -42.378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-quellon-melinka-guaitecas-puerto-cisnes-cl",
+        "nome": "Portos de Quellón (Sul de Chiloé), Melinka (Arquipélago de las Guaitecas) e Puerto Cisnes (Aysén) — Naviera Austral",
+        "sistema_id": "cruce-andino-petrohue-peulla-puerto-blest-bariloche-ferries-mar-interior-chiloe-quinchao-lemuy-quellon-melinka-chile-argentina",
+        "linha_id": "linha-mar-interior-chiloe-dalcahue-quinchao-chonchi-lemuy-quellon-melinka-cisnes-cl",
+        "pais": "Chile e Argentina",
+        "cidade": "Petrohué / Peulla / San Carlos de Bariloche (Puerto Pañuelo e Puerto Blest) / Dalcahue / Achao (Quinchao) / Chonchi (Lemuy) / Quellón / Melinka",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais marítimos da Rota Cordillera através do Golfo de Corcovado e Canal de Moraleda entre o sul de Chiloé (Quellón, km zero da Rodovia Pan-Americana) e a região de Aysén."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615,
+          -43.118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-terminal-fluvial-el-coca-francisco-de-orellana-napo-ec",
+        "nome": "Terminal Fluvial Internacional de Puerto Francisco de Orellana (El Coca) — Hidrovia do Rio Napo (Equador)",
+        "sistema_id": "hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-golfo-de-guayaquil-isla-puna-jambeli-leticia-santa-rosa-equador-peru-colombia",
+        "linha_id": "linha-hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-santa-rosa-leticia",
+        "pais": "Equador, Peru e Colômbia",
+        "cidade": "Francisco de Orellana (El Coca) / Nuevo Rocafuerte / Cabo Pantoja / Iquitos / Caballococha / Santa Rosa e Leticia / Guayaquil (Ilha Puná) / Puerto Bolívar (Jambelí)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Moderno terminal fluvial amazônico do Equador na cidade de El Coca, ponto de partida das lanchas rápidas pelo Rio Napo rumo ao Parque Nacional Yasuní e à fronteira peruana."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.987,
+          -0.466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nuevo-rocafuerte-cabo-pantoja-fronteira-napo-ec-pe",
+        "nome": "Portos Fluviais de Nuevo Rocafuerte (Equador) e Cabo Pantoja / Mazán (Peru) — Hidrovia Binacional do Rio Napo",
+        "sistema_id": "hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-golfo-de-guayaquil-isla-puna-jambeli-leticia-santa-rosa-equador-peru-colombia",
+        "linha_id": "linha-hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-santa-rosa-leticia",
+        "pais": "Equador, Peru e Colômbia",
+        "cidade": "Francisco de Orellana (El Coca) / Nuevo Rocafuerte / Cabo Pantoja / Iquitos / Caballococha / Santa Rosa e Leticia / Guayaquil (Ilha Puná) / Puerto Bolívar (Jambelí)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Postos portuários de fronteira no Rio Napo e no istmo de Mazán (a 3,5 km da confluência com o Rio Amazonas, a norte de Iquitos)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.402,
+          -0.925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-santa-rosa-leticia-caballococha-triplice-fronteira-amazonas",
+        "nome": "Portos Fluviais de Caballococha, Ilha de Santa Rosa (Peru) e Leticia (Colômbia) — Corredor Rápido do Amazonas",
+        "sistema_id": "hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-golfo-de-guayaquil-isla-puna-jambeli-leticia-santa-rosa-equador-peru-colombia",
+        "linha_id": "linha-hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-santa-rosa-leticia",
+        "pais": "Equador, Peru e Colômbia",
+        "cidade": "Francisco de Orellana (El Coca) / Nuevo Rocafuerte / Cabo Pantoja / Iquitos / Caballococha / Santa Rosa e Leticia / Guayaquil (Ilha Puná) / Puerto Bolívar (Jambelí)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais das lanchas expressas ('rápidos') e ferries que ligam Iquitos à Tríplice Fronteira Amazônica entre Peru (Santa Rosa), Colômbia (Leticia) e Brasil (Tabatinga)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.948,
+          -4.215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-guayaquil-posorja-isla-puna-ferry-piers-ec",
+        "nome": "Muelle Caraguay (Guayaquil), Posorja & Ilha Puná — Travessias do Golfo de Guayaquil",
+        "sistema_id": "hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-golfo-de-guayaquil-isla-puna-jambeli-leticia-santa-rosa-equador-peru-colombia",
+        "linha_id": "linha-golfo-de-guayaquil-posorja-isla-puna-puerto-bolivar-jambeli-ec",
+        "pais": "Equador, Peru e Colômbia",
+        "cidade": "Francisco de Orellana (El Coca) / Nuevo Rocafuerte / Cabo Pantoja / Iquitos / Caballococha / Santa Rosa e Leticia / Guayaquil (Ilha Puná) / Puerto Bolívar (Jambelí)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Cais fluvio-marítimos no estuário do Rio Guayas e em Posorja que atendem a grande Ilha Puná na entrada do Golfo de Guayaquil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.925,
+          -2.742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-bolivar-machala-isla-jambeli-el-oro-ec",
+        "nome": "Muelle de Cabotaje de Puerto Bolívar (Machala) & Ilha de Jambelí — Costa de El Oro (Equador)",
+        "sistema_id": "hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-golfo-de-guayaquil-isla-puna-jambeli-leticia-santa-rosa-equador-peru-colombia",
+        "linha_id": "linha-golfo-de-guayaquil-posorja-isla-puna-puerto-bolivar-jambeli-ec",
+        "pais": "Equador, Peru e Colômbia",
+        "cidade": "Francisco de Orellana (El Coca) / Nuevo Rocafuerte / Cabo Pantoja / Iquitos / Caballococha / Santa Rosa e Leticia / Guayaquil (Ilha Puná) / Puerto Bolívar (Jambelí)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Tradicional cais de cabotagem de Puerto Bolívar em Machala, conectando o continente às praias e manguezais do Arquipélago de Jambelí."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.002,
+          -3.265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-malecon-de-maracaibo-los-puertos-de-altagracia-zulia-ve",
+        "nome": "Terminal Lacustre do Malecón de Maracaibo & Los Puertos de Altagracia — Lago de Maracaibo (Zulia)",
+        "sistema_id": "lago-de-maracaibo-altagracia-isla-de-toas-morrocoy-tucacas-delta-orinoco-tucupita-hidrovia-rio-meta-puerto-carreno-puerto-ayacucho-venezuela-colombia",
+        "linha_id": "linha-lago-de-maracaibo-altagracia-el-mojan-isla-de-toas-morrocoy-tucacas-ve",
+        "pais": "Venezuela e Colômbia",
+        "cidade": "Maracaibo / Los Puertos de Altagracia / Ilha de Toas / Tucacas e Chichiriviche (Morrocoy) / Tucupita (Delta do Orinoco) / Puerto Carreño / Puerto Ayacucho",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Cais históricos nas margens ocidental e oriental do estreito do Lago de Maracaibo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.602,
+          10.642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-el-mojan-isla-de-toas-san-carlos-maracaibo-ve",
+        "nome": "Muelle de El Moján & Ilha de Toas / San Carlos — Entrada do Lago de Maracaibo (Município Almirante Padilla)",
+        "sistema_id": "lago-de-maracaibo-altagracia-isla-de-toas-morrocoy-tucacas-delta-orinoco-tucupita-hidrovia-rio-meta-puerto-carreno-puerto-ayacucho-venezuela-colombia",
+        "linha_id": "linha-lago-de-maracaibo-altagracia-el-mojan-isla-de-toas-morrocoy-tucacas-ve",
+        "pais": "Venezuela e Colômbia",
+        "cidade": "Maracaibo / Los Puertos de Altagracia / Ilha de Toas / Tucacas e Chichiriviche (Morrocoy) / Tucupita (Delta do Orinoco) / Puerto Carreño / Puerto Ayacucho",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais de barcas e lanchas que ligam San Rafael de El Moján às ilhas de Toas, San Carlos (Castelo Colonial) e Zapara."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.668,
+          10.958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tucacas-chichiriviche-morrocoy-national-park-piers-ve",
+        "nome": "Embarcadouros de Tucacas e Chichiriviche — Lanchas do Parque Nacional Morrocoy (Falcón)",
+        "sistema_id": "lago-de-maracaibo-altagracia-isla-de-toas-morrocoy-tucacas-delta-orinoco-tucupita-hidrovia-rio-meta-puerto-carreno-puerto-ayacucho-venezuela-colombia",
+        "linha_id": "linha-lago-de-maracaibo-altagracia-el-mojan-isla-de-toas-morrocoy-tucacas-ve",
+        "pais": "Venezuela e Colômbia",
+        "cidade": "Maracaibo / Los Puertos de Altagracia / Ilha de Toas / Tucacas e Chichiriviche (Morrocoy) / Tucupita (Delta do Orinoco) / Puerto Carreño / Puerto Ayacucho",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principais portos de lanchas de passageiros da costa do estado Falcón para os cayos coralinos de Morrocoy (Cayo Sombrero, Cayo Sal e Playuela)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.322,
+          10.792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-carreno-casuarito-puerto-ayacucho-meta-orinoco-co-ve",
+        "nome": "Portos Fluviais de Puerto Carreño (Colômbia) e Puerto Ayacucho / Samariapo (Venezuela) — Confluência dos Rios Meta e Orinoco",
+        "sistema_id": "lago-de-maracaibo-altagracia-isla-de-toas-morrocoy-tucacas-delta-orinoco-tucupita-hidrovia-rio-meta-puerto-carreno-puerto-ayacucho-venezuela-colombia",
+        "linha_id": "linha-hidrovia-rio-meta-puerto-gaitan-puerto-carreno-puerto-ayacucho-delta-orinoco-co-ve",
+        "pais": "Venezuela e Colômbia",
+        "cidade": "Maracaibo / Los Puertos de Altagracia / Ilha de Toas / Tucacas e Chichiriviche (Morrocoy) / Tucupita (Delta do Orinoco) / Puerto Carreño / Puerto Ayacucho",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Eixo fluvial binacional na confluência do Rio Meta com o grande Rio Orinoco, interligando os departamentos colombianos de Meta e Vichada ao estado venezuelano de Amazonas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.485,
+          6.189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-tucupita-pedernales-cano-manamo-delta-orinoco-ve",
+        "nome": "Porto Fluvial de Tucupita & Pedernales (Caño Mánamo) — Hidrovia do Delta do Orinoco (Delta Amacuro)",
+        "sistema_id": "lago-de-maracaibo-altagracia-isla-de-toas-morrocoy-tucacas-delta-orinoco-tucupita-hidrovia-rio-meta-puerto-carreno-puerto-ayacucho-venezuela-colombia",
+        "linha_id": "linha-hidrovia-rio-meta-puerto-gaitan-puerto-carreno-puerto-ayacucho-delta-orinoco-co-ve",
+        "pais": "Venezuela e Colômbia",
+        "cidade": "Maracaibo / Los Puertos de Altagracia / Ilha de Toas / Tucacas e Chichiriviche (Morrocoy) / Tucupita (Delta do Orinoco) / Puerto Carreño / Puerto Ayacucho",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal centro hidroviário dos canais ('caños') do Delta do Orinoco, ligando a capital Tucupita às comunidades Warao e ao porto costeiro de Pedernales."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.052,
+          9.062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-iguazu-presidente-franco-tres-fronteras-ferry-ar-py",
+        "nome": "Puerto Iguazú (Argentina) & Puerto Tres Fronteras (Presidente Franco, Paraguai) — Balsa Internacional das Três Fronteiras",
+        "sistema_id": "balsas-rio-parana-posadas-encarnacion-puerto-iguazu-presidente-franco-bella-vista-lago-argentino-el-calafate-perito-moreno-argentina-paraguai",
+        "linha_id": "linha-balsas-alto-medio-parana-iguazu-franco-corpus-bella-vista-goya-reconquista-ar-py",
+        "pais": "Argentina e Paraguai",
+        "cidade": "Puerto Iguazú / Presidente Franco / Corpus / Bella Vista / Puerto Rico / Puerto Triunfo / Goya / Reconquista / El Calafate (Punta Bandera — Lago Argentino)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia histórica de balsas Ro-Pax na foz do Rio Iguaçu no Rio Paraná, ao lado do Marco das Três Fronteiras."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.578,
+          -25.592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-rico-triunfo-corpus-bella-vista-alto-parana-ar-py",
+        "nome": "Portos de Puerto Rico–Puerto Triunfo & Corpus–Bella Vista — Travessias do Alto Paraná (Misiones–Itapúa)",
+        "sistema_id": "balsas-rio-parana-posadas-encarnacion-puerto-iguazu-presidente-franco-bella-vista-lago-argentino-el-calafate-perito-moreno-argentina-paraguai",
+        "linha_id": "linha-balsas-alto-medio-parana-iguazu-franco-corpus-bella-vista-goya-reconquista-ar-py",
+        "pais": "Argentina e Paraguai",
+        "cidade": "Puerto Iguazú / Presidente Franco / Corpus / Bella Vista / Puerto Rico / Puerto Triunfo / Goya / Reconquista / El Calafate (Punta Bandera — Lago Argentino)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais internacionais de balsas e lanchas ao longo da fronteira fluvial entre Misiones (Argentina) e Itapúa (Paraguai)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.025,
+          -26.812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-goya-reconquista-medio-parana-ferry-ports-ar",
+        "nome": "Portos Fluviais de Goya (Corrientes) e Reconquista (Santa Fe) — Travessia do Médio Rio Paraná",
+        "sistema_id": "balsas-rio-parana-posadas-encarnacion-puerto-iguazu-presidente-franco-bella-vista-lago-argentino-el-calafate-perito-moreno-argentina-paraguai",
+        "linha_id": "linha-balsas-alto-medio-parana-iguazu-franco-corpus-bella-vista-goya-reconquista-ar-py",
+        "pais": "Argentina e Paraguai",
+        "cidade": "Puerto Iguazú / Presidente Franco / Corpus / Bella Vista / Puerto Rico / Puerto Triunfo / Goya / Reconquista / El Calafate (Punta Bandera — Lago Argentino)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Conexão hidroviária interprovincial através do Médio Rio Paraná entre Corrientes e o norte de Santa Fe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.265,
+          -29.142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-punta-bandera-el-calafate-lago-argentino-ar",
+        "nome": "Puerto Punta Bandera (El Calafate) — Terminal de Catamarãs dos Glaciares Upsala e Spegazzini (Lago Argentino)",
+        "sistema_id": "balsas-rio-parana-posadas-encarnacion-puerto-iguazu-presidente-franco-bella-vista-lago-argentino-el-calafate-perito-moreno-argentina-paraguai",
+        "linha_id": "linha-lago-argentino-punta-bandera-bajo-las-sombras-perito-moreno-upsala-spegazzini-ar",
+        "pais": "Argentina e Paraguai",
+        "cidade": "Puerto Iguazú / Presidente Franco / Corpus / Bella Vista / Puerto Rico / Puerto Triunfo / Goya / Reconquista / El Calafate (Punta Bandera — Lago Argentino)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal porto do Lago Argentino (a 47 km de El Calafate), de onde partem os catamarãs de grande porte rumo aos braços Norte e Spegazzini do Parque Nacional Los Glaciares."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.798,
+          -50.285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-puerto-bajo-las-sombras-glaciar-perito-moreno-ar",
+        "nome": "Puerto Bajo las Sombras & Canal de los Témpanos — Navegação do Glaciar Perito Moreno (Patagônia)",
+        "sistema_id": "balsas-rio-parana-posadas-encarnacion-puerto-iguazu-presidente-franco-bella-vista-lago-argentino-el-calafate-perito-moreno-argentina-paraguai",
+        "linha_id": "linha-lago-argentino-punta-bandera-bajo-las-sombras-perito-moreno-upsala-spegazzini-ar",
+        "pais": "Argentina e Paraguai",
+        "cidade": "Puerto Iguazú / Presidente Franco / Corpus / Bella Vista / Puerto Rico / Puerto Triunfo / Goya / Reconquista / El Calafate (Punta Bandera — Lago Argentino)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Embarcadouro no Brazo Rico do Lago Argentino, em frente à parede sul de 70 metros de altura do Glaciar Perito Moreno."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.042,
+          -50.485
+        ]
+      }
     }
   ]
 }

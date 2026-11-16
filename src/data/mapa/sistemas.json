@@ -43987,5 +43987,330 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-la-gabrielle-albina-saint-laurent-du-maroni-guianas-suriname",
+    "slug": "thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-la-gabrielle-albina-saint-laurent-du-maroni-guianas-suriname",
+    "nome_pt": "T&HD Rio Essequibo (Parika–Supenaam–Bartica), Ferry Canawaima (Guiana–Suriname) e La Gabrielle / Malani (Albina–Saint-Laurent-du-Maroni, Guiana Francesa)",
+    "nome_en": "T&HD Essequibo River Ferries (Parika–Supenaam–Bartica), Canawaima Ferry (Guyana–Suriname) & La Gabrielle / Malani (Albina–Saint-Laurent-du-Maroni, French Guiana)",
+    "pais": "Guiana, Suriname e França (Guiana Francesa)",
+    "cidade": "Parika / Supenaam / Bartica / Moleson Creek / Nieuw Nickerie / Paramaribo / Albina / Saint-Laurent-du-Maroni / Kourou",
+    "uf": "Essequibo Islands-West Demerara, Pomeroon-Supenaam, East Berbice-Corentyne, Nickerie, Marowijne e Guiana Francesa",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Transport & Harbours Department (T&HD Guyana) / Canawaima Ferry Service Inc. (Guyana–Suriname) / Conseil Territorial de Guyane & Scheepvaart Maatschappij Suriname (SMS)",
+    "inauguracao": "1931 (Transport & Harbours Department no Rio Essequibo) / 1998 (Ferry Internacional Canawaima no Rio Corentyne)",
+    "extensao_km": 920,
+    "bitola": "Ferries Ro-Pax Estuarinos e Internacionais (MV Kanawan, MV Sabanto, MV Canawaima e La Gabrielle / Malani)",
+    "eletrificacao": "Ferries Ro-Pax Diesel-Elétricos Fluvio-Marítimos",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 14500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 50 milhões (modernização dos stellings de Parika, Supenaam e Bartica na Guiana e novo ferry híbrido Malani no Rio Maroni entre Suriname e Guiana Francesa)",
+    "proximas_entregas": "Ampliação das frequências rodo-hidroviárias no corredor costeiro pan-guianense Georgetown–Paramaribo–Caiena",
+    "resumo_pt": "Eixo hidroviário internacional que interliga as três Guianas ao longo da costa atlântica do nordeste da América do Sul: na Guiana, o Transport & Harbours Department (T&HD) opera os grandes ferries Ro-Pax MV Kanawan e MV Sabanto através do imenso estuário de 32 km do Rio Essequibo entre Parika, as ilhas de Wakenaam e Leguan, Supenaam e Bartica, além da rota costeira para a região do Noroeste (Kumaka/Mabaruma); na fronteira Guiana–Suriname, o Ferry Internacional Canawaima cruza o Rio Corentyne entre Moleson Creek e South Drain (Nieuw Nickerie); já na fronteira Suriname–Guiana Francesa, os ferries La Gabrielle e Malani cruzam o Rio Maroni entre Albina e Saint-Laurent-du-Maroni, somados aos catamarãs de Kourou para o histórico arquipélago das Ilhas da Salvação (Îles du Salut).",
+    "resumo_en": "International waterway corridor linking the three Guianas along the northeastern Atlantic coast of South America: in Guyana, the Transport & Harbours Department (T&HD) operates the Ro-Pax ferries MV Kanawan and MV Sabanto across the vast Essequibo River estuary between Parika, Wakenaam, Leguan, Supenaam, and Bartica; on the Guyana–Suriname border, the Canawaima Ferry crosses the Corentyne River between Moleson Creek and South Drain (Nieuw Nickerie); on the Suriname–French Guiana border, the ferries La Gabrielle and Malani cross the Maroni River between Albina and Saint-Laurent-du-Maroni, alongside catamarans from Kourou to the Salvation Islands (Îles du Salut).",
+    "lat": 6.862,
+    "lon": -58.423,
+    "zoom_inicial": 6,
+    "fontes": [
+      "https://thd.gov.gy/",
+      "https://www.ctguyane.fr/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "rio-essequibo",
+      "parika",
+      "supenaam",
+      "bartica",
+      "canawaima",
+      "albina",
+      "saint-laurent-du-maroni",
+      "guiana",
+      "suriname",
+      "guiana-francesa"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-thd-essequibo-parika-supenaam-bartica-canawaima-corentyne-gy-sr",
+        "nome": "Estuário do Rio Essequibo (Parika ↔ Wakenaam / Leguan ↔ Supenaam e Bartica) e Ferry Internacional Canawaima (Moleson Creek ↔ South Drain, Rio Corentyne)",
+        "status": "operacao",
+        "extensao_km": 480,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-suriname-rio-maroni-albina-saint-laurent-kourou-iles-du-salut-sr-gf",
+        "nome": "Rio Suriname (Paramaribo ↔ Meerzorg), Ferry Internacional do Rio Maroni (Albina ↔ Saint-Laurent-du-Maroni) e Kourou ↔ Ilhas da Salvação (Guiana Francesa)",
+        "status": "operacao",
+        "extensao_km": 440,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "cruce-andino-petrohue-peulla-puerto-blest-bariloche-ferries-mar-interior-chiloe-quinchao-lemuy-quellon-melinka-chile-argentina",
+    "slug": "cruce-andino-petrohue-peulla-puerto-blest-bariloche-ferries-mar-interior-chiloe-quinchao-lemuy-quellon-melinka-chile-argentina",
+    "nome_pt": "Cruce Andino Interlacustre (Petrohué–Peulla–Puerto Blest–Bariloche) e Ferries do Mar Interior de Chiloé e Guaitecas (Quinchao, Lemuy e Quellón–Melinka, Chile e Argentina)",
+    "nome_en": "Andean Lake Crossing / Cruce Andino (Petrohué–Peulla–Puerto Blest–Bariloche) & Chiloé Inner Sea / Guaitecas Ferries (Quinchao, Lemuy & Quellón–Melinka, Chile & Argentina)",
+    "pais": "Chile e Argentina",
+    "cidade": "Petrohué / Peulla / San Carlos de Bariloche (Puerto Pañuelo e Puerto Blest) / Dalcahue / Achao (Quinchao) / Chonchi (Lemuy) / Quellón / Melinka",
+    "uf": "Região de Los Lagos, Região de Aysén e Província de Río Negro",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Turisur & Cruce Andino (Lagos Todos los Santos, Frías e Nahuel Huapi) / Naviera Austral (Quellón–Melinka–Puerto Cisnes) / Transbordadores Dalcahue–Quinchao & Chonchi–Lemuy",
+    "inauguracao": "1913 (abertura da rota lacustre transandina entre Puerto Varas/Petrohué e Bariloche) / 1980 (pontes Ro-Pax do Mar Interior de Chiloé)",
+    "extensao_km": 780,
+    "bitola": "Catamarãs Lacustres Andinos (Cruce Andino) e Ferries Ro-Pax do Arquipélago de Chiloé e Canal de Moraleda",
+    "eletrificacao": "Catamarãs Lacustres de Baixa Emissão em Parques Nacionais (Vicente Pérez Rosales e Nahuel Huapi) e Navios Ro-Pax",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 11200,
+    "ano_referencia": 2026,
+    "investimento": "US$ 65 milhões (novos catamarãs panorâmicos no Lago Todos los Santos e Nahuel Huapi e modernização das rampas Ro-Pax de Dalcahue, Chacao, Quellón e Melinka)",
+    "proximas_entregas": "Incorporação de novo navio Ro-Pax subsidiado pelo MTT do Chile na rota Cordillera (Quellón–Melinka–Puerto Cisnes)",
+    "resumo_pt": "Travessia interlacustre mais famosa da Cordilheira dos Andes e rede insular do sul do Chile: operando desde 1913, o Cruce Andino atravessa a fronteira Chile–Argentina encadeando três lagos glaciares entre os Parques Nacionais Vicente Pérez Rosales e Nahuel Huapi — navegando no Lago Todos los Santos (Petrohué–Peulla aos pés do vulcão Osorno), no Lago Frías (Puerto Alegre–Puerto Frías) e no Lago Nahuel Huapi (Puerto Blest–Puerto Pañuelo em San Carlos de Bariloche); mais ao sul, no Mar Interior do Arquipélago de Chiloé e Canal de Moraleda, ferries Ro-Pax contínuos unem a Ilha Grande de Chiloé às ilhas de Quinchao (Dalcahue–Curaco de Vélez/Achao) e Lemuy (Huicha–Chulchuy), enquanto a Naviera Austral conecta Quellón ao Arquipélago de las Guaitecas (Melinka), Raúl Marín Balmaceda e Puerto Cisnes.",
+    "resumo_en": "The Andes' most iconic inter-lake border crossing and southern Chile's inner archipelago ferries: operating since 1913, the Cruce Andino crosses the Chile–Argentina border by linking three glacial lakes across Vicente Pérez Rosales and Nahuel Huapi National Parks — Lake Todos los Santos (Petrohué–Peulla), Lake Frías (Puerto Alegre–Puerto Frías), and Lake Nahuel Huapi (Puerto Blest–Puerto Pañuelo in Bariloche); further south in the Inner Sea of Chiloé and Moraleda Channel, continuous Ro-Pax ferries link Chiloé Island to Quinchao (Dalcahue–Achao) and Lemuy (Chonchi–Chulchuy), while Naviera Austral connects Quellón to Melinka (Guaitecas Archipelago) and Puerto Cisnes.",
+    "lat": -41.135,
+    "lon": -72.025,
+    "zoom_inicial": 6,
+    "fontes": [
+      "https://www.cruceandino.com/",
+      "https://www.navieraustral.cl/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "cruce-andino",
+      "lago-todos-los-santos",
+      "lago-nahuel-huapi",
+      "bariloche",
+      "petrohue",
+      "chiloe",
+      "quinchao",
+      "quellon",
+      "melinka",
+      "chile",
+      "argentina"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-cruce-andino-petrohue-peulla-puerto-frias-puerto-blest-bariloche-cl-ar",
+        "nome": "Cruce Andino Interlacustre: Petrohué ↔ Peulla (Lago Todos los Santos) + Puerto Alegre ↔ Puerto Frías (Lago Frías) + Puerto Blest ↔ Puerto Pañuelo (Bariloche, Lago Nahuel Huapi)",
+        "status": "operacao",
+        "extensao_km": 180,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-mar-interior-chiloe-dalcahue-quinchao-chonchi-lemuy-quellon-melinka-cisnes-cl",
+        "nome": "Mar Interior de Chiloé e Canal de Moraleda: Dalcahue ↔ Quinchao (Achao), Chonchi ↔ Ilha Lemuy e Quellón ↔ Melinka (Guaitecas) ↔ Puerto Cisnes",
+        "status": "operacao",
+        "extensao_km": 600,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-golfo-de-guayaquil-isla-puna-jambeli-leticia-santa-rosa-equador-peru-colombia",
+    "slug": "hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-golfo-de-guayaquil-isla-puna-jambeli-leticia-santa-rosa-equador-peru-colombia",
+    "nome_pt": "Hidrovia Binacional do Rio Napo (El Coca–Nuevo Rocafuerte–Iquitos), Corredor Rápido do Amazonas (Iquitos–Leticia/Tabatinga) e Lanchas do Golfo de Guayaquil (Equador, Peru e Colômbia)",
+    "nome_en": "Binational Napo River Waterway (El Coca–Nuevo Rocafuerte–Iquitos), Amazon Fast Ferry Corridor (Iquitos–Leticia/Tabatinga) & Gulf of Guayaquil Launches (Ecuador, Peru & Colombia)",
+    "pais": "Equador, Peru e Colômbia",
+    "cidade": "Francisco de Orellana (El Coca) / Nuevo Rocafuerte / Cabo Pantoja / Iquitos / Caballococha / Santa Rosa e Leticia / Guayaquil (Ilha Puná) / Puerto Bolívar (Jambelí)",
+    "uf": "Orellana, Guayas e El Oro (Equador), Loreto (Peru) e Amazonas (Colômbia)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Transporte Fluvial del Río Napo (Orellana–Yasuní–Loreto) / Transtur & Golfinho Express (Iquitos–Santa Rosa/Leticia) / Cooperativas Marítimas del Golfo de Guayaquil & Jambelí",
+    "inauguracao": "1942 (navegação regular no Rio Napo e Alto Amazonas) / 2016 (Terminal Fluvial Internacional de Puerto Francisco de Orellana — El Coca)",
+    "extensao_km": 1950,
+    "bitola": "Lanchas Rápidas Fluviais da Amazônia Ocidental (Deslizadores/Rápidos de 60 a 120 passageiros) e Lanchas Costeiras do Golfo de Guayaquil",
+    "eletrificacao": "Propulsão Diesel Fluvial e Lanchas Solares Comunitárias (Kara Solar na Amazônia Equatoriana)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 12400,
+    "ano_referencia": 2026,
+    "investimento": "US$ 75 milhões (construção e modernização dos terminais fluviais de El Coca, Nuevo Rocafuerte, Iquitos, Caballococha e Santa Rosa)",
+    "proximas_entregas": "Expansão de barcos movidos a energia solar (Kara Solar / Achuar e Waorani) nos afluentes equatorianos do Pastaza e Napo",
+    "resumo_pt": "Corredor hidroviário transfronteiriço da Amazônia Ocidental e do litoral pacífico equatoriano: descendo das encostas orientais dos Andes equatorianos, a Hidrovia do Rio Napo parte do moderno Terminal Fluvial de Puerto Francisco de Orellana (El Coca), cruza o Parque Nacional Yasuní (Añangu) até a fronteira em Nuevo Rocafuerte e Cabo Pantoja (Peru), seguindo até Mazán e Iquitos; de Iquitos, lanchas expressas ('rápidos' Transtur e Golfinho) percorrem 480 km do Rio Amazonas em 10 horas até Pebas, Caballococha e a Tríplice Fronteira em Santa Rosa (Peru), Leticia (Colômbia) e Tabatinga (Brasil); na costa do Pacífico do Equador, barcas diárias conectam Guayaquil e Posorja à Ilha Puná e Puerto Bolívar (Machala) ao Arquipélago de Jambelí.",
+    "resumo_en": "Cross-border waterway corridor of the Western Amazon and Ecuador's Pacific coast: descending from the eastern slopes of the Ecuadorian Andes, the Napo River Waterway runs from the modern river terminal in Puerto Francisco de Orellana (El Coca) across Yasuní National Park to the border at Nuevo Rocafuerte and Cabo Pantoja (Peru), continuing to Mazán and Iquitos; from Iquitos, high-speed river boats ('rápidos') cover the 480 km down the Amazon River to Caballococha and the Triple Frontier at Santa Rosa (Peru), Leticia (Colombia), and Tabatinga (Brazil); on Ecuador's Pacific coast, daily boats link Guayaquil and Posorja to Puná Island and Puerto Bolívar (Machala) to the Jambelí Archipelago.",
+    "lat": -0.466,
+    "lon": -76.987,
+    "zoom_inicial": 5,
+    "fontes": [
+      "https://www.obraspublicas.gob.ec/",
+      "https://www.gob.pe/mtc"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "hidrovia",
+      "rio-napo",
+      "el-coca",
+      "yasuni",
+      "iquitos",
+      "leticia",
+      "santa-rosa",
+      "golfo-de-guayaquil",
+      "ilha-puna",
+      "equador",
+      "peru",
+      "colombia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-hidrovia-rio-napo-el-coca-nuevo-rocafuerte-mazan-iquitos-santa-rosa-leticia",
+        "nome": "Hidrovia do Rio Napo e Alto Amazonas: El Coca (Equador) ↔ Nuevo Rocafuerte ↔ Cabo Pantoja ↔ Mazán / Iquitos ↔ Caballococha ↔ Santa Rosa / Leticia (Tríplice Fronteira)",
+        "status": "operacao",
+        "extensao_km": 1680,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-golfo-de-guayaquil-posorja-isla-puna-puerto-bolivar-jambeli-ec",
+        "nome": "Golfo de Guayaquil e Costa de El Oro: Guayaquil / Posorja ↔ Ilha Puná e Puerto Bolívar (Machala) ↔ Arquipélago de Jambelí (Equador)",
+        "status": "operacao",
+        "extensao_km": 270,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "lago-de-maracaibo-altagracia-isla-de-toas-morrocoy-tucacas-delta-orinoco-tucupita-hidrovia-rio-meta-puerto-carreno-puerto-ayacucho-venezuela-colombia",
+    "slug": "lago-de-maracaibo-altagracia-isla-de-toas-morrocoy-tucacas-delta-orinoco-tucupita-hidrovia-rio-meta-puerto-carreno-puerto-ayacucho-venezuela-colombia",
+    "nome_pt": "Lanchas do Lago de Maracaibo (Altagracia e Ilha de Toas), Parque Nacional Morrocoy, Delta do Orinoco e Hidrovia do Rio Meta e Alto Orinoco (Venezuela e Colômbia)",
+    "nome_en": "Lake Maracaibo Launches (Altagracia & Toas Island), Morrocoy National Park, Orinoco Delta & Meta / Upper Orinoco Waterway (Venezuela & Colombia)",
+    "pais": "Venezuela e Colômbia",
+    "cidade": "Maracaibo / Los Puertos de Altagracia / Ilha de Toas / Tucacas e Chichiriviche (Morrocoy) / Tucupita (Delta do Orinoco) / Puerto Carreño / Puerto Ayacucho",
+    "uf": "Zulia, Falcón, Delta Amacuro e Amazonas (Venezuela), Meta e Vichada (Colômbia)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Instituto Nacional de los Espacios Acuáticos (INEA Venezuela) & Alcaldía de Almirante Padilla (Isla de Toas) / Asociación de Lancheros de Morrocoy / Cormagdalena & Navegação Fluvial do Rio Meta e Orinoco",
+    "inauguracao": "1950 (lanchas de passageiros do Lago de Maracaibo e bacia do Orinoco-Meta)",
+    "extensao_km": 1620,
+    "bitola": "Barcas Lacustres do Lago de Maracaibo, Lanchas Costeiras de Morrocoy e Embarcações Fluviais da Bacia do Orinoco-Meta",
+    "eletrificacao": "Barcas e Lanchas Fluviais a Diesel e Gasolina",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 18500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 45 milhões (reabilitação dos terminais lacustres de Maracaibo, El Moján e Isla de Toas e dragagem da hidrovia do Rio Meta na Colômbia)",
+    "proximas_entregas": "Modernização dos portos fluviais de Puerto Gaitán, Orocué e Puerto Carreño no corredor do Rio Meta",
+    "resumo_pt": "Sistemas lacustres, costeiros e fluviais da Venezuela e dos Llanos Orientais da Colômbia: no Lago de Maracaibo (o maior lago da América do Sul, com 13.210 km²), barcas e lanchas de passageiros conectam o Malecón de Maracaibo a Los Puertos de Altagracia e unem San Rafael de El Moján às ilhas de Toas, San Carlos e Zapara na entrada do Golfo da Venezuela, enquanto no litoral do estado Falcón centenas de lanchas partem de Tucacas e Chichiriviche para os cayos do Parque Nacional Morrocoy; na bacia binacional do Orinoco, a Hidrovia do Rio Meta (850 km navegáveis) conecta Puerto López/Puerto Gaitán e Orocué à fronteira em Puerto Carreño (Colômbia), Casuarito e Puerto Ayacucho (Venezuela), complementada pelos canais fluviais do Delta do Orinoco a partir de Tucupita até Pedernales.",
+    "resumo_en": "Lake, coastal, and river transport networks of Venezuela and the Eastern Llanos of Colombia: on Lake Maracaibo (South America's largest lake, covering 13,210 km²), passenger boats link Maracaibo to Los Puertos de Altagracia and connect El Moján to Toas and San Carlos Islands, while coastal launches in Falcón connect Tucacas and Chichiriviche to the keys of Morrocoy National Park; in the binational Orinoco basin, the Meta River Waterway links Puerto Gaitán and Orocué to the border at Puerto Carreño (Colombia) and Puerto Ayacucho (Venezuela), alongside the Orinoco Delta channels from Tucupita to Pedernales.",
+    "lat": 10.642,
+    "lon": -71.602,
+    "zoom_inicial": 6,
+    "fontes": [
+      "http://www.inea.gob.ve/",
+      "https://www.invias.gov.co/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "lago-de-maracaibo",
+      "isla-de-toas",
+      "morrocoy",
+      "tucacas",
+      "delta-do-orinoco",
+      "tucupita",
+      "rio-meta",
+      "puerto-carreno",
+      "puerto-ayacucho",
+      "venezuela",
+      "colombia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-lago-de-maracaibo-altagracia-el-mojan-isla-de-toas-morrocoy-tucacas-ve",
+        "nome": "Lago de Maracaibo (Maracaibo ↔ Los Puertos de Altagracia e El Moján ↔ Ilha de Toas / San Carlos) e Parque Nacional Morrocoy (Tucacas / Chichiriviche ↔ Cayo Sombrero)",
+        "status": "operacao",
+        "extensao_km": 420,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-hidrovia-rio-meta-puerto-gaitan-puerto-carreno-puerto-ayacucho-delta-orinoco-co-ve",
+        "nome": "Hidrovia do Rio Meta e Alto Orinoco (Puerto Gaitán ↔ Orocué ↔ Puerto Carreño ↔ Puerto Ayacucho) e Canais do Delta do Orinoco (Tucupita ↔ Pedernales)",
+        "status": "operacao",
+        "extensao_km": 1200,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "balsas-rio-parana-posadas-encarnacion-puerto-iguazu-presidente-franco-bella-vista-lago-argentino-el-calafate-perito-moreno-argentina-paraguai",
+    "slug": "balsas-rio-parana-posadas-encarnacion-puerto-iguazu-presidente-franco-bella-vista-lago-argentino-el-calafate-perito-moreno-argentina-paraguai",
+    "nome_pt": "Travessias Internacionais do Alto e Médio Paraná (Puerto Iguazú–Presidente Franco, Corpus–Bella Vista e Goya–Reconquista) e Catamarãs do Lago Argentino (El Calafate–Perito Moreno, Argentina e Paraguai)",
+    "nome_en": "Upper & Middle Paraná International Crossings (Puerto Iguazú–Presidente Franco, Corpus–Bella Vista & Goya–Reconquista) & Lake Argentino Catamarans (El Calafate–Perito Moreno, Argentina & Paraguay)",
+    "pais": "Argentina e Paraguai",
+    "cidade": "Puerto Iguazú / Presidente Franco / Corpus / Bella Vista / Puerto Rico / Puerto Triunfo / Goya / Reconquista / El Calafate (Punta Bandera — Lago Argentino)",
+    "uf": "Misiones, Corrientes, Santa Fe e Santa Cruz (Argentina), Alto Paraná e Itapúa (Paraguai)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "operacao",
+    "operador": "Balsas Internacionales del Río Paraná (Puerto Iguazú–Tres Fronteras, Corpus–Bella Vista & Puerto Rico–Puerto Triunfo) / Solo Patagonia & MarPatag (Puerto Punta Bandera — Parque Nacional Los Glaciares)",
+    "inauguracao": "1955 (balsas internacionais do Alto Paraná entre Misiones e Paraguai) / 1971 (navegação regular no Lago Argentino em El Calafate)",
+    "extensao_km": 680,
+    "bitola": "Balsas Ro-Pax Fluviais Internacionais (Alto e Médio Paraná) e Catamarãs Glaciares de Alta Capacidade (Lago Argentino e Lago Viedma)",
+    "eletrificacao": "Catamarãs Glaciares de Baixa Emissão e Balsas Fluviais Diesel",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 9600,
+    "ano_referencia": 2026,
+    "investimento": "US$ 55 milhões (modernização do Porto Punta Bandera em El Calafate e novos terminais aduaneiros fluviais em Misiones e Itapúa)",
+    "proximas_entregas": "Ampliação dos píeres de Puerto Bajo las Sombras (Glaciar Perito Moreno) e Punta Bandera",
+    "resumo_pt": "Pontes fluviais internacionais do Rio Paraná e navegação nos grandes lagos glaciares da Patagônia Austral: na fronteira entre a província argentina de Misiones e os departamentos paraguaios de Alto Paraná e Itapúa, balsas Ro-Pax e lanchas cruzam diariamente a confluência dos rios Iguaçu e Paraná entre Puerto Iguazú e Puerto Tres Fronteras (Presidente Franco), além das travessias de Puerto Rico–Puerto Triunfo, Corpus–Bella Vista, San Ignacio–Mayor Otaño e as balsas do Médio Paraná entre Goya (Corrientes) e Reconquista (Santa Fe); no extremo sul da Argentina (Santa Cruz), os catamarãs de grande porte partem de Puerto Punta Bandera (El Calafate) e Puerto Bajo las Sombras para navegar pelos braços do Lago Argentino até as paredes de gelo dos glaciares Perito Moreno, Upsala e Spegazzini no Parque Nacional Los Glaciares (UNESCO).",
+    "resumo_en": "International river crossings of the Paraná River and glacial lake navigation in Southern Patagonia: along the border between Misiones (Argentina) and Paraguay, Ro-Pax ferries and launches cross the Paraná and Iguazú confluence between Puerto Iguazú and Presidente Franco (Tres Fronteras), alongside crossings at Puerto Rico–Puerto Triunfo, Corpus–Bella Vista, and Middle Paraná links between Goya and Reconquista; in Santa Cruz Province (Southern Patagonia), large catamarans depart Puerto Punta Bandera (El Calafate) and Bajo las Sombras across Lake Argentino to the ice walls of the Perito Moreno, Upsala, and Spegazzini Glaciers in UNESCO-listed Los Glaciares National Park.",
+    "lat": -50.285,
+    "lon": -72.798,
+    "zoom_inicial": 5,
+    "fontes": [
+      "https://www.argentina.gob.ar/transporte/vias-navegables",
+      "https://www.parquesnacionales.gob.ar/"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "rio-parana",
+      "puerto-iguazu",
+      "presidente-franco",
+      "misiones",
+      "goya",
+      "reconquista",
+      "lago-argentino",
+      "el-calafate",
+      "perito-moreno",
+      "argentina",
+      "paraguai"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "linha-balsas-alto-medio-parana-iguazu-franco-corpus-bella-vista-goya-reconquista-ar-py",
+        "nome": "Travessias do Alto e Médio Paraná: Puerto Iguazú ↔ Presidente Franco (Três Fronteiras), Puerto Rico ↔ Puerto Triunfo, Corpus ↔ Bella Vista e Goya ↔ Reconquista",
+        "status": "operacao",
+        "extensao_km": 460,
+        "estacoes": 3
+      },
+      {
+        "id": "linha-lago-argentino-punta-bandera-bajo-las-sombras-perito-moreno-upsala-spegazzini-ar",
+        "nome": "Navegação Glaciar do Lago Argentino e Lago Viedma (UNESCO): Puerto Punta Bandera (El Calafate) & Bajo las Sombras ↔ Glaciares Perito Moreno, Upsala e Spegazzini",
+        "status": "operacao",
+        "extensao_km": 220,
+        "estacoes": 2
+      }
+    ]
   }
 ]
