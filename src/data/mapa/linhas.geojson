@@ -60088,6 +60088,502 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-vestfjorden-lofoten-bodo-rost-vaeroy-moskenes-bognes-lodingen-helgeland-traena-no",
+        "nome": "Lofoten e Costa de Helgeland: Bodø ↔ Røst ↔ Værøy ↔ Moskenes, Bognes ↔ Lødingen e Sandnessjøen / Stokkvågen ↔ Lovund ↔ Arquipélago de Træna",
+        "sistema_id": "torghatten-nord-boreal-bodo-lofoten-moskenes-vaeroy-rost-senja-helgeland-lovund-traena-svalbard-isfjorden-noruega",
+        "sistema_nome": "Torghatten Nord e Boreal Sjø em Lofoten, Vesterålen, Senja e Costa de Helgeland (Bodø–Moskenes–Værøy–Røst e Træna) e Barcas Árticas de Svalbard (Noruega)",
+        "pais": "Noruega",
+        "cidade": "Bodø / Moskenes, Værøy e Røst (Lofoten) / Lødingen / Andenes / Gryllefjord (Senja) / Sandnessjøen, Lovund e Træna (Helgeland) / Longyearbyen e Pyramiden (Svalbard)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Torghatten Nord AS / Boreal Sjø AS (Nordland Fylkeskommune / Reis Nordland) / Henningsen Transport & Guiding (Svalbard Isfjorden)",
+        "extensao_km": 920,
+        "bitola": "Ferries Ro-Pax Oceânicos do Círculo Polar Ártico (Vestfjorden), Catamarãs Expressos (Hurtigbåt) de Helgeland e Navios Polares de Svalbard",
+        "eletrificacao": "Ferries Ro-Pax a Gás Natural Liquefeito (GNL), Híbridos-Elétricos e Futuros Navios a Hidrogênio no Vestfjorden"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.635,
+            66.018
+          ],
+          [
+            12.092,
+            66.502
+          ],
+          [
+            14.378,
+            67.282
+          ],
+          [
+            12.115,
+            67.522
+          ],
+          [
+            12.688,
+            67.665
+          ],
+          [
+            13.048,
+            67.898
+          ],
+          [
+            16.002,
+            68.412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-troms-senja-andenes-gryllefjord-svalbard-longyearbyen-barentsburg-pyramiden-no",
+        "nome": "Ilha de Senja (Andenes ↔ Gryllefjord e Brensholmen ↔ Botnhamn) e Navegação Polar do Fiorde Isfjorden em Svalbard (Longyearbyen ↔ Barentsburg ↔ Pyramiden, 78°N)",
+        "sistema_id": "torghatten-nord-boreal-bodo-lofoten-moskenes-vaeroy-rost-senja-helgeland-lovund-traena-svalbard-isfjorden-noruega",
+        "sistema_nome": "Torghatten Nord e Boreal Sjø em Lofoten, Vesterålen, Senja e Costa de Helgeland (Bodø–Moskenes–Værøy–Røst e Træna) e Barcas Árticas de Svalbard (Noruega)",
+        "pais": "Noruega",
+        "cidade": "Bodø / Moskenes, Værøy e Røst (Lofoten) / Lødingen / Andenes / Gryllefjord (Senja) / Sandnessjøen, Lovund e Træna (Helgeland) / Longyearbyen e Pyramiden (Svalbard)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Torghatten Nord AS / Boreal Sjø AS (Nordland Fylkeskommune / Reis Nordland) / Henningsen Transport & Guiding (Svalbard Isfjorden)",
+        "extensao_km": 560,
+        "bitola": "Ferries Ro-Pax Oceânicos do Círculo Polar Ártico (Vestfjorden), Catamarãs Expressos (Hurtigbåt) de Helgeland e Navios Polares de Svalbard",
+        "eletrificacao": "Ferries Ro-Pax a Gás Natural Liquefeito (GNL), Híbridos-Elétricos e Futuros Navios a Hidrogênio no Vestfjorden"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.122,
+            69.318
+          ],
+          [
+            17.052,
+            69.362
+          ],
+          [
+            18.042,
+            69.598
+          ],
+          [
+            15.615,
+            78.228
+          ],
+          [
+            14.212,
+            78.065
+          ],
+          [
+            16.342,
+            78.655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ruter-oslofjord-aker-brygge-nesoddtangen-ilhas-moss-horten-sandefjord-stromstad-no",
+        "nome": "Fiorde de Oslo 100% Elétrico: Aker Brygge ↔ Nesoddtangen (B10) & Ilhas (B1–B3), Bastø Fosen (Moss ↔ Horten) e Color Hybrid (Sandefjord ↔ Strömstad)",
+        "sistema_id": "ruter-oslofjord-electric-island-ferries-nesodden-basto-fosen-moss-horten-color-line-sandefjord-stromstad-telemark-canal-noruega",
+        "sistema_nome": "Barcas 100% Elétricas da Ruter no Fiorde de Oslo (Nesodden e Ilhas), Bastø Fosen (Moss–Horten), Color Hybrid (Sandefjord–Strömstad) e Canal de Telemark / Lago Mjøsa (Noruega)",
+        "pais": "Noruega e Suécia",
+        "cidade": "Oslo (Aker Brygge) / Nesoddtangen / Moss / Horten / Sandefjord / Strömstad / Skien e Dalen (Canal de Telemark) / Hamar e Lillehammer (Lago Mjøsa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Ruter AS (Boreal Sjø & Norled — Oslofjord) / Bastø Fosen AS (Moss–Horten) / Color Line (MS Color Hybrid) / Telemarkskanalen & DS Skibladner (Lago Mjøsa)",
+        "extensao_km": 380,
+        "bitola": "Barcas Urbanas 100% Elétricas a Bateria (Ruter), Ferries Ro-Pax Elétricos de Alta Capacidade (Bastø Electric), Maior Ferry Plug-in Híbrido do Mundo (Color Hybrid) e Navios de Canal/Lago",
+        "eletrificacao": "100% Elétrico a Bateria (Ruter Oslofjord e Bastø Electric) e Plug-in Híbrido (MS Color Hybrid)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7285,
+            59.9105
+          ],
+          [
+            10.658,
+            59.869
+          ],
+          [
+            10.655,
+            59.435
+          ],
+          [
+            10.485,
+            59.412
+          ],
+          [
+            10.225,
+            59.128
+          ],
+          [
+            11.172,
+            58.938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-canal-de-telemark-skien-ulefoss-dalen-lago-mjosa-hamar-gjovik-lillehammer-no",
+        "nome": "Canal Histórico de Telemark (Skien ↔ Ulefoss ↔ Lunde ↔ Dalen — 18 Eclusas) e Lago Mjøsa (Hamar ↔ Gjøvik ↔ Lillehammer — Vapor DS Skibladner de 1856)",
+        "sistema_id": "ruter-oslofjord-electric-island-ferries-nesodden-basto-fosen-moss-horten-color-line-sandefjord-stromstad-telemark-canal-noruega",
+        "sistema_nome": "Barcas 100% Elétricas da Ruter no Fiorde de Oslo (Nesodden e Ilhas), Bastø Fosen (Moss–Horten), Color Hybrid (Sandefjord–Strömstad) e Canal de Telemark / Lago Mjøsa (Noruega)",
+        "pais": "Noruega e Suécia",
+        "cidade": "Oslo (Aker Brygge) / Nesoddtangen / Moss / Horten / Sandefjord / Strömstad / Skien e Dalen (Canal de Telemark) / Hamar e Lillehammer (Lago Mjøsa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Ruter AS (Boreal Sjø & Norled — Oslofjord) / Bastø Fosen AS (Moss–Horten) / Color Line (MS Color Hybrid) / Telemarkskanalen & DS Skibladner (Lago Mjøsa)",
+        "extensao_km": 300,
+        "bitola": "Barcas Urbanas 100% Elétricas a Bateria (Ruter), Ferries Ro-Pax Elétricos de Alta Capacidade (Bastø Electric), Maior Ferry Plug-in Híbrido do Mundo (Color Hybrid) e Navios de Canal/Lago",
+        "eletrificacao": "100% Elétrico a Bateria (Ruter Oslofjord e Bastø Electric) e Plug-in Híbrido (MS Color Hybrid)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.608,
+            59.208
+          ],
+          [
+            9.265,
+            59.282
+          ],
+          [
+            8.005,
+            59.445
+          ],
+          [
+            11.062,
+            60.792
+          ],
+          [
+            10.695,
+            60.795
+          ],
+          [
+            10.462,
+            61.115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-destination-gotland-nynashamn-oskarshamn-visby-faro-lago-vattern-visingso-se",
+        "nome": "Ilha de Gotland e Lago Vättern: Destination Gotland (Nynäshamn & Oskarshamn ↔ Visby), Fårösund ↔ Ilha de Fårö e Gränna ↔ Ilha de Visingsö (Trafikverket)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-oresundslinjen-helsingborg-helsingor-bornholmslinjen-ystad-ronne-suecia-dinamarca",
+        "sistema_nome": "Destination Gotland (Nynäshamn e Oskarshamn–Visby), Öresundslinjen 100% Elétrica (Helsingborg–Helsingør e Ilha de Ven) e Bornholmslinjen (Ystad–Rønne, Suécia e Dinamarca)",
+        "pais": "Suécia e Dinamarca",
+        "cidade": "Nynäshamn / Oskarshamn / Visby (Ilha de Gotland) / Helsingborg / Helsingør / Landskrona (Ilha de Ven) / Ystad / Rønne (Ilha de Bornholm) / Gränna (Visingsö)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Destination Gotland (Rederi AB Gotland) / Öresundslinjen (Molslinjen) & Ventrafiken / Bornholmslinjen (Molslinjen) / Trafikverket Färjerederiet (Visingsö & Fårö)",
+        "extensao_km": 680,
+        "bitola": "Fast Ferries Ro-Pax a GNL (MS Visborg e MS Gotland), Ferries 100% Elétricos com Recarga Robótica (Aurora e Tycho Brahe) e Catamarãs Gigantes (Express 1 e Express 5)",
+        "eletrificacao": "100% Elétrico a Bateria (Öresundslinjen Aurora e Tycho Brahe com carregamento automático em 5 min) e GNL/Biogás (Destination Gotland)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.952,
+            58.902
+          ],
+          [
+            18.288,
+            57.638
+          ],
+          [
+            16.458,
+            57.265
+          ],
+          [
+            19.065,
+            57.865
+          ],
+          [
+            14.462,
+            58.028
+          ],
+          [
+            14.345,
+            58.038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-oresundslinjen-helsingborg-helsingor-ven-bornholmslinjen-ystad-ronne-se-dk",
+        "nome": "Estreito de Øresund e Bornholm: Öresundslinjen 100% Elétrica (Helsingborg ↔ Helsingør), Landskrona ↔ Ilha de Ven e Bornholmslinjen (Ystad / Køge ↔ Rønne, Bornholm)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-oresundslinjen-helsingborg-helsingor-bornholmslinjen-ystad-ronne-suecia-dinamarca",
+        "sistema_nome": "Destination Gotland (Nynäshamn e Oskarshamn–Visby), Öresundslinjen 100% Elétrica (Helsingborg–Helsingør e Ilha de Ven) e Bornholmslinjen (Ystad–Rønne, Suécia e Dinamarca)",
+        "pais": "Suécia e Dinamarca",
+        "cidade": "Nynäshamn / Oskarshamn / Visby (Ilha de Gotland) / Helsingborg / Helsingør / Landskrona (Ilha de Ven) / Ystad / Rønne (Ilha de Bornholm) / Gränna (Visingsö)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Destination Gotland (Rederi AB Gotland) / Öresundslinjen (Molslinjen) & Ventrafiken / Bornholmslinjen (Molslinjen) / Trafikverket Färjerederiet (Visingsö & Fårö)",
+        "extensao_km": 500,
+        "bitola": "Fast Ferries Ro-Pax a GNL (MS Visborg e MS Gotland), Ferries 100% Elétricos com Recarga Robótica (Aurora e Tycho Brahe) e Catamarãs Gigantes (Express 1 e Express 5)",
+        "eletrificacao": "100% Elétrico a Bateria (Öresundslinjen Aurora e Tycho Brahe com carregamento automático em 5 min) e GNL/Biogás (Destination Gotland)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.692,
+            56.042
+          ],
+          [
+            12.615,
+            56.035
+          ],
+          [
+            12.825,
+            55.868
+          ],
+          [
+            12.712,
+            55.908
+          ],
+          [
+            13.825,
+            55.425
+          ],
+          [
+            14.695,
+            55.098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-islandia-herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-is",
+        "nome": "Ferries Insulares da Islândia: Herjólfur Elétrico (Landeyjahöfn ↔ Heimaey, Vestmannaeyjar), Baldur (Stykkishólmur ↔ Flatey ↔ Brjánslækur) e Sæfari (Dalvík ↔ Ilha de Grímsey)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-grimsey-islandia-arctic-umiaq-line-sarfaq-ittuk-nuuk-sisimiut-ilulissat-groenlandia",
+        "sistema_nome": "Ferry Elétrico Herjólfur (Vestmannaeyjar), Baldur (Breiðafjörður) e Sæfari (Grímsey) na Islândia e Navio Costeiro Ártico Sarfaq Ittuk (Nuuk–Sisimiut–Ilulissat, Groenlândia)",
+        "pais": "Islândia e Dinamarca (Groenlândia)",
+        "cidade": "Landeyjahöfn / Heimaey (Vestmannaeyjar) / Stykkishólmur e Flatey / Dalvík e Grímsey (Islândia) / Qaqortoq / Nuuk / Maniitsoq / Sisimiut / Aasiaat / Ilulissat (Groenlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Vestmannaeyjaferjan Herjólfur ohf. / Seatours (Ferry Baldur) & Samskip (Ferry Sæfari — Grímsey) / Arctic Umiaq Line A/S (Navio Sarfaq Ittuk) & Disko Line (Groenlândia)",
+        "extensao_km": 450,
+        "bitola": "Ferry Ro-Pax Híbrido-Elétrico do Atlântico Norte (Herjólfur IV) e Navio Costeiro de Classe de Gelo 1A do Ártico Groenlandês (Sarfaq Ittuk)",
+        "eletrificacao": "100% Elétrico/Híbrido a Bateria (Herjólfur IV alimentado por energia geotérmica e hidrelétrica islandesa) e Propulsão Polar Reforçada para Gelo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -20.118,
+            63.532
+          ],
+          [
+            -20.272,
+            63.442
+          ],
+          [
+            -22.728,
+            65.075
+          ],
+          [
+            -23.132,
+            65.375
+          ],
+          [
+            -23.188,
+            65.532
+          ],
+          [
+            -18.528,
+            65.972
+          ],
+          [
+            -18.015,
+            66.542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-arctic-umiaq-line-sarfaq-ittuk-qaqortoq-nuuk-maniitsoq-sisimiut-aasiaat-ilulissat-gl",
+        "nome": "Autoestrada Marítima da Groenlândia (Arctic Umiaq Line — Sarfaq Ittuk & Disko Line): Qaqortoq ↔ Paamiut ↔ Nuuk ↔ Maniitsoq ↔ Sisimiut ↔ Aasiaat ↔ Ilulissat (Baía de Disko)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-grimsey-islandia-arctic-umiaq-line-sarfaq-ittuk-nuuk-sisimiut-ilulissat-groenlandia",
+        "sistema_nome": "Ferry Elétrico Herjólfur (Vestmannaeyjar), Baldur (Breiðafjörður) e Sæfari (Grímsey) na Islândia e Navio Costeiro Ártico Sarfaq Ittuk (Nuuk–Sisimiut–Ilulissat, Groenlândia)",
+        "pais": "Islândia e Dinamarca (Groenlândia)",
+        "cidade": "Landeyjahöfn / Heimaey (Vestmannaeyjar) / Stykkishólmur e Flatey / Dalvík e Grímsey (Islândia) / Qaqortoq / Nuuk / Maniitsoq / Sisimiut / Aasiaat / Ilulissat (Groenlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Vestmannaeyjaferjan Herjólfur ohf. / Seatours (Ferry Baldur) & Samskip (Ferry Sæfari — Grímsey) / Arctic Umiaq Line A/S (Navio Sarfaq Ittuk) & Disko Line (Groenlândia)",
+        "extensao_km": 2000,
+        "bitola": "Ferry Ro-Pax Híbrido-Elétrico do Atlântico Norte (Herjólfur IV) e Navio Costeiro de Classe de Gelo 1A do Ártico Groenlandês (Sarfaq Ittuk)",
+        "eletrificacao": "100% Elétrico/Híbrido a Bateria (Herjólfur IV alimentado por energia geotérmica e hidrelétrica islandesa) e Propulsão Polar Reforçada para Gelo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.035,
+            60.718
+          ],
+          [
+            -49.665,
+            61.995
+          ],
+          [
+            -51.722,
+            64.175
+          ],
+          [
+            -52.902,
+            65.415
+          ],
+          [
+            -53.675,
+            66.938
+          ],
+          [
+            -52.868,
+            68.708
+          ],
+          [
+            -51.102,
+            69.218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-hiiumaa-kihnu-ee",
+        "nome": "Arquipélago Estoniano (TS Laevad & Kihnu Veeteed): Virtsu ↔ Kuivastu (Muhu / Saaremaa), Rohuküla ↔ Heltermaa (Hiiumaa) e Munalaid ↔ Ilha de Kihnu (UNESCO)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-saaremaa-hiiumaa-estonia-smiltynes-perkela-klaipeda-nida-lituania-saimaa-savonlinna-kotka-finlandia",
+        "sistema_nome": "TS Laevad e Kihnu Veeteed nas Ilhas da Estônia (Saaremaa, Hiiumaa e Kihnu), Smiltynės Perkėla na Laguna da Curlândia (Klaipėda–Nida, Lituânia) e Lago Saimaa (Finlândia)",
+        "pais": "Estônia, Lituânia e Finlândia",
+        "cidade": "Virtsu e Kuivastu (Muhu/Saaremaa) / Rohuküla e Heltermaa (Hiiumaa) / Ilha de Kihnu / Klaipėda e Nida (Lituânia) / Savonlinna, Lappeenranta e Kotka (Finlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "TS Laevad OÜ (Porto de Tallinn) & AS Kihnu Veeteed (Estônia) / AB Smiltynės Perkėla (Klaipėda, Lituânia) / Finferries & Saimaa Lake Cruises (Finlândia)",
+        "extensao_km": 420,
+        "bitola": "Ferries Ro-Pax Híbridos Quebra-Gelo de Classe Báltica (TS Laevad), Balsas Urbanas de Klaipėda e Navios Lacustres de Saimaa",
+        "eletrificacao": "Ferries Ro-Pax Híbridos Diesel-Elétricos a Bateria (MS Tõll na Estônia, primeiro ferry híbrido de grande porte dos Países Bálticos)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.508,
+            58.572
+          ],
+          [
+            23.388,
+            58.575
+          ],
+          [
+            23.425,
+            58.905
+          ],
+          [
+            23.048,
+            58.865
+          ],
+          [
+            24.118,
+            58.228
+          ],
+          [
+            23.985,
+            58.142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-klaipeda-smiltyne-nida-laguna-curlandia-lituania-lago-saimaa-savonlinna-kotka-lt-fi",
+        "nome": "Laguna e Istmo da Curlândia (Klaipėda ↔ Smiltynė e Nida ↔ Dreverna/Mingė, Lituânia) e Lago Saimaa / Kotka (Lappeenranta ↔ Savonlinna e Kotka ↔ Kaunissaari, Finlândia)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-saaremaa-hiiumaa-estonia-smiltynes-perkela-klaipeda-nida-lituania-saimaa-savonlinna-kotka-finlandia",
+        "sistema_nome": "TS Laevad e Kihnu Veeteed nas Ilhas da Estônia (Saaremaa, Hiiumaa e Kihnu), Smiltynės Perkėla na Laguna da Curlândia (Klaipėda–Nida, Lituânia) e Lago Saimaa (Finlândia)",
+        "pais": "Estônia, Lituânia e Finlândia",
+        "cidade": "Virtsu e Kuivastu (Muhu/Saaremaa) / Rohuküla e Heltermaa (Hiiumaa) / Ilha de Kihnu / Klaipėda e Nida (Lituânia) / Savonlinna, Lappeenranta e Kotka (Finlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "TS Laevad OÜ (Porto de Tallinn) & AS Kihnu Veeteed (Estônia) / AB Smiltynės Perkėla (Klaipėda, Lituânia) / Finferries & Saimaa Lake Cruises (Finlândia)",
+        "extensao_km": 520,
+        "bitola": "Ferries Ro-Pax Híbridos Quebra-Gelo de Classe Báltica (TS Laevad), Balsas Urbanas de Klaipėda e Navios Lacustres de Saimaa",
+        "eletrificacao": "Ferries Ro-Pax Híbridos Diesel-Elétricos a Bateria (MS Tõll na Estônia, primeiro ferry híbrido de grande porte dos Países Bálticos)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.122,
+            55.705
+          ],
+          [
+            21.115,
+            55.702
+          ],
+          [
+            21.008,
+            55.302
+          ],
+          [
+            21.258,
+            55.352
+          ],
+          [
+            28.188,
+            61.062
+          ],
+          [
+            28.885,
+            61.868
+          ],
+          [
+            26.942,
+            60.458
+          ]
+        ]
+      }
     }
   ]
 }

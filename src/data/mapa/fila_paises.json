@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T22:16:00-03:00",
+  "atualizado_em": "2026-11-15T22:46:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2359,6 +2359,15 @@
       "status": "concluido",
       "concluido_em": "2026-11-15T22:16:00-03:00",
       "ronda": 167
+    },
+    {
+      "ordem": 164,
+      "codigo": "HIDRO-NORDICO-ESCANDINAVIA-BALTICO-ARTICO-GROENLANDIA-V",
+      "pais": "Fase Hidroviária Mundial #53 — Escandinávia, Mar Báltico, Ártico Europeu, Islândia e Groenlândia V",
+      "continente": "Europa e América do Norte",
+      "status": "concluido",
+      "concluido_em": "2026-11-15T22:46:00-03:00",
+      "ronda": 168
     }
   ],
   "fila_proximas_rondas": [
@@ -2508,14 +2517,6 @@
       ]
     },
     {
-      "ordem": 164,
-      "codigo": "HIDRO-NORDICO-ESCANDINAVIA-BALTICO-ARTICO-GROENLANDIA-V",
-      "pais": "Fase Hidroviária Mundial #53 — Escandinávia, Mar Báltico, Ártico Europeu, Islândia e Groenlândia V",
-      "continente": "Europa e América do Norte",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (Torghatten Nord e Boreal Helgeland/Vesterålen na Noruega, Destination Gotland Nynäshamn–Visby e Trafikverket Färjerederiet na Suécia, Finferries Turku Archipelago Ring Road na Finlândia, Samsø/Læsø/Ærøfærgerne na Dinamarca e Arctic Umiaq Line Sarfaq Ittuk na Groenlândia)"
-    },
-    {
       "ordem": 165,
       "codigo": "HIDRO-ILHAS-DO-ATLANTICO-MACARONESIA-ACORES-MADEIRA-SANTA-HELENA-FALKLANDS-V",
       "pais": "Fase Hidroviária Mundial #54 — Arquipélagos do Atlântico: Açores, Madeira, Cabo Verde, Bermudas e Atlântico Sul V",
@@ -2546,6 +2547,14 @@
       "continente": "América do Norte",
       "prioridade": "alta",
       "foco": "Transporte por barco (Casco Bay Lines em Portland Maine, Block Island Ferry e Prudence Island em Rhode Island, Fire Island Ferries e Cross Sound Ferry New London–Orient Point, Beaver Island e Drummond Island Ferries no Lago Michigan/Huron, Catalina Express Long Beach–Avalon e Ferries dos Lagos Kootenay e Arrow na Colúmbia Britânica)"
+    },
+    {
+      "ordem": 169,
+      "codigo": "HIDRO-REINO-UNIDO-IRLANDA-CANAL-DA-MANCHA-MAR-DA-IRLANDA-V",
+      "pais": "Fase Hidroviária Mundial #57 — Reino Unido, Escócia, País de Gales, Irlanda e Ilhas Britânicas V",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Isles of Scilly Steamship Scillonian III Penzance–St Mary's e Tresco/Bryher Boats, Lundy Island MS Oldenburg, Western Ferries Gourock–Dunoon e CalMac Small Isles/Mull/Kerrera na Escócia, Doolin/Galway Aran Islands Ferries Inishmore–Inishmaan–Inisheer e Skellig Michael / Cape Clear na Irlanda)"
     }
   ]
 }

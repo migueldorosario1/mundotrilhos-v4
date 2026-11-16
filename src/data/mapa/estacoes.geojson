@@ -57623,6 +57623,581 @@
           -4.085
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-bodo-ferry-express-boat-terminal-nordland-no",
+        "nome": "Bodø Ferry & Hurtigbåt Terminal — Hub Ferro-Hidroviário de Nordland e Lofoten (Noruega)",
+        "sistema_id": "torghatten-nord-boreal-bodo-lofoten-moskenes-vaeroy-rost-senja-helgeland-lovund-traena-svalbard-isfjorden-noruega",
+        "linha_id": "linha-vestfjorden-lofoten-bodo-rost-vaeroy-moskenes-bognes-lodingen-helgeland-traena-no",
+        "pais": "Noruega",
+        "cidade": "Bodø / Moskenes, Værøy e Røst (Lofoten) / Lødingen / Andenes / Gryllefjord (Senja) / Sandnessjøen, Lovund e Træna (Helgeland) / Longyearbyen e Pyramiden (Svalbard)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal intermodal ao lado da estação ferroviária final da Nordlandsbanen em Bodø, de onde partem os ferries do Vestfjorden para Moskenes, Værøy e Røst."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.378,
+          67.282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-moskenes-vaeroy-rost-lofoten-ferry-ports-no",
+        "nome": "Portos de Moskenes, Værøy & Røst — Extremo Sul do Arquipélago de Lofoten (Torghatten Nord)",
+        "sistema_id": "torghatten-nord-boreal-bodo-lofoten-moskenes-vaeroy-rost-senja-helgeland-lovund-traena-svalbard-isfjorden-noruega",
+        "linha_id": "linha-vestfjorden-lofoten-bodo-rost-vaeroy-moskenes-bognes-lodingen-helgeland-traena-no",
+        "pais": "Noruega",
+        "cidade": "Bodø / Moskenes, Værøy e Røst (Lofoten) / Lødingen / Andenes / Gryllefjord (Senja) / Sandnessjøen, Lovund e Træna (Helgeland) / Longyearbyen e Pyramiden (Svalbard)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais oceânicos da E10 no sul de Lofoten (Moskenes) e nas ilhas de aves marinhas e pesca de Værøy e Røst."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.048,
+          67.898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-sandnessjoen-lovund-traena-helgeland-ports-no",
+        "nome": "Sandnessjøen, Lovund & Arquipélago de Træna — Catamarãs e Ferries da Costa de Helgeland",
+        "sistema_id": "torghatten-nord-boreal-bodo-lofoten-moskenes-vaeroy-rost-senja-helgeland-lovund-traena-svalbard-isfjorden-noruega",
+        "linha_id": "linha-vestfjorden-lofoten-bodo-rost-vaeroy-moskenes-bognes-lodingen-helgeland-traena-no",
+        "pais": "Noruega",
+        "cidade": "Bodø / Moskenes, Værøy e Røst (Lofoten) / Lødingen / Andenes / Gryllefjord (Senja) / Sandnessjøen, Lovund e Træna (Helgeland) / Longyearbyen e Pyramiden (Svalbard)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Rede insular que cruza exatamente o Círculo Polar Ártico na Costa de Helgeland, conectando as ilhas de Lovund e Træna ao continente."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.092,
+          66.502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-andenes-gryllefjord-senja-ferry-terminals-no",
+        "nome": "Terminais de Andenes (Vesterålen) e Gryllefjord (Ilha de Senja) — Rota Cênica Nacional do Ártico",
+        "sistema_id": "torghatten-nord-boreal-bodo-lofoten-moskenes-vaeroy-rost-senja-helgeland-lovund-traena-svalbard-isfjorden-noruega",
+        "linha_id": "linha-troms-senja-andenes-gryllefjord-svalbard-longyearbyen-barentsburg-pyramiden-no",
+        "pais": "Noruega",
+        "cidade": "Bodø / Moskenes, Værøy e Røst (Lofoten) / Lødingen / Andenes / Gryllefjord (Senja) / Sandnessjøen, Lovund e Træna (Helgeland) / Longyearbyen e Pyramiden (Svalbard)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia marítima ao longo da borda da plataforma continental entre Vesterålen (Andenes) e a segunda maior ilha da Noruega, Senja."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.122,
+          69.318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-longyearbyen-barentsburg-pyramiden-svalbard-78n-no",
+        "nome": "Portos de Longyearbyen, Barentsburg & Pyramiden — Fiorde Isfjorden no Arquipélago de Svalbard (78°N)",
+        "sistema_id": "torghatten-nord-boreal-bodo-lofoten-moskenes-vaeroy-rost-senja-helgeland-lovund-traena-svalbard-isfjorden-noruega",
+        "linha_id": "linha-troms-senja-andenes-gryllefjord-svalbard-longyearbyen-barentsburg-pyramiden-no",
+        "pais": "Noruega",
+        "cidade": "Bodø / Moskenes, Værøy e Røst (Lofoten) / Lødingen / Andenes / Gryllefjord (Senja) / Sandnessjøen, Lovund e Træna (Helgeland) / Longyearbyen e Pyramiden (Svalbard)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais hidroviários de passageiros mais setentrionais do planeta (a 78° de latitude norte), conectando os assentamentos do Isfjorden em Spitsbergen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.615,
+          78.228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-aker-brygge-radhusbrygge-ruter-electric-hub-oslo-no",
+        "nome": "Aker Brygge (Rådhusbrygge) — Terminal Central 100% Elétrico da Ruter em Oslo",
+        "sistema_id": "ruter-oslofjord-electric-island-ferries-nesodden-basto-fosen-moss-horten-color-line-sandefjord-stromstad-telemark-canal-noruega",
+        "linha_id": "linha-ruter-oslofjord-aker-brygge-nesoddtangen-ilhas-moss-horten-sandefjord-stromstad-no",
+        "pais": "Noruega e Suécia",
+        "cidade": "Oslo (Aker Brygge) / Nesoddtangen / Moss / Horten / Sandefjord / Strömstad / Skien e Dalen (Canal de Telemark) / Hamar e Lillehammer (Lago Mjøsa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Hub central de barcas 100% elétricas em frente à Prefeitura de Oslo, com carregadores de alta potência para as frotas de Nesodden (B10) e das Ilhas do Fiorde (B1–B3)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7285,
+          59.9105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nesoddtangen-terminal-oslofjord-ruter-no",
+        "nome": "Nesoddtangen Terminal — Principal Terminal Suburbano de Barcas Elétricas da Grande Oslo",
+        "sistema_id": "ruter-oslofjord-electric-island-ferries-nesodden-basto-fosen-moss-horten-color-line-sandefjord-stromstad-telemark-canal-noruega",
+        "linha_id": "linha-ruter-oslofjord-aker-brygge-nesoddtangen-ilhas-moss-horten-sandefjord-stromstad-no",
+        "pais": "Noruega e Suécia",
+        "cidade": "Oslo (Aker Brygge) / Nesoddtangen / Moss / Horten / Sandefjord / Strömstad / Skien e Dalen (Canal de Telemark) / Hamar e Lillehammer (Lago Mjøsa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal multimodal na ponta da península de Nesodden, onde os ônibus municipais se sincronizam a cada 15/30 minutos com as barcas elétricas para Aker Brygge e Lysaker."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.658,
+          59.869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-moss-horten-basto-fosen-sandefjord-stromstad-no-se",
+        "nome": "Terminais de Moss–Horten (Bastø Fosen Elétrico) & Sandefjord–Strömstad (MS Color Hybrid)",
+        "sistema_id": "ruter-oslofjord-electric-island-ferries-nesodden-basto-fosen-moss-horten-color-line-sandefjord-stromstad-telemark-canal-noruega",
+        "linha_id": "linha-ruter-oslofjord-aker-brygge-nesoddtangen-ilhas-moss-horten-sandefjord-stromstad-no",
+        "pais": "Noruega e Suécia",
+        "cidade": "Oslo (Aker Brygge) / Nesoddtangen / Moss / Horten / Sandefjord / Strömstad / Skien e Dalen (Canal de Telemark) / Hamar e Lillehammer (Lago Mjøsa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "A travessia Ro-Pax mais movimentada do Fiorde de Oslo (Moss–Horten, com 3,8 milhões de passageiros/ano em navios elétricos) e a rota internacional híbrida para a Suécia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.655,
+          59.435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-skien-ulefoss-lunde-dalen-telemark-canal-no",
+        "nome": "Cais e Eclusas de Skien, Ulefoss, Vrangfoss, Lunde e Dalen — Hidrovia do Canal de Telemark",
+        "sistema_id": "ruter-oslofjord-electric-island-ferries-nesodden-basto-fosen-moss-horten-color-line-sandefjord-stromstad-telemark-canal-noruega",
+        "linha_id": "linha-canal-de-telemark-skien-ulefoss-dalen-lago-mjosa-hamar-gjovik-lillehammer-no",
+        "pais": "Noruega e Suécia",
+        "cidade": "Oslo (Aker Brygge) / Nesoddtangen / Moss / Horten / Sandefjord / Strömstad / Skien e Dalen (Canal de Telemark) / Hamar e Lillehammer (Lago Mjøsa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Conjunto histórico de 8 conjuntos de eclusas (18 câmaras) escavadas na rocha em 1892, elevando os navios MS Henrik Ibsen e MS Victoria a 72 metros acima do nível do mar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.265,
+          59.282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-hamar-gjovik-lillehammer-ds-skibladner-mjosa-no",
+        "nome": "Píeres de Hamar, Gjøvik e Lillehammer — Lago Mjøsa (Vapor de Rodas DS Skibladner, 1856)",
+        "sistema_id": "ruter-oslofjord-electric-island-ferries-nesodden-basto-fosen-moss-horten-color-line-sandefjord-stromstad-telemark-canal-noruega",
+        "linha_id": "linha-canal-de-telemark-skien-ulefoss-dalen-lago-mjosa-hamar-gjovik-lillehammer-no",
+        "pais": "Noruega e Suécia",
+        "cidade": "Oslo (Aker Brygge) / Nesoddtangen / Moss / Horten / Sandefjord / Strömstad / Skien e Dalen (Canal de Telemark) / Hamar e Lillehammer (Lago Mjøsa)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Cais do maior lago da Noruega (Mjøsa), atendidos desde 1856 pelo 'Cisne Branco do Mjøsa' (DS Skibladner), o mais antigo navio a vapor de rodas em operação contínua no mundo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.062,
+          60.792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-visby-ferry-terminal-gotland-unesco-se",
+        "nome": "Visby Ferry Terminal — Capital da Ilha de Gotland (Destination Gotland)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-oresundslinjen-helsingborg-helsingor-bornholmslinjen-ystad-ronne-suecia-dinamarca",
+        "linha_id": "linha-destination-gotland-nynashamn-oskarshamn-visby-faro-lago-vattern-visingso-se",
+        "pais": "Suécia e Dinamarca",
+        "cidade": "Nynäshamn / Oskarshamn / Visby (Ilha de Gotland) / Helsingborg / Helsingør / Landskrona (Ilha de Ven) / Ystad / Rønne (Ilha de Bornholm) / Gränna (Visingsö)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Moderno terminal marítimo de Visby na Ilha de Gotland, conectado durante todo o ano aos fast ferries a GNL/biogás vindos de Nynäshamn e Oskarshamn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.288,
+          57.638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nynashamn-oskarshamn-gotland-terminals-se",
+        "nome": "Terminais de Nynäshamn (Grande Estocolmo) e Oskarshamn — Portos Continentais para Gotland",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-oresundslinjen-helsingborg-helsingor-bornholmslinjen-ystad-ronne-suecia-dinamarca",
+        "linha_id": "linha-destination-gotland-nynashamn-oskarshamn-visby-faro-lago-vattern-visingso-se",
+        "pais": "Suécia e Dinamarca",
+        "cidade": "Nynäshamn / Oskarshamn / Visby (Ilha de Gotland) / Helsingborg / Helsingør / Landskrona (Ilha de Ven) / Ystad / Rønne (Ilha de Bornholm) / Gränna (Visingsö)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminal intermodal de Nynäshamn (ligado diretamente à estação de trens suburbanos SL Pendeltåg de Estocolmo) e o porto sul de Oskarshamn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.952,
+          58.902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-granna-visingso-vattern-farosund-faro-trafikverket-se",
+        "nome": "Terminais de Gränna–Ilha de Visingsö (Lago Vättern) & Fårösund–Ilha de Fårö — Trafikverket Färjerederiet",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-oresundslinjen-helsingborg-helsingor-bornholmslinjen-ystad-ronne-suecia-dinamarca",
+        "linha_id": "linha-destination-gotland-nynashamn-oskarshamn-visby-faro-lago-vattern-visingso-se",
+        "pais": "Suécia e Dinamarca",
+        "cidade": "Nynäshamn / Oskarshamn / Visby (Ilha de Gotland) / Helsingborg / Helsingør / Landskrona (Ilha de Ven) / Ystad / Rønne (Ilha de Bornholm) / Gränna (Visingsö)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Populares travessias lacustres e insulares operadas pela Administração Sueca de Transportes (Trafikverket)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.462,
+          58.028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-helsingborg-knutpunkten-helsingor-oresundslinjen-se-dk",
+        "nome": "Helsingborg C (Knutpunkten, Suécia) & Helsingør St. (Dinamarca) — Öresundslinjen 100% Elétrica + Landskrona–Ven",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-oresundslinjen-helsingborg-helsingor-bornholmslinjen-ystad-ronne-suecia-dinamarca",
+        "linha_id": "linha-oresundslinjen-helsingborg-helsingor-ven-bornholmslinjen-ystad-ronne-se-dk",
+        "pais": "Suécia e Dinamarca",
+        "cidade": "Nynäshamn / Oskarshamn / Visby (Ilha de Gotland) / Helsingborg / Helsingør / Landskrona (Ilha de Ven) / Ystad / Rønne (Ilha de Bornholm) / Gränna (Visingsö)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais ferroviários-marítimos onde os ferries 100% elétricos Aurora e Tycho Brahe cruzam os 4 km do Øresund em 20 minutos com recarga robótica a laser."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.692,
+          56.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ystad-port-ronne-bornholm-island-se-dk",
+        "nome": "Portos de Ystad (Suécia) e Rønne (Ilha de Bornholm, Dinamarca) — Bornholmslinjen (HSC Express 5)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-oresundslinjen-helsingborg-helsingor-bornholmslinjen-ystad-ronne-suecia-dinamarca",
+        "linha_id": "linha-oresundslinjen-helsingborg-helsingor-ven-bornholmslinjen-ystad-ronne-se-dk",
+        "pais": "Suécia e Dinamarca",
+        "cidade": "Nynäshamn / Oskarshamn / Visby (Ilha de Gotland) / Helsingborg / Helsingør / Landskrona (Ilha de Ven) / Ystad / Rønne (Ilha de Bornholm) / Gränna (Visingsö)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ponte marítima de alta velocidade de 1h20 entre a Escânia sueca (Ystad) e a ilha dinamarquesa de Bornholm no Mar Báltico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.695,
+          55.098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-landeyjahofn-heimaey-vestmannaeyjar-herjolfur-is",
+        "nome": "Terminais de Landeyjahöfn e Heimaey (Vestmannaeyjar) — Ferry Elétrico Herjólfur IV (Islândia)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-grimsey-islandia-arctic-umiaq-line-sarfaq-ittuk-nuuk-sisimiut-ilulissat-groenlandia",
+        "linha_id": "linha-islandia-herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-is",
+        "pais": "Islândia e Dinamarca (Groenlândia)",
+        "cidade": "Landeyjahöfn / Heimaey (Vestmannaeyjar) / Stykkishólmur e Flatey / Dalvík e Grímsey (Islândia) / Qaqortoq / Nuuk / Maniitsoq / Sisimiut / Aasiaat / Ilulissat (Groenlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais com carregamento elétrico de alta potência que ligam a costa sul da Islândia à ilha vulcânica habitada de Heimaey (Ilhas Westman)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.272,
+          63.442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-stykkisholmur-flatey-brjanslaekur-baldur-ferry-is",
+        "nome": "Portos de Stykkishólmur, Ilha de Flatey & Brjánslækur — Ferry Baldur (Baía de Breiðafjörður, Islândia)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-grimsey-islandia-arctic-umiaq-line-sarfaq-ittuk-nuuk-sisimiut-ilulissat-groenlandia",
+        "linha_id": "linha-islandia-herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-is",
+        "pais": "Islândia e Dinamarca (Groenlândia)",
+        "cidade": "Landeyjahöfn / Heimaey (Vestmannaeyjar) / Stykkishólmur e Flatey / Dalvík e Grímsey (Islândia) / Qaqortoq / Nuuk / Maniitsoq / Sisimiut / Aasiaat / Ilulissat (Groenlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia cênica entre a Península de Snæfellsnes, a histórica Ilha de Flatey e os Fiordes Ocidentais (Westfjords) da Islândia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.728,
+          65.075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-dalvik-hrisey-grimsey-arctic-circle-ferry-is",
+        "nome": "Portos de Dalvík, Ilha de Hrísey & Ilha de Grímsey (Círculo Polar Ártico, 66°33'N) — Ferry Sæfari",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-grimsey-islandia-arctic-umiaq-line-sarfaq-ittuk-nuuk-sisimiut-ilulissat-groenlandia",
+        "linha_id": "linha-islandia-herjolfur-vestmannaeyjar-baldur-breidafjordur-saefari-grimsey-is",
+        "pais": "Islândia e Dinamarca (Groenlândia)",
+        "cidade": "Landeyjahöfn / Heimaey (Vestmannaeyjar) / Stykkishólmur e Flatey / Dalvík e Grímsey (Islândia) / Qaqortoq / Nuuk / Maniitsoq / Sisimiut / Aasiaat / Ilulissat (Groenlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Ligação marítima do norte da Islândia até Grímsey, único território islandês cortado pelo Círculo Polar Ártico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.015,
+          66.542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-nuuk-qaqortoq-paamiut-arctic-umiaq-greenland-gl",
+        "nome": "Porto de Nuuk (Capital da Groenlândia), Qaqortoq & Paamiut — Arctic Umiaq Line (Navio Sarfaq Ittuk)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-grimsey-islandia-arctic-umiaq-line-sarfaq-ittuk-nuuk-sisimiut-ilulissat-groenlandia",
+        "linha_id": "linha-arctic-umiaq-line-sarfaq-ittuk-qaqortoq-nuuk-maniitsoq-sisimiut-aasiaat-ilulissat-gl",
+        "pais": "Islândia e Dinamarca (Groenlândia)",
+        "cidade": "Landeyjahöfn / Heimaey (Vestmannaeyjar) / Stykkishólmur e Flatey / Dalvík e Grímsey (Islândia) / Qaqortoq / Nuuk / Maniitsoq / Sisimiut / Aasiaat / Ilulissat (Groenlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Porto da capital groenlandesa Nuuk e os portos meridionais atendidos semanalmente pelo navio costeiro Sarfaq Ittuk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.722,
+          64.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-ilulissat-aasiaat-sisimiut-disko-bay-greenland-gl",
+        "nome": "Portos de Ilulissat (Fiorde de Gelo UNESCO), Aasiaat & Sisimiut — Baía de Disko e Círculo Polar (Groenlândia)",
+        "sistema_id": "herjolfur-vestmannaeyjar-baldur-breidafjordur-grimsey-islandia-arctic-umiaq-line-sarfaq-ittuk-nuuk-sisimiut-ilulissat-groenlandia",
+        "linha_id": "linha-arctic-umiaq-line-sarfaq-ittuk-qaqortoq-nuuk-maniitsoq-sisimiut-aasiaat-ilulissat-gl",
+        "pais": "Islândia e Dinamarca (Groenlândia)",
+        "cidade": "Landeyjahöfn / Heimaey (Vestmannaeyjar) / Stykkishólmur e Flatey / Dalvík e Grímsey (Islândia) / Qaqortoq / Nuuk / Maniitsoq / Sisimiut / Aasiaat / Ilulissat (Groenlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais árticos de Sisimiut (segunda maior cidade da Groenlândia) e Ilulissat na Baía de Disko, atendidos pelo Sarfaq Ittuk e pelos barcos reforçados da Disko Line."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.102,
+          69.218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-virtsu-kuivastu-muhu-saaremaa-ts-laevad-ee",
+        "nome": "Terminais de Virtsu e Kuivastu (Ilhas de Muhu e Saaremaa) — TS Laevad Ferry Híbrido MS Tõll (Estônia)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-saaremaa-hiiumaa-estonia-smiltynes-perkela-klaipeda-nida-lituania-saimaa-savonlinna-kotka-finlandia",
+        "linha_id": "linha-ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-hiiumaa-kihnu-ee",
+        "pais": "Estônia, Lituânia e Finlândia",
+        "cidade": "Virtsu e Kuivastu (Muhu/Saaremaa) / Rohuküla e Heltermaa (Hiiumaa) / Ilha de Kihnu / Klaipėda e Nida (Lituânia) / Savonlinna, Lappeenranta e Kotka (Finlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Principal ponte marítima da Estônia, cruzando o Estreito de Suur entre o continente (Virtsu) e Kuivastu (ligada por calçada à maior ilha estoniana, Saaremaa) em 27 minutos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.388,
+          58.575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-rohukula-heltermaa-hiiumaa-vormsi-ports-ee",
+        "nome": "Terminais de Rohuküla (Haapsalu) e Heltermaa (Ilha de Hiiumaa) & Sviby (Ilha de Vormsi) — Estônia",
+        "sistema_id": "ts-laevad-kihnu-veeteed-saaremaa-hiiumaa-estonia-smiltynes-perkela-klaipeda-nida-lituania-saimaa-savonlinna-kotka-finlandia",
+        "linha_id": "linha-ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-hiiumaa-kihnu-ee",
+        "pais": "Estônia, Lituânia e Finlândia",
+        "cidade": "Virtsu e Kuivastu (Muhu/Saaremaa) / Rohuküla e Heltermaa (Hiiumaa) / Ilha de Kihnu / Klaipėda e Nida (Lituânia) / Savonlinna, Lappeenranta e Kotka (Finlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Terminais Ro-Pax que conectam o noroeste da Estônia às ilhas de Hiiumaa e Vormsi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.425,
+          58.905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-munalaid-kihnu-island-unesco-ferry-ee",
+        "nome": "Porto de Munalaid & Ilha de Kihnu (Patrimônio Cultural da UNESCO) — Kihnu Veeteed (Golfo de Riga)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-saaremaa-hiiumaa-estonia-smiltynes-perkela-klaipeda-nida-lituania-saimaa-savonlinna-kotka-finlandia",
+        "linha_id": "linha-ts-laevad-kihnu-veeteed-virtsu-kuivastu-saaremaa-rohukula-hiiumaa-kihnu-ee",
+        "pais": "Estônia, Lituânia e Finlândia",
+        "cidade": "Virtsu e Kuivastu (Muhu/Saaremaa) / Rohuküla e Heltermaa (Hiiumaa) / Ilha de Kihnu / Klaipėda e Nida (Lituânia) / Savonlinna, Lappeenranta e Kotka (Finlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia do ferry quebra-gelo Kihnu Virve para a histórica Ilha de Kihnu e Ilha de Manilaid no Golfo de Riga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.985,
+          58.142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-klaipeda-smiltyne-nida-curonian-spit-ferry-lt",
+        "nome": "Terminais de Klaipėda–Smiltynė (Antiga e Nova Travessia) & Porto de Nida — Istmo e Laguna da Curlândia (Lituânia)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-saaremaa-hiiumaa-estonia-smiltynes-perkela-klaipeda-nida-lituania-saimaa-savonlinna-kotka-finlandia",
+        "linha_id": "linha-klaipeda-smiltyne-nida-laguna-curlandia-lituania-lago-saimaa-savonlinna-kotka-lt-fi",
+        "pais": "Estônia, Lituânia e Finlândia",
+        "cidade": "Virtsu e Kuivastu (Muhu/Saaremaa) / Rohuküla e Heltermaa (Hiiumaa) / Ilha de Kihnu / Klaipėda e Nida (Lituânia) / Savonlinna, Lappeenranta e Kotka (Finlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Travessia urbana e Ro-Pax da Smiltynės Perkėla para o Parque Nacional do Istmo da Curlândia (UNESCO) e catamarãs da Laguna da Curlândia em Nida."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.122,
+          55.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est-savonlinna-lappeenranta-saimaa-kotka-sapokka-fi",
+        "nome": "Portos Lacustres de Savonlinna e Lappeenranta (Lago Saimaa) & Marina Sapokka em Kotka (Finlândia)",
+        "sistema_id": "ts-laevad-kihnu-veeteed-saaremaa-hiiumaa-estonia-smiltynes-perkela-klaipeda-nida-lituania-saimaa-savonlinna-kotka-finlandia",
+        "linha_id": "linha-klaipeda-smiltyne-nida-laguna-curlandia-lituania-lago-saimaa-savonlinna-kotka-lt-fi",
+        "pais": "Estônia, Lituânia e Finlândia",
+        "cidade": "Virtsu e Kuivastu (Muhu/Saaremaa) / Rohuküla e Heltermaa (Hiiumaa) / Ilha de Kihnu / Klaipėda e Nida (Lituânia) / Savonlinna, Lappeenranta e Kotka (Finlândia)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "resumo_pt": "Históricos vapores e navios de passageiros do maior lago da Finlândia (Saimaa, ao lado do Castelo de Olavinlinna) e as barcas de Kotka para as ilhas do Golfo da Finlândia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.885,
+          61.868
+        ]
+      }
     }
   ]
 }
