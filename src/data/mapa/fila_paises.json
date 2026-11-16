@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T04:14:00-03:00",
+  "atualizado_em": "2026-11-16T04:44:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2537,6 +2537,22 @@
         "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
         "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil"
       ]
+    },
+    {
+      "ordem": 176,
+      "codigo": "HIDRO-OCEANIA-PACIFICO-AUSTRALIA-NOVA-ZELANDIA-FIJI-SAMOA-TONGA-V",
+      "pais": "Fase Hidroviária Mundial #64 — Oceania: Estreito de Bass, Golfo de Hauraki, Fiji, Tonga, Vanuatu e Ilhas Salomão V (Spirit of Tasmania Geelong–Devonport no Estreito de Bass e Rottnest Express / SeaLink Perth/Fremantle–Rottnest Island na Austrália; Fullers360 & SeaLink Auckland–Waiheke–Rangitoto–Tiritiri Matangi no Golfo de Hauraki e Stewart Island Ferry Bluff–Oban na Nova Zelândia; South Sea Cruises & Yasawa Flyer Port Denarau–Ilhas Mamanuca–Arquipélago de Yasawa em Fiji; Friendly Islands Shipping Agency FISA MV 'Otuanga'ofa Nuku'alofa–'Eua–Ha'apai–Vava'u–Niuas em Tonga; e Pelican Express / Aelan Bae Honiara–Auki–Gizo nas Ilhas Salomão e Big Sista / Vanuatu Ferry Port Vila–Santo–Tanna em Vanuatu)",
+      "continente": "Oceania",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 180,
+      "sistemas_adicionados": [
+        "spirit-of-tasmania-geelong-devonport-bass-strait-rottnest-express-sealink-fremantle-perth-rottnest-island-australia",
+        "fullers360-island-direct-hauraki-gulf-auckland-waiheke-matiatia-kennedy-point-rangitoto-tiritiri-matangi-stewart-island-bluff-oban-nova-zelandia",
+        "south-sea-cruises-awesome-adventures-yasawa-flyer-port-denarau-mamanuca-malolo-castaway-mana-yasawa-islands-fiji",
+        "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
+        "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2684,14 +2700,6 @@
         "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
         "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao"
       ]
-    },
-    {
-      "ordem": 176,
-      "codigo": "HIDRO-OCEANIA-PACIFICO-AUSTRALIA-NOVA-ZELANDIA-FIJI-SAMOA-TONGA-V",
-      "pais": "Fase Hidroviária Mundial #64 — Oceania: Estreito de Bass, Golfo de Hauraki, Fiji, Tonga, Vanuatu e Ilhas Salomão V",
-      "continente": "Oceania",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (Spirit of Tasmania Geelong–Devonport no Estreito de Bass e Rottnest Express Fremantle–Rottnest Island na Austrália; Fullers360 Waiheke, Rangitoto e Tiritiri Matangi no Golfo de Hauraki e Stewart Island Ferry Bluff–Oban na Nova Zelândia; South Sea Cruises Port Denarau–Mamanuca & Yasawa Islands em Fiji; Friendly Islands Shipping Nuku'alofa–'Eua–Ha'apai–Vava'u em Tonga; e Pelican Express / Aelan Bae Honiara–Auki–Gizo nas Ilhas Salomão e Port Vila–Tanna/Santo em Vanuatu)"
     },
     {
       "ordem": 177,
