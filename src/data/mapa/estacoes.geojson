@@ -70473,6 +70473,456 @@
           43.6019
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-kot-e1",
+        "nome": "Kamenari Ferry Terminal — Estreito de Verige (Herceg Novi, Baía de Kotor, Montenegro)",
+        "sistema_id": "morsko-dobro-boka-bay-ferry-kamenari-lepetane-kotor-perast-herceg-novi-tivat-baia-de-kotor-montenegro",
+        "linha_id": "hidro-ece78-kot-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6725,
+          42.4669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-kot-e2",
+        "nome": "Lepetane Ferry Terminal — Estreito de Verige (Tivat, Baía de Kotor, Montenegro)",
+        "sistema_id": "morsko-dobro-boka-bay-ferry-kamenari-lepetane-kotor-perast-herceg-novi-tivat-baia-de-kotor-montenegro",
+        "linha_id": "hidro-ece78-kot-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6819,
+          42.4656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-bel-e3",
+        "nome": "Luka Kotor Passenger & Bella Boka Solar Boat Pier (Cidade Murada UNESCO de Kotor, Montenegro)",
+        "sistema_id": "morsko-dobro-boka-bay-ferry-kamenari-lepetane-kotor-perast-herceg-novi-tivat-baia-de-kotor-montenegro",
+        "linha_id": "hidro-ece78-bel-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7689,
+          42.4242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-bel-e4",
+        "nome": "Perast Waterfront & Ilha Gospa od Škrpjela (Nossa Senhora das Rochas, Baía de Kotor)",
+        "sistema_id": "morsko-dobro-boka-bay-ferry-kamenari-lepetane-kotor-perast-herceg-novi-tivat-baia-de-kotor-montenegro",
+        "linha_id": "hidro-ece78-bel-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6969,
+          42.4856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-bel-e5",
+        "nome": "Pine Waterfront Tivat & Škver Harbour Herceg Novi (Baía de Kotor, Montenegro)",
+        "sistema_id": "morsko-dobro-boka-bay-ferry-kamenari-lepetane-kotor-perast-herceg-novi-tivat-baia-de-kotor-montenegro",
+        "linha_id": "hidro-ece78-bel-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6939,
+          42.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-ohr-e1",
+        "nome": "Ohrid Central Lake Port — Kapetanija na Pristaništa (Lago de Ohrid, Macedônia do Norte)",
+        "sistema_id": "lake-ohrid-prespa-skadar-navigation-ohrid-sveti-naum-struga-pogradec-virpazar-rijeka-crnojevica-macedonia-do-norte-albania-montenegro",
+        "linha_id": "hidro-ece78-ohr-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7989,
+          41.1119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-ohr-e2",
+        "nome": "Sveti Naum Monastery Pier & Peštani / Bay of Bones (Sul do Lago de Ohrid, Macedônia do Norte)",
+        "sistema_id": "lake-ohrid-prespa-skadar-navigation-ohrid-sveti-naum-struga-pogradec-virpazar-rijeka-crnojevica-macedonia-do-norte-albania-montenegro",
+        "linha_id": "hidro-ece78-ohr-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7406,
+          40.9139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-ohr-e3",
+        "nome": "Pogradec Lakefront Pier (Albânia) & Struga Port (Macedônia do Norte — Lago de Ohrid)",
+        "sistema_id": "lake-ohrid-prespa-skadar-navigation-ohrid-sveti-naum-struga-pogradec-virpazar-rijeka-crnojevica-macedonia-do-norte-albania-montenegro",
+        "linha_id": "hidro-ece78-ohr-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6589,
+          40.9025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-ska-e4",
+        "nome": "Virpazar Rail-Lake Harbour (Parque Nacional do Lago Skadar / Ferrovia Belgrado–Bar, Montenegro)",
+        "sistema_id": "lake-ohrid-prespa-skadar-navigation-ohrid-sveti-naum-struga-pogradec-virpazar-rijeka-crnojevica-macedonia-do-norte-albania-montenegro",
+        "linha_id": "hidro-ece78-ska-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0919,
+          42.2456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-ska-e5",
+        "nome": "Rijeka Crnojevića Historic Pier (Montenegro) & Shiroka / Shkodër (Lago Skadar, Albânia)",
+        "sistema_id": "lake-ohrid-prespa-skadar-navigation-ohrid-sveti-naum-struga-pogradec-virpazar-rijeka-crnojevica-macedonia-do-norte-albania-montenegro",
+        "linha_id": "hidro-ece78-ska-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0425,
+          42.3556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-dan-e1",
+        "nome": "Bechet (Romênia) ↔ Oryahovo (Bulgária) International Danube Ferry Terminal",
+        "sistema_id": "lower-danube-ro-pax-ferries-bechet-oryahovo-calafat-vidin-turnu-magurele-nikopol-silistra-calarasi-galati-icba-romenia-bulgaria-ucrania",
+        "linha_id": "hidro-ece78-dan-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.945,
+          43.7489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-dan-e2",
+        "nome": "Turnu Măgurele (RO) ↔ Nikopol (BG) & Zimnicea ↔ Svishtov Danube Ferry Terminals",
+        "sistema_id": "lower-danube-ro-pax-ferries-bechet-oryahovo-calafat-vidin-turnu-magurele-nikopol-silistra-calarasi-galati-icba-romenia-bulgaria-ucrania",
+        "linha_id": "hidro-ece78-dan-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8856,
+          43.7119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-dan-e3",
+        "nome": "Chiciu / Călărași (RO) ↔ Ostrov / Silistra (BG) Danube Ro-Pax Terminal",
+        "sistema_id": "lower-danube-ro-pax-ferries-bechet-oryahovo-calafat-vidin-turnu-magurele-nikopol-silistra-calarasi-galati-icba-romenia-bulgaria-ucrania",
+        "linha_id": "hidro-ece78-dan-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2789,
+          44.1325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-isa-e4",
+        "nome": "Trecere Bac Galați ↔ I.C. Brătianu (Navrom Bac, Confluência Siret–Danúbio, Romênia)",
+        "sistema_id": "lower-danube-ro-pax-ferries-bechet-oryahovo-calafat-vidin-turnu-magurele-nikopol-silistra-calarasi-galati-icba-romenia-bulgaria-ucrania",
+        "linha_id": "hidro-ece78-isa-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0356,
+          45.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-isa-e5",
+        "nome": "Terminal Internacional de Ferries Isaccea (Tulcea, Romênia) ↔ Orlivka (Odesa, Ucrânia)",
+        "sistema_id": "lower-danube-ro-pax-ferries-bechet-oryahovo-calafat-vidin-turnu-magurele-nikopol-silistra-calarasi-galati-icba-romenia-bulgaria-ucrania",
+        "linha_id": "hidro-ece78-isa-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4689,
+          45.2789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-hun-e1",
+        "nome": "BKK D14 Ferry Terminals — Csepel-Királyerdő ↔ Soroksár Molnár-sziget (Sul de Budapeste, Hungria)",
+        "sistema_id": "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
+        "linha_id": "hidro-ece78-hun-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0925,
+          47.4025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-hun-e2",
+        "nome": "Visegrád – Nagymaros & Vác – Tahitótfalu Danube Bend Ferry Terminals (Pest, Hungria)",
+        "sistema_id": "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
+        "linha_id": "hidro-ece78-hun-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9669,
+          47.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-hun-e3",
+        "nome": "Mohács – Újmohács Danube Ro-Pax Ferry Terminal (Baranya, Sul da Hungria)",
+        "sistema_id": "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
+        "linha_id": "hidro-ece78-hun-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.695,
+          45.9925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-tis-e4",
+        "nome": "Tiszacsege – Ároktő Ferry Terminal (Parque Nacional de Hortobágy, Rio Tisza, Hungria)",
+        "sistema_id": "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
+        "linha_id": "hidro-ece78-tis-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9625,
+          47.6989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-tis-e5",
+        "nome": "Tiszatardos – Tiszalök Ferry & Tokaj River Port (Região Vinícola UNESCO de Tokaj, Rio Tisza)",
+        "sistema_id": "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
+        "linha_id": "hidro-ece78-tis-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4025,
+          48.0319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-maz-e1",
+        "nome": "Port Żeglugi Mazurskiej w Giżycku & Ponte Giratória do Canal Łuczański (Lago Niegocin, Masúria, Polônia)",
+        "sistema_id": "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia",
+        "linha_id": "hidro-ece78-maz-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7669,
+          54.0319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-maz-e2",
+        "nome": "Port Mikołajki — Capital da Vela da Masúria (Lago Mikołajskie / Lago Śniardwy, Polônia)",
+        "sistema_id": "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia",
+        "linha_id": "hidro-ece78-maz-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5719,
+          53.8025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-maz-e3",
+        "nome": "Port Ruciane-Nida & Eclusas de Guzianka I e II (Lago Bełdany, Masúria, Polônia)",
+        "sistema_id": "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia",
+        "linha_id": "hidro-ece78-maz-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5519,
+          53.6556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-elb-e4",
+        "nome": "Pochylnia Buczyniec — Plano Inclinado Ferro-Hidroviário Principal do Canal de Elbląg (1860, Polônia)",
+        "sistema_id": "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia",
+        "linha_id": "hidro-ece78-elb-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5919,
+          53.9819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-elb-e5",
+        "nome": "Przystań Żeglugi Ostródzko-Elbląskiej (Portos de Elbląg e Ostróda, Vármia-Masúria, Polônia)",
+        "sistema_id": "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia",
+        "linha_id": "hidro-ece78-elb-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3956,
+          54.1589
+        ]
+      }
     }
   ]
 }
