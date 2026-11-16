@@ -68673,6 +68673,456 @@
           10.675
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-prn-e1",
+        "nome": "Rampa e Terminal Náutico de Porto Rico (Alto Rio Paraná, Paraná)",
+        "sistema_id": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+        "linha_id": "hidro-bra13-prn-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2669,
+          -22.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-prn-e2",
+        "nome": "Orla e Píer de Porto São José (São Pedro do Paraná, Paraná)",
+        "sistema_id": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+        "linha_id": "hidro-bra13-prn-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1756,
+          -22.7189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-prn-e3",
+        "nome": "Porto Brasílio — Querência do Norte & Travessia da Ilha Mutum (Alto Paraná, PR)",
+        "sistema_id": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+        "linha_id": "hidro-bra13-prn-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3519,
+          -22.885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-gua-e4",
+        "nome": "Terminal Fluvial de Porto Camargo — Portal do Parque Nacional de Ilha Grande (Icaraíma, PR)",
+        "sistema_id": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+        "linha_id": "hidro-bra13-gua-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7439,
+          -23.3689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-gua-e5",
+        "nome": "Porto Internacional de Balsas de Guaíra (PR) ↔ Salto del Guairá (Paraguai)",
+        "sistema_id": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+        "linha_id": "hidro-bra13-gua-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2589,
+          -24.0819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-pat-e1",
+        "nome": "Porto de Pelotas & Doca do Mercado / Canal São Gonçalo (Pelotas, Rio Grande do Sul)",
+        "sistema_id": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+        "linha_id": "hidro-bra13-pat-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3319,
+          -31.7819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-pat-e2",
+        "nome": "Trapiche da Ilha da Torotama & Colônia de Pescadores Z3 (Lagoa dos Patos Sul, RS)",
+        "sistema_id": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+        "linha_id": "hidro-bra13-pat-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.235,
+          -31.915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-pat-e3",
+        "nome": "Trapiche Municipal de São Lourenço do Sul — Foz do Arroio São Lourenço (Lagoa dos Patos, RS)",
+        "sistema_id": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+        "linha_id": "hidro-bra13-pat-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9756,
+          -31.3689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-pat-e4",
+        "nome": "Trapiches Lagunares de Tapes e Arambaré (Costa Doce, Lagoa dos Patos, RS)",
+        "sistema_id": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+        "linha_id": "hidro-bra13-pat-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3919,
+          -30.6725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-mir-e5",
+        "nome": "Porto de Santa Vitória do Palmar / Santa Isabel do Sul (Hidrovia da Lagoa Mirim, RS)",
+        "sistema_id": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+        "linha_id": "hidro-bra13-mir-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.395,
+          -33.5189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-par-e1",
+        "nome": "Cais de Turismo de Paraty — Centro Histórico UNESCO (Baía de Paraty, RJ)",
+        "sistema_id": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+        "linha_id": "hidro-bra13-par-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.7106,
+          -23.2208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-par-e2",
+        "nome": "Cais de Paraty-Mirim & Comunidades do Saco do Mamanguá / Cruzeiro (Paraty, RJ)",
+        "sistema_id": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+        "linha_id": "hidro-bra13-par-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6056,
+          -23.2689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-par-e3",
+        "nome": "Atracadouros Caiçaras de Pouso da Cajaíba, Ponta Negra e Praia do Sono (Reserva da Juatinga, Paraty)",
+        "sistema_id": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+        "linha_id": "hidro-bra13-par-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5425,
+          -23.2469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-jag-e4",
+        "nome": "Cais Municipal de Itacuruçá (Mangaratiba, Baía de Sepetiba, RJ)",
+        "sistema_id": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+        "linha_id": "hidro-bra13-jag-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.8906,
+          -22.9419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-jag-e5",
+        "nome": "Píeres da Ilha de Jaguanum (Praia da Pitangueira / Estopa) e Ilha de Itacuruçá (Mangaratiba, RJ)",
+        "sistema_id": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+        "linha_id": "hidro-bra13-jag-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9269,
+          -23.0019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-toc-e1",
+        "nome": "Terminal Hidroviário de Abaetetuba & Píer das 72 Ilhas (Baixo Tocantins, Pará)",
+        "sistema_id": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+        "linha_id": "hidro-bra13-toc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8825,
+          -1.7219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-toc-e2",
+        "nome": "Terminal Hidroviário de Igarapé-Miri & Limoeiro do Ajuru (CPH, Baixo Tocantins, PA)",
+        "sistema_id": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+        "linha_id": "hidro-bra13-toc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9594,
+          -1.9756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-toc-e3",
+        "nome": "Terminal Hidroviário de Cametá & Rampa de Balsas de Carapajó (Rio Tocantins, Pará)",
+        "sistema_id": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+        "linha_id": "hidro-bra13-toc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4956,
+          -2.2439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-tuc-e4",
+        "nome": "Terminais Hidroviários de Mocajuba e Baião (CPH, Rio Tocantins, Pará)",
+        "sistema_id": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+        "linha_id": "hidro-bra13-tuc-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5056,
+          -2.5839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-tuc-e5",
+        "nome": "Terminal Hidroviário e Eclusas de Tucuruí (Rio Tocantins, Pará)",
+        "sistema_id": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+        "linha_id": "hidro-bra13-tuc-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6725,
+          -3.7669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-ita-e1",
+        "nome": "Píer de Travessia da Praça do Marco Zero & Cais das Cinco Pontas (Recife Antigo / Rio Capibaribe, PE)",
+        "sistema_id": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+        "linha_id": "hidro-bra13-ita-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8711,
+          -8.0631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-ita-e2",
+        "nome": "Píer do Parque das Esculturas Francisco Brennand (Arrecifes do Porto do Recife, PE)",
+        "sistema_id": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+        "linha_id": "hidro-bra13-ita-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8686,
+          -8.0639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-ita-e3",
+        "nome": "Atracadouros do Forte Orange (Ilha de Itamaracá), Ilha da Coroa do Avião e Nova Cruz (Igarassu, PE)",
+        "sistema_id": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+        "linha_id": "hidro-bra13-ita-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8389,
+          -7.8119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-sir-e4",
+        "nome": "Píer de Barra de Sirinhaém & Atracadouro da Ilha de Santo Aleixo (Sirinhaém, Litoral Sul de PE)",
+        "sistema_id": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+        "linha_id": "hidro-bra13-sir-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0556,
+          -8.6089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-sir-e5",
+        "nome": "Píeres Fluvio-Marinhos de Praia dos Carneiros, Guadalupe e Rio Formoso (Tamandaré / Rio Formoso, PE)",
+        "sistema_id": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+        "linha_id": "hidro-bra13-sir-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0856,
+          -8.7056
+        ]
+      }
     }
   ]
 }

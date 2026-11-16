@@ -52713,5 +52713,328 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+    "slug": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+    "nome_pt": "Travessias Hidroviárias do Alto Rio Paraná e Parque Nacional de Ilha Grande — Porto Rico, Porto São José, Porto Camargo (Icaraíma), Querência do Norte e Guaíra (PR / MS)",
+    "nome_en": "Upper Paraná River & Ilha Grande National Park Ferries — Porto Rico, Porto São José, Porto Camargo (Icaraíma), Querência do Norte & Guaíra (PR / MS, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Porto Rico / São Pedro do Paraná (Porto São José) / Querência do Norte / Icaraíma (Porto Camargo) / Guaíra / Mundo Novo",
+    "uf": "PR / MS",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Operadores Hidroviários e Balsas do Alto Rio Paraná / Travessia Internacional Guaíra–Salto del Guairá",
+    "inauguracao": "1965",
+    "extensao_km": 165,
+    "bitola": "N/A (Hidrovia Fluvial Interior da Bacia do Rio Paraná — Lanchas de Passageiros e Balsas Ro-Pax)",
+    "eletrificacao": "Lanchas Rápidas de Alumínio e Balsas Fluviais de Veículos e Cargas",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 3400,
+    "ano_referencia": 2026,
+    "investimento": "R$ 32 milhões (requalificação das orlas e rampas náuticas de Porto Rico, Porto São José, Porto Camargo e Guaíra pelo Governo do Paraná e Itaipu Binacional)",
+    "proximas_entregas": "Novos atracadouros flutuantes de apoio ao transporte insular na APA das Ilhas e Várzeas do Rio Paraná",
+    "resumo_pt": "Corredor de navegação e travessias no último trecho de águas correntes livres de barragens do Rio Paraná em território brasileiro (entre a foz do Rio Paranapanema e o reservatório de Itaipu): em Porto Rico, Porto São José (São Pedro do Paraná) e Porto Brasílio (Querência do Norte), dezenas de lanchas de passageiros realizam a ligação contínua com a Ilha Mutum, Ilha Santa Rosa e bancos de areia do Alto Paraná; mais ao sul, Porto Camargo (Icaraíma) conecta o Parque Nacional de Ilha Grande e o Mato Grosso do Sul, enquanto em Guaíra (PR) operam as balsas e lanchas internacionais para Salto del Guairá (Paraguai).",
+    "resumo_en": "River navigation and ferry crossings along the last free-flowing stretch of the Upper Paraná River in Brazil: at Porto Rico, Porto São José, and Querência do Norte, passenger launches connect mainland Paraná with Mutum Island and Santa Rosa Island; further downstream, Porto Camargo (Icaraíma) serves Ilha Grande National Park, while Guaíra hosts international Ro-Pax ferries across to Salto del Guairá (Paraguay).",
+    "lat": -22.7725,
+    "lon": -53.2669,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "antaq-gov-br",
+      "portos-pr-gov-br"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "balsa",
+      "rio-parana",
+      "porto-rico",
+      "porto-sao-jose",
+      "porto-camargo",
+      "ilha-grande-pr",
+      "guaira",
+      "parana",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-bra13-prn-l1",
+        "nome": "Polo Hidroviário de Porto Rico e Querência do Norte (Porto Rico ↔ Ilha Mutum ↔ Porto São José ↔ Porto Brasílio / MS)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 65,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-bra13-gua-l2",
+        "nome": "Eixo Parque Nacional de Ilha Grande e Fronteira (Porto Camargo Icaraíma ↔ Ilha Grande ↔ Guaíra PR ↔ Salto del Guairá PY)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 100,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+    "slug": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+    "nome_pt": "Hidrovia e Travessias da Lagoa dos Patos, Canal São Gonçalo e Lagoa Mirim — Pelotas, Ilha da Torotama, São Lourenço do Sul, Tapes e Santa Vitória do Palmar (RS)",
+    "nome_en": "Lagoa dos Patos, São Gonçalo Channel & Merín Lagoon Waterways — Pelotas, Torotama Island, São Lourenço do Sul, Tapes & Santa Vitória do Palmar (RS, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Pelotas / Rio Grande (Ilha da Torotama) / São Lourenço do Sul / Tapes / Arambaré / Santa Vitória do Palmar",
+    "uf": "RS",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Portos RS / Operadores Hidroviários da Lagoa dos Patos, Canal São Gonçalo e Hidrovia Brasil–Uruguai",
+    "inauguracao": "1875",
+    "extensao_km": 320,
+    "bitola": "N/A (Hidrovia Lagunar Interior do Mercosul — Barcas de Passageiros, Catamarãs e Embarcações Lagunares)",
+    "eletrificacao": "Lanchas e Barcas de Passageiros e Embarcações Fluvio-Lagunares",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 2800,
+    "ano_referencia": 2026,
+    "investimento": "R$ 65 milhões (dragagem e sinalização da Hidrovia Brasil–Uruguai na Lagoa Mirim e Canal São Gonçalo e requalificação do Porto de Pelotas e trapiches de São Lourenço do Sul e Torotama)",
+    "proximas_entregas": "Implantação de novas conexões de catamarãs de passageiros entre Pelotas, São Lourenço do Sul e Rio Grande",
+    "resumo_pt": "Rede de navegação interior e travessias comunitárias na maior laguna estrangulada do planeta (Lagoa dos Patos, com 265 km de extensão) e na hidrovia binacional da Lagoa Mirim no sul do Rio Grande do Sul: na região de Pelotas e Rio Grande, as embarcações cruzam o Canal São Gonçalo e o Saco da Mangueira atendendo o Porto de Pelotas, a Colônia Z3, a Ilha dos Marinheiros e a Ilha da Torotama; na margem ocidental da laguna, destacam-se os trapiches de São Lourenço do Sul, Arambaré e Enseada de Tapes, enquanto ao sul o Canal São Gonçalo conecta a Lagoa Mirim até Santa Vitória do Palmar (Porto de Santa Isabel).",
+    "resumo_en": "Inland lagoon waterway and island crossings across southern Brazil's giant Lagoa dos Patos (265 km long) and the binational Merín Lagoon (Lagoa Mirim): around Pelotas and Rio Grande, boats link Pelotas Port, Colônia Z3, Marinheiros Island, and Torotama Island alongside the western lagoon ports of São Lourenço do Sul, Arambaré, and Tapes, while the São Gonçalo Channel extends navigation south into Lagoa Mirim to Santa Vitória do Palmar.",
+    "lat": -31.7719,
+    "lon": -52.3425,
+    "zoom_inicial": 7.4,
+    "fontes": [
+      "portosrs-com-br",
+      "antaq-gov-br"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "lagoa-dos-patos",
+      "pelotas",
+      "sao-lourenco-do-sul",
+      "tapes",
+      "canal-sao-goncalo",
+      "lagoa-mirim",
+      "rio-grande-do-sul",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-bra13-pat-l1",
+        "nome": "Eixo Centro-Sul da Lagoa dos Patos (Porto de Pelotas ↔ Colônia Z3 / Ilha da Torotama ↔ São Lourenço do Sul ↔ Arambaré / Tapes)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 165,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-bra13-mir-l2",
+        "nome": "Hidrovia do Canal São Gonçalo e Lagoa Mirim (Porto de Pelotas ↔ Eclusa / Barragem do Centurião ↔ Porto de Santa Vitória do Palmar)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 155,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+    "slug": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+    "nome_pt": "Travessias Costeiras de Paraty (Saco do Mamanguá, Pouso da Cajaíba e Praia do Sono) e Ilhas de Mangaratiba (Itacuruçá ↔ Ilha de Jaguanum e Ilha de Itacuruçá, RJ)",
+    "nome_en": "Paraty Coastal Ferries (Saco do Mamanguá Fjord, Pouso da Cajaíba & Praia do Sono) & Mangaratiba Island Boats (Itacuruçá ↔ Jaguanum & Itacuruçá Islands, RJ, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Paraty (Centro Histórico / Paraty-Mirim / Saco do Mamanguá / Trindade) / Mangaratiba (Itacuruçá / Ilha de Jaguanum)",
+    "uf": "RJ",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Associações de Barqueiros e Transporte Escolar/Comunitário de Paraty-Mirim, Cais de Paraty e Itacuruçá (Mangaratiba)",
+    "inauguracao": "1950",
+    "extensao_km": 135,
+    "bitola": "N/A (Hidrovia Costeira Caiçara de Baías Abrigadas — Baleeiras, Escunas e Lanchas Rápidas Taxi-Boat)",
+    "eletrificacao": "Embarcações Tradicionais Caiçaras, Lanchas Rápidas Flexboat e Barcos Escolares Municipais",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 4900,
+    "ano_referencia": 2026,
+    "investimento": "R$ 24 milhões (reforma do Cais de Turismo de Paraty — Patrimônio Mundial da UNESCO — e dos píeres de Itacuruçá e Ilha de Jaguanum em Mangaratiba)",
+    "proximas_entregas": "Implantação de barcos híbridos-solares para o transporte escolar das comunidades costeiras da Juatinga e Mamanguá",
+    "resumo_pt": "Essencial rede de transporte público marítimo para dezenas de comunidades caiçaras e insulares sem estradas na Costa Verde do estado do Rio de Janeiro: no extremo sul, a partir do Cais Histórico de Paraty, de Paraty-Mirim e do Oratório/Trindade, barcos de linha e lanchas rápidas conectam diariamente o Saco do Mamanguá (único fiorde tropical da costa brasileira, com 8 km de extensão), o Pouso da Cajaíba, Ponta Negra, Praia do Sono e Ilha do Araújo; no norte da Baía da Ilha Grande / Baía de Sepetiba (município de Mangaratiba), as lanchas de Itacuruçá e Muriqui garantem a ligação permanente com a Ilha de Jaguanum e a Ilha de Itacuruçá.",
+    "resumo_en": "Essential public marine transport network serving roadless caiçara and island communities along Rio de Janeiro's Costa Verde: in Paraty (a UNESCO World Heritage Site), daily passenger boats and water taxis from Paraty Pier and Paraty-Mirim connect the 8 km Saco do Mamanguá tropical fjord, Pouso da Cajaíba, Ponta Negra, Praia do Sono, and Araújo Island; in Mangaratiba, regular boats from Itacuruçá Pier link the inhabited islands of Jaguanum and Itacuruçá.",
+    "lat": -23.22,
+    "lon": -44.65,
+    "zoom_inicial": 8.8,
+    "fontes": [
+      "paraty-rj-gov-br",
+      "mangaratiba-rj-gov-br"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "paraty",
+      "saco-do-mamangua",
+      "juatinga",
+      "trindade",
+      "mangaratiba",
+      "itacuruca",
+      "ilha-de-jaguanum",
+      "rio-de-janeiro",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-bra13-par-l1",
+        "nome": "Circuito Caiçara de Paraty e Reserva da Juatinga (Cais de Paraty ↔ Ilha do Araújo ↔ Paraty-Mirim ↔ Saco do Mamanguá ↔ Pouso da Cajaíba ↔ Praia do Sono)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 85,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-bra13-jag-l2",
+        "nome": "Travessias Insulares de Mangaratiba e Baía de Sepetiba (Cais de Itacuruçá / Muriqui ↔ Ilha de Itacuruçá ↔ Ilha de Jaguanum)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 50,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+    "slug": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+    "nome_pt": "Hidrovia de Passageiros e Lanchas Expressas do Baixo Rio Tocantins — Belém, Abaetetuba, Igarapé-Miri, Cametá, Limoeiro do Ajuru, Mocajuba, Baião e Tucuruí (PA)",
+    "nome_en": "Lower Tocantins River Passenger Waterway & Express Launches — Belém, Abaetetuba, Igarapé-Miri, Cametá, Limoeiro do Ajuru, Mocajuba, Baião & Tucuruí (Pará, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Belém / Abaetetuba / Igarapé-Miri / Cametá / Limoeiro do Ajuru / Mocajuba / Baião / Tucuruí",
+    "uf": "PA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "CPH Pará / Expresso Marques / Navegação Ouro Verde / Expresso Golfinho / Cooperativas das 72 Ilhas de Abaetetuba",
+    "inauguracao": "1910",
+    "extensao_km": 380,
+    "bitola": "N/A (Hidrovia Fluvial Amazônica de Grande Porte — Lanchas Expressas de Alumínio, Navios Mistos e Balsas Ro-Pax)",
+    "eletrificacao": "Lanchas Expressas de Alta Velocidade (28–32 nós), Navios de Passageiros e Rodo-Fluvial (Alça Viária / Cametá)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 19500,
+    "ano_referencia": 2026,
+    "investimento": "R$ 95 milhões (novos Terminais Hidroviários da CPH em Cametá, Abaetetuba, Mocajuba, Baião, Limoeiro do Ajuru e Igarapé-Miri no Estado do Pará)",
+    "proximas_entregas": "Operação plena das Eclusas de Tucuruí e novos terminais fluviais climatizados no Baixo Tocantins",
+    "resumo_pt": "Um dos maiores corredores de transporte fluvial diário de passageiros da Amazônia: partindo do Terminal Hidroviário de Belém, dos portos da Cidade Velha e do Terminal Hidroviário de Abaetetuba (que centraliza o movimento de rabetas e barcos das suas 72 ilhas ribeirinhas), dezenas de lanchas expressas climatizadas e navios regionais sobem diariamente o caudaloso Baixo Rio Tocantins atendendo Igarapé-Miri, a histórica cidade de Cametá (incluindo a travessia de balsas Carapajó–Cametá), Limoeiro do Ajuru, Mocajuba e Baião até o pé da Usina e Eclusas de Tucuruí.",
+    "resumo_en": "One of the Amazon's busiest daily river passenger corridors: from Belém's Waterway Terminals and the river hub of Abaetetuba (serving 72 river islands), high-speed air-conditioned aluminum launches and regional vessels sail daily up the Lower Tocantins River to Igarapé-Miri, historic Cametá (including the Carapajó–Cametá vehicle ferry), Limoeiro do Ajuru, Mocajuba, and Baião up to Tucuruí Locks.",
+    "lat": -2.2439,
+    "lon": -49.4956,
+    "zoom_inicial": 7.4,
+    "fontes": [
+      "cph-pa-gov-br",
+      "arton-pa-gov-br",
+      "antaq-gov-br"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "lancha-expressa",
+      "hidrovia",
+      "rio-tocantins",
+      "abaetetuba",
+      "cameta",
+      "mocajuba",
+      "baiao",
+      "tucurui",
+      "para",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-bra13-toc-l1",
+        "nome": "Expresso Fluvial Belém – Baixo Tocantins (Belém ↔ Abaetetuba / 72 Ilhas ↔ Igarapé-Miri ↔ Cametá ↔ Limoeiro do Ajuru)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 195,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-bra13-tuc-l2",
+        "nome": "Trecho Médio-Baixo Tocantins e Travessia Carapajó (Carapajó ↔ Cametá ↔ Mocajuba ↔ Baião ↔ Tucuruí)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 185,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+    "slug": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+    "nome_pt": "Travessias Hidroviárias de Pernambuco — Marco Zero / Rio Capibaribe (Recife), Ilha de Itamaracá (Forte Orange ↔ Coroa do Avião ↔ Nova Cruz) e Barra de Sirinhaém ↔ Ilha de Santo Aleixo (PE)",
+    "nome_en": "Pernambuco Coastal & River Crossings — Marco Zero / Capibaribe River (Recife), Itamaracá Island (Forte Orange ↔ Coroa do Avião ↔ Nova Cruz) & Sirinhaém ↔ Santo Aleixo Island (PE, Brazil)",
+    "pais": "Brasil",
+    "cidade": "Recife / Ilha de Itamaracá / Igarassu (Nova Cruz) / Paulista (Maria Farinha) / Sirinhaém / Rio Formoso / Tamandaré",
+    "uf": "PE",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Associação dos Barqueiros do Marco Zero (Recife) / Catamarans Tours Capibaribe / Barqueiros do Canal de Santa Cruz (Itamaracá) e Barra de Sirinhaém",
+    "inauguracao": "1940",
+    "extensao_km": 110,
+    "bitola": "N/A (Hidrovia Estuarina Urbana e Travessias Insulares Costeiras — Catamarãs Fluviais, Barcos de Travessia e Lanchas)",
+    "eletrificacao": "Catamarãs Fluviais (Rio Capibaribe), Barcos de Travessia Contínua (Marco Zero e Itamaracá) e Lanchas Costeiras",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6200,
+    "ano_referencia": 2026,
+    "investimento": "R$ 28 milhões (requalificação dos píeres do Marco Zero e Cais José Estelita no Recife, atracadouros do Canal de Santa Cruz em Itamaracá/Igarassu e píer de Guadalupe/Sirinhaém)",
+    "proximas_entregas": "Projetos de embarcações elétricas e píeres flutuantes de transporte público aquaviário no Rio Capibaribe (Recife)",
+    "resumo_pt": "Três polos tradicionais de transporte por barco em Pernambuco: no coração do Recife Antigo, a travessia contínua de barcos entre a Praça do Marco Zero e o Parque das Esculturas de Francisco Brennand (no molhe do porto), somada aos catamarãs que navegam pelo Rio Capibaribe sob as pontes históricas da cidade; no Litoral Norte (Canal de Santa Cruz), as travessias entre o Forte Orange (Ilha de Itamaracá), a Ilha da Coroa do Avião, Nova Cruz (Igarassu) e Maria Farinha; e no Litoral Sul, as lanchas de Barra de Sirinhaém para a Ilha vulcânica de Santo Aleixo e a navegação estuarina do Rio Formoso e Rio Ariquindá em Praia dos Carneiros e Tamandaré.",
+    "resumo_en": "Three water transit hubs in Pernambuco: in historic downtown Recife, continuous passenger boats cross between Marco Zero Plaza and the Brennand Sculpture Park reef alongside catamarans along the Capibaribe River; on the northern coast (Santa Cruz Channel), boats link Fort Orange (Itamaracá Island), Coroa do Avião islet, and Nova Cruz (Igarassu); on the southern coast, launches connect Barra de Sirinhaém with volcanic Santo Aleixo Island and the Rio Formoso / Carneiros estuary.",
+    "lat": -8.0631,
+    "lon": -34.8711,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "recife-pe-gov-br",
+      "pe-gov-br"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "recife",
+      "marco-zero",
+      "rio-capibaribe",
+      "ilha-de-itamaraca",
+      "coroa-do-aviao",
+      "ilha-de-santo-aleixo",
+      "sirinhaem",
+      "pernambuco",
+      "brasil"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-bra13-ita-l1",
+        "nome": "Eixo Metropolitano Recife & Canal de Santa Cruz (Marco Zero ↔ Parque Brennand / Rio Capibaribe & Forte Orange Itamaracá ↔ Coroa do Avião ↔ Nova Cruz)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 55,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-bra13-sir-l2",
+        "nome": "Eixo Litoral Sul de Pernambuco (Barra de Sirinhaém ↔ Ilha de Santo Aleixo ↔ Guadalupe / Rio Formoso / Praia dos Carneiros ↔ Tamandaré)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 55,
+        "estacoes": 2
+      }
+    ]
   }
 ]
