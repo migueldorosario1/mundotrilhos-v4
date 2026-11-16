@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T09:16:00-03:00",
+  "atualizado_em": "2026-11-16T09:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2844,17 +2844,25 @@
         "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
         "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 186,
       "codigo": "HIDRO-AFRICA-OCEANO-INDICO-COMORES-MADAGASCAR-CABO-VERDE-GUINE-BISSAU-VII",
       "pais": "Fase Hidroviária Mundial #73 — África e Oceano Índico: Cabo Verde Interilhas (CV Interilhas São Vicente–Santo Antão–Santiago–Fogo–Brava), Arquipélago dos Bijagós (CONSULMAR Bissau–Bubaque–Bolama), Madagascar (Sainte-Marie / Nosy Be–Ankify), Comores / Mayotte (Barges de Mayotte Dzaoudzi–Mamoudzou) e Lago Malawi (MV Ilala) VII",
       "continente": "África",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 190,
+      "sistemas_adicionados": [
+        "cv-interilhas-cabo-verde-mindelo-sao-vicente-porto-novo-santo-antao-praia-santiago-fogo-brava-sao-nicolau-sal-boa-vista-cabo-verde",
+        "consulmar-bissau-arquipelago-dos-bijagos-bubaque-bolama-enxude-rubane-orango-canhabaque-cacheu-guine-bissau",
+        "stm-societe-de-transport-maritime-mayotte-dzaoudzi-petite-terre-mamoudzou-grande-terre-anjouan-moheli-grande-comore-canal-de-mocambique",
+        "madagascar-island-ferries-ankify-hell-ville-nosy-be-soanierana-ivongo-mahambo-sainte-marie-nosy-boraha-canal-des-pangalanes-madagascar",
+        "malawi-shipping-company-mv-ilala-mv-chilembwe-monkey-bay-chipoka-senga-bay-likoma-island-chizumulu-nkhata-bay-chilumba-lago-malawi"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 187,
       "codigo": "HIDRO-AMERICA-LATINA-CARIBE-CHILOE-DELTA-DO-PARANA-GALAPAGOS-BELIZE-VII",
@@ -2908,6 +2916,14 @@
       "codigo": "HIDRO-SUL-SUDESTE-ASIATICO-BANGLADESH-INDIA-SRI-LANKA-MALDIVAS-INDONESIA-VII",
       "pais": "Fase Hidroviária Mundial #79 — Sul e Sudeste Asiático: BIWTC Rocket Paddle Steamers & Launches Dhaka Sadarghat–Barisal–Khulna (Bangladesh), MTDC RTL Speedboat Network (Malé–Hulhumalé–Maafushi, Maldivas), Jaffna Islands Ferries Kurikadduwan–Nainativu–Delft (Sri Lanka), Ro-Pax Ghogha–Hazira & Okha–Beyt Dwarka (Gujarat, Índia) e ASDP Sape–Labuan Bajo–Komodo (Flores, Indonésia) VII",
       "continente": "Ásia",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 194,
+      "codigo": "HIDRO-AFRICA-OCIDENTAL-CENTRAL-VOLTA-LAGOS-CONGO-ZAMBEZE-VIII",
+      "pais": "Fase Hidroviária Mundial #80 — África Ocidental, Central e Oriental: VLTC Lago Volta (Akosombo–Yeji, Gana), Lagferry Lagos Lagoon (Marina–Ikorodu–Badagry, Nigéria), Travessias Fluviais de Banjul–Barra (Rio Gâmbia), Lanchas de Libreville–Port-Gentil (Nautic Afrika, Gabão) e Ferries do Lago Alberto e Nilo Branco (Uganda) VIII",
+      "continente": "África",
       "prioridade": "alta",
       "status": "pendente"
     }
