@@ -66244,6 +66244,338 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-sar-l1",
+        "nome": "Norte da Sardenha (Palau ↔ La Maddalena 24h & Porto Torres ↔ Cala Reale / Ilha de Asinara)",
+        "sistema_id": "delcomar-maddalena-lines-palau-la-maddalena-portovesme-calasetta-carloforte-isola-di-san-pietro-porto-torres-asinara-sardenha-italia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.3836,
+            41.1819
+          ],
+          [
+            9.4069,
+            41.2125
+          ],
+          [
+            8.4025,
+            40.8419
+          ],
+          [
+            8.3056,
+            41.0636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-car-l2",
+        "nome": "Arquipélago de Sulcis (Portovesme ↔ Carloforte / Isola di San Pietro ↔ Calasetta)",
+        "sistema_id": "delcomar-maddalena-lines-palau-la-maddalena-portovesme-calasetta-carloforte-isola-di-san-pietro-porto-torres-asinara-sardenha-italia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4039,
+            39.2042
+          ],
+          [
+            8.3089,
+            39.145
+          ],
+          [
+            8.3694,
+            39.1119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-spo-l1",
+        "nome": "Tronco das Espórades do Norte (Volos / Mantoudi ↔ Skiathos ↔ Glossa / Skopelos ↔ Patitiri / Alonissos)",
+        "sistema_id": "seajets-anes-ferries-aegean-flying-dolphins-esporades-volos-agios-konstantinos-mantoudi-skiathos-skopelos-alonissos-skyros-grecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.9425,
+            39.3589
+          ],
+          [
+            23.4892,
+            38.8019
+          ],
+          [
+            23.4925,
+            39.1625
+          ],
+          [
+            23.7311,
+            39.1219
+          ],
+          [
+            23.8639,
+            39.1456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-sky-l2",
+        "nome": "Eixo Eubeia – Skyros & Espórades (Kymi Eubeia ↔ Linaria Skyros ↔ Alonissos ↔ Skopelos)",
+        "sistema_id": "seajets-anes-ferries-aegean-flying-dolphins-esporades-volos-agios-konstantinos-mantoudi-skiathos-skopelos-alonissos-skyros-grecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.1258,
+            38.6308
+          ],
+          [
+            24.5319,
+            38.8458
+          ],
+          [
+            23.8639,
+            39.1456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-cre-l1",
+        "nome": "Linha Costeira sem Estradas do Sul de Creta (Chora Sfakion ↔ Loutro ↔ Agia Roumeli / Samaria ↔ Sougia ↔ Paleochora)",
+        "sistema_id": "anendyk-seaways-nen-kritis-creta-sul-chora-sfakion-loutro-agia-roumeli-samaria-sougia-paleochora-ilha-de-gavdos-grecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.1375,
+            35.2006
+          ],
+          [
+            24.0797,
+            35.1978
+          ],
+          [
+            23.96,
+            35.2292
+          ],
+          [
+            23.8117,
+            35.2481
+          ],
+          [
+            23.6819,
+            35.2289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-gav-l2",
+        "nome": "Travessia do Mar da Líbia — Extremo Sul da Europa (Chora Sfakion / Paleochora ↔ Porto de Karave / Ilha de Gavdos)",
+        "sistema_id": "anendyk-seaways-nen-kritis-creta-sul-chora-sfakion-loutro-agia-roumeli-samaria-sougia-paleochora-ilha-de-gavdos-grecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.1375,
+            35.2006
+          ],
+          [
+            24.1069,
+            34.8469
+          ],
+          [
+            23.6819,
+            35.2289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-ven-l1",
+        "nome": "Expresso do Golfo de Veneza (Venezia San Basilio IT ↔ Piran SI ↔ Umag / Poreč ↔ Rovinj ↔ Pula HR)",
+        "sistema_id": "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3156,
+            45.4314
+          ],
+          [
+            13.5681,
+            45.5283
+          ],
+          [
+            13.5939,
+            45.2269
+          ],
+          [
+            13.6339,
+            45.0811
+          ],
+          [
+            13.845,
+            44.8731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-tri-l2",
+        "nome": "Expresso do Golfo de Trieste e Kvarner (Trieste Molo IV IT ↔ Piran SI ↔ Poreč ↔ Rovinj ↔ Mali Lošinj HR)",
+        "sistema_id": "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7631,
+            45.6519
+          ],
+          [
+            13.5681,
+            45.5283
+          ],
+          [
+            13.5939,
+            45.2269
+          ],
+          [
+            13.6339,
+            45.0811
+          ],
+          [
+            14.4686,
+            44.5342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-dod-l1",
+        "nome": "Eixo Principal do Dodecaneso (Rodes ↔ Symi ↔ Tilos ↔ Nisyros ↔ Kos ↔ Kalymnos ↔ Leros ↔ Lipsi ↔ Patmos)",
+        "sistema_id": "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.2278,
+            36.4456
+          ],
+          [
+            27.8361,
+            36.6169
+          ],
+          [
+            27.2889,
+            36.895
+          ],
+          [
+            26.985,
+            36.9486
+          ],
+          [
+            26.8525,
+            37.1336
+          ],
+          [
+            26.5481,
+            37.3228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-kas-l2",
+        "nome": "Eixo Oriental Rodes – Kastellorizo e Fronteira Lícia (Rodes ↔ Kastellorizo Megisti GR ↔ Kaş / Marmaris / Bodrum TR)",
+        "sistema_id": "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.2278,
+            36.4456
+          ],
+          [
+            28.2694,
+            36.8525
+          ],
+          [
+            29.5919,
+            36.1489
+          ],
+          [
+            29.6375,
+            36.1992
+          ]
+        ]
+      }
     }
   ]
 }

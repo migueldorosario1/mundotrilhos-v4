@@ -66873,6 +66873,456 @@
           51.4189
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-sar-e1",
+        "nome": "Stazione Marittima di Palau (Estreito de Bonifacio, Norte da Sardenha, Itália)",
+        "sistema_id": "delcomar-maddalena-lines-palau-la-maddalena-portovesme-calasetta-carloforte-isola-di-san-pietro-porto-torres-asinara-sardenha-italia",
+        "linha_id": "hidro-med71-sar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3836,
+          41.1819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-sar-e2",
+        "nome": "Porto di Cala Gavetta — La Maddalena (Arquipélago de La Maddalena, Sardenha)",
+        "sistema_id": "delcomar-maddalena-lines-palau-la-maddalena-portovesme-calasetta-carloforte-isola-di-san-pietro-porto-torres-asinara-sardenha-italia",
+        "linha_id": "hidro-med71-sar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4069,
+          41.2125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-sar-e3",
+        "nome": "Porto di Porto Torres & Molo di Cala Reale — Ilha de Asinara (Noroeste da Sardenha)",
+        "sistema_id": "delcomar-maddalena-lines-palau-la-maddalena-portovesme-calasetta-carloforte-isola-di-san-pietro-porto-torres-asinara-sardenha-italia",
+        "linha_id": "hidro-med71-sar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3056,
+          41.0636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-car-e4",
+        "nome": "Porto di Carloforte — Isola di San Pietro (Sulcis, Sudoeste da Sardenha)",
+        "sistema_id": "delcomar-maddalena-lines-palau-la-maddalena-portovesme-calasetta-carloforte-isola-di-san-pietro-porto-torres-asinara-sardenha-italia",
+        "linha_id": "hidro-med71-car-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3089,
+          39.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-car-e5",
+        "nome": "Portos de Portovesme e Calasetta (Ilha de Sant'Antioco, Sardenha)",
+        "sistema_id": "delcomar-maddalena-lines-palau-la-maddalena-portovesme-calasetta-carloforte-isola-di-san-pietro-porto-torres-asinara-sardenha-italia",
+        "linha_id": "hidro-med71-car-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4039,
+          39.2042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-spo-e1",
+        "nome": "Porto de Volos — Terminal das Espórades (Magnésia, Tessália, Grécia)",
+        "sistema_id": "seajets-anes-ferries-aegean-flying-dolphins-esporades-volos-agios-konstantinos-mantoudi-skiathos-skopelos-alonissos-skyros-grecia",
+        "linha_id": "hidro-med71-spo-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9425,
+          39.3589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-spo-e2",
+        "nome": "Porto de Skiathos (Ilha de Skiathos, Espórades do Norte, Grécia)",
+        "sistema_id": "seajets-anes-ferries-aegean-flying-dolphins-esporades-volos-agios-konstantinos-mantoudi-skiathos-skopelos-alonissos-skyros-grecia",
+        "linha_id": "hidro-med71-spo-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4925,
+          39.1625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-spo-e3",
+        "nome": "Portos de Skopelos Chora, Glossa e Patitiri (Skopelos e Alonissos, Grécia)",
+        "sistema_id": "seajets-anes-ferries-aegean-flying-dolphins-esporades-volos-agios-konstantinos-mantoudi-skiathos-skopelos-alonissos-skyros-grecia",
+        "linha_id": "hidro-med71-spo-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7311,
+          39.1219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-sky-e4",
+        "nome": "Portos de Kymi e Mantoudi Kymasi (Ilha de Eubeia / Evia, Grécia)",
+        "sistema_id": "seajets-anes-ferries-aegean-flying-dolphins-esporades-volos-agios-konstantinos-mantoudi-skiathos-skopelos-alonissos-skyros-grecia",
+        "linha_id": "hidro-med71-sky-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1258,
+          38.6308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-sky-e5",
+        "nome": "Porto de Linaria — Ilha de Skyros (Skyros Shipping Co., Espórades, Grécia)",
+        "sistema_id": "seajets-anes-ferries-aegean-flying-dolphins-esporades-volos-agios-konstantinos-mantoudi-skiathos-skopelos-alonissos-skyros-grecia",
+        "linha_id": "hidro-med71-sky-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5319,
+          38.8458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-cre-e1",
+        "nome": "Porto de Chora Sfakion — Sfakia (ANENDYK Seaways, Sul de Creta, Grécia)",
+        "sistema_id": "anendyk-seaways-nen-kritis-creta-sul-chora-sfakion-loutro-agia-roumeli-samaria-sougia-paleochora-ilha-de-gavdos-grecia",
+        "linha_id": "hidro-med71-cre-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1375,
+          35.2006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-cre-e2",
+        "nome": "Cais sem Estradas de Loutro (Baía Finix, Sfakia, Creta)",
+        "sistema_id": "anendyk-seaways-nen-kritis-creta-sul-chora-sfakion-loutro-agia-roumeli-samaria-sougia-paleochora-ilha-de-gavdos-grecia",
+        "linha_id": "hidro-med71-cre-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0797,
+          35.1978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-cre-e3",
+        "nome": "Porto de Agia Roumeli — Saída da Garganta de Samaria (Parque Nacional de Samaria, Creta)",
+        "sistema_id": "anendyk-seaways-nen-kritis-creta-sul-chora-sfakion-loutro-agia-roumeli-samaria-sougia-paleochora-ilha-de-gavdos-grecia",
+        "linha_id": "hidro-med71-cre-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.96,
+          35.2292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-gav-e4",
+        "nome": "Portos de Sougia e Paleochora (Sudoeste de Chania, Creta)",
+        "sistema_id": "anendyk-seaways-nen-kritis-creta-sul-chora-sfakion-loutro-agia-roumeli-samaria-sougia-paleochora-ilha-de-gavdos-grecia",
+        "linha_id": "hidro-med71-gav-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6819,
+          35.2289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-gav-e5",
+        "nome": "Porto de Karave — Ilha de Gavdos (Ponto Mais Meridional da Europa, Mar da Líbia, Grécia)",
+        "sistema_id": "anendyk-seaways-nen-kritis-creta-sul-chora-sfakion-loutro-agia-roumeli-samaria-sougia-paleochora-ilha-de-gavdos-grecia",
+        "linha_id": "hidro-med71-gav-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1069,
+          34.8469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-ven-e1",
+        "nome": "Venezia Terminal Passeggeri — San Basilio (Catamarãs Internacionais, Veneza, Itália)",
+        "sistema_id": "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
+        "linha_id": "hidro-med71-ven-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3156,
+          45.4314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-ven-e2",
+        "nome": "Putnički Terminal Poreč & Umag (Península da Ístria Ocidental, Croácia)",
+        "sistema_id": "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
+        "linha_id": "hidro-med71-ven-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5939,
+          45.2269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-ven-e3",
+        "nome": "Portos Históricos de Rovinj (Rovigno) e Pula (Pola) (Ístria, Croácia)",
+        "sistema_id": "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
+        "linha_id": "hidro-med71-ven-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6339,
+          45.0811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-tri-e4",
+        "nome": "Stazione Marittima di Trieste — Molo IV (Golfo de Trieste, Itália)",
+        "sistema_id": "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
+        "linha_id": "hidro-med71-tri-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7631,
+          45.6519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-tri-e5",
+        "nome": "Pristanišče Piran (Litoral da Eslovênia) & Porto de Mali Lošinj (Kvarner, Croácia)",
+        "sistema_id": "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
+        "linha_id": "hidro-med71-tri-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5681,
+          45.5283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-dod-e1",
+        "nome": "Portos de Rodes — Kolona, Mandraki e Tourist Port (Ilha de Rodes, Dodecaneso, Grécia)",
+        "sistema_id": "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia",
+        "linha_id": "hidro-med71-dod-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2278,
+          36.4456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-dod-e2",
+        "nome": "Porto de Symi (Gialos & Mosteiro de Panormitis, Ilha de Symi, Dodecaneso)",
+        "sistema_id": "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia",
+        "linha_id": "hidro-med71-dod-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8361,
+          36.6169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-dod-e3",
+        "nome": "Portos de Kos e Pothia (Ilhas de Kos e Kalymnos, Dodecaneso)",
+        "sistema_id": "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia",
+        "linha_id": "hidro-med71-dod-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2889,
+          36.895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-dod-e4",
+        "nome": "Porto de Skala (Ilha de Patmos) & Lakki / Agia Marina (Ilha de Leros, Dodecaneso)",
+        "sistema_id": "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia",
+        "linha_id": "hidro-med71-dod-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5481,
+          37.3228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med71-kas-e5",
+        "nome": "Porto de Kastellorizo — Megisti (Extremo Oriental Grego) & Porto de Kaş (Turquia)",
+        "sistema_id": "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia",
+        "linha_id": "hidro-med71-kas-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5919,
+          36.1489
+        ]
+      }
     }
   ]
 }

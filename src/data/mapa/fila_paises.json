@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T08:16:00-03:00",
+  "atualizado_em": "2026-11-16T08:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2812,17 +2812,25 @@
         "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
         "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 184,
       "codigo": "HIDRO-MEDITERRANEO-ADRIATICO-EGEU-SARDENHA-LAGOS-ITALIANOS-ESPORADES-CRETA-VII",
       "pais": "Fase Hidroviária Mundial #71 — Mediterrâneo, Adriático, Lagos Alpinos e Egeu: Sardenha (La Maddalena / Carloforte), Navigazione Laghi (Garda / Como / Maggiore), Espórades (Volos–Skiathos–Skopelos–Alonissos), Creta Sul (ANENDYK Sfakia–Loutro–Gavdos) e Catamarãs Veneza–Ístria VII",
       "continente": "Europa",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 188,
+      "sistemas_adicionados": [
+        "delcomar-maddalena-lines-palau-la-maddalena-portovesme-calasetta-carloforte-isola-di-san-pietro-porto-torres-asinara-sardenha-italia",
+        "seajets-anes-ferries-aegean-flying-dolphins-esporades-volos-agios-konstantinos-mantoudi-skiathos-skopelos-alonissos-skyros-grecia",
+        "anendyk-seaways-nen-kritis-creta-sul-chora-sfakion-loutro-agia-roumeli-samaria-sougia-paleochora-ilha-de-gavdos-grecia",
+        "venezia-lines-liberty-lines-kompas-adriatico-norte-veneza-trieste-piran-porec-rovinj-pula-umag-lussino-italia-eslovenia-croacia",
+        "dodekanisos-seaways-saos-ferries-anem-rodes-symi-kos-kalymnos-leros-patmos-lipsi-astypalea-castelorizo-dodecaneso-grecia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 185,
       "codigo": "HIDRO-ASIA-ORIENTAL-SUDESTE-BAIA-DE-TOQUIO-OKINAWA-PEARL-RIVER-FILIPINAS-VII",
@@ -2876,6 +2884,14 @@
       "codigo": "HIDRO-ORIENTE-MEDIO-MAR-VERMELHO-GOLFO-PERSICO-BOSFORO-ASIA-CENTRAL-VII",
       "pais": "Fase Hidroviária Mundial #77 — Oriente Médio, Mar Vermelho, Bósforo e Cáspio: Şehir Hatları & Turyol Bósforo e Ilhas dos Príncipes (Istambul–Büyükada–Heybeliada–Kadıköy–Üsküdar), Red Sea Ferries Jazan–Farasan Islands (Arábia Saudita), Dubai RTA Abra, Dubai Ferry & Water Taxi (Dubai Creek & Dubai Marina, EAU), Arab Bridge Maritime Aqaba–Nuweiba (Jordânia–Egito) e Ferries Trans-Cáspios Baku–Türkmenbaşy–Aktau VII",
       "continente": "Ásia e Europa",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 192,
+      "codigo": "HIDRO-EUROPA-CENTRAL-ORIENTAL-DANUBIO-BALCAS-MAR-NEGRO-VII",
+      "pais": "Fase Hidroviária Mundial #78 — Europa Central, Bálcãs e Mar Negro: Navegação do Lago de Ohrid e Prespa (Macedônia do Norte / Albânia), Baía de Kotor (Kamenari–Lepetane Ferry, Montenegro), BKK D14 / Ferries do Danúbio Húngaro (Mohács / Kalocsa / Vác), Travessias Fluviais do Baixo Danúbio (Brăila–Smârdan / Bechet–Oryahovo, Romênia–Bulgária) e Lagos da Masúria (Giżycko–Mikołajki, Polônia) VII",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     }
