@@ -66423,6 +66423,456 @@
           35.7069
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-mac-e1",
+        "nome": "Mackinac Island Historic Main Street Ferry Docks (Shepler's & Arnold Transit, Michigan)",
+        "sistema_id": "mackinac-island-ferries-sheplers-star-line-mackinaw-city-st-ignace-bois-blanc-island-straits-of-mackinac-michigan-eua",
+        "linha_id": "hidro-nam70-mac-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6189,
+          45.8492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-mac-e2",
+        "nome": "Mackinaw City Ferry Docks (Lower Peninsula — Straits of Mackinac, Michigan)",
+        "sistema_id": "mackinac-island-ferries-sheplers-star-line-mackinaw-city-st-ignace-bois-blanc-island-straits-of-mackinac-michigan-eua",
+        "linha_id": "hidro-nam70-mac-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.725,
+          45.7819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-mac-e3",
+        "nome": "St. Ignace State St. Ferry Docks (Upper Peninsula — Straits of Mackinac, Michigan)",
+        "sistema_id": "mackinac-island-ferries-sheplers-star-line-mackinaw-city-st-ignace-bois-blanc-island-straits-of-mackinac-michigan-eua",
+        "linha_id": "hidro-nam70-mac-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7236,
+          45.8683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-boi-e4",
+        "nome": "Cheboygan River Ferry Dock — Plaunt Transportation (Cheboygan, Michigan)",
+        "sistema_id": "mackinac-island-ferries-sheplers-star-line-mackinaw-city-st-ignace-bois-blanc-island-straits-of-mackinac-michigan-eua",
+        "linha_id": "hidro-nam70-boi-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4708,
+          45.6542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-boi-e5",
+        "nome": "Pointe Aux Pins Ferry Dock — Bois Blanc Island (Lago Huron, Michigan)",
+        "sistema_id": "mackinac-island-ferries-sheplers-star-line-mackinaw-city-st-ignace-bois-blanc-island-straits-of-mackinac-michigan-eua",
+        "linha_id": "hidro-nam70-boi-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4625,
+          45.7369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-mad-e1",
+        "nome": "Bayfield Ferry Terminal — Apostle Islands Gateway (Bayfield, Wisconsin)",
+        "sistema_id": "lake-superior-ferries-madeline-island-ferry-bayfield-la-pointe-isle-royale-ranger-iii-houghton-grand-portage-copper-harbor-wi-mn-mi-eua",
+        "linha_id": "hidro-nam70-mad-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8167,
+          46.8108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-mad-e2",
+        "nome": "La Pointe Ferry Dock — Madeline Island (Apostle Islands, Lago Superior, Wisconsin)",
+        "sistema_id": "lake-superior-ferries-madeline-island-ferry-bayfield-la-pointe-isle-royale-ranger-iii-houghton-grand-portage-copper-harbor-wi-mn-mi-eua",
+        "linha_id": "hidro-nam70-mad-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7825,
+          46.7775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-roy-e3",
+        "nome": "Houghton NPS Dock (M/V Ranger III) & Copper Harbor Dock (Keweenaw Peninsula, Michigan)",
+        "sistema_id": "lake-superior-ferries-madeline-island-ferry-bayfield-la-pointe-isle-royale-ranger-iii-houghton-grand-portage-copper-harbor-wi-mn-mi-eua",
+        "linha_id": "hidro-nam70-roy-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5569,
+          47.1225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-roy-e4",
+        "nome": "Rock Harbor & Windigo Docks — Isle Royale National Park (Lago Superior, Michigan)",
+        "sistema_id": "lake-superior-ferries-madeline-island-ferry-bayfield-la-pointe-isle-royale-ranger-iii-houghton-grand-portage-copper-harbor-wi-mn-mi-eua",
+        "linha_id": "hidro-nam70-roy-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4889,
+          48.1464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-roy-e5",
+        "nome": "Grand Portage Marina — Hat Point Ferry Terminal (North Shore, Minnesota)",
+        "sistema_id": "lake-superior-ferries-madeline-island-ferry-bayfield-la-pointe-isle-royale-ranger-iii-houghton-grand-portage-copper-harbor-wi-mn-mi-eua",
+        "linha_id": "hidro-nam70-roy-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6836,
+          47.9636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-sea-e1",
+        "nome": "Conners Highlands & Atlantic Highlands Municipal Harbor Terminals (Seastreak, Nova Jersey)",
+        "sistema_id": "seastreak-fast-ferry-wall-street-east-35th-street-highlands-atlantic-highlands-sandy-hook-nantucket-marthas-vineyard-ny-nj-ma-eua",
+        "linha_id": "hidro-nam70-sea-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9869,
+          40.4058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-sea-e2",
+        "nome": "Belford Harbor Ferry Terminal — Middletown (Raritan Bay, Nova Jersey)",
+        "sistema_id": "seastreak-fast-ferry-wall-street-east-35th-street-highlands-atlantic-highlands-sandy-hook-nantucket-marthas-vineyard-ny-nj-ma-eua",
+        "linha_id": "hidro-nam70-sea-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0792,
+          40.4358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-sea-e3",
+        "nome": "Pier 11 / Wall Street & East 35th Street Seastreak Slips (Manhattan, Nova York)",
+        "sistema_id": "seastreak-fast-ferry-wall-street-east-35th-street-highlands-atlantic-highlands-sandy-hook-nantucket-marthas-vineyard-ny-nj-ma-eua",
+        "linha_id": "hidro-nam70-sea-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0064,
+          40.7033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-nbd-e4",
+        "nome": "New Bedford State Pier Ferry Terminal (Seastreak New England, Massachusetts)",
+        "sistema_id": "seastreak-fast-ferry-wall-street-east-35th-street-highlands-atlantic-highlands-sandy-hook-nantucket-marthas-vineyard-ny-nj-ma-eua",
+        "linha_id": "hidro-nam70-nbd-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9208,
+          41.6353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-nbd-e5",
+        "nome": "Oak Bluffs (Martha's Vineyard) & Straight Wharf (Nantucket) Seastreak Docks (Massachusetts)",
+        "sistema_id": "seastreak-fast-ferry-wall-street-east-35th-street-highlands-atlantic-highlands-sandy-hook-nantucket-marthas-vineyard-ny-nj-ma-eua",
+        "linha_id": "hidro-nam70-nbd-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5556,
+          41.4575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-alb-e1",
+        "nome": "Port Alberni Harbour Quay — Lady Rose Marine Dock (Alberni Inlet, Ilha de Vancouver, BC)",
+        "sistema_id": "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
+        "linha_id": "hidro-nam70-alb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.8158,
+          49.2339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-alb-e2",
+        "nome": "Bamfield Inlet Government Dock & Sechart / Broken Group (Barkley Sound, BC)",
+        "sistema_id": "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
+        "linha_id": "hidro-nam70-alb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.1342,
+          48.8339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-alb-e3",
+        "nome": "Ucluelet Small Craft Harbour Dock (Costa Oeste da Ilha de Vancouver, BC)",
+        "sistema_id": "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
+        "linha_id": "hidro-nam70-alb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5461,
+          48.9422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-uch-e4",
+        "nome": "Gold River Government Wharf — MV Uchuck III Terminal (Muchalat Inlet, BC)",
+        "sistema_id": "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
+        "linha_id": "hidro-nam70-uch-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.1158,
+          49.6789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-uch-e5",
+        "nome": "Yuquot (Friendly Cove), Tahsis & Kyuquot Wharves (Nootka Sound / Esperanza Inlet, BC)",
+        "sistema_id": "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
+        "linha_id": "hidro-nam70-uch-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.6169,
+          49.5936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-bel-e1",
+        "nome": "Port de Sept-Îles & Port de Rimouski — Terminais Relais Nordik (NM Bella Desgagnés, Quebec)",
+        "sistema_id": "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada",
+        "linha_id": "hidro-nam70-bel-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3758,
+          50.2039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-bel-e2",
+        "nome": "Quai de Port-Menier — Ilha de Anticosti (Patrimônio Mundial UNESCO, Golfo de São Lourenço)",
+        "sistema_id": "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada",
+        "linha_id": "hidro-nam70-bel-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3519,
+          49.8189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-bel-e3",
+        "nome": "Port de Havre-Saint-Pierre & Quai de Natashquan (Mingan Archipelago, Côte-Nord, Quebec)",
+        "sistema_id": "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada",
+        "linha_id": "hidro-nam70-bel-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5986,
+          50.2389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-bcn-e4",
+        "nome": "Quais de Kegaska, La Romaine & Harrington Harbour (Basse-Côte-Nord sem Estradas, Quebec)",
+        "sistema_id": "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada",
+        "linha_id": "hidro-nam70-bcn-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4758,
+          50.4981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-bcn-e5",
+        "nome": "Port de Blanc-Sablon, Saint-Augustin & La Tabatière (Estreito de Belle Isle / Divisa com Labrador, Quebec)",
+        "sistema_id": "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada",
+        "linha_id": "hidro-nam70-bcn-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1528,
+          51.4189
+        ]
+      }
     }
   ]
 }

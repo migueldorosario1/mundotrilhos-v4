@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T07:45:00-03:00",
+  "atualizado_em": "2026-11-16T08:16:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2651,9 +2651,7 @@
         "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
         "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 148,
       "codigo": "HIDRO-SUDESTE-ASIATICO-MEKONG-BORNEU-CELEBES-III",
@@ -2800,18 +2798,84 @@
       ]
     },
     {
-      "ordem": 191,
-      "codigo": "HIDRO-AMERICA-DO-NORTE-GOLFO-DO-MEXICO-MISSISSIPPI-GRANDES-LAGOS-VII",
-      "pais": "Fase Hidroviária Mundial #77 — América do Norte: Apostle Islands (Lago Superior), Mackinac Island (Star Line / Shepler's), Beaver Island, Staten Island Fast Ferry (NYC) e Seastreak (Sandy Hook / Martha's Vineyard) VII",
-      "continente": "América",
+      "ordem": 183,
+      "codigo": "HIDRO-AMERICA-DO-NORTE-MACKINAC-LAGO-SUPERIOR-SEASTREAK-VANCOUVER-ISLAND-VII",
+      "pais": "Fase Hidroviária Mundial #70 — América do Norte: Estreito de Mackinac, Lago Superior (Apostle Islands e Isle Royale), Seastreak (NYC/NJ/MA), Ilha de Vancouver Costeira e Basse-Côte-Nord (Quebec) VII",
+      "continente": "América do Norte",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 187,
+      "sistemas_adicionados": [
+        "mackinac-island-ferries-sheplers-star-line-mackinaw-city-st-ignace-bois-blanc-island-straits-of-mackinac-michigan-eua",
+        "lake-superior-ferries-madeline-island-ferry-bayfield-la-pointe-isle-royale-ranger-iii-houghton-grand-portage-copper-harbor-wi-mn-mi-eua",
+        "seastreak-fast-ferry-wall-street-east-35th-street-highlands-atlantic-highlands-sandy-hook-nantucket-marthas-vineyard-ny-nj-ma-eua",
+        "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
+        "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
+    {
+      "ordem": 184,
+      "codigo": "HIDRO-MEDITERRANEO-ADRIATICO-EGEU-SARDENHA-LAGOS-ITALIANOS-ESPORADES-CRETA-VII",
+      "pais": "Fase Hidroviária Mundial #71 — Mediterrâneo, Adriático, Lagos Alpinos e Egeu: Sardenha (La Maddalena / Carloforte), Navigazione Laghi (Garda / Como / Maggiore), Espórades (Volos–Skiathos–Skopelos–Alonissos), Creta Sul (ANENDYK Sfakia–Loutro–Gavdos) e Catamarãs Veneza–Ístria VII",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     },
     {
-      "ordem": 192,
-      "codigo": "HIDRO-MEDITERRANEO-ADRIATICO-EGEU-SARDENHA-CRETA-CHIPRE-VII",
-      "pais": "Fase Hidroviária Mundial #78 — Mediterrâneo, Adriático e Egeu: Sardenha (La Maddalena / Carloforte), Lago de Garda / Como / Maggiore (Navigazione Laghi), Espórades (Volos–Skiathos–Skopelos–Alonissos), Creta Sul (Sfakia–Loutro–Gavdos) e Istria–Veneza VII",
+      "ordem": 185,
+      "codigo": "HIDRO-ASIA-ORIENTAL-SUDESTE-BAIA-DE-TOQUIO-OKINAWA-PEARL-RIVER-FILIPINAS-VII",
+      "pais": "Fase Hidroviária Mundial #72 — Ásia Oriental e Sudeste Asiático: Tokyo-Wan Ferry (Kurihama–Kanaya) & Tokyo Mizube Line, Okinawa Kerama Islands (Zamami / Tokashiki / Ie), TurboJET / Cotai Water Jet (HK–Macau–Zhuhai), Montenegro / FastCat (Batangas–Mindoro–Romblon–Caticlan) e Koh Chang Ferries (Trat, Tailândia) VII",
+      "continente": "Ásia",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 186,
+      "codigo": "HIDRO-AFRICA-OCEANO-INDICO-COMORES-MADAGASCAR-CABO-VERDE-GUINE-BISSAU-VII",
+      "pais": "Fase Hidroviária Mundial #73 — África e Oceano Índico: Cabo Verde Interilhas (CV Interilhas São Vicente–Santo Antão–Santiago–Fogo–Brava), Arquipélago dos Bijagós (CONSULMAR Bissau–Bubaque–Bolama), Madagascar (Sainte-Marie / Nosy Be–Ankify), Comores / Mayotte (Barges de Mayotte Dzaoudzi–Mamoudzou) e Lago Malawi (MV Ilala) VII",
+      "continente": "África",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 187,
+      "codigo": "HIDRO-AMERICA-LATINA-CARIBE-CHILOE-DELTA-DO-PARANA-GALAPAGOS-BELIZE-VII",
+      "pais": "Fase Hidroviária Mundial #74 — América Latina e Caribe: Canal de Chacao & Arquipélago de Chiloé (Pargua–Chacao / Quellón–Chaitén, Chile), Lanchas Colectivas do Delta do Paraná (Tigre, Argentina), Ferries Interilhas de Galápagos (Santa Cruz–Isabela–San Cristóbal, Equador), San Pedro Belize Express Water Taxi (Belize City–Caye Caulker–Ambergris Caye) e Conferry / Naviarca (Puerto La Cruz / Cumaná–Ilha de Margarita, Venezuela) VII",
+      "continente": "América Latina e Caribe",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 188,
+      "codigo": "HIDRO-BRASIL-XIII-TRAVESSIAS-FLUVIAIS-LITORANEAS-E-INSULARES-COMPLEMENTARES",
+      "pais": "Fase Hidroviária Brasil #13 — Travessias Hidroviárias Fluviais, Lacustres e Costeiras Complementares do Brasil (Travessias Hidroviárias do Rio Paraná e Lago de Itaipu Porto Rico–Porto São José / Guaíra e Foz; Barcas e Catamarãs do Rio Guaíba e Lagoa dos Patos Porto Alegre–Guaíba–Barra do Ribeiro e Pelotas; Travessias da Baía de Angra dos Reis, Ilha Grande, Paraty–Saco do Mamanguá e Mangaratiba–Ilha de Jaguanum no RJ; Hidrovia do Rio Tocantins Belém–Abaetetuba–Cametá–Baião–Mocajuba–Tucuruí e Balsas de Carolina–Filadélfia no PA/TO/MA; e Travessias de Fernando de Noronha, Tamandaré, Rio Formoso e Ilha de Santo Aleixo / Itamaracá em PE)",
+      "continente": "América do Sul",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 189,
+      "codigo": "HIDRO-NORTE-DA-EUROPA-REINO-UNIDO-ESCOCIA-DINAMARCA-NORUEGA-SUECIA-VII",
+      "pais": "Fase Hidroviária Mundial #75 — Norte da Europa e Ilhas Britânicas: Thames Clippers / Uber Boat by Thames Clippers & Woolwich Ferry (Londres), CalMac Firth of Clyde (Wemyss Bay–Rothesay / Ardrossan–Brodick / Largs–Cumbrae), Fjord Line & Color Line (Kristiansand–Hirtshals / Sandefjord–Strömstad), Gotlandia / Destination Gotland (Nynäshamn / Oskarshamn–Visby) e Bornholmslinjen (Ystad–Rønne) VII",
       "continente": "Europa",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 190,
+      "codigo": "HIDRO-OCEANIA-AUSTRALIA-NOVA-ZELANDIA-QUEENSLAND-TASMANIA-POLINESIA-VII",
+      "pais": "Fase Hidroviária Mundial #76 — Oceania: SeaLink Queensland (Townsville–Magnetic Island & Brisbane Moreton Bay–North Stradbroke Island), Bruny Island & Maria Island Ferries (Tasmânia), Whitsundays Cruise Whitsundays (Airlie Beach–Hamilton Island–Daydream Island),Auckland Pine Harbour / Gulf Harbour / Hobsonville Ferries (AT Metro) e Samoa Shipping Corporation (Mulifanua–Salelologa Savai'i) VII",
+      "continente": "Oceania",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 191,
+      "codigo": "HIDRO-ORIENTE-MEDIO-MAR-VERMELHO-GOLFO-PERSICO-BOSFORO-ASIA-CENTRAL-VII",
+      "pais": "Fase Hidroviária Mundial #77 — Oriente Médio, Mar Vermelho, Bósforo e Cáspio: Şehir Hatları & Turyol Bósforo e Ilhas dos Príncipes (Istambul–Büyükada–Heybeliada–Kadıköy–Üsküdar), Red Sea Ferries Jazan–Farasan Islands (Arábia Saudita), Dubai RTA Abra, Dubai Ferry & Water Taxi (Dubai Creek & Dubai Marina, EAU), Arab Bridge Maritime Aqaba–Nuweiba (Jordânia–Egito) e Ferries Trans-Cáspios Baku–Türkmenbaşy–Aktau VII",
+      "continente": "Ásia e Europa",
       "prioridade": "alta",
       "status": "pendente"
     }
