@@ -64120,6 +64120,286 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-e39-l1",
+        "nome": "E39 Sul e Centro — Boknafjord, Bjørnafjord e Sognefjord (Mortavika ↔ Arsvågen & Halhjem ↔ Sandvikvåg & Lavik ↔ Oppedal)",
+        "sistema_id": "fjord1-norled-e39-coastal-highway-electric-ferries-mortavika-arsvagen-halhjem-sandvikvag-lavik-oppedal-anda-lote-molde-vestnes-noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.5885,
+            59.1325
+          ],
+          [
+            5.4265,
+            60.1452
+          ],
+          [
+            5.5125,
+            61.1025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-e39-l2",
+        "nome": "E39 Norte — Nordfjord e Romsdalsfjord (Anda ↔ Lote & Solevåg ↔ Festøya & Molde ↔ Vestnes)",
+        "sistema_id": "fjord1-norled-e39-coastal-highway-electric-ferries-mortavika-arsvagen-halhjem-sandvikvag-lavik-oppedal-anda-lote-molde-vestnes-noruega",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.5125,
+            61.1025
+          ],
+          [
+            6.0785,
+            61.8485
+          ],
+          [
+            7.1585,
+            62.7352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-swe-l1",
+        "nome": "Costa Oeste — Bohuslän e Gotemburgo (Lilla Varholmen ↔ Hönö / Björkö & Gullmarsleden Finnsbo ↔ Skår / Lysekil)",
+        "sistema_id": "trafikverket-farjerederiet-honoleden-gullmarsleden-lysekil-kornhall-ljusteroleden-furusund-vaxon-rindolen-suecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6925,
+            57.7052
+          ],
+          [
+            11.6525,
+            57.6925
+          ],
+          [
+            11.4885,
+            58.2915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-swe-l2",
+        "nome": "Arquipélago de Estocolmo — Trafikverket (Vaxholm ↔ Rindö & Östanå ↔ Ljusterö & Furusund ↔ Yxlan ↔ Blidö)",
+        "sistema_id": "trafikverket-farjerederiet-honoleden-gullmarsleden-lysekil-kornhall-ljusteroleden-furusund-vaxon-rindolen-suecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.3565,
+            59.4025
+          ],
+          [
+            18.5625,
+            59.5415
+          ],
+          [
+            18.9185,
+            59.6625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-fin-l1",
+        "nome": "Estrada Anelar do Arquipélago — Finferries (Parainen Lillmälö ↔ Nauvo Prostvik ↔ Korppoo ↔ Houtskari ↔ Iniö ↔ Kustavi)",
+        "sistema_id": "finferries-saariston-rengastie-parainen-nauvo-korppoo-houtskari-iniö-kustavi-utö-kotka-rankki-haapasaari-finlandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.1285,
+            60.2285
+          ],
+          [
+            21.6085,
+            60.1685
+          ],
+          [
+            21.3915,
+            60.3825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-fin-l2",
+        "nome": "Arquipélago Externo de Utö e Golfo da Finlândia (Korppoo Verkan ↔ Jurmo ↔ Utö & Kotka Sapokka ↔ Rankki ↔ Haapasaari)",
+        "sistema_id": "finferries-saariston-rengastie-parainen-nauvo-korppoo-houtskari-iniö-kustavi-utö-kotka-rankki-haapasaari-finlandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.6085,
+            60.1685
+          ],
+          [
+            21.3715,
+            59.7825
+          ],
+          [
+            26.9585,
+            60.4512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-den-l1",
+        "nome": "Ilhas do Mar de Kattegat (Frederikshavn ↔ Vesterø Havn Læsø & Grenaa ↔ Ilha de Anholt)",
+        "sistema_id": "laeso-faergen-frederikshavn-vesteroe-grenaa-anholt-aeroe-faergerne-svendborg-aeroeskoebing-soby-fynshav-faaborg-dinamarca",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5385,
+            57.4365
+          ],
+          [
+            10.9225,
+            57.2965
+          ],
+          [
+            11.5625,
+            56.6985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-den-l2",
+        "nome": "Arquipélago do Sul de Fiónia & E-Ferry Ellen (Svendborg ↔ Ærøskøbing & Søby ↔ Fynshav / Faaborg)",
+        "sistema_id": "laeso-faergen-frederikshavn-vesteroe-grenaa-anholt-aeroe-faergerne-svendborg-aeroeskoebing-soby-fynshav-faaborg-dinamarca",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6142,
+            55.0585
+          ],
+          [
+            10.4125,
+            54.8915
+          ],
+          [
+            10.2565,
+            54.9415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-lak-l1",
+        "nome": "Lagos de Tampere — Rota da Prata e Rota do Poeta (Hämeenlinna ↔ Tampere Laukontori / Viikinsaari & Mustalahti ↔ Ruovesi ↔ Virrat)",
+        "sistema_id": "tampere-hopealinjat-nasijarvi-pyhajarvi-visuvesi-jyvaskyla-lahti-paijanne-kuopio-kallavesi-inland-lakes-finlandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.4585,
+            61.0015
+          ],
+          [
+            23.7585,
+            61.4925
+          ],
+          [
+            24.0725,
+            61.9852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-sca65-lak-l2",
+        "nome": "Hidrovia do Lago Päijänne e Lago Kallavesi (Lahti ↔ Padasjoki ↔ Jyväskylä Lutakko & Kuopio Harbour)",
+        "sistema_id": "tampere-hopealinjat-nasijarvi-pyhajarvi-visuvesi-jyvaskyla-lahti-paijanne-kuopio-kallavesi-inland-lakes-finlandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.6512,
+            60.9925
+          ],
+          [
+            25.7565,
+            62.2385
+          ],
+          [
+            27.6925,
+            62.8885
+          ]
+        ]
+      }
     }
   ]
 }
