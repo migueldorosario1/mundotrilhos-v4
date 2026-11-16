@@ -59223,6 +59223,456 @@
           -8.2612
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-dan-e1",
+        "nome": "Wien City — Schwedenplatz Franz-Josefs-Kai (Viena, Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-ddsg-blue-danube-wachau-krems-melk-donau-oesterreich-eslovaquia",
+        "linha_id": "hidro-eur55-dan-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3778,
+          48.2119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-dan-e2",
+        "nome": "Bratislava Passenger Port — Fajnorovo nábrežie (Bratislava, Eslováquia)",
+        "sistema_id": "twin-city-liner-viena-bratislava-ddsg-blue-danube-wachau-krems-melk-donau-oesterreich-eslovaquia",
+        "linha_id": "hidro-eur55-dan-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1128,
+          48.1402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-dan-e3",
+        "nome": "Schifffahrtszentrum Krems / Stein an der Donau (Wachau, Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-ddsg-blue-danube-wachau-krems-melk-donau-oesterreich-eslovaquia",
+        "linha_id": "hidro-eur55-dan-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5892,
+          48.4032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-dan-e4",
+        "nome": "Schiffstation Dürnstein / Spitz an der Donau (Vale de Wachau, Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-ddsg-blue-danube-wachau-krems-melk-donau-oesterreich-eslovaquia",
+        "linha_id": "hidro-eur55-dan-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4205,
+          48.3652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-dan-e5",
+        "nome": "Schiffstation Melk — Abadia de Melk (Baixa Áustria, Áustria)",
+        "sistema_id": "twin-city-liner-viena-bratislava-ddsg-blue-danube-wachau-krems-melk-donau-oesterreich-eslovaquia",
+        "linha_id": "hidro-eur55-dan-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3282,
+          48.2312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-hun-e1",
+        "nome": "Budapest Vigadó tér Ship Station (Danúbio Central, Budapeste)",
+        "sistema_id": "mahart-passnave-budapeste-szentendre-visegrad-esztergom-bahart-lago-balaton-szantod-tihany-fonyod-badacsony-hungria",
+        "linha_id": "hidro-eur55-hun-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0478,
+          47.4958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-hun-e2",
+        "nome": "Visegrád & Szentendre Hajóállomás (Curva do Danúbio, Hungria)",
+        "sistema_id": "mahart-passnave-budapeste-szentendre-visegrad-esztergom-bahart-lago-balaton-szantod-tihany-fonyod-badacsony-hungria",
+        "linha_id": "hidro-eur55-hun-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9735,
+          47.7925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-hun-e3",
+        "nome": "Esztergom Hajóállomás — Fronteira Danúbio (Esztergom, Hungria)",
+        "sistema_id": "mahart-passnave-budapeste-szentendre-visegrad-esztergom-bahart-lago-balaton-szantod-tihany-fonyod-badacsony-hungria",
+        "linha_id": "hidro-eur55-hun-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7345,
+          47.7955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-hun-e4",
+        "nome": "Szántód Rév — Terminal Ferry Lago Balaton Sul (Somogy, Hungria)",
+        "sistema_id": "mahart-passnave-budapeste-szentendre-visegrad-esztergom-bahart-lago-balaton-szantod-tihany-fonyod-badacsony-hungria",
+        "linha_id": "hidro-eur55-hun-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9042,
+          46.8795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-hun-e5",
+        "nome": "Tihany Rév & Badacsony Hajóállomás (Lago Balaton Norte, Hungria)",
+        "sistema_id": "mahart-passnave-budapeste-szentendre-visegrad-esztergom-bahart-lago-balaton-szantod-tihany-fonyod-badacsony-hungria",
+        "linha_id": "hidro-eur55-hun-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8925,
+          46.8928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-pol-e1",
+        "nome": "Przystań Żeglugi Gdańskiej — Targ Rybny / Westerplatte (Gdańsk, Polônia)",
+        "sistema_id": "zegluga-gdanska-gdansk-sopot-gdynia-hel-puck-ztm-warszawa-wisla-ferries-vistula-swinoujscie-uznam-wolin-polonia",
+        "linha_id": "hidro-eur55-pol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6585,
+          54.3532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-pol-e2",
+        "nome": "Molo w Sopocie & Skwer Kościuszki w Gdyni (Tricidade, Polônia)",
+        "sistema_id": "zegluga-gdanska-gdansk-sopot-gdynia-hel-puck-ztm-warszawa-wisla-ferries-vistula-swinoujscie-uznam-wolin-polonia",
+        "linha_id": "hidro-eur55-pol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5542,
+          54.5188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-pol-e3",
+        "nome": "Port Morski w Helu (Península de Hel — Mar Báltico, Polônia)",
+        "sistema_id": "zegluga-gdanska-gdansk-sopot-gdynia-hel-puck-ztm-warszawa-wisla-ferries-vistula-swinoujscie-uznam-wolin-polonia",
+        "linha_id": "hidro-eur55-pol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8012,
+          54.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-pol-e4",
+        "nome": "Przystań Promowa Warszawskich Linii Wodnych — Podzamcze / Poniatówka (Rio Vístula, Varsóvia)",
+        "sistema_id": "zegluga-gdanska-gdansk-sopot-gdynia-hel-puck-ztm-warszawa-wisla-ferries-vistula-swinoujscie-uznam-wolin-polonia",
+        "linha_id": "hidro-eur55-pol-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0315,
+          52.2425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-pol-e5",
+        "nome": "Przeprawa Promowa Świnoujście Warszów–Centrum (Estuário do Rio Świna/Oder, Polônia)",
+        "sistema_id": "zegluga-gdanska-gdansk-sopot-gdynia-hel-puck-ztm-warszawa-wisla-ferries-vistula-swinoujscie-uznam-wolin-polonia",
+        "linha_id": "hidro-eur55-pol-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2595,
+          53.9085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-czde-e1",
+        "nome": "Pražské přívozy P1/P2 — Sedlec / Podbaba / Výtoň (Rio Moldava, Praga)",
+        "sistema_id": "pid-prazske-privozy-vltava-praga-labska-plavba-elba-usti-nad-labem-hrensko-sachsische-dampfschiffahrt-dresden-meissen-tchequia-alemanha",
+        "linha_id": "hidro-eur55-czde-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4142,
+          50.0685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-czde-e2",
+        "nome": "Přístaviště Děčín & Hřensko — Suíça Boêmia (Rio Elba, Tchéquia)",
+        "sistema_id": "pid-prazske-privozy-vltava-praga-labska-plavba-elba-usti-nad-labem-hrensko-sachsische-dampfschiffahrt-dresden-meissen-tchequia-alemanha",
+        "linha_id": "hidro-eur55-czde-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2375,
+          50.8742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-czde-e3",
+        "nome": "Anleger Bad Schandau / Königstein — Suíça Saxônica (Rio Elba, Alemanha)",
+        "sistema_id": "pid-prazske-privozy-vltava-praga-labska-plavba-elba-usti-nad-labem-hrensko-sachsische-dampfschiffahrt-dresden-meissen-tchequia-alemanha",
+        "linha_id": "hidro-eur55-czde-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1525,
+          50.9168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-czde-e4",
+        "nome": "Terrassenufer Dresden & Fähre Johannstadt–Neustadt (Dresden, Alemanha)",
+        "sistema_id": "pid-prazske-privozy-vltava-praga-labska-plavba-elba-usti-nad-labem-hrensko-sachsische-dampfschiffahrt-dresden-meissen-tchequia-alemanha",
+        "linha_id": "hidro-eur55-czde-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7432,
+          51.0545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-czde-e5",
+        "nome": "Anleger Meißen — Albrechtsburg (Rio Elba, Saxônia, Alemanha)",
+        "sistema_id": "pid-prazske-privozy-vltava-praga-labska-plavba-elba-usti-nad-labem-hrensko-sachsische-dampfschiffahrt-dresden-meissen-tchequia-alemanha",
+        "linha_id": "hidro-eur55-czde-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4735,
+          51.1642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-alb-e1",
+        "nome": "Terminal Trageti Koman — Represa de Koman (Rio Drin, Albânia)",
+        "sistema_id": "komani-lake-ferry-koman-fierze-drin-albania-navrom-delta-tulcea-sulina-sfantu-gheorghe-crisan-delta-do-danubio-romenia",
+        "linha_id": "hidro-eur55-alb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8265,
+          42.1052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-alb-e2",
+        "nome": "Terminal Trageti Fierzë — Porta dos Alpes Albaneses / Valbona (Albânia)",
+        "sistema_id": "komani-lake-ferry-koman-fierze-drin-albania-navrom-delta-tulcea-sulina-sfantu-gheorghe-crisan-delta-do-danubio-romenia",
+        "linha_id": "hidro-eur55-alb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0255,
+          42.2615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-rom-e3",
+        "nome": "Gara Fluvială Tulcea (Porta do Delta do Danúbio, Romênia)",
+        "sistema_id": "komani-lake-ferry-koman-fierze-drin-albania-navrom-delta-tulcea-sulina-sfantu-gheorghe-crisan-delta-do-danubio-romenia",
+        "linha_id": "hidro-eur55-rom-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8025,
+          45.1812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-rom-e4",
+        "nome": "Portul Sulina & Crișan — Foz do Danúbio no Mar Negro (Romênia)",
+        "sistema_id": "komani-lake-ferry-koman-fierze-drin-albania-navrom-delta-tulcea-sulina-sfantu-gheorghe-crisan-delta-do-danubio-romenia",
+        "linha_id": "hidro-eur55-rom-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6585,
+          45.1565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eur55-rom-e5",
+        "nome": "Portul Sfântu Gheorghe — Braço Sul do Delta do Danúbio (Romênia)",
+        "sistema_id": "komani-lake-ferry-koman-fierze-drin-albania-navrom-delta-tulcea-sulina-sfantu-gheorghe-crisan-delta-do-danubio-romenia",
+        "linha_id": "hidro-eur55-rom-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5965,
+          44.8895
+        ]
+      }
     }
   ]
 }
