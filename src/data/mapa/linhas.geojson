@@ -68792,6 +68792,318 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-kot-l1",
+        "nome": "Ponte Ro-Pax 24h do Estreito de Verige (Kamenari Herceg Novi ↔ Lepetane Tivat)",
+        "sistema_id": "morsko-dobro-boka-bay-ferry-kamenari-lepetane-kotor-perast-herceg-novi-tivat-baia-de-kotor-montenegro",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.6725,
+            42.4669
+          ],
+          [
+            18.6819,
+            42.4656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-bel-l2",
+        "nome": "Rede Ecológica Solar/Híbrida da Baía de Kotor (Porto de Kotor ↔ Perast / Ilha Gospa od Škrpjela ↔ Tivat Pinješ ↔ Herceg Novi)",
+        "sistema_id": "morsko-dobro-boka-bay-ferry-kamenari-lepetane-kotor-perast-herceg-novi-tivat-baia-de-kotor-montenegro",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.7689,
+            42.4242
+          ],
+          [
+            18.6969,
+            42.4856
+          ],
+          [
+            18.6939,
+            42.4319
+          ],
+          [
+            18.5369,
+            42.4508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-ohr-l1",
+        "nome": "Linha Transfronteiriça do Lago de Ohrid (Porto de Ohrid ↔ Peštani / Baía dos Ossos ↔ Mosteiro de Sveti Naum ↔ Pogradec AL & Struga)",
+        "sistema_id": "lake-ohrid-prespa-skadar-navigation-ohrid-sveti-naum-struga-pogradec-virpazar-rijeka-crnojevica-macedonia-do-norte-albania-montenegro",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.6789,
+            41.1756
+          ],
+          [
+            20.7989,
+            41.1119
+          ],
+          [
+            20.7969,
+            40.995
+          ],
+          [
+            20.7406,
+            40.9139
+          ],
+          [
+            20.6589,
+            40.9025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-ska-l2",
+        "nome": "Hidrovia do Parque Nacional do Lago Skadar (Estação Ferro-Lacustre de Virpazar ↔ Vranjina ↔ Rijeka Crnojevića ME ↔ Shkodër AL)",
+        "sistema_id": "lake-ohrid-prespa-skadar-navigation-ohrid-sveti-naum-struga-pogradec-virpazar-rijeka-crnojevica-macedonia-do-norte-albania-montenegro",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0425,
+            42.3556
+          ],
+          [
+            19.0919,
+            42.2456
+          ],
+          [
+            19.475,
+            42.0625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-dan-l1",
+        "nome": "Travessias Internacionais Romeno-Búlgaras (Bechet ↔ Oryahovo, Turnu Măgurele ↔ Nikopol, Zimnicea ↔ Svishtov & Călărași Chiciu ↔ Silistra / Ostrov)",
+        "sistema_id": "lower-danube-ro-pax-ferries-bechet-oryahovo-calafat-vidin-turnu-magurele-nikopol-silistra-calarasi-galati-icba-romenia-bulgaria-ucrania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.945,
+            43.7489
+          ],
+          [
+            24.8856,
+            43.7119
+          ],
+          [
+            25.365,
+            43.6256
+          ],
+          [
+            27.2789,
+            44.1325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-isa-l2",
+        "nome": "Travessias da Dobruja e Fronteira Ucraniana (Galați ↔ I.C. Brătianu Tulcea & Isaccea RO ↔ Orlivka Odesa UA)",
+        "sistema_id": "lower-danube-ro-pax-ferries-bechet-oryahovo-calafat-vidin-turnu-magurele-nikopol-silistra-calarasi-galati-icba-romenia-bulgaria-ucrania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0356,
+            45.415
+          ],
+          [
+            28.0525,
+            45.4089
+          ],
+          [
+            28.4689,
+            45.2789
+          ],
+          [
+            28.4525,
+            45.2919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-hun-l1",
+        "nome": "Travessias do Danúbio Húngaro & BKK D14 (Visegrád ↔ Nagymaros, Vác ↔ Tahitótfalu, Budapeste Csepel ↔ Soroksár D14 & Mohács ↔ Újmohács)",
+        "sistema_id": "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.9669,
+            47.7919
+          ],
+          [
+            19.1239,
+            47.7725
+          ],
+          [
+            19.0925,
+            47.4025
+          ],
+          [
+            18.695,
+            45.9925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-tis-l2",
+        "nome": "Travessias do Rio Tisza e Lago Tisza (Tiszacsege ↔ Ároktő, Tiszatardos ↔ Tiszalök & Poroszló / Abádszalók)",
+        "sistema_id": "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.4025,
+            48.0319
+          ],
+          [
+            20.9625,
+            47.6989
+          ],
+          [
+            20.6925,
+            47.6419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-maz-l1",
+        "nome": "Hidrovia dos Grandes Lagos da Masúria (Węgorzewo ↔ Giżycko ↔ Ryn / Mikołajki ↔ Lago Śniardwy ↔ Eclusa Guzianka / Ruciane-Nida ↔ Pisz)",
+        "sistema_id": "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.7356,
+            54.2119
+          ],
+          [
+            21.7669,
+            54.0319
+          ],
+          [
+            21.5719,
+            53.8025
+          ],
+          [
+            21.5519,
+            53.6556
+          ],
+          [
+            21.805,
+            53.6289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ece78-elb-l2",
+        "nome": "Canal Ferro-Hidroviário de Elbląg — 5 Planos Inclinados (Elbląg ↔ Całuny / Jelenie / Oleśnica / Kąty / Buczyniec ↔ Miłomłyn ↔ Ostróda / Iława)",
+        "sistema_id": "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.3956,
+            54.1589
+          ],
+          [
+            19.5919,
+            53.9819
+          ],
+          [
+            19.8389,
+            53.765
+          ],
+          [
+            19.9619,
+            53.7025
+          ]
+        ]
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T12:15:00-03:00",
+  "atualizado_em": "2026-11-16T12:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2940,17 +2940,25 @@
         "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
         "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 192,
       "codigo": "HIDRO-EUROPA-CENTRAL-ORIENTAL-DANUBIO-BALCAS-MAR-NEGRO-VII",
       "pais": "Fase Hidroviária Mundial #78 — Europa Central, Bálcãs e Mar Negro: Navegação do Lago de Ohrid e Prespa (Macedônia do Norte / Albânia), Baía de Kotor (Kamenari–Lepetane Ferry, Montenegro), BKK D14 / Ferries do Danúbio Húngaro (Mohács / Kalocsa / Vác), Travessias Fluviais do Baixo Danúbio (Brăila–Smârdan / Bechet–Oryahovo, Romênia–Bulgária) e Lagos da Masúria (Giżycko–Mikołajki, Polônia) VII",
       "continente": "Europa",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 196,
+      "sistemas_adicionados": [
+        "morsko-dobro-boka-bay-ferry-kamenari-lepetane-kotor-perast-herceg-novi-tivat-baia-de-kotor-montenegro",
+        "lake-ohrid-prespa-skadar-navigation-ohrid-sveti-naum-struga-pogradec-virpazar-rijeka-crnojevica-macedonia-do-norte-albania-montenegro",
+        "lower-danube-ro-pax-ferries-bechet-oryahovo-calafat-vidin-turnu-magurele-nikopol-silistra-calarasi-galati-icba-romenia-bulgaria-ucrania",
+        "bkk-danube-ferries-d14-vac-tahiti-tothfalu-visegrad-nagymaros-paks-kalocsa-mohacs-tisza-ferries-tiszacsege-tokaj-hungria",
+        "zegluga-mazurska-augustowska-ostródzko-elblaska-canal-elblag-gizycko-mikolajki-ruciane-nida-wegorzewo-grandes-lagos-da-masuria-polonia"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 193,
       "codigo": "HIDRO-SUL-SUDESTE-ASIATICO-BANGLADESH-INDIA-SRI-LANKA-MALDIVAS-INDONESIA-VII",
@@ -3004,6 +3012,14 @@
       "codigo": "HIDRO-ORIENTE-MEDIO-GOLFO-OMA-MAR-ARABICO-BAIKAL-LENA-VIII",
       "pais": "Fase Hidroviária Mundial #84 — Golfo de Omã, Golfo Pérsico e Grandes Lagos Eurasiáticos: NFC / Mwasalat High-Speed Ferries Shinas–Khasab–Masirah Island (Omã), Abu Dhabi Mobility Ferries (Dalma Island & Sir Bani Yas, EAU), Kuwait Public Transport KPTC Failaka Island Ferries, Valfajr-8 Qeshm–Bandar Abbas–Kish (Irã) e Navegação do Lago Baikal e Rio Angara (Irkutsk–Listvyanka–Olkhon, Rússia) VIII",
       "continente": "Ásia",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 200,
+      "codigo": "HIDRO-EUROPA-OCIDENTAL-RIOS-LAGOAS-ALEMANHA-AUSTRIA-BELGICA-FRANCA-VIII",
+      "pais": "Fase Hidroviária Mundial #85 — Europa Ocidental: Wolfgangsee Schifffahrt & Hallstättersee (Salzkammergut, Áustria), Bayerische Seenschifffahrt (Königssee / Chiemsee / Starnberger See, Baviera), DeWaterbus Antuérpia & Gent Watertram (Bélgica), Les Bateaux Nantais / Navibus Erdre & Loire (Nantes, França) e Ferries do Rio Reno e Mosela VIII",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     }
