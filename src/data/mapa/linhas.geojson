@@ -67208,6 +67208,306 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-chi-l1",
+        "nome": "Canal de Chacao & Ilhas Interiores de Chiloé (Pargua ↔ Chacao 24h & Dalcahue ↔ Curaco de Vélez / Quinchao & Chonchi ↔ Ilha Lemuy)",
+        "sistema_id": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.6156,
+            -41.7919
+          ],
+          [
+            -73.5269,
+            -41.8294
+          ],
+          [
+            -73.6494,
+            -42.3808
+          ],
+          [
+            -73.6125,
+            -42.4419
+          ],
+          [
+            -73.7719,
+            -42.6225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-que-l2",
+        "nome": "Travessia do Golfo Corcovado — Rota Chiloé–Carretera Austral (Quellón ↔ Chaitén ↔ Melinka)",
+        "sistema_id": "transmarchilay-naviera-paredes-cruz-del-sur-canal-de-chacao-pargua-chacao-castro-quellon-chaiten-dalcahue-quinchao-chiloe-chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.6158,
+            -43.1189
+          ],
+          [
+            -72.7119,
+            -42.9189
+          ],
+          [
+            -73.7458,
+            -43.8975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-tig-l1",
+        "nome": "Rede Metropolitana do Delta do Paraná (Estación Fluvial de Tigre ↔ Rio Sarmiento ↔ Rio Capitán ↔ Carapachay ↔ Paraná de las Palmas)",
+        "sistema_id": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.5794,
+            -34.4208
+          ],
+          [
+            -58.5639,
+            -34.3825
+          ],
+          [
+            -58.545,
+            -34.3319
+          ],
+          [
+            -58.595,
+            -34.2889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-car-l2",
+        "nome": "Linha Internacional do Delta e Rio Guazú (Estación Fluvial de Tigre AR ↔ Isla Martín García ↔ Puerto de Carmelo UY)",
+        "sistema_id": "lanchas-colectivas-delta-del-parana-interisleña-jilguero-lineas-delta-estacion-fluvial-de-tigre-rio-sarmiento-parana-de-las-palmas-carmelo-argentina",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.5794,
+            -34.4208
+          ],
+          [
+            -58.2519,
+            -34.1856
+          ],
+          [
+            -58.2919,
+            -34.0019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-gal-l1",
+        "nome": "Triângulo Oceânico de Galápagos (Puerto Ayora Santa Cruz ↔ Puerto Baquerizo Moreno San Cristóbal & Santa Cruz ↔ Puerto Villamil Isabela ↔ Floreana)",
+        "sistema_id": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.9656,
+            -0.9569
+          ],
+          [
+            -90.3125,
+            -0.7456
+          ],
+          [
+            -89.6119,
+            -0.9025
+          ],
+          [
+            -90.4889,
+            -1.2742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-ita-l2",
+        "nome": "Ponte Hidroviária do Canal de Itabaca (Muelle de Baltra Aeropuerto ↔ Muelle de Santa Cruz Norte)",
+        "sistema_id": "galapagos-inter-island-speedboats-ferries-puerto-ayora-santa-cruz-puerto-baquerizo-moreno-san-cristobal-puerto-villamil-isabela-baltra-equador",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.2856,
+            -0.4875
+          ],
+          [
+            -90.2839,
+            -0.4925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-bze-l1",
+        "nome": "Expresso da Barreira de Coral e Baía de Chetumal (Belize City Marine Terminal ↔ Caye Caulker ↔ San Pedro Ambergris Caye ↔ Chetumal MX)",
+        "sistema_id": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1856,
+            17.495
+          ],
+          [
+            -88.0239,
+            17.7425
+          ],
+          [
+            -87.9619,
+            17.9169
+          ],
+          [
+            -88.2969,
+            18.4939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-che-l2",
+        "nome": "Travessias Costeiras de Belize (Corozal ↔ Sarteneja & Independence / Mango Creek ↔ Placencia & Punta Gorda ↔ Puerto Barrios GT)",
+        "sistema_id": "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4139,
+            16.535
+          ],
+          [
+            -88.3656,
+            16.5125
+          ],
+          [
+            -88.8089,
+            16.0989
+          ],
+          [
+            -88.5969,
+            15.7275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-mrg-l1",
+        "nome": "Tronco Continental – Ilha de Margarita (Puerto La Cruz / Guanta & Cumaná ↔ Terminal de Punta de Piedras Margarita)",
+        "sistema_id": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.6369,
+            10.2239
+          ],
+          [
+            -64.0625,
+            10.9019
+          ],
+          [
+            -64.1919,
+            10.4639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat74-coc-l2",
+        "nome": "Eixo Insular de Coche e Península de Araya (Punta de Piedras / El Yaque Margarita ↔ San Pedro de Coche ↔ Chacopata & Cumaná ↔ Araya)",
+        "sistema_id": "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.0625,
+            10.9019
+          ],
+          [
+            -63.9825,
+            10.7789
+          ],
+          [
+            -63.8219,
+            10.675
+          ]
+        ]
+      }
     }
   ]
 }
