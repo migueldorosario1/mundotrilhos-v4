@@ -64623,6 +64623,456 @@
           -11.0885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-luc-e1",
+        "nome": "Luzern Bahnhofquai Schiffsstation — Lago dos Quatro Cantões (Lucerna, Suíça)",
+        "sistema_id": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+        "linha_id": "hidro-weu66-luc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3112,
+          47.0512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-luc-e2",
+        "nome": "Weggis & Vitznau Schiffsstationen — Conexão Rigi Bahnen (Lago de Lucerna, Suíça)",
+        "sistema_id": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+        "linha_id": "hidro-weu66-luc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4835,
+          47.0085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-luc-e3",
+        "nome": "Brunnen & Flüelen Schiffsstationen — Conexão Gotthard Panorama Express (Uri, Suíça)",
+        "sistema_id": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+        "linha_id": "hidro-weu66-luc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6225,
+          46.9015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bls-e4",
+        "nome": "Thun & Spiez Schiffsstationen — Lago de Thun (Cantão de Berna, Suíça)",
+        "sistema_id": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+        "linha_id": "hidro-weu66-bls-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6325,
+          46.7525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bls-e5",
+        "nome": "Interlaken West/Ost & Brienz Schiffsstationen — Lagos de Thun e Brienz (Berna, Suíça)",
+        "sistema_id": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+        "linha_id": "hidro-weu66-bls-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8695,
+          46.6915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-nld-e1",
+        "nome": "Rotterdam Erasmusbrug & Kinderdijk / Alblasserdam Waterbus Stops (Holanda do Sul, Países Baixos)",
+        "sistema_id": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+        "linha_id": "hidro-weu66-nld-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4842,
+          51.9085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-nld-e2",
+        "nome": "Dordrecht Merwekade & Papendrecht / Sliedrecht Waterbus Terminals (Holanda do Sul, Países Baixos)",
+        "sistema_id": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+        "linha_id": "hidro-weu66-nld-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6685,
+          51.8195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-nld-e3",
+        "nome": "Vlissingen & Breskens Westerschelde Ferry Terminals (Estuário do Escalda Ocidental, Zelândia)",
+        "sistema_id": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+        "linha_id": "hidro-weu66-nld-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5995,
+          51.4415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-nld-e4",
+        "nome": "Harlingen Veerhaven ↔ Terschelling & Vlieland — Rederij Doeksen (Frísia, Países Baixos)",
+        "sistema_id": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+        "linha_id": "hidro-weu66-nld-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4125,
+          53.1752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-nld-e5",
+        "nome": "Holwert ↔ Ameland & Lauwersoog ↔ Schiermonnikoog — Wagenborg (Frísia / Groningen, Países Baixos)",
+        "sistema_id": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+        "linha_id": "hidro-weu66-nld-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8815,
+          53.3915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bre-e1",
+        "nome": "Gare Maritime de Quiberon — Port Maria (Morbihan, Bretanha, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+        "linha_id": "hidro-weu66-bre-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1225,
+          47.4765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bre-e2",
+        "nome": "Port du Palais & Sauzon (Belle-Île-en-Mer) e Ilhas de Houat / Hoëdic (Morbihan, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+        "linha_id": "hidro-weu66-bre-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1525,
+          47.3465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bre-e3",
+        "nome": "Gare Maritime de Lorient & Port-Tudy — Île de Groix (Morbihan, Bretanha, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+        "linha_id": "hidro-weu66-bre-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4452,
+          47.6435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bre-e4",
+        "nome": "Port de Brest & Gare Maritime du Conquet (Finistère, Bretanha, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+        "linha_id": "hidro-weu66-bre-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7752,
+          48.3612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bre-e5",
+        "nome": "Port du Stiff (Île d'Ouessant), Île-Molène & Île de Sein (Mar de Iroise, Finistère, França)",
+        "sistema_id": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+        "linha_id": "hidro-weu66-bre-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0525,
+          48.4725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bod-e1",
+        "nome": "Hafen Konstanz, Insel Mainau & Autofähre Konstanz-Staad ↔ Meersburg (Baden-Württemberg, Alemanha)",
+        "sistema_id": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+        "linha_id": "hidro-weu66-bod-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1815,
+          47.6612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bod-e2",
+        "nome": "Fährhafen Friedrichshafen (Alemanha) ↔ Romanshorn Autoquai (Turgovia, Suíça)",
+        "sistema_id": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+        "linha_id": "hidro-weu66-bod-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4752,
+          47.6485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bod-e3",
+        "nome": "Hafen Lindau im Bodensee (Baviera, Alemanha)",
+        "sistema_id": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+        "linha_id": "hidro-weu66-bod-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6842,
+          47.5442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bod-e4",
+        "nome": "Hafen Bregenz — Vorarlberg Lines (Vorarlberg, Áustria)",
+        "sistema_id": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+        "linha_id": "hidro-weu66-bod-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7425,
+          47.5052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bod-e5",
+        "nome": "Schifflände Stein am Rhein & Schaffhausen (Hidrovia do Alto Reno / Untersee, Suíça)",
+        "sistema_id": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+        "linha_id": "hidro-weu66-bod-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6385,
+          47.6942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-fri-e1",
+        "nome": "Außenhafen Emden (Alemanha) & Eemshaven (NL) ↔ Reede Borkum (Ilha de Borkum, Alemanha)",
+        "sistema_id": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+        "linha_id": "hidro-weu66-fri-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7485,
+          53.5585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-fri-e2",
+        "nome": "Fährhafen Norddeich Mole (DB Bahnhof) ↔ Ilhas de Norderney & Juist (Baixa Saxônia, Alemanha)",
+        "sistema_id": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+        "linha_id": "hidro-weu66-fri-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1565,
+          53.6215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-fri-e3",
+        "nome": "Bensersiel & Neßmersiel Ferry Ports ↔ Ilhas de Langeoog & Baltrum (Frísia Oriental, Alemanha)",
+        "sistema_id": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+        "linha_id": "hidro-weu66-fri-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4795,
+          53.6785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-fri-e4",
+        "nome": "Neuharlingersiel & Harlesiel Ports ↔ Ilhas de Spiekeroog & Wangerooge (DB Inselbahn, Alemanha)",
+        "sistema_id": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+        "linha_id": "hidro-weu66-fri-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8325,
+          53.7085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-fri-e5",
+        "nome": "Alte Liebe Cuxhaven ↔ Ilha de Neuwerk (Estuário do Elba / Mar de Wadden, Alemanha)",
+        "sistema_id": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+        "linha_id": "hidro-weu66-fri-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7085,
+          53.8725
+        ]
+      }
     }
   ]
 }
