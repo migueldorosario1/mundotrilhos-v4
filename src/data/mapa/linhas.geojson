@@ -64684,6 +64684,290 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-luc-l1",
+        "nome": "Lago dos Quatro Cantões — SGV (Luzern Bahnhofquai ↔ Weggis / Vitznau ↔ Beckenried ↔ Brunnen ↔ Flüelen)",
+        "sistema_id": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.3112,
+            47.0512
+          ],
+          [
+            8.4835,
+            47.0085
+          ],
+          [
+            8.6225,
+            46.9015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bls-l2",
+        "nome": "Lagos de Thun e de Brienz — BLS Schifffahrt (Thun ↔ Spiez ↔ Interlaken West / Ost ↔ Giessbach ↔ Brienz)",
+        "sistema_id": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6325,
+            46.7525
+          ],
+          [
+            7.8695,
+            46.6915
+          ],
+          [
+            8.0315,
+            46.7542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-nld-l1",
+        "nome": "Waterbus Roterdã–Dordrecht e Escalda Ocidental (Rotterdam Erasmusbrug ↔ Kinderdijk ↔ Dordrecht & Vlissingen ↔ Breskens)",
+        "sistema_id": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.4842,
+            51.9085
+          ],
+          [
+            4.6685,
+            51.8195
+          ],
+          [
+            3.5995,
+            51.4415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-nld-l2",
+        "nome": "Ilhas Frísias do Mar de Wadden — Doeksen & Wagenborg (Harlingen ↔ Vlieland / Terschelling & Holwert ↔ Ameland & Lauwersoog ↔ Schiermonnikoog)",
+        "sistema_id": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4125,
+            53.1752
+          ],
+          [
+            5.2185,
+            53.3612
+          ],
+          [
+            5.8815,
+            53.3915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bre-l1",
+        "nome": "BreizhGo Océane — Ilhas de Morbihan (Quiberon ↔ Belle-Île-en-Mer / Houat / Hoëdic & Lorient ↔ Île de Groix)",
+        "sistema_id": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4452,
+            47.6435
+          ],
+          [
+            -3.1225,
+            47.4765
+          ],
+          [
+            -3.1525,
+            47.3465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bre-l2",
+        "nome": "BreizhGo Penn Ar Bed — Mar de Iroise (Brest ↔ Le Conquet ↔ Île-Molène ↔ Île d'Ouessant & Audierne ↔ Île de Sein)",
+        "sistema_id": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4925,
+            48.3815
+          ],
+          [
+            -4.7752,
+            48.3612
+          ],
+          [
+            -5.0525,
+            48.4725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bod-l1",
+        "nome": "Obersee & Ferries Internacionais do Bodensee (Konstanz ↔ Meersburg ↔ Friedrichshafen ↔ Romanshorn ↔ Lindau ↔ Bregenz)",
+        "sistema_id": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1815,
+            47.6612
+          ],
+          [
+            9.4752,
+            47.6485
+          ],
+          [
+            9.6842,
+            47.5442
+          ],
+          [
+            9.7425,
+            47.5052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-bod-l2",
+        "nome": "Untersee e Alto Reno — URh (Konstanz ↔ Ilha de Reichenau ↔ Stein am Rhein ↔ Schaffhausen)",
+        "sistema_id": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1815,
+            47.6612
+          ],
+          [
+            8.8595,
+            47.6585
+          ],
+          [
+            8.6385,
+            47.6942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-fri-l1",
+        "nome": "Frísia Oriental Oeste — AG Ems & Norden-Frisia (Emden / Eemshaven ↔ Borkum & Norddeich Mole ↔ Juist / Norderney)",
+        "sistema_id": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.7485,
+            53.5585
+          ],
+          [
+            6.9825,
+            53.6712
+          ],
+          [
+            7.1565,
+            53.6215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-weu66-fri-l2",
+        "nome": "Frísia Oriental Leste & Estuário do Elba (Bensersiel ↔ Langeoog / Baltrum & Harlesiel ↔ Wangerooge / Spiekeroog & Cuxhaven ↔ Neuwerk)",
+        "sistema_id": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.4795,
+            53.6785
+          ],
+          [
+            7.8325,
+            53.7085
+          ],
+          [
+            8.7085,
+            53.8725
+          ]
+        ]
+      }
     }
   ]
 }

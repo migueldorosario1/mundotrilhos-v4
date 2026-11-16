@@ -49818,5 +49818,329 @@
         "estacoes": 3
       }
     ]
+  },
+  {
+    "id": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+    "slug": "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+    "nome_pt": "SGV Lago dos Quatro Cantões (Lucerna–Weggis–Vitznau–Brunnen–Flüelen) e BLS Schifffahrt Lagos de Thun e Brienz (Interlaken, Suíça)",
+    "nome_en": "SGV Lake Lucerne Navigation (Lucerne–Weggis–Vitznau–Brunnen–Flüelen) & BLS Lake Thun / Lake Brienz Navigation (Interlaken, Switzerland)",
+    "pais": "Suíça",
+    "cidade": "Lucerna / Vitznau / Flüelen / Thun / Interlaken / Brienz",
+    "uf": "Luzern / Uri / Bern",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "SGV AG (Schifffahrtsgesellschaft des Vierwaldstättersees) / BLS Schifffahrt AG",
+    "inauguracao": "1837",
+    "extensao_km": 145,
+    "bitola": "N/A (Hidrovias Lacustres Alpinas Integradas ao Swiss Travel System)",
+    "eletrificacao": "Históricos Vapores de Rodas (DS Uri / Gallia / Lötschberg) e Navios Híbridos MS Diamant / Bürgenstock",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 16500,
+    "ano_referencia": 2026,
+    "investimento": "Conversão do navio MS Saphir da SGV para propulsão elétrica a hidrogênio/bateria e modernização dos píeres de Lucerna e Interlaken",
+    "proximas_entregas": "Novos catamarãs híbridos para a ligação pendular Lucerna ↔ Kehrsiten-Bürgenstock",
+    "resumo_pt": "Duas das mais emblemáticas frotas lacustres da Suíça, totalmente integradas à rede ferroviária nacional (SBB/BLS/Zentralbahn e Swiss Travel Pass): no Lago dos Quatro Cantões (Vierwaldstättersee), a SGV opera 5 históricos vapores de rodas (como o DS Uri de 1901 e o DS Gallia de 1913) e modernos navios híbridos como o MS Diamant e o catamarã MS Bürgenstock entre Lucerna Bahnhofquai, Weggis, Vitznau (conexão com a ferrovia de cremalheira do Rigi), Treib, Brunnen e Flüelen (elo do Gotthard Panorama Express); no Oberland Bernês, a BLS Schifffahrt navega pelos lagos de Thun e de Brienz interligando Thun, Spiez, Interlaken West, Interlaken Ost, Giessbach e Brienz.",
+    "resumo_en": "Two of Switzerland's flagship alpine lake fleets, fully integrated into the national rail network and Swiss Travel System: on Lake Lucerne, SGV operates 5 historic paddle steamers and modern hybrid vessels (MS Diamant and MS Bürgenstock) linking Lucerne Bahnhofquai, Weggis, Vitznau (Rigi cogwheel rail link), Brunnen and Flüelen (Gotthard Panorama Express); in the Bernese Oberland, BLS Schifffahrt sails Lakes Thun and Brienz connecting Thun, Spiez, Interlaken and Brienz.",
+    "lat": 47.0085,
+    "lon": 8.4835,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "bav-admin-ch",
+      "lakelucerne-ch"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "vapor",
+      "suica",
+      "lucerna",
+      "vitznau",
+      "fluelen",
+      "interlaken",
+      "thun",
+      "brienz"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-weu66-luc-l1",
+        "nome": "Lago dos Quatro Cantões — SGV (Luzern Bahnhofquai ↔ Weggis / Vitznau ↔ Beckenried ↔ Brunnen ↔ Flüelen)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 75,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-weu66-bls-l2",
+        "nome": "Lagos de Thun e de Brienz — BLS Schifffahrt (Thun ↔ Spiez ↔ Interlaken West / Ost ↔ Giessbach ↔ Brienz)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 70,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+    "slug": "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+    "nome_pt": "Waterbus Roterdã–Kinderdijk–Dordrecht, Westerschelde Ferry (Vlissingen–Breskens) e Ferries do Mar de Wadden Doeksen/Wagenborg (Países Baixos)",
+    "nome_en": "Waterbus Rotterdam–Kinderdijk–Dordrecht, Westerschelde Ferry (Vlissingen–Breskens) & Wadden Sea Ferries Doeksen/Wagenborg (Netherlands)",
+    "pais": "Países Baixos",
+    "cidade": "Roterdã / Dordrecht / Vlissingen / Harlingen / Terschelling / Ameland",
+    "uf": "Zuid-Holland / Zeeland / Friesland / Groningen",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Blue Amigo (Waterbus) / Westerschelde Ferry BV / Rederij Doeksen / Wagenborg Passagiersdiensten",
+    "inauguracao": "1999",
+    "extensao_km": 260,
+    "bitola": "N/A (Hidrovia Metropolitana do Delta Reno-Mosa-Escalda e Mar de Wadden)",
+    "eletrificacao": "Catamarãs Híbridos/Elétricos Waterbus, Navios a GNL Willem Barentsz / Willem de Vlamingh (Doeksen) e Westerschelde Ferry",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": "Frota renovada do Waterbus em Roterdã–Dordrecht (com transporte gratuito de bicicletas e integração OV-chipkaart) e navios a GNL da Rederij Doeksen",
+    "proximas_entregas": "Novos catamarãs 100% elétricos para a travessia do Escalda Ocidental (Vlissingen–Breskens)",
+    "resumo_pt": "Principais redes hidroviárias de transporte público e insular dos Países Baixos: na Holanda do Sul, o sistema metropolitano Waterbus (Linhas 20, 21, 22 e 23) conecta rapidamente Roterdã (Erasmusbrug), Krimpen aan den IJssel, Ridderkerk, Alblasserdam (moinhos de Kinderdijk), Hendrik-Ido-Ambacht, Papendrecht, Sliedrecht e Dordrecht pelos rios Nieuwe Maas, Noord e Beneden-Merwede; na Zelândia, o Westerschelde Ferry liga a estação ferroviária de Vlissingen a Breskens; no norte (Patrimônio Mundial do Mar de Wadden), a Rederij Doeksen conecta Harlingen a Vlieland e Terschelling e a Wagenborg liga Holwert a Ameland e Lauwersoog a Schiermonnikoog.",
+    "resumo_en": "Primary public water bus and island ferry networks of the Netherlands: in South Holland, the metropolitan Waterbus network links Rotterdam (Erasmusbrug), Kinderdijk, Papendrecht, Sliedrecht and Dordrecht along the Rhine–Meuse delta rivers; in Zeeland, the Westerschelde Ferry connects Vlissingen railway station to Breskens; in the northern Wadden Sea, Rederij Doeksen links Harlingen to Vlieland and Terschelling while Wagenborg connects Holwert to Ameland and Lauwersoog to Schiermonnikoog.",
+    "lat": 51.9085,
+    "lon": 4.4842,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "waterbus-nl",
+      "rederij-doeksen-nl"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "waterbus",
+      "ferry",
+      "paises-baixos",
+      "roterda",
+      "dordrecht",
+      "kinderdijk",
+      "vlissingen",
+      "terschelling",
+      "ameland"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-weu66-nld-l1",
+        "nome": "Waterbus Roterdã–Dordrecht e Escalda Ocidental (Rotterdam Erasmusbrug ↔ Kinderdijk ↔ Dordrecht & Vlissingen ↔ Breskens)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 110,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-weu66-nld-l2",
+        "nome": "Ilhas Frísias do Mar de Wadden — Doeksen & Wagenborg (Harlingen ↔ Vlieland / Terschelling & Holwert ↔ Ameland & Lauwersoog ↔ Schiermonnikoog)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 150,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+    "slug": "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+    "nome_pt": "BreizhGo Océane (Quiberon–Belle-Île-en-Mer–Houat–Hoëdic e Lorient–Île de Groix) e Penn Ar Bed (Brest/Le Conquet–Ouessant–Molène–Sein, França)",
+    "nome_en": "BreizhGo Océane (Quiberon–Belle-Île-en-Mer–Houat–Hoëdic & Lorient–Île de Groix) & Penn Ar Bed (Brest/Le Conquet–Ouessant–Molène–Sein, Brittany, France)",
+    "pais": "França",
+    "cidade": "Quiberon / Belle-Île-en-Mer / Lorient / Brest / Le Conquet / Ouessant",
+    "uf": "Bretagne (Morbihan / Finistère)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "BreizhGo Océane (Transdev) & BreizhGo Penn Ar Bed (Keolis — Région Bretagne)",
+    "inauguracao": "1950",
+    "extensao_km": 280,
+    "bitola": "N/A (Hidrovia Insular Atlântica da Bretanha e Mar de Iroise)",
+    "eletrificacao": "Ferries Ro-Pax Breizh Nevez I, Vindilis e Bangor e Navios Rápidos Enez Eussa III / Fromveur II",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 13500,
+    "ano_referencia": 2026,
+    "investimento": "Novo ferry Ro-Pax Breizh Nevez I da Região da Bretanha e renovação das gares marítimas de Quiberon, Lorient e Le Conquet",
+    "proximas_entregas": "Novas embarcações de propulsão híbrida/descarbonizada para as Ilhas do Ponant na rede BreizhGo",
+    "resumo_pt": "Serviço público regional de transporte marítimo da Região da Bretanha (rede BreizhGo) para as Ilhas do Ponant no Atlântico: em Morbihan, a BreizhGo Océane conecta durante todo o ano Quiberon (integrado ao trem Tire-Bouchon da SNCF) a Le Palais e Sauzon em Belle-Île-en-Mer e às ilhas sem carros de Houat e Hoëdic, além de ligar Lorient a Port-Tudy na Île de Groix; em Finistère (Mar de Iroise), a BreizhGo Penn Ar Bed conecta Brest, Le Conquet e Camaret às ilhas de Molène e Ouessant, e Audierne à Île de Sein.",
+    "resumo_en": "Brittany Region's public maritime network (BreizhGo) serving the Ponant Islands in the Atlantic: in Morbihan, BreizhGo Océane links Quiberon year-round to Le Palais on Belle-Île-en-Mer and the car-free islands of Houat and Hoëdic alongside Lorient–Île de Groix; in Finistère (Iroise Sea), BreizhGo Penn Ar Bed connects Brest and Le Conquet to Molène and Ouessant islands and Audierne to Île de Sein.",
+    "lat": 47.4765,
+    "lon": -3.1225,
+    "zoom_inicial": 7.2,
+    "fontes": [
+      "breizhgo-bzh",
+      "compagnie-oceane-fr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "franca",
+      "bretanha",
+      "quiberon",
+      "belle-ile",
+      "lorient",
+      "groix",
+      "brest",
+      "ouessant",
+      "breizhgo"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-weu66-bre-l1",
+        "nome": "BreizhGo Océane — Ilhas de Morbihan (Quiberon ↔ Belle-Île-en-Mer / Houat / Hoëdic & Lorient ↔ Île de Groix)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 135,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-weu66-bre-l2",
+        "nome": "BreizhGo Penn Ar Bed — Mar de Iroise (Brest ↔ Le Conquet ↔ Île-Molène ↔ Île d'Ouessant & Audierne ↔ Île de Sein)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 145,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+    "slug": "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+    "nome_pt": "Navegação e Ferries do Lago de Constança / Bodensee (Konstanz–Meersburg, Friedrichshafen–Romanshorn, Lindau–Bregenz e Schaffhausen, Alemanha/Suíça/Áustria)",
+    "nome_en": "Lake Constance / Bodensee Ferries & Navigation (Konstanz–Meersburg, Friedrichshafen–Romanshorn, Lindau–Bregenz & Schaffhausen, Germany/Switzerland/Austria)",
+    "pais": "Alemanha / Suíça / Áustria",
+    "cidade": "Constança (Konstanz) / Meersburg / Friedrichshafen / Romanshorn / Lindau / Bregenz / Schaffhausen",
+    "uf": "Baden-Württemberg / Bayern / Thurgau / Schaffhausen / Vorarlberg",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "BSB (Bodensee-Schiffsbetriebe) / Stadtwerke Konstanz (Autofähre) / SBS (Schweizerische Bodensee-Schifffahrt) / Vorarlberg Lines (VLB) / URh",
+    "inauguracao": "1824",
+    "extensao_km": 195,
+    "bitola": "N/A (Hidrovia Lacustre Trinacional do Lago de Constança e Alto Reno)",
+    "eletrificacao": "Ferry a GNL FS Richmond (Konstanz–Meersburg), Navio 100% Elétrico MS Insel Mainau (BSB) e Catamarãs Constanze/Fridolin/Ferdinand",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 25000,
+    "ano_referencia": 2026,
+    "investimento": "Navio 100% elétrico MS Insel Mainau da BSB e ferry movido a GNL FS Richmond na travessia 24h Konstanz–Meersburg",
+    "proximas_entregas": "Segundo navio totalmente elétrico da BSB no Lago de Constança",
+    "resumo_pt": "Frota trinacional unificada (Vereinigte Schifffahrtsunternehmen für den Bodensee und Rhein — VSU) que conecta a Alemanha, a Suíça e a Áustria no Lago de Constança (Bodensee): inclui a Autofähre Konstanz-Staad ↔ Meersburg (operando 24h a cada 15 minutos), o ferry Ro-Pax internacional Friedrichshafen ↔ Romanshorn e o catamarã rápido Konstanz ↔ Friedrichshafen (52 min), os navios da BSB, SBS e Vorarlberg Lines entre Constança, Ilha de Mainau, Überlingen, Friedrichshafen, Lindau e Bregenz, e a navegação fluvial da URh pelo Untersee e Alto Reno até Stein am Rhein e Schaffhausen.",
+    "resumo_en": "Unified trinational fleet (VSU) linking Germany, Switzerland and Austria across Lake Constance (Bodensee) and the High Rhine: includes the 24/7 Konstanz–Meersburg vehicle ferry, the international Friedrichshafen–Romanshorn Ro-Pax ferry, the Konstanz–Friedrichshafen high-speed catamaran, passenger ships of BSB, SBS and Vorarlberg Lines to Mainau, Lindau and Bregenz, and URh river boats down the High Rhine to Stein am Rhein and Schaffhausen.",
+    "lat": 47.6485,
+    "lon": 9.4752,
+    "zoom_inicial": 8.6,
+    "fontes": [
+      "bsb-de",
+      "bodensee-schiffe-ch"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "alemanha",
+      "suica",
+      "austria",
+      "lago-de-constanca",
+      "bodensee",
+      "konstanz",
+      "friedrichshafen",
+      "lindau",
+      "bregenz"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-weu66-bod-l1",
+        "nome": "Obersee & Ferries Internacionais do Bodensee (Konstanz ↔ Meersburg ↔ Friedrichshafen ↔ Romanshorn ↔ Lindau ↔ Bregenz)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 130,
+        "estacoes": 4
+      },
+      {
+        "id": "hidro-weu66-bod-l2",
+        "nome": "Untersee e Alto Reno — URh (Konstanz ↔ Ilha de Reichenau ↔ Stein am Rhein ↔ Schaffhausen)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 65,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+    "slug": "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha",
+    "nome_pt": "Ferries das Ilhas Frísias Orientais no Mar do Norte (Emden/Eemshaven–Borkum, Norddeich–Juist–Norderney, Langeoog, Spiekeroog, Wangerooge e Cuxhaven, Alemanha)",
+    "nome_en": "East Frisian Islands North Sea Ferries (Emden/Eemshaven–Borkum, Norddeich–Juist–Norderney, Langeoog, Spiekeroog, Wangerooge & Cuxhaven, Germany)",
+    "pais": "Alemanha / Países Baixos",
+    "cidade": "Emden / Borkum / Norddeich / Norderney / Juist / Langeoog / Wangerooge / Cuxhaven",
+    "uf": "Niedersachsen / Groningen",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "AG Ems / Reederei Norden-Frisia / Schiffahrt Langeoog / DB Fernverkehr Schifffahrt Wangerooge / Reederei Cassen Eils",
+    "inauguracao": "1871",
+    "extensao_km": 240,
+    "bitola": "N/A (Hidrovia Insular do Parque Nacional do Mar de Wadden da Baixa Saxônia)",
+    "eletrificacao": "Ferry a GNL MS Münsterland / Ostfriesland (AG Ems), Novo Catamarã 100% Elétrico Frisia E-I (Norddeich–Norderney) e Conexão com as Inselbahnen",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 22000,
+    "ano_referencia": 2026,
+    "investimento": "Catamarã 100% elétrico Frisia E-I na rota Norddeich–Norderney e integração ferroviária direta com as ferrovias insulares (Inselbahnen de Borkum, Langeoog e Wangerooge)",
+    "proximas_entregas": "Expansão de embarcações elétricas para as travessias de maré do Mar de Wadden",
+    "resumo_pt": "Cordão de sete ilhas habitadas (cinco delas totalmente livres de carros) na Frísia Oriental alemã, conectadas ao continente por frotas especializadas que operam sobre o Mar de Wadden e se integram diretamente às ferrovias insulares de bitola métrica: a AG Ems conecta Emden (Alemanha) e Eemshaven (Países Baixos) à Ilha de Borkum (com embarque direto na Borkumer Kleinbahn no cais); a Reederei Norden-Frisia liga a estação ferroviária de Norddeich Mole a Norderney e Juist; e frotas dedicadas ligam Neßmersiel a Baltrum, Bensersiel a Langeoog (integrado à Inselbahn Langeoog), Neuharlingersiel a Spiekeroog, Harlesiel a Wangerooge (operado pela própria Deutsche Bahn com a Wangerooger Inselbahn) e Cuxhaven a Neuwerk.",
+    "resumo_en": "Chain of seven inhabited East Frisian barrier islands in Germany's Wadden Sea (five of them car-free), linked to the mainland by specialized ferry fleets directly integrated with narrow-gauge island railways (Inselbahnen): AG Ems connects Emden and Eemshaven (NL) to Borkum (connecting at the pier with the Borkumer Kleinbahn); Reederei Norden-Frisia links Norddeich Mole rail station to Norderney and Juist; and dedicated operators connect Bensersiel to Langeoog, Neuharlingersiel to Spiekeroog, Harlesiel to Wangerooge (operated by Deutsche Bahn alongside the Wangerooge Island Railway) and Cuxhaven to Neuwerk.",
+    "lat": 53.6215,
+    "lon": 7.1565,
+    "zoom_inicial": 7.4,
+    "fontes": [
+      "ag-ems-de",
+      "reederei-frisia-de",
+      "siw-wangerooge-de"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "alemanha",
+      "frisia-oriental",
+      "borkum",
+      "norderney",
+      "juist",
+      "langeoog",
+      "wangerooge",
+      "cuxhaven"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-weu66-fri-l1",
+        "nome": "Frísia Oriental Oeste — AG Ems & Norden-Frisia (Emden / Eemshaven ↔ Borkum & Norddeich Mole ↔ Juist / Norderney)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 130,
+        "estacoes": 2
+      },
+      {
+        "id": "hidro-weu66-fri-l2",
+        "nome": "Frísia Oriental Leste & Estuário do Elba (Bensersiel ↔ Langeoog / Baltrum & Harlesiel ↔ Wangerooge / Spiekeroog & Cuxhaven ↔ Neuwerk)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 110,
+        "estacoes": 3
+      }
+    ]
   }
 ]

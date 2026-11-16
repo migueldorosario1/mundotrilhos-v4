@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T05:44:00-03:00",
+  "atualizado_em": "2026-11-16T06:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2585,6 +2585,22 @@
         "hidrovia-rio-javari-alto-solimoes-tabatinga-benjamin-constant-atalaia-do-norte-palmeiras-do-javari-sao-paulo-de-olivenca-am",
         "travessias-medio-sao-francisco-barra-xique-xique-ibiraba-pilao-arcado-remanso-sento-se-sobradinho-juazeiro-petrolina-ba-pe"
       ]
+    },
+    {
+      "ordem": 179,
+      "codigo": "HIDRO-EUROPA-OCIDENTAL-BENELUX-ALEMANHA-SUICA-FRANCA-VI",
+      "pais": "Fase Hidroviária Mundial #66 — Europa Ocidental: Lagos Suíços, Estuários Holandeses, Ilhas Frísias e Costa Atlântica Francesa VI (SGV Lago dos Quatro Cantões Lucerna–Weggis–Vitznau–Flüelen e BLS Schifffahrt Lagos de Thun e Brienz na Suíça; Waterbus Roterdã–Kinderdijk–Dordrecht, Westerschelde Ferry Vlissingen–Breskens e Ferries do Mar de Wadden Doeksen/Wagenborg nos Países Baixos; BreizhGo Océane Quiberon–Belle-Île-en-Mer–Houat–Hoëdic e Lorient–Île de Groix e Penn Ar Bed Brest/Le Conquet–Ouessant–Molène–Sein na Bretanha, França; Navegação e Ferries do Lago de Constança / Bodensee na Alemanha/Suíça/Áustria; e Ferries das Ilhas Frísias Orientais Borkum, Juist, Norderney, Langeoog, Spiekeroog e Wangerooge na Alemanha)",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 183,
+      "sistemas_adicionados": [
+        "sgv-vierwaldstattersee-lucerna-weggis-vitznau-fluelen-bls-schifffahrt-thunersee-brienzersee-interlaken-suica",
+        "waterbus-rotterdam-dordrecht-kinderdijk-sliedrecht-westerschelde-ferry-vlissingen-breskens-doeksen-wagenborg-waddenzee-paises-baixos",
+        "compagnie-oceane-breizhgo-quiberon-belle-ile-en-mer-le-palais-houat-hoedic-lorient-ile-de-groix-penn-ar-bed-brest-ouessant-molene-sein-franca",
+        "bsb-bodensee-schiffsbetriebe-autofahre-konstanz-meersburg-friedrichshafen-romanshorn-lindau-bregenz-lago-de-constanca-alemanha-suica-austria",
+        "reederei-cassen-eils-ag-ems-frisia-cuxhaven-neuwerk-borkum-juist-norderney-baltrum-langeoog-spiekeroog-wangerooge-ilhas-frisias-orientais-alemanha"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2734,12 +2750,28 @@
       ]
     },
     {
-      "ordem": 179,
-      "codigo": "HIDRO-EUROPA-OCIDENTAL-BENELUX-ALEMANHA-SUICA-FRANCA-VI",
-      "pais": "Fase Hidroviária Mundial #66 — Europa Ocidental: Lagos Suíços, Estuários Holandeses, Ilhas Frísias e Costa Atlântica Francesa VI",
-      "continente": "Europa",
+      "ordem": 180,
+      "codigo": "HIDRO-ASIA-ORIENTAL-SUDESTE-CHINA-JAPAO-VIETNA-INDONESIA-VI",
+      "pais": "Fase Hidroviária Mundial #67 — Ásia Oriental e Sudeste Asiático: Golfo de Tonquim, Baía de Ise/Mikawa, Mar Interior de Seto e Estreitos da Indonésia VI",
+      "continente": "Ásia",
       "prioridade": "alta",
-      "foco": "Transporte por barco (SGV Lago dos Quatro Cantões Lucerna–Weggis–Vitznau–Flüelen e BLS Lago de Thun e Lago de Brienz na Suíça; Aquabus / Waterbus Roterdã–Dordrecht e Riveo/Westerschelde Ferry Vlissingen–Breskens nos Países Baixos; Compagnie Océane Lorient–Groix e Quiberon–Belle-Île-en-Mer–Houat–Hoëdic e Penn Ar Bed Brest/Le Conquet–Ouessant–Molène–Sein na Bretanha, França; e Bodensee-Schiffsbetriebe e Ferry Konstanz–Meersburg no Lago de Constança)"
+      "foco": "Transporte por barco (Ferries da Baía de Mikawa Himakajima–Shinojima–Isshiki/Kowa e Ferries de Onomichi–Mukaishima–Setoda–Ikuchijima no Shimanami Kaido no Japão; Ferries do Estreito de Qiongzhou Haikou Xinhai/Xiuying–Xuwen Hai'an e Beihai–Ilha de Weizhou na China; Superdong / Phu Quoc Express Rạch Giá–Phú Quốc–Côn Đảo–Trần Đề no Vietnã; e ASDP Ferries do Estreito de Bali Ketapang–Gilimanuk e Estreito de Lombok Padangbai–Lembar na Indonésia)"
+    },
+    {
+      "ordem": 181,
+      "codigo": "HIDRO-AMERICA-DO-NORTE-CANADA-EUA-ALASCA-GRANDES-LAGOS-COSTA-LESTE-VI",
+      "pais": "Fase Hidroviária Mundial #68 — América do Norte: Alasca, São Lourenço, Lago Erie/Huron, Baía de Chesapeake e Outer Banks VI",
+      "continente": "América do Norte",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Miller Boat Line & Jet Express Put-in-Bay / Kelleys Island e Pelee Island Ferry no Lago Erie; Owen Sound Transportation MS Chi-Cheemaun Tobermory–South Baymouth em Manitoulin Island no Lago Huron; Société des traversiers du Québec STQ Québec–Lévis, Tadoussac–Baie-Sainte-Catherine e Matane–Baie-Comeau–Godbout no Rio São Lourenço; Tangier Island & Smith Island Ferries na Baía de Chesapeake; e Inter-Island Ferry Authority Ketchikan–Prince of Wales Island no Alasca)"
+    },
+    {
+      "ordem": 182,
+      "codigo": "HIDRO-MEDITERRANEO-ATLANTICO-ESPANHA-PORTUGAL-ITALIA-GRECIA-MARROCOS-VI",
+      "pais": "Fase Hidroviária Mundial #69 — Mediterrâneo, Atlântico Ibérico, Golfo de Nápoles, Cíclades e Adriático VI",
+      "continente": "Europa e África",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Naviera Mar de Ons & Nabia Vigo–Cangas–Moaña–Ilhas Cíes e Ons na Galícia, Espanha; Transtejo/Soflusa Lisboa–Cacilhas–Seixal–Montijo–Trafaria–Barreiro e Atlanticoline Açores em Portugal; Caremar / SNAV / NLG Nápoles Beverello/Pozzuoli–Ischia–Procida–Capri na Itália; Small Cyclades Lines Express Skopelitis Naxos–Iraklia–Schinoussa–Koufonisia–Donoussa–Amorgos na Grécia; e FRS / InterShipping Tarifa–Tânger Ville e Algeciras–Ceuta no Estreito de Gibraltar)"
     }
   ]
 }
