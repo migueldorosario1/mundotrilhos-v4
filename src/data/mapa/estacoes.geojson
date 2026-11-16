@@ -61023,6 +61023,456 @@
           26.1592
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-dar-e1",
+        "nome": "Çanakkale Ferry Pier & Eceabat / Kilitbahir Terminals (Estreito de Dardanelos, Turquia)",
+        "sistema_id": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+        "linha_id": "hidro-me59-dar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4012,
+          40.1515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-dar-e2",
+        "nome": "Kabatepe Pier & Gökçeada Kuzulimanı Ferry Port (Ilha de Gökçeada / Imbros, Turquia)",
+        "sistema_id": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+        "linha_id": "hidro-me59-dar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9425,
+          40.2315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-dar-e3",
+        "nome": "Geyikli Yükyeri & Bozcaada Ferry Terminal (Ilha de Bozcaada / Tenedos, Turquia)",
+        "sistema_id": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+        "linha_id": "hidro-me59-dar-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0715,
+          39.8352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-mar-e4",
+        "nome": "Mudanya BUDO & İDO Güzelyalı Pier — Bursa (Mar de Mármara Sul, Turquia)",
+        "sistema_id": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+        "linha_id": "hidro-me59-mar-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8852,
+          40.3765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-mar-e5",
+        "nome": "Bandırma İDO Fast Ferry & Erdek — Ilhas de Mármara / Avşa (Balıkesir, Turquia)",
+        "sistema_id": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+        "linha_id": "hidro-me59-mar-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9715,
+          40.3542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-izm-e1",
+        "nome": "Konak & Alsancak / Pasaport Ferry Terminals — İZDENİZ (Baía de Esmirna, Turquia)",
+        "sistema_id": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+        "linha_id": "hidro-me59-izm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1275,
+          38.4188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-izm-e2",
+        "nome": "Karşıyaka & Bostanlı Ferry Terminals — İZDENİZ (Esmirna Norte, Turquia)",
+        "sistema_id": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+        "linha_id": "hidro-me59-izm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1195,
+          38.4552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-izm-e3",
+        "nome": "Üçkuyular (Fahrettin Altay) & Göztepe Car/Passenger Ferry Terminals (Esmirna Sul, Turquia)",
+        "sistema_id": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+        "linha_id": "hidro-me59-izm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0625,
+          38.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-aeg-e4",
+        "nome": "Çeşme Ulusoy Port & Kuşadası Ege Ports (Costa do Egeu, Turquia)",
+        "sistema_id": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+        "linha_id": "hidro-me59-aeg-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3025,
+          38.3245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-aeg-e5",
+        "nome": "Ayvalık Deniz Hudut Kapısı — Travessia Ayvalık–Lesbos (Balıkesir, Turquia)",
+        "sistema_id": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+        "linha_id": "hidro-me59-aeg-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6885,
+          39.3185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-nil-e1",
+        "nome": "El Qantara & Suez Port Tewfik Canal Ferries (Canal de Suez, Egito)",
+        "sistema_id": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+        "linha_id": "hidro-me59-nil-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3125,
+          30.8525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-nil-e2",
+        "nome": "Minya & Beni Suef Nile Public Ferry Landings (Médio Egito, Rio Nilo)",
+        "sistema_id": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+        "linha_id": "hidro-me59-nil-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7585,
+          28.1095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-nil-e3",
+        "nome": "Assiut & Sohag Nile River Ferry Terminals (Alto Egito, Rio Nilo)",
+        "sistema_id": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+        "linha_id": "hidro-me59-nil-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1895,
+          27.1825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-nil-e4",
+        "nome": "Qena — Dandara Nile Ferry Crossing (Província de Qena, Egito)",
+        "sistema_id": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+        "linha_id": "hidro-me59-nil-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7125,
+          26.1642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-nil-e5",
+        "nome": "Luxor Corniche & Gezirat el-Bairat West Bank Public Ferry (Luxor, Egito)",
+        "sistema_id": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+        "linha_id": "hidro-me59-nil-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6365,
+          25.6965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-irn-e1",
+        "nome": "Bandar Charak & Bandar Aftab Ferry Ports (Hormozgan, Golfo Pérsico, Irã)",
+        "sistema_id": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+        "linha_id": "hidro-me59-irn-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2752,
+          26.7265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-irn-e2",
+        "nome": "Kish Island Commercial & Passenger Port (Ilha de Kish, Golfo Pérsico, Irã)",
+        "sistema_id": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+        "linha_id": "hidro-me59-irn-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.0215,
+          26.5512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-irn-e3",
+        "nome": "Bandar Lengeh & Abu Musa Island Ferry Terminal (Golfo Pérsico Central, Irã)",
+        "sistema_id": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+        "linha_id": "hidro-me59-irn-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8852,
+          26.5542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-irn-e4",
+        "nome": "Bandar Shahid Haqqani (Bandar Abbas) & Shahid Zakariai (Qeshm / Hormuz, Estreito de Ormuz)",
+        "sistema_id": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+        "linha_id": "hidro-me59-irn-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2765,
+          27.1752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-irn-e5",
+        "nome": "Khorramshahr & Abadan River Passenger Jetties — Rio Karun / Arvand Rud (Khuzistão, Irã)",
+        "sistema_id": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+        "linha_id": "hidro-me59-irn-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1885,
+          30.4285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-bls-e1",
+        "nome": "Batumi Sea Port & Passenger Terminal (Adjara, Geórgia)",
+        "sistema_id": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+        "linha_id": "hidro-me59-bls-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.6415,
+          41.6512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-bls-e2",
+        "nome": "Poti Sea Port Ro-Pax & Rail-Ferry Terminal (Samegrelo, Geórgia)",
+        "sistema_id": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+        "linha_id": "hidro-me59-bls-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.6542,
+          42.1525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-bls-e3",
+        "nome": "Samsun & Trabzon Passenger Ports (Costa Turca do Mar Negro, Turquia)",
+        "sistema_id": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+        "linha_id": "hidro-me59-bls-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3385,
+          41.2925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-bls-e4",
+        "nome": "Port of Varna & Port of Burgas Ferry Terminals (Costa Búlgara do Mar Negro, Bulgária)",
+        "sistema_id": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+        "linha_id": "hidro-me59-bls-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9185,
+          43.1952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-bls-e5",
+        "nome": "Portul Constanța Passenger & Ro-Pax Terminal (Mar Negro, Romênia)",
+        "sistema_id": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+        "linha_id": "hidro-me59-bls-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6595,
+          44.1685
+        ]
+      }
     }
   ]
 }

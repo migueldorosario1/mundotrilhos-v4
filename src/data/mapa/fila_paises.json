@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T01:44:00-03:00",
+  "atualizado_em": "2026-11-16T02:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2457,6 +2457,22 @@
         "sakurajima-ferry-kagoshima-tane-yaku-high-speed-jetfoil-toppy-rocket-tanegashima-yakushima-amami-okinawa-yaeyama-ishigaki-japao",
         "ulleungdo-dokdo-cruise-ferries-pohang-mukho-hupo-sadong-dodong-coreia-do-sul-xiao-santong-kinmen-xiamen-matsu-taiwan-ferries"
       ]
+    },
+    {
+      "ordem": 171,
+      "codigo": "HIDRO-ORIENTE-MEDIO-MAR-NEGRO-CAUCASO-TURQUIA-EGITO-V",
+      "pais": "Fase Hidroviária Mundial #59 — Mar de Mármara, Dardanelos, Mar Negro, Nilo e Golfo Pérsico V (GESTAŞ Estreito de Dardanelos Çanakkale–Eceabat–Gökçeada–Bozcaada e BUDO / İDO Bursa Mudanya e Bandırma na Turquia; İZDENİZ Frota Metropolitana da Baía de Esmirna e Ferries Transfronteiriços do Egeu Çeşme–Chios, Kuşadası–Samos e Ayvalık–Lesbos; Travessias Públicas do Médio e Alto Nilo em Beni Suef, Minya, Assiut, Sohag, Qena e Luxor e Balsas do Canal de Suez em El Qantara/Suez no Egito; Ferries de Bandar Charak/Aftab/Lengeh–Ilha de Kish–Abu Musa, Bandar Abbas–Qeshm–Hormuz e Hidrovia Khorramshahr–Abadan no Irã; e Corredor Ro-Pax e Ferro-Balsas do Mar Negro Batumi/Poti–Varna/Burgas–Constanța e Samsun/Trabzon)",
+      "continente": "Ásia, Europa e África",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 175,
+      "sistemas_adicionados": [
+        "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+        "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+        "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+        "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+        "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2606,14 +2622,6 @@
       ]
     },
     {
-      "ordem": 171,
-      "codigo": "HIDRO-ORIENTE-MEDIO-MAR-NEGRO-CAUCASO-TURQUIA-EGITO-V",
-      "pais": "Fase Hidroviária Mundial #59 — Mar de Mármara, Dardanelos, Mar Negro, Nilo e Golfo Pérsico V",
-      "continente": "Ásia e África",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (GESTAŞ Çanakkale–Eceabat–Gökçeada–Bozcaada nos Dardanelos, İDO Bandırma–Yenikapı e BUDO Bursa Mudanya–Istambul Eminönü na Turquia, Travessias Fluviais do Nilo em Assiut/Minya/Qena e Ferries do Canal de Suez em Qantara/Suez no Egito, e Ferries de Bandar Lengeh–Kish–Abu Musa no Golfo Pérsico)"
-    },
-    {
       "ordem": 172,
       "codigo": "HIDRO-MEDITERRANEO-ITALIA-FRANCA-ESPANHA-GRECIA-CROACIA-V",
       "pais": "Fase Hidroviária Mundial #60 — Mediterrâneo, Córsega, Elba, Egadi, Peloponeso e Dalmácia V",
@@ -2628,6 +2636,30 @@
       "continente": "África",
       "prioridade": "alta",
       "foco": "Transporte por barco (Lago Kivu Goma–Bukavu e Rubavu–Karongi–Rusizi na RD Congo/Ruanda, Lago Tanganica Mpulungu–Kigoma–Kalemie–Bujumbura, Kazungula/Zambeze e Lago Kariba Siavonga–Binga na Zâmbia/Zimbábue, e Travessias do Rio Senegal Rosso e Ilha de Carabane em Casamance no Senegal)"
+    },
+    {
+      "ordem": 174,
+      "codigo": "HIDRO-SUL-SUDESTE-ASIATICO-BENGALA-ANDAMAN-CELEBES-MOLUCAS-V",
+      "pais": "Fase Hidroviária Mundial #62 — Sul e Sudeste Asiático: Ilhas Andaman e Nicobar, Lakshadweep, Golfo da Tailândia e Indonésia Oriental V",
+      "continente": "Ásia",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (DSS Andaman & Nicobar Ferries Port Blair–Swaraj Dweep/Havelock–Shaheed Dweep/Neil–Hut Bay–Campbell Bay e Lakshadweep Kavaratti–Agatti–Minicoy na Índia; Boonsiri High Speed Ferries Trat–Koh Kood–Koh Mak na Tailândia; PELNI / ASDP Ferries de Kupang–Rote–Sabu–Flores e Ternate–Halmahera–Morotai na Indonésia; e FastCraft de Cebu–Bohol–Siquijor–Dumaguete nas Filipinas)"
+    },
+    {
+      "ordem": 175,
+      "codigo": "HIDRO-AMERICA-LATINA-CARIBE-PATAGONIA-AMAZONIA-BACIA-DO-PRATA-V",
+      "pais": "Fase Hidroviária Mundial #63 — América Latina, Caribe, Patagônia Austral, Titicaca e Amazônia V",
+      "continente": "América Latina e Caribe",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (TABSA Travessias do Estreito de Magalhães Punta Arenas–Porvenir e Primera Angostura no Chile/Terra do Fogo; Travessias de San Pedro e San Pablo de Tiquina no Lago Titicaca e Hidrovias do Rio Beni/Mamoré na Bolívia; Lanchas de Bluefields–El Rama–Corn Islands e Lago Cocibolca Ometepe–San Jorge na Nicarágua; Ultramar Cozumel–Playa del Carmen e Isla Mujeres–Cancún no México; e Hidrovias do Rio Juruá Cruzeiro do Sul–Marechal Thaumaturgo e Rio Purus Lábrea–Boca do Acre no Brasil)"
+    },
+    {
+      "ordem": 176,
+      "codigo": "HIDRO-OCEANIA-PACIFICO-AUSTRALIA-NOVA-ZELANDIA-FIJI-SAMOA-TONGA-V",
+      "pais": "Fase Hidroviária Mundial #64 — Oceania: Estreito de Bass, Golfo de Hauraki, Fiji, Tonga, Vanuatu e Ilhas Salomão V",
+      "continente": "Oceania",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Spirit of Tasmania Geelong–Devonport no Estreito de Bass e Rottnest Express Fremantle–Rottnest Island na Austrália; Fullers360 Waiheke, Rangitoto e Tiritiri Matangi no Golfo de Hauraki e Stewart Island Ferry Bluff–Oban na Nova Zelândia; South Sea Cruises Port Denarau–Mamanuca & Yasawa Islands em Fiji; Friendly Islands Shipping Nuku'alofa–'Eua–Ha'apai–Vava'u em Tonga; e Pelican Express / Aelan Bae Honiara–Auki–Gizo nas Ilhas Salomão e Port Vila–Tanna/Santo em Vanuatu)"
     }
   ]
 }

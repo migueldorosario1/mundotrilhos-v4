@@ -47258,5 +47258,327 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+    "slug": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+    "nome_pt": "GESTAŞ Estreito de Dardanelos (Çanakkale–Eceabat–Gökçeada–Bozcaada) e BUDO / İDO Mar de Mármara (Mudanya–Bursa e Bandırma, Turquia)",
+    "nome_en": "GESTAŞ Dardanelles Strait Ferries (Çanakkale–Eceabat–Gökçeada–Bozcaada) & BUDO / İDO Sea of Marmara (Mudanya–Bursa & Bandırma, Turkey)",
+    "pais": "Turquia",
+    "cidade": "Çanakkale / Gökçeada / Bozcaada / Bursa (Mudanya) / Bandırma",
+    "uf": "Çanakkale / Bursa / Balıkesir",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "GESTAŞ Deniz Ulaşım A.Ş. / BUDO (Bursa Deniz Otobüsleri) / İDO İstanbul Deniz Otobüsleri",
+    "inauguracao": "1987",
+    "extensao_km": 310,
+    "bitola": "N/A (Hidrovia Intercontinental dos Dardanelos, Norte do Egeu e Mar de Mármara)",
+    "eletrificacao": "Ferries Ro-Pax Intercontinentais GESTAŞ e Catamarãs de Alta Velocidade BUDO / İDO",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 42000,
+    "ano_referencia": 2026,
+    "investimento": "Modernização dos terminais de Kabatepe, Gökçeada, Geyikli e Mudanya",
+    "proximas_entregas": "Integração da estação Mudanya BUDO com o metrô/VLT BursaRay de Bursa",
+    "resumo_pt": "Rede intercontinental de travessias marítimas entre a Europa (Trácia Oriental / Península de Galípoli) e a Ásia (Anatólia) nos Dardanelos e no Mar de Mármara: a GESTAŞ opera 24 horas os ferries Ro-Pax Çanakkale–Eceabat, Çanakkale–Kilitbahir e Gelibolu–Lapseki, além das linhas para as duas maiores ilhas turcas do Egeu — Gökçeada (via Kabatepe) e Bozcaada (via Geyikli); no Mar de Mármara Sul, os catamarãs da BUDO e da İDO conectam Mudanya/Güzelyalı (porto de Bursa) e Bandırma (integrado aos trens da TCDD para Esmirna) a Istambul (Eminönü/Sirkeci e Yenikapı), além das ilhas de Mármara, Avşa e Paşalimanı.",
+    "resumo_en": "Intercontinental maritime ferry network linking Europe (Gallipoli Peninsula) and Asia (Anatolia) across the Dardanelles and southern Sea of Marmara: GESTAŞ operates 24/7 Ro-Pax ferries across the Dardanelles (Çanakkale–Eceabat/Kilitbahir and Gelibolu–Lapseki) and to the Aegean islands of Gökçeada and Bozcaada, while BUDO and İDO high-speed catamarans connect Mudanya (Bursa) and Bandırma to Istanbul.",
+    "lat": 40.1515,
+    "lon": 26.4012,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "uab-tr",
+      "gestas-tr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "turquia",
+      "dardanelos",
+      "canakkale",
+      "gokceada",
+      "bozcaada",
+      "bursa",
+      "mudanya",
+      "marmara"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-me59-dar-l1",
+        "nome": "GESTAŞ Dardanelos e Ilhas do Egeu Norte (Çanakkale ↔ Eceabat / Kilitbahir ↔ Kabatepe–Gökçeada & Geyikli–Bozcaada)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 145,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-me59-mar-l2",
+        "nome": "Corredor Sul do Mar de Mármara — BUDO & İDO (Bursa Mudanya ↔ Bandırma ↔ Ilha de Mármara / Istambul)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 165,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+    "slug": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+    "nome_pt": "İZDENİZ Barcas Metropolitanas da Baía de Esmirna (Konak–Karşıyaka–Bostanlı–Alsancak) e Ferries Egeus Çeşme–Chios, Kuşadası–Samos e Ayvalık–Lesbos (Turquia/Grécia)",
+    "nome_en": "İZDENİZ İzmir Bay Metropolitan Ferries (Konak–Karşıyaka–Bostanlı–Alsancak) & Aegean Cross-Border Ferries Çeşme–Chios, Kuşadası–Samos & Ayvalık–Lesbos (Turkey/Greece)",
+    "pais": "Turquia / Grécia",
+    "cidade": "Esmirna (İzmir) / Çeşme / Kuşadası / Ayvalık",
+    "uf": "İzmir / Aydın / Balıkesir",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "İZDENİZ A.Ş. (Município Metropolitano de Esmirna) / Turyol / Ertürk Lines / Jalem Tur",
+    "inauguracao": "1884",
+    "extensao_km": 225,
+    "bitola": "N/A (Hidrovia Metropolitana do Golfo de Esmirna e Mar Egeu Oriental)",
+    "eletrificacao": "Catamarãs de Fibra de Carbono İZDENİZ (Çakabey / 9 Eylül) e Ferries Ro-Pax Üçkuyular–Bostanlı",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 55000,
+    "ano_referencia": 2026,
+    "investimento": "Frota de 15 catamarãs leves em compósito de carbono da İZDENİZ integrados ao İzmirim Kart, Metrô, İZBAN e VLT Tram İzmir",
+    "proximas_entregas": "Novos ferries elétricos para a Baía Interna de Esmirna",
+    "resumo_pt": "Segundo maior sistema de transporte hidroviário urbano da Turquia (após Istambul): na Baía de Esmirna, a İZDENİZ opera uma moderna frota de catamarãs de fibra de carbono e ferries de veículos conectando os terminais de Konak, Karşıyaka, Bostanlı, Alsancak, Pasaport, Göztepe, Karantina e Üçkuyular (com integração direta ao VLT Konak/Karşıyaka, Metrô de Esmirna e trem suburbano İZBAN); na costa externa do Egeu, ferries internacionais diários ligam Çeşme a Chios, Kuşadası a Samos (Vathy/Pythagoreio) e Ayvalık a Mitilene (Lesbos).",
+    "resumo_en": "Turkey's second-largest urban water transit system: across the Gulf of İzmir, İZDENİZ operates a modern fleet of carbon-composite passenger catamarans and car ferries linking Konak, Karşıyaka, Bostanlı, Alsancak, Pasaport, Göztepe and Üçkuyular (fully integrated with İzmir Metro, İZBAN commuter rail and Tram İzmir), complemented by daily Aegean cross-border ferries connecting Çeşme to Chios, Kuşadası to Samos and Ayvalık to Lesbos.",
+    "lat": 38.4352,
+    "lon": 27.1225,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "izdeniz-tr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "turquia",
+      "esmirna",
+      "izmir",
+      "izdeniz",
+      "karsiyaka",
+      "konak",
+      "cesme",
+      "kusadasi",
+      "ayvalik"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-me59-izm-l1",
+        "nome": "İZDENİZ Golfo de Esmirna (Üçkuyular / Göztepe ↔ Konak ↔ Pasaport / Alsancak ↔ Karşıyaka / Bostanlı)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 45,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-me59-aeg-l2",
+        "nome": "Corredor Transfronteiriço do Egeu (Ayvalık ↔ Lesbos & Çeşme ↔ Chios & Kuşadası ↔ Samos)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 180,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+    "slug": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+    "nome_pt": "Travessias Públicas Fluviais do Médio e Alto Nilo (Beni Suef–Minya–Assiut–Sohag–Qena–Luxor) e Balsas do Canal de Suez (El Qantara/Suez, Egito)",
+    "nome_en": "Middle & Upper Nile Public River Ferries (Beni Suef–Minya–Assiut–Sohag–Qena–Luxor) & Suez Canal Ferries (El Qantara/Suez, Egypt)",
+    "pais": "Egito",
+    "cidade": "El Qantara / Beni Suef / Minya / Assiut / Qena / Luxor",
+    "uf": "Suez Canal / Upper Egypt",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Suez Canal Authority (SCA Ferries) / River Transport Authority (RTA Egypt) & Governorate Public Ferries",
+    "inauguracao": "1956",
+    "extensao_km": 780,
+    "bitola": "N/A (Hidrovia Fluvial do Rio Nilo e Travessias do Canal de Suez)",
+    "eletrificacao": "Ferries Duplos da Autoridade do Canal de Suez e Barcas Fluviais do Vale do Nilo",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 85000,
+    "ano_referencia": 2026,
+    "investimento": "Modernização dos píeres fluviais da RTA no Alto Egito e novos ferries da Autoridade do Canal de Suez em Qantara e Serapeum",
+    "proximas_entregas": "Renovação da frota pública de travessia em Luxor, Minya e Assiut",
+    "resumo_pt": "Malha pública de balsas fluviais e travessias de canal que sustenta a mobilidade diária entre a margem leste e a margem oeste do Rio Nilo e entre a África e a Península do Sinai: no Canal de Suez, a Suez Canal Authority opera ferries gratuitos para veículos e pedestres em El Qantara, Ferdan, Serapeum e Suez/Port Tewfik; ao longo de 700 km do Médio e Alto Egito, as frotas públicas das províncias de Beni Suef, Minya, Assiut, Sohag, Qena (Dandara) e Luxor (travessia 24h entre a Corniche de Luxor e Gezirat el-Bairat na Margem Oeste / Necrópole de Tebas) transportam dezenas de milhares de passageiros por dia.",
+    "resumo_en": "Public river and canal ferry network supporting daily east–west mobility across the Nile Valley and between mainland Egypt and the Sinai Peninsula: the Suez Canal Authority operates toll-free ferries at El Qantara, Serapeum and Port Tewfik/Suez, while governorate public ferries across Middle and Upper Egypt (Beni Suef, Minya, Assiut, Sohag, Qena and the 24-hour Luxor Corniche–West Bank ferry) carry tens of thousands of daily commuters.",
+    "lat": 27.1825,
+    "lon": 31.1895,
+    "zoom_inicial": 5.8,
+    "fontes": [
+      "rta-eg",
+      "suezcanal-gov-eg"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "egito",
+      "rio-nilo",
+      "canal-de-suez",
+      "luxor",
+      "assiut",
+      "minya",
+      "qena"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-me59-nil-l1",
+        "nome": "Corredor de Travessias do Médio Nilo e Canal de Suez (El Qantara / Suez ↔ Beni Suef ↔ Minya ↔ Assiut)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 420,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-me59-nil-l2",
+        "nome": "Corredor de Travessias do Alto Nilo (Assiut / Sohag ↔ Qena / Dandara ↔ Luxor Corniche–West Bank)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 360,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+    "slug": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+    "nome_pt": "Ferries do Golfo Pérsico e Estreito de Ormuz (Bandar Charak/Aftab/Lengeh–Ilha de Kish–Abu Musa e Bandar Abbas–Qeshm–Hormuz) e Hidrovia Khorramshahr–Abadan (Irã)",
+    "nome_en": "Persian Gulf & Strait of Hormuz Ferries (Bandar Charak/Aftab/Lengeh–Kish Island–Abu Musa & Bandar Abbas–Qeshm–Hormuz) & Khorramshahr–Abadan River Ferries (Iran)",
+    "pais": "Irã",
+    "cidade": "Ilha de Kish / Bandar Lengeh / Bandar Abbas / Ilha de Qeshm / Khorramshahr",
+    "uf": "Hormozgan / Khuzestan",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Ports and Maritime Organization of Iran (PMO) / Valfajr Shipping Co. / Kish Ports & Airport Co.",
+    "inauguracao": "1986",
+    "extensao_km": 420,
+    "bitola": "N/A (Hidrovia Marítima do Golfo Pérsico, Estreito de Ormuz e Rio Karun / Arvand Rud)",
+    "eletrificacao": "Catamarãs de Alta Velocidade Valfajr e Ferries Ro-Pax (Landcraft / Car Ferries de Kish e Qeshm)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": "Ampliação do terminal de passageiros de Kish e modernização dos píeres de Shahid Haqqani (Bandar Abbas) e Shahid Zakariai (Qeshm)",
+    "proximas_entregas": "Novos catamarãs de passageiros para as rotas de Hormuz, Lark e Abu Musa",
+    "resumo_pt": "Principal malha de transporte marítimo e fluvial de passageiros do sul do Irã no Golfo Pérsico e Estreito de Ormuz: na província de Hormozgan, ferries Ro-Pax e catamarãs rápidos conectam os portos continentais de Bandar Aftab, Bandar Charak e Bandar Lengeh à Zona Franca da Ilha de Kish e à Ilha de Abu Musa, enquanto no Estreito de Ormuz o movimentado eixo Bandar Abbas (Porto Shahid Haqqani) ↔ Ilha de Qeshm (Porto Shahid Zakariai e Laft–Pohl) ↔ Ilha de Hormuz e Ilha de Lark transporta milhões de passageiros por ano; no sudoeste (Khuzistão), lanchas fluviais conectam Khorramshahr e Abadan na confluência do Rio Karun com o Arvand Rud (Shatt al-Arab).",
+    "resumo_en": "Southern Iran's primary maritime and river passenger network in the Persian Gulf and Strait of Hormuz: Ro-Pax ferries and high-speed catamarans connect mainland ports of Bandar Aftab, Bandar Charak and Bandar Lengeh to Kish Island and Abu Musa Island, while the busy Bandar Abbas (Shahid Haqqani)–Qeshm Island–Hormuz Island corridor spans the Strait of Hormuz, complemented by river passenger boats linking Khorramshahr and Abadan on the Karun/Arvand Rud.",
+    "lat": 26.5512,
+    "lon": 54.0215,
+    "zoom_inicial": 6.2,
+    "fontes": [
+      "pmo-ir",
+      "valfajr-ir"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "ira",
+      "golfo-persico",
+      "kish",
+      "qeshm",
+      "hormuz",
+      "bandar-abbas",
+      "abadan"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-me59-irn-l1",
+        "nome": "Corredor Insular de Kish e Estreito de Ormuz (Bandar Aftab / Charak ↔ Ilha de Kish ↔ Bandar Lengeh / Abu Musa ↔ Bandar Abbas / Qeshm / Hormuz)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 320,
+        "estacoes": 4
+      },
+      {
+        "id": "hidro-me59-irn-l2",
+        "nome": "Hidrovia Fluvial do Rio Karun & Arvand Rud (Khorramshahr ↔ Abadan ↔ Ilha de Minoo)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 100,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+    "slug": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+    "nome_pt": "Corredor Marítimo de Ferries Ro-Pax e Ferro-Balsas do Mar Negro (Batumi/Poti–Burgas/Varna–Constanța e Samsun/Trabzon, Geórgia/Bulgária/Romênia/Turquia)",
+    "nome_en": "Black Sea Ro-Pax & Rail-Ferry Corridor (Batumi/Poti–Burgas/Varna–Constanța & Samsun/Trabzon, Georgia/Bulgaria/Romania/Turkey)",
+    "pais": "Geórgia / Bulgária / Romênia / Turquia",
+    "cidade": "Batumi / Poti / Varna / Burgas / Constanța / Samsun / Trabzon",
+    "uf": "Black Sea Basin",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "E60 Shipping Line / Navibulgar / Ukrferry & Black Sea Ro-Pax Operators",
+    "inauguracao": "1978",
+    "extensao_km": 1150,
+    "bitola": "N/A (Hidrovia Internacional e Ferro-Balsa do Mar Negro — Corredor Médio Trans-Cáspio/Mar Negro)",
+    "eletrificacao": "Navios Ro-Pax e Train-Ferries (Vilnius / Drujba / Greifswald / Kaunas)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 2400,
+    "ano_referencia": 2026,
+    "investimento": "Expansão da capacidade Ro-Pax e ferro-balsa entre Poti/Batumi (Geórgia) e Constanța (Romênia) / Burgas–Varna (Bulgária) no Corredor Médio Europa–Cáucaso–Ásia",
+    "proximas_entregas": "Novas linhas Ro-Pax diretas entre os portos da Geórgia, Romênia e Turquia",
+    "resumo_pt": "Elo marítimo estratégico do Corredor Médio (Trans-Caspian / Black Sea International Transport Route) no Mar Negro, conectando o Cáucaso (portos de Poti e Batumi na Geórgia, integrados às ferrovias Georgian Railway) à União Europeia (portos de Constanța na Romênia e Varna/Burgas na Bulgária) e aos portos do norte da Turquia (Samsun, Trabzon, Karasu e Zonguldak) por meio de navios Ro-Pax de passageiros/caminhões e ferro-balsas (train-ferries capazes de embarcar vagões ferroviários inteiros).",
+    "resumo_en": "Strategic Black Sea maritime link of the Middle Corridor connecting the Caucasus (Poti and Batumi ports in Georgia, integrated with Georgian Railway) to the European Union (Constanța in Romania and Varna/Burgas in Bulgaria) and northern Turkish ports (Samsun and Trabzon) via passenger/freight Ro-Pax vessels and rail-ferries.",
+    "lat": 42.1525,
+    "lon": 36.3385,
+    "zoom_inicial": 5.5,
+    "fontes": [
+      "traceca-org",
+      "portofconstantza"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "ro-pax",
+      "mar-negro",
+      "georgia",
+      "batumi",
+      "poti",
+      "romenia",
+      "constanta",
+      "bulgaria",
+      "varna",
+      "turquia",
+      "samsun"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-me59-bls-l1",
+        "nome": "Corredor Médio Mar Negro Oeste–Leste (Constanța / Romênia ↔ Varna / Burgas / Bulgária ↔ Poti / Batumi / Geórgia)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 680,
+        "estacoes": 4
+      },
+      {
+        "id": "hidro-me59-bls-l2",
+        "nome": "Eixo Sul do Mar Negro e Cáucaso (Samsun / Trabzon / Turquia ↔ Batumi / Poti / Geórgia)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 470,
+        "estacoes": 3
+      }
+    ]
   }
 ]
