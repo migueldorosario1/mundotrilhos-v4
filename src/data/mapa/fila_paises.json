@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T14:15:00-03:00",
+  "atualizado_em": "2026-11-16T14:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -3004,17 +3004,25 @@
         "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
         "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 196,
       "codigo": "HIDRO-BRASIL-XIV-TRAVESSIAS-HIDROVIARIAS-INTERIORANAS-E-COSTEIRAS-COMPLEMENTARES",
       "pais": "Fase Hidroviária Brasil #14 — Travessias Hidroviárias Interioranas, Amazônicas e Costeiras Complementares do Brasil (Hidrovia do Rio Trombetas e Nhamundá Oriximiná–Porto Trombetas–Faro–Terra Santa–Nhamundá no PA/AM; Travessias da Baía de Todos-os-Santos Sul e Rio Jaguaripe Salinas da Margarida–Cairu–Nazaré na BA; Travessias do Rio Grande na Divisa SP/MG Colômbia–Planura, Icém–Fronteira e Delfinópolis–Olímpio Noronha; Travessias do Litoral do Espírito Santo Vitória–Prainha Vila Velha, Piraquê-Açu em Santa Cruz/Aracruz e Conceição da Barra–Itaúnas; e Hidrovia do Rio Acre e Rio Envira Rio Branco–Xapuri–Assis Brasil–Feijó–Tarauacá no AC)",
       "continente": "América do Sul",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 200,
+      "sistemas_adicionados": [
+        "hidrovia-rio-trombetas-rio-nhamunda-oriximina-porto-trombetas-cachoeira-porteira-faro-terra-santa-nhamunda-pa-am",
+        "travessias-baia-de-todos-os-santos-sul-rio-jaguaripe-salinas-da-margarida-cairu-torrinhas-barra-dos-carvalhos-nazare-itaparica-ba",
+        "travessias-balsas-rio-grande-represas-marimbondo-agua-vermelha-peixoto-delfinopolis-olimpio-noronha-colombia-planura-icem-fronteira-sp-mg",
+        "aquaviario-grande-vitoria-gvbus-prainha-vila-velha-praca-do-papa-porto-de-santana-cariacica-travessias-piraque-acu-santa-cruz-aracruz-es",
+        "hidrovia-rio-acre-rio-envira-rio-tarauaca-rio-branco-porto-acre-xapuri-brasileia-feijo-tarauaca-jordao-marechal-thaumaturgo-acre-brasil"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 197,
       "codigo": "HIDRO-NORTE-DA-EUROPA-BALTICO-ESTONIA-LETONIA-LITUANIA-FINLANDIA-ISLANDIA-VIII",
@@ -3068,6 +3076,14 @@
       "codigo": "HIDRO-MEDITERRANEO-EGEU-ADRIATICO-CROACIA-GRECIA-ITALIA-FRANCA-ESPANHA-VIII",
       "pais": "Fase Hidroviária Mundial #88 — Mediterrâneo, Adriático e Egeu: Jadrolinija Dubrovnik–Elaphiti Islands (Koločep–Lopud–Šipan) & Mljet, Ionian Group / Levante Ferries (Killini–Zakynthos–Kefalonia–Ithaca, Ilhas Jônicas), Delcomar / Saremar Golfo de Cagliari & Ogliastra, Bateliers de la Côte d'Azur (Cannes–Îles de Lérins / Saint-Tropez–Sainte-Maxime) e Trasmapi Ibiza–Formentera VIII",
       "continente": "Europa",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 204,
+      "codigo": "HIDRO-BRASIL-XV-TRAVESSIAS-HIDROVIARIAS-REGIONAIS-E-FRONTEIRICAS-COMPLEMENTARES",
+      "pais": "Fase Hidroviária Brasil #15 — Travessias Hidroviárias Regionais, Amazônicas e Fronteiriças Complementares do Brasil (Hidrovia do Rio Jari Monte Dourado–Laranjal do Jari–Vitória do Jari no PA/AP; Travessias de Balsas do Rio Paranaíba na Divisa MG/GO/MS Itumbiara, São Simão e Aparecida do Taboado; Travessias da Baía de Guanabara e Ilha de Paquetá / Ilha de Brocoió / Ilha do Governador Cocotá no RJ; Hidrovia do Rio Guaporé e Mamoré Príncipe da Beira–Costa Marques–Guajará-Mirim em RO; e Travessias Costeiras de Alagoas Maragogi, São Miguel dos Milagres, Lagoa Mundaú e Lagoa Manguaba em Maceió/Marechal Deodoro)",
+      "continente": "América do Sul",
       "prioridade": "alta",
       "status": "pendente"
     }
