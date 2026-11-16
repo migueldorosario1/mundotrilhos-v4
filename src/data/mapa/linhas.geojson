@@ -67508,6 +67508,338 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-prn-l1",
+        "nome": "Polo Hidroviário de Porto Rico e Querência do Norte (Porto Rico ↔ Ilha Mutum ↔ Porto São José ↔ Porto Brasílio / MS)",
+        "sistema_id": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.2669,
+            -22.7725
+          ],
+          [
+            -53.285,
+            -22.755
+          ],
+          [
+            -53.1756,
+            -22.7189
+          ],
+          [
+            -53.3519,
+            -22.885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-gua-l2",
+        "nome": "Eixo Parque Nacional de Ilha Grande e Fronteira (Porto Camargo Icaraíma ↔ Ilha Grande ↔ Guaíra PR ↔ Salto del Guairá PY)",
+        "sistema_id": "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.7439,
+            -23.3689
+          ],
+          [
+            -54.015,
+            -23.685
+          ],
+          [
+            -54.2589,
+            -24.0819
+          ],
+          [
+            -54.3069,
+            -24.0625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-pat-l1",
+        "nome": "Eixo Centro-Sul da Lagoa dos Patos (Porto de Pelotas ↔ Colônia Z3 / Ilha da Torotama ↔ São Lourenço do Sul ↔ Arambaré / Tapes)",
+        "sistema_id": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.3319,
+            -31.7819
+          ],
+          [
+            -52.235,
+            -31.915
+          ],
+          [
+            -51.9756,
+            -31.3689
+          ],
+          [
+            -51.495,
+            -30.915
+          ],
+          [
+            -51.3919,
+            -30.6725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-mir-l2",
+        "nome": "Hidrovia do Canal São Gonçalo e Lagoa Mirim (Porto de Pelotas ↔ Eclusa / Barragem do Centurião ↔ Porto de Santa Vitória do Palmar)",
+        "sistema_id": "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.3319,
+            -31.7819
+          ],
+          [
+            -52.585,
+            -32.125
+          ],
+          [
+            -53.395,
+            -33.5189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-par-l1",
+        "nome": "Circuito Caiçara de Paraty e Reserva da Juatinga (Cais de Paraty ↔ Ilha do Araújo ↔ Paraty-Mirim ↔ Saco do Mamanguá ↔ Pouso da Cajaíba ↔ Praia do Sono)",
+        "sistema_id": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.7106,
+            -23.2208
+          ],
+          [
+            -44.6369,
+            -23.2419
+          ],
+          [
+            -44.6056,
+            -23.2689
+          ],
+          [
+            -44.5425,
+            -23.2469
+          ],
+          [
+            -44.6339,
+            -23.3356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-jag-l2",
+        "nome": "Travessias Insulares de Mangaratiba e Baía de Sepetiba (Cais de Itacuruçá / Muriqui ↔ Ilha de Itacuruçá ↔ Ilha de Jaguanum)",
+        "sistema_id": "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.8906,
+            -22.9419
+          ],
+          [
+            -43.8889,
+            -22.9525
+          ],
+          [
+            -43.9269,
+            -23.0019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-toc-l1",
+        "nome": "Expresso Fluvial Belém – Baixo Tocantins (Belém ↔ Abaetetuba / 72 Ilhas ↔ Igarapé-Miri ↔ Cametá ↔ Limoeiro do Ajuru)",
+        "sistema_id": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.4989,
+            -1.4489
+          ],
+          [
+            -48.8825,
+            -1.7219
+          ],
+          [
+            -48.9594,
+            -1.9756
+          ],
+          [
+            -49.4956,
+            -2.2439
+          ],
+          [
+            -49.3825,
+            -1.895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-tuc-l2",
+        "nome": "Trecho Médio-Baixo Tocantins e Travessia Carapajó (Carapajó ↔ Cametá ↔ Mocajuba ↔ Baião ↔ Tucuruí)",
+        "sistema_id": "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.365,
+            -2.185
+          ],
+          [
+            -49.4956,
+            -2.2439
+          ],
+          [
+            -49.5056,
+            -2.5839
+          ],
+          [
+            -49.6756,
+            -2.7919
+          ],
+          [
+            -49.6725,
+            -3.7669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-ita-l1",
+        "nome": "Eixo Metropolitano Recife & Canal de Santa Cruz (Marco Zero ↔ Parque Brennand / Rio Capibaribe & Forte Orange Itamaracá ↔ Coroa do Avião ↔ Nova Cruz)",
+        "sistema_id": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -34.8711,
+            -8.0631
+          ],
+          [
+            -34.8686,
+            -8.0639
+          ],
+          [
+            -34.8389,
+            -7.8119
+          ],
+          [
+            -34.8369,
+            -7.8194
+          ],
+          [
+            -34.8489,
+            -7.8256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-bra13-sir-l2",
+        "nome": "Eixo Litoral Sul de Pernambuco (Barra de Sirinhaém ↔ Ilha de Santo Aleixo ↔ Guadalupe / Rio Formoso / Praia dos Carneiros ↔ Tamandaré)",
+        "sistema_id": "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.0556,
+            -8.6089
+          ],
+          [
+            -35.0219,
+            -8.6119
+          ],
+          [
+            -35.0856,
+            -8.7056
+          ],
+          [
+            -35.1019,
+            -8.7556
+          ]
+        ]
+      }
     }
   ]
 }

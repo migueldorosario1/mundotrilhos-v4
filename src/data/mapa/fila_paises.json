@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T10:15:00-03:00",
+  "atualizado_em": "2026-11-16T10:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2876,17 +2876,25 @@
         "san-pedro-belize-express-ocean-ferry-belize-water-taxi-belize-city-caye-caulker-san-pedro-ambergris-caye-chetumal-placencia-belize-mexico",
         "naviarca-gran-cacique-express-navibus-conferry-puerto-la-cruz-guanta-cumana-punta-de-piedras-isla-de-margarita-coche-la-guaira-venezuela"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 188,
       "codigo": "HIDRO-BRASIL-XIII-TRAVESSIAS-FLUVIAIS-LITORANEAS-E-INSULARES-COMPLEMENTARES",
       "pais": "Fase Hidroviária Brasil #13 — Travessias Hidroviárias Fluviais, Lacustres e Costeiras Complementares do Brasil (Travessias Hidroviárias do Rio Paraná e Lago de Itaipu Porto Rico–Porto São José / Guaíra e Foz; Barcas e Catamarãs do Rio Guaíba e Lagoa dos Patos Porto Alegre–Guaíba–Barra do Ribeiro e Pelotas; Travessias da Baía de Angra dos Reis, Ilha Grande, Paraty–Saco do Mamanguá e Mangaratiba–Ilha de Jaguanum no RJ; Hidrovia do Rio Tocantins Belém–Abaetetuba–Cametá–Baião–Mocajuba–Tucuruí e Balsas de Carolina–Filadélfia no PA/TO/MA; e Travessias de Fernando de Noronha, Tamandaré, Rio Formoso e Ilha de Santo Aleixo / Itamaracá em PE)",
       "continente": "América do Sul",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 192,
+      "sistemas_adicionados": [
+        "travessias-hidroviarias-alto-rio-parana-porto-rico-porto-sao-jose-ilhas-porto-camargo-icaraima-querencia-do-norte-guaira-pr-ms",
+        "travessias-hidroviarias-lagoa-dos-patos-sao-lourenco-do-sul-pelotas-tapes-arambare-mostardas-tavares-canal-sao-goncalo-rs",
+        "travessias-baia-da-ilha-grande-paraty-saco-do-mamangua-pouso-da-caixa-d-aco-trindade-mangaratiba-ilha-de-jaguanum-itacuruca-rj",
+        "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
+        "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 189,
       "codigo": "HIDRO-NORTE-DA-EUROPA-REINO-UNIDO-ESCOCIA-DINAMARCA-NORUEGA-SUECIA-VII",
@@ -2940,6 +2948,14 @@
       "codigo": "HIDRO-AMERICA-LATINA-CARIBE-MAGDALENA-ORINOCO-GOLFO-DE-FONSECA-BAHAMAS-VIII",
       "pais": "Fase Hidroviária Mundial #81 — América Latina e Caribe: Bahamas Ferries (Nassau–Harbour Island–Eleuthera–Exuma–Abaco), Hidrovia do Rio Magdalena (Mompos–Magangué–Barrancabermeja, Colômbia), Golfo de Nicoya (Puntarenas–Paquera–Naranjo, Costa Rica), Lago Nahuel Huapi & Cruce Andino (Bariloche–Puerto Blest–Peulla, Argentina/Chile) e Rio Orinoco (Ciudad Guayana–Barrancas–Tucupita, Venezuela) VIII",
       "continente": "América Latina e Caribe",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 196,
+      "codigo": "HIDRO-BRASIL-XIV-TRAVESSIAS-HIDROVIARIAS-INTERIORANAS-E-COSTEIRAS-COMPLEMENTARES",
+      "pais": "Fase Hidroviária Brasil #14 — Travessias Hidroviárias Interioranas, Amazônicas e Costeiras Complementares do Brasil (Hidrovia do Rio Trombetas e Nhamundá Oriximiná–Porto Trombetas–Faro–Terra Santa–Nhamundá no PA/AM; Travessias da Baía de Todos-os-Santos Sul e Rio Jaguaripe Salinas da Margarida–Cairu–Nazaré na BA; Travessias do Rio Grande na Divisa SP/MG Colômbia–Planura, Icém–Fronteira e Delfinópolis–Olímpio Noronha; Travessias do Litoral do Espírito Santo Vitória–Prainha Vila Velha, Piraquê-Açu em Santa Cruz/Aracruz e Conceição da Barra–Itaúnas; e Hidrovia do Rio Acre e Rio Envira Rio Branco–Xapuri–Assis Brasil–Feijó–Tarauacá no AC)",
+      "continente": "América do Sul",
       "prioridade": "alta",
       "status": "pendente"
     }
