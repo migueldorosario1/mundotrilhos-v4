@@ -50462,5 +50462,324 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+    "slug": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+    "nome_pt": "Alaska Marine Highway System (AMHS) — Sudoeste, Kodiak, Prince William Sound e Cadeia das Aleutas (Alasca, EUA)",
+    "nome_en": "Alaska Marine Highway System (AMHS) — Southwest, Kodiak, Prince William Sound & Aleutian Chain (Alaska, USA)",
+    "pais": "Estados Unidos",
+    "cidade": "Homer / Seldovia / Kodiak / Whittier / Valdez / Cordova / Unalaska (Dutch Harbor)",
+    "uf": "AK",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Alaska Marine Highway System (AMHS — M/V Tustumena, M/V Kennicott & M/V Aurora)",
+    "inauguracao": "1963",
+    "extensao_km": 2150,
+    "bitola": "N/A (Hidrovia Oceânica Subártica, de Fiordes Glaciais e Insular — Ro-Pax Oceânico de Longo Curso)",
+    "eletrificacao": "Navios Ro-Pax Oceânicos Ice-Class com Elevador Veicular (M/V Tustumena & M/V Kennicott)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 1200,
+    "ano_referencia": 2026,
+    "investimento": "US$ 285 milhões (construção do novo navio oceânico híbrido-elétrico M/V Tustumena Replacement Vessel para a rota de Kodiak e Aleutas)",
+    "proximas_entregas": "Entrada em serviço do novo navio substituto do M/V Tustumena e modernização dos píeres de Homer, Kodiak e Cordova",
+    "resumo_pt": "O braço oceânico sudoeste da Alaska Marine Highway System (AMHS) conecta comunidades costeiras e insulares sem acesso rodoviário entre a Península de Kenai (Homer e Seldovia), a Ilha de Kodiak, a Península do Alasca e a Cadeia das Ilhas Aleutas até Unalaska/Dutch Harbor (a maior rota regular de ferry dos EUA, com mais de 1.890 km pelo Pacífico Norte a bordo do lendário M/V Tustumena), além das travessias glaciais do Prince William Sound entre o terminal rodoferroviário de Whittier, Valdez e Cordova.",
+    "resumo_en": "The Southwest and Prince William Sound division of the Alaska Marine Highway System (AMHS) connects roadless coastal and island communities across the Kenai Peninsula (Homer and Seldovia), Kodiak Island, the Alaska Peninsula, and the Aleutian Chain out to Unalaska/Dutch Harbor aboard the ocean-going M/V Tustumena, alongside Prince William Sound glacial fjord crossings linking Whittier, Valdez, and Cordova.",
+    "lat": 57.79,
+    "lon": -152.4072,
+    "zoom_inicial": 5.2,
+    "fontes": [
+      "amhs-ak-us",
+      "dot-alaska-gov"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "alasca",
+      "kodiak",
+      "homer",
+      "whittier",
+      "valdez",
+      "aleutas",
+      "dutch-harbor",
+      "eua"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-nam68-ak-l1",
+        "nome": "AMHS Southwest & Aleutian Chain (Homer ↔ Seldovia ↔ Kodiak ↔ Chignik ↔ Sand Point ↔ Cold Bay ↔ Unalaska / Dutch Harbor)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 1890,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-nam68-ak-l2",
+        "nome": "AMHS Prince William Sound (Whittier Rail-Marine Terminal ↔ Valdez ↔ Cordova ↔ Tatitlek)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 260,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+    "slug": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+    "nome_pt": "Société des traversiers du Québec (STQ) — Matane–Baie-Comeau–Godbout, Rivière-du-Loup–Saint-Siméon e Sorel-Tracy (Quebec, Canadá)",
+    "nome_en": "Société des traversiers du Québec (STQ) — Matane–Baie-Comeau–Godbout, Rivière-du-Loup–Saint-Siméon & Sorel-Tracy (Quebec, Canada)",
+    "pais": "Canadá",
+    "cidade": "Matane / Baie-Comeau / Godbout / Rivière-du-Loup / Saint-Siméon / Sorel-Tracy",
+    "uf": "QC",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Société des traversiers du Québec (STQ) / Traverse Rivière-du-Loup–Saint-Siméon / CNM Évolution",
+    "inauguracao": "1971",
+    "extensao_km": 340,
+    "bitola": "N/A (Hidrovia Estuarina e Fluvial Subártica do Rio São Lourenço — Ro-Pax Quebra-Gelo a GNL)",
+    "eletrificacao": "Propulsão Dual-Fuel GNL Quebra-Gelo Classe 1A (NM F.-A.-Gauthier) e Diesel-Elétrica",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 4200,
+    "ano_referencia": 2026,
+    "investimento": "CA$ 180 milhões (modernização dos terminais de Matane, Baie-Comeau e Sorel-Tracy e eletrificação da frota STQ)",
+    "proximas_entregas": "Novos ferries híbridos-elétricos para a travessia Sorel-Tracy–Saint-Ignace-de-Loyola e Île-aux-Coudres",
+    "resumo_pt": "As travessias estratégicas da Société des traversiers du Québec (STQ) ao longo do Rio e Estuário de São Lourenço unem a Península de Gaspé (Matane) à Côte-Nord (Baie-Comeau e Godbout) durante os 12 meses do ano a bordo do primeiro ferry quebra-gelo a GNL da América do Norte (NM F.-A.-Gauthier), além das ligações de Rivière-du-Loup a Saint-Siméon (Charlevoix), do catamarã rápido Rimouski–Forestville e da travessia 24h entre Sorel-Tracy e Saint-Ignace-de-Loyola.",
+    "resumo_en": "Strategic St. Lawrence River and Estuary crossings operated by the Société des traversiers du Québec (STQ), connecting the Gaspé Peninsula (Matane) with the Côte-Nord (Baie-Comeau and Godbout) year-round aboard North America's first LNG-powered icebreaking Ro-Pax ferry (NM F.-A.-Gauthier), alongside the Rivière-du-Loup–Saint-Siméon, Rimouski–Forestville, and 24/7 Sorel-Tracy–Saint-Ignace-de-Loyola ferries.",
+    "lat": 48.8528,
+    "lon": -67.5303,
+    "zoom_inicial": 6.8,
+    "fontes": [
+      "traversiers-qc-ca",
+      "mtq-quebec-ca"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "quebec",
+      "sao-lourenco",
+      "matane",
+      "baie-comeau",
+      "riviere-du-loup",
+      "sorel-tracy",
+      "canada"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-nam68-stq-l1",
+        "nome": "Estuário Marítimo de São Lourenço (Matane ↔ Baie-Comeau / Godbout & Rimouski ↔ Forestville)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 210,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-nam68-stq-l2",
+        "nome": "Médio e Alto São Lourenço (Rivière-du-Loup ↔ Saint-Siméon & Sorel-Tracy ↔ Saint-Ignace-de-Loyola)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 130,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+    "slug": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+    "nome_pt": "Ferries dos Lagos Erie e Huron — Miller Ferry, Jet Express (Put-in-Bay / Kelleys Island), Pelee Island e MS Chi-Cheemaun (Tobermory–Manitoulin, EUA / Canadá)",
+    "nome_en": "Lake Erie & Lake Huron Island Ferries — Miller Ferry, Jet Express (Put-in-Bay / Kelleys Island), Pelee Island & MS Chi-Cheemaun (Tobermory–Manitoulin, USA / Canada)",
+    "pais": "Estados Unidos",
+    "cidade": "Put-in-Bay / Sandusky / Kelleys Island (OH) / Pelee Island / Tobermory / Manitoulin Island (ON)",
+    "uf": "OH / ON",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Miller Boat Line / Jet Express / Owen Sound Transportation Company (OSTC — MS Chi-Cheemaun & Pelee Island Ferries)",
+    "inauguracao": "1905",
+    "extensao_km": 230,
+    "bitola": "N/A (Hidrovia Lacustre Internacional dos Grandes Lagos — Ro-Pax e Catamarãs de Alta Velocidade)",
+    "eletrificacao": "Navios Ro-Pax Lacustres (MS Chi-Cheemaun / MV Pelee Islander II) e Catamarãs Hidrojet (Jet Express)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 45 milhões (novo ferry M/V Mary Ann Market da Miller Boat Line e modernização dos terminais de Tobermory e Pelee Island)",
+    "proximas_entregas": "Remotorização sustentável do MS Chi-Cheemaun e ampliação das docas de Sandusky e Put-in-Bay",
+    "resumo_pt": "Rede de transporte hidroviário insular dos Grandes Lagos conectando a costa de Ohio (Catawba Island e Sandusky) às ilhas de South Bass Island (Put-in-Bay) e Kelleys Island no Lago Erie, a travessia internacional EUA–Canadá entre Sandusky (OH), Pelee Island e Leamington/Kingsville (Ontário), e o célebre ferry MS Chi-Cheemaun entre Tobermory (Península de Bruce) e South Baymouth na Ilha Manitoulin (a maior ilha lacustre do mundo, entre o Lago Huron e a Georgian Bay).",
+    "resumo_en": "Great Lakes island ferry network linking the Ohio shore (Catawba Island and Sandusky) with South Bass Island (Put-in-Bay) and Kelleys Island on Lake Erie, the international US–Canada ferry between Sandusky, Pelee Island, and Leamington/Kingsville (Ontario), and the iconic MS Chi-Cheemaun Ro-Pax ferry connecting Tobermory (Bruce Peninsula) with South Baymouth on Manitoulin Island across Lake Huron and Georgian Bay.",
+    "lat": 41.6525,
+    "lon": -82.8206,
+    "zoom_inicial": 6.8,
+    "fontes": [
+      "millerferry-us",
+      "ontarioferries-ca"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "grandes-lagos",
+      "lake-erie",
+      "lake-huron",
+      "put-in-bay",
+      "pelee-island",
+      "tobermory",
+      "manitoulin",
+      "eua",
+      "canada"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-nam68-eri-l1",
+        "nome": "Arquipélago do Lago Erie (Catawba / Sandusky OH ↔ Put-in-Bay ↔ Kelleys Island ↔ Pelee Island ↔ Leamington ON)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 140,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-nam68-hur-l2",
+        "nome": "Estreito de Georgian Bay / Lago Huron — MS Chi-Cheemaun (Tobermory ↔ South Baymouth / Manitoulin Island)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 90,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+    "slug": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+    "nome_pt": "Cape May–Lewes Ferry e Travessias Insulares da Baía de Chesapeake — Tangier Island, Smith Island e Oxford–Bellevue (NJ / DE / MD / VA, EUA)",
+    "nome_en": "Cape May–Lewes Ferry & Chesapeake Bay Island Ferries — Tangier Island, Smith Island & Oxford–Bellevue (NJ / DE / MD / VA, USA)",
+    "pais": "Estados Unidos",
+    "cidade": "Cape May (NJ) / Lewes (DE) / Crisfield (MD) / Tangier Island (VA) / Smith Island / Oxford (MD)",
+    "uf": "NJ / DE / MD / VA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Delaware River and Bay Authority (DRBA — Cape May–Lewes Ferry) / Tangier & Smith Island Ferries / Oxford–Bellevue Ferry",
+    "inauguracao": "1683",
+    "extensao_km": 275,
+    "bitola": "N/A (Hidrovia Costeira e Estuarina — Ro-Pax Oceânico de Baía, Lanchas Insulares e Balsa Histórica)",
+    "eletrificacao": "Navios Ro-Pax da DRBA (M/V Delaware, M/V New Jersey, M/V Cape Henlopen) e Embarcações da Baía de Chesapeake",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 3400,
+    "ano_referencia": 2026,
+    "investimento": "US$ 75 milhões (programa de renovação de frota híbrida diesel-elétrica da DRBA para a travessia Cape May–Lewes)",
+    "proximas_entregas": "Novo navio Ro-Pax de baixa emissão da DRBA e dragagem dos canais de acesso a Tangier Island e Smith Island",
+    "resumo_pt": "Conjunto de rotas hidroviárias clássicas do Médio Atlântico dos EUA: o grande ferry ro-pax interestadual Cape May (Nova Jersey) – Lewes (Delaware) na foz da Baía de Delaware (elo de 27 km da US Route 9 operando desde 1964), as embarcações vitais de passageiros, cargas e correio ligando Crisfield (MD), Onancock (VA) e Reedville (VA) às comunidades insulares históricas de Tangier Island e Smith Island no coração da Baía de Chesapeake, e a Oxford–Bellevue Ferry no Rio Tred Avon (fundada em 1683, a balsa privada mais antiga em operação contínua nos EUA).",
+    "resumo_en": "Classic Mid-Atlantic ferry corridors: the interstate Cape May (New Jersey) – Lewes (Delaware) Ro-Pax ferry across the mouth of Delaware Bay (linking US Route 9), the lifeline passenger and mail boats connecting Crisfield (MD), Onancock (VA), and Reedville (VA) with the historic island communities of Tangier Island and Smith Island in Chesapeake Bay, and Maryland's historic Oxford–Bellevue Ferry (operating continuously since 1683).",
+    "lat": 38.875,
+    "lon": -75.04,
+    "zoom_inicial": 7.5,
+    "fontes": [
+      "cmlf-drba-us",
+      "virginia-dot-us"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "cape-may",
+      "lewes",
+      "delaware-bay",
+      "chesapeake-bay",
+      "tangier-island",
+      "smith-island",
+      "maryland",
+      "virginia",
+      "eua"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-nam68-del-l1",
+        "nome": "Baía de Delaware & Eastern Shore (Cape May NJ ↔ Lewes DE Ferry & Oxford ↔ Bellevue Ferry MD)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 115,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-nam68-che-l2",
+        "nome": "Ilhas da Baía de Chesapeake (Crisfield MD ↔ Smith Island ↔ Tangier Island VA ↔ Onancock / Reedville VA)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 160,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+    "slug": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+    "nome_pt": "Travessias Hidroviárias do Baixo Rio Mississippi — New Orleans RTA (Canal Street–Algiers Point e Chalmette) e LaDOTD Ferries (Louisiana, EUA)",
+    "nome_en": "Lower Mississippi River Ferries — New Orleans RTA (Canal Street–Algiers Point & Chalmette) & LaDOTD Ferries (Louisiana, USA)",
+    "pais": "Estados Unidos",
+    "cidade": "Nova Orleans / Algiers Point / Chalmette / Belle Chasse / Plaquemine / St. Francisville",
+    "uf": "LA",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "New Orleans Regional Transit Authority (NORTA) / Louisiana Department of Transportation and Development (LaDOTD)",
+    "inauguracao": "1827",
+    "extensao_km": 185,
+    "bitola": "N/A (Hidrovia Fluvial Urbana e Rodoviária do Baixo Rio Mississippi — Catamarãs e Balsas Ro-Pax)",
+    "eletrificacao": "Catamarãs Urbanos de Passageiros (RTA New Orleans) e Ferries Ro-Pax Fluviais (LaDOTD)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 5400,
+    "ano_referencia": 2026,
+    "investimento": "US$ 52 milhões (novo Terminal Multimodal de Canal Street em Nova Orleans integrado aos bondes históricos e novos catamarãs RTA)",
+    "proximas_entregas": "Modernização das rampas fluviais de Algiers Point, Chalmette e Plaquemine no Rio Mississippi",
+    "resumo_pt": "Histórico sistema de travessias fluviais através do caudaloso Baixo Rio Mississippi na Louisiana: no coração de Nova Orleans, a RTA opera os catamarãs urbanos entre o novo terminal de Canal Street (junto ao French Quarter e à linha de bondes) e o bairro histórico de Algiers Point (em operação contínua desde 1827), além da balsa veicular entre Lower Algiers e Chalmette; rio acima, o LaDOTD opera as travessias rodoviárias de Belle Chasse–Scarsdale, Plaquemine–Sunshine e St. Francisville–New Roads.",
+    "resumo_en": "Historic river ferry network across the Lower Mississippi River in Louisiana: in downtown New Orleans, NORTA operates passenger catamarans between the new Canal Street Ferry Terminal (French Quarter/Streetcar hub) and historic Algiers Point (running continuously since 1827), alongside the Lower Algiers–Chalmette vehicle ferry and LaDOTD's upriver crossings at Belle Chasse, Plaquemine–Sunshine, and St. Francisville–New Roads.",
+    "lat": 29.9511,
+    "lon": -90.0615,
+    "zoom_inicial": 8.5,
+    "fontes": [
+      "norta-la-us",
+      "dotd-la-gov"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "mississippi",
+      "nova-orleans",
+      "algiers-point",
+      "chalmette",
+      "louisiana",
+      "eua"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-nam68-msy-l1",
+        "nome": "Travessias Metropolitanas de Nova Orleans — RTA (Canal Street ↔ Algiers Point & Lower Algiers ↔ Chalmette / Belle Chasse)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 45,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-nam68-mis-l2",
+        "nome": "Travessias do Rio Mississippi Superior na Louisiana — LaDOTD (Plaquemine ↔ Sunshine & St. Francisville ↔ New Roads)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 140,
+        "estacoes": 2
+      }
+    ]
   }
 ]

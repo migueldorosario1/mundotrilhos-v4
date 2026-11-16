@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T06:44:00-03:00",
+  "atualizado_em": "2026-11-16T07:21:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2617,6 +2617,23 @@
         "asdp-ketapang-banyuwangi-gilimanuk-bali-strait-padangbai-nusa-penida-lembar-lombok-kayangan-pototano-sumbawa-indonesia",
         "kumamoto-ferry-ocean-arrow-kyusho-ferry-shimabara-kumamoto-nagasu-taira-ariake-sea-oniike-kuchinotsu-amakusa-japao"
       ]
+    },
+    {
+      "ordem": 181,
+      "codigo": "HIDRO-AMERICA-DO-NORTE-CANADA-EUA-ALASCA-GRANDES-LAGOS-COSTA-LESTE-VI",
+      "pais": "Fase Hidroviária Mundial #68 — América do Norte: Alasca, São Lourenço, Lago Erie/Huron, Baía de Chesapeake e Outer Banks VI",
+      "continente": "América do Norte",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Miller Boat Line & Jet Express Put-in-Bay / Kelleys Island e Pelee Island Ferry no Lago Erie; Owen Sound Transportation MS Chi-Cheemaun Tobermory–South Baymouth em Manitoulin Island no Lago Huron; Société des traversiers du Québec STQ Québec–Lévis, Tadoussac–Baie-Sainte-Catherine e Matane–Baie-Comeau–Godbout no Rio São Lourenço; Tangier Island & Smith Island Ferries na Baía de Chesapeake; e Inter-Island Ferry Authority Ketchikan–Prince of Wales Island no Alasca)",
+      "status": "concluido",
+      "ronda_conclusao": 185,
+      "sistemas_adicionados": [
+        "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+        "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+        "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+        "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+        "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2766,20 +2783,20 @@
       ]
     },
     {
-      "ordem": 181,
-      "codigo": "HIDRO-AMERICA-DO-NORTE-CANADA-EUA-ALASCA-GRANDES-LAGOS-COSTA-LESTE-VI",
-      "pais": "Fase Hidroviária Mundial #68 — América do Norte: Alasca, São Lourenço, Lago Erie/Huron, Baía de Chesapeake e Outer Banks VI",
-      "continente": "América do Norte",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (Miller Boat Line & Jet Express Put-in-Bay / Kelleys Island e Pelee Island Ferry no Lago Erie; Owen Sound Transportation MS Chi-Cheemaun Tobermory–South Baymouth em Manitoulin Island no Lago Huron; Société des traversiers du Québec STQ Québec–Lévis, Tadoussac–Baie-Sainte-Catherine e Matane–Baie-Comeau–Godbout no Rio São Lourenço; Tangier Island & Smith Island Ferries na Baía de Chesapeake; e Inter-Island Ferry Authority Ketchikan–Prince of Wales Island no Alasca)"
-    },
-    {
       "ordem": 182,
       "codigo": "HIDRO-MEDITERRANEO-ATLANTICO-ESPANHA-PORTUGAL-ITALIA-GRECIA-MARROCOS-VI",
       "pais": "Fase Hidroviária Mundial #69 — Mediterrâneo, Atlântico Ibérico, Golfo de Nápoles, Cíclades e Adriático VI",
       "continente": "Europa e África",
       "prioridade": "alta",
       "foco": "Transporte por barco (Naviera Mar de Ons & Nabia Vigo–Cangas–Moaña–Ilhas Cíes e Ons na Galícia, Espanha; Transtejo/Soflusa Lisboa–Cacilhas–Seixal–Montijo–Trafaria–Barreiro e Atlanticoline Açores em Portugal; Caremar / SNAV / NLG Nápoles Beverello/Pozzuoli–Ischia–Procida–Capri na Itália; Small Cyclades Lines Express Skopelitis Naxos–Iraklia–Schinoussa–Koufonisia–Donoussa–Amorgos na Grécia; e FRS / InterShipping Tarifa–Tânger Ville e Algeciras–Ceuta no Estreito de Gibraltar)"
+    },
+    {
+      "ordem": 191,
+      "codigo": "HIDRO-AMERICA-DO-NORTE-GOLFO-DO-MEXICO-MISSISSIPPI-GRANDES-LAGOS-VII",
+      "pais": "Fase Hidroviária Mundial #77 — América do Norte: Apostle Islands (Lago Superior), Mackinac Island (Star Line / Shepler's), Beaver Island, Staten Island Fast Ferry (NYC) e Seastreak (Sandy Hook / Martha's Vineyard) VII",
+      "continente": "América",
+      "prioridade": "alta",
+      "status": "pendente"
     }
   ]
 }
