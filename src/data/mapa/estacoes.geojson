@@ -71823,6 +71823,456 @@
           4.8256
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-bah-e1",
+        "nome": "Potter's Cay Ferry & Mailboat Terminal — Nassau (Ilha de New Providence, Bahamas)",
+        "sistema_id": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+        "linha_id": "hidro-lat81-bah-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3189,
+          25.0789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-bah-e2",
+        "nome": "Government Dock — Dunmore Town (Harbour Island) & Spanish Wells (Norte de Eleuthera, Bahamas)",
+        "sistema_id": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+        "linha_id": "hidro-lat81-bah-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6356,
+          25.5025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-bah-e3",
+        "nome": "George Town Dock (Great Exuma) & Marsh Harbour (Abaco — Family Islands, Bahamas)",
+        "sistema_id": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+        "linha_id": "hidro-lat81-bah-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7825,
+          23.5056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-bim-e4",
+        "nome": "Freeport Harbour (Grand Bahama) & Alice Town Bimini Ferry Terminals (Bahamas)",
+        "sistema_id": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+        "linha_id": "hidro-lat81-bim-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7756,
+          26.5219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-bim-e5",
+        "nome": "Port Everglades Terminal 21 — Balearia Caribbean (Fort Lauderdale, Flórida, EUA)",
+        "sistema_id": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+        "linha_id": "hidro-lat81-bim-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1189,
+          26.0889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-nic-e1",
+        "nome": "Terminal de Ferries Barrio El Carmen — Puntarenas (Golfo de Nicoya, Costa Rica)",
+        "sistema_id": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+        "linha_id": "hidro-lat81-nic-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8489,
+          9.9756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-nic-e2",
+        "nome": "Terminal de Ferry de Paquera — Naviera Tambor (Sul da Península de Nicoya, Costa Rica)",
+        "sistema_id": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+        "linha_id": "hidro-lat81-nic-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9125,
+          9.8525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-nic-e3",
+        "nome": "Terminal de Ferry de Playa Naranjo — Coonatramar (Golfo de Nicoya, Costa Rica)",
+        "sistema_id": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+        "linha_id": "hidro-lat81-nic-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9689,
+          9.9225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-osa-e4",
+        "nome": "Muelle Municipal de Golfito (Golfo Dulce, Sul de Puntarenas, Costa Rica)",
+        "sistema_id": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+        "linha_id": "hidro-lat81-osa-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1656,
+          8.6389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-osa-e5",
+        "nome": "Muelle Público de Puerto Jiménez — Portal de Corcovado (Península de Osa, Costa Rica)",
+        "sistema_id": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+        "linha_id": "hidro-lat81-osa-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3156,
+          8.5369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-and-e1",
+        "nome": "Puerto Pañuelo — Llao Llao (San Carlos de Bariloche, Lago Nahuel Huapi, Argentina)",
+        "sistema_id": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+        "linha_id": "hidro-lat81-and-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5356,
+          -41.0556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-and-e2",
+        "nome": "Puerto Blest & Puerto Alegre / Puerto Frías (Lago Nahuel Huapi e Lago Frías, Parque Nacional Nahuel Huapi, AR)",
+        "sistema_id": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+        "linha_id": "hidro-lat81-and-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8156,
+          -41.0319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-and-e3",
+        "nome": "Puerto de Peulla (Fronteira Andina no Lago Todos los Santos, Região de Los Lagos, Chile)",
+        "sistema_id": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+        "linha_id": "hidro-lat81-and-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0189,
+          -41.0956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-and-e4",
+        "nome": "Muelle de Petrohué — Parque Nacional Vicente Pérez Rosales (Vulcão Osorno, Lago Todos los Santos, Chile)",
+        "sistema_id": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+        "linha_id": "hidro-lat81-and-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4025,
+          -41.1356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-nah-e5",
+        "nome": "Puerto Anchorena (Isla Victoria) & Muelle del Bosque de Arrayanes (Villa La Angostura, Neuquén, AR)",
+        "sistema_id": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+        "linha_id": "hidro-lat81-nah-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5319,
+          -40.9625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-mag-e1",
+        "nome": "Terminal Fluvial Multimodal de Magangué (Baixo Rio Magdalena, Bolívar, Colômbia)",
+        "sistema_id": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+        "linha_id": "hidro-lat81-mag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7525,
+          9.2419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-mag-e2",
+        "nome": "Albarrada de Santa Cruz de Mompox & Muelle de Yatí (Brazo de Mompox, Bolívar, Colômbia)",
+        "sistema_id": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+        "linha_id": "hidro-lat81-mag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4256,
+          9.2419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-mag-e3",
+        "nome": "Muelle Fluvial de El Banco — Confluência Magdalena–Cesar (Departamento de Magdalena, Colômbia)",
+        "sistema_id": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+        "linha_id": "hidro-lat81-mag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9725,
+          8.9956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-ber-e4",
+        "nome": "Muelle Fluvial de Barrancabermeja & Travessia de Yondó (Médio Magdalena, Santander / Antioquia)",
+        "sistema_id": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+        "linha_id": "hidro-lat81-ber-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8756,
+          7.0656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-ber-e5",
+        "nome": "Muelles Fluviales de Gamarra (Cesar) & Puerto Berrío (Antioquia, Rio Magdalena, Colômbia)",
+        "sistema_id": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+        "linha_id": "hidro-lat81-ber-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7456,
+          8.3219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-ori-e1",
+        "nome": "Terminal de Chalanas y Lanchas de San Félix — Ciudad Guayana (Estado Bolívar, Rio Orinoco, Venezuela)",
+        "sistema_id": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+        "linha_id": "hidro-lat81-ori-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6589,
+          8.3825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-ori-e2",
+        "nome": "Embarcadero de Los Barrancos de Fajardo & Barrancas del Orinoco (Sul de Monagas, Venezuela)",
+        "sistema_id": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+        "linha_id": "hidro-lat81-ori-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6625,
+          8.4056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-ori-e3",
+        "nome": "Puerto Fluvial de Volcán (Tucupita) & Muelles de Pedernales / Curiapo (Delta Amacuro, Venezuela)",
+        "sistema_id": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+        "linha_id": "hidro-lat81-ori-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0525,
+          9.0589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-aya-e4",
+        "nome": "Puerto de Samariapo & Muelle de Puerto Ayacucho (Estado Amazonas, Alto Orinoco, Venezuela)",
+        "sistema_id": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+        "linha_id": "hidro-lat81-aya-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5925,
+          5.6625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-aya-e5",
+        "nome": "Muelles Fronterizos de Casuarito & Puerto Carreño (Vichada, Fronteira Colômbia–Venezuela no Orinoco)",
+        "sistema_id": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+        "linha_id": "hidro-lat81-aya-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6289,
+          5.6756
+        ]
+      }
     }
   ]
 }

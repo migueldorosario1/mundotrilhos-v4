@@ -54963,5 +54963,327 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+    "slug": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+    "nome_pt": "Bahamas Ferries (Bo Hengy & Seawind), Mailboats e Balearia Caribbean — Nassau ↔ Harbour Island / Eleuthera / Exuma / Abaco e Freeport / Bimini ↔ Fort Lauderdale (Bahamas / EUA)",
+    "nome_en": "Bahamas Ferries (Bo Hengy & Seawind), Mailboats & Balearia Caribbean — Nassau ↔ Harbour Island / Eleuthera / Exuma / Abaco & Freeport / Bimini ↔ Fort Lauderdale (Bahamas / USA)",
+    "pais": "Bahamas",
+    "cidade": "Nassau (Potter's Cay) / Harbour Island / Spanish Wells (Eleuthera) / George Town (Exuma) / Marsh Harbour (Abaco) / Freeport / Bimini",
+    "uf": "New Providence / Eleuthera / Exuma / Abaco / Grand Bahama / Bimini",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Bahamas Ferries Ltd. (M/V Bo Hengy III & M/V Seawind) / Bahamas Mailboat Fleet / Balearia Caribbean (Jaume II)",
+    "inauguracao": "1999",
+    "extensao_km": 680,
+    "bitola": "N/A (Hidrovia Interinsular Atlântica das Family Islands e Estreito da Flórida — Catamarãs HSC, Ferries Ro-Pax e Mailboats)",
+    "eletrificacao": "Catamarãs Rápidos (Bo Hengy & Jaume II — 32 nós), Ferries Ro-Pax (Seawind & Eastwind) e Navios Mistos Mailboats",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 4600,
+    "ano_referencia": 2026,
+    "investimento": "US$ 42 milhões (modernização do Terminal de Ferries de Potter's Cay em Nassau e dos portos de Harbour Island, Exuma, Abaco e Freeport)",
+    "proximas_entregas": "Renovação de embarcações interinsulares nas rotas de Nassau para Eleuthera e Exuma",
+    "resumo_pt": "A rede marítima que conecta a capital Nassau (Ilha de New Providence) às 'Family Islands' do Arquipélago das Bahamas e à costa da Flórida: a partir do terminal de Potter's Cay Dock (sob a ponte de Paradise Island em Nassau), os catamarãs rápidos Bo Hengy, os ferries Ro-Pax da Bahamas Ferries e os tradicionais Mailboats navegam para Spanish Wells e Harbour Island (no norte de Eleuthera), Governor's Harbour, George Town (Great Exuma), Fresh Creek (Andros) e Marsh Harbour (Abaco); no noroeste do arquipélago, os fast ferries da Balearia Caribbean cruzam a Corrente do Golfo em 2 a 3 horas ligando Freeport (Grand Bahama) e Bimini a Fort Lauderdale (Port Everglades, Flórida, EUA).",
+    "resumo_en": "Inter-island ferry network connecting Nassau (New Providence) with the Family Islands of The Bahamas and South Florida: from Potter's Cay Dock in Nassau, Bahamas Ferries' high-speed catamarans (Bo Hengy), Ro-Pax vessels (Seawind), and the traditional Mailboat fleet serve Harbour Island, Spanish Wells, Eleuthera, Great Exuma, Andros, and Abaco; in the northwestern Bahamas, Balearia Caribbean fast ferries cross the Gulf Stream in 2–3 hours linking Freeport (Grand Bahama) and Bimini with Port Everglades (Fort Lauderdale, Florida).",
+    "lat": 25.0789,
+    "lon": -77.3189,
+    "zoom_inicial": 6.8,
+    "fontes": [
+      "bahamasferries-bs",
+      "baleariacaribbean-com"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "nassau",
+      "harbour-island",
+      "eleuthera",
+      "exuma",
+      "freeport",
+      "bimini",
+      "bahamas"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat81-bah-l1",
+        "nome": "Expresso das Family Islands (Nassau Potter's Cay ↔ Spanish Wells ↔ Harbour Island / Eleuthera & Nassau ↔ Great Exuma / Abaco)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 420,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat81-bim-l2",
+        "nome": "Ponte Rápida do Estreito da Flórida — Balearia Caribbean (Port Everglades Fort Lauderdale US ↔ Bimini & Freeport Grand Bahama BS)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 260,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+    "slug": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+    "nome_pt": "Naviera Tambor e Coonatramar — Ferries do Golfo de Nicoya (Puntarenas ↔ Paquera e Playa Naranjo) e Travessia do Golfo Dulce (Golfito ↔ Puerto Jiménez, Costa Rica)",
+    "nome_en": "Naviera Tambor & Coonatramar — Gulf of Nicoya Ro-Pax Ferries (Puntarenas ↔ Paquera & Playa Naranjo) & Golfo Dulce Crossing (Golfito ↔ Puerto Jiménez, Costa Rica)",
+    "pais": "Costa Rica",
+    "cidade": "Puntarenas / Paquera / Playa Naranjo (Península de Nicoya) / Golfito / Puerto Jiménez (Península de Osa)",
+    "uf": "Puntarenas / Guanacaste",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Naviera Tambor S.A. (Ferry Tambor III & Ferry Paquera) / Coonatramar R.L. (Ferry Conramar I & San Lucas III) / Lanchas Golfo Dulce",
+    "inauguracao": "1971",
+    "extensao_km": 160,
+    "bitola": "N/A (Hidrovia Costeira e de Golfos Tropicais do Pacífico — Ferries Ro-Pax e Lanchas Coletivas)",
+    "eletrificacao": "Ferries Ro-Pax de Veículos, Ônibus e Passageiros (Tambor III, Paquera e Conramar I) e Lanchas do Golfo Dulce",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6800,
+    "ano_referencia": 2026,
+    "investimento": "US$ 24 milhões (reconstrução dos terminais de atracação de Paquera, Playa Naranjo e Barrio El Carmen em Puntarenas pelo MOPT da Costa Rica)",
+    "proximas_entregas": "Ampliação das frequências noturnas nos corredores Puntarenas–Paquera e Puntarenas–Playa Naranjo",
+    "resumo_pt": "Os dois principais sistemas hidroviários da costa pacífica da Costa Rica: no Golfo de Nicoya, os ferries Ro-Pax da Naviera Tambor e da cooperativa Coonatramar partem do Terminal Barrio El Carmen (na ponta da língua de areia da cidade de Puntarenas) e cruzam o golfo em 70 minutos até os portos de Paquera (portal para Tambor, Montezuma e Santa Teresa) e Playa Naranjo (no sul da Península de Nicoya), economizando mais de 3 horas de contorno rodoviário; no extremo sul do país, as lanchas coletivas atravessam as águas profundas do fiorde tropical de Golfo Dulce em 30 minutos entre Golfito e Puerto Jiménez (porta de entrada do Parque Nacional Corcovado na Península de Osa).",
+    "resumo_en": "Costa Rica's two primary Pacific coast ferry systems: across the Gulf of Nicoya, Ro-Pax vehicle ferries operated by Naviera Tambor and Coonatramar sail from Barrio El Carmen Terminal in Puntarenas to Paquera and Playa Naranjo on the southern Nicoya Peninsula in 70 minutes (saving a 3-hour road detour); in southern Costa Rica, passenger launches cross the tropical fjord of Golfo Dulce in 30 minutes between Golfito and Puerto Jiménez on the Osa Peninsula.",
+    "lat": 9.915,
+    "lon": -84.895,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "navieratambor-cr",
+      "coonatramar-cr",
+      "mopt-go-cr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "golfo-de-nicoya",
+      "puntarenas",
+      "paquera",
+      "playa-naranjo",
+      "golfo-dulce",
+      "puerto-jimenez",
+      "golfito",
+      "costa-rica"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat81-nic-l1",
+        "nome": "Pontes Ro-Pax do Golfo de Nicoya (Terminal de Puntarenas ↔ Terminal de Paquera / Ilha San Lucas & Puntarenas ↔ Playa Naranjo)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 95,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat81-osa-l2",
+        "nome": "Travessia do Golfo Dulce e Península de Osa (Muelle Municipal de Golfito ↔ Muelle Público de Puerto Jiménez & Sierpe ↔ Bahía Drake)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 65,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+    "slug": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+    "nome_pt": "Cruce Andino e Turisur — Travessia Transandina dos Lagos (Bariloche / Puerto Pañuelo ↔ Puerto Blest ↔ Lago Frías ↔ Peulla ↔ Petrohué) e Ilha Victoria (Argentina / Chile)",
+    "nome_en": "Cruce Andino & Turisur — Trans-Andean Lake Crossing (Bariloche / Puerto Pañuelo ↔ Puerto Blest ↔ Lake Frías ↔ Peulla ↔ Petrohué) & Victoria Island (Argentina / Chile)",
+    "pais": "Argentina",
+    "cidade": "San Carlos de Bariloche (Puerto Pañuelo / Puerto Blest) / Villa La Angostura (AR) / Peulla / Petrohué (Puerto Varas, CL)",
+    "uf": "Río Negro / Neuquén / Región de Los Lagos",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Turisur S.R.L. & Cruce Andino (Catamarãs Gran Victoria, Victoria Andina, Modesta Victoria & Lagos Andinos)",
+    "inauguracao": "1913",
+    "extensao_km": 145,
+    "bitola": "N/A (Hidrovia Lacustre Glacial Transandina Internacional — Catamarãs de Alta Capacidade e Navio Histórico Modesta Victoria)",
+    "eletrificacao": "Catamarãs Lacustres (Gran Victoria, Victoria Andina, Victoria del Lago, Camila e Lagos Andinos) e Navio Histórico M/N Modesta Victoria (1938)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 3400,
+    "ano_referencia": 2026,
+    "investimento": "US$ 19 milhões (modernização de Puerto Pañuelo em Llao Llao, novos catamarãs de baixa emissão no Lago Frías e Lago Todos los Santos e postos de fronteira integrados)",
+    "proximas_entregas": "Propulsão híbrida nas embarcações do Parque Nacional Nahuel Huapi e Parque Nacional Vicente Pérez Rosales",
+    "resumo_pt": "A travessia lacustre binacional mais famosa da Cordilheira dos Andes, operando desde 1913 entre San Carlos de Bariloche (Argentina) e Puerto Varas (Chile) através de três lagos glaciais: no lado argentino, os catamarãs da Turisur e o histórico navio Modesta Victoria (de 1938) partem de Puerto Pañuelo (Llao Llao) pelo Brazo Blest do Lago Nahuel Huapi até Puerto Blest (além das rotas para Puerto Anchorena na Isla Victoria e para o Bosque de Arrayanes em Villa La Angostura); após 3 km por terra, um catamarã cruza as águas verde-esmeralda do Lago Frías entre Puerto Alegre e Puerto Frías, e do lado chileno o catamarã Lagos Andinos navega pelo Lago Todos los Santos (aos pés do Vulcão Osorno) entre Peulla e Petrohué.",
+    "resumo_en": "South America's most celebrated binational Trans-Andean lake crossing, operating since 1913 between Bariloche (Argentina) and Puerto Varas (Chile) across three glacial lakes: from Puerto Pañuelo (Llao Llao), Turisur catamarans and the historic 1938 ship Modesta Victoria sail across Lake Nahuel Huapi to Puerto Blest (as well as Victoria Island and the Arrayanes Forest at Villa La Angostura); a second boat crosses emerald Lake Frías from Puerto Alegre to Puerto Frías, and on the Chilean side the catamaran Lagos Andinos sails across Lake Todos los Santos beneath Osorno Volcano from Peulla to Petrohué.",
+    "lat": -41.055,
+    "lon": -71.82,
+    "zoom_inicial": 8.8,
+    "fontes": [
+      "cruceandino-com",
+      "turisur-com-ar"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "cruce-andino",
+      "bariloche",
+      "nahuel-huapi",
+      "puerto-blest",
+      "lago-frias",
+      "peulla",
+      "petrohue",
+      "argentina",
+      "chile"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat81-and-l1",
+        "nome": "Rota Binacional Cruce Andino (Puerto Pañuelo Bariloche ↔ Puerto Blest & Puerto Alegre ↔ Puerto Frías AR & Peulla ↔ Petrohué Lago Todos los Santos CL)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 95,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat81-nah-l2",
+        "nome": "Navegação do Lago Nahuel Huapi Norte (Puerto Pañuelo ↔ Puerto Anchorena Isla Victoria ↔ Bosque de Arrayanes / Villa La Angostura)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 50,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+    "slug": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+    "nome_pt": "Hidrovia e Travessias do Rio Magdalena — Magangué, Santa Cruz de Mompox (Yatí–Bodega), El Banco, Gamarra e Barrancabermeja (Colômbia)",
+    "nome_en": "Magdalena River Waterway & Crossings — Magangué, Santa Cruz de Mompox (Yatí–Bodega), El Banco, Gamarra & Barrancabermeja (Colombia)",
+    "pais": "Colômbia",
+    "cidade": "Magangué / Santa Cruz de Mompox / Pinillos / El Banco / Gamarra / Barrancabermeja / Puerto Berrío",
+    "uf": "Bolívar / Magdalena / Cesar / Santander / Antioquia",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Cormagdalena / Terminal Fluvial Multimodal de Magangué / Cooperativas de Transporte Fluvial Chalupas del Magdalena",
+    "inauguracao": "1824",
+    "extensao_km": 620,
+    "bitola": "N/A (Principal Hidrovia Fluvial da Colômbia — Lanchas Rápidas Chalupas, Planchones Ro-Pax e Comboios Fluviais)",
+    "eletrificacao": "Lanchas Rápidas de Passageiros (Chalupas Expresas), Balsas Planchones Ro-Pax e Navios Fluviais do Magdalena",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 18500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 85 milhões (programa de modernização de 38 muelles fluviais da Cormagdalena e Mintransporte em Magangué, Mompox, El Banco, Barrancabermeja e Gamarra)",
+    "proximas_entregas": "Dragagem permanente do canal navegável Barrancabermeja–Bocas de Ceniza (Barranquilla) e Canal del Dique (Cartagena)",
+    "resumo_pt": "A histórica e principal artéria fluvial da Colômbia: ao longo do Baixo e Médio Rio Magdalena e da Depressão Momposina (onde convergem os rios Magdalena, Cauca, Cesar e San Jorge), o moderno Terminal Fluvial Multimodal de Magangué (Bolívar) funciona como o maior hub de lanchas rápidas ('chalupas') e balsas ('planchones') da região, conectando diariamente Yatí, Santa Cruz de Mompox (Patrimônio Mundial da UNESCO), Pinillos, Talaigua Nuevo, Cicuco e El Banco (Magdalena); mais ao sul, no Médio Magdalena, as lanchas expressas unem Gamarra (Cesar), San Pablo, Cantagallo, o polo petrolífero de Barrancabermeja (Santander), Yondó e Puerto Berrío (Antioquia).",
+    "resumo_en": "Colombia's historic primary river artery: across the Lower and Middle Magdalena River and the Momposina Depression (where the Magdalena, Cauca, Cesar, and San Jorge rivers converge), the Magangué Multimodal River Terminal serves as the busiest hub for high-speed 'chalupa' launches and Ro-Pax 'planchón' ferries linking Yatí, UNESCO-listed Santa Cruz de Mompox, Pinillos, and El Banco; further upstream in the Middle Magdalena, express boats connect Gamarra, San Pablo, Barrancabermeja, Yondó, and Puerto Berrío.",
+    "lat": 9.2419,
+    "lon": -74.7525,
+    "zoom_inicial": 6.8,
+    "fontes": [
+      "cormagdalena-gov-co",
+      "mintransporte-gov-co"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "rio-magdalena",
+      "magangue",
+      "mompox",
+      "el-banco",
+      "barrancabermeja",
+      "gamarra",
+      "colombia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat81-mag-l1",
+        "nome": "Baixo Magdalena e Depressão Momposina (Calamar / Canal del Dique ↔ Terminal de Magangué ↔ Yatí / Mompox ↔ Pinillos ↔ El Banco)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 310,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat81-ber-l2",
+        "nome": "Médio Rio Magdalena (El Banco ↔ Gamarra ↔ San Pablo ↔ Muelle Fluvial de Barrancabermeja ↔ Yondó ↔ Puerto Berrío)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 310,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+    "slug": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+    "nome_pt": "Hidrovia e Travessias do Rio Orinoco e Delta Amacuro — Ciudad Guayana (San Félix ↔ Los Barrancos), Tucupita / Barrancas ↔ Pedernales e Puerto Ayacucho ↔ Casuarito (Venezuela / Colômbia)",
+    "nome_en": "Orinoco River & Delta Amacuro Waterways — Ciudad Guayana (San Félix ↔ Los Barrancos), Tucupita / Barrancas ↔ Pedernales & Puerto Ayacucho ↔ Casuarito (Venezuela / Colombia)",
+    "pais": "Venezuela",
+    "cidade": "Ciudad Guayana (San Félix) / Los Barrancos de Fajardo / Barrancas del Orinoco / Tucupita / Pedernales / Caicara / Puerto Ayacucho / Casuarito (Colômbia)",
+    "uf": "Bolívar / Monagas / Delta Amacuro / Amazonas / Vichada",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "INEA Venezuela / Chalanas y Lanchas de San Félix–Los Barrancos / Operadores Fluviales del Delta del Orinoco y Alto Orinoco",
+    "inauguracao": "1950",
+    "extensao_km": 540,
+    "bitola": "N/A (Hidrovia Fluvial do Terceiro Rio Mais Caudaloso do Planeta — Balsas Chalanas Ro-Pax e Lanchas do Delta)",
+    "eletrificacao": "Balsas Veiculares (Chalanas del Orinoco) e Lanchas Rápidas de Alumínio e Fibra (Curiaras e Voladoras)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 11200,
+    "ano_referencia": 2026,
+    "investimento": "US$ 22 milhões (reabilitação dos terminais fluviais de San Félix em Ciudad Guayana, Los Barrancos de Fajardo em Monagas e Volcán em Tucupita)",
+    "proximas_entregas": "Reforço da segurança e sinalização fluvial nos canais do Delta Amacuro e fronteira do Alto Orinoco",
+    "resumo_pt": "O grande sistema de travessias e navegação interior ao longo do Rio Orinoco (o terceiro maior rio do mundo em volume de água): em Ciudad Guayana (na confluência dos rios Caroní e Orinoco), centenas de passageiros e veículos cruzam diariamente em lanchas e balsas ('chalanas') entre o porto de San Félix (estado Bolívar) e Los Barrancos de Fajardo (estado Monagas); mais a leste, a partir de Barrancas del Orinoco e do Puerto de Volcán em Tucupita (Caño Mánamo), lanchas regulares adentram os canais do estado Delta Amacuro (onde não existem estradas) para atender Pedernales, Capure e Curiapo; já no Alto Orinoco, operam as travessias internacionais entre Puerto Ayacucho / Samariapo (Venezuela) e Casuarito / Puerto Carreño (Colômbia).",
+    "resumo_en": "River crossings and inland navigation along the Orinoco River (the world's third-largest river by discharge): at Ciudad Guayana (confluence of the Caroní and Orinoco), passenger boats and 'chalana' vehicle ferries cross daily between San Félix (Bolívar) and Los Barrancos de Fajardo (Monagas); downstream from Barrancas del Orinoco and Tucupita (Volcán Port), launches navigate the roadless channels of the Orinoco Delta to Pedernales and Curiapo, while the Upper Orinoco features international crossings linking Puerto Ayacucho (Venezuela) with Casuarito and Puerto Carreño (Colombia).",
+    "lat": 8.4,
+    "lon": -62.65,
+    "zoom_inicial": 6.6,
+    "fontes": [
+      "inea-gob-ve",
+      "mppt-gob-ve"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "balsa",
+      "chalana",
+      "rio-orinoco",
+      "ciudad-guayana",
+      "san-felix",
+      "tucupita",
+      "delta-amacuro",
+      "puerto-ayacucho",
+      "venezuela",
+      "colombia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-lat81-ori-l1",
+        "nome": "Baixo Orinoco e Canais do Delta Amacuro (Puerto de San Félix Ciudad Guayana ↔ Los Barrancos de Fajardo ↔ Barrancas ↔ Tucupita Volcán ↔ Pedernales / Curiapo)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 320,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-lat81-aya-l2",
+        "nome": "Médio e Alto Orinoco Internacional (Caicara del Orinoco ↔ Cabruta & Puerto Ayacucho / Samariapo VE ↔ Casuarito / Puerto Carreño CO)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 220,
+        "estacoes": 2
+      }
+    ]
   }
 ]

@@ -69724,6 +69724,322 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-bah-l1",
+        "nome": "Expresso das Family Islands (Nassau Potter's Cay ↔ Spanish Wells ↔ Harbour Island / Eleuthera & Nassau ↔ Great Exuma / Abaco)",
+        "sistema_id": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.3189,
+            25.0789
+          ],
+          [
+            -76.7525,
+            25.5456
+          ],
+          [
+            -76.6356,
+            25.5025
+          ],
+          [
+            -75.7825,
+            23.5056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-bim-l2",
+        "nome": "Ponte Rápida do Estreito da Flórida — Balearia Caribbean (Port Everglades Fort Lauderdale US ↔ Bimini & Freeport Grand Bahama BS)",
+        "sistema_id": "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1189,
+            26.0889
+          ],
+          [
+            -79.2956,
+            25.7325
+          ],
+          [
+            -78.7756,
+            26.5219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-nic-l1",
+        "nome": "Pontes Ro-Pax do Golfo de Nicoya (Terminal de Puntarenas ↔ Terminal de Paquera / Ilha San Lucas & Puntarenas ↔ Playa Naranjo)",
+        "sistema_id": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.8489,
+            9.9756
+          ],
+          [
+            -84.9125,
+            9.8525
+          ],
+          [
+            -84.9689,
+            9.9225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-osa-l2",
+        "nome": "Travessia do Golfo Dulce e Península de Osa (Muelle Municipal de Golfito ↔ Muelle Público de Puerto Jiménez & Sierpe ↔ Bahía Drake)",
+        "sistema_id": "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.1656,
+            8.6389
+          ],
+          [
+            -83.3156,
+            8.5369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-and-l1",
+        "nome": "Rota Binacional Cruce Andino (Puerto Pañuelo Bariloche ↔ Puerto Blest & Puerto Alegre ↔ Puerto Frías AR & Peulla ↔ Petrohué Lago Todos los Santos CL)",
+        "sistema_id": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.5356,
+            -41.0556
+          ],
+          [
+            -71.8156,
+            -41.0319
+          ],
+          [
+            -71.8056,
+            -41.0725
+          ],
+          [
+            -72.0189,
+            -41.0956
+          ],
+          [
+            -72.4025,
+            -41.1356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-nah-l2",
+        "nome": "Navegação do Lago Nahuel Huapi Norte (Puerto Pañuelo ↔ Puerto Anchorena Isla Victoria ↔ Bosque de Arrayanes / Villa La Angostura)",
+        "sistema_id": "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.5356,
+            -41.0556
+          ],
+          [
+            -71.5319,
+            -40.9625
+          ],
+          [
+            -71.6225,
+            -40.8389
+          ],
+          [
+            -71.6489,
+            -40.7689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-mag-l1",
+        "nome": "Baixo Magdalena e Depressão Momposina (Calamar / Canal del Dique ↔ Terminal de Magangué ↔ Yatí / Mompox ↔ Pinillos ↔ El Banco)",
+        "sistema_id": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.915,
+            10.2519
+          ],
+          [
+            -74.7525,
+            9.2419
+          ],
+          [
+            -74.4256,
+            9.2419
+          ],
+          [
+            -74.0889,
+            8.9189
+          ],
+          [
+            -73.9725,
+            8.9956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-ber-l2",
+        "nome": "Médio Rio Magdalena (El Banco ↔ Gamarra ↔ San Pablo ↔ Muelle Fluvial de Barrancabermeja ↔ Yondó ↔ Puerto Berrío)",
+        "sistema_id": "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9725,
+            8.9956
+          ],
+          [
+            -73.7456,
+            8.3219
+          ],
+          [
+            -73.8756,
+            7.0656
+          ],
+          [
+            -74.3989,
+            6.4889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-ori-l1",
+        "nome": "Baixo Orinoco e Canais do Delta Amacuro (Puerto de San Félix Ciudad Guayana ↔ Los Barrancos de Fajardo ↔ Barrancas ↔ Tucupita Volcán ↔ Pedernales / Curiapo)",
+        "sistema_id": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.6589,
+            8.3825
+          ],
+          [
+            -62.6625,
+            8.4056
+          ],
+          [
+            -62.1856,
+            8.6989
+          ],
+          [
+            -62.0525,
+            9.0589
+          ],
+          [
+            -62.2519,
+            9.9689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat81-aya-l2",
+        "nome": "Médio e Alto Orinoco Internacional (Caicara del Orinoco ↔ Cabruta & Puerto Ayacucho / Samariapo VE ↔ Casuarito / Puerto Carreño CO)",
+        "sistema_id": "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.1656,
+            7.6489
+          ],
+          [
+            -67.4725,
+            6.1889
+          ],
+          [
+            -67.5925,
+            5.6625
+          ],
+          [
+            -67.6289,
+            5.6756
+          ]
+        ]
+      }
     }
   ]
 }

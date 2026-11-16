@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T13:45:00-03:00",
+  "atualizado_em": "2026-11-16T14:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2988,17 +2988,25 @@
         "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
         "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 195,
       "codigo": "HIDRO-AMERICA-LATINA-CARIBE-MAGDALENA-ORINOCO-GOLFO-DE-FONSECA-BAHAMAS-VIII",
       "pais": "Fase Hidroviária Mundial #81 — América Latina e Caribe: Bahamas Ferries (Nassau–Harbour Island–Eleuthera–Exuma–Abaco), Hidrovia do Rio Magdalena (Mompos–Magangué–Barrancabermeja, Colômbia), Golfo de Nicoya (Puntarenas–Paquera–Naranjo, Costa Rica), Lago Nahuel Huapi & Cruce Andino (Bariloche–Puerto Blest–Peulla, Argentina/Chile) e Rio Orinoco (Ciudad Guayana–Barrancas–Tucupita, Venezuela) VIII",
       "continente": "América Latina e Caribe",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 199,
+      "sistemas_adicionados": [
+        "bahamas-ferries-bo-hengy-mailboats-nassau-potters-cay-harbour-island-spanish-wells-eleuthera-exuma-abaco-freeport-bimini-bahamas",
+        "naviera-tambor-coonatramar-paquera-puntarenas-playa-naranjo-golfo-de-nicoya-golfo-dulce-puerto-jimenez-golfito-costa-rica",
+        "cruce-andino-turisur-lago-nahuel-huapi-lago-todos-los-santos-bariloche-puerto-panuelo-puerto-blest-lago-frias-peulla-petrohue-argentina-chile",
+        "hidrovia-rio-magdalena-magangue-mompox-el-banco-gamarra-barrancabermeja-canal-del-dique-cartagena-barranquilla-colombia",
+        "hidrovia-rio-orinoco-ciudad-guayana-san-felix-los-barrancos-de-fajardo-chaguaramas-barrancas-tucupita-pedernales-puerto-ayacucho-venezuela"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 196,
       "codigo": "HIDRO-BRASIL-XIV-TRAVESSIAS-HIDROVIARIAS-INTERIORANAS-E-COSTEIRAS-COMPLEMENTARES",
@@ -3052,6 +3060,14 @@
       "codigo": "HIDRO-AMERICA-DO-NORTE-COSTA-LESTE-LONG-ISLAND-MAINE-FLORIDA-CALIFORNIA-VIII",
       "pais": "Fase Hidroviária Mundial #87 — América do Norte: Bridgeport & Port Jefferson Steamboat Co., Fire Island Ferries & Sayville Ferry (Long Island, NY), Maine State Ferry Service (Rockland–Vinalhaven–North Haven–Islesboro–Swans Island), St. Johns River Ferry (Mayport–Fort George Island, Jacksonville FL) e Golden Gate Ferry & Angel Island Ferry (San Francisco Bay, CA) VIII",
       "continente": "América do Norte",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 203,
+      "codigo": "HIDRO-MEDITERRANEO-EGEU-ADRIATICO-CROACIA-GRECIA-ITALIA-FRANCA-ESPANHA-VIII",
+      "pais": "Fase Hidroviária Mundial #88 — Mediterrâneo, Adriático e Egeu: Jadrolinija Dubrovnik–Elaphiti Islands (Koločep–Lopud–Šipan) & Mljet, Ionian Group / Levante Ferries (Killini–Zakynthos–Kefalonia–Ithaca, Ilhas Jônicas), Delcomar / Saremar Golfo de Cagliari & Ogliastra, Bateliers de la Côte d'Azur (Cannes–Îles de Lérins / Saint-Tropez–Sainte-Maxime) e Trasmapi Ibiza–Formentera VIII",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     }
