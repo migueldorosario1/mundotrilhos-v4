@@ -67840,6 +67840,354 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-lon-l1",
+        "nome": "Tronco Metropolitano do Tâmisa RB1 / RB6 (Putney ↔ Battersea ↔ Westminster ↔ Embankment ↔ London Bridge ↔ Canary Wharf ↔ Greenwich ↔ Barking Riverside)",
+        "sistema_id": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2131,
+            51.4675
+          ],
+          [
+            -0.1425,
+            51.4836
+          ],
+          [
+            -0.1231,
+            51.5019
+          ],
+          [
+            -0.0839,
+            51.5072
+          ],
+          [
+            -0.0294,
+            51.5036
+          ],
+          [
+            -0.0089,
+            51.4839
+          ],
+          [
+            0.0044,
+            51.5033
+          ],
+          [
+            0.0719,
+            51.4958
+          ],
+          [
+            0.1156,
+            51.5169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-woo-l2",
+        "nome": "Travessias do Estuário Londrino (Canary Wharf ↔ Rotherhithe RB4, Woolwich Free Ferry & Tilbury ↔ Gravesend Ferry)",
+        "sistema_id": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0294,
+            51.5036
+          ],
+          [
+            -0.0325,
+            51.5011
+          ],
+          [
+            0.0619,
+            51.4956
+          ],
+          [
+            0.0628,
+            51.4994
+          ],
+          [
+            0.3656,
+            51.4519
+          ],
+          [
+            0.3711,
+            51.445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-arr-l1",
+        "nome": "Corredor da Ilha de Arran e Kintyre (Ardrossan Harbour / Troon ↔ Brodick Isle of Arran & Lochranza ↔ Claonaig / Tarbert ↔ Portavadie)",
+        "sistema_id": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.8256,
+            55.6419
+          ],
+          [
+            -5.1375,
+            55.5769
+          ],
+          [
+            -5.2939,
+            55.7089
+          ],
+          [
+            -5.3889,
+            55.7525
+          ],
+          [
+            -5.3194,
+            55.8694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-but-l2",
+        "nome": "Corredor de Bute, Cumbrae e Cowal (Wemyss Bay ↔ Rothesay Isle of Bute, Largs ↔ Cumbrae Slip & Gourock ↔ Dunoon / Kilcreggan)",
+        "sistema_id": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.8689,
+            55.795
+          ],
+          [
+            -4.9019,
+            55.7919
+          ],
+          [
+            -4.8925,
+            55.8756
+          ],
+          [
+            -5.0525,
+            55.8389
+          ],
+          [
+            -4.8789,
+            55.9619
+          ],
+          [
+            -4.9225,
+            55.9469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-ska-l1",
+        "nome": "Pontes Rápidas do Skagerrak (Bergen ↔ Stavanger ↔ Kristiansand / Larvik NO ↔ Hirtshals DK)",
+        "sistema_id": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3139,
+            60.3919
+          ],
+          [
+            5.5969,
+            58.9189
+          ],
+          [
+            7.9919,
+            58.1419
+          ],
+          [
+            9.9619,
+            57.5939
+          ],
+          [
+            10.045,
+            59.0489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-osl-l2",
+        "nome": "Eixo Oslofjord — Color Hybrid & Linha Oslo–Kiel (Sandefjord NO ↔ Strömstad SE & Oslo Hjortnes ↔ Kiel Norwegenkai DE)",
+        "sistema_id": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7019,
+            59.9089
+          ],
+          [
+            10.2269,
+            59.1269
+          ],
+          [
+            11.1706,
+            58.9369
+          ],
+          [
+            10.1389,
+            54.3189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-got-l1",
+        "nome": "Tronco Continental – Gotlândia (Nynäshamn Estocolmo ↔ Visby Gotlândia & Oskarshamn ↔ Visby)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9519,
+            58.9019
+          ],
+          [
+            18.2848,
+            57.6348
+          ],
+          [
+            16.4589,
+            57.2625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-far-l2",
+        "nome": "Travessias Setentrionais de Gotlândia (Fårösund ↔ Broa / Ilha de Fårö 24h & Nynäshamn / Fårö ↔ Parque Nacional de Gotska Sandön)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0625,
+            57.865
+          ],
+          [
+            19.0889,
+            57.8725
+          ],
+          [
+            19.255,
+            58.365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-bor-l1",
+        "nome": "Expresso Rønne – Ystad & Rotas para Køge e Rügen (Rønne Bornholm DK ↔ Ystad SE, Rønne ↔ Køge DK & Rønne ↔ Sassnitz Mukran DE)",
+        "sistema_id": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.195,
+            55.4539
+          ],
+          [
+            13.8256,
+            55.425
+          ],
+          [
+            14.6939,
+            55.1019
+          ],
+          [
+            13.5825,
+            54.4825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-chr-l2",
+        "nome": "Travessia do Arquipélago de Ertholmene (Gudhjem / Allinge Bornholm ↔ Fortaleza Insular de Christiansø)",
+        "sistema_id": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.9725,
+            55.2125
+          ],
+          [
+            15.1869,
+            55.3194
+          ]
+        ]
+      }
     }
   ]
 }
