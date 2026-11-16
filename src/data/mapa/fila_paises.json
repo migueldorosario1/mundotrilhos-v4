@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T07:21:00-03:00",
+  "atualizado_em": "2026-11-16T07:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2634,6 +2634,23 @@
         "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
         "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua"
       ]
+    },
+    {
+      "ordem": 182,
+      "codigo": "HIDRO-MEDITERRANEO-ATLANTICO-ESPANHA-PORTUGAL-ITALIA-GRECIA-MARROCOS-VI",
+      "pais": "Fase Hidroviária Mundial #69 — Mediterrâneo, Atlântico Ibérico, Golfo de Nápoles, Cíclades e Adriático VI",
+      "continente": "Europa e África",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Naviera Mar de Ons & Nabia Vigo–Cangas–Moaña–Ilhas Cíes e Ons na Galícia, Espanha; Transtejo/Soflusa Lisboa–Cacilhas–Seixal–Montijo–Trafaria–Barreiro e Atlanticoline Açores em Portugal; Caremar / SNAV / NLG Nápoles Beverello/Pozzuoli–Ischia–Procida–Capri na Itália; Small Cyclades Lines Express Skopelitis Naxos–Iraklia–Schinoussa–Koufonisia–Donoussa–Amorgos na Grécia; e FRS / InterShipping Tarifa–Tânger Ville e Algeciras–Ceuta no Estreito de Gibraltar)",
+      "status": "concluido",
+      "ronda_conclusao": 186,
+      "sistemas_adicionados": [
+        "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+        "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+        "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+        "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+        "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2783,18 +2800,18 @@
       ]
     },
     {
-      "ordem": 182,
-      "codigo": "HIDRO-MEDITERRANEO-ATLANTICO-ESPANHA-PORTUGAL-ITALIA-GRECIA-MARROCOS-VI",
-      "pais": "Fase Hidroviária Mundial #69 — Mediterrâneo, Atlântico Ibérico, Golfo de Nápoles, Cíclades e Adriático VI",
-      "continente": "Europa e África",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (Naviera Mar de Ons & Nabia Vigo–Cangas–Moaña–Ilhas Cíes e Ons na Galícia, Espanha; Transtejo/Soflusa Lisboa–Cacilhas–Seixal–Montijo–Trafaria–Barreiro e Atlanticoline Açores em Portugal; Caremar / SNAV / NLG Nápoles Beverello/Pozzuoli–Ischia–Procida–Capri na Itália; Small Cyclades Lines Express Skopelitis Naxos–Iraklia–Schinoussa–Koufonisia–Donoussa–Amorgos na Grécia; e FRS / InterShipping Tarifa–Tânger Ville e Algeciras–Ceuta no Estreito de Gibraltar)"
-    },
-    {
       "ordem": 191,
       "codigo": "HIDRO-AMERICA-DO-NORTE-GOLFO-DO-MEXICO-MISSISSIPPI-GRANDES-LAGOS-VII",
       "pais": "Fase Hidroviária Mundial #77 — América do Norte: Apostle Islands (Lago Superior), Mackinac Island (Star Line / Shepler's), Beaver Island, Staten Island Fast Ferry (NYC) e Seastreak (Sandy Hook / Martha's Vineyard) VII",
       "continente": "América",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 192,
+      "codigo": "HIDRO-MEDITERRANEO-ADRIATICO-EGEU-SARDENHA-CRETA-CHIPRE-VII",
+      "pais": "Fase Hidroviária Mundial #78 — Mediterrâneo, Adriático e Egeu: Sardenha (La Maddalena / Carloforte), Lago de Garda / Como / Maggiore (Navigazione Laghi), Espórades (Volos–Skiathos–Skopelos–Alonissos), Creta Sul (Sfakia–Loutro–Gavdos) e Istria–Veneza VII",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     }

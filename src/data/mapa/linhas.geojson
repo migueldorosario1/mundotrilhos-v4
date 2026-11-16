@@ -65576,6 +65576,354 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-nap-l1",
+        "nome": "Eixo Sul do Golfo de Nápoles (Napoli Molo Beverello / Porta di Massa ↔ Sorrento ↔ Capri Marina Grande)",
+        "sistema_id": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2547,
+            40.8378
+          ],
+          [
+            14.3756,
+            40.6289
+          ],
+          [
+            14.2425,
+            40.5556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-isc-l2",
+        "nome": "Eixo das Ilhas Flegreas (Napoli Beverello / Pozzuoli ↔ Procida ↔ Ischia Porto / Casamicciola / Forio)",
+        "sistema_id": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2547,
+            40.8378
+          ],
+          [
+            14.1194,
+            40.8225
+          ],
+          [
+            14.0258,
+            40.7658
+          ],
+          [
+            13.9417,
+            40.7431
+          ],
+          [
+            13.8583,
+            40.7381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-vig-l1",
+        "nome": "Transporte Metropolitano da Ría de Vigo (Vigo Estación Marítima ↔ Cangas do Morrazo & Vigo ↔ Moaña)",
+        "sistema_id": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7265,
+            42.2415
+          ],
+          [
+            -8.7825,
+            42.2611
+          ],
+          [
+            -8.7389,
+            42.2839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-cie-l2",
+        "nome": "Parque Nacional das Ilhas Atlânticas (Vigo / Cangas / Baiona ↔ Ilhas Cíes & Bueu / Sanxenxo ↔ Ilha de Ons)",
+        "sistema_id": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7265,
+            42.2415
+          ],
+          [
+            -8.8492,
+            42.1208
+          ],
+          [
+            -8.9028,
+            42.2225
+          ],
+          [
+            -8.9317,
+            42.3769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-raf-l1",
+        "nome": "Tronco Cíclades Setentrionais & Pequenas Cíclades (Rafina ↔ Andros ↔ Tinos ↔ Mykonos ↔ Paros ↔ Naxos ↔ Koufonisia)",
+        "sistema_id": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.0108,
+            38.0225
+          ],
+          [
+            24.7369,
+            37.8819
+          ],
+          [
+            25.1611,
+            37.5375
+          ],
+          [
+            25.3258,
+            37.4633
+          ],
+          [
+            25.1489,
+            37.0869
+          ],
+          [
+            25.3725,
+            37.1067
+          ],
+          [
+            25.6014,
+            36.9358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-lav-l2",
+        "nome": "Eixo Lavrio – Cíclades Ocidentais (Lavrio ↔ Kea Korissia ↔ Kythnos Merichas ↔ Syros Ermoupoli)",
+        "sistema_id": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.0583,
+            37.7128
+          ],
+          [
+            24.3167,
+            37.6644
+          ],
+          [
+            24.3972,
+            37.3889
+          ],
+          [
+            24.9428,
+            37.4419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-pon-l1",
+        "nome": "Arquipélago das Ilhas Ponzianas (Formia / Terracina / Anzio ↔ Ilha de Ponza ↔ Ilha de Ventotene)",
+        "sistema_id": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6069,
+            41.2536
+          ],
+          [
+            13.2536,
+            41.2842
+          ],
+          [
+            12.9669,
+            40.8958
+          ],
+          [
+            13.4339,
+            40.7969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-ama-l2",
+        "nome": "Metrò del Mare da Costa Amalfitana (Salerno Concordia / Manfredi ↔ Cetara ↔ Maiori ↔ Minori ↔ Amalfi ↔ Positano ↔ Capri)",
+        "sistema_id": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.7594,
+            40.6736
+          ],
+          [
+            14.7036,
+            40.6469
+          ],
+          [
+            14.6408,
+            40.6467
+          ],
+          [
+            14.6028,
+            40.6333
+          ],
+          [
+            14.485,
+            40.6281
+          ],
+          [
+            14.2425,
+            40.5556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-bal-l1",
+        "nome": "Autoestradas Marítimas das Ilhas Baleares (Barcelona / Valência / Dénia ↔ Palma de Maiorca / Alcúdia ↔ Ibiza ↔ Formentera ↔ Menorca)",
+        "sistema_id": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1764,
+            41.3669
+          ],
+          [
+            -0.3189,
+            39.4536
+          ],
+          [
+            0.1158,
+            38.8442
+          ],
+          [
+            1.4389,
+            38.9119
+          ],
+          [
+            1.4189,
+            38.7336
+          ],
+          [
+            2.6258,
+            39.5539
+          ],
+          [
+            4.2658,
+            39.8889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-alb-l2",
+        "nome": "Corredor Sul do Levante e Mar de Alborão (Alicante / Almería ↔ Oran / Argel DZ & Nador / Melilla)",
+        "sistema_id": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4836,
+            38.3375
+          ],
+          [
+            -2.4678,
+            36.8319
+          ],
+          [
+            -0.6389,
+            35.7069
+          ],
+          [
+            -2.9275,
+            35.2917
+          ]
+        ]
+      }
     }
   ]
 }

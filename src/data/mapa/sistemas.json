@@ -50781,5 +50781,330 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+    "slug": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+    "nome_pt": "Caremar, SNAV, Alilauro e Medmar — Hidrofólios e Ferries do Golfo de Nápoles (Nápoles, Sorrento, Capri, Ischia, Procida e Pozzuoli, Itália)",
+    "nome_en": "Caremar, SNAV, Alilauro & Medmar — Gulf of Naples Hydrofoils & Ferries (Naples, Sorrento, Capri, Ischia, Procida & Pozzuoli, Italy)",
+    "pais": "Itália",
+    "cidade": "Nápoles / Sorrento / Capri / Ischia / Procida / Pozzuoli",
+    "uf": "Campania",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Caremar (Campania Regionale Marittima) / SNAV / Alilauro / Medmar / NLG",
+    "inauguracao": "1944",
+    "extensao_km": 165,
+    "bitola": "N/A (Hidrovia Metropolitana de Alta Velocidade — Hidrofólios Aliscafi, Catamarãs e Traghetti Ro-Pax)",
+    "eletrificacao": "Hidrofólios de Alta Velocidade (36 nós), Catamarãs HSC e Ferries Ro-Pax",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 55000,
+    "ano_referencia": 2026,
+    "investimento": "€ 120 milhões (renovação da frota de hidrofólios híbridos no Golfo de Nápoles e integração do Molo Beverello com a Linha 1 e Linha 6 do Metrô de Nápoles)",
+    "proximas_entregas": "Novas unidades HSC de baixa emissão para as linhas Napoli Beverello–Capri e Napoli–Ischia–Procida",
+    "resumo_pt": "Uma das mais densas redes de transporte marítimo metropolitano do planeta no Golfo de Nápoles: a partir do Molo Beverello (para hidrofólios e catamarãs rápidos, integrado à estação Municipio do Metrô), da Calata Porta di Massa (para ferries Ro-Pax) e dos portos de Pozzuoli e Sorrento, as frotas da Caremar, SNAV, Alilauro e Medmar realizam mais de 180 viagens diárias conectando o continente às ilhas de Capri (Marina Grande), Ischia (Ischia Porto, Casamicciola e Forio) e Procida.",
+    "resumo_en": "One of the world's densest metropolitan marine transit networks across the Gulf of Naples: from Naples Molo Beverello (high-speed hydrofoils and catamarans), Calata Porta di Massa (Ro-Pax ferries), Pozzuoli, and Sorrento, Caremar, SNAV, Alilauro, and Medmar operate over 180 daily sailings linking the mainland with Capri, Ischia, and Procida.",
+    "lat": 40.73,
+    "lon": 14.12,
+    "zoom_inicial": 9.2,
+    "fontes": [
+      "caremar-it",
+      "snav-it",
+      "alilauro-it"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "hidrofolio",
+      "napoles",
+      "capri",
+      "ischia",
+      "procida",
+      "sorrento",
+      "italia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med69-nap-l1",
+        "nome": "Eixo Sul do Golfo de Nápoles (Napoli Molo Beverello / Porta di Massa ↔ Sorrento ↔ Capri Marina Grande)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 85,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-med69-isc-l2",
+        "nome": "Eixo das Ilhas Flegreas (Napoli Beverello / Pozzuoli ↔ Procida ↔ Ischia Porto / Casamicciola / Forio)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 80,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+    "slug": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+    "nome_pt": "Naviera Mar de Ons e Naviera Nabia — Transporte de Ría de Vigo (Vigo–Cangas–Moaña) e Ilhas Cíes e Ons (Rías Baixas, Galícia, Espanha)",
+    "nome_en": "Naviera Mar de Ons & Naviera Nabia — Ría de Vigo Commuter Ferries (Vigo–Cangas–Moaña) & Cíes and Ons Islands (Galicia, Spain)",
+    "pais": "Espanha",
+    "cidade": "Vigo / Cangas do Morrazo / Moaña / Baiona / Bueu / Sanxenxo (Ilhas Cíes e Ons)",
+    "uf": "Galicia (Pontevedra)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Naviera Mar de Ons / Naviera Nabia (Piratas de Nabia) / Cruceros Rías Baixas",
+    "inauguracao": "1993",
+    "extensao_km": 140,
+    "bitola": "N/A (Hidrovia Estuarina Metropolitana e Insular Atlântica — Catamarãs Rápidos)",
+    "eletrificacao": "Catamarãs de Passageiros de Alta Frequência Integrados ao Cartão Transporte Metropolitano de Galicia (TMG)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 9500,
+    "ano_referencia": 2026,
+    "investimento": "€ 28 milhões (novos catamarãs de baixa emissão na Ría de Vigo e modernização das estações marítimas de Cangas e Moaña)",
+    "proximas_entregas": "Ampliação das frequências pendulares de 15 minutos entre Vigo e Cangas no horário de pico",
+    "resumo_pt": "Principal sistema público de transporte hidroviário metropolitano do noroeste da Península Ibérica: na Ría de Vigo, os catamarãs da Naviera Mar de Ons e da Naviera Nabia ligam a Estación Marítima da Laxe (centro de Vigo) aos municípios de Cangas do Morrazo e Moaña em apenas 15 a 20 minutos (integrados tarifariamente ao Transporte Metropolitano de Galicia), além de operarem as rotas oficiais para o Parque Nacional Marítimo-Terrestre das Ilhas Atlânticas da Galícia (Ilhas Cíes, Ilha de Ons e Ilha de San Simón) a partir de Vigo, Cangas, Baiona, Bueu e Sanxenxo.",
+    "resumo_en": "Northwest Iberia's primary metropolitan water transit system across the Rías Baixas in Galicia: high-frequency commuter catamarans operated by Naviera Mar de Ons and Naviera Nabia connect downtown Vigo with Cangas do Morrazo and Moaña in 15–20 minutes, alongside services to the Atlantic Islands of Galicia National Park (Cíes Islands and Ons Island) from Vigo, Baiona, Bueu, and Sanxenxo.",
+    "lat": 42.2415,
+    "lon": -8.7265,
+    "zoom_inicial": 9.8,
+    "fontes": [
+      "mardeons-es",
+      "piratasdenabia-es"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "vigo",
+      "cangas",
+      "moana",
+      "ilhas-cies",
+      "ilha-de-ons",
+      "galicia",
+      "espanha"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med69-vig-l1",
+        "nome": "Transporte Metropolitano da Ría de Vigo (Vigo Estación Marítima ↔ Cangas do Morrazo & Vigo ↔ Moaña)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 35,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-med69-cie-l2",
+        "nome": "Parque Nacional das Ilhas Atlânticas (Vigo / Cangas / Baiona ↔ Ilhas Cíes & Bueu / Sanxenxo ↔ Ilha de Ons)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 105,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+    "slug": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+    "nome_pt": "Seajets, Fast Ferries e Golden Star Ferries — Corredores de Rafina e Lavrio para Andros, Tinos, Mykonos, Paros, Naxos, Pequenas Cíclades e Kea–Kythnos (Grécia)",
+    "nome_en": "Seajets, Fast Ferries & Golden Star Ferries — Rafina & Lavrio Corridors to Andros, Tinos, Mykonos, Paros, Naxos, Small Cyclades & Kea–Kythnos (Greece)",
+    "pais": "Grécia",
+    "cidade": "Rafina / Lavrio (Ática) / Andros / Tinos / Mykonos / Naxos / Koufonisia / Kea / Kythnos",
+    "uf": "Attica / South Aegean",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Seajets / Fast Ferries / Golden Star Ferries / Small Cyclades Lines (Express Skopelitis) / Goutos Lines",
+    "inauguracao": "1965",
+    "extensao_km": 490,
+    "bitola": "N/A (Hidrovia Insular do Mar Egeu — Supercatamarãs HSC de 45 Nós e Ferries Ro-Pax Convencionais)",
+    "eletrificacao": "Supercatamarãs de Alta Velocidade (Seajets Tera Jet / Superrunner Jet) e Ferries Ro-Pax (Fast Ferries Andros / Superferry)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 28000,
+    "ano_referencia": 2026,
+    "investimento": "€ 95 milhões (expansão portuária de Rafina e Lavrio, conexão planejada com a ferrovia suburbana Proastiakos de Atenas e renovação de frota HSC)",
+    "proximas_entregas": "Extensão da ferrovia suburbana de Atenas até os portos de Lavrio e Rafina",
+    "resumo_pt": "Os portos da Ática Oriental (Rafina e Lavrio, próximos ao Aeroporto Internacional de Atenas) formam o grande portal de entrada para as Cíclades Setentrionais e Ocidentais: de Rafina partem os ferries e supercatamarãs da Fast Ferries, Golden Star Ferries e Seajets para Andros (Gavrio), Tinos, Mykonos (Tourlos), Paros e Naxos; de Naxos e Amorgos, o lendário ferry Express Skopelitis conecta diariamente as Pequenas Cíclades (Iraklia, Schinoussa, Koufonisia e Donoussa); já o Porto de Lavrio conecta em 1 hora a Ilha de Kea (Tzia), Kythnos e Syros.",
+    "resumo_en": "Eastern Attica's ports of Rafina and Lavrio (near Athens International Airport) serve as the primary gateway to the Northern and Western Cyclades: Fast Ferries, Golden Star Ferries, and Seajets link Rafina with Andros, Tinos, Mykonos, Paros, and Naxos; the iconic Express Skopelitis serves the Small Cyclades (Koufonisia, Iraklia, Schinoussa, Donoussa) from Naxos and Amorgos; and Lavrio Port connects Kea, Kythnos, and Syros.",
+    "lat": 37.75,
+    "lon": 24.93,
+    "zoom_inicial": 7.6,
+    "fontes": [
+      "fastferries-gr",
+      "goldenstarferries-gr",
+      "seajets-gr"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "rafina",
+      "lavrio",
+      "andros",
+      "tinos",
+      "mykonos",
+      "naxos",
+      "koufonisia",
+      "ciclades",
+      "grecia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med69-raf-l1",
+        "nome": "Tronco Cíclades Setentrionais & Pequenas Cíclades (Rafina ↔ Andros ↔ Tinos ↔ Mykonos ↔ Paros ↔ Naxos ↔ Koufonisia)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 320,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-med69-lav-l2",
+        "nome": "Eixo Lavrio – Cíclades Ocidentais (Lavrio ↔ Kea Korissia ↔ Kythnos Merichas ↔ Syros Ermoupoli)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 170,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+    "slug": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+    "nome_pt": "Laziomar, Vetor e Travelmar / NLG — Ilhas Ponzianas (Formia/Terracina–Ponza–Ventotene) e Metropolitana do Mar da Costa Amalfitana (Salerno–Amalfi–Positano, Itália)",
+    "nome_en": "Laziomar, Vetor & Travelmar / NLG — Pontine Islands (Formia/Terracina–Ponza–Ventotene) & Amalfi Coast Sea Metro (Salerno–Amalfi–Positano, Italy)",
+    "pais": "Itália",
+    "cidade": "Formia / Terracina / Ponza / Ventotene (Lácio) / Salerno / Amalfi / Positano (Campânia)",
+    "uf": "Lazio / Campania",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Laziomar / Vetor Aliscafi / Travelmar (Metrò del Mare Costiera Amalfitana) / Navigazione Libera del Golfo (NLG)",
+    "inauguracao": "1953",
+    "extensao_km": 280,
+    "bitola": "N/A (Hidrovia Costeira e Insular do Mar Tirreno — Hidrofólios, Catamarãs Costeiros e Traghetti Ro-Pax)",
+    "eletrificacao": "Hidrofólios Aliscafi, Ferries Ro-Pax (Laziomar) e Embarcações Rápidas Costeiras (Travelmar / NLG)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 19500,
+    "ano_referencia": 2026,
+    "investimento": "€ 42 milhões (modernização da Estação Marítima Zaha Hadid em Salerno e renovação da frota Laziomar para Ponza e Ventotene)",
+    "proximas_entregas": "Integração direta dos ferries de Salerno com o Aeroporto Salerno Costa d'Amalfi e estação ferroviária de alta velocidade",
+    "resumo_pt": "Dois corredores essenciais do Mar Tirreno: no sul do Lácio, a Laziomar e a Vetor conectam durante todo o ano os portos de Formia (integrado aos trens Roma–Nápoles da Trenitalia), Terracina e Anzio às ilhas vulcânicas de Ponza e Ventotene; no Golfo de Salerno, a Travelmar e a NLG operam a célebre 'Metropolitana do Mar' da Costa Amalfitana, contornando os congestionamentos da estrada costeira SS163 ao ligar Salerno (Molo Manfredi e Piazza della Concordia) a Cetara, Maiori, Minori, Amalfi, Positano, Sorrento e Capri.",
+    "resumo_en": "Two essential Tyrrhenian Sea corridors: in southern Lazio, Laziomar and Vetor connect Formia (integrated with Trenitalia Rome–Naples rail services), Terracina, and Anzio with the volcanic Pontine Islands of Ponza and Ventotene year-round; in the Gulf of Salerno, Travelmar and NLG operate the Amalfi Coast 'Sea Metro' linking Salerno with Cetara, Maiori, Minori, Amalfi, Positano, and Capri.",
+    "lat": 40.6333,
+    "lon": 14.6028,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "laziomar-it",
+      "travelmar-it",
+      "navlib-it"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "costa-amalfitana",
+      "salerno",
+      "amalfi",
+      "positano",
+      "ponza",
+      "ventotene",
+      "formia",
+      "italia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med69-pon-l1",
+        "nome": "Arquipélago das Ilhas Ponzianas (Formia / Terracina / Anzio ↔ Ilha de Ponza ↔ Ilha de Ventotene)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 175,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-med69-ama-l2",
+        "nome": "Metrò del Mare da Costa Amalfitana (Salerno Concordia / Manfredi ↔ Cetara ↔ Maiori ↔ Minori ↔ Amalfi ↔ Positano ↔ Capri)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 105,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+    "slug": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+    "nome_pt": "Baleària, Trasmed e GNV — Corredores de Barcelona e Valência para as Ilhas Baleares (Maiorca, Ibiza, Menorca e Formentera) e Mar de Alborão (Espanha / Argélia / Marrocos)",
+    "nome_en": "Baleària, Trasmed & GNV — Barcelona & Valencia to Balearic Islands (Mallorca, Ibiza, Menorca & Formentera) and Alboran Sea Corridors (Spain / Algeria / Morocco)",
+    "pais": "Espanha",
+    "cidade": "Barcelona / Valência / Dénia / Palma de Maiorca / Ibiza / Maó (Menorca) / Almería / Oran",
+    "uf": "Cataluña / C. Valenciana / Illes Balears / Andalucía",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Baleària / Trasmed GLE (Grimaldi Group) / Grandi Navi Veloci (GNV)",
+    "inauguracao": "1998",
+    "extensao_km": 1120,
+    "bitola": "N/A (Autoestradas do Mar do Mediterrâneo Ocidental — Fast Ferries a GNL e Cruise Ferries Ro-Pax)",
+    "eletrificacao": "Catamarãs Fast Ferry a GNL (Eleanor Roosevelt e Margarita Salas — 35 nós) e Ferries Elétricos (Cap de Barbaria)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 24000,
+    "ano_referencia": 2026,
+    "investimento": "€ 310 milhões (novos fast ferries a biometano/GNL Margarita Salas e Eleanor Roosevelt da Baleària e ferry 100% elétrico Cap de Barbaria em Ibiza–Formentera)",
+    "proximas_entregas": "Corredor verde 100% elétrico e a hidrogênio entre as Ilhas Baleares e os portos de Barcelona, Valência e Dénia",
+    "resumo_pt": "Grande malha de autoestradas marítimas do Mediterrâneo Ocidental conectando a costa leste da Espanha (Barcelona, Valência e Dénia) ao arquipélago das Ilhas Baleares (Palma de Maiorca, Alcúdia, Ibiza, Formentera e Maó/Ciutadella em Menorca) a bordo dos maiores catamarãs rápidos a GNL do mundo (Eleanor Roosevelt e Margarita Salas da Baleària) e dos cruise ferries da Trasmed e GNV, além da intensa ponte hidroviária de 30 minutos entre Ibiza e Formentera (onde opera o ferry elétrico Cap de Barbaria) e das rotas transmediterrâneas de Almería e Alicante para Oran, Argel e Nador.",
+    "resumo_en": "Major Western Mediterranean motorways of the sea linking eastern Spain (Barcelona, Valencia, and Dénia) with the Balearic Islands (Palma de Mallorca, Alcúdia, Ibiza, Formentera, and Menorca) aboard the world's largest LNG high-speed catamarans (Baleària's Eleanor Roosevelt and Margarita Salas), electric ferries (Cap de Barbaria on Ibiza–Formentera), and Trasmed/GNV Ro-Pax cruise ferries, plus Alboran Sea crossings to Oran, Algiers, and Nador.",
+    "lat": 39.5696,
+    "lon": 2.6502,
+    "zoom_inicial": 6.5,
+    "fontes": [
+      "balearia-es",
+      "trasmed-es",
+      "gnv-it"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "barcelona",
+      "valencia",
+      "palma-de-maiorca",
+      "ibiza",
+      "formentera",
+      "menorca",
+      "baleares",
+      "espanha"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-med69-bal-l1",
+        "nome": "Autoestradas Marítimas das Ilhas Baleares (Barcelona / Valência / Dénia ↔ Palma de Maiorca / Alcúdia ↔ Ibiza ↔ Formentera ↔ Menorca)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 680,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-med69-alb-l2",
+        "nome": "Corredor Sul do Levante e Mar de Alborão (Alicante / Almería ↔ Oran / Argel DZ & Nador / Melilla)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 440,
+        "estacoes": 2
+      }
+    ]
   }
 ]

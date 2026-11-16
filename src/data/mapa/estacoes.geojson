@@ -65973,6 +65973,456 @@
           30.7611
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-nap-e1",
+        "nome": "Napoli Molo Beverello & Calata Porta di Massa (Porto de Nápoles, Itália)",
+        "sistema_id": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+        "linha_id": "hidro-med69-nap-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2547,
+          40.8378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-nap-e2",
+        "nome": "Porto di Marina Grande — Ilha de Capri (Golfo de Nápoles, Itália)",
+        "sistema_id": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+        "linha_id": "hidro-med69-nap-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2425,
+          40.5556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-nap-e3",
+        "nome": "Porto di Sorrento — Marina Piccola (Península Sorrentina, Itália)",
+        "sistema_id": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+        "linha_id": "hidro-med69-nap-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3756,
+          40.6289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-isc-e4",
+        "nome": "Ischia Porto, Casamicciola Terme & Forio (Ilha de Ischia, Itália)",
+        "sistema_id": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+        "linha_id": "hidro-med69-isc-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9417,
+          40.7431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-isc-e5",
+        "nome": "Porto di Marina Grande di Procida & Porto di Pozzuoli (Campi Flegrei, Itália)",
+        "sistema_id": "caremar-snav-alilauro-medmar-golfo-di-napoli-napoles-sorrento-capri-ischia-procida-pozzuoli-italia",
+        "linha_id": "hidro-med69-isc-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0258,
+          40.7658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-vig-e1",
+        "nome": "Estación Marítima de Ría — A Laxe (Porto de Vigo, Galícia, Espanha)",
+        "sistema_id": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+        "linha_id": "hidro-med69-vig-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7265,
+          42.2415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-vig-e2",
+        "nome": "Estación Marítima de Cangas do Morrazo (Ría de Vigo, Galícia)",
+        "sistema_id": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+        "linha_id": "hidro-med69-vig-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7825,
+          42.2611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-vig-e3",
+        "nome": "Estación Marítima de Moaña (O Morrazo, Ría de Vigo, Galícia)",
+        "sistema_id": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+        "linha_id": "hidro-med69-vig-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7389,
+          42.2839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-cie-e4",
+        "nome": "Muelle de Rodas — Arquipélago das Ilhas Cíes (Parque Nacional das Ilhas Atlânticas, Galícia)",
+        "sistema_id": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+        "linha_id": "hidro-med69-cie-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9028,
+          42.2225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-cie-e5",
+        "nome": "Muelle de Curro — Ilha de Ons & Portos de Bueu / Sanxenxo (Ría de Pontevedra, Galícia)",
+        "sistema_id": "naviera-mar-de-ons-nabia-piratas-de-nabia-rias-baixas-vigo-cangas-moana-ilhas-cies-ons-baiona-galicia-espanha",
+        "linha_id": "hidro-med69-cie-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9317,
+          42.3769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-raf-e1",
+        "nome": "Porto de Rafina — Terminal das Cíclades Setentrionais (Ática Oriental, Grécia)",
+        "sistema_id": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+        "linha_id": "hidro-med69-raf-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0108,
+          38.0225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-raf-e2",
+        "nome": "Portos de Gavrio (Andros) e Tinos Chora (Cíclades Setentrionais, Grécia)",
+        "sistema_id": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+        "linha_id": "hidro-med69-raf-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1611,
+          37.5375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-raf-e3",
+        "nome": "Portos de Mykonos (Tourlos), Naxos e Koufonisia (Pequenas Cíclades — Express Skopelitis)",
+        "sistema_id": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+        "linha_id": "hidro-med69-raf-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3258,
+          37.4633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-lav-e4",
+        "nome": "Porto de Lavrio — Terminal da Ática Sul (Lavreotiki, Grécia)",
+        "sistema_id": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+        "linha_id": "hidro-med69-lav-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0583,
+          37.7128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-lav-e5",
+        "nome": "Portos de Korissia (Ilha de Kea / Tzia) e Merichas (Ilha de Kythnos, Cíclades Ocidentais)",
+        "sistema_id": "seajets-fast-ferries-golden-star-ferries-rafina-lavrio-andros-tinos-mykonos-syros-paros-naxos-koufonisia-kea-kythnos-ciclades-grecia",
+        "linha_id": "hidro-med69-lav-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3167,
+          37.6644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-pon-e1",
+        "nome": "Porto de Formia — Molo Vespucci & Porto de Terracina (Lácio Sul, Itália)",
+        "sistema_id": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+        "linha_id": "hidro-med69-pon-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6069,
+          41.2536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-pon-e2",
+        "nome": "Porto Borbônico de Ponza (Ilha de Ponza, Arquipélago Ponziano, Itália)",
+        "sistema_id": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+        "linha_id": "hidro-med69-pon-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9669,
+          40.8958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-pon-e3",
+        "nome": "Porto Romano e Porto Nuovo de Ventotene (Ilha de Ventotene, Lácio)",
+        "sistema_id": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+        "linha_id": "hidro-med69-pon-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4339,
+          40.7969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-ama-e4",
+        "nome": "Stazione Marittima Zaha Hadid (Molo Manfredi) & Molo Masuccio Salernitano (Salerno, Itália)",
+        "sistema_id": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+        "linha_id": "hidro-med69-ama-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7594,
+          40.6736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-ama-e5",
+        "nome": "Molo Cassone de Amalfi & Spiaggia Grande de Positano (Metrò del Mare Costa Amalfitana)",
+        "sistema_id": "laziomar-vetor-alilauro-navigazione-libera-del-golfo-formia-terracina-anzio-ponza-ventotene-amalfi-positano-salerno-italia",
+        "linha_id": "hidro-med69-ama-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6028,
+          40.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-bal-e1",
+        "nome": "Terminals de Ferries Drassanes / Adossat (Porto de Barcelona) & Porto de Valência / Dénia",
+        "sistema_id": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+        "linha_id": "hidro-med69-bal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1764,
+          41.3669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-bal-e2",
+        "nome": "Estació Marítima de Palma de Maiorca & Port d'Alcúdia (Maiorca, Ilhas Baleares)",
+        "sistema_id": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+        "linha_id": "hidro-med69-bal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6258,
+          39.5539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-bal-e3",
+        "nome": "Port d'Eivissa (Ibiza), La Savina (Formentera) & Port de Maó / Ciutadella (Menorca)",
+        "sistema_id": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+        "linha_id": "hidro-med69-bal-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4389,
+          38.9119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-alb-e4",
+        "nome": "Estaciones Marítimas de Almería e Alicante (Costa Sudeste, Espanha)",
+        "sistema_id": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+        "linha_id": "hidro-med69-alb-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4678,
+          36.8319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-med69-alb-e5",
+        "nome": "Gare Maritime d'Oran (Argélia) & Port de Nador Beni Ansar / Melilla (Mar de Alborão)",
+        "sistema_id": "gnv-grimaldi-lines-balearia-barcelona-valencia-palma-de-maiorca-ibiza-mahon-menorca-argel-oran-tanger-med-mediterraneo-ocidental",
+        "linha_id": "hidro-med69-alb-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6389,
+          35.7069
+        ]
+      }
     }
   ]
 }
