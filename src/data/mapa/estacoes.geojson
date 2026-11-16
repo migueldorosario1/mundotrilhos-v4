@@ -63273,6 +63273,456 @@
           -7.2585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-tas-e1",
+        "nome": "Spirit of Tasmania Quay — Corio Quay Geelong (Port Phillip / Victoria, Austrália)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-bass-strait-rottnest-express-sealink-fremantle-perth-rottnest-island-australia",
+        "linha_id": "hidro-oce64-tas-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3625,
+          -38.1115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-tas-e2",
+        "nome": "East Devonport Ferry Terminal — Rio Mersey (Tasmânia, Austrália)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-bass-strait-rottnest-express-sealink-fremantle-perth-rottnest-island-australia",
+        "linha_id": "hidro-oce64-tas-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3685,
+          -41.1815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-rot-e3",
+        "nome": "Barrack Street Jetty — Elizabeth Quay (Rio Swan, Perth, Austrália Ocidental)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-bass-strait-rottnest-express-sealink-fremantle-perth-rottnest-island-australia",
+        "linha_id": "hidro-oce64-rot-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8585,
+          -31.9595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-rot-e4",
+        "nome": "B Shed Victoria Quay & Rous Head — Port of Fremantle (Austrália Ocidental)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-bass-strait-rottnest-express-sealink-fremantle-perth-rottnest-island-australia",
+        "linha_id": "hidro-oce64-rot-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7415,
+          -32.0525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-rot-e5",
+        "nome": "Thomson Bay Main Jetty — Rottnest Island / Wadjemup (Austrália Ocidental)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-bass-strait-rottnest-express-sealink-fremantle-perth-rottnest-island-australia",
+        "linha_id": "hidro-oce64-rot-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5415,
+          -31.9965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-hau-e1",
+        "nome": "Downtown Ferry Terminal & Wynyard Quarter — Auckland (Golfo de Hauraki, Nova Zelândia)",
+        "sistema_id": "fullers360-island-direct-hauraki-gulf-auckland-waiheke-matiatia-kennedy-point-rangitoto-tiritiri-matangi-stewart-island-bluff-oban-nova-zelandia",
+        "linha_id": "hidro-oce64-hau-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7665,
+          -36.8425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-hau-e2",
+        "nome": "Matiatia Ferry Terminal & Kennedy Point Vehicle Ferry — Waiheke Island (Auckland, Nova Zelândia)",
+        "sistema_id": "fullers360-island-direct-hauraki-gulf-auckland-waiheke-matiatia-kennedy-point-rangitoto-tiritiri-matangi-stewart-island-bluff-oban-nova-zelandia",
+        "linha_id": "hidro-oce64-hau-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9925,
+          -36.7825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-hau-e3",
+        "nome": "Rangitoto Wharf & Tiritiri Matangi Island Pier (Golfo de Hauraki, Nova Zelândia)",
+        "sistema_id": "fullers360-island-direct-hauraki-gulf-auckland-waiheke-matiatia-kennedy-point-rangitoto-tiritiri-matangi-stewart-island-bluff-oban-nova-zelandia",
+        "linha_id": "hidro-oce64-hau-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8885,
+          -36.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ste-e4",
+        "nome": "Bluff Ferry Terminal — Stirling Point / Southport (Southland, Ilha Sul, Nova Zelândia)",
+        "sistema_id": "fullers360-island-direct-hauraki-gulf-auckland-waiheke-matiatia-kennedy-point-rangitoto-tiritiri-matangi-stewart-island-bluff-oban-nova-zelandia",
+        "linha_id": "hidro-oce64-ste-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3485,
+          -46.5995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ste-e5",
+        "nome": "Halfmoon Bay Wharf — Oban, Rakiura / Stewart Island (Estreito de Foveaux, Nova Zelândia)",
+        "sistema_id": "fullers360-island-direct-hauraki-gulf-auckland-waiheke-matiatia-kennedy-point-rangitoto-tiritiri-matangi-stewart-island-bluff-oban-nova-zelandia",
+        "linha_id": "hidro-oce64-ste-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.1285,
+          -46.8985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-fij-e1",
+        "nome": "Port Denarau Passenger Terminal — Nadi (Viti Levu Oeste, Fiji)",
+        "sistema_id": "south-sea-cruises-awesome-adventures-yasawa-flyer-port-denarau-mamanuca-malolo-castaway-mana-yasawa-islands-fiji",
+        "linha_id": "hidro-oce64-fij-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3812,
+          -17.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-fij-e2",
+        "nome": "Malolo Island, Castaway (Qalito) & Mana Island Landings (Arquipélago de Mamanuca, Fiji)",
+        "sistema_id": "south-sea-cruises-awesome-adventures-yasawa-flyer-port-denarau-mamanuca-malolo-castaway-mana-yasawa-islands-fiji",
+        "linha_id": "hidro-oce64-fij-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1525,
+          -17.7465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-fij-e3",
+        "nome": "Kuata & Waya Island Landings (Sul do Arquipélago de Yasawa, Fiji)",
+        "sistema_id": "south-sea-cruises-awesome-adventures-yasawa-flyer-port-denarau-mamanuca-malolo-castaway-mana-yasawa-islands-fiji",
+        "linha_id": "hidro-oce64-fij-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1315,
+          -17.2915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-fij-e4",
+        "nome": "Naviti, Drawaqa & Naukacuvu Island Landings (Centro de Yasawa, Fiji)",
+        "sistema_id": "south-sea-cruises-awesome-adventures-yasawa-flyer-port-denarau-mamanuca-malolo-castaway-mana-yasawa-islands-fiji",
+        "linha_id": "hidro-oce64-fij-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.2415,
+          -17.1125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-fij-e5",
+        "nome": "Tavewa, Nanuya Lailai & Nacula — Blue Lagoon (Norte do Arquipélago de Yasawa, Fiji)",
+        "sistema_id": "south-sea-cruises-awesome-adventures-yasawa-flyer-port-denarau-mamanuca-malolo-castaway-mana-yasawa-islands-fiji",
+        "linha_id": "hidro-oce64-fij-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3985,
+          -16.9225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ton-e1",
+        "nome": "Taufa'ahau Tupou IV Domestic Wharf & Faua Wharf — Nuku'alofa (Tongatapu, Tonga)",
+        "sistema_id": "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
+        "linha_id": "hidro-oce64-ton-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.1925,
+          -21.1325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ton-e2",
+        "nome": "Nafanua Harbour — 'Ohonua (Ilha de 'Eua, Tonga)",
+        "sistema_id": "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
+        "linha_id": "hidro-oce64-ton-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.9542,
+          -21.3352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ton-e3",
+        "nome": "Taufa'ahau Wharf — Pangai, Ilha de Lifuka (Grupo Ha'apai, Tonga)",
+        "sistema_id": "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
+        "linha_id": "hidro-oce64-ton-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.3525,
+          -19.8052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ton-e4",
+        "nome": "Halaevalu Wharf — Neiafu (Grupo Vava'u, Tonga)",
+        "sistema_id": "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
+        "linha_id": "hidro-oce64-ton-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.9842,
+          -18.6512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ton-e5",
+        "nome": "Pasivulangi Wharf (Niuatoputapu) & Futu Wharf (Niuafo'ou — Ilhas Niuas, Norte de Tonga)",
+        "sistema_id": "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
+        "linha_id": "hidro-oce64-ton-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.7625,
+          -15.9525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-sol-e1",
+        "nome": "Point Cruz Domestic Wharf — Honiara (Ilha de Guadalcanal, Ilhas Salomão)",
+        "sistema_id": "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu",
+        "linha_id": "hidro-oce64-sol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.9542,
+          -9.4285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-sol-e2",
+        "nome": "Auki Harbour Wharf (Ilha de Malaita) & Tulagi Wharf (Ilhas Nggela, Ilhas Salomão)",
+        "sistema_id": "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu",
+        "linha_id": "hidro-oce64-sol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.6985,
+          -8.7685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-sol-e3",
+        "nome": "Noro Port (Nova Geórgia) & Gizo Harbour Wharf (Província Ocidental, Ilhas Salomão)",
+        "sistema_id": "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu",
+        "linha_id": "hidro-oce64-sol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.8415,
+          -8.1025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-van-e4",
+        "nome": "Star Wharf — Port Vila (Ilha de Efate, Vanuatu)",
+        "sistema_id": "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu",
+        "linha_id": "hidro-oce64-van-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3125,
+          -17.7485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-van-e5",
+        "nome": "Simonsen Wharf — Luganville (Espírito Santo) & Lenakel Wharf (Ilha de Tanna, Vanuatu)",
+        "sistema_id": "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu",
+        "linha_id": "hidro-oce64-van-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.1785,
+          -15.5185
+        ]
+      }
     }
   ]
 }

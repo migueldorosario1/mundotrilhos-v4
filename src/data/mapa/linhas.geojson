@@ -63836,6 +63836,290 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-tas-l1",
+        "nome": "Spirit of Tasmania — Estreito de Bass (Spirit of Tasmania Quay Geelong VIC ↔ East Devonport TAS)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-bass-strait-rottnest-express-sealink-fremantle-perth-rottnest-island-australia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.3625,
+            -38.1115
+          ],
+          [
+            145.1252,
+            -39.6512
+          ],
+          [
+            146.3685,
+            -41.1815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-rot-l2",
+        "nome": "Rottnest Island & Swan River Corridor (Perth Barrack Street ↔ Fremantle B Shed / Rous Head ↔ Thomson Bay Rottnest Island)",
+        "sistema_id": "spirit-of-tasmania-geelong-devonport-bass-strait-rottnest-express-sealink-fremantle-perth-rottnest-island-australia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.8585,
+            -31.9595
+          ],
+          [
+            115.7415,
+            -32.0525
+          ],
+          [
+            115.5415,
+            -31.9965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-hau-l1",
+        "nome": "Golfo de Hauraki — Waiheke, Rangitoto e Tiritiri Matangi (Downtown Auckland ↔ Matiatia / Kennedy Point Waiheke & Rangitoto ↔ Tiritiri Matangi)",
+        "sistema_id": "fullers360-island-direct-hauraki-gulf-auckland-waiheke-matiatia-kennedy-point-rangitoto-tiritiri-matangi-stewart-island-bluff-oban-nova-zelandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7665,
+            -36.8425
+          ],
+          [
+            174.9925,
+            -36.7825
+          ],
+          [
+            174.8885,
+            -36.6025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ste-l2",
+        "nome": "Stewart Island Ferry — Estreito de Foveaux (Bluff Ferry Terminal ↔ Halfmoon Bay Oban, Rakiura / Stewart Island)",
+        "sistema_id": "fullers360-island-direct-hauraki-gulf-auckland-waiheke-matiatia-kennedy-point-rangitoto-tiritiri-matangi-stewart-island-bluff-oban-nova-zelandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            168.3485,
+            -46.5995
+          ],
+          [
+            168.2385,
+            -46.7485
+          ],
+          [
+            168.1285,
+            -46.8985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-fij-l1",
+        "nome": "Corredor Ilhas Mamanuca (Port Denarau Nadi ↔ South Sea / Bounty ↔ Malolo / Castaway ↔ Mana / Tokoriki)",
+        "sistema_id": "south-sea-cruises-awesome-adventures-yasawa-flyer-port-denarau-mamanuca-malolo-castaway-mana-yasawa-islands-fiji",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            177.3812,
+            -17.7725
+          ],
+          [
+            177.1525,
+            -17.7465
+          ],
+          [
+            177.0925,
+            -17.6752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-fij-l2",
+        "nome": "Expresso Yasawa Flyer (Port Denarau ↔ Kuata / Waya ↔ Naviti / Drawaqa ↔ Tavewa / Nacula Blue Lagoon)",
+        "sistema_id": "south-sea-cruises-awesome-adventures-yasawa-flyer-port-denarau-mamanuca-malolo-castaway-mana-yasawa-islands-fiji",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            177.3812,
+            -17.7725
+          ],
+          [
+            177.1315,
+            -17.2915
+          ],
+          [
+            177.2415,
+            -17.1125
+          ],
+          [
+            177.3985,
+            -16.9225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ton-l1",
+        "nome": "Corredor Sul Tongatapu–'Eua e Ha'apai (Nuku'alofa Wharf ↔ 'Ohonua Ilha de 'Eua & Nuku'alofa ↔ Pangai Lifuka Ha'apai)",
+        "sistema_id": "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -174.9542,
+            -21.3352
+          ],
+          [
+            -175.1925,
+            -21.1325
+          ],
+          [
+            -174.3525,
+            -19.8052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-ton-l2",
+        "nome": "Eixo Oceânico Norte Ha'apai–Vava'u–Niuas (Pangai Lifuka ↔ Neiafu Vava'u ↔ Niuatoputapu / Niuafo'ou)",
+        "sistema_id": "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -174.3525,
+            -19.8052
+          ],
+          [
+            -173.9842,
+            -18.6512
+          ],
+          [
+            -173.7625,
+            -15.9525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-sol-l1",
+        "nome": "Corredor Nacional das Ilhas Salomão (Auki Malaita ↔ Tulagi ↔ Honiara Point Cruz ↔ Noro Nova Geórgia ↔ Gizo)",
+        "sistema_id": "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            160.6985,
+            -8.7685
+          ],
+          [
+            159.9542,
+            -9.4285
+          ],
+          [
+            156.8415,
+            -8.1025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce64-van-l2",
+        "nome": "Corredor Nacional de Vanuatu (Luganville Espírito Santo ↔ Malekula / Epi ↔ Port Vila Efate ↔ Lenakel Ilha de Tanna)",
+        "sistema_id": "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            167.1785,
+            -15.5185
+          ],
+          [
+            168.3125,
+            -17.7485
+          ],
+          [
+            169.2625,
+            -19.5325
+          ]
+        ]
+      }
     }
   ]
 }
