@@ -62972,6 +62972,294 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-kiv-l1",
+        "nome": "Expresso Ocidental do Lago Kivu (Port de Goma ↔ Ilha de Idjwi ↔ Port de Bukavu, RD Congo)",
+        "sistema_id": "lake-kivu-express-boats-ferries-goma-bukavu-idjwi-island-rubavu-gisenyi-karongi-kibuye-rusizi-cyangugu-rd-congo-ruanda",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.2185,
+            -1.6815
+          ],
+          [
+            29.0652,
+            -2.0415
+          ],
+          [
+            28.8625,
+            -2.4985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-kiv-l2",
+        "nome": "Corredor Oriental do Lago Kivu (Rubavu / Gisenyi ↔ Karongi / Kibuye ↔ Ilha Nkombo / Rusizi, Ruanda)",
+        "sistema_id": "lake-kivu-express-boats-ferries-goma-bukavu-idjwi-island-rubavu-gisenyi-karongi-kibuye-rusizi-cyangugu-rd-congo-ruanda",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.2542,
+            -1.7065
+          ],
+          [
+            29.3452,
+            -2.0625
+          ],
+          [
+            28.9085,
+            -2.4685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-tan-l1",
+        "nome": "Eixo Longitudinal Sul–Norte do Lago Tanganica (Mpulungu Zâmbia ↔ Kasanga / Kipili ↔ Kigoma Tanzânia ↔ Rumonge / Bujumbura Burundi)",
+        "sistema_id": "lake-tanganyika-mv-liemba-mv-mwongozo-mpulungu-kigoma-kalemie-uvira-bujumbura-moba-zambia-tanzania-rd-congo-burundi",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.1115,
+            -8.7642
+          ],
+          [
+            29.6252,
+            -4.8785
+          ],
+          [
+            29.3495,
+            -3.3825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-tan-l2",
+        "nome": "Eixo Trans-Tanganica e Margem Congolesa (Kigoma ↔ Kalemie SNCC ↔ Moba ↔ Uvira Kalundu ↔ Bujumbura)",
+        "sistema_id": "lake-tanganyika-mv-liemba-mv-mwongozo-mpulungu-kigoma-kalemie-uvira-bujumbura-moba-zambia-tanzania-rd-congo-burundi",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.6252,
+            -4.8785
+          ],
+          [
+            29.1965,
+            -5.9265
+          ],
+          [
+            29.1425,
+            -3.4125
+          ],
+          [
+            29.3495,
+            -3.3825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-kar-l1",
+        "nome": "Lago Kariba Ro-Pax Ferry (Kariba Andora Harbour / Siavonga ↔ Binga / Sinazongwe ↔ Mlibizi)",
+        "sistema_id": "lake-kariba-ferries-kariba-binga-milibizi-siavonga-zambia-zimbabue-zambezi-river-ferries-senanga-sesheke-chemba-caia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.7915,
+            -16.5285
+          ],
+          [
+            27.3415,
+            -17.6215
+          ],
+          [
+            27.0585,
+            -17.9212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-zam-l2",
+        "nome": "Hidrovias do Alto e Baixo Rio Zambeze (Senanga / Sesheke Zâmbia & Tete / Chemba / Marromeu Moçambique)",
+        "sistema_id": "lake-kariba-ferries-kariba-binga-milibizi-siavonga-zambia-zimbabue-zambezi-river-ferries-senanga-sesheke-chemba-caia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.2685,
+            -16.1152
+          ],
+          [
+            24.2965,
+            -17.4765
+          ],
+          [
+            34.8925,
+            -17.2125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-sen-l1",
+        "nome": "Linha Marítimo-Fluvial Dakar–Casamance (Gare Maritime de Dakar ↔ Ilha de Carabane ↔ Ziguinchor)",
+        "sistema_id": "cosama-aline-sitoe-diatta-dakar-carabane-ziguinchor-casamance-bac-de-rosso-rio-senegal-foundiougne-ilhas-saloum-senegal-mauritania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -17.4295,
+            14.6765
+          ],
+          [
+            -16.7015,
+            12.5585
+          ],
+          [
+            -16.2715,
+            12.5865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-sen-l2",
+        "nome": "Delta do Sine-Saloum e Hidrovia do Rio Senegal (Foundiougne / Niodior & Saint-Louis ↔ Bac de Rosso ↔ Podor)",
+        "sistema_id": "cosama-aline-sitoe-diatta-dakar-carabane-ziguinchor-casamance-bac-de-rosso-rio-senegal-foundiougne-ilhas-saloum-senegal-mauritania",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.4685,
+            14.1325
+          ],
+          [
+            -16.5015,
+            16.0285
+          ],
+          [
+            -15.8052,
+            16.5112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-abi-l1",
+        "nome": "Rede Urbana Laguna Ébrié — SOTRA / STL / CITRANS (Abobodoumé ↔ Plateau ↔ Treichville ↔ Blockhauss / Cocody)",
+        "sistema_id": "sotragel-compagnie-des-bacs-abidjan-lagune-ebrie-treichville-plateau-abobodoume-assinie-grand-lahou-costa-do-marfim",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0412,
+            5.3352
+          ],
+          [
+            -4.0175,
+            5.3185
+          ],
+          [
+            -4.0115,
+            5.3042
+          ],
+          [
+            -3.9885,
+            5.3245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr61-abi-l2",
+        "nome": "Corredor Lagunar Costeiro Ébrié–Aby (Abidjan Treichville ↔ Jacqueville / Grand-Lahou & Assinie-Mafia)",
+        "sistema_id": "sotragel-compagnie-des-bacs-abidjan-lagune-ebrie-treichville-plateau-abobodoume-assinie-grand-lahou-costa-do-marfim",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.0025,
+            5.1425
+          ],
+          [
+            -4.4125,
+            5.2052
+          ],
+          [
+            -4.0115,
+            5.3042
+          ]
+        ]
+      }
     }
   ]
 }
