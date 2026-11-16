@@ -61540,6 +61540,290 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-me-l1",
+        "nome": "Casco Bay Lines & Mailboat Run (Portland ↔ Peaks / Great Diamond / Chebeague ↔ Cliff / Bailey Island)",
+        "sistema_id": "casco-bay-lines-portland-peaks-chebeague-cliff-island-maine-block-island-prudence-island-ferries-rhode-island-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.2512,
+            43.6572
+          ],
+          [
+            -70.1985,
+            43.6558
+          ],
+          [
+            -70.1092,
+            43.6965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-ri-l2",
+        "nome": "Block Island Traditional & High-Speed Ferry (Point Judith Galilee / Newport ↔ Old Harbor Block Island)",
+        "sistema_id": "casco-bay-lines-portland-peaks-chebeague-cliff-island-maine-block-island-prudence-island-ferries-rhode-island-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.4915,
+            41.3792
+          ],
+          [
+            -71.5215,
+            41.2755
+          ],
+          [
+            -71.5562,
+            41.1725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-lis-l1",
+        "nome": "Long Island Sound Ro-Pax & SeaJet (New London CT ↔ Orient Point NY & Bridgeport CT ↔ Port Jefferson NY)",
+        "sistema_id": "cross-sound-ferry-new-london-orient-point-fire-island-ferries-bay-shore-ocean-beach-port-jefferson-bridgeport-long-island-sound-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.0928,
+            41.3542
+          ],
+          [
+            -72.2392,
+            41.1592
+          ],
+          [
+            -73.0695,
+            40.9482
+          ],
+          [
+            -73.1825,
+            41.1735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-fi-l2",
+        "nome": "Fire Island Ferries — Great South Bay (Bay Shore LIRR ↔ Ocean Beach / Kismet / Saltaire / Fair Harbor)",
+        "sistema_id": "cross-sound-ferry-new-london-orient-point-fire-island-ferries-bay-shore-ocean-beach-port-jefferson-bridgeport-long-island-sound-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.2452,
+            40.7185
+          ],
+          [
+            -73.2425,
+            40.7138
+          ],
+          [
+            -73.1562,
+            40.6472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-mi-l1",
+        "nome": "Beaver Island Ferry — Lago Michigan (Charlevoix Municipal Dock ↔ St. James Harbor Beaver Island)",
+        "sistema_id": "beaver-island-boat-company-charlevoix-st-james-drummond-island-sugar-island-neebish-island-eupta-ferries-michigan-grandes-lagos-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.2595,
+            45.3185
+          ],
+          [
+            -85.3885,
+            45.5325
+          ],
+          [
+            -85.5182,
+            45.7465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-mi-l2",
+        "nome": "EUPTA St. Marys River & Lake Huron Island Ferries (Sault Ste. Marie / Sugar Island ↔ Neebish Island ↔ DeTour / Drummond Island)",
+        "sistema_id": "beaver-island-boat-company-charlevoix-st-james-drummond-island-sugar-island-neebish-island-eupta-ferries-michigan-grandes-lagos-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3165,
+            46.4865
+          ],
+          [
+            -84.1852,
+            46.2862
+          ],
+          [
+            -83.9012,
+            45.9925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-ca-l1",
+        "nome": "Catalina Express Corridor (Long Beach / San Pedro ↔ Avalon ↔ Two Harbors Santa Catalina Island)",
+        "sistema_id": "catalina-express-catalina-flyer-long-beach-san-pedro-dana-point-avalon-two-harbors-balboa-island-ferry-newport-beach-california-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.1985,
+            33.7635
+          ],
+          [
+            -118.3228,
+            33.3418
+          ],
+          [
+            -118.4975,
+            33.4428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-ca-l2",
+        "nome": "Orange County Coastal & Balboa Ferry (Newport Beach Balboa Island Ferry & Dana Point ↔ Avalon)",
+        "sistema_id": "catalina-express-catalina-flyer-long-beach-san-pedro-dana-point-avalon-two-harbors-balboa-island-ferry-newport-beach-california-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.8935,
+            33.6042
+          ],
+          [
+            -117.6985,
+            33.4605
+          ],
+          [
+            -118.3228,
+            33.3418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-bc-l1",
+        "nome": "Kootenay & Lower Arrow Lakes Highway Ferries (Balfour ↔ Kootenay Bay Hwy 3A & Needles ↔ Fauquier Hwy 6)",
+        "sistema_id": "inland-ferries-bc-kootenay-lake-osprey-2000-balfour-kootenay-bay-upper-arrow-lake-galena-shelter-bay-needles-fauquier-columbia-britanica-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.9565,
+            49.6242
+          ],
+          [
+            -116.8655,
+            49.6712
+          ],
+          [
+            -118.0815,
+            49.8745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-na56-bc-l2",
+        "nome": "Upper Arrow Lake & François Lake Inland Ferries (Shelter Bay ↔ Galena Bay Hwy 23 & Southbank ↔ Northbank)",
+        "sistema_id": "inland-ferries-bc-kootenay-lake-osprey-2000-balfour-kootenay-bay-upper-arrow-lake-galena-shelter-bay-needles-fauquier-columbia-britanica-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.8825,
+            50.6315
+          ],
+          [
+            -117.9215,
+            50.6845
+          ],
+          [
+            -125.7585,
+            54.0325
+          ]
+        ]
+      }
     }
   ]
 }
