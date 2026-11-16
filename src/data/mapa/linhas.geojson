@@ -66576,6 +66576,314 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-tyo-l1",
+        "nome": "Hidrovia do Rio Sumida e Baía de Tóquio (Asakusa ↔ Ryōgoku ↔ Hamarikyu ↔ Hinode Pier ↔ Odaiba Seaside Park ↔ Toyosu)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.7978,
+            35.7111
+          ],
+          [
+            139.7919,
+            35.6969
+          ],
+          [
+            139.7636,
+            35.6594
+          ],
+          [
+            139.7614,
+            35.6514
+          ],
+          [
+            139.7765,
+            35.6285
+          ],
+          [
+            139.7914,
+            35.6544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-uraga-l2",
+        "nome": "Travessia Ro-Pax do Canal de Uraga — Tokyo-Wan Ferry (Kurihama Port Yokosuka ↔ Kanaya Port Futtsu Chiba)",
+        "sistema_id": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.7156,
+            35.2225
+          ],
+          [
+            139.8189,
+            35.1719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-ker-l1",
+        "nome": "Corredor Ilhas Kerama e Kumejima (Naha Tomari Port ↔ Tokashiki ↔ Zamami ↔ Aka ↔ Tonaki ↔ Kumejima)",
+        "sistema_id": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.6811,
+            26.2281
+          ],
+          [
+            127.3656,
+            26.1986
+          ],
+          [
+            127.3025,
+            26.2261
+          ],
+          [
+            127.2839,
+            26.1972
+          ],
+          [
+            126.8056,
+            26.3389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-iej-l2",
+        "nome": "Travessia do Norte de Okinawa (Motobu Port ↔ Iejima Port & Bise / Sesoko)",
+        "sistema_id": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.8889,
+            26.6406
+          ],
+          [
+            127.795,
+            26.7119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-hkm-l1",
+        "nome": "Expresso TurboJET & Cotai Water Jet (Hong Kong Sheung Wan / Kowloon ↔ Macau Porto Exterior & Terminal da Taipa)",
+        "sistema_id": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1678,
+            22.3
+          ],
+          [
+            114.1519,
+            22.2886
+          ],
+          [
+            113.5586,
+            22.1972
+          ],
+          [
+            113.5772,
+            22.1628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-tai-l2",
+        "nome": "Ponte Intermodal Ar-Mar HKIA SkyPier (Aeroporto de Hong Kong SkyPier ↔ Macau Taipa & Porto Exterior / Tuen Mun)",
+        "sistema_id": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.9394,
+            22.3164
+          ],
+          [
+            113.5772,
+            22.1628
+          ],
+          [
+            113.5586,
+            22.1972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bat-l1",
+        "nome": "Passagem da Ilha Verde e Mar de Sibuyan (Batangas Port ↔ Calapan / Puerto Galera Mindoro & Batangas ↔ Odiongan Romblon)",
+        "sistema_id": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.0442,
+            13.7556
+          ],
+          [
+            120.9547,
+            13.5025
+          ],
+          [
+            121.1869,
+            13.4317
+          ],
+          [
+            121.985,
+            12.4019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bor-l2",
+        "nome": "Eixo Sul Mindoro – Panay e Ponte de Boracay (Roxas / Bulalacao Mindoro & Odiongan ↔ Caticlan Jetty Port ↔ Cagban Boracay Island)",
+        "sistema_id": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5244,
+            12.5892
+          ],
+          [
+            121.985,
+            12.4019
+          ],
+          [
+            121.9519,
+            11.9369
+          ],
+          [
+            121.9336,
+            11.9469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-kch-l1",
+        "nome": "Travessias Ro-Pax do Estreito de Koh Chang (Ao Thammachat ↔ Ao Sappa Rot & Centre Point Pier Laem Ngop ↔ Dan Kao)",
+        "sistema_id": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.3194,
+            12.1819
+          ],
+          [
+            102.2994,
+            12.1419
+          ],
+          [
+            102.3694,
+            12.1689
+          ],
+          [
+            102.3336,
+            12.1269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-eas72-bba-l2",
+        "nome": "Linha Interinsular Sul de Mu Ko Chang (Bang Bao Pier Koh Chang ↔ Koh Wai ↔ Koh Mak ↔ Koh Kood)",
+        "sistema_id": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.3369,
+            11.9725
+          ],
+          [
+            102.3989,
+            11.9025
+          ],
+          [
+            102.4869,
+            11.8125
+          ]
+        ]
+      }
     }
   ]
 }

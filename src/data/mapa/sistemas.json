@@ -51750,5 +51750,328 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+    "slug": "tokyo-wan-ferry-kurihama-kanaya-tokyo-cruise-sumida-river-water-bus-asakusa-odaiba-toyosu-baia-de-toquio-japao",
+    "nome_pt": "Tokyo-Wan Ferry (Kurihama–Kanaya) e Tokyo Cruise / Tokyo Mizube Line (Rio Sumida e Baía de Tóquio — Asakusa, Hinode, Odaiba e Toyosu, Japão)",
+    "nome_en": "Tokyo-Wan Ferry (Kurihama–Kanaya) & Tokyo Cruise / Tokyo Mizube Line (Sumida River & Tokyo Bay Water Bus — Asakusa, Hinode, Odaiba & Toyosu, Japan)",
+    "pais": "Japão",
+    "cidade": "Tóquio (Asakusa / Odaiba / Toyosu) / Yokosuka (Kurihama) / Futtsu (Kanaya)",
+    "uf": "Tóquio / Kanagawa / Chiba",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Tokyo-Wan Ferry Co., Ltd. / Tokyo Cruise Ship Co. (Suijo Bus) / Tokyo Mizube Line (Tokyo Metropolitan Park Association)",
+    "inauguracao": "1885",
+    "extensao_km": 95,
+    "bitola": "N/A (Hidrovia Fluvial Metropolitana e Travessia Ro-Pax da Entrada da Baía de Tóquio)",
+    "eletrificacao": "Barcos Futuristas de Baixo Calado (Himiko, Hotaluna e Emeraldas) e Ferries Ro-Pax (Kanaya-Maru & Shirahama-Maru)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 18500,
+    "ano_referencia": 2026,
+    "investimento": "¥ 6,8 bilhões (renovação dos píeres fluviais do Rio Sumida, integração com o BRT de Toyosu/Harumi e modernização dos terminais de Kurihama e Kanaya)",
+    "proximas_entregas": "Novas embarcações híbridas-elétricas para as linhas fluviais Asakusa–Odaiba–Toyosu",
+    "resumo_pt": "Sistema duplo que atende tanto o coração fluvial de Tóquio quanto a boca oceânica da Baía de Tóquio: no Rio Sumida e na orla portuária, os célebres barcos futuristas desenhados por Leiji Matsumoto (Himiko, Hotaluna e Emeraldas, da Tokyo Cruise Ship) e o Tokyo Mizube Line ligam Asakusa, Ryōgoku, Jardins Hamarikyu e Hinode Pier à ilha artificial de Odaiba, Toyosu e Kasai; já na entrada da baía (Canal de Uraga), os ferries ro-pax da Tokyo-Wan Ferry cruzam em 40 minutos entre Kurihama (Yokosuka, Kanagawa) e Kanaya (Futtsu, Chiba).",
+    "resumo_en": "Dual water transit network serving both central Tokyo's waterways and the mouth of Tokyo Bay: along the Sumida River and waterfront, Tokyo Cruise Ship's futuristic Leiji Matsumoto-designed vessels (Himiko, Hotaluna, Emeraldas) and the Tokyo Mizube Line connect Asakusa, Hamarikyu, and Hinode Pier with Odaiba and Toyosu; across the Uraga Channel at the bay's entrance, Tokyo-Wan Ferry operates 40-minute Ro-Pax crossings linking Kurihama (Kanagawa) and Kanaya (Chiba).",
+    "lat": 35.6285,
+    "lon": 139.7765,
+    "zoom_inicial": 9.0,
+    "fontes": [
+      "suijobus-tokyo-jp",
+      "tokyowanferry-jp"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "water-bus",
+      "toquio",
+      "sumida",
+      "asakusa",
+      "odaiba",
+      "kurihama",
+      "kanaya",
+      "japao"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-eas72-tyo-l1",
+        "nome": "Hidrovia do Rio Sumida e Baía de Tóquio (Asakusa ↔ Ryōgoku ↔ Hamarikyu ↔ Hinode Pier ↔ Odaiba Seaside Park ↔ Toyosu)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 45,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-eas72-uraga-l2",
+        "nome": "Travessia Ro-Pax do Canal de Uraga — Tokyo-Wan Ferry (Kurihama Port Yokosuka ↔ Kanaya Port Futtsu Chiba)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 50,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+    "slug": "okinawa-kerama-ie-island-ferries-queen-zamami-ferry-zamami-ferry-tokashiki-motobu-iejima-naha-tomari-okinawa-japao",
+    "nome_pt": "Ferries de Okinawa e Arquipélago de Kerama — Naha Tomari Port (Queen Zamami, Ferry Tokashiki e Kumejima) e Motobu–Iejima (Okinawa, Japão)",
+    "nome_en": "Okinawa & Kerama Islands Ferries — Naha Tomari Port (Queen Zamami, Ferry Tokashiki & Kumejima) & Motobu–Iejima (Okinawa, Japan)",
+    "pais": "Japão",
+    "cidade": "Naha (Tomari) / Zamami / Aka / Tokashiki / Kumejima / Motobu / Iejima",
+    "uf": "Okinawa",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Zamami Village Municipal Ferry / Tokashiki Village Ferry / Kume Line / Ie Village Municipal Ferry",
+    "inauguracao": "1972",
+    "extensao_km": 260,
+    "bitola": "N/A (Hidrovia Insular Subtropical do Mar da China Oriental — Lanchas de Alta Velocidade e Ferries Ro-Pax)",
+    "eletrificacao": "Catamarãs Rápidos (Queen Zamami III & Marine Liner Tokashiki) e Ferries Ro-Pax (Ferry Zamami 3, Ferry Tokashiki, Ferry琉球 e Ferry Iejima)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 9200,
+    "ano_referencia": 2026,
+    "investimento": "¥ 4,5 bilhões (renovação das frotas municipais das ilhas Kerama e ampliação do Terminal Tomarin no Porto de Naha)",
+    "proximas_entregas": "Novas embarcações resistentes a tufões para as rotas Naha Tomari–Zamami–Aka e Motobu–Iejima",
+    "resumo_pt": "A rede essencial de ferries municipais e lanchas de alta velocidade que conecta a ilha principal de Okinawa às ilhas vizinhas do Arquipélago de Ryukyu: a partir do Terminal de Passageiros de Tomari (Tomarin) no centro de Naha, as lanchas rápidas Queen Zamami (50 min) e Marine Liner Tokashiki (35 min) e os ferries ro-pax servem diariamente o Parque Nacional das Ilhas Kerama (Zamami, Aka e Tokashiki), além das rotas para Aguni, Tonaki e Kumejima; no norte de Okinawa, o ferry municipal cruza em 30 minutos entre o Porto de Motobu e a Ilha de Ie (Iejima).",
+    "resumo_en": "Essential municipal Ro-Pax ferry and high-speed boat network connecting Okinawa Main Island with surrounding Ryukyu islands: from Naha's Tomari Port (Tomarin), high-speed vessels Queen Zamami and Marine Liner Tokashiki and conventional ferries link the Kerama Shotō National Park islands (Zamami, Aka, and Tokashiki) as well as Kumejima, Tonaki, and Aguni; in northern Okinawa, a 30-minute municipal ferry links Motobu Port with Iejima Island.",
+    "lat": 26.2285,
+    "lon": 127.52,
+    "zoom_inicial": 8.2,
+    "fontes": [
+      "tomarin-okinawa-jp",
+      "vill-zamami-jp",
+      "tokashiki-ferry-jp"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "okinawa",
+      "naha",
+      "tomari",
+      "kerama",
+      "zamami",
+      "tokashiki",
+      "kumejima",
+      "iejima",
+      "japao"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-eas72-ker-l1",
+        "nome": "Corredor Ilhas Kerama e Kumejima (Naha Tomari Port ↔ Tokashiki ↔ Zamami ↔ Aka ↔ Tonaki ↔ Kumejima)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 195,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-eas72-iej-l2",
+        "nome": "Travessia do Norte de Okinawa (Motobu Port ↔ Iejima Port & Bise / Sesoko)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 65,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+    "slug": "turbojet-cotai-water-jet-hong-kong-macau-ferry-terminal-sheung-wan-taipa-outer-harbour-skypier-hkia-delta-do-rio-das-perolas-china",
+    "nome_pt": "TurboJET e Cotai Water Jet — Expresso Marítimo Hong Kong – Macau – Aeroporto HKIA SkyPier (Sheung Wan, Kowloon, Porto Exterior e Taipa, China)",
+    "nome_en": "TurboJET & Cotai Water Jet — Hong Kong – Macau – HKIA SkyPier High-Speed Sea Express (Sheung Wan, Kowloon, Outer Harbour & Taipa, China)",
+    "pais": "China",
+    "cidade": "Hong Kong (Sheung Wan / Kowloon / HKIA Chek Lap Kok) / Macau (Porto Exterior / Taipa)",
+    "uf": "Hong Kong SAR / Macau SAR",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Shun Tak–China Travel Ship Management (TurboJET) / Cotai Ferry Company (Cotai Water Jet)",
+    "inauguracao": "1962",
+    "extensao_km": 185,
+    "bitola": "N/A (Hidrovia Estuarina de Alta Velocidade 24h — Jetfoils Boeing 929 e Catamarãs Austal de 42 a 45 Nós)",
+    "eletrificacao": "Hidrofólios a Jato d'Água (Boeing 929 Jetfoil) e Catamarãs de Alumínio Austal 48m (Cotai Water Jet / TurboJET Premier Grand)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 38000,
+    "ano_referencia": 2026,
+    "investimento": "HK$ 1,2 bilhão (integração intermodal ar-mar no SkyPier do Aeroporto Internacional de Hong Kong e modernização dos terminais da Taipa e Shun Tak Centre)",
+    "proximas_entregas": "Expansão do check-in integrado de bagagens aéreas nos terminais marítimos de Macau e Taipa para o HKIA SkyPier",
+    "resumo_pt": "Um dos corredores marítimos de alta velocidade mais famosos e movimentados do planeta através do Estuário do Rio das Pérolas: operando catamarãs de 42 nós e hidrofólios Boeing Jetfoil de 45 nós (que realizam a travessia de 65 km em apenas 55 minutos), a TurboJET e a Cotai Water Jet conectam o Hong Kong–Macau Ferry Terminal (Shun Tak Centre em Sheung Wan, Ilha de Hong Kong), o China Ferry Terminal (Tsim Sha Tsui, Kowloon) e o SkyPier (dentro da área restrita do Aeroporto Internacional de Hong Kong) ao Terminal Marítimo do Porto Exterior de Macau ( Península de Macau) e ao Terminal Marítimo da Taipa (Cotai).",
+    "resumo_en": "One of the world's most iconic high-speed marine corridors across the Pearl River Estuary: operating 42-knot Austal catamarans and 45-knot Boeing 929 Jetfoils (completing the 65 km crossing in 55 minutes), TurboJET and Cotai Water Jet link the Hong Kong–Macau Ferry Terminal (Sheung Wan), China Ferry Terminal (Kowloon), and Hong Kong International Airport's airside SkyPier with Macau Outer Harbour Ferry Terminal and Taipa Ferry Terminal.",
+    "lat": 22.24,
+    "lon": 113.85,
+    "zoom_inicial": 9.2,
+    "fontes": [
+      "turbojet-hk-mo",
+      "cotaiwaterjet-mo",
+      "mardep-hk"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "jetfoil",
+      "turbojet",
+      "cotai-water-jet",
+      "hong-kong",
+      "macau",
+      "taipa",
+      "skypier",
+      "china"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-eas72-hkm-l1",
+        "nome": "Expresso TurboJET & Cotai Water Jet (Hong Kong Sheung Wan / Kowloon ↔ Macau Porto Exterior & Terminal da Taipa)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 115,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-eas72-tai-l2",
+        "nome": "Ponte Intermodal Ar-Mar HKIA SkyPier (Aeroporto de Hong Kong SkyPier ↔ Macau Taipa & Porto Exterior / Tuen Mun)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 70,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+    "slug": "montenegro-lines-fastcat-starlite-ferries-batangas-calapan-puerto-galera-mindoro-odiongan-romblon-roxas-caticlan-boracay-filipinas",
+    "nome_pt": "FastCat, Montenegro Lines e Starlite Ferries — Corredor Náutico Batangas–Mindoro–Romblon–Caticlan e Travessia de Boracay (Filipinas)",
+    "nome_en": "FastCat, Montenegro Lines & Starlite Ferries — Batangas–Mindoro–Romblon–Caticlan Nautical Highway & Boracay Crossing (Philippines)",
+    "pais": "Filipinas",
+    "cidade": "Batangas / Calapan / Puerto Galera / Roxas (Mindoro) / Odiongan (Romblon) / Caticlan / Boracay",
+    "uf": "Calabarzon / Mimaropa / Western Visayas",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Archipelago Philippine Ferries Corp. (FastCat) / Montenegro Shipping Lines / Starlite Ferries (Chelsea Logistics) / Caticlan–Boracay Passenger Boats",
+    "inauguracao": "1978",
+    "extensao_km": 380,
+    "bitola": "N/A (Autoestrada Náutica Ro-Pax Ocidental das Filipinas — Catamarãs Ro-Pax FastCat e Ferries Interinsulares)",
+    "eletrificacao": "Catamarãs Ro-Pax de Alumínio (FastCat M1–M20) e Ferries Ro-Pax (Starlite & Montenegro Lines)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 46000,
+    "ano_referencia": 2026,
+    "investimento": "PHP 4,8 bilhões (novo Terminal Integrado de Passageiros do Porto de Batangas, maior terminal de ferries das Filipinas, e modernização de Caticlan e Cagban em Boracay)",
+    "proximas_entregas": "Incorporação de embarcações elétricas e híbridas na travessia Caticlan–Ilha de Boracay",
+    "resumo_pt": "O eixo hidroviário de maior movimento de passageiros e veículos das Filipinas (espinha dorsal da Western Nautical Highway ligando Luzon a Visayas): a partir do moderno Terminal do Porto de Batangas, dezenas de catamarãs Ro-Pax FastCat e ferries da Montenegro Lines e Starlite Ferries cruzam a Passagem da Ilha Verde até Calapan e Puerto Galera (Mindoro); no sul de Mindoro (Roxas e Bulalacao) e em Odiongan (Romblon), os ferries seguem até o Porto de Caticlan (Panay), de onde lanchas modernas operam 24h a travessia de 15 minutos até os píeres de Cagban e Tambisaan na Ilha de Boracay.",
+    "resumo_en": "The busiest Ro-Pax and passenger ferry corridor in the Philippines (backbone of the Western Nautical Highway linking Luzon with the Visayas): from Batangas Port, FastCat Ro-Pax catamarans, Montenegro Lines, and Starlite Ferries cross the Verde Island Passage to Calapan and Puerto Galera on Mindoro, continuing from Roxas/Bulalacao (Mindoro) and Odiongan (Romblon) to Caticlan Jetty Port on Panay, where shuttle boats run every few minutes to Cagban Port on Boracay Island.",
+    "lat": 12.82,
+    "lon": 121.48,
+    "zoom_inicial": 7.2,
+    "fontes": [
+      "ppa-gov-ph",
+      "fastcat-ph",
+      "starliteferries-ph"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "catamara",
+      "batangas",
+      "calapan",
+      "mindoro",
+      "romblon",
+      "caticlan",
+      "boracay",
+      "filipinas"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-eas72-bat-l1",
+        "nome": "Passagem da Ilha Verde e Mar de Sibuyan (Batangas Port ↔ Calapan / Puerto Galera Mindoro & Batangas ↔ Odiongan Romblon)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 195,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-eas72-bor-l2",
+        "nome": "Eixo Sul Mindoro – Panay e Ponte de Boracay (Roxas / Bulalacao Mindoro & Odiongan ↔ Caticlan Jetty Port ↔ Cagban Boracay Island)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 185,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+    "slug": "koh-chang-ferries-trat-ao-thammachat-centre-point-sappa-rot-dan-kao-koh-wai-koh-mak-golfo-da-tailandia-oriental-tailandia",
+    "nome_pt": "Ferries de Koh Chang e Arquipélago de Trat — Ferry Koh Chang (Ao Thammachat–Ao Sappa Rot), Centre Point Ferry e Bang Bao–Koh Wai–Koh Mak (Tailândia)",
+    "nome_en": "Koh Chang & Trat Archipelago Ferries — Ferry Koh Chang (Ao Thammachat–Ao Sappa Rot), Centre Point Ferry & Bang Bao–Koh Wai–Koh Mak (Thailand)",
+    "pais": "Tailândia",
+    "cidade": "Laem Ngop (Trat) / Koh Chang (Ao Sappa Rot / Dan Kao / Bang Bao) / Koh Wai / Koh Mak",
+    "uf": "Trat",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Koh Chang Ferry Co. (Ao Thammachat) / Centre Point Ferry (Laem Ngop) / Bang Bao Boat Inter-Island Lines",
+    "inauguracao": "1996",
+    "extensao_km": 110,
+    "bitola": "N/A (Hidrovia Costeira e Insular do Golfo da Tailândia Oriental — Ferries Ro-Pax e Lanchas Interinsulares)",
+    "eletrificacao": "Ferries Ro-Pax de Veículos e Passageiros e Lanchas Rápidas de Bang Bao",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 11200,
+    "ano_referencia": 2026,
+    "investimento": "THB 650 milhões (modernização das rampas Ro-Pax de Ao Thammachat e Ao Sappa Rot e reestruturação do Píer de Bang Bao no sul de Koh Chang)",
+    "proximas_entregas": "Integração tarifária de ônibus expressos do Aeroporto de Trat e de Bangkok Ekkamai com os ferries de Koh Chang",
+    "resumo_pt": "O sistema hidroviário que conecta a terceira maior ilha da Tailândia (Koh Chang, no Parque Nacional Marinho de Mu Ko Chang, província de Trat) ao continente: no norte do estreito de Chang, duas linhas de ferries Ro-Pax de veículos e passageiros operam continuamente a cada 30 minutos — o Ferry Koh Chang entre Ao Thammachat e Ao Sappa Rot (30 min de travessia) e o Centre Point Ferry entre Laem Ngop e Dan Kao; no extremo sul da ilha, o histórico píer sobre palafitas de Bang Bao é o ponto de partida das embarcações regulares que ligam Koh Chang a Koh Wai, Koh Mak e Koh Kood.",
+    "resumo_en": "Ferry network connecting Thailand's third-largest island (Koh Chang, in Mu Ko Chang National Park, Trat Province) with the mainland: across the northern strait, two vehicle and passenger Ro-Pax lines operate every 30 minutes — Ferry Koh Chang (Ao Thammachat ↔ Ao Sappa Rot) and Centre Point Ferry (Laem Ngop ↔ Dan Kao); at the island's southern tip, Bang Bao Pier serves inter-island passenger boats to Koh Wai, Koh Mak, and Koh Kood.",
+    "lat": 12.155,
+    "lon": 102.31,
+    "zoom_inicial": 9.8,
+    "fontes": [
+      "md-go-th",
+      "ferrykohchang-th"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "koh-chang",
+      "trat",
+      "laem-ngop",
+      "bang-bao",
+      "koh-wai",
+      "koh-mak",
+      "tailandia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-eas72-kch-l1",
+        "nome": "Travessias Ro-Pax do Estreito de Koh Chang (Ao Thammachat ↔ Ao Sappa Rot & Centre Point Pier Laem Ngop ↔ Dan Kao)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 35,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-eas72-bba-l2",
+        "nome": "Linha Interinsular Sul de Mu Ko Chang (Bang Bao Pier Koh Chang ↔ Koh Wai ↔ Koh Mak ↔ Koh Kood)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 75,
+        "estacoes": 2
+      }
+    ]
   }
 ]
