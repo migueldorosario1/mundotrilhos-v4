@@ -70023,6 +70023,456 @@
           -9.3819
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-ist-e1",
+        "nome": "Eminönü & Karaköy Şehir Hatları Ferry Terminals (Chifre de Ouro / Bósforo Europeu, Istambul)",
+        "sistema_id": "sehir-hatlari-turyol-mavi-marmara-bosforo-adalar-ilhas-dos-principes-eminonu-kabatas-kadikoy-uskudar-bostanci-buyukada-heybeliada-istambul-turquia",
+        "linha_id": "hidro-mea77-ist-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9719,
+          41.0189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-ist-e2",
+        "nome": "Kabataş & Beşiktaş Ferry Terminals (Lado Europeu do Bósforo, Istambul, Turquia)",
+        "sistema_id": "sehir-hatlari-turyol-mavi-marmara-bosforo-adalar-ilhas-dos-principes-eminonu-kabatas-kadikoy-uskudar-bostanci-buyukada-heybeliada-istambul-turquia",
+        "linha_id": "hidro-mea77-ist-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9939,
+          41.0369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-ist-e3",
+        "nome": "Kadıköy & Üsküdar Şehir Hatları Terminals (Lado Asiático / Anatólia, Istambul)",
+        "sistema_id": "sehir-hatlari-turyol-mavi-marmara-bosforo-adalar-ilhas-dos-principes-eminonu-kabatas-kadikoy-uskudar-bostanci-buyukada-heybeliada-istambul-turquia",
+        "linha_id": "hidro-mea77-ist-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0225,
+          40.9925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-ada-e4",
+        "nome": "Bostancı Adalar Vapur İskelesi (Terminal Asiático das Ilhas dos Príncipes, Istambul)",
+        "sistema_id": "sehir-hatlari-turyol-mavi-marmara-bosforo-adalar-ilhas-dos-principes-eminonu-kabatas-kadikoy-uskudar-bostanci-buyukada-heybeliada-istambul-turquia",
+        "linha_id": "hidro-mea77-ada-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0925,
+          40.9519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-ada-e5",
+        "nome": "Büyükada & Heybeliada Historic Ferry Piers (Ilhas dos Príncipes / Adalar, Mar de Mármara)",
+        "sistema_id": "sehir-hatlari-turyol-mavi-marmara-bosforo-adalar-ilhas-dos-principes-eminonu-kabatas-kadikoy-uskudar-bostanci-buyukada-heybeliada-istambul-turquia",
+        "linha_id": "hidro-mea77-ada-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1269,
+          40.8742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-dxb-e1",
+        "nome": "Al Ghubaiba Marine Transport Station (Intermodal RTA Metro / Ferry / Abra, Bur Dubai, EAU)",
+        "sistema_id": "dubai-rta-marine-abra-dubai-ferry-water-taxi-dubai-creek-al-ghubaiba-deira-bur-dubai-dubai-marina-bluewaters-sharjah-aquarium-eau",
+        "linha_id": "hidro-mea77-dxb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2869,
+          25.2656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-dxb-e2",
+        "nome": "Bur Dubai & Deira Old Souk Traditional Abra Stations (Dubai Creek, Dubai)",
+        "sistema_id": "dubai-rta-marine-abra-dubai-ferry-water-taxi-dubai-creek-al-ghubaiba-deira-bur-dubai-dubai-marina-bluewaters-sharjah-aquarium-eau",
+        "linha_id": "hidro-mea77-dxb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2939,
+          25.2639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-dxb-e3",
+        "nome": "Dubai Canal Marine Transport Station (Jumeirah / Business Bay, Dubai)",
+        "sistema_id": "dubai-rta-marine-abra-dubai-ferry-water-taxi-dubai-creek-al-ghubaiba-deira-bur-dubai-dubai-marina-bluewaters-sharjah-aquarium-eau",
+        "linha_id": "hidro-mea77-dxb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2425,
+          25.1919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-dxb-e4",
+        "nome": "Dubai Marina Mall & Bluewaters Marine Transport Stations (Nova Dubai, EAU)",
+        "sistema_id": "dubai-rta-marine-abra-dubai-ferry-water-taxi-dubai-creek-al-ghubaiba-deira-bur-dubai-dubai-marina-bluewaters-sharjah-aquarium-eau",
+        "linha_id": "hidro-mea77-dxb-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1389,
+          25.0769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-shj-e5",
+        "nome": "Aquarium Marine Station — Al Khan (Terminal Dubai Ferry FR4 em Sharjah, EAU)",
+        "sistema_id": "dubai-rta-marine-abra-dubai-ferry-water-taxi-dubai-creek-al-ghubaiba-deira-bur-dubai-dubai-marina-bluewaters-sharjah-aquarium-eau",
+        "linha_id": "hidro-mea77-shj-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3589,
+          25.3289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-far-e1",
+        "nome": "Jazan Port Passenger Ferry Terminal — TGA (Cidade de Jazan, Mar Vermelho, Arábia Saudita)",
+        "sistema_id": "farasan-islands-ferries-jazan-port-farasan-al-khor-red-sea-saudi-public-transport-tga-mar-vermelho-arabia-saudita",
+        "linha_id": "hidro-mea77-far-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5419,
+          16.8856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-far-e2",
+        "nome": "Farasan Island Port Passenger Terminal (Ilha Grande de Farasan, Reserva da Biosfera UNESCO)",
+        "sistema_id": "farasan-islands-ferries-jazan-port-farasan-al-khor-red-sea-saudi-public-transport-tga-mar-vermelho-arabia-saudita",
+        "linha_id": "hidro-mea77-far-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1425,
+          16.7069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-khr-e3",
+        "nome": "Al-Khor & Al-Hafa Jetties (Passagem Interior de Farasan-Sajid, Arábia Saudita)",
+        "sistema_id": "farasan-islands-ferries-jazan-port-farasan-al-khor-red-sea-saudi-public-transport-tga-mar-vermelho-arabia-saudita",
+        "linha_id": "hidro-mea77-khr-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.085,
+          16.755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-khr-e4",
+        "nome": "Sajid Island Pier — Al-Saqid (Segunda Maior Ilha do Arquipélago de Farasan)",
+        "sistema_id": "farasan-islands-ferries-jazan-port-farasan-al-khor-red-sea-saudi-public-transport-tga-mar-vermelho-arabia-saudita",
+        "linha_id": "hidro-mea77-khr-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.935,
+          16.8619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-khr-e5",
+        "nome": "Qummah Island Landing (Sul do Arquipélago de Farasan, Mar Vermelho)",
+        "sistema_id": "farasan-islands-ferries-jazan-port-farasan-al-khor-red-sea-saudi-public-transport-tga-mar-vermelho-arabia-saudita",
+        "linha_id": "hidro-mea77-khr-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.015,
+          16.6389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-abm-e1",
+        "nome": "Aqaba Passenger & Ro-Pax Ferry Terminal — Arab Bridge Maritime (Aqaba, Jordânia)",
+        "sistema_id": "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
+        "linha_id": "hidro-mea77-abm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9769,
+          29.4769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-abm-e2",
+        "nome": "Nuweiba Seaport Passenger & Ro-Pax Terminal (Sinai do Sul, Golfo de Aqaba, Egito)",
+        "sistema_id": "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
+        "linha_id": "hidro-mea77-abm-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6689,
+          28.9719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-tab-e3",
+        "nome": "Aqaba Royal Yacht Club & Main Marina Pier (Norte do Golfo de Aqaba, Jordânia)",
+        "sistema_id": "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
+        "linha_id": "hidro-mea77-tab-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9969,
+          29.5219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-tab-e4",
+        "nome": "Tala Bay International Marina Terminal (Costa Sul de Aqaba, Jordânia)",
+        "sistema_id": "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
+        "linha_id": "hidro-mea77-tab-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9225,
+          29.4069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-tab-e5",
+        "nome": "Taba Heights International Marina Terminal (Península do Sinai Norte, Egito)",
+        "sistema_id": "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
+        "linha_id": "hidro-mea77-tab-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8289,
+          29.3889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-cas-e1",
+        "nome": "Port of Baku International Rail & Ro-Pax Ferry Terminal — Alat (Corredor do Meio, Azerbaijão)",
+        "sistema_id": "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao",
+        "linha_id": "hidro-mea77-cas-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4425,
+          39.9769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-cas-e2",
+        "nome": "Turkmenbashi International Seaport Rail & Passenger Terminal (Türkmenbaşy, Turcomenistão)",
+        "sistema_id": "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao",
+        "linha_id": "hidro-mea77-cas-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9689,
+          40.0156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-akt-e3",
+        "nome": "Baku Boulevard Maritime Passenger Terminal (Baía de Baku, Azerbaijão)",
+        "sistema_id": "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao",
+        "linha_id": "hidro-mea77-akt-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8689,
+          40.3689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-akt-e4",
+        "nome": "Port of Kuryk Multimodal Rail & Ro-Pax Ferry Terminal (Mangystau, Mar Cáspio, Cazaquistão)",
+        "sistema_id": "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao",
+        "linha_id": "hidro-mea77-akt-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4325,
+          43.1656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-akt-e5",
+        "nome": "Aktau International Commercial Seaport Terminal (Aktau, Mangystau, Cazaquistão)",
+        "sistema_id": "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao",
+        "linha_id": "hidro-mea77-akt-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1456,
+          43.6019
+        ]
+      }
     }
   ]
 }

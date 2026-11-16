@@ -68496,6 +68496,302 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-ist-l1",
+        "nome": "Travessias Transcontinentais do Bósforo e Chifre de Ouro (Eyüpsultan ↔ Eminönü / Karaköy / Kabataş / Beşiktaş ↔ Üsküdar / Kadıköy ↔ Sarıyer / Beykoz)",
+        "sistema_id": "sehir-hatlari-turyol-mavi-marmara-bosforo-adalar-ilhas-dos-principes-eminonu-kabatas-kadikoy-uskudar-bostanci-buyukada-heybeliada-istambul-turquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9719,
+            41.0189
+          ],
+          [
+            28.9939,
+            41.0369
+          ],
+          [
+            29.0139,
+            41.0269
+          ],
+          [
+            29.0225,
+            40.9925
+          ],
+          [
+            29.0589,
+            41.1689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-ada-l2",
+        "nome": "Tronco das Ilhas dos Príncipes — Adalar (Kabataş / Eminönü / Kadıköy / Bostancı ↔ Kınalıada ↔ Burgazada ↔ Heybeliada ↔ Büyükada)",
+        "sistema_id": "sehir-hatlari-turyol-mavi-marmara-bosforo-adalar-ilhas-dos-principes-eminonu-kabatas-kadikoy-uskudar-bostanci-buyukada-heybeliada-istambul-turquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9939,
+            41.0369
+          ],
+          [
+            29.0225,
+            40.9925
+          ],
+          [
+            29.0925,
+            40.9519
+          ],
+          [
+            29.0556,
+            40.9119
+          ],
+          [
+            29.0919,
+            40.8789
+          ],
+          [
+            29.1269,
+            40.8742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-dxb-l1",
+        "nome": "Abras do Dubai Creek & Dubai Water Canal FR1 (Deira Old Souk ↔ Bur Dubai ↔ Al Ghubaiba ↔ Dubai Canal ↔ Bluewaters ↔ Dubai Marina)",
+        "sistema_id": "dubai-rta-marine-abra-dubai-ferry-water-taxi-dubai-creek-al-ghubaiba-deira-bur-dubai-dubai-marina-bluewaters-sharjah-aquarium-eau",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2975,
+            25.2669
+          ],
+          [
+            55.2939,
+            25.2639
+          ],
+          [
+            55.2869,
+            25.2656
+          ],
+          [
+            55.2425,
+            25.1919
+          ],
+          [
+            55.1389,
+            25.0769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-shj-l2",
+        "nome": "Expresso Interemirados FR4 Dubai – Sharjah (Al Ghubaiba Marine Station Dubai ↔ Aquarium Marine Station Al Khan Sharjah)",
+        "sistema_id": "dubai-rta-marine-abra-dubai-ferry-water-taxi-dubai-creek-al-ghubaiba-deira-bur-dubai-dubai-marina-bluewaters-sharjah-aquarium-eau",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2869,
+            25.2656
+          ],
+          [
+            55.3589,
+            25.3289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-far-l1",
+        "nome": "Ponte Rápida Ro-Pax do Mar Vermelho (Jazan Port Passenger Terminal ↔ Farasan Island Port)",
+        "sistema_id": "farasan-islands-ferries-jazan-port-farasan-al-khor-red-sea-saudi-public-transport-tga-mar-vermelho-arabia-saudita",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.5419,
+            16.8856
+          ],
+          [
+            42.1425,
+            16.7069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-khr-l2",
+        "nome": "Circuito Insular do Arquipélago de Farasan (Farasan Port / Al-Khor ↔ Ilha de Sajid ↔ Ilha de Qummah)",
+        "sistema_id": "farasan-islands-ferries-jazan-port-farasan-al-khor-red-sea-saudi-public-transport-tga-mar-vermelho-arabia-saudita",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.1425,
+            16.7069
+          ],
+          [
+            41.935,
+            16.8619
+          ],
+          [
+            42.015,
+            16.6389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-abm-l1",
+        "nome": "Autoestrada Marítima Aqaba – Nuweiba (Aqaba Passenger & Ro-Pax Terminal JO ↔ Nuweiba Port Sinai EG)",
+        "sistema_id": "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9769,
+            29.4769
+          ],
+          [
+            34.6689,
+            28.9719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-tab-l2",
+        "nome": "Expresso do Norte do Golfo de Aqaba (Aqaba / Tala Bay Marina JO ↔ Taba Heights Marina EG)",
+        "sistema_id": "arab-bridge-maritime-abm-aqaba-nuweiba-tala-bay-taba-heights-sharm-el-sheikh-hurghada-golfo-de-aqaba-mar-vermelho-jordania-egito",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9969,
+            29.5219
+          ],
+          [
+            34.9225,
+            29.4069
+          ],
+          [
+            34.8289,
+            29.3889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-cas-l1",
+        "nome": "Ferro-Balsa do Sul do Cáspio (Porto de Baku / Alat AZ ↔ Porto Internacional de Türkmenbaşy TM)",
+        "sistema_id": "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.4425,
+            39.9769
+          ],
+          [
+            52.9689,
+            40.0156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-mea77-akt-l2",
+        "nome": "Ferro-Balsa do Corredor do Meio Norte (Porto de Baku / Alat AZ ↔ Porto de Kuryk & Porto de Aktau KZ)",
+        "sistema_id": "asco-azerbaijan-caspian-shipping-trans-caspian-rail-ro-pax-ferries-baku-alat-turkmenbasy-aktau-kuryk-mar-caspio-azerbaijao-turcomenistao-cazaquistao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8689,
+            40.3689
+          ],
+          [
+            49.4425,
+            39.9769
+          ],
+          [
+            51.4325,
+            43.1656
+          ],
+          [
+            51.1456,
+            43.6019
+          ]
+        ]
+      }
     }
   ]
 }
