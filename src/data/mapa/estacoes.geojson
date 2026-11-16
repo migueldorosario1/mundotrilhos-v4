@@ -69123,6 +69123,456 @@
           -8.7056
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-lon-e1",
+        "nome": "Westminster, Embankment & London Bridge City Piers (Uber Boat by Thames Clippers, Londres)",
+        "sistema_id": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+        "linha_id": "hidro-neu75-lon-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1231,
+          51.5019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-lon-e2",
+        "nome": "Canary Wharf & Rotherhithe Piers (Docklands / RB4 Ferry, Rio Tâmisa, Londres)",
+        "sistema_id": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+        "linha_id": "hidro-neu75-lon-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0294,
+          51.5036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-lon-e3",
+        "nome": "Greenwich Pier (Cutty Sark) & North Greenwich Pier — The O2 (Londres, Reino Unido)",
+        "sistema_id": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+        "linha_id": "hidro-neu75-lon-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0089,
+          51.4839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-woo-e4",
+        "nome": "Woolwich Free Ferry Terminals (Woolwich Arsenal & North Woolwich, TfL, Londres)",
+        "sistema_id": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+        "linha_id": "hidro-neu75-woo-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0619,
+          51.4956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-woo-e5",
+        "nome": "Barking Riverside Pier & Tilbury–Gravesend Ferry Terminals (Estuário do Tâmisa, Reino Unido)",
+        "sistema_id": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+        "linha_id": "hidro-neu75-woo-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1156,
+          51.5169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-arr-e1",
+        "nome": "Brodick Ferry Terminal — Ilha de Arran (CalMac, Firth of Clyde, Escócia)",
+        "sistema_id": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+        "linha_id": "hidro-neu75-arr-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1375,
+          55.5769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-arr-e2",
+        "nome": "Ardrossan Harbour & Troon Rail-Ferry Terminals (North / South Ayrshire, Escócia)",
+        "sistema_id": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+        "linha_id": "hidro-neu75-arr-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8256,
+          55.6419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-arr-e3",
+        "nome": "Lochranza (Arran) & Tarbert – Portavadie Ferry Terminals (Loch Fyne / Kintyre, Escócia)",
+        "sistema_id": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+        "linha_id": "hidro-neu75-arr-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2939,
+          55.7089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-but-e4",
+        "nome": "Wemyss Bay Victorian Rail-Ferry Terminal & Rothesay Pier (Ilha de Bute, Escócia)",
+        "sistema_id": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+        "linha_id": "hidro-neu75-but-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8925,
+          55.8756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-but-e5",
+        "nome": "Largs – Cumbrae Slip & Gourock – Dunoon Ferry Terminals (Firth of Clyde, Escócia)",
+        "sistema_id": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+        "linha_id": "hidro-neu75-but-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8789,
+          55.9619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-ska-e1",
+        "nome": "Kristiansand & Larvik Ferry Terminals (Color Line SuperSpeed & Fjord FSTR, Noruega)",
+        "sistema_id": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-ska-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9919,
+          58.1419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-ska-e2",
+        "nome": "Hirtshals Havn — Color Line & Fjord Line Terminal (Jutlândia do Norte, Dinamarca)",
+        "sistema_id": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-ska-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9619,
+          57.5939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-ska-e3",
+        "nome": "Risavika Port (Stavanger) & Jekteviken Terminal (Bergen — Fjord Line, Noruega)",
+        "sistema_id": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-ska-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3139,
+          60.3919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-osl-e4",
+        "nome": "Sandefjord (Noruega) & Strömstad (Suécia) Terminals — MS Color Hybrid (Oslofjord)",
+        "sistema_id": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-osl-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2269,
+          59.1269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-osl-e5",
+        "nome": "Oslo Hjortnes Terminal (Noruega) & Kiel Norwegenkai (Alemanha — Color Magic / Fantasy)",
+        "sistema_id": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-osl-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7019,
+          59.9089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-got-e1",
+        "nome": "Visby Hamnterminal — Destination Gotland (Ilha de Gotlândia, Mar Báltico, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+        "linha_id": "hidro-neu75-got-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2848,
+          57.6348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-got-e2",
+        "nome": "Nynäshamn Gotlandsterminalen (Integração SL Pendeltåg Estocolmo, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+        "linha_id": "hidro-neu75-got-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9519,
+          58.9019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-got-e3",
+        "nome": "Oskarshamn Gotlandsterminalen (Kalmar län, Småland, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+        "linha_id": "hidro-neu75-got-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4589,
+          57.2625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-far-e4",
+        "nome": "Fårösunds Färjeläge (Norte de Gotlândia — Trafikverket Fåröleden, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+        "linha_id": "hidro-neu75-far-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0625,
+          57.865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-far-e5",
+        "nome": "Broa Färjeläge (Ilha de Fårö) & Gotska Sandön National Park (Gotlândia, Suécia)",
+        "sistema_id": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+        "linha_id": "hidro-neu75-far-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0889,
+          57.8725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-bor-e1",
+        "nome": "Rønne Havn Færgeterminal — Bornholmslinjen (Ilha de Bornholm, Dinamarca)",
+        "sistema_id": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-bor-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6939,
+          55.1019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-bor-e2",
+        "nome": "Ystad Bornholmsterminalen (Escânia, Suécia — HSC Express 5)",
+        "sistema_id": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-bor-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8256,
+          55.425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-bor-e3",
+        "nome": "Køge Færgeterminal (Zelândia, Dinamarca) & Sassnitz Mukran Port (Rügen, Alemanha)",
+        "sistema_id": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-bor-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.195,
+          55.4539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-chr-e4",
+        "nome": "Gudhjem & Allinge Havn (Costa Nordeste de Bornholm, Dinamarca)",
+        "sistema_id": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-chr-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9725,
+          55.2125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-neu75-chr-e5",
+        "nome": "Porto da Fortaleza Insular de Christiansø (Arquipélago de Ertholmene, Extremo Leste da Dinamarca)",
+        "sistema_id": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+        "linha_id": "hidro-neu75-chr-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1869,
+          55.3194
+        ]
+      }
     }
   ]
 }

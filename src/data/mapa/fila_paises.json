@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T10:45:00-03:00",
+  "atualizado_em": "2026-11-16T11:15:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2892,17 +2892,25 @@
         "hidrovia-baixo-tocantins-belem-abaetetuba-cameta-mocajuba-baiao-limoeiro-do-ajuru-igarape-miri-tucurui-pa",
         "travessias-litoral-pernambuco-itamaraca-forte-orange-coroa-do-aviao-barra-de-sirinhaem-ilha-de-santo-aleixo-tamandare-rio-formoso-pe"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 189,
       "codigo": "HIDRO-NORTE-DA-EUROPA-REINO-UNIDO-ESCOCIA-DINAMARCA-NORUEGA-SUECIA-VII",
       "pais": "Fase Hidroviária Mundial #75 — Norte da Europa e Ilhas Britânicas: Thames Clippers / Uber Boat by Thames Clippers & Woolwich Ferry (Londres), CalMac Firth of Clyde (Wemyss Bay–Rothesay / Ardrossan–Brodick / Largs–Cumbrae), Fjord Line & Color Line (Kristiansand–Hirtshals / Sandefjord–Strömstad), Gotlandia / Destination Gotland (Nynäshamn / Oskarshamn–Visby) e Bornholmslinjen (Ystad–Rønne) VII",
       "continente": "Europa",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 193,
+      "sistemas_adicionados": [
+        "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+        "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+        "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+        "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+        "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 190,
       "codigo": "HIDRO-OCEANIA-AUSTRALIA-NOVA-ZELANDIA-QUEENSLAND-TASMANIA-POLINESIA-VII",
@@ -2956,6 +2964,14 @@
       "codigo": "HIDRO-BRASIL-XIV-TRAVESSIAS-HIDROVIARIAS-INTERIORANAS-E-COSTEIRAS-COMPLEMENTARES",
       "pais": "Fase Hidroviária Brasil #14 — Travessias Hidroviárias Interioranas, Amazônicas e Costeiras Complementares do Brasil (Hidrovia do Rio Trombetas e Nhamundá Oriximiná–Porto Trombetas–Faro–Terra Santa–Nhamundá no PA/AM; Travessias da Baía de Todos-os-Santos Sul e Rio Jaguaripe Salinas da Margarida–Cairu–Nazaré na BA; Travessias do Rio Grande na Divisa SP/MG Colômbia–Planura, Icém–Fronteira e Delfinópolis–Olímpio Noronha; Travessias do Litoral do Espírito Santo Vitória–Prainha Vila Velha, Piraquê-Açu em Santa Cruz/Aracruz e Conceição da Barra–Itaúnas; e Hidrovia do Rio Acre e Rio Envira Rio Branco–Xapuri–Assis Brasil–Feijó–Tarauacá no AC)",
       "continente": "América do Sul",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 197,
+      "codigo": "HIDRO-NORTE-DA-EUROPA-BALTICO-ESTONIA-LETONIA-LITUANIA-FINLANDIA-ISLANDIA-VIII",
+      "pais": "Fase Hidroviária Mundial #82 — Báltico Oriental, Finlândia e Islândia: TS Laevad & Kihnu Veeteed (Estônia — Saaremaa, Hiiumaa e Kihnu), Smiltynės Perkėla (Klaipėda–Curonian Spit, Lituânia), Tallink Silja & Viking Line (Tallinn–Helsinque–Estocolmo–Turku), Herjólfur Ferry (Vestmannaeyjar, Islândia) e Baldur Ferry (Breiðafjörður Stykkishólmur–Flatey–Brjánslækur, Islândia) VIII",
+      "continente": "Europa",
       "prioridade": "alta",
       "status": "pendente"
     }

@@ -53036,5 +53036,328 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+    "slug": "uber-boat-by-thames-clippers-woolwich-ferry-putney-westminster-london-bridge-canary-wharf-greenwich-barking-riverside-rio-tamisa-londres-reino-unido",
+    "nome_pt": "Uber Boat by Thames Clippers (TfL River Bus RB1–RB6), Woolwich Free Ferry e Tilbury–Gravesend Ferry (Rio Tâmisa, Londres, Reino Unido)",
+    "nome_en": "Uber Boat by Thames Clippers (TfL River Bus RB1–RB6), Woolwich Free Ferry & Tilbury–Gravesend Ferry (River Thames, London, United Kingdom)",
+    "pais": "Reino Unido",
+    "cidade": "Londres (Putney / Westminster / London Bridge / Canary Wharf / Greenwich / Woolwich / Barking) / Tilbury / Gravesend",
+    "uf": "Greater London / Essex / Kent",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Thames Clippers (Uber Boat by Thames Clippers) / Transport for London (TfL River Services — Woolwich Ferry)",
+    "inauguracao": "1889",
+    "extensao_km": 85,
+    "bitola": "N/A (Hidrovia Fluvial Metropolitana Integrada ao Oyster Card — Catamarãs Híbridos de Alta Velocidade e Balsas Ro-Pax)",
+    "eletrificacao": "Catamarãs Híbridos de Alta Velocidade (Earth Clipper, Celestial Clipper & Mars Clipper) e Ferries Híbridos de Woolwich (Ben Woollacott & Dame Vera Lynn)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 24500,
+    "ano_referencia": 2026,
+    "investimento": "£ 75 milhões (construção dos catamarãs híbridos-elétricos da série Hunt Class na Ilha de Wight e novo ferry 100% elétrico de travessia Canary Wharf–Rotherhithe)",
+    "proximas_entregas": "Entrada em operação da primeira balsa 100% elétrica de travessia do Tâmisa (Orbit Clipper) entre Canary Wharf e Rotherhithe",
+    "resumo_pt": "A rede metropolitana de transporte hidroviário de Londres ao longo do Rio Tâmisa, integrada ao sistema tarifário Oyster e Contactless da Transport for London (TfL): a frota de mais de 20 catamarãs de alta velocidade da Uber Boat by Thames Clippers (linhas RB1, RB2, RB4 e RB6) atende 24 píeres desde Putney e Battersea Power Station, passando por Westminster, Embankment, Blackfriars, London Bridge City, Tower, Canary Wharf e Greenwich até North Greenwich (O2), Royal Wharf, Woolwich e Barking Riverside, somada à histórica travessia gratuita de veículos e pedestres Woolwich Ferry (operando desde 1889) e ao Tilbury–Gravesend Ferry no estuário do Tâmisa.",
+    "resumo_en": "London's metropolitan river transit network along the River Thames, integrated with TfL's Oyster and Contactless ticketing: Uber Boat by Thames Clippers operates over 20 high-speed catamarans (including the hybrid Earth Clipper and Celestial Clipper) across 24 piers from Putney and Battersea Power Station through Westminster, London Bridge, Canary Wharf, and Greenwich to Woolwich and Barking Riverside, complemented by the historic free Woolwich Ferry (running since 1889) and the Tilbury–Gravesend Ferry.",
+    "lat": 51.5033,
+    "lon": -0.0195,
+    "zoom_inicial": 10.5,
+    "fontes": [
+      "thamesclippers-uk",
+      "tfl-river-uk"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "thames-clippers",
+      "uber-boat",
+      "woolwich-ferry",
+      "rio-tamisa",
+      "londres",
+      "greenwich",
+      "canary-wharf",
+      "reino-unido"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-neu75-lon-l1",
+        "nome": "Tronco Metropolitano do Tâmisa RB1 / RB6 (Putney ↔ Battersea ↔ Westminster ↔ Embankment ↔ London Bridge ↔ Canary Wharf ↔ Greenwich ↔ Barking Riverside)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 48,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-neu75-woo-l2",
+        "nome": "Travessias do Estuário Londrino (Canary Wharf ↔ Rotherhithe RB4, Woolwich Free Ferry & Tilbury ↔ Gravesend Ferry)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 37,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+    "slug": "calmac-firth-of-clyde-ardrossan-troon-brodick-isle-of-arran-wemyss-bay-rothesay-bute-largs-millport-cumbrae-gourock-dunoon-escocia-reino-unido",
+    "nome_pt": "Caledonian MacBrayne (CalMac) — Rede do Firth of Clyde (Ardrossan/Troon–Ilha de Arran, Wemyss Bay–Ilha de Bute, Largs–Cumbrae e Gourock–Dunoon, Escócia)",
+    "nome_en": "Caledonian MacBrayne (CalMac) — Firth of Clyde Network (Ardrossan/Troon–Isle of Arran, Wemyss Bay–Isle of Bute, Largs–Cumbrae & Gourock–Dunoon, Scotland)",
+    "pais": "Reino Unido",
+    "cidade": "Brodick (Ilha de Arran) / Rothesay (Ilha de Bute) / Wemyss Bay / Ardrossan / Troon / Largs / Millport (Cumbrae) / Gourock / Dunoon",
+    "uf": "Scotland (North Ayrshire / Inverclyde / Argyll and Bute)",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Caledonian MacBrayne (CalMac Ferries Ltd. — Scottish Government / CMAL)",
+    "inauguracao": "1851",
+    "extensao_km": 190,
+    "bitola": "N/A (Hidrovia Estuarina e Insular Ferro-Hidroviária do Firth of Clyde — Ferries Ro-Pax Dual-Fuel GNL e Híbridos)",
+    "eletrificacao": "Navios Ro-Pax Dual-Fuel GNL (MV Glen Sannox & MV Glen Rosa) e Ferries Ro-Pax (MV Bute, MV Argyle, MV Caledonian Isles e MV Loch Shira)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 14800,
+    "ano_referencia": 2026,
+    "investimento": "£ 350 milhões (incorporação dos novos ferries dual-fuel a GNL MV Glen Sannox e MV Glen Rosa na rota de Arran e modernização dos terminais de Brodick, Wemyss Bay e Gourock)",
+    "proximas_entregas": "Entrada em operação comercial do MV Glen Rosa ao lado do MV Glen Sannox no corredor da Ilha de Arran",
+    "resumo_pt": "O setor mais movimentado de toda a malha Caledonian MacBrayne (CalMac) na Escócia, famoso pela integração direta trem-barco com as linhas eletrificadas da ScotRail vindas de Glasgow Central: no sul do Firth of Clyde, os grandes ferries Ro-Pax (incluindo o novo navio dual-fuel a GNL MV Glen Sannox) conectam Ardrossan e Troon a Brodick (Ilha de Arran), além da travessia norte Lochranza–Claonaig; no centro e norte do estuário, a icônica estação ferroviária vitoriana de ferro e vidro de Wemyss Bay conecta-se em 35 minutos a Rothesay (Ilha de Bute), Largs liga-se a Great Cumbrae (Millport) em 10 minutos, e Gourock une-se a Dunoon e Kilcreggan.",
+    "resumo_en": "The busiest sector of Scotland's Caledonian MacBrayne (CalMac) network, renowned for its seamless rail-sea integration with ScotRail trains from Glasgow Central: in the southern Firth of Clyde, major Ro-Pax ferries (including the new dual-fuel LNG vessel MV Glen Sannox) link Ardrossan and Troon with Brodick on the Isle of Arran; further north, the iconic Victorian glass-roofed Wemyss Bay rail-pier connects in 35 minutes to Rothesay (Isle of Bute), Largs links to Great Cumbrae, and Gourock serves Dunoon and Kilcreggan.",
+    "lat": 55.76,
+    "lon": -4.98,
+    "zoom_inicial": 8.4,
+    "fontes": [
+      "calmac-scot-uk",
+      "cmassets-scot-uk"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "calmac",
+      "firth-of-clyde",
+      "isle-of-arran",
+      "brodick",
+      "isle-of-bute",
+      "wemyss-bay",
+      "escocia",
+      "reino-unido"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-neu75-arr-l1",
+        "nome": "Corredor da Ilha de Arran e Kintyre (Ardrossan Harbour / Troon ↔ Brodick Isle of Arran & Lochranza ↔ Claonaig / Tarbert ↔ Portavadie)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 115,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-neu75-but-l2",
+        "nome": "Corredor de Bute, Cumbrae e Cowal (Wemyss Bay ↔ Rothesay Isle of Bute, Largs ↔ Cumbrae Slip & Gourock ↔ Dunoon / Kilcreggan)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 75,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+    "slug": "color-line-fjord-line-dfds-skagerrak-kattegat-oslo-kiel-kristiansand-larvik-hirtshals-sandefjord-stromstad-bergen-stavanger-noruega-dinamarca-suecia-alemanha",
+    "nome_pt": "Color Line e Fjord Line — Autoestradas Marítimas do Skagerrak (Kristiansand/Larvik/Stavanger/Bergen ↔ Hirtshals, Sandefjord ↔ Strömstad Color Hybrid e Oslo ↔ Kiel, Noruega / Dinamarca / Suécia / Alemanha)",
+    "nome_en": "Color Line & Fjord Line — Skagerrak Motorways of the Sea (Kristiansand/Larvik/Stavanger/Bergen ↔ Hirtshals, Sandefjord ↔ Strömstad Color Hybrid & Oslo ↔ Kiel, Norway / Denmark / Sweden / Germany)",
+    "pais": "Noruega",
+    "cidade": "Oslo / Kristiansand / Larvik / Sandefjord / Stavanger / Bergen (NO) / Hirtshals (DK) / Strömstad (SE) / Kiel (DE)",
+    "uf": "Oslo / Agder / Vestfold / Rogaland / Vestland / Nordjylland",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Color Line AS (Color Hybrid, SuperSpeed 1 & 2, Color Magic & Color Fantasy) / Fjord Line AS (Fjord FSTR, MS Stavangerfjord & MS Bergensfjord)",
+    "inauguracao": "1990",
+    "extensao_km": 1380,
+    "bitola": "N/A (Autoestradas Marítimas Internacionais do Skagerrak e Mar do Norte — Maior Ferry Híbrido Plug-in do Mundo, Catamarãs HSC e Cruise Ferries)",
+    "eletrificacao": "Ferry Híbrido Plug-in MS Color Hybrid (carregamento terrestre de 5 MWh em Sandefjord), Catamarã Fjord FSTR (37 nós) e Navios SuperSpeed 1/2",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 17500,
+    "ano_referencia": 2026,
+    "investimento": "€ 290 milhões (construção do MS Color Hybrid, catamarã Fjord FSTR de 1.200 passageiros/404 carros e instalações de energia elétrica terrestre Shore Power em Oslo, Larvik, Kristiansand e Kiel)",
+    "proximas_entregas": "Conversão completa de motores dual-fuel e expansão de carregamento elétrico portuário nos terminais de Hirtshals e Kristiansand",
+    "resumo_pt": "As grandes pontes marítimas internacionais que ligam a Noruega à Dinamarca, à Suécia e à Alemanha através do Estreito de Skagerrak e do Fiorde de Oslo: entre Kristiansand/Larvik e Hirtshals (Dinamarca), os navios rápidos SuperSpeed 1 e SuperSpeed 2 da Color Line e o supercatamarã Fjord FSTR da Fjord Line cruzam o Skagerrak em apenas 2h15 a 3h15, enquanto os cruise ferries MS Stavangerfjord e MS Bergensfjord estendem a linha pela costa oeste norueguesa até Stavanger e Bergen; na boca do Fiorde de Oslo, o MS Color Hybrid (maior ferry híbrido plug-in do mundo) navega silenciosamente sem emissões nos fiordes entre Sandefjord (NO) e Strömstad (SE), enquanto os gigantes Color Magic e Color Fantasy ligam diariamente Oslo a Kiel (Alemanha).",
+    "resumo_en": "International maritime motorways linking Norway with Denmark, Sweden, and Germany across the Skagerrak and Oslofjord: Color Line's SuperSpeed 1 & 2 and Fjord Line's high-speed catamaran Fjord FSTR cross between Kristiansand/Larvik and Hirtshals (Denmark) in 2h15–3h15 alongside the Bergen–Stavanger–Hirtshals cruise ferries; across the outer Oslofjord, the world's largest plug-in hybrid ferry MS Color Hybrid connects Sandefjord (Norway) with Strömstad (Sweden), while Color Magic and Color Fantasy sail daily between Oslo and Kiel (Germany).",
+    "lat": 58.1467,
+    "lon": 8.005,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "colorline-no",
+      "fjordline-no"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "color-line",
+      "fjord-line",
+      "color-hybrid",
+      "kristiansand",
+      "hirtshals",
+      "sandefjord",
+      "oslo",
+      "kiel",
+      "noruega",
+      "dinamarca"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-neu75-ska-l1",
+        "nome": "Pontes Rápidas do Skagerrak (Bergen ↔ Stavanger ↔ Kristiansand / Larvik NO ↔ Hirtshals DK)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 640,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-neu75-osl-l2",
+        "nome": "Eixo Oslofjord — Color Hybrid & Linha Oslo–Kiel (Sandefjord NO ↔ Strömstad SE & Oslo Hjortnes ↔ Kiel Norwegenkai DE)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 740,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+    "slug": "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
+    "nome_pt": "Destination Gotland (Nynäshamn e Oskarshamn ↔ Visby) e Fåröleden (Fårösund ↔ Ilha de Fårö, Ilha de Gotlândia, Suécia)",
+    "nome_en": "Destination Gotland (Nynäshamn & Oskarshamn ↔ Visby) & Fåröleden (Fårösund ↔ Fårö Island, Gotland, Sweden)",
+    "pais": "Suécia",
+    "cidade": "Visby / Fårösund / Ilha de Fårö (Gotlândia) / Nynäshamn (Estocolmo) / Oskarshamn (Kalmar)",
+    "uf": "Gotlands län / Stockholms län / Kalmar län",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Destination Gotland AB (Rederi AB Gotland) / Trafikverket Färjerederiet (Fåröleden)",
+    "inauguracao": "1865",
+    "extensao_km": 420,
+    "bitola": "N/A (Autoestrada Marítima de Alta Velocidade do Mar Báltico — Ferries Ro-Pax a GNL/Biogás de 28,5 Nós)",
+    "eletrificacao": "Navios Ro-Pax de Alta Velocidade a GNL/Biogás (M/S Visborg & M/S Drotten — 1.650 passageiros e 500 carros) e Ferries SF 1500 (M/S Visby & M/S Gotland)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 5200,
+    "ano_referencia": 2026,
+    "investimento": "SEK 3,2 bilhões (navios a GNL/biogás M/S Visborg e M/S Drotten e projeto dos catamarãs movidos a hidrogênio Gotland Horizon X)",
+    "proximas_entregas": "Desenvolvimento da série Horizon de ferries rápidos a hidrogênio e biometano para a concessão 2027–2035 de Gotlândia",
+    "resumo_pt": "A linha vital de transporte público que une a Ilha de Gotlândia (a maior ilha do Mar Báltico e sede da cidade medieval hanseática de Visby, Patrimônio Mundial da UNESCO) ao continente sueco: operados pela Destination Gotland, os ferries rápidos Ro-Pax movidos a GNL e biogás (M/S Visborg e M/S Drotten, navegando a 28,5 nós) conectam Visby em cerca de 3 horas a Nynäshamn (ao sul de Estocolmo, com integração ferroviária direta na plataforma do terminal com o trem suburbano SL Pendeltåg 43) e a Oskarshamn (Småland); no extremo norte de Gotlândia, a Fåröleden da Trafikverket opera balsas gratuitas 24h entre Fårösund e a Ilha de Fårö.",
+    "resumo_en": "Sweden's national high-speed ferry lifeline linking Gotland (the Baltic Sea's largest island and home to the UNESCO World Heritage Hanseatic town of Visby) with the Swedish mainland: Destination Gotland's 28.5-knot LNG/biogas Ro-Pax ferries (M/S Visborg and M/S Drotten) connect Visby in ~3 hours with Nynäshamn (directly integrated with Stockholm's SL commuter rail) and Oskarshamn, complemented in northern Gotland by Trafikverket's 24/7 free Fårösund–Fårö Island cable/road ferries.",
+    "lat": 57.6348,
+    "lon": 18.2848,
+    "zoom_inicial": 6.8,
+    "fontes": [
+      "destinationgotland-se",
+      "trafikverket-se"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "gotlandia",
+      "visby",
+      "nynashamn",
+      "oskarshamn",
+      "faro",
+      "mar-baltico",
+      "suecia"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-neu75-got-l1",
+        "nome": "Tronco Continental – Gotlândia (Nynäshamn Estocolmo ↔ Visby Gotlândia & Oskarshamn ↔ Visby)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 385,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-neu75-far-l2",
+        "nome": "Travessias Setentrionais de Gotlândia (Fårösund ↔ Broa / Ilha de Fårö 24h & Nynäshamn / Fårö ↔ Parque Nacional de Gotska Sandön)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 35,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+    "slug": "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha",
+    "nome_pt": "Bornholmslinjen (Molslinjen) e Christiansøfarten — Travessias da Ilha de Bornholm (Ystad–Rønne no HSC Express 5, Køge–Rønne e Sassnitz–Rønne) e Gudhjem–Christiansø (Dinamarca / Suécia / Alemanha)",
+    "nome_en": "Bornholmslinjen (Molslinjen) & Christiansøfarten — Bornholm Island Ferries (Ystad–Rønne aboard HSC Express 5, Køge–Rønne & Sassnitz–Rønne) & Gudhjem–Christiansø (Denmark / Sweden / Germany)",
+    "pais": "Dinamarca",
+    "cidade": "Rønne / Gudhjem / Allinge (Ilha de Bornholm) / Christiansø / Ystad (Suécia) / Køge (Dinamarca) / Sassnitz (Alemanha)",
+    "uf": "Region Hovedstaden (Bornholm) / Skåne / Mecklenburg-Vorpommern",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Bornholmslinjen (Molslinjen A/S — HSC Express 5, HSC Express 1, M/F Hammershus & M/F Povl Anker) / Christiansøfarten (M/S Ertholm)",
+    "inauguracao": "1866",
+    "extensao_km": 510,
+    "bitola": "N/A (Hidrovia Internacional do Mar Báltico Sul — Maior Catamarã Ro-Pax Rápido do Mundo por Tonelagem HSC Express 5)",
+    "eletrificacao": "Supercatamarãs Ro-Pax Austal de 115m (HSC Express 5 — 1.610 passageiros, 451 carros, 40 nós) e Ferries Ro-Pax (M/F Hammershus)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6100,
+    "ano_referencia": 2026,
+    "investimento": "€ 115 milhões (entrada em operação do supercatamarã HSC Express 5 na rota Rønne–Ystad e modernização do Porto de Rønne em Bornholm)",
+    "proximas_entregas": "Abastecimento com combustíveis sintéticos verdes (e-methanol) nos catamarãs rápidos de Bornholm",
+    "resumo_pt": "O corredor hidroviário trinacional que conecta a ilha dinamarquesa de Bornholm (no meio do Mar Báltico Sul) à Suécia, ao restante da Dinamarca e à Alemanha: na rota principal Rønne (Bornholm) ↔ Ystad (Suécia), integrada aos trens para Copenhague pela Ponte de Øresund, a Bornholmslinjen opera o HSC Express 5 (construído pela Austal, o maior catamarã rápido de veículos e passageiros do mundo por arqueação bruta, transportando 1.610 passageiros e 451 carros em apenas 1h20), além do ferry noturno M/F Hammershus para Køge (ao sul de Copenhague) e Sassnitz/Mukran (Ilha de Rügen, Alemanha); na costa nordeste de Bornholm, os barcos da Christiansøfarten unem Gudhjem à histórica fortaleza insular de Christiansø (Arquipélago de Ertholmene).",
+    "resumo_en": "Tri-national Baltic Sea ferry network connecting the Danish island of Bornholm with Sweden, mainland Denmark, and Germany: on the flagship Rønne (Bornholm) ↔ Ystad (Sweden) route (integrated with rail links across the Øresund Bridge to Copenhagen), Bornholmslinjen operates the 115-meter Austal catamaran HSC Express 5 (the world's largest high-speed Ro-Pax catamaran by gross tonnage, carrying 1,610 passengers and 451 cars in 80 minutes), alongside Ro-Pax ferries to Køge (Denmark) and Sassnitz/Mukran (Rügen, Germany), plus Christiansøfarten passenger boats from Gudhjem to the island fortress of Christiansø.",
+    "lat": 55.1019,
+    "lon": 14.6939,
+    "zoom_inicial": 7.2,
+    "fontes": [
+      "bornholmslinjen-dk",
+      "christiansoefarten-dk"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "ferry",
+      "bornholm",
+      "ronne",
+      "ystad",
+      "koge",
+      "sassnitz",
+      "christianso",
+      "dinamarca",
+      "suecia",
+      "alemanha"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-neu75-bor-l1",
+        "nome": "Expresso Rønne – Ystad & Rotas para Køge e Rügen (Rønne Bornholm DK ↔ Ystad SE, Rønne ↔ Køge DK & Rønne ↔ Sassnitz Mukran DE)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 465,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-neu75-chr-l2",
+        "nome": "Travessia do Arquipélago de Ertholmene (Gudhjem / Allinge Bornholm ↔ Fortaleza Insular de Christiansø)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 45,
+        "estacoes": 2
+      }
+    ]
   }
 ]
