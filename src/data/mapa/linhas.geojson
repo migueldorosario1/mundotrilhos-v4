@@ -61824,6 +61824,286 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-sci-l1",
+        "nome": "Scillonian III & Scilly Inter-Island Launches (Penzance Harbour ↔ St Mary's ↔ Tresco / Bryher / St Martin's / St Agnes)",
+        "sistema_id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-tresco-bryher-st-martins-st-agnes-lundy-island-ms-oldenburg-inglaterra-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.5312,
+            50.1165
+          ],
+          [
+            -6.3175,
+            49.9145
+          ],
+          [
+            -6.3352,
+            49.9512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-lun-l2",
+        "nome": "Lundy Island MS Oldenburg Line (Ilfracombe / Bideford ↔ Lundy Island Landing Bay)",
+        "sistema_id": "isles-of-scilly-steamship-scillonian-iii-penzance-st-marys-tresco-bryher-st-martins-st-agnes-lundy-island-ms-oldenburg-inglaterra-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.1192,
+            51.2105
+          ],
+          [
+            -4.3852,
+            51.1852
+          ],
+          [
+            -4.6615,
+            51.1642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-sco-l1",
+        "nome": "Firth of Clyde & Kerrera Ferries (Gourock McInroy's Point ↔ Dunoon Hunter's Quay / Kilcreggan & Oban ↔ Kerrera)",
+        "sistema_id": "western-ferries-mcgill-gourock-mcInroys-point-dunoon-hunters-quay-kilcreggan-clyde-kerrera-small-isles-eigg-muck-rum-canna-escocia-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.8512,
+            55.9482
+          ],
+          [
+            -4.9185,
+            55.9735
+          ],
+          [
+            -5.5025,
+            56.3952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-sco-l2",
+        "nome": "CalMac Small Isles Service (Mallaig Harbour ↔ Eigg ↔ Muck ↔ Rum ↔ Canna)",
+        "sistema_id": "western-ferries-mcgill-gourock-mcInroys-point-dunoon-hunters-quay-kilcreggan-clyde-kerrera-small-isles-eigg-muck-rum-canna-escocia-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.8285,
+            57.0062
+          ],
+          [
+            -6.1315,
+            56.8785
+          ],
+          [
+            -6.4915,
+            57.0565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-ire-l1",
+        "nome": "Aran Islands Network (Galway / Rossaveel ↔ Inis Mór / Kilronan ↔ Inis Meáin ↔ Inis Oírr ↔ Doolin)",
+        "sistema_id": "aran-island-ferries-rossaveel-galway-doolin-inishmore-inishmaan-inisheer-clifden-inishbofin-clare-island-achill-irlanda",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.5585,
+            53.2682
+          ],
+          [
+            -9.6652,
+            53.1185
+          ],
+          [
+            -9.5215,
+            53.0652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-ire-l2",
+        "nome": "Connemara & Clew Bay Island Ferries (Cleggan ↔ Inishbofin & Roonagh Point ↔ Clare Island / Inishturk)",
+        "sistema_id": "aran-island-ferries-rossaveel-galway-doolin-inishmore-inishmaan-inisheer-clifden-inishbofin-clare-island-achill-irlanda",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.1985,
+            53.6125
+          ],
+          [
+            -10.0512,
+            53.6885
+          ],
+          [
+            -9.9042,
+            53.7625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-ni-l1",
+        "nome": "Rathlin Island & Lough Foyle Ferries (Ballycastle ↔ Church Bay Rathlin Island & Magilligan ↔ Greencastle Donegal)",
+        "sistema_id": "rathlin-island-ferry-ballycastle-church-bay-strangford-lough-ferry-portaferry-strangford-carlingford-lough-greencastle-greenore-irlanda-do-norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.9615,
+            55.1925
+          ],
+          [
+            -6.2385,
+            55.2065
+          ],
+          [
+            -6.1945,
+            55.2915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-ni-l2",
+        "nome": "Strangford Lough & Carlingford Lough Ro-Pax Ferries (Portaferry ↔ Strangford & Greencastle Down ↔ Greenore Louth)",
+        "sistema_id": "rathlin-island-ferry-ballycastle-church-bay-strangford-lough-ferry-portaferry-strangford-carlingford-lough-greencastle-greenore-irlanda-do-norte",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.5512,
+            54.3725
+          ],
+          [
+            -5.8315,
+            54.2015
+          ],
+          [
+            -6.1125,
+            54.0352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-cor-l1",
+        "nome": "Fal River & Fowey Estuary Ferries (Falmouth ↔ St Mawes ↔ King Harry Ferry ↔ Fowey / Polruan / Bodinnick)",
+        "sistema_id": "falmouth-st-mawes-king-harry-ferry-truro-fal-river-salcombe-dartmouth-torbay-plymouth-cremyll-cawsand-fowey-polruan-devon-cornualha-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.0685,
+            50.1552
+          ],
+          [
+            -5.0325,
+            50.2195
+          ],
+          [
+            -4.6335,
+            50.3342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-uk57-dev-l2",
+        "nome": "Plymouth Sound & River Dart Ferries (Plymouth Cremyll / Cawsand / Mount Batten ↔ Dartmouth / Kingswear)",
+        "sistema_id": "falmouth-st-mawes-king-harry-ferry-truro-fal-river-salcombe-dartmouth-torbay-plymouth-cremyll-cawsand-fowey-polruan-devon-cornualha-reino-unido",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.1652,
+            50.3635
+          ],
+          [
+            -3.8712,
+            50.3565
+          ],
+          [
+            -3.5765,
+            50.3512
+          ]
+        ]
+      }
     }
   ]
 }
