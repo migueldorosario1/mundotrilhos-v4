@@ -49178,5 +49178,325 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "fjord1-norled-e39-coastal-highway-electric-ferries-mortavika-arsvagen-halhjem-sandvikvag-lavik-oppedal-anda-lote-molde-vestnes-noruega",
+    "slug": "fjord1-norled-e39-coastal-highway-electric-ferries-mortavika-arsvagen-halhjem-sandvikvag-lavik-oppedal-anda-lote-molde-vestnes-noruega",
+    "nome_pt": "Ferries Elétricos e a Hidrogênio da E39 Costeira (Mortavika–Arsvågen, Halhjem–Sandvikvåg, Lavik–Oppedal, Anda–Lote e Molde–Vestnes, Noruega)",
+    "nome_en": "E39 Coastal Highway Electric & Hydrogen Ferries (Mortavika–Arsvågen, Halhjem–Sandvikvåg, Lavik–Oppedal, Anda–Lote & Molde–Vestnes, Norway)",
+    "pais": "Noruega",
+    "cidade": "Stavanger / Bergen / Lavik / Sandane / Molde",
+    "uf": "Rogaland / Vestland / Møre og Romsdal",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Fjord1 ASA / Norled AS / Boreal Sjø (Statens vegvesen E39 Ferjesamband)",
+    "inauguracao": "1955",
+    "extensao_km": 480,
+    "bitola": "N/A (Hidrovia Rodoviária Nacional E39 através dos Grandes Fiordes Ocidentais da Noruega)",
+    "eletrificacao": "Frota 100% Elétrica a Bateria (MF Ampere, Gloppefjord,ote), Híbrida GNL e a Hidrogênio Líquido (MF Hydra)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 34000,
+    "ano_referencia": 2026,
+    "investimento": "Pioneirismo mundial com o MF Ampere (primeiro ferry Ro-Pax elétrico do mundo em Lavik–Oppedal) e MF Hydra (primeiro ferry a hidrogênio líquido do mundo em Hjelmeland)",
+    "proximas_entregas": "Sistemas de atracação automática a vácuo e carregamento indutivo/megawatt em todos os terminais da E39",
+    "resumo_pt": "O mais avançado corredor mundial de ferries Ro-Pax de zero emissão ao longo da rodovia tronco E39 na costa oeste da Noruega (entre Kristiansand, Stavanger, Bergen, Ålesund, Molde e Trondheim): inclui a travessia Lavik–Oppedal no Sognefjord (onde estreou em 2015 o MF Ampere da Norled, primeiro ferry elétrico a bateria de grande porte do planeta), Anda–Lote no Nordfjord (com sistemas de navegação autônoma da Fjord1), Halhjem–Sandvikvåg no Bjørnafjord, Mortavika–Arsvågen no Boknafjord (ao lado do MF Hydra movido a hidrogênio líquido em Hjelmeland) e Molde–Vestnes no Romsdalsfjord.",
+    "resumo_en": "The world's most advanced zero-emission Ro-Pax ferry corridor along Norway's coastal trunk highway E39 across the western fjords: includes Lavik–Oppedal on the Sognefjord (home to Norled's pioneering battery-electric MF Ampere), Anda–Lote on the Nordfjord, Halhjem–Sandvikvåg on the Bjørnafjord, Mortavika–Arsvågen on the Boknafjord (alongside the liquid-hydrogen ferry MF Hydra in Hjelmeland) and Molde–Vestnes on the Romsdalsfjord.",
+    "lat": 61.1025,
+    "lon": 5.5125,
+    "zoom_inicial": 6.0,
+    "fontes": [
+      "vegvesen-no",
+      "fjord1-no",
+      "norled-no"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "eletrico",
+      "hidrogenio",
+      "noruega",
+      "e39",
+      "sognefjord",
+      "bergen",
+      "stavanger",
+      "molde"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-sca65-e39-l1",
+        "nome": "E39 Sul e Centro — Boknafjord, Bjørnafjord e Sognefjord (Mortavika ↔ Arsvågen & Halhjem ↔ Sandvikvåg & Lavik ↔ Oppedal)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 240,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-sca65-e39-l2",
+        "nome": "E39 Norte — Nordfjord e Romsdalsfjord (Anda ↔ Lote & Solevåg ↔ Festøya & Molde ↔ Vestnes)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 240,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "trafikverket-farjerederiet-honoleden-gullmarsleden-lysekil-kornhall-ljusteroleden-furusund-vaxon-rindolen-suecia",
+    "slug": "trafikverket-farjerederiet-honoleden-gullmarsleden-lysekil-kornhall-ljusteroleden-furusund-vaxon-rindolen-suecia",
+    "nome_pt": "Trafikverket Färjerederiet Suécia: Hönöleden (Gotemburgo) e Gullmarsleden (Lysekil) na Costa Oeste e Vaxholmsleden / Ljusteröleden / Furusund (Estocolmo)",
+    "nome_en": "Trafikverket Färjerederiet Sweden: Hönöleden (Gothenburg) & Gullmarsleden (Lysekil) on the West Coast & Vaxholmsleden / Ljusteröleden / Furusund (Stockholm)",
+    "pais": "Suécia",
+    "cidade": "Gotemburgo (Öckerö/Hönö) / Lysekil / Vaxholm / Ljusterö / Norrtälje",
+    "uf": "Västra Götaland / Stockholm",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Trafikverket Färjerederiet (Administração Nacional de Transportes da Suécia)",
+    "inauguracao": "1944",
+    "extensao_km": 290,
+    "bitola": "N/A (Rede Estatal de Ferries Rodoviários Amarelos da Suécia — 40 rotas gratuitas)",
+    "eletrificacao": "Ferries Elétricos a Cabo e a Bateria (Tellus / Marie / Neptunus) e Frota Híbrida HVO100",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 62000,
+    "ano_referencia": 2026,
+    "investimento": "Programa Vision 45 da Trafikverket para eletrificação e descarbonização total das 40 rotas estatais de ferries da Suécia",
+    "proximas_entregas": "Novos ferries elétricos autônomos e com carregamento em terra nas rotas de Vaxholm, Ljusterö e Hönö",
+    "resumo_pt": "A maior companhia de navegação da Suécia — a divisão Färjerederiet da Trafikverket, famosa pelos seus 'ferries amarelos' gratuitos que funcionam como pontes móveis da malha rodoviária nacional: na Costa Oeste (Bohuslän e Arquipélago Norte de Gotemburgo), opera a movimentadíssima Hönöleden (Lilla Varholmen–Hönö/Björkö, com mais de 2,5 milhões de veículos/ano), a Gullmarsleden (Finnsbo–Skår/Lysekil, onde estreou o ferry elétrico Tellus), Bohus-Malmön e Kornhallsleden; na Costa Leste (Arquipélago de Estocolmo), opera as rotas de alta frequência de Vaxholmsleden (Vaxholm–Rindö–Värmdö), Ljusteröleden (Östanå–Ljusterö) e Furusund–Yxlan–Blidö.",
+    "resumo_en": "Sweden's largest shipping operator — Trafikverket Färjerederiet, operating the country's iconic toll-free yellow highway ferries: on the West Coast, it runs Sweden's busiest ferry route Hönöleden (Gothenburg Lilla Varholmen–Hönö/Björkö) and Gullmarsleden (Lysekil, home to the battery-electric ferry Tellus); in the Stockholm Archipelago, it operates Vaxholmsleden (Vaxholm–Rindö), Ljusteröleden (Östanå–Ljusterö) and Furusund–Yxlan–Blidö.",
+    "lat": 57.7052,
+    "lon": 11.6925,
+    "zoom_inicial": 5.8,
+    "fontes": [
+      "trafikverket-se"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "suecia",
+      "gotemburgo",
+      "hono",
+      "lysekil",
+      "estocolmo",
+      "vaxholm",
+      "ljustero",
+      "trafikverket"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-sca65-swe-l1",
+        "nome": "Costa Oeste — Bohuslän e Gotemburgo (Lilla Varholmen ↔ Hönö / Björkö & Gullmarsleden Finnsbo ↔ Skår / Lysekil)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 140,
+        "estacoes": 2
+      },
+      {
+        "id": "hidro-sca65-swe-l2",
+        "nome": "Arquipélago de Estocolmo — Trafikverket (Vaxholm ↔ Rindö & Östanå ↔ Ljusterö & Furusund ↔ Yxlan ↔ Blidö)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 150,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "finferries-saariston-rengastie-parainen-nauvo-korppoo-houtskari-iniö-kustavi-utö-kotka-rankki-haapasaari-finlandia",
+    "slug": "finferries-saariston-rengastie-parainen-nauvo-korppoo-houtskari-iniö-kustavi-utö-kotka-rankki-haapasaari-finlandia",
+    "nome_pt": "Finferries Estrada Anelar do Arquipélago de Turku (Parainen–Nauvo–Korppoo–Houtskari–Iniö–Utö) e Kotka–Haapasaari (Finlândia)",
+    "nome_en": "Finferries Archipelago Ring Road (Parainen–Nauvo–Korppoo–Houtskari–Iniö–Utö) & Kotka–Haapasaari Ferries (Finland)",
+    "pais": "Finlândia",
+    "cidade": "Parainen / Nauvo / Korppoo / Houtskari / Utö / Kotka",
+    "uf": "Varsinais-Suomi / Kymenlaakso",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Finferries (Suomen Lauttaliikenne Oy)",
+    "inauguracao": "1950",
+    "extensao_km": 380,
+    "bitola": "N/A (Hidrovia Insular e Quebra-Gelo do Mar do Arquipélago e Golfo da Finlândia)",
+    "eletrificacao": "Ferries Elétricos Híbridos Quebra-Gelo de 98 metros (Elektra e Altera em Parainen–Nauvo)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 21000,
+    "ano_referencia": 2026,
+    "investimento": "Dupla de ferries elétricos híbridos quebra-gelo Elektra e Altera na rota principal Parainen–Nauvo",
+    "proximas_entregas": "Expansão da propulsão elétrica a bateria nas travessias de Nauvo–Korppoo e Korppoo–Houtskari",
+    "resumo_pt": "Espinha dorsal pública do Mar do Arquipélago da Finlândia (que possui mais de 40.000 ilhas e ilhotas): a estatal Finferries opera os grandes ferries elétricos híbridos quebra-gelo Elektra e Altera entre Parainen (Lillmälö) e Nauvo (Prostvik), prosseguindo por toda a famosa Estrada Anelar do Arquipélago (Saariston Rengastie) através de Korppoo, Houtskari, Iniö e Kustavi, além dos navios de conexão (yhteysalus como o MS Baldur) até as ilhas remotas de Jurmo e Utö (a ilha habitada mais meridional da Finlândia) e do MS Otava em Kotka no Golfo da Finlândia.",
+    "resumo_en": "Public maritime backbone of Finland's Archipelago Sea: state-owned Finferries operates the 98-meter ice-class battery-hybrid ferries Elektra and Altera between Parainen and Nauvo along the Archipelago Ring Road through Korppoo, Houtskari, Iniö and Kustavi, plus commuter vessels (MS Baldur) to outer islands Jurmo and Utö and MS Otava from Kotka in the Gulf of Finland.",
+    "lat": 60.2285,
+    "lon": 22.1285,
+    "zoom_inicial": 7.0,
+    "fontes": [
+      "finferries-fi",
+      "vaylapilvi-fi"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "eletrico",
+      "finlandia",
+      "turku",
+      "parainen",
+      "nauvo",
+      "korppoo",
+      "uto",
+      "kotka"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-sca65-fin-l1",
+        "nome": "Estrada Anelar do Arquipélago — Finferries (Parainen Lillmälö ↔ Nauvo Prostvik ↔ Korppoo ↔ Houtskari ↔ Iniö ↔ Kustavi)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 195,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-sca65-fin-l2",
+        "nome": "Arquipélago Externo de Utö e Golfo da Finlândia (Korppoo Verkan ↔ Jurmo ↔ Utö & Kotka Sapokka ↔ Rankki ↔ Haapasaari)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 185,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "laeso-faergen-frederikshavn-vesteroe-grenaa-anholt-aeroe-faergerne-svendborg-aeroeskoebing-soby-fynshav-faaborg-dinamarca",
+    "slug": "laeso-faergen-frederikshavn-vesteroe-grenaa-anholt-aeroe-faergerne-svendborg-aeroeskoebing-soby-fynshav-faaborg-dinamarca",
+    "nome_pt": "Læsøfærgen (Frederikshavn–Læsø), Grenaa–Anholt Færgefart e Ærøfærgerne / E-Ferry Ellen (Svendborg/Fynshav/Faaborg–Ilha de Ærø, Dinamarca)",
+    "nome_en": "Læsøfærgen (Frederikshavn–Læsø), Grenaa–Anholt Ferry & Ærøfærgerne / E-Ferry Ellen (Svendborg/Fynshav/Faaborg–Ærø Island, Denmark)",
+    "pais": "Dinamarca",
+    "cidade": "Frederikshavn / Læsø / Grenaa / Anholt / Svendborg / Ærø",
+    "uf": "Nordjylland / Midtjylland / Syddanmark",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Læsøfærgen / Grenaa–Anholt Færgefart / Ærøfærgerne A/S",
+    "inauguracao": "1931",
+    "extensao_km": 295,
+    "bitola": "N/A (Hidrovia Insular do Mar de Kattegat e Arquipélago do Sul de Fiónia)",
+    "eletrificacao": "E-Ferry Ellen (100% Elétrico de Longo Alcance 4,3 MWh em Søby–Fynshav) e Ferries Ro-Pax Margrete Læsø / Ærøskøbing",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 9500,
+    "ano_referencia": 2026,
+    "investimento": "Projeto europeu Horizon 2020 do E-Ferry Ellen (capaz de navegar 22 milhas náuticas puramente a bateria) e novos ferries elétricos Greenhopper para Svendborg–Ærø",
+    "proximas_entregas": "Substituição das demais embarcações de Ærøfærgerne por ferries 100% elétricos",
+    "resumo_pt": "Três emblemáticas ligações insulares da Dinamarca no Mar de Kattegat e no Mar Báltico ocidental: no norte da Jutlândia, a Læsøfærgen conecta em 90 minutos Frederikshavn a Vesterø Havn na Ilha de Læsø; no centro do Kattegat, o ferry de Grenaa navega até a isolada Ilha de Anholt; e no Arquipélago do Sul de Fiónia, a municipal Ærøfærgerne conecta a histórica Ilha de Ærø (Ærøskøbing e Søby) a Svendborg, Faaborg e Fynshav (Ilha de Als), operando desde 2019 o pioneiro E-Ferry Ellen, que bateu o recorde mundial de alcance para um ferry Ro-Pax 100% elétrico a bateria (4,3 MWh).",
+    "resumo_en": "Three signature Danish island ferry networks across the Kattegat and South Funen Archipelago: in North Jutland, Læsøfærgen connects Frederikshavn to Læsø Island in 90 minutes; in the central Kattegat, the Grenaa ferry serves remote Anholt Island; and in southern Denmark, municipal operator Ærøfærgerne links Ærø Island (Ærøskøbing and Søby) to Svendborg, Faaborg and Fynshav, operating the world-record long-range 4.3 MWh 100% battery-electric E-Ferry Ellen.",
+    "lat": 55.0585,
+    "lon": 10.6142,
+    "zoom_inicial": 6.4,
+    "fontes": [
+      "trm-dk",
+      "aeroe-ferry-dk"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "eletrico",
+      "dinamarca",
+      "laeso",
+      "anholt",
+      "aero",
+      "svendborg",
+      "frederikshavn",
+      "kattegat"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-sca65-den-l1",
+        "nome": "Ilhas do Mar de Kattegat (Frederikshavn ↔ Vesterø Havn Læsø & Grenaa ↔ Ilha de Anholt)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 175,
+        "estacoes": 2
+      },
+      {
+        "id": "hidro-sca65-den-l2",
+        "nome": "Arquipélago do Sul de Fiónia & E-Ferry Ellen (Svendborg ↔ Ærøskøbing & Søby ↔ Fynshav / Faaborg)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 120,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "tampere-hopealinjat-nasijarvi-pyhajarvi-visuvesi-jyvaskyla-lahti-paijanne-kuopio-kallavesi-inland-lakes-finlandia",
+    "slug": "tampere-hopealinjat-nasijarvi-pyhajarvi-visuvesi-jyvaskyla-lahti-paijanne-kuopio-kallavesi-inland-lakes-finlandia",
+    "nome_pt": "Hopealinjat & Navegação da Região dos Mil Lagos (Tampere–Hämeenlinna/Virrat, Jyväskylä–Lahti no Lago Päijänne e Kuopio–Kallavesi, Finlândia)",
+    "nome_en": "Hopealinjat & Finnish Lakeland Navigation (Tampere–Hämeenlinna/Virrat, Jyväskylä–Lahti on Lake Päijänne & Kuopio–Kallavesi, Finland)",
+    "pais": "Finlândia",
+    "cidade": "Tampere / Hämeenlinna / Virrat / Jyväskylä / Lahti / Kuopio",
+    "uf": "Pirkanmaa / Keski-Suomi / Pohjois-Savo",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Hopealinjat Oy / Päijänne-Risteilyt Hilden / Koski-Laiva Kuopio",
+    "inauguracao": "1866",
+    "extensao_km": 440,
+    "bitola": "N/A (Hidrovia Lacustre Interior dos Lagos Näsijärvi, Pyhäjärvi, Päijänne e Kallavesi)",
+    "eletrificacao": "Históricos Navios a Vapor (SS Tarjanne de 1908) e Navios de Passageiros Lacustres (MS Silver Sky / Suomen Neito)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 6500,
+    "ano_referencia": 2026,
+    "investimento": "Integração dos portos de Laukontori e Mustalahti com o novo VLT de Tampere (Tampereen Ratikka) e terminal intermodal de Jyväskylä Lutakko",
+    "proximas_entregas": "Modernização ecológica da frota da Hopealinjat nos lagos de Tampere",
+    "resumo_pt": "Tradicional rede de transporte de passageiros das grandes bacias lacustres do interior da Finlândia (complementando o Lago Saimaa): em Tampere, a Hopealinjat opera a travessia urbana de 20 minutos entre Laukontori e a ilha-parque de Viikinsaari, a 'Rota da Prata' pelo Lago Pyhäjärvi até Hämeenlinna e a histórica 'Rota do Poeta' (Runoilijan tie) a bordo do vapor SS Tarjanne (de 1908) pelo Lago Näsijärvi de Mustalahti até Ruovesi e Virrat; a leste, navios regulares percorrem os 120 km do Lago Päijänne (segundo maior lago da Finlândia) entre Jyväskylä e Lahti e navegam pelo Lago Kallavesi a partir do porto de Kuopio.",
+    "resumo_en": "Traditional passenger navigation across Finland's major western and central lake basins: in Tampere, Hopealinjat operates the urban ferry from Laukontori to Viikinsaari Island, the Silver Line across Lake Pyhäjärvi to Hämeenlinna, and the historic Poet's Way aboard the 1908 steamer SS Tarjanne across Lake Näsijärvi to Ruovesi and Virrat; further east, passenger vessels traverse the 120 km length of Lake Päijänne between Jyväskylä and Lahti and sail Lake Kallavesi from Kuopio.",
+    "lat": 61.4925,
+    "lon": 23.7585,
+    "zoom_inicial": 6.4,
+    "fontes": [
+      "hopealinjat-fi",
+      "vaylapilvi-fi"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "hidrovia",
+      "finlandia",
+      "tampere",
+      "nasijarvi",
+      "paijanne",
+      "jyvaskyla",
+      "lahti",
+      "kuopio",
+      "kallavesi"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-sca65-lak-l1",
+        "nome": "Lagos de Tampere — Rota da Prata e Rota do Poeta (Hämeenlinna ↔ Tampere Laukontori / Viikinsaari & Mustalahti ↔ Ruovesi ↔ Virrat)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 220,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-sca65-lak-l2",
+        "nome": "Hidrovia do Lago Päijänne e Lago Kallavesi (Lahti ↔ Padasjoki ↔ Jyväskylä Lutakko & Kuopio Harbour)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 220,
+        "estacoes": 2
+      }
+    ]
   }
 ]

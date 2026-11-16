@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T04:44:00-03:00",
+  "atualizado_em": "2026-11-16T05:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2553,6 +2553,22 @@
         "friendly-islands-shipping-agency-fisa-mv-otuangaofa-nukualofa-eua-lifuka-haapai-neiafu-vavau-niuafoou-niuatoputapu-tonga",
         "pelican-express-aelan-bae-honiara-auki-malaita-tulagi-noru-gizo-ilhas-salomao-big-sista-port-vila-santo-tanna-vanuatu"
       ]
+    },
+    {
+      "ordem": 177,
+      "codigo": "HIDRO-ESCANDINAVIA-BALTICO-NORUEGA-SUECIA-FINLANDIA-DINAMARCA-VI",
+      "pais": "Fase Hidroviária Mundial #65 — Escandinávia, Fiordes Ocidentais, Arquipélagos Suecos e Lagos Finlandeses VI (Ferries Elétricos e a Hidrogênio da E39 Costeira Mortavika–Arsvågen, Halhjem–Sandvikvåg, Lavik–Oppedal, Anda–Lote e Molde–Vestnes na Noruega; Trafikverket Färjerederiet Hönöleden e Gullmarsleden na Costa Oeste e Vaxholmsleden/Ljusteröleden/Furusund em Estocolmo na Suécia; Finferries Estrada Anelar do Arquipélago de Turku Parainen–Nauvo–Korppoo–Houtskari–Iniö–Utö e Kotka–Haapasaari na Finlândia; Læsøfærgen, Grenaa–Anholt e Ærøfærgerne / E-Ferry Ellen na Dinamarca; e Hopealinjat & Navegação da Região dos Mil Lagos em Tampere, Lago Päijänne e Kuopio na Finlândia)",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 181,
+      "sistemas_adicionados": [
+        "fjord1-norled-e39-coastal-highway-electric-ferries-mortavika-arsvagen-halhjem-sandvikvag-lavik-oppedal-anda-lote-molde-vestnes-noruega",
+        "trafikverket-farjerederiet-honoleden-gullmarsleden-lysekil-kornhall-ljusteroleden-furusund-vaxon-rindolen-suecia",
+        "finferries-saariston-rengastie-parainen-nauvo-korppoo-houtskari-iniö-kustavi-utö-kotka-rankki-haapasaari-finlandia",
+        "laeso-faergen-frederikshavn-vesteroe-grenaa-anholt-aeroe-faergerne-svendborg-aeroeskoebing-soby-fynshav-faaborg-dinamarca",
+        "tampere-hopealinjat-nasijarvi-pyhajarvi-visuvesi-jyvaskyla-lahti-paijanne-kuopio-kallavesi-inland-lakes-finlandia"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2700,14 +2716,6 @@
         "sunflower-ferry-mol-hankyu-ferry-shin-nihonkai-osaka-kobe-beppu-kitakyushu-maizuru-otaru-tomakomai-long-distance-ferries-japao",
         "panstar-cruise-camellia-line-jr-beetle-busan-tsushima-hitakatsu-izuhara-fukuoka-osaka-jeju-udo-marado-coreia-do-sul-japao"
       ]
-    },
-    {
-      "ordem": 177,
-      "codigo": "HIDRO-ESCANDINAVIA-BALTICO-NORUEGA-SUECIA-FINLANDIA-DINAMARCA-VI",
-      "pais": "Fase Hidroviária Mundial #65 — Escandinávia, Fiordes Ocidentais, Arquipélagos Suecos e Lagos Finlandeses VI",
-      "continente": "Europa",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (Fjord1 / Norled Molde–Vestnes, Anda–Lote, Lavik–Oppedal, Mortavika–Arsvågen e Halhjem–Sandvikvåg na E39 Costeira da Noruega; Trafikverket Färjerederiet Hönöleden, Gullmarsleden e Ljusteröleden na Suécia; Finferries Parainen–Nauvo–Korppoo no Arquipélago de Turku na Finlândia; e Ferries de Læsø, Anholt e Ærø na Dinamarca)"
     },
     {
       "ordem": 178,
