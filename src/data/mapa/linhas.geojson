@@ -64400,6 +64400,290 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-cam-l1",
+        "nome": "Hidrovia da Baía de Camamu (Porto de Camamu ↔ Ilha Grande / Cajaíba ↔ Campinho / Sapinho ↔ Barra Grande / Maraú)",
+        "sistema_id": "travessias-baia-de-camamu-barra-grande-campinho-maraU-boipeba-valenca-cairu-rio-paraguacu-maragojipe-cachoeira-ba",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.1025,
+            -13.9452
+          ],
+          [
+            -39.0185,
+            -13.9185
+          ],
+          [
+            -38.9415,
+            -13.8865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-par-l2",
+        "nome": "Hidrovia do Rio Paraguaçu e Baía do Iguape (Cachoeira / São Félix ↔ Santiago do Iguape ↔ Maragojipe)",
+        "sistema_id": "travessias-baia-de-camamu-barra-grande-campinho-maraU-boipeba-valenca-cairu-rio-paraguacu-maragojipe-cachoeira-ba",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.9542,
+            -12.6025
+          ],
+          [
+            -38.8752,
+            -12.7125
+          ],
+          [
+            -38.9185,
+            -12.7785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-bsf-l1",
+        "nome": "Travessias do Estuário e Penedo (Piaçabuçu AL ↔ Brejo Grande SE & Penedo AL ↔ Neópolis / Santana do São Francisco SE)",
+        "sistema_id": "travessias-baixo-sao-francisco-penedo-neopolis-propria-porto-real-do-colegio-piacabucu-brejo-grande-gararu-traipu-al-se",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -36.4325,
+            -10.4085
+          ],
+          [
+            -36.5785,
+            -10.3185
+          ],
+          [
+            -36.5825,
+            -10.2925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-bsf-l2",
+        "nome": "Travessias de Propriá e Alto Sertão Sergipano/Alagoano (Porto Real do Colégio ↔ Propriá ↔ Gararu ↔ Traipu)",
+        "sistema_id": "travessias-baixo-sao-francisco-penedo-neopolis-propria-porto-real-do-colegio-piacabucu-brejo-grande-gararu-traipu-al-se",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -36.8385,
+            -10.2115
+          ],
+          [
+            -36.9125,
+            -10.0885
+          ],
+          [
+            -37.0025,
+            -9.9715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-ita-l1",
+        "nome": "Ferry Boat Foz do Rio Itajaí-Açu (Itajaí Centro ↔ Navegantes Centro & Barra do Rio ↔ Machados)",
+        "sistema_id": "travessias-rio-itajai-acu-itajai-navegantes-ferry-boat-laguna-ilha-cabo-de-santa-marta-camacho-sc",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.6815,
+            -26.8852
+          ],
+          [
+            -48.6552,
+            -26.9025
+          ],
+          [
+            -48.6525,
+            -26.8985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-lag-l2",
+        "nome": "Travessia de Balsas do Canal da Barra de Laguna (Molhes da Barra Laguna ↔ Passagem da Barra / Cabo de Santa Marta)",
+        "sistema_id": "travessias-rio-itajai-acu-itajai-navegantes-ferry-boat-laguna-ilha-cabo-de-santa-marta-camacho-sc",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.7725,
+            -28.4942
+          ],
+          [
+            -48.7752,
+            -28.4985
+          ],
+          [
+            -48.7615,
+            -28.6025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-jav-l1",
+        "nome": "Tríplice Fronteira e Hidrovia do Rio Javari (Tabatinga / Leticia ↔ Benjamin Constant ↔ Atalaia do Norte ↔ Palmeiras do Javari)",
+        "sistema_id": "hidrovia-rio-javari-alto-solimoes-tabatinga-benjamin-constant-atalaia-do-norte-palmeiras-do-javari-sao-paulo-de-olivenca-am",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.9415,
+            -4.2315
+          ],
+          [
+            -70.0325,
+            -4.3752
+          ],
+          [
+            -70.1915,
+            -4.3712
+          ],
+          [
+            -72.8125,
+            -5.1385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-sol-l2",
+        "nome": "Calha do Alto Solimões (Tabatinga / Benjamin Constant ↔ São Paulo de Olivença ↔ Amaturá ↔ Santo Antônio do Içá / Tonantins)",
+        "sistema_id": "hidrovia-rio-javari-alto-solimoes-tabatinga-benjamin-constant-atalaia-do-norte-palmeiras-do-javari-sao-paulo-de-olivenca-am",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.9415,
+            -4.2315
+          ],
+          [
+            -68.8725,
+            -3.3785
+          ],
+          [
+            -67.9425,
+            -3.1025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-jpe-l1",
+        "nome": "Barquinhas Urbanas Juazeiro–Petrolina e Lago de Sobradinho Leste (Juazeiro BA ↔ Petrolina PE ↔ Sobradinho / Sento Sé ↔ Remanso)",
+        "sistema_id": "travessias-medio-sao-francisco-barra-xique-xique-ibiraba-pilao-arcado-remanso-sento-se-sobradinho-juazeiro-petrolina-ba-pe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.5025,
+            -9.4065
+          ],
+          [
+            -40.8225,
+            -9.4552
+          ],
+          [
+            -42.0815,
+            -9.6225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-br12-msf-l2",
+        "nome": "Travessias do Médio São Francisco e Oeste de Sobradinho (Remanso ↔ Pilão Arcado ↔ Xique-Xique ↔ Barra)",
+        "sistema_id": "travessias-medio-sao-francisco-barra-xique-xique-ibiraba-pilao-arcado-remanso-sento-se-sobradinho-juazeiro-petrolina-ba-pe",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.0815,
+            -9.6225
+          ],
+          [
+            -42.4385,
+            -10.0025
+          ],
+          [
+            -43.1415,
+            -11.0885
+          ]
+        ]
+      }
     }
   ]
 }
