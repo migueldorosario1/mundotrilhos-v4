@@ -54647,5 +54647,321 @@
         "estacoes": 2
       }
     ]
+  },
+  {
+    "id": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+    "slug": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+    "nome_pt": "Volta Lake Transport Company (VLTC) — Hidrovia e Ferries Ro-Pax do Lago Volta (Akosombo, Adawso–Ekye Amanfrom, Dambai, Kete Krachi, Yeji–Makango e Buipe, Gana)",
+    "nome_en": "Volta Lake Transport Company (VLTC) — Lake Volta Waterway & Ro-Pax Ferries (Akosombo, Adawso–Ekye Amanfrom, Dambai, Kete Krachi, Yeji–Makango & Buipe, Ghana)",
+    "pais": "Gana",
+    "cidade": "Akosombo / Adawso / Kpando / Dambai / Kete Krachi / Yeji / Makango / Buipe",
+    "uf": "Eastern / Volta / Oti / Bono East / Savannah Regions",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Volta Lake Transport Company Ltd. (VLTC — Volta River Authority)",
+    "inauguracao": "1970",
+    "extensao_km": 420,
+    "bitola": "N/A (Hidrovia Interior do Maior Reservatório Artificial do Mundo em Superfície — Ferries Ro-Pax e Comboios Fluviais)",
+    "eletrificacao": "Ferries Ro-Pax de Veículos e Passageiros (MV Senchi, MV Akrade, MV Dambai, MV Yeji e MV Yapei Queen)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 9200,
+    "ano_referencia": 2026,
+    "investimento": "US$ 48 milhões (modernização dos portos lacustres de Akosombo, Buipe, Yeji e Dambai e integração com a nova ferrovia Tema–Mpakadan junto ao Lago Volta)",
+    "proximas_entregas": "Ativação da transferência intermodal trem-barco entre o terminal ferroviário de Mpakadan/Akosombo e o norte de Gana (Buipe)",
+    "resumo_pt": "A rede de transporte hidroviário no Lago Volta (o maior lago artificial do mundo em área de superfície, com 8.502 km² e 400 km de extensão norte-sul): operada pela estatal Volta Lake Transport Company (VLTC), a malha combina o corredor longitudinal Norte–Sul entre Akosombo Port (integrado à nova ferrovia de bitola padrão Tema–Mpakadan) e Buipe Port com cinco grandes travessias transversais de ferries Ro-Pax que conectam regiões inteiras de Gana — Adawso ↔ Ekye Amanfrom (portal para Afram Plains), Kpando (Torkor) ↔ Agordeke, Dambai ↔ Doddie (Rio Oti), Kete Krachi ↔ Kojokrom e Yeji ↔ Makango.",
+    "resumo_en": "Inland water transport network across Lake Volta (the world's largest artificial reservoir by surface area at 8,502 km²): operated by state-owned Volta Lake Transport Company (VLTC), the network combines the 400 km North–South trunk route between Akosombo Port (linked to the new Tema–Mpakadan standard-gauge railway) and Buipe Port with five essential cross-lake Ro-Pax vehicle ferries at Adawso ↔ Ekye Amanfrom (Afram Plains), Kpando ↔ Agordeke, Dambai, Kete Krachi, and Yeji ↔ Makango.",
+    "lat": 7.45,
+    "lon": 0.05,
+    "zoom_inicial": 7.2,
+    "fontes": [
+      "vltc-com-gh",
+      "vra-com-gh"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "lago-volta",
+      "akosombo",
+      "yeji",
+      "dambai",
+      "kete-krachi",
+      "buipe",
+      "gana"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr80-vol-l1",
+        "nome": "Tronco Norte-Sul do Lago Volta & Afram Plains (Akosombo Port ↔ Adawso / Ekye Amanfrom ↔ Kpando ↔ Kete Krachi ↔ Yeji ↔ Buipe)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 310,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-afr80-yej-l2",
+        "nome": "Travessias Transversais Ro-Pax de Oti e Brong-Ahafo (Dambai ↔ Doddie & Yeji ↔ Makango)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 110,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+    "slug": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+    "nome_pt": "LAGFERRY e LASWA — Rede Metropolitana de Barcos Rápidos da Laguna de Lagos (Falomo/Ikoyi, Marina/CMS, Victoria Island, Apapa, Ikorodu, Mile 2 e Badagry, Nigéria)",
+    "nome_en": "LAGFERRY & LASWA — Lagos Lagoon Metropolitan Fast Ferry Network (Falomo/Ikoyi, Marina/CMS, Victoria Island, Apapa, Ikorodu, Mile 2 & Badagry, Nigeria)",
+    "pais": "Nigéria",
+    "cidade": "Lagos (Marina CMS / Falomo Ikoyi / Victoria Island / Apapa / Mile 2 / Ojo / Ikorodu / Badagry / Epe)",
+    "uf": "Lagos State",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Lagos State Ferry Services Corporation (LAGFERRY) & Lagos State Waterways Authority (LASWA — integrado ao Cowry Card)",
+    "inauguracao": "2008",
+    "extensao_km": 145,
+    "bitola": "N/A (Hidrovia Lagunar Metropolitana Integrada ao Cowry Card e Lagos Rail Mass Transit — Lanchas e Catamarãs Urbanos)",
+    "eletrificacao": "Frota de Mais de 20 Barcos Rápidos Cobertos LAGFERRY (MF Ehingbeti, MF Eko Akete, MF Itunu) e Novos Catamarãs Elétricos Omi Eko",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 65000,
+    "ano_referencia": 2026,
+    "investimento": "€ 410 milhões (Projeto Omi Eko cofinanciado pela AFD/UE/BEI com 78 novos ferries 100% elétricos, dragagem de 140 km de rotas hidroviárias e modernização de 25 terminais em Lagos)",
+    "proximas_entregas": "Entrada em operação da nova frota de 78 catamarãs 100% elétricos do programa Omi Eko da LASWA",
+    "resumo_pt": "O sistema público de transporte hidroviário metropolitano de Lagos (a maior megacidade da África, com mais de 22 milhões de habitantes), regulado pela LASWA e operado pela LAGFERRY e parceiros privados com integração tarifária via cartão Cowry (o mesmo da Linha Azul e Linha Vermelha do Metrô de Lagos): a partir do moderno Five Cowries Terminal (Falomo, Ikoyi) e do terminal intermodal de Marina/CMS (junto à estação central do Metrô), lanchas rápidas cruzam a Laguna de Lagos em apenas 20 a 25 minutos até o enorme terminal de Ikorodu (evitando horas de congestionamento rodoviário), além de conectarem Victoria Island, Apapa, Mile 2 (integrado à Linha Azul do Metrô), Ojo, Badagry e Epe.",
+    "resumo_en": "Metropolitan water transit system of Lagos (Africa's largest megacity), regulated by LASWA and operated by LAGFERRY using the integrated Cowry smartcard (shared with the Lagos Blue and Red Line Metro): radiating from Five Cowries Terminal (Falomo, Ikoyi) and Marina/CMS Metro Station, fast ferries cross Lagos Lagoon in 20–25 minutes to Ikorodu Terminal while western and eastern corridors connect Victoria Island, Apapa, Mile 2 (Blue Line interchange), Ojo, Badagry, and Epe.",
+    "lat": 6.455,
+    "lon": 3.42,
+    "zoom_inicial": 10.2,
+    "fontes": [
+      "lagferry-ng",
+      "laswa-lagosstate-gov-ng"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "lagferry",
+      "laswa",
+      "lagos",
+      "ikoyi",
+      "marina-cms",
+      "ikorodu",
+      "badagry",
+      "nigeria"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr80-lag-l1",
+        "nome": "Corredor Norte e Leste da Laguna de Lagos (Marina CMS / Five Cowries Falomo Ikoyi ↔ Victoria Island ↔ Ikorodu Terminal ↔ Baiyeku / Epe)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 80,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-afr80-bad-l2",
+        "nome": "Corredor Oeste Porto e Badagry Creek (Marina CMS ↔ Apapa Liverpool ↔ Mile 2 Metro Interchange ↔ Ijegun Egba / Ojo ↔ Badagry)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 65,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+    "slug": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+    "nome_pt": "Gambia Ferry Services (GPA) — Travessia do Estuário do Rio Gâmbia (Banjul ↔ Barra) e Balsas Fluviais do Interior (Janjanbureh, Bansang e Basse Santa Su, Gâmbia)",
+    "nome_en": "Gambia Ferry Services (GPA) — Gambia River Estuary Crossing (Banjul ↔ Barra) & Upriver Ferries (Janjanbureh, Bansang & Basse Santa Su, The Gambia)",
+    "pais": "Gâmbia",
+    "cidade": "Banjul / Barra / Kaur / Janjanbureh (Georgetown) / Bansang / Basse Santa Su",
+    "uf": "Banjul / North Bank / Central River / Upper River",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Gambia Ferry Services Company Ltd. (Gambia Ports Authority — GPA)",
+    "inauguracao": "1950",
+    "extensao_km": 310,
+    "bitola": "N/A (Hidrovia Estuarina e Fluvial Nacional do Rio Gâmbia — Ferries Ro-Pax Bidirecionais e Balsas Fluviais)",
+    "eletrificacao": "Ferries Ro-Pax Estuarinos (Kunta Kinteh, Kanilai e Johe) e Balsas do Curso Interior do Rio Gâmbia",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 11800,
+    "ano_referencia": 2026,
+    "investimento": "US$ 36 milhões (modernização das rampas de atracação de Banjul e Barra e reabilitação da frota de ferries Ro-Pax pela Gambia Ports Authority com apoio do Banco Africano de Desenvolvimento)",
+    "proximas_entregas": "Incorporação de um novo ferry Ro-Pax de grande capacidade na travessia Banjul–Barra",
+    "resumo_pt": "Como a República da Gâmbia é formada pelas duas margens do caudaloso Rio Gâmbia ao longo de mais de 320 km, a Gambia Ferry Services (subsidiária da Gambia Ports Authority) constitui o principal eixo de integração norte-sul do país: na foz atlântica do rio, os grandes ferries Ro-Pax (Kunta Kinteh, Kanilai e Johe) cruzam os 5 km do estuário entre a capital Banjul (Ilha de St. Mary) e Barra (North Bank, terminal da rodovia para Dakar no Senegal); rio acima, a GPA opera as balsas fluviais essenciais em Kaur, na histórica ilha fluvial de Janjanbureh (antiga Georgetown), Bansang e Basse Santa Su.",
+    "resumo_en": "Because The Gambia straddles both banks of the navigable Gambia River for over 320 km, Gambia Ferry Services (a subsidiary of the Gambia Ports Authority) forms the country's vital North–South transport spine: at the river's Atlantic mouth, large Ro-Pax ferries (Kunta Kinteh, Kanilai, and Johe) cross the 5 km estuary linking the capital Banjul with Barra (the gateway to Dakar, Senegal), while upriver ferries serve Kaur, historic Janjanbureh Island (Georgetown), Bansang, and Basse Santa Su.",
+    "lat": 13.47,
+    "lon": -16.56,
+    "zoom_inicial": 8.0,
+    "fontes": [
+      "gambiaports-gm",
+      "motwi-gov-gm"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "rio-gambia",
+      "banjul",
+      "barra",
+      "janjanbureh",
+      "basse-santa-su",
+      "gambia",
+      "senegal"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr80-ban-l1",
+        "nome": "Travessia Ro-Pax da Foz do Rio Gâmbia (Banjul Ferry Terminal ↔ Barra Ferry Terminal / Essau)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 25,
+        "estacoes": 2
+      },
+      {
+        "id": "hidro-afr80-jan-l2",
+        "nome": "Hidrovia e Travessias do Médio e Alto Rio Gâmbia (Kaur ↔ Ilha de Janjanbureh / Georgetown ↔ Bansang ↔ Basse Santa Su)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 285,
+        "estacoes": 3
+      }
+    ]
+  },
+  {
+    "id": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+    "slug": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+    "nome_pt": "Nautic Afrika, Logimar e CNI — Expresso Marítimo Libreville ↔ Port-Gentil e Hidrovia do Rio Ogooué Port-Gentil ↔ Lambaréné (Gabão)",
+    "nome_en": "Nautic Afrika, Logimar & CNI — Libreville ↔ Port-Gentil Sea Express & Ogooué River Waterway Port-Gentil ↔ Lambaréné (Gabon)",
+    "pais": "Gabão",
+    "cidade": "Libreville (Port Môle / Michel Marine / Owendo) / Port-Gentil (Ilha Mandji) / Omboué / Lambaréné",
+    "uf": "Estuaire / Ogooué-Maritime / Moyen-Ogooué",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "Nautic Afrika / Compagnie Nationale de Navigation Intérieure et Internationale (CNNII) / Logimar",
+    "inauguracao": "1975",
+    "extensao_km": 380,
+    "bitola": "N/A (Hidrovia Costeira do Golfo da Guiné e Bacia Fluvial do Rio Ogooué — Catamarãs Oceânicos, Ferries Ro-Pax e Lanchas Fluviais)",
+    "eletrificacao": "Catamarãs Rápidos de Passageiros (Nautic Afrika — 30 nós), Ferries Ro-Pax (Logimar / CNNII) e Barcos Fluviais do Rio Ogooué",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 3100,
+    "ano_referencia": 2026,
+    "investimento": "US$ 42 milhões (modernização do Port Môle de Libreville, novo terminal marítimo de Port-Gentil e renovação da frota nacional da CNNII no Gabão)",
+    "proximas_entregas": "Incorporação de novos catamarãs de alta velocidade na rota Libreville–Port-Gentil e lanchas no Rio Ogooué",
+    "resumo_pt": "O corredor hidroviário mais estratégico da África Equatorial Atlântica: como as duas maiores cidades do Gabão — a capital política Libreville (no Estuário do Gabão, terminal da ferrovia Transgabonais) e a capital econômica e petrolífera Port-Gentil (situada na Ilha Mandji / Cabo Lopez) — não possuem conexão rodoviária direta, todo o transporte terrestre-marítimo é feito pelos catamarãs rápidos de 3h30 da Nautic Afrika e ferries Ro-Pax da Logimar e CNNII entre Libreville (Port Môle / Michel Marine / Owendo) e Port-Gentil, além da histórica hidrovia interior que sobe os 220 km do caudaloso Rio Ogooué entre Port-Gentil e a cidade insular fluvial de Lambaréné (sede do Hospital de Albert Schweitzer).",
+    "resumo_en": "Equatorial Atlantic Africa's most strategic maritime corridor: because Gabon's two largest cities — the capital Libreville (terminus of the Transgabonais Railway) and the oil hub of Port-Gentil (on Mandji Island / Cape Lopez) — have no direct road link, passenger and vehicle transport relies on 3.5-hour high-speed catamarans operated by Nautic Afrika and Ro-Pax ferries from Libreville (Port Môle / Michel Marine / Owendo) to Port-Gentil, complemented by the 220 km Ogooué River waterway linking Port-Gentil upriver to Lambaréné.",
+    "lat": -0.35,
+    "lon": 9.35,
+    "zoom_inicial": 7.4,
+    "fontes": [
+      "oprag-ga",
+      "transports-gouv-ga"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "catamara",
+      "ferry",
+      "libreville",
+      "port-gentil",
+      "lambarene",
+      "rio-ogooue",
+      "gabao"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr80-lbv-l1",
+        "nome": "Expresso Oceânico Libreville – Port-Gentil (Port Môle / Michel Marine / Owendo Libreville ↔ Gare Maritime de Port-Gentil & Pointe Denis)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 165,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-afr80-ogo-l2",
+        "nome": "Hidrovia Fluvial do Baixo Rio Ogooué e Lagoa Fernan Vaz (Port-Gentil ↔ Omboué ↔ Porto Fluvial de Lambaréné)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 215,
+        "estacoes": 2
+      }
+    ]
+  },
+  {
+    "id": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+    "slug": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+    "nome_pt": "Hidrovias do Delta do Níger e Rio Cross — Port Harcourt ↔ Ilha de Bonny / Nembe / Brass e Calabar ↔ Oron ↔ Limbe (Nigéria / Camarões)",
+    "nome_en": "Niger Delta & Cross River Waterways — Port Harcourt ↔ Bonny Island / Nembe / Brass & Calabar ↔ Oron ↔ Limbe (Nigeria / Cameroon)",
+    "pais": "Nigéria",
+    "cidade": "Port Harcourt / Bonny Island / Nembe / Brass Island / Calabar / Oron / Limbe (Camarões)",
+    "uf": "Rivers / Bayelsa / Akwa Ibom / Cross River",
+    "tipo": "barco",
+    "status": "operacao",
+    "camada": "hidroviaria",
+    "operador": "NIWA (National Inland Waterways Authority Nigeria) / Bonny–Port Harcourt Sea Express / Cross River Ferries (Calabar–Oron)",
+    "inauguracao": "1960",
+    "extensao_km": 390,
+    "bitola": "N/A (Hidrovia Deltaica e Estuarina do Golfo da Guiné — Lanchas Blindadas Cobertas, Catamarãs e Ferries Ro-Pax)",
+    "eletrificacao": "Lanchas Rápidas Cobertas do Delta do Níger (Bonny Sea Express) e Ferries do Estuário do Rio Cross (MV Mariam Babangida / NIWA)",
+    "n_linhas": 2,
+    "n_estacoes": 5,
+    "passageiros_dia": 28500,
+    "ano_referencia": 2026,
+    "investimento": "US$ 55 milhões (reconstrução completa do Bonny-Nembe-Bille Jetty em Port Harcourt e modernização dos terminais da NIWA em Calabar e Oron)",
+    "proximas_entregas": "Integração da nova rodovia Bodo–Bonny com os terminais hidroviários de Bonny Island e Port Harcourt",
+    "resumo_pt": "A vital malha de transporte hidroviário do Delta do Rio Níger e do estuário do Rio Cross no sudeste da Nigéria: a partir do recém-reconstruído Bonny-Nembe-Bille Jetty e da Marine Base em Port Harcourt (capital do estado de Rivers), centenas de lanchas rápidas cobertas navegam diariamente pelos canais de manguezais até a estratégica Ilha de Bonny (sede da Nigeria LNG), Okrika, Buguma, Degema, Nembe e a Ilha de Brass (estado de Bayelsa); mais a leste, na foz do Rio Cross, os ferries e lanchas rápidas ligam Calabar (Cross River) a Oron (Akwa Ibom) em 35 minutos, além de manterem a rota marítima internacional pelo Golfo de Biafra até Tiko/Limbe (Camarões).",
+    "resumo_en": "The essential mangrove and estuarine water transit network of the Niger Delta and Cross River in southeastern Nigeria: from the modernized Bonny-Nembe-Bille Jetty in Port Harcourt (Rivers State), high-speed covered boats sail daily to strategic Bonny Island (NLNG hub), Okrika, Degema, Nembe, and Brass Island (Bayelsa State); further east across the Cross River Estuary, ferries connect Calabar with Oron in 35 minutes alongside cross-border links to Limbe/Tiko (Cameroon).",
+    "lat": 4.65,
+    "lon": 7.55,
+    "zoom_inicial": 7.6,
+    "fontes": [
+      "niwa-gov-ng",
+      "riversstate-gov-ng"
+    ],
+    "verificado_completo": true,
+    "tags": [
+      "barco",
+      "ferry",
+      "delta-do-niger",
+      "port-harcourt",
+      "bonny-island",
+      "nembe",
+      "brass",
+      "calabar",
+      "oron",
+      "nigeria"
+    ],
+    "foto": "",
+    "linhas": [
+      {
+        "id": "hidro-afr80-phc-l1",
+        "nome": "Canais do Delta do Níger Oriental (Port Harcourt Bonny-Nembe-Bille Jetty ↔ Okrika ↔ Bonny Island & Port Harcourt ↔ Degema ↔ Nembe ↔ Brass Island)",
+        "cor": "#00b8d4",
+        "status": "operacao",
+        "extensao_km": 215,
+        "estacoes": 3
+      },
+      {
+        "id": "hidro-afr80-cal-l2",
+        "nome": "Estuário do Rio Cross e Golfo de Biafra (Calabar Marina / Nsidung Jetty ↔ Oron Terminal Akwa Ibom ↔ Limbe / Tiko CM)",
+        "cor": "#00e5ff",
+        "status": "operacao",
+        "extensao_km": 175,
+        "estacoes": 2
+      }
+    ]
   }
 ]

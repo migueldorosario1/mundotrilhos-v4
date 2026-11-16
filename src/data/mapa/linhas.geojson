@@ -69412,6 +69412,318 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-vol-l1",
+        "nome": "Tronco Norte-Sul do Lago Volta & Afram Plains (Akosombo Port ↔ Adawso / Ekye Amanfrom ↔ Kpando ↔ Kete Krachi ↔ Yeji ↔ Buipe)",
+        "sistema_id": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0569,
+            6.3019
+          ],
+          [
+            -0.085,
+            6.5519
+          ],
+          [
+            0.285,
+            6.995
+          ],
+          [
+            -0.0489,
+            7.795
+          ],
+          [
+            -0.6489,
+            8.225
+          ],
+          [
+            -1.465,
+            8.7689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-yej-l2",
+        "nome": "Travessias Transversais Ro-Pax de Oti e Brong-Ahafo (Dambai ↔ Doddie & Yeji ↔ Makango)",
+        "sistema_id": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1789,
+            8.0689
+          ],
+          [
+            0.155,
+            8.065
+          ],
+          [
+            -0.6489,
+            8.225
+          ],
+          [
+            -0.595,
+            8.285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-lag-l1",
+        "nome": "Corredor Norte e Leste da Laguna de Lagos (Marina CMS / Five Cowries Falomo Ikoyi ↔ Victoria Island ↔ Ikorodu Terminal ↔ Baiyeku / Epe)",
+        "sistema_id": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.3889,
+            6.4489
+          ],
+          [
+            3.4256,
+            6.4425
+          ],
+          [
+            3.4756,
+            6.6025
+          ],
+          [
+            3.9825,
+            6.5819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-bad-l2",
+        "nome": "Corredor Oeste Porto e Badagry Creek (Marina CMS ↔ Apapa Liverpool ↔ Mile 2 Metro Interchange ↔ Ijegun Egba / Ojo ↔ Badagry)",
+        "sistema_id": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.3889,
+            6.4489
+          ],
+          [
+            3.3619,
+            6.4419
+          ],
+          [
+            3.3156,
+            6.4569
+          ],
+          [
+            3.2056,
+            6.4489
+          ],
+          [
+            2.8856,
+            6.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-ban-l1",
+        "nome": "Travessia Ro-Pax da Foz do Rio Gâmbia (Banjul Ferry Terminal ↔ Barra Ferry Terminal / Essau)",
+        "sistema_id": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5725,
+            13.4519
+          ],
+          [
+            -16.5456,
+            13.4825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-jan-l2",
+        "nome": "Hidrovia e Travessias do Médio e Alto Rio Gâmbia (Kaur ↔ Ilha de Janjanbureh / Georgetown ↔ Bansang ↔ Basse Santa Su)",
+        "sistema_id": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.3219,
+            13.6989
+          ],
+          [
+            -14.7656,
+            13.5389
+          ],
+          [
+            -14.6525,
+            13.4356
+          ],
+          [
+            -14.2156,
+            13.315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-lbv-l1",
+        "nome": "Expresso Oceânico Libreville – Port-Gentil (Port Môle / Michel Marine / Owendo Libreville ↔ Gare Maritime de Port-Gentil & Pointe Denis)",
+        "sistema_id": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4425,
+            0.3825
+          ],
+          [
+            9.385,
+            0.335
+          ],
+          [
+            8.7819,
+            -0.7156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-ogo-l2",
+        "nome": "Hidrovia Fluvial do Baixo Rio Ogooué e Lagoa Fernan Vaz (Port-Gentil ↔ Omboué ↔ Porto Fluvial de Lambaréné)",
+        "sistema_id": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7819,
+            -0.7156
+          ],
+          [
+            9.255,
+            -1.5725
+          ],
+          [
+            10.2289,
+            -0.7019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-phc-l1",
+        "nome": "Canais do Delta do Níger Oriental (Port Harcourt Bonny-Nembe-Bille Jetty ↔ Okrika ↔ Bonny Island & Port Harcourt ↔ Degema ↔ Nembe ↔ Brass Island)",
+        "sistema_id": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.0156,
+            4.7656
+          ],
+          [
+            7.1689,
+            4.4519
+          ],
+          [
+            6.3656,
+            4.5325
+          ],
+          [
+            6.2419,
+            4.3156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-cal-l2",
+        "nome": "Estuário do Rio Cross e Golfo de Biafra (Calabar Marina / Nsidung Jetty ↔ Oron Terminal Akwa Ibom ↔ Limbe / Tiko CM)",
+        "sistema_id": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.3169,
+            4.9619
+          ],
+          [
+            8.2389,
+            4.8256
+          ],
+          [
+            9.2056,
+            4.0125
+          ]
+        ]
+      }
     }
   ]
 }
