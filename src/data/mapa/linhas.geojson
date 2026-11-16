@@ -65924,6 +65924,326 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-mac-l1",
+        "nome": "Expresso do Estreito de Mackinac (Mackinaw City & St. Ignace ↔ Mackinac Island Downtown Docks)",
+        "sistema_id": "mackinac-island-ferries-sheplers-star-line-mackinaw-city-st-ignace-bois-blanc-island-straits-of-mackinac-michigan-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.725,
+            45.7819
+          ],
+          [
+            -84.6189,
+            45.8492
+          ],
+          [
+            -84.7236,
+            45.8683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-boi-l2",
+        "nome": "Travessia do Lago Huron Setentrional (Cheboygan ↔ Pointe Aux Pins / Bois Blanc Island)",
+        "sistema_id": "mackinac-island-ferries-sheplers-star-line-mackinaw-city-st-ignace-bois-blanc-island-straits-of-mackinac-michigan-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.4708,
+            45.6542
+          ],
+          [
+            -84.4625,
+            45.7369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-mad-l1",
+        "nome": "Arquipélago das Apostle Islands (Bayfield WI ↔ La Pointe / Madeline Island & Stockton Island)",
+        "sistema_id": "lake-superior-ferries-madeline-island-ferry-bayfield-la-pointe-isle-royale-ranger-iii-houghton-grand-portage-copper-harbor-wi-mn-mi-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.8167,
+            46.8108
+          ],
+          [
+            -90.7825,
+            46.7775
+          ],
+          [
+            -90.5833,
+            46.925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-roy-l2",
+        "nome": "Travessias do Lago Superior para Isle Royale (Houghton / Copper Harbor MI ↔ Rock Harbor & Grand Portage MN ↔ Windigo)",
+        "sistema_id": "lake-superior-ferries-madeline-island-ferry-bayfield-la-pointe-isle-royale-ranger-iii-houghton-grand-portage-copper-harbor-wi-mn-mi-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5569,
+            47.1225
+          ],
+          [
+            -87.8894,
+            47.4694
+          ],
+          [
+            -88.4889,
+            48.1464
+          ],
+          [
+            -89.1558,
+            47.9139
+          ],
+          [
+            -89.6836,
+            47.9636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-sea-l1",
+        "nome": "Expresso Metropolitano Jersey Shore – NYC (Highlands / Atlantic Highlands / Belford / Sandy Hook NJ ↔ Pier 11 Wall Street & East 35th St Manhattan)",
+        "sistema_id": "seastreak-fast-ferry-wall-street-east-35th-street-highlands-atlantic-highlands-sandy-hook-nantucket-marthas-vineyard-ny-nj-ma-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9728,
+            40.7442
+          ],
+          [
+            -74.0064,
+            40.7033
+          ],
+          [
+            -74.0792,
+            40.4358
+          ],
+          [
+            -74.0369,
+            40.4189
+          ],
+          [
+            -73.9869,
+            40.4058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-nbd-l2",
+        "nome": "Expresso Costeiro de Nova Inglaterra (New Bedford MA ↔ Martha's Vineyard Oak Bluffs ↔ Nantucket)",
+        "sistema_id": "seastreak-fast-ferry-wall-street-east-35th-street-highlands-atlantic-highlands-sandy-hook-nantucket-marthas-vineyard-ny-nj-ma-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.9208,
+            41.6353
+          ],
+          [
+            -70.5556,
+            41.4575
+          ],
+          [
+            -70.0964,
+            41.2853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-alb-l1",
+        "nome": "Alberni Inlet & Barkley Sound — MV Frances Barkley (Port Alberni Harbour Quay ↔ Sechart / Broken Group ↔ Bamfield ↔ Ucluelet)",
+        "sistema_id": "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -124.8158,
+            49.2339
+          ],
+          [
+            -125.1342,
+            48.8339
+          ],
+          [
+            -125.2583,
+            48.9519
+          ],
+          [
+            -125.5461,
+            48.9422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-uch-l2",
+        "nome": "Nootka Sound & Esperanza Inlet — MV Uchuck III (Gold River ↔ Friendly Cove / Yuquot ↔ Tahsis ↔ Zeballos ↔ Kyuquot)",
+        "sistema_id": "lady-rose-marine-services-mv-frances-barkley-port-alberni-bamfield-ucluelet-broken-group-uchuck-iii-gold-river-nootka-sound-kyuquot-bc-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -126.1158,
+            49.6789
+          ],
+          [
+            -126.6169,
+            49.5936
+          ],
+          [
+            -126.6625,
+            49.9189
+          ],
+          [
+            -127.375,
+            50.0292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-bel-l1",
+        "nome": "Trecho Ocidental e Ilha de Anticosti — NM Bella Desgagnés (Rimouski ↔ Sept-Îles ↔ Port-Menier Anticosti ↔ Havre-Saint-Pierre ↔ Natashquan)",
+        "sistema_id": "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.5167,
+            48.4783
+          ],
+          [
+            -66.3758,
+            50.2039
+          ],
+          [
+            -64.3519,
+            49.8189
+          ],
+          [
+            -63.5986,
+            50.2389
+          ],
+          [
+            -61.8194,
+            50.1839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam70-bcn-l2",
+        "nome": "Trecho sem Estradas da Basse-Côte-Nord (Kegaska ↔ La Romaine ↔ Harrington Harbour ↔ Tête-à-la-Baleine ↔ La Tabatière ↔ Saint-Augustin ↔ Blanc-Sablon)",
+        "sistema_id": "relais-nordik-bella-desgagnes-rimouski-sept-iles-havre-saint-pierre-anticosti-natashquan-kegaska-la-romaine-st-augustin-blanc-sablon-quebec-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.2667,
+            50.1847
+          ],
+          [
+            -60.6806,
+            50.2147
+          ],
+          [
+            -59.4758,
+            50.4981
+          ],
+          [
+            -58.9694,
+            50.8358
+          ],
+          [
+            -58.6258,
+            51.2292
+          ],
+          [
+            -57.1528,
+            51.4189
+          ]
+        ]
+      }
     }
   ]
 }
