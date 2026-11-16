@@ -69104,6 +69104,314 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-dhk-l1",
+        "nome": "Rota Histórica Rocket Steamer & Tronco Barisal (Dhaka Sadarghat ↔ Chandpur ↔ Barisal ↔ Hularhat ↔ Morelganj / Khulna)",
+        "sistema_id": "biwtc-biwta-dhaka-sadarghat-river-port-barisal-chandpur-bhola-hathiya-morrelganj-khulna-rocket-paddle-steamers-bangladesh",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.4089,
+            23.7056
+          ],
+          [
+            90.6419,
+            23.2319
+          ],
+          [
+            90.3725,
+            22.6989
+          ],
+          [
+            89.9925,
+            22.5569
+          ],
+          [
+            89.8589,
+            22.4519
+          ],
+          [
+            89.5689,
+            22.8156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-bhl-l2",
+        "nome": "Eixo do Estuário do Meghna e Golfo de Bengala (Dhaka Sadarghat / Lakshmipur ↔ Ilisha Bhola ↔ Monpura ↔ Ilha de Hatiya ↔ Chittagong / Sandwip)",
+        "sistema_id": "biwtc-biwta-dhaka-sadarghat-river-port-barisal-chandpur-bhola-hathiya-morrelganj-khulna-rocket-paddle-steamers-bangladesh",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.6419,
+            23.2319
+          ],
+          [
+            90.6656,
+            22.7525
+          ],
+          [
+            90.9689,
+            22.185
+          ],
+          [
+            91.1125,
+            22.2856
+          ],
+          [
+            91.4589,
+            22.4825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-mle-l1",
+        "nome": "Rede Metropolitana da Grande Malé e Atol de Kaafu (Malé Henveiru / Villingili Terminals ↔ Vilimalé ↔ Hulhumalé ↔ Velana Airport ↔ Maafushi / Thulusdhoo)",
+        "sistema_id": "mtcc-raajje-transport-link-rtl-male-hulhumale-velana-airport-villingili-maafushi-gulhi-thulusdhoo-kulhudhuffushi-addu-maldivas",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.4856,
+            4.1739
+          ],
+          [
+            73.5093,
+            4.1755
+          ],
+          [
+            73.5289,
+            4.1919
+          ],
+          [
+            73.5419,
+            4.2156
+          ],
+          [
+            73.4906,
+            3.9425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-rtl-l2",
+        "nome": "Rede Expressa Nacional Raajje Transport Link RTL (Zona 1 Norte Kulhudhuffushi ↔ Hanimaadhoo ↔ Dhidhdhoo & Zona 6 Sul Addu Feydhoo ↔ Hulhudhoo ↔ Fuvahmulah)",
+        "sistema_id": "mtcc-raajje-transport-link-rtl-male-hulhumale-velana-airport-villingili-maafushi-gulhi-thulusdhoo-kulhudhuffushi-addu-maldivas",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.0689,
+            6.6225
+          ],
+          [
+            73.1725,
+            6.7625
+          ],
+          [
+            73.1139,
+            6.8869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-jaf-l1",
+        "nome": "Rede Insular de Jaffna (Kurikadduwan Jetty ↔ Nainativu / Nagadeepa ↔ Ilha de Delft / Neduntheevu & Kayts ↔ Analaitivu ↔ Eluvaitivu)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-nainativu-nagadeepa-delft-neduntheevu-analaitivu-eluvaitivu-kankesanthurai-nagapattinam-sri-lanka-india",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8556,
+            9.6989
+          ],
+          [
+            79.7969,
+            9.6019
+          ],
+          [
+            79.7756,
+            9.6089
+          ],
+          [
+            79.6889,
+            9.5356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-palk-l2",
+        "nome": "Ponte Internacional do Estreito de Palk — HSC Sivagangai (Kankesanthurai Port Jaffna LK ↔ Nagapattinam Port Tamil Nadu IN)",
+        "sistema_id": "jaffna-islands-ferries-kurikadduwan-nainativu-nagadeepa-delft-neduntheevu-analaitivu-eluvaitivu-kankesanthurai-nagapattinam-sri-lanka-india",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.0439,
+            9.8189
+          ],
+          [
+            79.8519,
+            10.7625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-guj-l1",
+        "nome": "Autoestrada Marítima do Golfo de Khambhat — DG Sea Connect (Hazira Ro-Pax Terminal Surat ↔ Ghogha Ro-Pax Terminal Bhavnagar & Dahej)",
+        "sistema_id": "dg-sea-connect-hazira-ghogha-ro-pax-ferry-dahej-okha-beyt-dwarka-golfo-de-khambhat-golfo-de-kutch-gujarat-india",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6369,
+            21.0889
+          ],
+          [
+            72.2856,
+            21.6856
+          ],
+          [
+            72.5389,
+            21.6919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-dwa-l2",
+        "nome": "Travessia do Golfo de Kutch Ocidental (Okha Passenger Jetty ↔ Beyt Dwarka Island Jetty)",
+        "sistema_id": "dg-sea-connect-hazira-ghogha-ro-pax-ferry-dahej-okha-beyt-dwarka-golfo-de-khambhat-golfo-de-kutch-gujarat-india",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            69.0769,
+            22.4739
+          ],
+          [
+            69.1025,
+            22.4569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-kom-l1",
+        "nome": "Travessia do Estreito de Sape e Parque Nacional de Komodo (Pelabuhan Sape Sumbawa ↔ Ilha de Komodo / Ilha de Rinca ↔ Pelabuhan Labuan Bajo Flores)",
+        "sistema_id": "asdp-sape-bima-labuan-bajo-komodo-rinca-waingapu-ende-kalabahi-alor-sonda-orientais-ntb-ntt-indonesia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.0156,
+            -8.5756
+          ],
+          [
+            119.4889,
+            -8.5889
+          ],
+          [
+            119.6656,
+            -8.6756
+          ],
+          [
+            119.8789,
+            -8.4889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-ssa79-flr-l2",
+        "nome": "Corredor do Mar de Sawu: Sumbawa – Flores – Sumba (Sape / Labuan Bajo ↔ Pelabuhan Waikelo Sumba Barat ↔ Pelabuhan Waingapu Sumba Timur)",
+        "sistema_id": "asdp-sape-bima-labuan-bajo-komodo-rinca-waingapu-ende-kalabahi-alor-sonda-orientais-ntb-ntt-indonesia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.0156,
+            -8.5756
+          ],
+          [
+            119.2256,
+            -9.3889
+          ],
+          [
+            120.2656,
+            -9.6425
+          ]
+        ]
+      }
     }
   ]
 }
