@@ -59644,6 +59644,450 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-cruise-whitsundays-airlie-beach-shute-harbour-daydream-hamilton-island-au",
+        "nome": "Ilhas Whitsunday e Grande Barreira de Corais: Port of Airlie / Shute Harbour ↔ Daydream Island ↔ Hamilton Island Marina & Airport",
+        "sistema_id": "cruise-whitsundays-airlie-beach-hamilton-island-sealink-kgari-fraser-island-hervey-bay-torres-strait-thursday-island-australia",
+        "sistema_nome": "Cruise Whitsundays (Airlie Beach–Hamilton Island–Daydream Island), SeaLink K'gari / Fraser Island (Hervey Bay) e Ferries do Estreito de Torres (Thursday Island, Austrália)",
+        "pais": "Austrália",
+        "cidade": "Airlie Beach / Hamilton Island / Daydream Island / Hervey Bay (River Heads) / K'gari (Fraser Island) / Cairns / Thursday Island e Horn Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Cruise Whitsundays (Journey Beyond) / SeaLink Fraser Island (Kelsian Group) / Peddells Thursday Island Tours & Sea Swift (Estreito de Torres)",
+        "extensao_km": 220,
+        "bitola": "Catamarãs de Alta Velocidade da Grande Barreira de Corais (Whitsundays), Ferries Ro-Pax de Praia/Rampa (K'gari) e Ferries do Estreito de Torres",
+        "eletrificacao": "Catamarãs Diesel-Elétricos de Baixa Emissão para Áreas Marinhas Protegidas da Grande Barreira de Corais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.718,
+            -20.268
+          ],
+          [
+            148.785,
+            -20.292
+          ],
+          [
+            148.815,
+            -20.258
+          ],
+          [
+            148.952,
+            -20.348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-sealink-kgari-fraser-island-hervey-bay-torres-strait-seisia-horn-thursday-island-au",
+        "nome": "Ilha de K'gari / Fraser Island (River Heads ↔ Kingfisher Bay / Wangoolba Creek) e Estreito de Torres (Seisia / Cape York ↔ Horn Island ↔ Thursday Island)",
+        "sistema_id": "cruise-whitsundays-airlie-beach-hamilton-island-sealink-kgari-fraser-island-hervey-bay-torres-strait-thursday-island-australia",
+        "sistema_nome": "Cruise Whitsundays (Airlie Beach–Hamilton Island–Daydream Island), SeaLink K'gari / Fraser Island (Hervey Bay) e Ferries do Estreito de Torres (Thursday Island, Austrália)",
+        "pais": "Austrália",
+        "cidade": "Airlie Beach / Hamilton Island / Daydream Island / Hervey Bay (River Heads) / K'gari (Fraser Island) / Cairns / Thursday Island e Horn Island",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Cruise Whitsundays (Journey Beyond) / SeaLink Fraser Island (Kelsian Group) / Peddells Thursday Island Tours & Sea Swift (Estreito de Torres)",
+        "extensao_km": 940,
+        "bitola": "Catamarãs de Alta Velocidade da Grande Barreira de Corais (Whitsundays), Ferries Ro-Pax de Praia/Rampa (K'gari) e Ferries do Estreito de Torres",
+        "eletrificacao": "Catamarãs Diesel-Elétricos de Baixa Emissão para Áreas Marinhas Protegidas da Grande Barreira de Corais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.915,
+            -25.425
+          ],
+          [
+            153.028,
+            -25.392
+          ],
+          [
+            142.368,
+            -10.848
+          ],
+          [
+            142.285,
+            -10.585
+          ],
+          [
+            142.218,
+            -10.582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-nsw-estuaries-newcastle-stockton-palm-beach-ettalong-cronulla-bundeena-au",
+        "nome": "Estuários de Nova Gales do Sul: Newcastle (Queens Wharf ↔ Stockton), Broken Bay (Palm Beach ↔ Ettalong / Wagstaffe) e Port Hacking (Cronulla ↔ Bundeena)",
+        "sistema_id": "palm-beach-ettalong-cronulla-bundeena-newcastle-stockton-ferries-nsw-western-port-french-island-phillip-island-maria-island-australia",
+        "sistema_nome": "Ferries de Newcastle–Stockton, Palm Beach–Ettalong e Cronulla–Bundeena (NSW), Western Port Ferries (French Island–Phillip Island, Vitória) e Ilha Maria (Tasmânia, Austrália)",
+        "pais": "Austrália",
+        "cidade": "Newcastle / Sydney (Palm Beach, Ettalong e Cronulla–Bundeena) / Stony Point, French Island e Cowes (Phillip Island) / Triabunna e Ilha Maria",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Newcastle Transport (Keolis Downer) / Fantasea Cruising (Palm Beach Ferries) & Cronulla Ferries / Western Port Ferries (SeaRoad) / Encounter Maria Island (Triabunna–Darlington)",
+        "extensao_km": 190,
+        "bitola": "Barcas Urbanas e Estuarinas (Newcastle, Broken Bay e Port Hacking) e Catamarãs Insulares (Western Port e Ilha Maria)",
+        "eletrificacao": "Barcas Urbanas Diesel de Baixa Emissão e Catamarãs Costeiros"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.782,
+            -32.926
+          ],
+          [
+            151.784,
+            -32.918
+          ],
+          [
+            151.322,
+            -33.598
+          ],
+          [
+            151.338,
+            -33.518
+          ],
+          [
+            151.152,
+            -34.058
+          ],
+          [
+            151.151,
+            -34.082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-victoria-tasmania-stony-point-french-island-phillip-island-triabunna-maria-island-au",
+        "nome": "Baía de Western Port (Stony Point ↔ French Island ↔ Cowes, Phillip Island) e Tasmânia Oriental (Triabunna ↔ Darlington, Ilha Maria — UNESCO)",
+        "sistema_id": "palm-beach-ettalong-cronulla-bundeena-newcastle-stockton-ferries-nsw-western-port-french-island-phillip-island-maria-island-australia",
+        "sistema_nome": "Ferries de Newcastle–Stockton, Palm Beach–Ettalong e Cronulla–Bundeena (NSW), Western Port Ferries (French Island–Phillip Island, Vitória) e Ilha Maria (Tasmânia, Austrália)",
+        "pais": "Austrália",
+        "cidade": "Newcastle / Sydney (Palm Beach, Ettalong e Cronulla–Bundeena) / Stony Point, French Island e Cowes (Phillip Island) / Triabunna e Ilha Maria",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Newcastle Transport (Keolis Downer) / Fantasea Cruising (Palm Beach Ferries) & Cronulla Ferries / Western Port Ferries (SeaRoad) / Encounter Maria Island (Triabunna–Darlington)",
+        "extensao_km": 190,
+        "bitola": "Barcas Urbanas e Estuarinas (Newcastle, Broken Bay e Port Hacking) e Catamarãs Insulares (Western Port e Ilha Maria)",
+        "eletrificacao": "Barcas Urbanas Diesel de Baixa Emissão e Catamarãs Costeiros"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.225,
+            -38.372
+          ],
+          [
+            145.272,
+            -38.382
+          ],
+          [
+            145.238,
+            -38.448
+          ],
+          [
+            147.915,
+            -42.508
+          ],
+          [
+            148.065,
+            -42.582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-sealink-auckland-great-barrier-island-tryphena-whitianga-coromandel-nz",
+        "nome": "Ilha Norte (Golfo de Hauraki Exterior e Coromandel): Auckland (Wynyard Quarter) ↔ Tryphena / Port Fitzroy (Great Barrier Island) e Whitianga ↔ Ferry Landing",
+        "sistema_id": "sealink-great-barrier-island-aotea-coromandel-whitianga-lyttelton-diamond-harbour-christchurch-tss-earnslaw-queenstown-nova-zelandia",
+        "sistema_nome": "SeaLink Great Barrier Island / Aotea (Auckland), Whitianga Ferry (Coromandel), Metro Diamond Harbour Ferry (Christchurch) e Lago Wakatipu (Queenstown, Nova Zelândia)",
+        "pais": "Nova Zelândia",
+        "cidade": "Auckland (Wynyard Quarter) / Great Barrier Island (Tryphena) / Whitianga (Coromandel) / Christchurch (Lyttelton–Diamond Harbour) / Queenstown (Lago Wakatipu)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SeaLink New Zealand (Auckland–Great Barrier Island) / Whitianga Ferry / Black Cat Cruises (Metro Christchurch Ferry) / RealNZ (TSS Earnslaw & Queenstown Water Taxis)",
+        "extensao_km": 280,
+        "bitola": "Ferries Ro-Pax Oceânicos do Golfo de Hauraki Exterior (SeaLink), Barcas Metropolitanas (Christchurch) e Navio a Vapor Histórico / Táxis Aquáticos Lacustres (Queenstown)",
+        "eletrificacao": "Frota Costeira Diesel e Planos de Descarbonização do TSS Earnslaw (conversão para hidrogênio/biomassa limpa)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.758,
+            -36.841
+          ],
+          [
+            175.485,
+            -36.265
+          ],
+          [
+            175.358,
+            -36.168
+          ],
+          [
+            175.705,
+            -36.832
+          ],
+          [
+            175.712,
+            -36.831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ilha-sul-lyttelton-diamond-harbour-christchurch-lago-wakatipu-queenstown-nz",
+        "nome": "Ilha Sul (Canterbury e Otago): Metro Ferry Lyttelton ↔ Diamond Harbour (Christchurch) e Lago Wakatipu (Queenstown Steamer Wharf ↔ Walter Peak / Frankton Arm)",
+        "sistema_id": "sealink-great-barrier-island-aotea-coromandel-whitianga-lyttelton-diamond-harbour-christchurch-tss-earnslaw-queenstown-nova-zelandia",
+        "sistema_nome": "SeaLink Great Barrier Island / Aotea (Auckland), Whitianga Ferry (Coromandel), Metro Diamond Harbour Ferry (Christchurch) e Lago Wakatipu (Queenstown, Nova Zelândia)",
+        "pais": "Nova Zelândia",
+        "cidade": "Auckland (Wynyard Quarter) / Great Barrier Island (Tryphena) / Whitianga (Coromandel) / Christchurch (Lyttelton–Diamond Harbour) / Queenstown (Lago Wakatipu)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "SeaLink New Zealand (Auckland–Great Barrier Island) / Whitianga Ferry / Black Cat Cruises (Metro Christchurch Ferry) / RealNZ (TSS Earnslaw & Queenstown Water Taxis)",
+        "extensao_km": 180,
+        "bitola": "Ferries Ro-Pax Oceânicos do Golfo de Hauraki Exterior (SeaLink), Barcas Metropolitanas (Christchurch) e Navio a Vapor Histórico / Táxis Aquáticos Lacustres (Queenstown)",
+        "eletrificacao": "Frota Costeira Diesel e Planos de Descarbonização do TSS Earnslaw (conversão para hidrogênio/biomassa limpa)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.718,
+            -43.605
+          ],
+          [
+            172.728,
+            -43.625
+          ],
+          [
+            168.661,
+            -45.033
+          ],
+          [
+            168.562,
+            -45.095
+          ],
+          [
+            168.738,
+            -45.022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-aranui-5-papeete-fakarava-nuku-hiva-ua-pou-hiva-oa-fatu-hiva-marquesas-pf",
+        "nome": "Corredor Taiti–Tuamotu–Ilhas Marquesas (Aranui 5 & Inter-Insular): Papeete ↔ Fakarava ↔ Taiohae (Nuku Hiva) ↔ Hakahau (Ua Pou) ↔ Atuona (Hiva Oa) ↔ Fatu Hiva",
+        "sistema_id": "aranui-5-te-ata-o-hiva-ilhas-marquesas-nuku-hiva-hiva-oa-rarotonga-aitutaki-ilhas-cook-wallis-e-futuna-polinesia",
+        "sistema_nome": "Aranui 5 e Te Ata O Hiva nas Ilhas Marquesas (Nuku Hiva–Hiva Oa–Ua Pou–Fatu Hiva), Navegação das Ilhas Cook (Rarotonga–Aitutaki) e Wallis e Futuna (Polinésia)",
+        "pais": "França (Polinésia Francesa e Wallis e Futuna) e Ilhas Cook",
+        "cidade": "Papeete / Fakarava / Taiohae (Nuku Hiva) / Atuona (Hiva Oa) / Hakahau (Ua Pou) / Avatiu (Rarotonga) / Aitutaki / Mata-Utu (Wallis) e Leava (Futuna)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Compagnie Polynésienne de Transport Maritime (CPTM — Aranui 5) & CODIM (Catamarã Inter-Insular Te Ata O Hiva) / Taio Shipping (Ilhas Cook) / Serviços Marítimos de Wallis e Futuna",
+        "extensao_km": 2250,
+        "bitola": "Navios Mistos de Passageiros e Carga de Longo Curso (Aranui 5) e Catamarãs Inter-Insulares Polinésios (Te Ata O Hiva)",
+        "eletrificacao": "Propulsão Diesel-Elétrica Marítima Oceânica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -149.568,
+            -17.535
+          ],
+          [
+            -145.625,
+            -16.055
+          ],
+          [
+            -140.102,
+            -8.912
+          ],
+          [
+            -140.048,
+            -9.358
+          ],
+          [
+            -139.035,
+            -9.802
+          ],
+          [
+            -138.665,
+            -10.485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-ilhas-cook-rarotonga-aitutaki-wallis-mata-utu-futuna-leava-pacifico",
+        "nome": "Ilhas Cook (Porto de Avatiu em Rarotonga ↔ Lagoa de Aitutaki ↔ Atiu) e Território de Wallis e Futuna (Mata-Utu, Ilha de Wallis ↔ Leava, Ilha de Futuna)",
+        "sistema_id": "aranui-5-te-ata-o-hiva-ilhas-marquesas-nuku-hiva-hiva-oa-rarotonga-aitutaki-ilhas-cook-wallis-e-futuna-polinesia",
+        "sistema_nome": "Aranui 5 e Te Ata O Hiva nas Ilhas Marquesas (Nuku Hiva–Hiva Oa–Ua Pou–Fatu Hiva), Navegação das Ilhas Cook (Rarotonga–Aitutaki) e Wallis e Futuna (Polinésia)",
+        "pais": "França (Polinésia Francesa e Wallis e Futuna) e Ilhas Cook",
+        "cidade": "Papeete / Fakarava / Taiohae (Nuku Hiva) / Atuona (Hiva Oa) / Hakahau (Ua Pou) / Avatiu (Rarotonga) / Aitutaki / Mata-Utu (Wallis) e Leava (Futuna)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Compagnie Polynésienne de Transport Maritime (CPTM — Aranui 5) & CODIM (Catamarã Inter-Insular Te Ata O Hiva) / Taio Shipping (Ilhas Cook) / Serviços Marítimos de Wallis e Futuna",
+        "extensao_km": 1000,
+        "bitola": "Navios Mistos de Passageiros e Carga de Longo Curso (Aranui 5) e Catamarãs Inter-Insulares Polinésios (Te Ata O Hiva)",
+        "eletrificacao": "Propulsão Diesel-Elétrica Marítima Oceânica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -159.782,
+            -21.202
+          ],
+          [
+            -159.795,
+            -18.858
+          ],
+          [
+            -176.172,
+            -13.282
+          ],
+          [
+            -178.158,
+            -14.295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-milne-bay-alotau-samarai-normanby-trobriand-buka-kokopau-bougainville-pg",
+        "nome": "Mar de Salomão e Bougainville: Alotau ↔ Ilha de Samarai ↔ Esa'ala (Normanby) ↔ Losuia (Ilhas Trobriand) e Travessia do Estreito de Buka (Buka ↔ Kokopau)",
+        "sistema_id": "alotau-samarai-trobriand-milne-bay-buka-kokopau-bougainville-hidrovias-rio-fly-kiunga-rio-sepik-pagwi-papua-nova-guine",
+        "sistema_nome": "Ferries de Milne Bay e Ilhas Trobriand (Alotau–Samarai–Kiriwina), Travessia de Buka–Kokopau (Bougainville) e Hidrovias dos Rios Fly e Sepik (Papua-Nova Guiné)",
+        "pais": "Papua-Nova Guiné",
+        "cidade": "Alotau / Ilha de Samarai / Losuia (Kiriwina — Ilhas Trobriand) / Buka e Kokopau (Bougainville) / Daru e Kiunga (Rio Fly) / Angoram e Pagwi (Rio Sepik)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Milne Bay Provincial Shipping & Local Banana Boats / Buka Passage Water Taxis (Bougainville) / Ok Tedi Development Foundation (MV Fly Hope — Rio Fly) / Sepik River Motor Canoes",
+        "extensao_km": 680,
+        "bitola": "Navios Costeiros de Passageiros (MV Fly Hope e Milne Bay), Lanchas do Estreito de Buka e Embarcações Fluviais de Longo Curso (Rios Fly e Sepik)",
+        "eletrificacao": "Navios Fluviais e Costeiros a Diesel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.455,
+            -10.315
+          ],
+          [
+            150.662,
+            -10.612
+          ],
+          [
+            150.958,
+            -9.735
+          ],
+          [
+            151.068,
+            -8.532
+          ],
+          [
+            154.672,
+            -5.425
+          ],
+          [
+            154.678,
+            -5.432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "linha-hidrovias-rio-fly-daru-kiunga-rio-sepik-angoram-pagwi-ambunti-pg",
+        "nome": "Grandes Rios da Nova Guiné: Hidrovia do Rio Fly (Ilha de Daru ↔ Suki ↔ Porto de Kiunga — MV Fly Hope) e Hidrovia do Rio Sepik (Angoram ↔ Pagwi ↔ Ambunti)",
+        "sistema_id": "alotau-samarai-trobriand-milne-bay-buka-kokopau-bougainville-hidrovias-rio-fly-kiunga-rio-sepik-pagwi-papua-nova-guine",
+        "sistema_nome": "Ferries de Milne Bay e Ilhas Trobriand (Alotau–Samarai–Kiriwina), Travessia de Buka–Kokopau (Bougainville) e Hidrovias dos Rios Fly e Sepik (Papua-Nova Guiné)",
+        "pais": "Papua-Nova Guiné",
+        "cidade": "Alotau / Ilha de Samarai / Losuia (Kiriwina — Ilhas Trobriand) / Buka e Kokopau (Bougainville) / Daru e Kiunga (Rio Fly) / Angoram e Pagwi (Rio Sepik)",
+        "tipo": "barco",
+        "status": "operacao",
+        "camada": "operacao",
+        "cor": "#00b8d4",
+        "operador": "Milne Bay Provincial Shipping & Local Banana Boats / Buka Passage Water Taxis (Bougainville) / Ok Tedi Development Foundation (MV Fly Hope — Rio Fly) / Sepik River Motor Canoes",
+        "extensao_km": 1300,
+        "bitola": "Navios Costeiros de Passageiros (MV Fly Hope e Milne Bay), Lanchas do Estreito de Buka e Embarcações Fluviais de Longo Curso (Rios Fly e Sepik)",
+        "eletrificacao": "Navios Fluviais e Costeiros a Diesel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            143.208,
+            -9.075
+          ],
+          [
+            141.298,
+            -6.122
+          ],
+          [
+            144.068,
+            -4.062
+          ],
+          [
+            143.065,
+            -4.085
+          ],
+          [
+            142.845,
+            -4.218
+          ]
+        ]
+      }
     }
   ]
 }
