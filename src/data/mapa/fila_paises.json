@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T13:15:00-03:00",
+  "atualizado_em": "2026-11-16T13:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2972,17 +2972,25 @@
         "dg-sea-connect-hazira-ghogha-ro-pax-ferry-dahej-okha-beyt-dwarka-golfo-de-khambhat-golfo-de-kutch-gujarat-india",
         "asdp-sape-bima-labuan-bajo-komodo-rinca-waingapu-ende-kalabahi-alor-sonda-orientais-ntb-ntt-indonesia"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 194,
       "codigo": "HIDRO-AFRICA-OCIDENTAL-CENTRAL-VOLTA-LAGOS-CONGO-ZAMBEZE-VIII",
       "pais": "Fase Hidroviária Mundial #80 — África Ocidental, Central e Oriental: VLTC Lago Volta (Akosombo–Yeji, Gana), Lagferry Lagos Lagoon (Marina–Ikorodu–Badagry, Nigéria), Travessias Fluviais de Banjul–Barra (Rio Gâmbia), Lanchas de Libreville–Port-Gentil (Nautic Afrika, Gabão) e Ferries do Lago Alberto e Nilo Branco (Uganda) VIII",
       "continente": "África",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 198,
+      "sistemas_adicionados": [
+        "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+        "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+        "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+        "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+        "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 195,
       "codigo": "HIDRO-AMERICA-LATINA-CARIBE-MAGDALENA-ORINOCO-GOLFO-DE-FONSECA-BAHAMAS-VIII",
@@ -3036,6 +3044,14 @@
       "codigo": "HIDRO-ASIA-ORIENTAL-JAPAO-SETO-INLAND-SEA-KYUSHU-COREIA-CHINA-VIII",
       "pais": "Fase Hidroviária Mundial #86 — Ásia Oriental: Shikoku Kisen & Setonaikai Kisen (Takamatsu/Uno–Naoshima–Teshima e Hiroshima–Matsuyama Super Jet, Japão), Ishigaki Dream Tours /ANEI Kanko (Ilhas Yaeyama: Ishigaki–Taketomi–Iriomote–Yonaguni, Japão), Seaspovill & Hanil Express (Donghae/Jeju–ChuJa, Coreia do Sul), Bohai Ferry Yantai–Dalian e Wuzhou Ferry (Nanning–Wuzhou–Guangzhou, China) VIII",
       "continente": "Ásia",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 202,
+      "codigo": "HIDRO-AMERICA-DO-NORTE-COSTA-LESTE-LONG-ISLAND-MAINE-FLORIDA-CALIFORNIA-VIII",
+      "pais": "Fase Hidroviária Mundial #87 — América do Norte: Bridgeport & Port Jefferson Steamboat Co., Fire Island Ferries & Sayville Ferry (Long Island, NY), Maine State Ferry Service (Rockland–Vinalhaven–North Haven–Islesboro–Swans Island), St. Johns River Ferry (Mayport–Fort George Island, Jacksonville FL) e Golden Gate Ferry & Angel Island Ferry (San Francisco Bay, CA) VIII",
+      "continente": "América do Norte",
       "prioridade": "alta",
       "status": "pendente"
     }

@@ -71373,6 +71373,456 @@
           -9.6425
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-vol-e1",
+        "nome": "Akosombo Inland Lake Port — VLTC (Integração Ferrovia Tema–Mpakadan, Lago Volta, Gana)",
+        "sistema_id": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+        "linha_id": "hidro-afr80-vol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0569,
+          6.3019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-vol-e2",
+        "nome": "Adawso ↔ Ekye Amanfrom Ferry Terminals (Portal para Afram Plains, Lago Volta, Gana)",
+        "sistema_id": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+        "linha_id": "hidro-afr80-vol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085,
+          6.5519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-vol-e3",
+        "nome": "Kpando Torkor & Kete Krachi Ferry Landings (Regiões de Volta e Oti, Gana)",
+        "sistema_id": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+        "linha_id": "hidro-afr80-vol-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0489,
+          7.795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-yej-e4",
+        "nome": "Dambai Ro-Pax Ferry Landing (Braço do Rio Oti, Região de Oti, Gana)",
+        "sistema_id": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+        "linha_id": "hidro-afr80-yej-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1789,
+          8.0689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-yej-e5",
+        "nome": "Yeji – Makango Ferry Terminals & Buipe Inland Port (Norte do Lago Volta, Gana)",
+        "sistema_id": "vltc-volta-lake-transport-company-akosombo-kpando-keta-krachi-dambai-yeji-makango-buipe-lago-volta-gana",
+        "linha_id": "hidro-afr80-yej-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6489,
+          8.225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-lag-e1",
+        "nome": "Five Cowries Ferry Terminal — Falomo Ikoyi (Sede da LASWA / LAGFERRY, Lagos, Nigéria)",
+        "sistema_id": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+        "linha_id": "hidro-afr80-lag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4256,
+          6.4425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-lag-e2",
+        "nome": "CMS Marina Intermodal Ferry Terminal (Integração Linha Azul do Metrô de Lagos, Lagos Island)",
+        "sistema_id": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+        "linha_id": "hidro-afr80-lag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3889,
+          6.4489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-lag-e3",
+        "nome": "Ikorodu Metro Ferry Terminal & Baiyeku / Epe Jetties (Norte e Leste da Laguna de Lagos)",
+        "sistema_id": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+        "linha_id": "hidro-afr80-lag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4756,
+          6.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-bad-e4",
+        "nome": "Mile 2 & Liverpool Apapa Ferry Terminals (Integração Metro-Ferry Oeste, Lagos)",
+        "sistema_id": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+        "linha_id": "hidro-afr80-bad-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3156,
+          6.4569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-bad-e5",
+        "nome": "Badagry & Ijegun Egba (Ojo) Ferry Terminals (Badagry Creek, Oeste de Lagos, Nigéria)",
+        "sistema_id": "lagferry-lagos-state-ferry-services-laswa-falomo-ikoyi-marina-cms-apapa-ikorodu-mile-2-badagry-epe-laguna-de-lagos-nigeria",
+        "linha_id": "hidro-afr80-bad-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8856,
+          6.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-ban-e1",
+        "nome": "Banjul Ferry Terminal — GPA (Capital da Gâmbia, Ilha de St. Mary)",
+        "sistema_id": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+        "linha_id": "hidro-afr80-ban-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5725,
+          13.4519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-ban-e2",
+        "nome": "Barra Ferry Terminal (North Bank Region / Corredor para Dakar, Gâmbia)",
+        "sistema_id": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+        "linha_id": "hidro-afr80-ban-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5456,
+          13.4825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-jan-e3",
+        "nome": "Kaur River Port & Ferry Crossing (Central River Region, Rio Gâmbia)",
+        "sistema_id": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+        "linha_id": "hidro-afr80-jan-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.3219,
+          13.6989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-jan-e4",
+        "nome": "Janjanbureh (Georgetown) Island Ferry Crossings (Ilha Fluvial Histórica de Janjanbureh, Gâmbia)",
+        "sistema_id": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+        "linha_id": "hidro-afr80-jan-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.7656,
+          13.5389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-jan-e5",
+        "nome": "Basse Santa Su & Bansang River Ferry Terminals (Upper River Region, Leste da Gâmbia)",
+        "sistema_id": "gpa-gambia-ferry-services-banjul-barra-trans-gambia-corridor-kaur-janjanbureh-basse-santa-su-rio-gambia",
+        "linha_id": "hidro-afr80-jan-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2156,
+          13.315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-lbv-e1",
+        "nome": "Port Môle & Michel Marine Passenger Terminals (Libreville, Estuário do Gabão)",
+        "sistema_id": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+        "linha_id": "hidro-afr80-lbv-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4425,
+          0.3825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-lbv-e2",
+        "nome": "Port d'Owendo Ro-Pax Terminal & Pointe Denis Jetty (Grande Libreville, Gabão)",
+        "sistema_id": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+        "linha_id": "hidro-afr80-lbv-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.385,
+          0.335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-lbv-e3",
+        "nome": "Gare Maritime de Port-Gentil — Nouveau Port (Ilha Mandji / Cabo Lopez, Gabão)",
+        "sistema_id": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+        "linha_id": "hidro-afr80-lbv-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7819,
+          -0.7156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-ogo-e4",
+        "nome": "Débarcadère d'Omboué — Lagoa Fernan Vaz (Ogooué-Maritime, Gabão)",
+        "sistema_id": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+        "linha_id": "hidro-afr80-ogo-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.255,
+          -1.5725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-ogo-e5",
+        "nome": "Port Fluvial d'Isaac — Lambaréné (Hospital Albert Schweitzer, Médio Rio Ogooué, Gabão)",
+        "sistema_id": "nautic-afrika-cni-logimar-libreville-michel-marine-owendo-port-gentil-cap-lopez-lambarene-rio-ogooue-gabao",
+        "linha_id": "hidro-afr80-ogo-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2289,
+          -0.7019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-phc-e1",
+        "nome": "Bonny-Nembe-Bille Modern Jetty & Marine Base (Port Harcourt, Rivers State, Nigéria)",
+        "sistema_id": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+        "linha_id": "hidro-afr80-phc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0156,
+          4.7656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-phc-e2",
+        "nome": "Bonny Island Coal Beach Jetty (Ilha de Bonny / NLNG, Delta do Níger, Nigéria)",
+        "sistema_id": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+        "linha_id": "hidro-afr80-phc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1689,
+          4.4519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-phc-e3",
+        "nome": "Nembe Waterfront & Twon-Brass Island Jetties (Bayelsa State, Delta do Níger)",
+        "sistema_id": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+        "linha_id": "hidro-afr80-phc-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2419,
+          4.3156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-cal-e4",
+        "nome": "Calabar Marina Resort & Nsidung Beach Ferry Terminals (Estuário do Rio Cross, Calabar, Nigéria)",
+        "sistema_id": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+        "linha_id": "hidro-afr80-cal-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3169,
+          4.9619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-afr80-cal-e5",
+        "nome": "Oron NIWA Ferry Terminal (Akwa Ibom, Nigéria) & Limbe / Tiko Port (Camarões)",
+        "sistema_id": "niger-delta-coastal-ferries-port-harcourt-bonny-island-nembe-brass-yenagoa-calabar-oron-malabo-nigeria-camaroes-guine-equatorial",
+        "linha_id": "hidro-afr80-cal-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2389,
+          4.8256
+        ]
+      }
     }
   ]
 }
