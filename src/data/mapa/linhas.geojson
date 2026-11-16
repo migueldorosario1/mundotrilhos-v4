@@ -63552,6 +63552,290 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-mag-l1",
+        "nome": "Travessias do Estreito de Magalhães (Primera Angostura Punta Delgada ↔ Bahía Azul & Punta Arenas ↔ Porvenir)",
+        "sistema_id": "tabsa-estreito-de-magalhaes-punta-arenas-porvenir-primera-angostura-punta-delgada-bahia-azul-puerto-natales-puerto-williams-chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.6512,
+            -52.4585
+          ],
+          [
+            -69.5985,
+            -52.5015
+          ],
+          [
+            -70.4225,
+            -53.3085
+          ],
+          [
+            -70.8842,
+            -53.1285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-wil-l2",
+        "nome": "Rota Austral dos Fiordes e Canal de Beagle (Punta Arenas Tres Puentes ↔ Fiordes Darwin ↔ Puerto Williams Ilha Navarino)",
+        "sistema_id": "tabsa-estreito-de-magalhaes-punta-arenas-porvenir-primera-angostura-punta-delgada-bahia-azul-puerto-natales-puerto-williams-chile",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.8842,
+            -53.1285
+          ],
+          [
+            -70.1525,
+            -54.4825
+          ],
+          [
+            -67.6115,
+            -54.9335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-tit-l1",
+        "nome": "Hidrovia Internacional do Lago Titicaca (San Pablo / San Pedro de Tiquina ↔ Copacabana / Isla del Sol ↔ Puno / Uros / Taquile)",
+        "sistema_id": "estrecho-de-tiquina-san-pedro-san-pablo-copacabana-isla-del-sol-lago-titicaca-puno-uros-taquile-amantani-bolivia-peru",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8595,
+            -16.2215
+          ],
+          [
+            -69.0915,
+            -16.1652
+          ],
+          [
+            -70.0152,
+            -15.8365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-ben-l2",
+        "nome": "Hidrovia Amazônica do Rio Beni (Rurrenabaque / San Buenaventura ↔ Bala / Cavinas ↔ Riberalta)",
+        "sistema_id": "estrecho-de-tiquina-san-pedro-san-pablo-copacabana-isla-del-sol-lago-titicaca-puno-uros-taquile-amantani-bolivia-peru",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.5285,
+            -14.4412
+          ],
+          [
+            -66.8512,
+            -12.5415
+          ],
+          [
+            -66.0635,
+            -11.0025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-nic-l1",
+        "nome": "Lago Cocibolca & Rio San Juan (Puerto San Jorge ↔ Moyogalpa / San José del Sur Ometepe ↔ San Carlos ↔ El Castillo)",
+        "sistema_id": "epn-lago-cocibolca-san-jorge-ometepe-moyogalpa-san-carlos-rio-san-juan-el-castillo-bluefields-corn-islands-nicaragua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.7885,
+            11.4585
+          ],
+          [
+            -85.6985,
+            11.5412
+          ],
+          [
+            -84.7795,
+            11.1215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-nic-l2",
+        "nome": "Corredor Fluvial-Caribenho (El Rama ↔ Bluefields ↔ Great Corn Island ↔ Little Corn Island)",
+        "sistema_id": "epn-lago-cocibolca-san-jorge-ometepe-moyogalpa-san-carlos-rio-san-juan-el-castillo-bluefields-corn-islands-nicaragua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.2185,
+            12.1585
+          ],
+          [
+            -83.7635,
+            12.0125
+          ],
+          [
+            -83.0615,
+            12.1685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-qro-l1",
+        "nome": "Corredor Norte Cancún–Isla Mujeres e Holbox (Puerto Juárez / Zona Hotelera Cancún ↔ Isla Mujeres & Chiquilá ↔ Ilha de Holbox)",
+        "sistema_id": "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3385,
+            21.4325
+          ],
+          [
+            -86.8052,
+            21.1825
+          ],
+          [
+            -86.7485,
+            21.2565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-qro-l2",
+        "nome": "Corredor Canal de Cozumel (Muelle Fiscal Playa del Carmen / Punta Venado ↔ San Miguel de Cozumel)",
+        "sistema_id": "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0725,
+            20.6215
+          ],
+          [
+            -87.0115,
+            20.5652
+          ],
+          [
+            -86.9512,
+            20.5112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-jur-l1",
+        "nome": "Hidrovia do Rio Juruá (Marechal Thaumaturgo / Cruzeiro do Sul AC ↔ Ipixuna / Eirunepé ↔ Itamarati / Carauari AM)",
+        "sistema_id": "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.6685,
+            -7.6285
+          ],
+          [
+            -69.8742,
+            -6.6595
+          ],
+          [
+            -66.8985,
+            -4.8815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-pur-l2",
+        "nome": "Hidrovia do Rio Purus (Boca do Acre ↔ Pauini ↔ Lábrea ↔ Canutama / Tapauá / Beruri AM)",
+        "sistema_id": "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.3915,
+            -8.7512
+          ],
+          [
+            -64.7985,
+            -7.2585
+          ],
+          [
+            -61.3725,
+            -3.8985
+          ]
+        ]
+      }
     }
   ]
 }

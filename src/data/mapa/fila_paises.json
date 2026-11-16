@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T03:44:00-03:00",
+  "atualizado_em": "2026-11-16T04:14:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2521,6 +2521,22 @@
         "asdp-ternate-bastiong-sofifi-tidore-halmahera-tobelo-morotai-bacan-sanana-maluku-utara-indonesia",
         "oceanjet-supercat-lite-ferries-cebu-tagbilaran-tubigon-bohol-dumaguete-siquijor-larena-dapitan-camiguin-filipinas"
       ]
+    },
+    {
+      "ordem": 175,
+      "codigo": "HIDRO-AMERICA-LATINA-CARIBE-PATAGONIA-AMAZONIA-BACIA-DO-PRATA-V",
+      "pais": "Fase Hidroviária Mundial #63 — América Latina, Caribe, Patagônia Austral, Titicaca e Amazônia V (TABSA Estreito de Magalhães e Terra do Fogo Punta Arenas–Porvenir, Primera Angostura e Puerto Williams no Chile; Navegação do Lago Titicaca Estreito de Tiquina, Copacabana–Isla del Sol e Puno–Uros–Taquile–Amantaní e Hidrovia do Rio Beni na Bolívia/Peru; EPN Ferries do Lago Cocibolca San Jorge–Ilha de Ometepe, Rio San Juan e Bluefields–Corn Islands na Nicarágua; Ultramar, Winjet & Xcaret Xailing Cancún–Isla Mujeres, Playa del Carmen–Cozumel e Chiquilá–Holbox no México; e Hidrovias Fluviais do Rio Juruá Cruzeiro do Sul–Eirunepé–Carauari e do Rio Purus Boca do Acre–Lábrea–Tapauá no Acre e Amazonas, Brasil)",
+      "continente": "América Latina e Caribe",
+      "prioridade": "alta",
+      "status": "concluido",
+      "ronda_conclusao": 179,
+      "sistemas_adicionados": [
+        "tabsa-estreito-de-magalhaes-punta-arenas-porvenir-primera-angostura-punta-delgada-bahia-azul-puerto-natales-puerto-williams-chile",
+        "estrecho-de-tiquina-san-pedro-san-pablo-copacabana-isla-del-sol-lago-titicaca-puno-uros-taquile-amantani-bolivia-peru",
+        "epn-lago-cocibolca-san-jorge-ometepe-moyogalpa-san-carlos-rio-san-juan-el-castillo-bluefields-corn-islands-nicaragua",
+        "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
+        "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil"
+      ]
     }
   ],
   "fila_proximas_rondas": [
@@ -2670,20 +2686,36 @@
       ]
     },
     {
-      "ordem": 175,
-      "codigo": "HIDRO-AMERICA-LATINA-CARIBE-PATAGONIA-AMAZONIA-BACIA-DO-PRATA-V",
-      "pais": "Fase Hidroviária Mundial #63 — América Latina, Caribe, Patagônia Austral, Titicaca e Amazônia V",
-      "continente": "América Latina e Caribe",
-      "prioridade": "alta",
-      "foco": "Transporte por barco (TABSA Travessias do Estreito de Magalhães Punta Arenas–Porvenir e Primera Angostura no Chile/Terra do Fogo; Travessias de San Pedro e San Pablo de Tiquina no Lago Titicaca e Hidrovias do Rio Beni/Mamoré na Bolívia; Lanchas de Bluefields–El Rama–Corn Islands e Lago Cocibolca Ometepe–San Jorge na Nicarágua; Ultramar Cozumel–Playa del Carmen e Isla Mujeres–Cancún no México; e Hidrovias do Rio Juruá Cruzeiro do Sul–Marechal Thaumaturgo e Rio Purus Lábrea–Boca do Acre no Brasil)"
-    },
-    {
       "ordem": 176,
       "codigo": "HIDRO-OCEANIA-PACIFICO-AUSTRALIA-NOVA-ZELANDIA-FIJI-SAMOA-TONGA-V",
       "pais": "Fase Hidroviária Mundial #64 — Oceania: Estreito de Bass, Golfo de Hauraki, Fiji, Tonga, Vanuatu e Ilhas Salomão V",
       "continente": "Oceania",
       "prioridade": "alta",
       "foco": "Transporte por barco (Spirit of Tasmania Geelong–Devonport no Estreito de Bass e Rottnest Express Fremantle–Rottnest Island na Austrália; Fullers360 Waiheke, Rangitoto e Tiritiri Matangi no Golfo de Hauraki e Stewart Island Ferry Bluff–Oban na Nova Zelândia; South Sea Cruises Port Denarau–Mamanuca & Yasawa Islands em Fiji; Friendly Islands Shipping Nuku'alofa–'Eua–Ha'apai–Vava'u em Tonga; e Pelican Express / Aelan Bae Honiara–Auki–Gizo nas Ilhas Salomão e Port Vila–Tanna/Santo em Vanuatu)"
+    },
+    {
+      "ordem": 177,
+      "codigo": "HIDRO-ESCANDINAVIA-BALTICO-NORUEGA-SUECIA-FINLANDIA-DINAMARCA-VI",
+      "pais": "Fase Hidroviária Mundial #65 — Escandinávia, Fiordes Ocidentais, Arquipélagos Suecos e Lagos Finlandeses VI",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (Fjord1 / Norled Molde–Vestnes, Anda–Lote, Lavik–Oppedal, Mortavika–Arsvågen e Halhjem–Sandvikvåg na E39 Costeira da Noruega; Trafikverket Färjerederiet Hönöleden, Gullmarsleden e Ljusteröleden na Suécia; Finferries Parainen–Nauvo–Korppoo no Arquipélago de Turku na Finlândia; e Ferries de Læsø, Anholt e Ærø na Dinamarca)"
+    },
+    {
+      "ordem": 178,
+      "codigo": "HIDRO-BRASIL-XII-TRAVESSIAS-HIDROVIARIAS-LITORANEAS-FLUVIAIS-COMPLEMENTARES",
+      "pais": "Fase Hidroviária Brasil #12 — Travessias Hidroviárias Litorâneas, Insulares e Fluviais Complementares do Brasil",
+      "continente": "América do Sul",
+      "prioridade": "alta",
+      "foco": "Transporte por barco no Brasil (Travessias de Camamu–Barra Grande–Campinho e Baía de Todos-os-Santos Maragojipe–Cachoeira na Bahia; Travessias do Rio São Francisco em Penedo–Neópolis AL/SE, Gararu–Traipu e Barra–Xique-Xique; Travessias de Laguna–Cabo de Santa Marta e Rio Itajaí-Açu Itajaí–Navegantes em SC; e Hidrovia do Rio Javari Atalaia do Norte–Benjamin Constant–Tabatinga no Amazonas)"
+    },
+    {
+      "ordem": 179,
+      "codigo": "HIDRO-EUROPA-OCIDENTAL-BENELUX-ALEMANHA-SUICA-FRANCA-VI",
+      "pais": "Fase Hidroviária Mundial #66 — Europa Ocidental: Lagos Suíços, Estuários Holandeses, Ilhas Frísias e Costa Atlântica Francesa VI",
+      "continente": "Europa",
+      "prioridade": "alta",
+      "foco": "Transporte por barco (SGV Lago dos Quatro Cantões Lucerna–Weggis–Vitznau–Flüelen e BLS Lago de Thun e Lago de Brienz na Suíça; Aquabus / Waterbus Roterdã–Dordrecht e Riveo/Westerschelde Ferry Vlissingen–Breskens nos Países Baixos; Compagnie Océane Lorient–Groix e Quiberon–Belle-Île-en-Mer–Houat–Hoëdic e Penn Ar Bed Brest/Le Conquet–Ouessant–Molène–Sein na Bretanha, França; e Bodensee-Schiffsbetriebe e Ferry Konstanz–Meersburg no Lago de Constança)"
     }
   ]
 }

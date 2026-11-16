@@ -62823,6 +62823,456 @@
           9.1415
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-mag-e1",
+        "nome": "Terminal Tres Puentes — Punta Arenas (Estreito de Magalhães, Chile)",
+        "sistema_id": "tabsa-estreito-de-magalhaes-punta-arenas-porvenir-primera-angostura-punta-delgada-bahia-azul-puerto-natales-puerto-williams-chile",
+        "linha_id": "hidro-lat63-mag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8842,
+          -53.1285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-mag-e2",
+        "nome": "Terminal Bahía Chilota — Porvenir (Terra do Fogo, Chile)",
+        "sistema_id": "tabsa-estreito-de-magalhaes-punta-arenas-porvenir-primera-angostura-punta-delgada-bahia-azul-puerto-natales-puerto-williams-chile",
+        "linha_id": "hidro-lat63-mag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4225,
+          -53.3085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-mag-e3",
+        "nome": "Rampa Punta Delgada — Primera Angostura Norte (Rota CH-257, Magalhães, Chile)",
+        "sistema_id": "tabsa-estreito-de-magalhaes-punta-arenas-porvenir-primera-angostura-punta-delgada-bahia-azul-puerto-natales-puerto-williams-chile",
+        "linha_id": "hidro-lat63-mag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6512,
+          -52.4585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-mag-e4",
+        "nome": "Rampa Bahía Azul — Primera Angostura Sul (Terra do Fogo, Chile)",
+        "sistema_id": "tabsa-estreito-de-magalhaes-punta-arenas-porvenir-primera-angostura-punta-delgada-bahia-azul-puerto-natales-puerto-williams-chile",
+        "linha_id": "hidro-lat63-mag-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5985,
+          -52.5015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-wil-e5",
+        "nome": "Muelle Guardián Brito — Puerto Williams (Ilha Navarino / Canal de Beagle, Chile)",
+        "sistema_id": "tabsa-estreito-de-magalhaes-punta-arenas-porvenir-primera-angostura-punta-delgada-bahia-azul-puerto-natales-puerto-williams-chile",
+        "linha_id": "hidro-lat63-wil-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6115,
+          -54.9335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-tit-e1",
+        "nome": "Embarcadero de San Pablo & San Pedro de Tiquina (Estreito de Tiquina, Lago Titicaca, Bolívia)",
+        "sistema_id": "estrecho-de-tiquina-san-pedro-san-pablo-copacabana-isla-del-sol-lago-titicaca-puno-uros-taquile-amantani-bolivia-peru",
+        "linha_id": "hidro-lat63-tit-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8595,
+          -16.2215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-tit-e2",
+        "nome": "Puerto de Copacabana & Muelle Yumani — Isla del Sol (Lago Titicaca, Bolívia)",
+        "sistema_id": "estrecho-de-tiquina-san-pedro-san-pablo-copacabana-isla-del-sol-lago-titicaca-puno-uros-taquile-amantani-bolivia-peru",
+        "linha_id": "hidro-lat63-tit-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0915,
+          -16.1652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-tit-e3",
+        "nome": "Puerto Lacustre de Puno & Ilhas de Taquile / Amantaní (Lago Titicaca, Peru)",
+        "sistema_id": "estrecho-de-tiquina-san-pedro-san-pablo-copacabana-isla-del-sol-lago-titicaca-puno-uros-taquile-amantani-bolivia-peru",
+        "linha_id": "hidro-lat63-tit-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0152,
+          -15.8365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-ben-e4",
+        "nome": "Puerto Fluvial de Rurrenabaque — San Buenaventura (Rio Beni, La Paz / Beni, Bolívia)",
+        "sistema_id": "estrecho-de-tiquina-san-pedro-san-pablo-copacabana-isla-del-sol-lago-titicaca-puno-uros-taquile-amantani-bolivia-peru",
+        "linha_id": "hidro-lat63-ben-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5285,
+          -14.4412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-ben-e5",
+        "nome": "Puerto de Riberalta — Confluência Rios Beni e Madre de Dios (Beni, Bolívia)",
+        "sistema_id": "estrecho-de-tiquina-san-pedro-san-pablo-copacabana-isla-del-sol-lago-titicaca-puno-uros-taquile-amantani-bolivia-peru",
+        "linha_id": "hidro-lat63-ben-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0635,
+          -11.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-nic-e1",
+        "nome": "Puerto San Jorge — Rivas (Lago Cocibolca / Lago Nicarágua, Nicarágua)",
+        "sistema_id": "epn-lago-cocibolca-san-jorge-ometepe-moyogalpa-san-carlos-rio-san-juan-el-castillo-bluefields-corn-islands-nicaragua",
+        "linha_id": "hidro-lat63-nic-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7885,
+          11.4585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-nic-e2",
+        "nome": "Puerto de Moyogalpa & San José del Sur — Ilha de Ometepe (Lago Cocibolca, Nicarágua)",
+        "sistema_id": "epn-lago-cocibolca-san-jorge-ometepe-moyogalpa-san-carlos-rio-san-juan-el-castillo-bluefields-corn-islands-nicaragua",
+        "linha_id": "hidro-lat63-nic-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6985,
+          11.5412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-nic-e3",
+        "nome": "Puerto Lacustre de San Carlos & El Castillo (Nascente do Rio San Juan, Nicarágua)",
+        "sistema_id": "epn-lago-cocibolca-san-jorge-ometepe-moyogalpa-san-carlos-rio-san-juan-el-castillo-bluefields-corn-islands-nicaragua",
+        "linha_id": "hidro-lat63-nic-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7795,
+          11.1215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-nic-e4",
+        "nome": "Puerto Arlen Siu (El Rama) & Muelle Municipal de Bluefields (Caribe Sul, Nicarágua)",
+        "sistema_id": "epn-lago-cocibolca-san-jorge-ometepe-moyogalpa-san-carlos-rio-san-juan-el-castillo-bluefields-corn-islands-nicaragua",
+        "linha_id": "hidro-lat63-nic-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7635,
+          12.0125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-nic-e5",
+        "nome": "Brig Bay Municipal Wharf — Great Corn Island & Little Corn Island (Mar do Caribe, Nicarágua)",
+        "sistema_id": "epn-lago-cocibolca-san-jorge-ometepe-moyogalpa-san-carlos-rio-san-juan-el-castillo-bluefields-corn-islands-nicaragua",
+        "linha_id": "hidro-lat63-nic-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0615,
+          12.1685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-qro-e1",
+        "nome": "Terminal Marítima Ultramar Puerto Juárez — Cancún (Quintana Roo, México)",
+        "sistema_id": "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
+        "linha_id": "hidro-lat63-qro-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8052,
+          21.1825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-qro-e2",
+        "nome": "Terminal Marítima de Isla Mujeres (Mar do Caribe, Quintana Roo, México)",
+        "sistema_id": "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
+        "linha_id": "hidro-lat63-qro-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7485,
+          21.2565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-qro-e3",
+        "nome": "Muelle Fiscal de Playa del Carmen (Riviera Maya, Quintana Roo, México)",
+        "sistema_id": "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
+        "linha_id": "hidro-lat63-qro-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0725,
+          20.6215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-qro-e4",
+        "nome": "Terminal Marítima San Miguel — Ilha de Cozumel (Quintana Roo, México)",
+        "sistema_id": "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
+        "linha_id": "hidro-lat63-qro-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9512,
+          20.5112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-qro-e5",
+        "nome": "Puerto de Chiquilá & Muelle de Holbox — Ilha de Holbox (Lázaro Cárdenas, Quintana Roo, México)",
+        "sistema_id": "ultramar-winjet-xcaret-xailing-cancun-puerto-juarez-isla-mujeres-playa-del-carmen-cozumel-chiquila-holbox-quintana-roo-mexico",
+        "linha_id": "hidro-lat63-qro-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3385,
+          21.4325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-jur-e1",
+        "nome": "Porto Fluvial de Cruzeiro do Sul & Marechal Thaumaturgo (Alto Rio Juruá, Acre, Brasil)",
+        "sistema_id": "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil",
+        "linha_id": "hidro-lat63-jur-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6685,
+          -7.6285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-jur-e2",
+        "nome": "Porto Hidroviário de Eirunepé & Ipixuna (Médio Rio Juruá, Amazonas, Brasil)",
+        "sistema_id": "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil",
+        "linha_id": "hidro-lat63-jur-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8742,
+          -6.6595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-jur-e3",
+        "nome": "Terminal Hidroviário de Carauari (IP4 — Baixo Rio Juruá, Amazonas, Brasil)",
+        "sistema_id": "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil",
+        "linha_id": "hidro-lat63-jur-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8985,
+          -4.8815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-pur-e4",
+        "nome": "Porto Fluvial de Boca do Acre & Pauini (Alto Rio Purus, Amazonas, Brasil)",
+        "sistema_id": "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil",
+        "linha_id": "hidro-lat63-pur-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3915,
+          -8.7512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-lat63-pur-e5",
+        "nome": "Terminal Hidroviário de Lábrea, Canutama & Tapauá (IP4 — Médio/Baixo Rio Purus, Amazonas, Brasil)",
+        "sistema_id": "hidrovias-rio-jurua-cruzeiro-do-sul-ipixuna-eirunepe-carauari-rio-purus-boca-do-acre-pauini-labrea-canutama-tapaua-beruri-acre-amazonas-brasil",
+        "linha_id": "hidro-lat63-pur-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7985,
+          -7.2585
+        ]
+      }
     }
   ]
 }
