@@ -65248,6 +65248,334 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-ak-l1",
+        "nome": "AMHS Southwest & Aleutian Chain (Homer ↔ Seldovia ↔ Kodiak ↔ Chignik ↔ Sand Point ↔ Cold Bay ↔ Unalaska / Dutch Harbor)",
+        "sistema_id": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -151.4098,
+            59.6019
+          ],
+          [
+            -151.7119,
+            59.4408
+          ],
+          [
+            -152.4072,
+            57.79
+          ],
+          [
+            -160.4933,
+            55.3369
+          ],
+          [
+            -162.715,
+            55.2053
+          ],
+          [
+            -166.5367,
+            53.8889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-ak-l2",
+        "nome": "AMHS Prince William Sound (Whittier Rail-Marine Terminal ↔ Valdez ↔ Cordova ↔ Tatitlek)",
+        "sistema_id": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -148.6839,
+            60.7747
+          ],
+          [
+            -146.3483,
+            61.1278
+          ],
+          [
+            -145.7575,
+            60.5428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-stq-l1",
+        "nome": "Estuário Marítimo de São Lourenço (Matane ↔ Baie-Comeau / Godbout & Rimouski ↔ Forestville)",
+        "sistema_id": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.5303,
+            48.8528
+          ],
+          [
+            -68.1328,
+            49.2244
+          ],
+          [
+            -67.595,
+            49.3183
+          ],
+          [
+            -68.5167,
+            48.4783
+          ],
+          [
+            -69.0833,
+            48.7367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-stq-l2",
+        "nome": "Médio e Alto São Lourenço (Rivière-du-Loup ↔ Saint-Siméon & Sorel-Tracy ↔ Saint-Ignace-de-Loyola)",
+        "sistema_id": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.5567,
+            47.8425
+          ],
+          [
+            -69.8736,
+            47.8389
+          ],
+          [
+            -73.1167,
+            46.0461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-eri-l1",
+        "nome": "Arquipélago do Lago Erie (Catawba / Sandusky OH ↔ Put-in-Bay ↔ Kelleys Island ↔ Pelee Island ↔ Leamington ON)",
+        "sistema_id": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8414,
+            41.5989
+          ],
+          [
+            -82.8206,
+            41.6525
+          ],
+          [
+            -82.7097,
+            41.5964
+          ],
+          [
+            -82.7078,
+            41.4589
+          ],
+          [
+            -82.6844,
+            41.7519
+          ],
+          [
+            -82.6019,
+            42.0278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-hur-l2",
+        "nome": "Estreito de Georgian Bay / Lago Huron — MS Chi-Cheemaun (Tobermory ↔ South Baymouth / Manitoulin Island)",
+        "sistema_id": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.6639,
+            45.2556
+          ],
+          [
+            -82.0133,
+            45.5586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-del-l1",
+        "nome": "Baía de Delaware & Eastern Shore (Cape May NJ ↔ Lewes DE Ferry & Oxford ↔ Bellevue Ferry MD)",
+        "sistema_id": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.96,
+            38.9683
+          ],
+          [
+            -75.1189,
+            38.7819
+          ],
+          [
+            -76.1731,
+            38.6917
+          ],
+          [
+            -76.1836,
+            38.7025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-che-l2",
+        "nome": "Ilhas da Baía de Chesapeake (Crisfield MD ↔ Smith Island ↔ Tangier Island VA ↔ Onancock / Reedville VA)",
+        "sistema_id": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.8622,
+            37.9792
+          ],
+          [
+            -76.0289,
+            37.9942
+          ],
+          [
+            -75.9917,
+            37.8264
+          ],
+          [
+            -75.7489,
+            37.7117
+          ],
+          [
+            -76.2764,
+            37.8442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-msy-l1",
+        "nome": "Travessias Metropolitanas de Nova Orleans — RTA (Canal Street ↔ Algiers Point & Lower Algiers ↔ Chalmette / Belle Chasse)",
+        "sistema_id": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.0631,
+            29.9508
+          ],
+          [
+            -90.0544,
+            29.9519
+          ],
+          [
+            -89.9786,
+            29.9389
+          ],
+          [
+            -89.9694,
+            29.9464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-mis-l2",
+        "nome": "Travessias do Rio Mississippi Superior na Louisiana — LaDOTD (Plaquemine ↔ Sunshine & St. Francisville ↔ New Roads)",
+        "sistema_id": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.2336,
+            30.2889
+          ],
+          [
+            -91.2189,
+            30.2856
+          ],
+          [
+            -91.3917,
+            30.7611
+          ],
+          [
+            -91.4042,
+            30.7539
+          ]
+        ]
+      }
     }
   ]
 }

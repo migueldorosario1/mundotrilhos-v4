@@ -65523,6 +65523,456 @@
           32.1925
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-ak-e1",
+        "nome": "Homer Spit Ferry Terminal (AMHS Kenai Peninsula, Alasca)",
+        "sistema_id": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+        "linha_id": "hidro-nam68-ak-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4098,
+          59.6019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-ak-e2",
+        "nome": "Kodiak Ferry Terminal — Pier 1 (Ilha de Kodiak, Alasca)",
+        "sistema_id": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+        "linha_id": "hidro-nam68-ak-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4072,
+          57.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-ak-e3",
+        "nome": "Unalaska / Dutch Harbor Ferry Terminal (Cadeia das Ilhas Aleutas, Alasca)",
+        "sistema_id": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+        "linha_id": "hidro-nam68-ak-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.5367,
+          53.8889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-ak-e4",
+        "nome": "Whittier Marine & Rail Terminal (Prince William Sound, Alasca)",
+        "sistema_id": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+        "linha_id": "hidro-nam68-ak-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.6839,
+          60.7747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-ak-e5",
+        "nome": "Valdez & Cordova Ferry Terminals (Prince William Sound, Alasca)",
+        "sistema_id": "alaska-marine-highway-system-southwest-kodiak-homer-seldovia-whittier-valdez-cordova-aleutian-chain-dutch-harbor-alasca-eua",
+        "linha_id": "hidro-nam68-ak-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.3483,
+          61.1278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-stq-e1",
+        "nome": "Gare Fluviale de Matane — STQ (NM F.-A.-Gauthier, Quebec)",
+        "sistema_id": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+        "linha_id": "hidro-nam68-stq-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5303,
+          48.8528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-stq-e2",
+        "nome": "Gare Fluviale de Baie-Comeau (STQ Côte-Nord, Quebec)",
+        "sistema_id": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+        "linha_id": "hidro-nam68-stq-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1328,
+          49.2244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-stq-e3",
+        "nome": "Gare Fluviale de Godbout (STQ Côte-Nord, Quebec)",
+        "sistema_id": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+        "linha_id": "hidro-nam68-stq-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.595,
+          49.3183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-stq-e4",
+        "nome": "Gare Fluviale de Rivière-du-Loup & Saint-Siméon (Estuário de São Lourenço, Quebec)",
+        "sistema_id": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+        "linha_id": "hidro-nam68-stq-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5567,
+          47.8425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-stq-e5",
+        "nome": "Gare Fluviale de Sorel-Tracy — Saint-Ignace-de-Loyola (Rio São Lourenço, Quebec)",
+        "sistema_id": "stq-societe-des-traversiers-du-quebec-matane-baie-comeau-godbout-rimouski-forestville-riviere-du-loup-saint-simeon-sorel-tracy-quebec-canada",
+        "linha_id": "hidro-nam68-stq-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1167,
+          46.0461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-eri-e1",
+        "nome": "Put-in-Bay Lime Kiln & Downtown Docks (South Bass Island, Lago Erie, Ohio)",
+        "sistema_id": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+        "linha_id": "hidro-nam68-eri-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8206,
+          41.6525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-eri-e2",
+        "nome": "Kelleys Island & Sandusky Jackson Street Pier (Lago Erie, Ohio)",
+        "sistema_id": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+        "linha_id": "hidro-nam68-eri-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7097,
+          41.5964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-eri-e3",
+        "nome": "Pelee Island West Dock & Leamington Ferry Terminal (Lago Erie, Ontário, Canadá)",
+        "sistema_id": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+        "linha_id": "hidro-nam68-eri-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6844,
+          41.7519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-hur-e4",
+        "nome": "Tobermory Ferry Terminal — MS Chi-Cheemaun (Península de Bruce, Ontário)",
+        "sistema_id": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+        "linha_id": "hidro-nam68-hur-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6639,
+          45.2556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-hur-e5",
+        "nome": "South Baymouth Ferry Terminal (Manitoulin Island — Lago Huron, Ontário)",
+        "sistema_id": "lake-erie-huron-ferries-miller-ferry-jet-express-put-in-bay-kelleys-island-pelee-island-owen-sound-chi-cheemaun-tobermory-manitoulin-eua-canada",
+        "linha_id": "hidro-nam68-hur-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0133,
+          45.5586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-del-e1",
+        "nome": "Cape May Ferry Terminal — DRBA (Cape May, Nova Jersey)",
+        "sistema_id": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+        "linha_id": "hidro-nam68-del-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.96,
+          38.9683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-del-e2",
+        "nome": "Lewes Ferry Terminal — DRBA (Lewes, Delaware)",
+        "sistema_id": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+        "linha_id": "hidro-nam68-del-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1189,
+          38.7819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-del-e3",
+        "nome": "Oxford – Bellevue Historic Ferry Dock (1683 — Rio Tred Avon, Maryland)",
+        "sistema_id": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+        "linha_id": "hidro-nam68-del-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1731,
+          38.6917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-che-e4",
+        "nome": "Crisfield Somers Cove Dock & Smith Island Ewell Harbor (Baía de Chesapeake, Maryland)",
+        "sistema_id": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+        "linha_id": "hidro-nam68-che-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8622,
+          37.9792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-che-e5",
+        "nome": "Tangier Island Harbor & Onancock / Reedville Landings (Baía de Chesapeake, Virgínia)",
+        "sistema_id": "chesapeake-bay-delaware-bay-ferries-cape-may-lewes-tangier-island-smith-island-crisfield-reedville-onomancock-oxford-bellevue-eua",
+        "linha_id": "hidro-nam68-che-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9917,
+          37.8264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-msy-e1",
+        "nome": "Canal Street Multimodal Ferry Terminal — French Quarter (NORTA, Nova Orleans, Louisiana)",
+        "sistema_id": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+        "linha_id": "hidro-nam68-msy-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0631,
+          29.9508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-msy-e2",
+        "nome": "Algiers Point Ferry Terminal (Historic West Bank — NORTA, Nova Orleans)",
+        "sistema_id": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+        "linha_id": "hidro-nam68-msy-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0544,
+          29.9519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-msy-e3",
+        "nome": "Chalmette & Lower Algiers Vehicle Ferry Landings (St. Bernard Parish, Louisiana)",
+        "sistema_id": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+        "linha_id": "hidro-nam68-msy-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9694,
+          29.9464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-mis-e4",
+        "nome": "Plaquemine – Sunshine Ferry Landing (LaDOTD — Iberville Parish, Rio Mississippi)",
+        "sistema_id": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+        "linha_id": "hidro-nam68-mis-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2336,
+          30.2889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-nam68-mis-e5",
+        "nome": "St. Francisville – New Roads Ferry Landing (LaDOTD — West Feliciana Parish, Louisiana)",
+        "sistema_id": "mississippi-river-ferries-new-orleans-rta-algiers-point-canal-street-chalmette-plaquemine-st-francisville-baton-rouge-louisiana-eua",
+        "linha_id": "hidro-nam68-mis-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3917,
+          30.7611
+        ]
+      }
     }
   ]
 }
