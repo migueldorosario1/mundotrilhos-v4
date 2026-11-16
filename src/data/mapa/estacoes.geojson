@@ -69573,6 +69573,456 @@
           55.3194
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-str-e1",
+        "nome": "Toondah Harbour Ferry Terminal — Cleveland (Redland City, Grande Brisbane, Austrália)",
+        "sistema_id": "sealink-queensland-townsville-magnetic-island-moreton-bay-cleveland-dunwich-north-stradbroke-island-redland-bay-southern-moreton-bay-islands-australia",
+        "linha_id": "hidro-oce76-str-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2719,
+          -27.5269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-str-e2",
+        "nome": "Dunwich (Goompi) & One Mile Jetty Terminals — Minjerribah / North Stradbroke Island (Queensland)",
+        "sistema_id": "sealink-queensland-townsville-magnetic-island-moreton-bay-cleveland-dunwich-north-stradbroke-island-redland-bay-southern-moreton-bay-islands-australia",
+        "linha_id": "hidro-oce76-str-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4019,
+          -27.4989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-str-e3",
+        "nome": "Redland Bay (Weinam Creek) & Russell / Macleay Island Terminals (Southern Moreton Bay Islands, QLD)",
+        "sistema_id": "sealink-queensland-townsville-magnetic-island-moreton-bay-cleveland-dunwich-north-stradbroke-island-redland-bay-southern-moreton-bay-islands-australia",
+        "linha_id": "hidro-oce76-str-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3069,
+          -27.6156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-mag-e4",
+        "nome": "Breakwater Ferry Terminal — Townsville (Norte de Queensland, Austrália)",
+        "sistema_id": "sealink-queensland-townsville-magnetic-island-moreton-bay-cleveland-dunwich-north-stradbroke-island-redland-bay-southern-moreton-bay-islands-australia",
+        "linha_id": "hidro-oce76-mag-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8289,
+          -19.2519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-mag-e5",
+        "nome": "Nelly Bay Ferry Terminal — Magnetic Island / Yunbenun (Parque Nacional da Ilha Magnetic, QLD)",
+        "sistema_id": "sealink-queensland-townsville-magnetic-island-moreton-bay-cleveland-dunwich-north-stradbroke-island-redland-bay-southern-moreton-bay-islands-australia",
+        "linha_id": "hidro-oce76-mag-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8525,
+          -19.1656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-bru-e1",
+        "nome": "Kettering Ferry Terminal (Canal D'Entrecasteaux, Sul de Hobart, Tasmânia)",
+        "sistema_id": "sealink-bruny-island-kettering-roberts-point-encounter-maria-island-triabunna-darlington-king-island-flinders-island-tasmania-australia",
+        "linha_id": "hidro-oce76-bru-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2489,
+          -43.1269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-bru-e2",
+        "nome": "Roberts Point Ferry Terminal — North Bruny Island (Ilha Bruny, Tasmânia)",
+        "sistema_id": "sealink-bruny-island-kettering-roberts-point-encounter-maria-island-triabunna-darlington-king-island-flinders-island-tasmania-australia",
+        "linha_id": "hidro-oce76-bru-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2756,
+          -43.1339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-mar-e3",
+        "nome": "Triabunna Wharf & Visitor Centre (Costa Leste da Tasmânia, Austrália)",
+        "sistema_id": "sealink-bruny-island-kettering-roberts-point-encounter-maria-island-triabunna-darlington-king-island-flinders-island-tasmania-australia",
+        "linha_id": "hidro-oce76-mar-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9169,
+          -42.5056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-mar-e4",
+        "nome": "Darlington Jetty — Parque Nacional de Maria Island (Patrimônio Mundial UNESCO, Tasmânia)",
+        "sistema_id": "sealink-bruny-island-kettering-roberts-point-encounter-maria-island-triabunna-darlington-king-island-flinders-island-tasmania-australia",
+        "linha_id": "hidro-oce76-mar-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0656,
+          -42.5819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-mar-e5",
+        "nome": "Lady Barron Port — Flinders Island & Bridport Wharf (Grupo Furneaux, Estreito de Bass, Tasmânia)",
+        "sistema_id": "sealink-bruny-island-kettering-roberts-point-encounter-maria-island-triabunna-darlington-king-island-flinders-island-tasmania-australia",
+        "linha_id": "hidro-oce76-mar-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.245,
+          -40.2119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-whi-e1",
+        "nome": "Port of Airlie Maritime Terminal — Airlie Beach (Whitsunday Coast, Queensland)",
+        "sistema_id": "cruise-whitsundays-airlie-beach-port-of-airlie-shute-harbour-hamilton-island-daydream-island-long-island-great-barrier-reef-queensland-australia",
+        "linha_id": "hidro-oce76-whi-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7239,
+          -20.2719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-whi-e2",
+        "nome": "Shute Harbour Marine Terminal (Airlie Beach, Parque Nacional Conway, Queensland)",
+        "sistema_id": "cruise-whitsundays-airlie-beach-port-of-airlie-shute-harbour-hamilton-island-daydream-island-long-island-great-barrier-reef-queensland-australia",
+        "linha_id": "hidro-oce76-whi-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7869,
+          -20.2925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-whi-e3",
+        "nome": "Hamilton Island Marina & Great Barrier Reef Airport Ferry Terminal (Hamilton Island, QLD)",
+        "sistema_id": "cruise-whitsundays-airlie-beach-port-of-airlie-shute-harbour-hamilton-island-daydream-island-long-island-great-barrier-reef-queensland-australia",
+        "linha_id": "hidro-oce76-whi-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9489,
+          -20.3489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-day-e4",
+        "nome": "Daydream Island & Long Island Happy Bay Jetties (Passagem de Molle, Whitsundays)",
+        "sistema_id": "cruise-whitsundays-airlie-beach-port-of-airlie-shute-harbour-hamilton-island-daydream-island-long-island-great-barrier-reef-queensland-australia",
+        "linha_id": "hidro-oce76-whi-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8139,
+          -20.2556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-day-e5",
+        "nome": "Hardy Reef Pontoon — Reefworld (Grande Barreira de Corais Externa, Queensland)",
+        "sistema_id": "cruise-whitsundays-airlie-beach-port-of-airlie-shute-harbour-hamilton-island-daydream-island-long-island-great-barrier-reef-queensland-australia",
+        "linha_id": "hidro-oce76-day-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.185,
+          -19.745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-akl-e1",
+        "nome": "Downtown Ferry Terminal — Waitematā / Britomart Station (AT Metro, Centro de Auckland, NZ)",
+        "sistema_id": "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
+        "linha_id": "hidro-oce76-akl-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7675,
+          -36.8415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-akl-e2",
+        "nome": "Devonport & Bayswater Ferry Terminals (North Shore, Porto de Waitematā, Auckland)",
+        "sistema_id": "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
+        "linha_id": "hidro-oce76-akl-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7969,
+          -36.8325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-akl-e3",
+        "nome": "Hobsonville Point (Catalina Bay) & Birkenhead / Beach Haven Terminals (Upper Waitematā Harbour, Auckland)",
+        "sistema_id": "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
+        "linha_id": "hidro-oce76-akl-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.6669,
+          -36.7894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-upw-e4",
+        "nome": "Half Moon Bay Passenger & Vehicle Ferry Terminal (Bucklands Beach, Leste de Auckland)",
+        "sistema_id": "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
+        "linha_id": "hidro-oce76-upw-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8969,
+          -36.8819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-upw-e5",
+        "nome": "Pine Harbour (Beachlands) & Gulf Harbour (Whangaparāoa) Ferry Terminals (Região de Auckland, NZ)",
+        "sistema_id": "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
+        "linha_id": "hidro-oce76-upw-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9889,
+          -36.8889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-sam-e1",
+        "nome": "Mulifanua Ferry Wharf (Extremo Oeste da Ilha de Upolu, Samoa)",
+        "sistema_id": "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana",
+        "linha_id": "hidro-oce76-sam-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.0369,
+          -13.8319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-sam-e2",
+        "nome": "Salelologa Ferry Wharf (Portal da Ilha de Savai'i, Estreito de Apolima, Samoa)",
+        "sistema_id": "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana",
+        "linha_id": "hidro-oce76-sam-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.2219,
+          -13.7419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-sam-e3",
+        "nome": "Porto Internacional de Apia — Matautu Wharf (Capital de Samoa, Ilha de Upolu)",
+        "sistema_id": "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana",
+        "linha_id": "hidro-oce76-sam-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7589,
+          -13.8289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-sam-e4",
+        "nome": "Pago Pago Inter-Island Ferry Dock — Fagatogo (Ilha de Tutuila, Samoa Americana)",
+        "sistema_id": "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana",
+        "linha_id": "hidro-oce76-sam-l1",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.6919,
+          -14.2756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-tok-e5",
+        "nome": "Desembarcadouros dos Atóis de Fakaofo, Nukunonu e Atafu — MV Mataliki (Território de Tokelau)",
+        "sistema_id": "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana",
+        "linha_id": "hidro-oce76-tok-l2",
+        "tipo": "barco",
+        "status": "operacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.2489,
+          -9.3819
+        ]
+      }
     }
   ]
 }

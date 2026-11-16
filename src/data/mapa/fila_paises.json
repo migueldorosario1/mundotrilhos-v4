@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T11:15:00-03:00",
+  "atualizado_em": "2026-11-16T11:45:00-03:00",
   "regra": "Ordem Miguel (11/11/2026 17:09 e 12/11/2026 14:45): Fazer o Mapa dos Trilhos do mundo inteiro nas 5 modalidades em operação, adicionando 1 país diferente a cada ronda de 30 minutos.",
   "concluidos": [
     {
@@ -2908,17 +2908,25 @@
         "destination-gotland-nynashamn-oskarshamn-visby-farosund-faro-trafikverket-gotska-sandön-ilha-de-gotlandia-mar-baltico-suecia",
         "bornholmslinjen-molslinjen-ystad-ronne-koge-sassnitz-mukran-christianso-express-gudjem-allinge-ilha-de-bornholm-dinamarca-suecia-alemanha"
       ]
-    }
-  ],
-  "fila_proximas_rondas": [
+    },
     {
       "ordem": 190,
       "codigo": "HIDRO-OCEANIA-AUSTRALIA-NOVA-ZELANDIA-QUEENSLAND-TASMANIA-POLINESIA-VII",
       "pais": "Fase Hidroviária Mundial #76 — Oceania: SeaLink Queensland (Townsville–Magnetic Island & Brisbane Moreton Bay–North Stradbroke Island), Bruny Island & Maria Island Ferries (Tasmânia), Whitsundays Cruise Whitsundays (Airlie Beach–Hamilton Island–Daydream Island),Auckland Pine Harbour / Gulf Harbour / Hobsonville Ferries (AT Metro) e Samoa Shipping Corporation (Mulifanua–Salelologa Savai'i) VII",
       "continente": "Oceania",
       "prioridade": "alta",
-      "status": "pendente"
-    },
+      "status": "concluido",
+      "ronda_conclusao": 194,
+      "sistemas_adicionados": [
+        "sealink-queensland-townsville-magnetic-island-moreton-bay-cleveland-dunwich-north-stradbroke-island-redland-bay-southern-moreton-bay-islands-australia",
+        "sealink-bruny-island-kettering-roberts-point-encounter-maria-island-triabunna-darlington-king-island-flinders-island-tasmania-australia",
+        "cruise-whitsundays-airlie-beach-port-of-airlie-shute-harbour-hamilton-island-daydream-island-long-island-great-barrier-reef-queensland-australia",
+        "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
+        "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana"
+      ]
+    }
+  ],
+  "fila_proximas_rondas": [
     {
       "ordem": 191,
       "codigo": "HIDRO-ORIENTE-MEDIO-MAR-VERMELHO-GOLFO-PERSICO-BOSFORO-ASIA-CENTRAL-VII",
@@ -2972,6 +2980,14 @@
       "codigo": "HIDRO-NORTE-DA-EUROPA-BALTICO-ESTONIA-LETONIA-LITUANIA-FINLANDIA-ISLANDIA-VIII",
       "pais": "Fase Hidroviária Mundial #82 — Báltico Oriental, Finlândia e Islândia: TS Laevad & Kihnu Veeteed (Estônia — Saaremaa, Hiiumaa e Kihnu), Smiltynės Perkėla (Klaipėda–Curonian Spit, Lituânia), Tallink Silja & Viking Line (Tallinn–Helsinque–Estocolmo–Turku), Herjólfur Ferry (Vestmannaeyjar, Islândia) e Baldur Ferry (Breiðafjörður Stykkishólmur–Flatey–Brjánslækur, Islândia) VIII",
       "continente": "Europa",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "ordem": 198,
+      "codigo": "HIDRO-OCEANIA-AUSTRALIA-NOVA-ZELANDIA-VICTORIA-SOUTH-AUSTRALIA-PAPUA-VIII",
+      "pais": "Fase Hidroviária Mundial #83 — Oceania: Searoad Ferries Port Phillip Heads (Queenscliff–Sorrento, Victoria) & Port Phillip Ferries (Docklands–Geelong–Portarlington), Río Murray Ferries (South Australia), Lyttelton–Diamond Harbour & Bay of Islands Ferries (Russell–Paihia, Nova Zelândia) e Lutheran Shipping / Bismark Sea Ferries (Lae–Kimbe–Rabaul, Papua-Nova Guiné) VIII",
+      "continente": "Oceania",
       "prioridade": "alta",
       "status": "pendente"
     }

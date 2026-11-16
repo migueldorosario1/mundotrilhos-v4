@@ -68188,6 +68188,314 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-str-l1",
+        "nome": "Baía de Moreton — Stradbroke & SMBI (Cleveland ↔ Dunwich North Stradbroke Island & Redland Bay ↔ Karragarra ↔ Lamb ↔ Macleay ↔ Russell Island)",
+        "sistema_id": "sealink-queensland-townsville-magnetic-island-moreton-bay-cleveland-dunwich-north-stradbroke-island-redland-bay-southern-moreton-bay-islands-australia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.2719,
+            -27.5269
+          ],
+          [
+            153.4019,
+            -27.4989
+          ],
+          [
+            153.3069,
+            -27.6156
+          ],
+          [
+            153.3689,
+            -27.6219
+          ],
+          [
+            153.3819,
+            -27.6519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-mag-l2",
+        "nome": "Expresso do Norte de Queensland (Breakwater Ferry Terminal Townsville ↔ Nelly Bay Magnetic Island)",
+        "sistema_id": "sealink-queensland-townsville-magnetic-island-moreton-bay-cleveland-dunwich-north-stradbroke-island-redland-bay-southern-moreton-bay-islands-australia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.8289,
+            -19.2519
+          ],
+          [
+            146.8525,
+            -19.1656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-bru-l1",
+        "nome": "Canal D'Entrecasteaux — Bruny Island Ferry (Kettering Terminal ↔ Roberts Point North Bruny Island)",
+        "sistema_id": "sealink-bruny-island-kettering-roberts-point-encounter-maria-island-triabunna-darlington-king-island-flinders-island-tasmania-australia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.2489,
+            -43.1269
+          ],
+          [
+            147.2756,
+            -43.1339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-mar-l2",
+        "nome": "Passagem de Mercury e Grupo Furneaux (Triabunna ↔ Darlington Maria Island & Bridport ↔ Lady Barron Flinders Island)",
+        "sistema_id": "sealink-bruny-island-kettering-roberts-point-encounter-maria-island-triabunna-darlington-king-island-flinders-island-tasmania-australia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.9169,
+            -42.5056
+          ],
+          [
+            148.0656,
+            -42.5819
+          ],
+          [
+            147.3919,
+            -40.995
+          ],
+          [
+            148.245,
+            -40.2119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-whi-l1",
+        "nome": "Expresso Interinsular e Aeroporto de Whitsundays (Port of Airlie ↔ Shute Harbour ↔ Daydream Island ↔ Hamilton Island Marina & Airport)",
+        "sistema_id": "cruise-whitsundays-airlie-beach-port-of-airlie-shute-harbour-hamilton-island-daydream-island-long-island-great-barrier-reef-queensland-australia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.7239,
+            -20.2719
+          ],
+          [
+            148.7869,
+            -20.2925
+          ],
+          [
+            148.8139,
+            -20.2556
+          ],
+          [
+            148.9489,
+            -20.3489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-day-l2",
+        "nome": "Circuito Long Island, Whitehaven e Grande Barreira Externa (Port of Airlie / Hamilton Island ↔ Long Island ↔ Whitehaven ↔ Hardy Reef)",
+        "sistema_id": "cruise-whitsundays-airlie-beach-port-of-airlie-shute-harbour-hamilton-island-daydream-island-long-island-great-barrier-reef-queensland-australia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.7869,
+            -20.2925
+          ],
+          [
+            148.8556,
+            -20.335
+          ],
+          [
+            149.035,
+            -20.2825
+          ],
+          [
+            149.185,
+            -19.745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-akl-l1",
+        "nome": "Travessias North Shore e Upper Harbour (Downtown Auckland ↔ Devonport / Bayswater & Downtown ↔ Birkenhead ↔ Beach Haven ↔ Hobsonville Point)",
+        "sistema_id": "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.6669,
+            -36.7894
+          ],
+          [
+            174.7256,
+            -36.8194
+          ],
+          [
+            174.7675,
+            -36.8415
+          ],
+          [
+            174.7969,
+            -36.8325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-upw-l2",
+        "nome": "Expresso Leste e Península de Whangaparāoa (Downtown Auckland ↔ Half Moon Bay ↔ Pine Harbour Beachlands & Downtown ↔ Gulf Harbour)",
+        "sistema_id": "at-metro-auckland-ferries-downtown-ferry-terminal-devonport-bayswater-birkenhead-hobsonville-point-beach-haven-half-moon-bay-pine-harbour-gulf-harbour-nova-zelandia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7675,
+            -36.8415
+          ],
+          [
+            174.8969,
+            -36.8819
+          ],
+          [
+            174.9889,
+            -36.8889
+          ],
+          [
+            174.7925,
+            -36.6256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-sam-l1",
+        "nome": "Ponte Ro-Pax do Estreito de Apolima & Samoa Americana (Mulifanua Wharf Upolu ↔ Salelologa Wharf Savai'i & Apia WS ↔ Pago Pago AS)",
+        "sistema_id": "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -172.2219,
+            -13.7419
+          ],
+          [
+            -172.0369,
+            -13.8319
+          ],
+          [
+            -171.7589,
+            -13.8289
+          ],
+          [
+            -170.6919,
+            -14.2756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-oce76-tok-l2",
+        "nome": "Linha Oceânica Exclusiva de Tokelau — MV Mataliki (Porto de Apia Samoa ↔ Atol de Fakaofo ↔ Nukunonu ↔ Atafu Tokelau)",
+        "sistema_id": "samoa-shipping-corporation-mv-lady-samoa-iii-mv-fotuo-samoa-mulifanua-upolu-salelologa-savaii-apia-pago-pago-tokelau-samoa-samoa-americana",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -171.7589,
+            -13.8289
+          ],
+          [
+            -171.2489,
+            -9.3819
+          ],
+          [
+            -171.8489,
+            -9.1989
+          ],
+          [
+            -172.515,
+            -8.5419
+          ]
+        ]
+      }
     }
   ]
 }
