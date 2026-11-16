@@ -62392,6 +62392,294 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-dar-l1",
+        "nome": "GESTAŞ Dardanelos e Ilhas do Egeu Norte (Çanakkale ↔ Eceabat / Kilitbahir ↔ Kabatepe–Gökçeada & Geyikli–Bozcaada)",
+        "sistema_id": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.9425,
+            40.2315
+          ],
+          [
+            26.4012,
+            40.1515
+          ],
+          [
+            26.0715,
+            39.8352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-mar-l2",
+        "nome": "Corredor Sul do Mar de Mármara — BUDO & İDO (Bursa Mudanya ↔ Bandırma ↔ Ilha de Mármara / Istambul)",
+        "sistema_id": "gestas-canakkale-eceabat-kilitbahir-gelibolu-lapseki-gokceada-bozcaada-bandirma-budo-mudanya-marmara-turquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9715,
+            40.3542
+          ],
+          [
+            28.8852,
+            40.3765
+          ],
+          [
+            28.9552,
+            41.0025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-izm-l1",
+        "nome": "İZDENİZ Golfo de Esmirna (Üçkuyular / Göztepe ↔ Konak ↔ Pasaport / Alsancak ↔ Karşıyaka / Bostanlı)",
+        "sistema_id": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.0625,
+            38.4042
+          ],
+          [
+            27.1275,
+            38.4188
+          ],
+          [
+            27.1195,
+            38.4552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-aeg-l2",
+        "nome": "Corredor Transfronteiriço do Egeu (Ayvalık ↔ Lesbos & Çeşme ↔ Chios & Kuşadası ↔ Samos)",
+        "sistema_id": "izdeniz-izmir-korfez-konak-karsiyaka-bostanli-alsancak-goztepe-cesme-chios-kusadasi-samos-ayvalik-lesbos-turquia",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.6885,
+            39.3185
+          ],
+          [
+            26.3025,
+            38.3245
+          ],
+          [
+            27.2565,
+            37.8625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-nil-l1",
+        "nome": "Corredor de Travessias do Médio Nilo e Canal de Suez (El Qantara / Suez ↔ Beni Suef ↔ Minya ↔ Assiut)",
+        "sistema_id": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.3125,
+            30.8525
+          ],
+          [
+            30.7585,
+            28.1095
+          ],
+          [
+            31.1895,
+            27.1825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-nil-l2",
+        "nome": "Corredor de Travessias do Alto Nilo (Assiut / Sohag ↔ Qena / Dandara ↔ Luxor Corniche–West Bank)",
+        "sistema_id": "nile-river-ferries-upper-middle-egypt-qantara-suez-canal-luxor-west-bank-qena-sohag-assiut-minya-beni-suef-egito",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.1895,
+            27.1825
+          ],
+          [
+            32.7125,
+            26.1642
+          ],
+          [
+            32.6365,
+            25.6965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-irn-l1",
+        "nome": "Corredor Insular de Kish e Estreito de Ormuz (Bandar Aftab / Charak ↔ Ilha de Kish ↔ Bandar Lengeh / Abu Musa ↔ Bandar Abbas / Qeshm / Hormuz)",
+        "sistema_id": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0215,
+            26.5512
+          ],
+          [
+            54.2752,
+            26.7265
+          ],
+          [
+            54.8852,
+            26.5542
+          ],
+          [
+            56.2765,
+            27.1752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-irn-l2",
+        "nome": "Hidrovia Fluvial do Rio Karun & Arvand Rud (Khorramshahr ↔ Abadan ↔ Ilha de Minoo)",
+        "sistema_id": "bandar-lengeh-charak-aftab-kish-island-abu-musa-qeshm-hormuz-lark-khorramshahr-abadan-shatt-al-arab-ira",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.1885,
+            30.4285
+          ],
+          [
+            48.2825,
+            30.3352
+          ],
+          [
+            48.4525,
+            30.1225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-bls-l1",
+        "nome": "Corredor Médio Mar Negro Oeste–Leste (Constanța / Romênia ↔ Varna / Burgas / Bulgária ↔ Poti / Batumi / Geórgia)",
+        "sistema_id": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00b8d4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.6595,
+            44.1685
+          ],
+          [
+            27.9185,
+            43.1952
+          ],
+          [
+            41.6542,
+            42.1525
+          ],
+          [
+            41.6415,
+            41.6512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hidro-me59-bls-l2",
+        "nome": "Eixo Sul do Mar Negro e Cáucaso (Samsun / Trabzon / Turquia ↔ Batumi / Poti / Geórgia)",
+        "sistema_id": "black-sea-ro-pax-ferries-karasu-zonguldak-samsun-trabzon-batumi-poti-constanta-varna-mar-negro",
+        "tipo": "barco",
+        "status": "operacao",
+        "cor": "#00e5ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.3385,
+            41.2925
+          ],
+          [
+            39.7325,
+            41.0052
+          ],
+          [
+            41.6415,
+            41.6512
+          ]
+        ]
+      }
     }
   ]
 }
