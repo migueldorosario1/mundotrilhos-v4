@@ -1886,11 +1886,13 @@ const payloadClient = JSON.stringify({
 			sources: {
 				'osm-tiles': {
 					type: 'raster',
-					tiles: ['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],
+					tiles: [
+						'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',
+					],
 					tileSize: 256,
 					maxzoom: 19,
 					attribution:
-						'© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors (ODbL 1.0)',
+						'© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors · Tiles © Esri',
 				},
 				'linhas-source': {
 					type: 'geojson',
@@ -1918,10 +1920,10 @@ const payloadClient = JSON.stringify({
 					minzoom: 0,
 					maxzoom: 19,
 					paint: {
-						'raster-saturation': -0.92,
-						'raster-contrast': -0.08,
-						'raster-brightness-min': 0.12,
-						'raster-brightness-max': 0.96,
+						'raster-saturation': -0.45,
+						'raster-contrast': -0.05,
+						'raster-brightness-min': 0.1,
+						'raster-brightness-max': 0.98,
 					},
 				},
 				{
