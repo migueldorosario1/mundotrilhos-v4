@@ -955,7 +955,7 @@ const payloadClient = JSON.stringify({
 		<div class="mapa-canvas-wrap">
 			<div id="maplibre-canvas" class="maplibre-canvas" role="application" aria-label={t.heroTitle}></div>
 
-			<div class="mapa-legend" aria-label="Legenda do mapa por modalidade">
+			<div class="mapa-legend mapa-legend-clean" aria-label="Legenda do mapa por modalidade">
 				<div class="legend-row">
 					<button
 						type="button"
@@ -2932,18 +2932,20 @@ const payloadClient = JSON.stringify({
 		height: 620px;
 	}
 
+	.mapa-legend,
 	.mapa-legend.mapa-legend-clean {
 		position: absolute;
-		left: 12px;
-		bottom: 30px;
-		background: rgba(255, 255, 255, 0.92);
-		backdrop-filter: blur(8px);
-		padding: 0.35rem 0.55rem;
+		left: 14px;
+		bottom: 28px;
+		background: rgba(255, 255, 255, 0.95);
+		backdrop-filter: blur(10px);
+		padding: 0.42rem 0.65rem;
 		border-radius: 999px;
-		border: 1px solid rgba(15, 23, 42, 0.1);
-		font-size: 0.74rem;
-		max-width: calc(100% - 24px);
-		z-index: 5;
+		border: 1px solid rgba(15, 23, 42, 0.16);
+		box-shadow: 0 6px 20px rgba(15, 23, 42, 0.22);
+		font-size: 0.76rem;
+		max-width: calc(100% - 28px);
+		z-index: 20;
 	}
 
 	.legend-row {
